@@ -1,0 +1,1359 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2014-12-17T16:31:33Z</responseDate><request verb="ListRecords" metadataPrefix="oai_dc" set="VTP005">http://cdm16694.contentdm.oclc.org/oai/oai.php</request><ListRecords><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/0</identifier><datestamp>2012-05-16</datestamp><setSpec>VTP005</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/1</identifier><datestamp>2012-05-16</datestamp><setSpec>VTP005</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/2</identifier><datestamp>2012-05-16</datestamp><setSpec>VTP005</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/3</identifier><datestamp>2012-05-16</datestamp><setSpec>VTP005</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/4</identifier><datestamp>2012-05-16</datestamp><setSpec>VTP005</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/5</identifier><datestamp>2012-05-16</datestamp><setSpec>VTP005</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/6</identifier><datestamp>2012-05-16</datestamp><setSpec>VTP005</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/7</identifier><datestamp>2012-05-16</datestamp><setSpec>VTP005</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/8</identifier><datestamp>2012-05-16</datestamp><setSpec>VTP005</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/9</identifier><datestamp>2012-05-16</datestamp><setSpec>VTP005</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/10</identifier><datestamp>2012-05-16</datestamp><setSpec>VTP005</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/11</identifier><datestamp>2012-05-16</datestamp><setSpec>VTP005</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/12</identifier><datestamp>2012-05-16</datestamp><setSpec>VTP005</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/13</identifier><datestamp>2012-05-16</datestamp><setSpec>VTP005</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/14</identifier><datestamp>2012-05-16</datestamp><setSpec>VTP005</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/15</identifier><datestamp>2012-05-16</datestamp><setSpec>VTP005</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/16</identifier><datestamp>2012-05-16</datestamp><setSpec>VTP005</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/17</identifier><datestamp>2012-05-16</datestamp><setSpec>VTP005</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/18</identifier><datestamp>2012-05-16</datestamp><setSpec>VTP005</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/19</identifier><datestamp>2012-05-16</datestamp><setSpec>VTP005</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/20</identifier><datestamp>2012-05-16</datestamp><setSpec>VTP005</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/21</identifier><datestamp>2012-05-16</datestamp><setSpec>VTP005</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/22</identifier><datestamp>2012-05-16</datestamp><setSpec>VTP005</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/23</identifier><datestamp>2012-05-16</datestamp><setSpec>VTP005</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/24</identifier><datestamp>2012-05-16</datestamp><setSpec>VTP005</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/25</identifier><datestamp>2012-05-16</datestamp><setSpec>VTP005</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/26</identifier><datestamp>2012-05-16</datestamp><setSpec>VTP005</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/27</identifier><datestamp>2012-05-16</datestamp><setSpec>VTP005</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/28</identifier><datestamp>2012-05-16</datestamp><setSpec>VTP005</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/29</identifier><datestamp>2012-05-16</datestamp><setSpec>VTP005</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/30</identifier><datestamp>2012-05-16</datestamp><setSpec>VTP005</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/31</identifier><datestamp>2012-05-16</datestamp><setSpec>VTP005</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/32</identifier><datestamp>2012-05-16</datestamp><setSpec>VTP005</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/33</identifier><datestamp>2012-05-16</datestamp><setSpec>VTP005</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/66</identifier><datestamp>2012-02-15</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Ku Klux Klan membership directory</dc:title>
+<dc:description>Directory of Klan members in Buffalo and surrounding areas. Alternate title: Exposé of Traitors in the Interests of Jews, Catholics, Negroes and all respecters of the American Principle of Civil and Religious Freedom.</dc:description>
+<dc:subject>Ku Klux Klan (1915- ); New York (State)--Buffalo--History</dc:subject>
+<dc:subject>People; Government, Law &amp; Politics; Ethnic Groups; Philosophy &amp; Religion</dc:subject>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Buffalo (N.Y.)</dc:coverage>
+<dc:contributor>Father Nelson, Canisius College (Collector)</dc:contributor>
+<dc:date>1924-1925</dc:date>
+<dc:source>8.5 x 11.5 inches</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>kkk001</dc:identifier>
+<dc:relation>Buffalo Ku Klux Klan Membership List</dc:relation>
+<dc:rights>The Buffalo History Museum allows personal, educational, and other non-commercial uses of this content on the following terms: *You must cite the author and source of this content as you would material from any printed work. *You must also cite and link to, when possible, this site as the source of this content. *You may not digitally manipulate, misrepresent, or alter this content. *You may not remove any copyright, trademark, or other proprietary notices, including attribution information, credits, and notices, that are placed in or near the text or images. *You may not use this content for commercial purposes. This means that you may not sell this content or sell materials, products, or services that use and incorporate this content, nor may you use this content to promote or advertise products, services, or events. *If you wish to use this content for any purpose beyond the permitted uses, such as a publication or commercial use, you must obtain prior written permission from the Research Library at the Buffalo History Museum. Fees are involved.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/66</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/72</identifier><datestamp>2014-03-27</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Crystal Beach: best place to go any time</dc:title>
+<dc:description>Advertisement for Crystal Beach, listing departure times for steamers American and Canadiana.  Advertisement appeared in the Buffalo Courier Express, July 10, 1917.</dc:description>
+<dc:subject>Crystal Beach Amusement Park (Ont.)</dc:subject>
+<dc:coverage>Canada; Ontario; Fort Erie (Ont.)</dc:coverage>
+<dc:date>1917</dc:date>
+<dc:source>7.5 x 11 cm</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>cb.2006.01</dc:identifier>
+<dc:relation>Crystal Beach</dc:relation>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/72</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/73</identifier><datestamp>2014-10-02</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Flotsam and jetsam</dc:title>
+<dc:description>Photograph of beachgoers near the pier at Crystal Beach.</dc:description>
+<dc:subject>Crystal Beach Amusement Park (Ont.)</dc:subject>
+<dc:coverage>Canada; Ontario; Fort Erie (Ont.)</dc:coverage>
+<dc:date>1890-1900</dc:date>
+<dc:source>10.2 x 12.7 cm</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>cb.2006.05</dc:identifier>
+<dc:relation>Crystal Beach</dc:relation>
+<dc:coverage>42.8617</dc:coverage>
+<dc:coverage>-79.0634</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/73</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/74</identifier><datestamp>2014-10-02</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Crystal Beach Dock</dc:title>
+<dc:description>Dock at the foot of Main St. where passengers boarded boats for Crysal Beach.</dc:description>
+<dc:subject>Crystal Beach Amusement Park (Ont.); Main Street (Buffalo, N.Y.)</dc:subject>
+<dc:coverage>Canada; Ontario; Fort Erie (Ont.)</dc:coverage>
+<dc:date>1912</dc:date>
+<dc:source>20.7 x 25.5 cm</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>cb.2006.06</dc:identifier>
+<dc:relation>Crystal Beach</dc:relation>
+<dc:coverage>42.8753</dc:coverage>
+<dc:coverage>-78.8787</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/74</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/75</identifier><datestamp>2014-03-27</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Hermitage</dc:title>
+<dc:description>Photograph of the Hermitage at Crystal Beach</dc:description>
+<dc:subject>Crystal Beach Amusement Park (Ont.)</dc:subject>
+<dc:coverage>Canada; Ontario; Fort Erie (Ont.)</dc:coverage>
+<dc:date>1899</dc:date>
+<dc:source>20.6 x 25.5 cm</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>cb.2006.07</dc:identifier>
+<dc:relation>Crystal Beach</dc:relation>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/75</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/76</identifier><datestamp>2014-03-27</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Porch at the Hermitage</dc:title>
+<dc:description>Photograph of people sitting on the porch at the Hermitage at Crystal Beach</dc:description>
+<dc:subject>Crystal Beach Amusement Park (Ont.)</dc:subject>
+<dc:coverage>Canada; Ontario; Fort Erie (Ont.)</dc:coverage>
+<dc:source>20.7 x 25.5 cm</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>cb.2006.08</dc:identifier>
+<dc:relation>Crystal Beach</dc:relation>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/76</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/77</identifier><datestamp>2014-10-02</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Hotel Bon-Air</dc:title>
+<dc:description>Photograph of the exterior of the Hotel Bon-Air at Crystal Beach.</dc:description>
+<dc:subject>Crystal Beach Amusement Park (Ont.)</dc:subject>
+<dc:coverage>Canada; Ontario; Fort Erie (Ont.)</dc:coverage>
+<dc:date>1904</dc:date>
+<dc:source>12.1 x 17.2 cm</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>cb.2006.09</dc:identifier>
+<dc:relation>Crystal Beach</dc:relation>
+<dc:coverage>42.8632</dc:coverage>
+<dc:coverage>-79.0624</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/77</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/78</identifier><datestamp>2014-10-02</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Pearl</dc:title>
+<dc:description>Photograph of the Pearl, a ship that carried passengers to Crystal Beach</dc:description>
+<dc:subject>Crystal Beach Amusement Park (Ont.); Pearl (Ship)</dc:subject>
+<dc:coverage>Canada; Ontario; Fort Erie (Ont.)</dc:coverage>
+<dc:date>1894-1901</dc:date>
+<dc:source>20.7 x 25.4 cm</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>cb.2006.10</dc:identifier>
+<dc:relation>Crystal Beach</dc:relation>
+<dc:coverage>42.8753</dc:coverage>
+<dc:coverage>-78.8787</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/78</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/79</identifier><datestamp>2014-10-02</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Boardwalk on the Crystal Beach Pier</dc:title>
+<dc:description>Photograph of people on the boarkwalk at the Crystal Beach Pier</dc:description>
+<dc:subject>Crystal Beach Amusement Park (Ont.)</dc:subject>
+<dc:coverage>Canada; Ontario; Fort Erie (Ont.)</dc:coverage>
+<dc:contributor>Nagle, Roy W. (Collector)</dc:contributor>
+<dc:date>1899</dc:date>
+<dc:source>8.9 x 12 cm</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>cb.2006.11</dc:identifier>
+<dc:relation>Crystal Beach</dc:relation>
+<dc:coverage>42.8615</dc:coverage>
+<dc:coverage>-79.0634</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/79</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/80</identifier><datestamp>2014-10-02</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Crowd on the Crystal Beach Pier</dc:title>
+<dc:description>Photograph of a crowd of people on the Crystal Beach Pier</dc:description>
+<dc:subject>Crystal Beach Amusement Park (Ont.)</dc:subject>
+<dc:coverage>Canada; Ontario; Fort Erie (Ont.)</dc:coverage>
+<dc:contributor>Nagle, Roy W. (Collector)</dc:contributor>
+<dc:source>14.5 x 16 cm</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>cb.2006.12</dc:identifier>
+<dc:relation>Crystal Beach</dc:relation>
+<dc:coverage>42.8607</dc:coverage>
+<dc:coverage>-79.0638</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/80</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/81</identifier><datestamp>2014-10-02</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Crowd below the Crystal Beach Pier</dc:title>
+<dc:description>Photograph of a crowd of people below the Crystal Beach Pier</dc:description>
+<dc:subject>Crystal Beach Amusement Park (Ont.)</dc:subject>
+<dc:coverage>Canada; Ontario; Fort Erie (Ont.)</dc:coverage>
+<dc:date>1896</dc:date>
+<dc:source>10.6 x 13.2 cm</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>cb.2006.13</dc:identifier>
+<dc:relation>Crystal Beach</dc:relation>
+<dc:coverage>42.8617</dc:coverage>
+<dc:coverage>-79.0635</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/81</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/82</identifier><datestamp>2014-10-02</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Crystal Beach Pier, near the beach</dc:title>
+<dc:description>Photograph of the Crystal Beach Pier, near the beach</dc:description>
+<dc:subject>Crystal Beach Amusement Park (Ont.)</dc:subject>
+<dc:coverage>Canada; Ontario; Fort Erie (Ont.)</dc:coverage>
+<dc:date>1896</dc:date>
+<dc:source>20.6 x 25.4 cm</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>cb.2006.14</dc:identifier>
+<dc:relation>Crystal Beach</dc:relation>
+<dc:coverage>42.8617</dc:coverage>
+<dc:coverage>-79.0636</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/82</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/83</identifier><datestamp>2014-10-02</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Steps and pathway</dc:title>
+<dc:description>Photograph of the steps and pathway leading up the hill at Crystal Beach</dc:description>
+<dc:subject>Crystal Beach Amusement Park (Ont.)</dc:subject>
+<dc:coverage>Canada; Ontario; Fort Erie (Ont.)</dc:coverage>
+<dc:source>13.8 x 20.3 cm</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>cb.2006.15</dc:identifier>
+<dc:relation>Crystal Beach</dc:relation>
+<dc:coverage>42.8624</dc:coverage>
+<dc:coverage> -79.0632</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/83</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/84</identifier><datestamp>2014-10-02</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Swimmers at the beach</dc:title>
+<dc:description>Photograph of swimmers at Crystal Beach</dc:description>
+<dc:subject>Crystal Beach Amusement Park (Ont.)</dc:subject>
+<dc:coverage>Canada; Ontario; Fort Erie (Ont.)</dc:coverage>
+<dc:source>17.8 x 28.3 cm</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>cb.2006.16</dc:identifier>
+<dc:relation>Crystal Beach</dc:relation>
+<dc:coverage>42.8616</dc:coverage>
+<dc:coverage> -79.0637</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/84</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/85</identifier><datestamp>2014-10-02</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Swing at the beach</dc:title>
+<dc:description>Photograph of passengers riding the swing extending over the shore line at Crystal Beach</dc:description>
+<dc:subject>Crystal Beach Amusement Park (Ont.)</dc:subject>
+<dc:coverage>Canada; Ontario; Fort Erie (Ont.)</dc:coverage>
+<dc:date>1896</dc:date>
+<dc:source>11.7 x 13.2 cm</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>cb.2006.17</dc:identifier>
+<dc:relation>Crystal Beach</dc:relation>
+<dc:coverage>42.8615</dc:coverage>
+<dc:coverage>-79.0630</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/85</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/86</identifier><datestamp>2014-10-02</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Elm Vocational School excursion ticket</dc:title>
+<dc:description>Elm Vocational School ticket to an excursion at Crystal Beach, 22 June 1926</dc:description>
+<dc:subject>Crystal Beach Amusement Park (Ont.); Elm Vocational School (Buffalo, N.Y.)</dc:subject>
+<dc:coverage>Canada; Ontario; Fort Erie (Ont.)</dc:coverage>
+<dc:date>1926</dc:date>
+<dc:source>5.4 x 10.1 cm</dc:source>
+<dc:type>Text</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>cb.2006.18</dc:identifier>
+<dc:relation>Crystal Beach</dc:relation>
+<dc:coverage>42.8847</dc:coverage>
+<dc:coverage>-78.8695</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/86</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/87</identifier><datestamp>2014-03-27</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Star-Cole Line Steamer ticket</dc:title>
+<dc:description>Ticket from Crystal Beach to Buffalo for the Star-Cole Line steamers.  Valid for the season of 1903 only.</dc:description>
+<dc:subject>Crystal Beach Amusement Park (Ont.)</dc:subject>
+<dc:coverage>Canada; Ontario; Fort Erie (Ont.)</dc:coverage>
+<dc:contributor>Fleischman, B. (Collector)</dc:contributor>
+<dc:date>1903</dc:date>
+<dc:source>3 x 5.3 cm</dc:source>
+<dc:type>Text</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>cb.2006.19</dc:identifier>
+<dc:relation>Crystal Beach</dc:relation>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/87</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/88</identifier><datestamp>2014-10-02</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Crystal Beach time table</dc:title>
+<dc:description>Time table for the steamer Puritan, which carried passengers from the Buffalo dock at the foot of Main St. to Crystal Beach, and back again.</dc:description>
+<dc:subject>Crystal Beach Amusement Park (Ont.); Puritan (Ship)</dc:subject>
+<dc:coverage>Canada; Ontario; Fort Erie (Ont.)</dc:coverage>
+<dc:date>1899</dc:date>
+<dc:source>11.5 x 6.3 cm</dc:source>
+<dc:type>Text</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>cb.2006.20</dc:identifier>
+<dc:relation>Crystal Beach</dc:relation>
+<dc:coverage>42.8857</dc:coverage>
+<dc:coverage>-78.8766</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/88</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/89</identifier><datestamp>2014-10-02</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Americana</dc:title>
+<dc:description>Photograph of the Americana, the boat that carried passengers from the port of Buffalo to Crystal Beach.</dc:description>
+<dc:subject>Americana (Ship); Crystal Beach Amusement Park (Ont.)</dc:subject>
+<dc:coverage>Canada; Ontario; Fort Erie (Ont.)</dc:coverage>
+<dc:date>1910</dc:date>
+<dc:source>8.7 x 11.3 cm</dc:source>
+<dc:type>Image</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>cb.2006.02</dc:identifier>
+<dc:relation>Crystal Beach</dc:relation>
+<dc:coverage>42.8753</dc:coverage>
+<dc:coverage>-78.8787</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/89</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/90</identifier><datestamp>2014-10-02</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Crowd on the midway</dc:title>
+<dc:description>Postcard showing a crowd of people walking along the midway at Crystal Beach.</dc:description>
+<dc:subject>Crystal Beach Amusement Park (Ont.)</dc:subject>
+<dc:coverage>Canada; Ontario; Fort Erie (Ont.)</dc:coverage>
+<dc:contributor>Nagle, Roy W. (Collector)</dc:contributor>
+<dc:date>1909</dc:date>
+<dc:source>8.8 x 13.8 cm</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>cb.2006.03</dc:identifier>
+<dc:relation>Crystal Beach</dc:relation>
+<dc:coverage>42.8624</dc:coverage>
+<dc:coverage>-79.0628</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/90</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/91</identifier><datestamp>2014-10-02</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Dodgem</dc:title>
+<dc:description>Photograph of the Dodgem booth on the midway at Crystal Beach</dc:description>
+<dc:subject>Crystal Beach Amusement Park (Ont.)</dc:subject>
+<dc:coverage>Canada; Ontario; Fort Erie (Ont.)</dc:coverage>
+<dc:date>1910</dc:date>
+<dc:source>20.4 x 25.4 cm</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>cb.2006.04</dc:identifier>
+<dc:relation>Crystal Beach</dc:relation>
+<dc:coverage>42.8621</dc:coverage>
+<dc:coverage>-79.0629</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/91</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/134</identifier><datestamp>2014-03-27</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Black Rock, in July 1813</dc:title>
+<dc:description>Map of Black Rock in 1813, drawn by Peter A. Porter.  Map shows locations of troops and barracks along the Niagara River at Black Rock.  Map includes a key listing sites numbered 1 through 16; an additional sheet contains the remainder of the key, with sites numbered 17 through 22.</dc:description>
+<dc:creator>Porter family</dc:creator>
+<dc:subject>United States--History--War of 1812; Black Rock (Buffalo, N.Y.)--History; Maps</dc:subject>
+<dc:source>21.5 x 31.5 cm; 10.6 x 13.9 cm</dc:source>
+<dc:type>Image</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>w1812.2006.14</dc:identifier>
+<dc:relation>War of 1812</dc:relation>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/134</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/135</identifier><datestamp>2014-03-27</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>James Aigin</dc:title>
+<dc:description>Photograph of James Aigin, taken circa 1881.  The back of the photograph indicates that it was produced by Bodurtha&#x27;s, Sandusky Street, Delaware (Ohio).</dc:description>
+<dc:subject>Buffalo (N.Y.)--History; Aigin, James, 1801-1884</dc:subject>
+<dc:date>1884</dc:date>
+<dc:source>10.6 x 6.2 cm</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>w1812.2006.01</dc:identifier>
+<dc:relation>War of 1812</dc:relation>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/135</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/136</identifier><datestamp>2014-03-27</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Buffalo Gazette, Extra...July 28, 1814</dc:title>
+<dc:description>Newspaper article from the Buffalo Gazette, July 28, 1814.  The article discusses the battle at Bridgewater, near Niagara Falls, Ontario, Canada.</dc:description>
+<dc:subject>United States--History--War of 1812; Canada--History--War of 1812</dc:subject>
+<dc:date>1814</dc:date>
+<dc:source>41.5 x 17.7 cm</dc:source>
+<dc:type>Text</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>w1812.2006.02</dc:identifier>
+<dc:relation>War of 1812</dc:relation>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/136</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/138</identifier><datestamp>2014-03-27</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Martha St. John Skinner</dc:title>
+<dc:description>Photograph of a painting of Martha St. John Skinner.  This photograph was published in volume IX of the Buffalo Historical Society Publications, erroneously labeled &quot;Margaret St. John.&quot;</dc:description>
+<dc:creator>Nagle, Roy W.</dc:creator>
+<dc:subject>Buffalo (N.Y.)--History--War of 1812; Skinner, Martha St. John</dc:subject>
+<dc:source>27.2 x 22.2 cm</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>w1812.2006.04</dc:identifier>
+<dc:relation>War of 1812</dc:relation>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/138</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/139</identifier><datestamp>2014-03-27</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>The Niagara Frontier</dc:title>
+<dc:description>Map of the Niagara Frontier at the time of the War of 1812.  Map is labeled with names and dates of forts, battles, and batteries of troops.</dc:description>
+<dc:creator>Porter family</dc:creator>
+<dc:subject>Canada--History--War of 1812; United States--History--War of 1812</dc:subject>
+<dc:date>1913</dc:date>
+<dc:source>46 x 24.2 cm</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>w1812.2006.05</dc:identifier>
+<dc:relation>War of 1812</dc:relation>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/139</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/140</identifier><datestamp>2014-03-27</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Buffalo Pioneers</dc:title>
+<dc:description>Group of men and women at the Old Settlers Festival held in Buffalo, NY in 1873.  Pictured in the front row, left to right: Mrs. Esther P. Fox; Mrs. Mary Harris; Mrs. Aurelia Bemis; Mrs. Daniel Bristol; Mr. Daniel Bristol; Mrs. R. B. Heacock; Mrs. Cyrene Kibbe; Mrs. Lester Brace; and Mrs. H. A. Salisbury.  Pictured in the back row, left to right:  Mr. Benjamin Hodge; Mrs. Parnell Sidway; General Asa Warren; Mrs. John Marshall; Mr. George Coit, Mrs. Ebenezer Walden; and Mr. Lester Brace.</dc:description>
+<dc:subject>Old Settlers Festival (1864: Buffalo, N.Y.); Niagara Frontier (N.Y.)--History--War of 1812; Festivals--New York (State)--Buffalo (N.Y.)</dc:subject>
+<dc:date>1873</dc:date>
+<dc:source>20.6 x 25.4 cm</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>w1812.2006.06</dc:identifier>
+<dc:relation>War of 1812</dc:relation>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/140</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/141</identifier><datestamp>2014-03-27</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>View of Fort George, upper Canada, from old Fort Niagara, A</dc:title>
+<dc:description>Color print showing Fort George, as seen from Fort Niagara (Canada) in 1813.  Upper caption reads, &quot;Publish&#x27;d Oct.r 1 1813, at R. Ackermann&#x27;s, 101 Strand.&quot;</dc:description>
+<dc:creator>Porter family</dc:creator>
+<dc:subject>United States--History--War of 1812; Canada--History--War of 1812</dc:subject>
+<dc:date>1813</dc:date>
+<dc:source>14.7 x 23.9 cm</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>w1812.2006.07</dc:identifier>
+<dc:relation>War of 1812</dc:relation>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/141</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/142</identifier><datestamp>2014-03-27</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Fort Erie</dc:title>
+<dc:description>Map of Fort Erie and the surrounding area, drawn by Peter A. Porter.  Map shows locations of batteries in relation to Fort Erie.</dc:description>
+<dc:creator>Porter family</dc:creator>
+<dc:subject>Fort Erie (Ont.)--History; United States--History--War of 1812; Canada--History--War of 1812</dc:subject>
+<dc:source>21.3 x 18.4 cm</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>w1812.2006.08</dc:identifier>
+<dc:relation>War of 1812</dc:relation>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/142</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/143</identifier><datestamp>2014-03-27</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Indian Council</dc:title>
+<dc:description>Black and white print, with the following handwritten description: &quot;Indian Council, held &#x27;Back in the Bush&quot;-that was East of Buffalo, down towards the Genesee River.  at this Council was adopted the first known formal and announced Declaration of War by Indians.  It was against Canada &amp; weakened Yecumsah&#x27;s already waning influence.  It was held in July 1813--after the defeat of the British in the Battle of Buffalo.&quot;</dc:description>
+<dc:creator>Porter family</dc:creator>
+<dc:subject>Buffalo (N.Y.)--History--War of 1812; United States--History--War of 1812; Canada--History--War of 1812</dc:subject>
+<dc:source>24.2 x 20 cm</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>w1812.2006.09</dc:identifier>
+<dc:relation>War of 1812</dc:relation>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/143</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/144</identifier><datestamp>2014-03-27</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Lake Erie</dc:title>
+<dc:description>Reproduction of a drawing of Fort Erie and the surrounding area, showing different sections of the fort to scale.</dc:description>
+<dc:creator>Porter family</dc:creator>
+<dc:subject>United States--History--War of 1812; Canada--History--War of 1812; Fort Erie (Ont.)</dc:subject>
+<dc:source>20.3 x 33.7 cm</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>w1812.2006.10</dc:identifier>
+<dc:relation>War of 1812</dc:relation>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/144</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/145</identifier><datestamp>2014-03-27</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Lake Ontario</dc:title>
+<dc:description>Map of Lake Ontario and the Niagara River drawn by Peter A. Porter.  Map shows locations of Fort George and Fort Niagara, including locations of British and American batteries along the river.</dc:description>
+<dc:creator>Porter family</dc:creator>
+<dc:subject>Canada--History--War of 1812; United States--History--War of 1812; Fort George (Niagara-on-the-Lake, Ont.); Old Fort Niagara (N.Y.)</dc:subject>
+<dc:source>21.6 x 16.5 cm</dc:source>
+<dc:type>Image</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>w1812.2006.11</dc:identifier>
+<dc:relation>War of 1812</dc:relation>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/145</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/146</identifier><datestamp>2014-03-27</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>For the relief of the sufferers on the Niagara Frontier</dc:title>
+<dc:description>Page one of a letter, written by by the Committee of safety and relief, Canandaigua, N.Y., requesting donations to aid the suffering of those citizens in Niagara and Genesee counties displaced by the War of 1812.  The letter is dated January 17, 1814.  Attached to the letter is a long list of subscriptions given, with a dollar amount next to each name signed.  Only the first few signatures are included in this digital representation (approximately 34 cm of length of the original document).</dc:description>
+<dc:subject>Niagara Frontier (N.Y.)--History; United States--History--War of 1812; Committee of Safety and Relief at Canandaigua (N.Y.)</dc:subject>
+<dc:date>1814</dc:date>
+<dc:source>255 x 12.5 cm</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>w1812.2006.12</dc:identifier>
+<dc:relation>War of 1812</dc:relation>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/146</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/147</identifier><datestamp>2014-03-27</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Plat of Buffalo Village as it is at this date April 1813</dc:title>
+<dc:description>Map of the Village of Buffalo, as drawn by Juba Storrs in 1813.  Explanatory text on the lower left of the map reads: &quot;&#x27;Plat of Buffalo Village as it is at this date April 1813.&#x27; Juba Storrs del 1813.  Alex J. Sheldon Publisher 1871.  This is an exact copy of the inner lots from the original by Juba Storrs Merchant: and on the back was the line above quoted, the unnamed buildings are mostly barns &amp; sheds.&quot;</dc:description>
+<dc:creator>Newman, W.H.H.</dc:creator>
+<dc:subject>Buffalo (N.Y.)--History; Storrs, Juba, b. 1792; Sheldon, Alex J.; Maps</dc:subject>
+<dc:date>1871</dc:date>
+<dc:source>23.6 x 36.5 cm</dc:source>
+<dc:type>Image</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>w1812.2006.13</dc:identifier>
+<dc:relation>War of 1812</dc:relation>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/147</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/244</identifier><datestamp>2014-03-27</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Reminiscence of early Buffalo</dc:title>
+<dc:description>Reminiscence, written by James Aigin, discussing the events of the Battle of Buffalo (1813), which took place during the War of 1812.  Aigin was 11 or 12 years old at the time of the battle.</dc:description>
+<dc:subject>Buffalo (N.Y.)--History--War of 1812; United States--History--War of 1812; Aigin, James, 1801-1884</dc:subject>
+<dc:source>31.6 x 19.5</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>w1812.2006.15</dc:identifier>
+<dc:relation>War of 1812</dc:relation>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/244</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/251</identifier><datestamp>2014-03-27</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Letter to Daniel Dobbins</dc:title>
+<dc:description>Letter, from Thomas Wilson, to Daniel Dobbins, February 3, 1814.  Letter discusses the British and Indian forces at Fort George and provisions made for clothing and acerage for soldiers in the US service.</dc:description>
+<dc:creator>David Porter Dobbins estate</dc:creator>
+<dc:subject>Dobbins, Daniel, 1776-1856; United States--History--War of 1812; Wilson, Thomas</dc:subject>
+<dc:date>1814</dc:date>
+<dc:source>19.7 x 25 cm</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>w1812.2006.16</dc:identifier>
+<dc:relation>War of 1812</dc:relation>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/251</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/254</identifier><datestamp>2014-03-27</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Letter to Joseph Ellicott, 6 Sept. 1812</dc:title>
+<dc:description>Letter to Joseph Ellicot, 6 Sept. 1812, from Louis LeCouteulx, requesting that Ellicott keep safe a trunk filled with books on the history of the county.  LeCouteulx expected the British to attack at any time.</dc:description>
+<dc:creator>Unknown</dc:creator>
+<dc:subject>Ellicott, Joseph, 1760-1826; Le Couteulx de Caumont, Louis Étienne, 1756-1840; Niagara Frontier (N.Y.)--History--War of 1812; United States--History--War of 1812</dc:subject>
+<dc:date>1812</dc:date>
+<dc:source>24 x 18 cm.</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>w1812.2006.17</dc:identifier>
+<dc:relation>War of 1812</dc:relation>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/254</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/257</identifier><datestamp>2014-03-27</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Letter to the Committee of Canandaigua</dc:title>
+<dc:description>Letter to the Committee of Canadaigua, 13 March 1814, from Ezra St. John, requesting funds, as his family had suffered greatly when the British burned the city of Lewiston, N.Y.</dc:description>
+<dc:creator>Unknown</dc:creator>
+<dc:subject>Committee of Safety and Relief at Canandaigua (N.Y.); Niagara Frontier (N.Y.)--History--War of 1812; St. John, Ezra</dc:subject>
+<dc:date>1814</dc:date>
+<dc:source>24.5 x 20 cm</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>w1812.2006.18</dc:identifier>
+<dc:relation>War of 1812</dc:relation>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/257</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/264</identifier><datestamp>2014-03-27</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>James Clark reminiscence, 23 Feb. 1864</dc:title>
+<dc:description>Reminiscence written by James Clark for the Old Setters Festival held in Buffalo, N.Y. in 1864.  Clark discusses his service in the War of 1812 and the burning of Buffalo by the British in 1813.</dc:description>
+<dc:creator>Unknown</dc:creator>
+<dc:subject>Clark, James, 1794-1879; Old Settlers Festival (1864: Buffalo, N.Y.); Niagara Frontier (N.Y.)--History--War of 1812; United States--History--War of 1812</dc:subject>
+<dc:date>1864</dc:date>
+<dc:source>24.5 x 20 cm</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>w1812.2006.19</dc:identifier>
+<dc:relation>War of 1812</dc:relation>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/264</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/269</identifier><datestamp>2014-03-27</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Inventory of Mrs. Mary Atkins property destroyed by the British Dec. 30 1813</dc:title>
+<dc:description>List of property belonging to Mrs. Mary Atkins that was destroyed by the British on 30 Dec. 1813.  List includes a dollar value for each item.</dc:description>
+<dc:creator>Unknown</dc:creator>
+<dc:subject>Atkins, Mary; Niagara Frontier (N.Y.)--History--War of 1812; United States--History--War of 1812</dc:subject>
+<dc:date>1814</dc:date>
+<dc:source>32 x 19.5 cm</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>w1812.2006.20</dc:identifier>
+<dc:relation>War of 1812</dc:relation>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/269</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/274</identifier><datestamp>2014-03-27</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>List of Sufferers on the Niagara Frontier from Fort Niagara to the Tonewanta Creek and from Lewiston on the Ridge Road to the widow Forsythe&#x27;s</dc:title>
+<dc:description>List of persons and families on the Niagara Frontier that suffered destruction of life or property during the War of 1812.</dc:description>
+<dc:creator>Unknown</dc:creator>
+<dc:subject>Niagara Frontier (N.Y.)--History--War of 1812; United States--History--War of 1812</dc:subject>
+<dc:date>1814</dc:date>
+<dc:source>32.5 x 20.2 cm</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>w1812.2006.21</dc:identifier>
+<dc:relation>War of 1812</dc:relation>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/274</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/277</identifier><datestamp>2014-03-27</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>To the Committee of Safety and Relief at Canandaigua</dc:title>
+<dc:description>Letter from Smith H. Salisbury, 30 Jan. 1814, to the Committee of Safety and Relief at Canadaigua.  Salisbury asks the committee for support and relief of Mrs. Anna Buxton, whose husband was either killed in the war or taken prisoner, and whose house and belongings were burnt by the British.</dc:description>
+<dc:creator>Unknown</dc:creator>
+<dc:subject>Buxton, Anna; Salisbury, Smith Hamilton, 1786-1832; Niagara Frontier (N.Y.)--History--War of 1812; United States--History--War of 1812</dc:subject>
+<dc:date>1814</dc:date>
+<dc:source>25 x 20 cm</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>w1812.2006.21</dc:identifier>
+<dc:relation>War of 1812</dc:relation>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/277</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/335</identifier><datestamp>2014-03-27</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Reminiscence of the burning of Buffalo</dc:title>
+<dc:description>Reminiscence, by Martha St. John Skinner, of the burning of Buffalo by the British during the War of 1812.  Skinner describes how her family fled Buffalo when the British began to burn the city, including an account of the murder of her neighbor</dc:description>
+<dc:creator>Unknown</dc:creator>
+<dc:subject>Niagara Frontier (N.Y.)--History--War of 1812; Skinner, Martha St. John; United States--History--War of 1812</dc:subject>
+<dc:date>1870</dc:date>
+<dc:source>17.7 x 11.5 cm</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>w1812.2006.23</dc:identifier>
+<dc:relation>War of 1812</dc:relation>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/335</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/336</identifier><datestamp>2014-03-27</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>View on Main Street from below the junction of Main &amp; Seneca Streets</dc:title>
+<dc:description>Sketch, by Le Grand St. John, of the remains of homes in Buffalo that were burned by the British; only the chimneys remained.  Text under sketch: &quot;View on Main Street from below the junction of Main &amp; Seneca Streets, of remains of Buffalo, soon after the conflagration; &amp; of members (6 children) of the St. John family returning to the house unburned by the British troops, whom Mr. AS. Bemis had taken with his family&quot;</dc:description>
+<dc:creator>Kimmel, Gabrielle Stevens; Stevens, Stefanie I.</dc:creator>
+<dc:subject>Drawings and graphics; Niagara Frontier (N.Y.)--History--War of 1812; Sketches; St. John, LeGrand C.; United States--History--War of 1812</dc:subject>
+<dc:source>20 x 26.5 cm</dc:source>
+<dc:type>Image</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>w1812.2006.24</dc:identifier>
+<dc:relation>War of 1812</dc:relation>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/336</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/337</identifier><datestamp>2014-03-27</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>View of Citizens of Buffalo entering upon the Lake Shore road, Dec. 30th, A.D. 1813</dc:title>
+<dc:description>Sketch, by LeGrand St. John, of Buffalo citizens landing at Lake Shore road, after crossing Buffalo Creek by ferry.  Text under sketch: &quot;Veiw of Citizens of Buffalo entering upon the Lake Shore road, Dec. 30th, A.D. 1813, having crossed Buffalo creek at Pratt&#x27;s Ferry.&quot;</dc:description>
+<dc:creator>Kimmel, Gabrielle Stevens; Stevens, Stefanie I.</dc:creator>
+<dc:subject>Drawings and graphics; Niagara Frontier (N.Y.)--History--War of 1812; Sketches; St. John, LeGrand C.; United States--History--War of 1812</dc:subject>
+<dc:source>20.2 x 28.2 cm</dc:source>
+<dc:type>Image</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>w1812.2006.25</dc:identifier>
+<dc:relation>War of 1812</dc:relation>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/337</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/338</identifier><datestamp>2014-03-27</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Bird&#x27;s eye view at the junction of Main &amp; Tupper Streets</dc:title>
+<dc:description>Sketch, by LeGrand St. John, of Buffalo citizens fleeing down Main St. as the British army approached.  Text above sketch: &quot;Bird&#x27;s eye view at the junction of Main &amp; Tupper Streets of citizens of Buffalo &amp; volunteers fleeing Dec 30th 1813.  Upon the approach of the British army, they attempted to flee via Main Street, but beholding Canadian indians in their route, turned &amp; fled by way of a Lake Shore road.&quot;</dc:description>
+<dc:creator>Kimmel, Gabrielle Stevens; Stevens, Stefanie I.</dc:creator>
+<dc:subject>Drawings and graphics; Niagara Frontier (N.Y.)--History--War of 1812; Sketches; St. John, LeGrand C.; United States--History--War of 1812</dc:subject>
+<dc:source>20 x 28 cm</dc:source>
+<dc:type>Image</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>w1812.2006.26</dc:identifier>
+<dc:relation>War of 1812</dc:relation>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/338</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/599</identifier><datestamp>2014-10-02</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Live Stock Exchange, Buffalo, N.Y.</dc:title>
+<dc:description>Livestock Exchange at 1167 William Street. Partly visible is a bridge that extended out from the building across William to nearby stockyards. Built in 1892 and designed by Louise Bethune, the building was the home of the East Buffalo Live Stock Exchange Company which bought and sold millions of animals on commission during a time when Buffalo was a leading livestock center. The building was demolished in the 1960s.</dc:description>
+<dc:subject>Buffalo (N.Y.)--Buildings, structures, etc.</dc:subject>
+<dc:publisher>Buffalo: David Ellis</dc:publisher>
+<dc:date>1910?</dc:date>
+<dc:source>13.6 x 8.7 cm</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>pc.2009.001</dc:identifier>
+<dc:relation>Buffalo Postcards</dc:relation>
+<dc:rights>Digital image copyright 2009 by Buffalo History Museum.  Images in this collection are not to be used for any commercial purpose without the expressed written permission of the Buffalo History Museum Research Library.  Users of this Web site are free to utilize material from this collection for non-commercial and educational purposes.</dc:rights>
+<dc:coverage>42.8842</dc:coverage>
+<dc:coverage>-78.8282</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/599</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/600</identifier><datestamp>2014-10-02</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>New York Central Depot, Exchange Street, Buffalo, N.Y.</dc:title>
+<dc:description>View of railroad station looking west toward Washington Street, with vehicles parked on street.</dc:description>
+<dc:subject>Buffalo (N.Y.)--Buildings, structures, etc.; Railroad terminals--New York (State)--Buffalo (N.Y.); Railroad stations--New York (State)--Buffalo (N.Y.)</dc:subject>
+<dc:date>1910-1916</dc:date>
+<dc:source>13.6 x 8.8 cm</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>pc.2009.002</dc:identifier>
+<dc:relation>Buffalo Postcards</dc:relation>
+<dc:rights>Digital image copyright 2009 by Buffalo History Museum.  Images in this collection are not to be used for any commercial purpose without the expressed written permission of the Buffalo History Museum Research Library.  Users of this Web site are free to utilize material from this collection for non-commercial and educational purposes.</dc:rights>
+<dc:coverage>42.8790</dc:coverage>
+<dc:coverage>-78.8756</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/600</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/601</identifier><datestamp>2014-10-02</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>D.S. Morgan Building, Law Exchange Building, City and County Hall, Buffalo, N.Y.</dc:title>
+<dc:description>Block bounded by Pearl (left), Niagara, Eagle and Franklin Streets. The D.S. Morgan office building, on the southwest corner of Pearl and Niagara, was designed by Green and Wicks and erected in 1894 by the family of Dayton S. Morgan of Brockport, NY.. Until 1917, it had a popular observation tower on the roof, where one could get a view of the city for 10 cents.The Law Exchange was erected in 1887 by Henry Zink and Albert Hatch. Old County Hall on Franklin Street is visible on the far right.  Verso: Logo of Mezzochrome, N.Y., Leipzig, Berlin, Dresden.  Code: D10690.  Typewritten text: &quot;We invite you to call and see our compete line of Ladies&#x27; and Gents&#x27; Spring Clothing.  Baldwin Special....(illegible), 109 East Genesee St..&quot;  Addressed to: Mrs. Leon Waring or 128 Congress St., City</dc:description>
+<dc:subject>Buffalo (N.Y.)--Buildings, structures, etc.; Law Exchange Building (Buffalo, N.Y.); D.S. Morgan Building (Buffalo, N.Y.)</dc:subject>
+<dc:publisher>Buffalo News Company</dc:publisher>
+<dc:date>1910?</dc:date>
+<dc:source>13.9 x 8.9 cm</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>pc.2009.004</dc:identifier>
+<dc:relation>Buffalo Postcards</dc:relation>
+<dc:rights>Digital image copyright 2009 by Buffalo History Museum.  Images in this collection are not to be used for any commercial purpose without the expressed written permission of the Buffalo History Museum Research Library.  Users of this Web site are free to utilize material from this collection for non-commercial and educational purposes.</dc:rights>
+<dc:coverage>42.8848396</dc:coverage>
+<dc:coverage>-78.876998</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/601</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/604</identifier><datestamp>2014-10-02</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Hats at Kleinhans Company</dc:title>
+<dc:description>Men&#x27;s hats in display cases at Kleinhans Co., an apparel store for men and boys located in the Brisbane Building at Main and Court Streets. Borsalino and Stetson signs visible. Kleinhans Co. was in business from 1893-1992. Caption: &quot;Partial View of Kleinhans Street Floor Hat Department.&quot; Verso contains advertising message: &quot;Do your Easter Parading in high style, in a new Spring hat from Kleinhans! We have moisture-repellent Mallory hats, $7.50 and $10 to $20...&quot;</dc:description>
+<dc:subject>Kleinhans Company (Buffalo, N.Y.); Hats</dc:subject>
+<dc:date>1950?</dc:date>
+<dc:source>14 X 8.8 cm</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>pc.2009.006</dc:identifier>
+<dc:relation>Buffalo Postcards</dc:relation>
+<dc:rights>Digital image copyright 2009 by Buffalo History Museum.  Images in this collection are not to be used for any commercial purpose without the expressed written permission of the Buffalo History Museum Research Library.  Users of this Web site are free to utilize material from this collection for non-commercial and educational purposes.</dc:rights>
+<dc:coverage>42.8851</dc:coverage>
+<dc:coverage>-78.8742</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/604</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/607</identifier><datestamp>2014-10-02</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Larkin Factories</dc:title>
+<dc:description>Includes an identification key listing Administration Building, factories, power house, and an inset of the original 1875 Larkin factory. Signs atop roofs, trains, trolley and Seneca Street also visible. Larkin Co. manufactured soaps, toiletries and household products and operated a premium-based mail-order business. The Administration Building was designed by Frank Lloyd Wright, erected in 1906 and razed in 1950. Caption: &quot;The Larkin Factories, Buffalo, N.Y.: Over fifty Acres of Floor Space...&quot; Verso contains correspondence: &quot;Dear Mary- Am just leave-ing an order here so I thought you might like this card. E.M.P.&quot; Addressed to:  Miss Mary Frost, North Collins, N.Y.; postmarked 1908 (month not visible).</dc:description>
+<dc:subject>Buffalo (N.Y.)--Buildings, structures, etc.; Larkin Company (Buffalo, N.Y.)</dc:subject>
+<dc:publisher>Buffalo Post Card Co.</dc:publisher>
+<dc:date>1907?</dc:date>
+<dc:source>13.6 x 8.6 cm</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>pc.2009.009</dc:identifier>
+<dc:relation>Buffalo Postcards</dc:relation>
+<dc:rights>Digital image copyright 2009 by Buffalo History Museum.  Images in this collection are not to be used for any commercial purpose without the expressed written permission of the Buffalo History Museum Research Library.  Users of this Web site are free to utilize material from this collection for non-commercial and educational purposes.</dc:rights>
+<dc:coverage>42.8755407</dc:coverage>
+<dc:coverage>-78.847298</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/607</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/610</identifier><datestamp>2014-10-02</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Lily Pond, Delaware Park</dc:title>
+<dc:description>This fountain made of rocks was erected in 1905 in a pond that was located on the north side of the meadow in Delaware Park, near Nottingham Terrace. The pond has since been filled in. Park visitors are visible in the background. Delaware Park was the centerpiece of a system of parks and parkways designed for Buffalo by Frederick Law Olmsted in 1868. Caption on lower right of card: &quot;Lily Pond, Delaware Park, Buffalo, N.Y.&quot; Correspondence on verso: &quot;Little Margaret:-Thank you, dear for the patterns. They are very neat designs. Hope cousin Annie is feeling better. Give my love to her-Be good-Love to all. Grace.&quot; Addressed to: Miss Volger , 527 Norwood Ave., Buffalo, N.Y.; Postmarked from Buffalo, Sept. 10, 1912.  According to the 1912 City Directory, George J. Volger of Volger Press printing firm lived at that address.</dc:description>
+<dc:subject>Delaware Park (Buffalo, N.Y.); Fountains; Parks--New York (State)--Buffalo (N.Y.)</dc:subject>
+<dc:date>1911?</dc:date>
+<dc:source>13.8 x8.7 cm</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>pc.2009.012</dc:identifier>
+<dc:relation>Buffalo Postcards</dc:relation>
+<dc:rights>Digital image copyright 2009 by Buffalo History Museum.  Images in this collection are not to be used for any commercial purpose without the expressed written permission of the Buffalo History Museum Research Library.  Users of this Web site are free to utilize material from this collection for non-commercial and educational purposes.</dc:rights>
+<dc:coverage>42.9382</dc:coverage>
+<dc:coverage> -78.8588</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/610</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/613</identifier><datestamp>2014-10-02</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Castle Inn and Central High School</dc:title>
+<dc:description>Niagara Square, northeast side, from Delaware Avenue to Court Street. The Castle Inn on Delaware Avenue facing Niagara Square, opened in 1901. A section of it was originally the home of President Millard Fillmore. Castle Inn was razed in 1921 to make way for the Statler Hotel. Central High School, between West Genesee and Court Streets, was Buffalo&#x27;s only high school at the time. It was demolished in 1926 to make way for Buffalo State Office Building.  A trolley is visible on West Genesee Street. Caption on front border:  &quot;Castle Inn (Fillmore Residence).  Central High School.&quot; Verso: This postcard has an undivided back. &quot;Printed Matter, Mail Card. One Cent Postage All Over the World. This side is exclusively for the Address.&quot;</dc:description>
+<dc:subject>Buffalo (N.Y.)--Buildings, structures, etc.; Central High School (Buffalo, N.Y.); Castle Inn (Buffalo, N.Y.)</dc:subject>
+<dc:publisher>Buffalo: Albert M. Wilson</dc:publisher>
+<dc:date>1902-1906</dc:date>
+<dc:source>13.9 x 8.8 cm</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>pc.2009.015</dc:identifier>
+<dc:relation>Buffalo Postcards</dc:relation>
+<dc:rights>Digital image copyright 2009 by Buffalo History Museum.  Images in this collection are not to be used for any commercial purpose without the expressed written permission of the Buffalo History Museum Research Library.  Users of this Web site are free to utilize material from this collection for non-commercial and educational purposes.</dc:rights>
+<dc:coverage>42.8867</dc:coverage>
+<dc:coverage>-78.8777</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/613</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/619</identifier><datestamp>2014-10-02</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Memorial Auditorium</dc:title>
+<dc:description>Linen postcard showing Memorial Auditorium, 140 Main Street, Buffalo, New York. The sports and entertainment arena built in 1940 with New Deal money was best known as the home of the Buffalo Sabres hockey team. It was mothballed in 1996 and demolished in 2009. Caption in border: &quot;Buffalo Memorial Auditorium, Buffalo, N.Y.&quot; Verso: &quot;Total cost....Seating capacity...Total area....&quot;; &quot;Genuine Curteich-Chicago &#x27;C.T. Art-Colortone&#x27; Post Card (Reg. U.S. Pat. Off.)&quot;</dc:description>
+<dc:subject>Buffalo (N.Y.)--Buildings, structures, etc.; Auditoriums--New York (State)--Buffalo (N.Y.); Memorial Auditorium (Buffalo, N.Y.)</dc:subject>
+<dc:publisher>Otto Ulbrich Co.</dc:publisher>
+<dc:date>1940?</dc:date>
+<dc:source>14 x 9 cm</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>pc.2009.018</dc:identifier>
+<dc:relation>Buffalo Postcards</dc:relation>
+<dc:rights>Digital image copyright 2009 by Buffalo History Museum.  Images in this collection are not to be used for any commercial purpose without the expressed written permission of the Buffalo History Museum Research Library.  Users of this Web site are free to utilize material from this collection for non-commercial and educational purposes.</dc:rights>
+<dc:coverage>42.5241</dc:coverage>
+<dc:coverage>-78.5239</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/619</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/622</identifier><datestamp>2014-10-02</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Lafayette Square, looking northeast</dc:title>
+<dc:description>Caption: &quot;Buffalo, N.Y., Lafayette Square from Main and Clinton Sts., showing Buffalo Library at right, Lafayette Theatre and German Insurance Bldg. at left.&quot; The Buffalo Public Library, designed by C.L.W. Eidlitz, was built in 1887 and replaced by the Buffalo and Erie County Public Library in 1963-1964. Lafayette Theater, formerly Lafayette Church, became the site of the Rand Building. The Buffalo German Insurance Building, designed by architect Richard A. Waite in 1876, was replaced by the Tishman Building in 1957. The building directly behind the flagpole was home to Buffalo Savings Bank from 1867-1901. Soldiers and Sailors Monument, dedicated in 1884 by Governor Grover Cleveland as a memorial to Civil War dead, stands in the center of the square. An electric streetcar and a horse-drawn wagon are visible in the foreground. This postcard has an undivided back, where only the address was to appear. Messages, therefore, had to be written on the front.  This type of card existed from 1901-1907.</dc:description>
+<dc:subject>Buffalo (N.Y.)--Buildings, structures, etc.; Buffalo German Insurance Company; Lafayette Square (Buffalo, N.Y.)</dc:subject>
+<dc:publisher>Buffalo Post Card Co.</dc:publisher>
+<dc:date>1907?</dc:date>
+<dc:source>13.5 x 8.7 cm</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>pc.2009.021</dc:identifier>
+<dc:relation>Buffalo Postcards</dc:relation>
+<dc:rights>Digital image copyright 2009 by Buffalo History Museum.  Images in this collection are not to be used for any commercial purpose without the expressed written permission of the Buffalo History Museum Research Library.  Users of this Web site are free to utilize material from this collection for non-commercial and educational purposes.</dc:rights>
+<dc:coverage>42.8857</dc:coverage>
+<dc:coverage>-78.8744</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/622</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/626</identifier><datestamp>2014-10-02</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Broadway Auditorium and St. Mary&#x27;s Church, Buffalo, N.Y.</dc:title>
+<dc:description>Broadway near Michigan, looking east, with The Auditorium in the foreground and St. Mary&#x27;s Church just beyond it. A trolley and pedestrians are also visible.  The Auditorium, converted from the old State Arsenal around 1911, was the venue for basketball, hockey, bowling, boxing, box lacrosse and bicycle races. In the 1940&#x27;s it was converted into the Broadway Garage for city trucks. St. Mary&#x27;s Roman Catholic Church, Broadway and Pine, was built in 1843 and destroyed by fire in 1986. Caption on upper border of postcard: &quot;The Auditorium and St. Mary&#x27;s Church, Broadway, Buffalo, N.Y.&quot;</dc:description>
+<dc:subject>Buffalo (N.Y.)--Buildings, structures, etc.; Auditoriums--New York (State)--Buffalo (N.Y.); St. Mary&#x27;s Roman Catholic Church (Broadway &amp; Pine, Buffalo, N.Y.)</dc:subject>
+<dc:date>1915?</dc:date>
+<dc:source>13.4 x 8.8 cm</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>pc.2009.024</dc:identifier>
+<dc:relation>Buffalo Postcards</dc:relation>
+<dc:rights>Digital image copyright 2009 by Buffalo History Museum.  Images in this collection are not to be used for any commercial purpose without the expressed written permission of the Buffalo History Museum Research Library.  Users of this Web site are free to utilize material from this collection for non-commercial and educational purposes.</dc:rights>
+<dc:coverage>42.8870</dc:coverage>
+<dc:coverage>-78.8667</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/626</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/629</identifier><datestamp>2014-10-02</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>St. Paul&#x27;s Episcopal Cathedral and Shelton Square, Buffalo, N.Y.</dc:title>
+<dc:description>Intersection of Main, Erie, Church and Niagara Streets at Shelton Square showing St. Paul&#x27;s Cathedral and Erie County Savings Bank. The bank, designed by architect George B. Post, was erected in 1893 and demolished in 1967 when the bank&#x27;s new headquarters was constructed at One Main Place. Also visible are the White Building, Dun Building, Prudential Building and a trolley island. This 1932 linen postcard was printed by Curt-Teich &amp; Co. Inc., Chicago.</dc:description>
+<dc:subject>Buffalo (N.Y.)--Buildings, structures, etc.; Erie County Savings Bank (Buffalo, N.Y.); Shelton Square (Buffalo, N.Y.)</dc:subject>
+<dc:publisher>Buffalo: Otto Ulbrich Co.</dc:publisher>
+<dc:date>1932</dc:date>
+<dc:source>14 x 9 cm</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>pc.2009.025</dc:identifier>
+<dc:relation>Buffalo Postcards</dc:relation>
+<dc:rights>Digital image copyright 2009 by Buffalo History Museum.  Images in this collection are not to be used for any commercial purpose without the expressed written permission of the Buffalo History Museum Research Library.  Users of this Web site are free to utilize material from this collection for non-commercial and educational purposes.</dc:rights>
+<dc:coverage>42.8829846</dc:coverage>
+<dc:coverage>-78.875154</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/629</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/633</identifier><datestamp>2014-10-02</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Niagara Square, bird&#x27;s-eye view looking northwest</dc:title>
+<dc:description>This postcard shows Niagara Square, looking northwest along Niagara Street, ca. 1909. In the center is McKinley Monument, dedicated in 1907 to honor President William McKinley who was assassinated in 1901 at the Pan American Exhibition in Buffalo, New York. The large red building on the mid-right is the Women&#x27;s Christian Association. The tower behind it is Central High School. The red building on the far left housed the Women&#x27;s Educational and Industrial Union. Caption on border: &quot;Bird&#x27;s-eye View, McKinley Monument and Niagara Square, Buffalo, N.Y.&quot;</dc:description>
+<dc:subject>Buffalo (N.Y.)--Buildings, structures, etc.; Buffalo (N.Y.)--Plazas</dc:subject>
+<dc:date>1909?</dc:date>
+<dc:source>13.7 x 8.7 cm</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>pc.2009.031</dc:identifier>
+<dc:relation>Buffalo Postcards</dc:relation>
+<dc:rights>Digital image copyright 2009 by Buffalo History Museum.  Images in this collection are not to be used for any commercial purpose without the expressed written permission of the Buffalo History Museum Research Library.  Users of this Web site are free to utilize material from this collection for non-commercial and educational purposes.</dc:rights>
+<dc:coverage>42.8856</dc:coverage>
+<dc:coverage>-78.8774</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/633</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/634</identifier><datestamp>2014-10-02</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Erie Basin, Buffalo, N.Y.</dc:title>
+<dc:description>Erie Basin crowded with canal boats, including the Chris Seigmund, whose name is visible in the foreground. A railroad coal trestle, visible in the distance, facilitated the transfer of coal between rail and ship. Verso: T.P. &amp; Co., N.Y., No.25, Made in Germany.</dc:description>
+<dc:subject>Harbors--New York (State)--Buffalo (N.Y.); Canal-boats; Buffalo Harbor (N.Y.)</dc:subject>
+<dc:publisher>T.P. &amp; Co., N.Y.</dc:publisher>
+<dc:date>1910?</dc:date>
+<dc:source>13.7 x 8.8 cm</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>pc.2009.032</dc:identifier>
+<dc:relation>Buffalo Postcards</dc:relation>
+<dc:rights>Digital image copyright 2009 by Buffalo History Museum.  Images in this collection are not to be used for any commercial purpose without the expressed written permission of the Buffalo History Museum Research Library.  Users of this Web site are free to utilize material from this collection for non-commercial and educational purposes.</dc:rights>
+<dc:coverage>42.8827</dc:coverage>
+<dc:coverage>-78.8847</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/634</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/635</identifier><datestamp>2014-10-02</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Trolley between Lockport and Olcott</dc:title>
+<dc:description>An electric trolley crowded with passengers arriving at Olcott Beach, a popular destination on the shore of Lake Ontario. The line was run by the International Railway Company (IRC). Caption in lower front border: &quot;Off for an outing at Olcott Beach&quot;</dc:description>
+<dc:subject>Street-railroads; Electric railroad--Cars</dc:subject>
+<dc:publisher>Buffalo News Company</dc:publisher>
+<dc:date>1910?</dc:date>
+<dc:source>13.8 x 8.9 cm</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>pc.2009.033</dc:identifier>
+<dc:relation>Buffalo Postcards</dc:relation>
+<dc:rights>Digital image copyright 2009 by Buffalo History Museum.  Images in this collection are not to be used for any commercial purpose without the expressed written permission of the Buffalo History Museum Research Library.  Users of this Web site are free to utilize material from this collection for non-commercial and educational purposes.</dc:rights>
+<dc:coverage>43.3378</dc:coverage>
+<dc:coverage>-78.7148</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/635</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/636</identifier><datestamp>2014-10-02</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Arbor Room, Hotel Statler, Buffalo, N.Y.</dc:title>
+<dc:description>The two-story Arbor Room, with polygonal dome and serpentine balcony, was the main dining room in the Hotel Statler, located at the southeast corner of Washington and Swan Streets. The hotel, designed by Esenwein &amp; Johnson, opened in 1908. The building was demolished in 1968.</dc:description>
+<dc:subject>Buffalo (N.Y.)--Buildings, structures, etc.; Hotels--New York (State)--Buffalo; Statler Hotel (Buffalo, N.Y.)</dc:subject>
+<dc:publisher>James Bayne Co., Grand Rapids, Mich.</dc:publisher>
+<dc:date>1910?</dc:date>
+<dc:source>13.9 x 8.8 cm</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>pc.2009.034</dc:identifier>
+<dc:relation>Buffalo Postcards</dc:relation>
+<dc:rights>Digital image copyright 2009 by Buffalo History Museum.  Images in this collection are not to be used for any commercial purpose without the expressed written permission of the Buffalo History Museum Research Library.  Users of this Web site are free to utilize material from this collection for non-commercial and educational purposes.</dc:rights>
+<dc:coverage>42.8817</dc:coverage>
+<dc:coverage>-78.8746</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/636</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/637</identifier><datestamp>2014-10-02</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Iroquois Hotel, Buffalo, N.Y.</dc:title>
+<dc:description>Iroquois Hotel at Main Street and Eagle, southeast corner. Trolley and pedestrians are visible. The hotel was opened in 1889 and closed in 1923. The postcard has an undivided back, is postmarked Sep 1, 1908 and addressed to E.F. Stark, Naperville, Ill., DuPage Co.</dc:description>
+<dc:subject>Buffalo (N.Y.)--Buildings, structures, etc.; Hotels--New York (State)--Buffalo; Iroquois Hotel (Buffalo, N.Y.)</dc:subject>
+<dc:publisher>German-American Postal Card Co., Cleveland, Ohio and Leipzig</dc:publisher>
+<dc:date>1907?</dc:date>
+<dc:source>8.8 x 13.8 cm</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>pc.2009.035</dc:identifier>
+<dc:relation>Buffalo Postcards</dc:relation>
+<dc:rights>Digital image copyright 2009 by Buffalo History Museum.  Images in this collection are not to be used for any commercial purpose without the expressed written permission of the Buffalo History Museum Research Library.  Users of this Web site are free to utilize material from this collection for non-commercial and educational purposes.</dc:rights>
+<dc:coverage>42.8842</dc:coverage>
+<dc:coverage> -78.8748</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/637</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/638</identifier><datestamp>2014-10-02</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Main Street, looking south from Clinton Street</dc:title>
+<dc:description>Caption in bottom border: &quot;Shopping District, Main St., Buffalo, N.Y.&quot; Shows east side of Main St. with J.N. Adam &amp; Co. in left foreground. The clothing store was in business from 1881 until 1960. Its original owner, J.N. Adam, was elected mayor of Buffalo in 1905. The tall building in the center of the card is the Iroquois Hotel. Trolleys, pedestrians and street banner advertising a barn dance are also visible.</dc:description>
+<dc:subject>Buffalo (N.Y.)--Buildings, structures, etc.; Main Street (Buffalo, N.Y.)</dc:subject>
+<dc:date>1910?</dc:date>
+<dc:source>14 x 8.9 cm</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>pc.2009.037</dc:identifier>
+<dc:relation>Buffalo Postcards</dc:relation>
+<dc:rights>Digital image copyright 2009 by Buffalo History Museum.  Images in this collection are not to be used for any commercial purpose without the expressed written permission of the Buffalo History Museum Research Library.  Users of this Web site are free to utilize material from this collection for non-commercial and educational purposes.</dc:rights>
+<dc:coverage>42.8856</dc:coverage>
+<dc:coverage>-78.8743</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/638</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/639</identifier><datestamp>2014-10-02</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Main Street and Court Street, looking west</dc:title>
+<dc:description>Caption on upper right of front: &quot;Main and Court Street, Buffalo, N.Y.; The Yellow Car for Niagara Falls.&quot; This postcard shows the German-American Bank on the southwest corner and streetcars, or trolleys, on Court Street. Pedestrians and a policeman are also visible. The postcard has a divided back.</dc:description>
+<dc:subject>Buffalo (N.Y.)--Buildings, structures, etc.; Street-railroads--New York (State)--Buffalo (N.Y.); German-American Bank (Buffalo, N.Y.)</dc:subject>
+<dc:date>1908?</dc:date>
+<dc:source>13.8 x 8.6 cm</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>pc.2009.036</dc:identifier>
+<dc:relation>Buffalo Postcards</dc:relation>
+<dc:rights>Digital image copyright 2009 by Buffalo History Museum.  Images in this collection are not to be used for any commercial purpose without the expressed written permission of the Buffalo History Museum Research Library.  Users of this Web site are free to utilize material from this collection for non-commercial and educational purposes.</dc:rights>
+<dc:coverage>42.8857</dc:coverage>
+<dc:coverage> -78.8745</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/639</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/640</identifier><datestamp>2014-10-02</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Ferry boat, Niagara Frontier</dc:title>
+<dc:description>Caption on top front of picture: &quot;Ferry Boat &#x27;Niagara Frontier,&#x27; plying between Buffalo, N.Y. and Fort Erie.&quot; The Niagara Frontier was built in 1910 and crossed the Niagara River from the foot of Ferry Street to Fort Erie, Ontario. It left Buffalo for Toledo in 1947. Two automobiles are visible on the ferry. Verso: No. M-3682; Americhrome, Leipzig, Berlin, New York. Printed in the United States.</dc:description>
+<dc:subject>Ferries--New York (State)--Buffalo (N.Y.)</dc:subject>
+<dc:publisher>The Buffalo News Company</dc:publisher>
+<dc:date>1910-1916</dc:date>
+<dc:source>13.6 x 8.7 cm</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>pc.2009.038</dc:identifier>
+<dc:relation>Buffalo Postcards</dc:relation>
+<dc:rights>Digital image copyright 2009 by Buffalo History Museum.  Images in this collection are not to be used for any commercial purpose without the expressed written permission of the Buffalo History Museum Research Library.  Users of this Web site are free to utilize material from this collection for non-commercial and educational purposes.</dc:rights>
+<dc:coverage>42.9151</dc:coverage>
+<dc:coverage>-78.9017</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/640</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/641</identifier><datestamp>2014-10-02</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Glenny residence, Amherst Street, Buffalo, N.Y.</dc:title>
+<dc:description>Front view of the mansion at 1150 Amherst Street, at the head of Nottingham Terrace. Caption on bottom: &quot;The Glenny Residence, Amherst St., Buffalo N.Y.&quot;, number 9195 on bottom right. Albert M. Wilson, Buffalo, N.Y. 322 on bottom left. The center portion of this historic home was built by Joseph Ellicott in 1823 and originally located at Main and High Streets.  John C. Glenny purchased the house in 1892 and moved it to Amherst Street.  William B. Hoyt purchased the home from Mrs. Glenny in 1910.  It was demolished around 1951.  Verso: Postmarked Mar 15, 1912.  Contains correspondence addressed to Mrs. J. Bianchi, 14 Rogers Ave, Buffalo, N.Y..</dc:description>
+<dc:subject>Mansions--New York (State)--Buffalo (N.Y.); Buffalo (N.Y.)--Buildings, structures, etc.; Architecture, Domestic--New York (State)--Buffalo (N.Y.)</dc:subject>
+<dc:publisher>Albert M. Wilson, Buffalo, N.Y.</dc:publisher>
+<dc:date>1910?</dc:date>
+<dc:source>14 x 9 cm</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>pc.2009.042</dc:identifier>
+<dc:relation>Buffalo Postcards</dc:relation>
+<dc:rights>Digital image copyright 2009 by Buffalo History Museum.  Images in this collection are not to be used for any commercial purpose without the expressed written permission of the Buffalo History Museum Research Library.  Users of this Web site are free to utilize material from this collection for non-commercial and educational purposes.</dc:rights>
+<dc:coverage>42.9404</dc:coverage>
+<dc:coverage>-78.8597</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/641</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/642</identifier><datestamp>2014-10-02</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Matthews Building and New Chamber of Commerce</dc:title>
+<dc:description>This postcard contains two separate images. The caption on the bottom border indicates they are from the &quot;Buffalo Morning Express - Niagara Frontier Series.&quot; &quot;The Matthews Building, Home of the &#x27;Express&#x27;&quot; is on the left, and &quot;The New Chamber of Commerce&quot; is on the right. The Matthews Building was located on the northeast corner of Exchange and Washington Streets. The New Chamber of Commerce was located on the northwest corner of Main and Seneca Streets. The shorter, domed building in front of the L-shaped Chamber of Commerce is the Bank of Buffalo.</dc:description>
+<dc:subject>J.N. Matthews Co.; Buffalo (N.Y.)--Buildings, structures, etc.; Chamber of Commerce (Buffalo, N.Y.); Bank of Buffalo (Buffalo, N.Y.)</dc:subject>
+<dc:publisher>Buffalo Morning Express</dc:publisher>
+<dc:date>1910?</dc:date>
+<dc:source>14 x 8.9 cm</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>pc.2009.043</dc:identifier>
+<dc:relation>Buffalo Postcards</dc:relation>
+<dc:rights>Digital image copyright 2009 by Buffalo History Museum.  Images in this collection are not to be used for any commercial purpose without the expressed written permission of the Buffalo History Museum Research Library.  Users of this Web site are free to utilize material from this collection for non-commercial and educational purposes.</dc:rights>
+<dc:coverage>42.8791</dc:coverage>
+<dc:coverage>-78.8754</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/642</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/643</identifier><datestamp>2014-10-02</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Scene at the Front, Buffalo, N.Y.</dc:title>
+<dc:description>Promenade along the top of the bluff overlooking the Niagara River. Pedestrians, railroad tracks and train are visible. Caption upper left: &quot;Scene at the Front, Buffalo, N.Y.&quot; The Front, later known as Front Park, was designed by Frederick Law Olmsted and is located off Porter Avenue. Verso: Americhrome (and logo), Leipzig, Berlin, New York. Printed in the United States.</dc:description>
+<dc:subject>Front Park (Buffalo, N.Y.); Parks--New York (State)--Buffalo (N.Y.)</dc:subject>
+<dc:publisher>Buffalo News Company</dc:publisher>
+<dc:date>1910?</dc:date>
+<dc:source>13.6 x 8.4 cm</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>pc.2009.040</dc:identifier>
+<dc:relation>Buffalo Postcards</dc:relation>
+<dc:rights>Digital image copyright 2009 by Buffalo History Museum.  Images in this collection are not to be used for any commercial purpose without the expressed written permission of the Buffalo History Museum Research Library.  Users of this Web site are free to utilize material from this collection for non-commercial and educational purposes.</dc:rights>
+<dc:coverage>42.9012</dc:coverage>
+<dc:coverage>-78.9002</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/643</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/644</identifier><datestamp>2014-10-02</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Humboldt Park, floral display</dc:title>
+<dc:description>Formal floral bed in foreground, many park visitors visible. Caption on upper right of card: &quot;Humboldt Park, Buffalo, N.Y.&quot; Verso: Postmarked Dec. (day illegible) 1912. Correspondence. Humboldt Park was designed by Frederick Law Olmsted and originally known as The Parade. It was renamed Martin Luther King Jr. Park in 1973.</dc:description>
+<dc:subject>Humboldt Park (Buffalo, N.Y.); Parks--New York (State)--Buffalo (N.Y.)</dc:subject>
+<dc:date>1911?</dc:date>
+<dc:source>13.7 x 8.7 cm</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>pc.2009.041</dc:identifier>
+<dc:relation>Buffalo Postcards</dc:relation>
+<dc:rights>Digital image copyright 2009 by Buffalo History Museum.  Images in this collection are not to be used for any commercial purpose without the expressed written permission of the Buffalo History Museum Research Library.  Users of this Web site are free to utilize material from this collection for non-commercial and educational purposes.</dc:rights>
+<dc:coverage>42.9048</dc:coverage>
+<dc:coverage>-78.8403</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/644</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/645</identifier><datestamp>2014-03-27</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Greetings from Buffalo, New York; the city of good neighbors</dc:title>
+<dc:description>Large-letter postcard with scenes from the city filling in the letters. Curt Teich &amp; Co., Inc. printed in lower right of front. Printer&#x27;s code number on bottom right is 7B H134. Verso: Distributed by Buffalo Stationery Co., Buffalo, N.Y. ; Genuine Curteich-Chicago &quot;C.T. Art-Colortone&quot; Post Card (Reg. U.S. Pat. Off.)</dc:description>
+<dc:subject>Buffalo (N.Y.)--Buildings, structures, etc.</dc:subject>
+<dc:publisher>Buffalo Stationery Co.</dc:publisher>
+<dc:date>1947</dc:date>
+<dc:source>13.6 x 8.8 cm</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>pc.2009.039</dc:identifier>
+<dc:relation>Buffalo Postcards</dc:relation>
+<dc:rights>Digital image copyright 2009 by Buffalo History Museum.  Images in this collection are not to be used for any commercial purpose without the expressed written permission of the Buffalo History Museum Research Library.  Users of this Web site are free to utilize material from this collection for non-commercial and educational purposes.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/645</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/648</identifier><datestamp>2014-10-02</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Elk Street Market</dc:title>
+<dc:description>Busy outdoor market scene, rows of wagons filled with produce, throngs of buyers. Caption: Elk Street Market, Buffalo, N.Y.  typewritten in upper left. Verso: C.T. Photocrom. Card is postmarked July 13, 1916. Correspondence on verso: &quot;Dear (illegible), We had a fine trip to see the falls yesterday- got back at 8:00 in time to see the big shriners parade - 80 bands and 115 patrols and many floats. Wish you could have seen it - some music I tell you - parade - 3 hours - It is raining this morning. Expect to go to the park this P.M. to see drills by patrols - will leave tomorrow evening by boat for Detroit then on home next week - have not gotten the letter - Luella Byron.&quot;  Addressed to James Eaton, Bridgeport, Ill.</dc:description>
+<dc:subject>Markets--New York (State)--Buffalo (N.Y.); Elk Street Market (Buffalo, N.Y.)</dc:subject>
+<dc:date>1912?</dc:date>
+<dc:source>13.6 x 8.5 cm</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>pc.2009.046</dc:identifier>
+<dc:relation>Buffalo Postcards</dc:relation>
+<dc:rights>Digital image copyright 2009 by Buffalo History Museum.  Images in this collection are not to be used for any commercial purpose without the expressed written permission of the Buffalo History Museum Research Library.  Users of this Web site are free to utilize material from this collection for non-commercial and educational purposes.</dc:rights>
+<dc:coverage>42.8752</dc:coverage>
+<dc:coverage>-78.8702</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/648</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/651</identifier><datestamp>2014-10-02</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Waterfront, Buffalo, N.Y.</dc:title>
+<dc:description>Buffalo Harbor, looking east. Breakwater in left foreground, vessels in harbor. Caption in lower front border: &quot;The Waterfront, Buffalo, N.Y.&quot; Bottom right:&quot;900 H.L. Woehler, Buffalo, N.Y., Dresden Germany.&quot; Correspondence on verso dated July 22, 1911: &quot;Dear Johanna, Received your card this morning and you bet I was glad to get it. I suppose you are having a &quot;Bully&quot; time, with Love to you &amp; Sophie &amp; Bruster I remain your Loving Brother Ernest.&quot;  Addressed to: Miss J. Gamst, Adirondack Mts., Loon Lake, N.Y., c/o Mrs. K.T. Burtiss. Publisher&#x27;s logo, lower left.</dc:description>
+<dc:subject>Buffalo Harbor (N.Y.); Harbors--New York (State)--Buffalo (N.Y.); Shipping</dc:subject>
+<dc:publisher>H.L. Woehler</dc:publisher>
+<dc:date>1910?</dc:date>
+<dc:source>13.5 x 8.7 cm</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>pc.2009.047</dc:identifier>
+<dc:relation>Buffalo Postcards</dc:relation>
+<dc:rights>Digital image copyright 2009 by Buffalo History Museum.  Images in this collection are not to be used for any commercial purpose without the expressed written permission of the Buffalo History Museum Research Library.  Users of this Web site are free to utilize material from this collection for non-commercial and educational purposes.</dc:rights>
+<dc:coverage>42.8770</dc:coverage>
+<dc:coverage>-78.8807</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/651</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/654</identifier><datestamp>2014-10-02</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Pan-American Exposition,  Electricity Building</dc:title>
+<dc:description>Full view of the Electricity Building, with Pan-American Exposition attendees strolling in front. The Electricity Building, designed by Green &amp; Wicks, contained exhibit space and a transformer plant, where power from Niagara Falls was converted for use throughout the exhibition grounds. An inset of Niagara Falls appears in the upper right of the card. A circular emblem of the Pan-American Exhibition surrounded by jagged bolts of light is printed on lower right. Above it are drawn an electric streetcar and an electric light. &quot;Official Sourvenir Mailing Card&quot; is printed in serpentine fashion on upper left. Printed on bottom: &quot;Copyright, 1901 by the Niagara Envelope Manufactory. Gies &amp; Co. Litho, Buffalo, N.Y. U.S.A.&quot; Verso: &quot;Private Mailing Card. Authorized by Act of Congress May 19, 1898. (&#x27;Postal Card.-Carte Postale.&#x27;)&quot; Undivided back is for address only. Contains box for one cent stamp.</dc:description>
+<dc:subject>Pan-American Exposition (1901 : Buffalo, N.Y.)--Buildings</dc:subject>
+<dc:publisher>Niagara Envelope Manufactory</dc:publisher>
+<dc:date>1901</dc:date>
+<dc:source>14 x 8.3 cm</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>pc.2009.048</dc:identifier>
+<dc:relation>Buffalo Postcards</dc:relation>
+<dc:rights>Digital image copyright 2009 by Buffalo History Museum.  Images in this collection are not to be used for any commercial purpose without the expressed written permission of the Buffalo History Museum Research Library.  Users of this Web site are free to utilize material from this collection for non-commercial and educational purposes.</dc:rights>
+<dc:coverage>42.9407</dc:coverage>
+<dc:coverage>-78.8915</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/654</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/655</identifier><datestamp>2014-10-02</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Panoramic view from Pearl Street, looking east</dc:title>
+<dc:description>This oversize postcard shows the view from atop the D.S. Morgan office building on Pearl Street, looking east. The prominent buildings labeled in type, left to right are: Electric Tower, Lafayette Square, Iroquois Hotel, Post Office, Ellicott Square, Marine National Bank, St. Paul&#x27;s Church, Prudential Building, Telephone Building. Caption in upper left front of postcard: &quot;Birds Eye View, Buffalo, N.Y., from Morgan Building.&quot;</dc:description>
+<dc:subject>Buffalo (N.Y.)--Buildings, structures, etc.; Iroquois Hotel (Buffalo, N.Y.)</dc:subject>
+<dc:publisher>David Ellis</dc:publisher>
+<dc:date>1908-1917</dc:date>
+<dc:source>62 x 13.5 cm</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>pc.2009.045</dc:identifier>
+<dc:relation>Buffalo Postcards</dc:relation>
+<dc:rights>Digital image copyright 2009 by Buffalo History Museum.  Images in this collection are not to be used for any commercial purpose without the expressed written permission of the Buffalo History Museum Research Library.  Users of this Web site are free to utilize material from this collection for non-commercial and educational purposes.</dc:rights>
+<dc:coverage>42.8839</dc:coverage>
+<dc:coverage>-78.8761</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/655</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/656</identifier><datestamp>2014-03-27</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Map of the Persons Per Net or Residential Acre</dc:title>
+<dc:description>Although the population is rather uniformly distributed certain census tracts are more densely populated than others. There are 77 persons per net acre in census tract 72; 76 in census tract 28; 72 in census tract 16, and 70 in census tract 27. At the other extreme there are only 10 persons per net acre in census tract 54; 8 in both census tracts 44 and 3, and 7 in census tract 9.</dc:description>
+<dc:creator>Joseph L. Buckley</dc:creator>
+<dc:subject>Buffalo (N.Y.)--History; City planning; Ethnic groups; Housing; Housing authorities</dc:subject>
+<dc:subject>Ethnic Groups; Geography &amp; Maps</dc:subject>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Buffalo (N.Y.)</dc:coverage>
+<dc:date>1935-01-10</dc:date>
+<dc:date>1935-01-10</dc:date>
+<dc:type>Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>VTP006_0002</dc:identifier>
+<dc:relation>Buffalo Municipal Housing Authority Report Maps</dc:relation>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/656</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/657</identifier><datestamp>2014-03-27</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Map of the Distribution of Population</dc:title>
+<dc:description>The 573,076 people living in the city by census tract.</dc:description>
+<dc:creator>Joseph L. Buckley</dc:creator>
+<dc:subject>Buffalo (N.Y.)--History; City planning; Ethnic groups; Housing; Housing authorities</dc:subject>
+<dc:subject>Ethnic Groups; Geography &amp; Maps</dc:subject>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Buffalo (N.Y.)</dc:coverage>
+<dc:date>1935-01-10</dc:date>
+<dc:date>1935-01-10</dc:date>
+<dc:type>Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>VTP006_0001</dc:identifier>
+<dc:relation>Buffalo Municipal Housing Authority Report Maps</dc:relation>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/657</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/658</identifier><datestamp>2014-03-27</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Map of the Change in Population 1920-1930</dc:title>
+<dc:description>Some census tracts lost population during the decade 1920-1930 while others gained. A total of 15 census tracts lost 10% or more during this 10 year period. They were census tracts 3, 4, 12, 13, 14, 16, 22, 25, 26, 27, 32, 53, 60, 64, and 71. On the other hand 13 census tracts more than doubled during that period. They were census tracts 6, 7, 38, 41, 45, and 47-51.</dc:description>
+<dc:creator>Joseph L. Buckley</dc:creator>
+<dc:subject>Buffalo (N.Y.)--History; City planning; Ethnic groups; Housing; Housing authorities</dc:subject>
+<dc:subject>Ethnic Groups; Geography &amp; Maps</dc:subject>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Buffalo (N.Y.)</dc:coverage>
+<dc:date>1935-01-10</dc:date>
+<dc:date>1935-01-10</dc:date>
+<dc:type>Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>VTP006_0003</dc:identifier>
+<dc:relation>Buffalo Municipal Housing Authority Report Maps</dc:relation>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/658</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/659</identifier><datestamp>2014-03-27</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Map of the Predominant Characteristics of Family Heads</dc:title>
+<dc:description>Over 50% of the family heads in 3 census tracts were born in Poland and 3 others in Italy. None of the other foreign born groups had as many as 50% of family heads in any one census tract. On the other hand over 50% of the family heads were negro in one census tract and over 50% were native white of native parentage in 5 census tracts.</dc:description>
+<dc:creator>Joseph L. Buckley</dc:creator>
+<dc:subject>Buffalo (N.Y.)--History; City planning; Ethnic groups; Housing; Housing authorities</dc:subject>
+<dc:subject>Ethnic Groups; Geography &amp; Maps</dc:subject>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Buffalo (N.Y.)</dc:coverage>
+<dc:date>1935-01-10</dc:date>
+<dc:date>1935-01-10</dc:date>
+<dc:type>Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>VTP006_0004</dc:identifier>
+<dc:relation>Buffalo Municipal Housing Authority Report Maps</dc:relation>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/659</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/660</identifier><datestamp>2014-03-27</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Map of Family Heads Born in Poland</dc:title>
+<dc:description>68% of all family heads born in Poland live in the following 7 census tracts: 16, 17, 19, 24, 27, 28, and 55.</dc:description>
+<dc:creator>Joseph L. Buckley</dc:creator>
+<dc:subject>Buffalo (N.Y.)--History; City planning; Ethnic groups; Housing; Housing authorities</dc:subject>
+<dc:subject>Ethnic Groups; Geography &amp; Maps</dc:subject>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Buffalo (N.Y.)</dc:coverage>
+<dc:date>1935-01-10</dc:date>
+<dc:date>1935-01-10</dc:date>
+<dc:type>Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>VTP006_0005</dc:identifier>
+<dc:relation>Buffalo Municipal Housing Authority Report Maps</dc:relation>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/660</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VTP005/661</identifier><datestamp>2014-03-27</datestamp><setSpec>VTP005</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Map of Family Heads Born in Italy</dc:title>
+<dc:description>69% of all family heads born in Italy live in the following 6 census tracts 12, 13, 69, 70, 71, and 72.</dc:description>
+<dc:creator>Joseph L. Buckley</dc:creator>
+<dc:subject>Buffalo (N.Y.)--History; City planning; Ethnic groups; Housing; Housing authorities</dc:subject>
+<dc:subject>Ethnic Groups; Geography &amp; Maps</dc:subject>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Buffalo (N.Y.)</dc:coverage>
+<dc:date>1935-01-10</dc:date>
+<dc:date>1935-01-10</dc:date>
+<dc:type>Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>VTP006_0006</dc:identifier>
+<dc:relation>Buffalo Municipal Housing Authority Report Maps</dc:relation>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VTP005/id/661</dc:identifier></oai_dc:dc>
+</metadata>
+</record></ListRecords></OAI-PMH>

@@ -1,0 +1,918 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2015-01-06T19:48:10Z</responseDate><request>http://dcmny.org/oai2</request><ListRecords><record><header><identifier>oai:dcmny.org:photosnycbeyond_28673</identifier><datestamp>2014-10-10T18:01:58Z</datestamp><setSpec>photosnycbeyond_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Newtown: [unidentified large house off Woodside Avenue, undated.]</title>
+  </titleInfo>
+  <identifier type="local">nyhs_PR081_b-16_f-03_061.jpg</identifier>
+  <name type="personal">
+    <namePart>Armbruster, Eugene L., 1865-1943</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">
+                    Photographer
+                </roleTerm>
+    </role>
+  </name>
+  <note displayLabel="Photographer Note">New York photographer and local historian born in Baden-Baden, Germany; emigrated to the United States 1882 and lived in Brooklyn, New York. Armbruster photographed historic houses, churches, streetscapes, and buildings throughout New York City, and some of the images he created served to illustrate pamphlets he wrote on the local history of the area.</note>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Eugene L. Armbruster photograph collection, 1894-1939. Series II: Negatives. Subseries I: Acetate Film Negatives: 4 x 5"</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>New-York Historical Society, 170 Central Park West, New York, NY 10024, 212-873-3400</physicalLocation>
+  </location>
+  <typeOfResource>still image</typeOfResource>
+  <note>Digitzed by New-York Historical Society</note>
+  <accessCondition type="use and reproduction">This digital image may be used for educational or scholarly purposes without restriction. Commercial and other uses of the item are prohibited without prior written permission from the New-York Historical Society. Please visit the New-York Historical Society's Rights and Reproductions Department web page at http://www.nyhistory.org/about/rights-reproductions for more information.</accessCondition>
+  <subject>
+    <topic>Newtown (New York, N.Y.)--Photographs</topic>
+  </subject>
+  <subject>
+    <topic>Queens (New York, N.Y.)--Buildings, structures, etc.--Photographs</topic>
+  </subject>
+  <genre>Acetate film</genre>
+  <genre>Negatives (photographic)</genre>
+  <physicalDescription>
+    <form>Photograph</form>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/photosnycbeyond%3A28673</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:photosnycbeyond_18625</identifier><datestamp>2014-10-10T15:46:43Z</datestamp><setSpec>photosnycbeyond_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>View of New York from the Brooklyn Bridge; copy of Beal panorama.</title>
+  </titleInfo>
+  <identifier type="local">nyhs_PR129_b-07_311d-01.jpg</identifier>
+  <originInfo>
+    <dateCreated encoding="iso8601">1880-1916</dateCreated>
+  </originInfo>
+  <name type="corporate">
+    <namePart>H.N. Tiemann &amp; Co.</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">
+                    Photographer
+                </roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Tiemann, H. N., 1863-1957</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">
+                    Contributor
+                </roleTerm>
+    </role>
+  </name>
+  <note displayLabel="Photographer Note">Nephew of New York City mayor Daniel F. Tiemann; proprietor of a Manhattan-based commercial photography company, H.N Tiemann &amp; Co., which photographed New York locations and events for publication and general sale.</note>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>H.N. Tiemann &amp; Co. photograph collection, 1880-1916</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>New-York Historical Society, 170 Central Park West, New York, NY 10024, 212-873-3400</physicalLocation>
+  </location>
+  <typeOfResource>still image</typeOfResource>
+  <note>Digitzed by New-York Historical Society</note>
+  <accessCondition type="use and reproduction">This digital image may be used for educational or scholarly purposes without restriction. Commercial and other uses of the item are prohibited without prior written permission from the New-York Historical Society. Please visit the New-York Historical Society's Rights and Reproductions Department web page at http://www.nyhistory.org/about/rights-reproductions for more information.</accessCondition>
+  <subject>
+    <topic>New York (N.Y.)--Buildings, structures, etc.--Photographs</topic>
+  </subject>
+  <subject>
+    <topic>New York (N.Y.)--Photographs</topic>
+  </subject>
+  <subject>
+    <topic>Brooklyn Bridge (New York, N.Y.)--Photographs</topic>
+  </subject>
+  <genre>Glass negatives</genre>
+  <genre>Negatives (photographic)</genre>
+  <physicalDescription>
+    <form>Negative</form>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/photosnycbeyond%3A18625</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:photosnycbeyond_29059</identifier><datestamp>2014-10-10T18:07:34Z</datestamp><setSpec>photosnycbeyond_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Patchogue / Bell Port / Yaphank / Brookhaven / Middle Island / Selden / Corem: [unidentified clapboard house behind formal gate, undated. Lawn slightly overgrown.]</title>
+  </titleInfo>
+  <identifier type="local">nyhs_PR081_b-n39_435.jpg</identifier>
+  <name type="personal">
+    <namePart>Armbruster, Eugene L., 1865-1943</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">
+                    Photographer
+                </roleTerm>
+    </role>
+  </name>
+  <note displayLabel="Photographer Note">New York photographer and local historian born in Baden-Baden, Germany; emigrated to the United States 1882 and lived in Brooklyn, New York. Armbruster photographed historic houses, churches, streetscapes, and buildings throughout New York City, and some of the images he created served to illustrate pamphlets he wrote on the local history of the area.</note>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Eugene L. Armbruster photograph collection, 1894-1939. Series II: New York City Negatives. Subseries II: Nitrate Film Negatives: 5 x 7" and smaller</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>New-York Historical Society, 170 Central Park West, New York, NY 10024, 212-873-3400</physicalLocation>
+  </location>
+  <typeOfResource>still image</typeOfResource>
+  <note>Digitzed by New-York Historical Society</note>
+  <accessCondition type="use and reproduction">This digital image may be used for educational or scholarly purposes without restriction. Commercial and other uses of the item are prohibited without prior written permission from the New-York Historical Society. Please visit the New-York Historical Society's Rights and Reproductions Department web page at http://www.nyhistory.org/about/rights-reproductions for more information.</accessCondition>
+  <subject>
+    <topic>Long Island (N.Y.)--Photographs</topic>
+  </subject>
+  <subject>
+    <topic>Long Island (N.Y.)--Buildings, structures, etc.--Photographs</topic>
+  </subject>
+  <genre>Negatives (photographic)</genre>
+  <genre>Cellulose nitrate film</genre>
+  <physicalDescription>
+    <form>Photograph</form>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/photosnycbeyond%3A29059</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:photosnycbeyond_26060</identifier><datestamp>2014-10-10T17:25:11Z</datestamp><setSpec>photosnycbeyond_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Long Island City: [Astoria Park with bare, newly planted trees, at the base of Hell Gate Bridge (New York Connecting Railroad Bridge), undated.]</title>
+  </titleInfo>
+  <identifier type="local">nyhs_PR081_b-15_f-21_027.jpg</identifier>
+  <name type="personal">
+    <namePart>Armbruster, Eugene L., 1865-1943</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">
+                    Photographer
+                </roleTerm>
+    </role>
+  </name>
+  <note displayLabel="Photographer Note">New York photographer and local historian born in Baden-Baden, Germany; emigrated to the United States 1882 and lived in Brooklyn, New York. Armbruster photographed historic houses, churches, streetscapes, and buildings throughout New York City, and some of the images he created served to illustrate pamphlets he wrote on the local history of the area.</note>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Eugene L. Armbruster photograph collection, 1894-1939. Series II: Negatives. Subseries I: Acetate Film Negatives: 4 x 5"</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>New-York Historical Society, 170 Central Park West, New York, NY 10024, 212-873-3400</physicalLocation>
+  </location>
+  <typeOfResource>still image</typeOfResource>
+  <note>Digitzed by New-York Historical Society</note>
+  <accessCondition type="use and reproduction">This digital image may be used for educational or scholarly purposes without restriction. Commercial and other uses of the item are prohibited without prior written permission from the New-York Historical Society. Please visit the New-York Historical Society's Rights and Reproductions Department web page at http://www.nyhistory.org/about/rights-reproductions for more information.</accessCondition>
+  <subject>
+    <topic>Long Island City (New York, N.Y.)--Photographs</topic>
+  </subject>
+  <subject>
+    <topic>Queens (New York, N.Y.)--Buildings, structures, etc.--Photographs</topic>
+  </subject>
+  <genre>Acetate film</genre>
+  <genre>Negatives (photographic)</genre>
+  <physicalDescription>
+    <form>Photograph</form>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/photosnycbeyond%3A26060</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:photosnycbeyond_22583</identifier><datestamp>2014-10-10T16:37:32Z</datestamp><setSpec>photosnycbeyond_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Long Island City: Francis Duryea Kouwenhoven House, south of Old Bowery Road, just east of Kouwenhoven Street, Hellgate, 1922. Demolished by 1929.</title>
+  </titleInfo>
+  <identifier type="local">nyhs_PR081_b-04_f-05_082-2-01.jpg</identifier>
+  <originInfo>
+    <dateCreated encoding="iso8601">1922</dateCreated>
+  </originInfo>
+  <name type="personal">
+    <namePart>Armbruster, Eugene L., 1865-1943</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">
+                    Photographer
+                </roleTerm>
+    </role>
+  </name>
+  <note displayLabel="Photographer Note">New York photographer and local historian born in Baden-Baden, Germany; emigrated to the United States 1882 and lived in Brooklyn, New York. Armbruster photographed historic houses, churches, streetscapes, and buildings throughout New York City, and some of the images he created served to illustrate pamphlets he wrote on the local history of the area.</note>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Eugene L. Armbruster photograph collection, 1894-1939. Series I: Prints. Subseries I: Prints: 3.5 x 4.5" and smaller</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>New-York Historical Society, 170 Central Park West, New York, NY 10024, 212-873-3400</physicalLocation>
+  </location>
+  <genre>Photographic prints</genre>
+  <typeOfResource>still image</typeOfResource>
+  <note>Digitzed by New-York Historical Society</note>
+  <accessCondition type="use and reproduction">This digital image may be used for educational or scholarly purposes without restriction. Commercial and other uses of the item are prohibited without prior written permission from the New-York Historical Society. Please visit the New-York Historical Society's Rights and Reproductions Department web page at http://www.nyhistory.org/about/rights-reproductions for more information.</accessCondition>
+  <subject>
+    <topic>Long Island City (New York, N.Y.)--Photographs</topic>
+  </subject>
+  <subject>
+    <topic>Queens (New York, N.Y.)--Buildings, structures, etc.--Photographs</topic>
+  </subject>
+  <physicalDescription>
+    <form>Photograph</form>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/photosnycbeyond%3A22583</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:whitneystudioclub_624</identifier><datestamp>2014-10-10T14:36:58Z</datestamp><setSpec>whitneystudioclub_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Portrait of Gertrude Vanderbilt Whitney in her studio</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Strelecki, Jean de, count</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Photographer</roleTerm>
+    </role>
+  </name>
+  <abstract>Photograph taken by Jean de Strelecki of Gertrude Vanderbilt Whitney in her 8th Street Studio in MacDougal Alley.</abstract>
+  <name type="personal">
+    <namePart>Clements, Geoffrey</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Photographer</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <name type="personal">
+      <namePart>Whitney, Gertrude Vanderbilt, 1875-1942</namePart>
+    </name>
+  </subject>
+  <subject>
+    <name type="corporate">
+      <namePart>Whitney Studio</namePart>
+    </name>
+  </subject>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Whitney Studio Club and Galleries: Administrative and Exhibition Records, 1907-1930</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>The Frances Mulhall Achilles Library, Archives, Whitney Museum of American Art</physicalLocation>
+  </location>
+  <accessCondition type="use and reproduction">The copying of any protected materials in this collection is prohibited, except for limited non-commercial, educational, and personal use only, or for fair use as defined in the U.S. copyright laws. Images from the Whitney's collection cannot be used for publication or commercial use without the prior written permission from the Museum's Rights and Reproductions Department. For more information about Terms and Conditions, please visit: http://whitney.org/TermsAndConditions</accessCondition>
+  <typeOfResource>image</typeOfResource>
+  <identifier type="local">wscg0008</identifier>
+  <note>Digitized by The Frances Mulhall Achilles Library, Archives, Whitney Museum of American Art</note>
+  <physicalDescription>
+    <extent>25.4 cm (H) x 20.3 cm (W)</extent>
+    <note type="condition">good</note>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/whitneystudioclub%3A624</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:photosnycbeyond_29661</identifier><datestamp>2014-10-10T18:16:21Z</datestamp><setSpec>photosnycbeyond_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Manhattan: Municipal Building at Chambers Street and Centre Street, undated (ca. 1914). View from the southwest.</title>
+  </titleInfo>
+  <identifier type="local">nyhs_PR024_b-12_f-105_003-01.jpg</identifier>
+  <originInfo>
+    <dateCreated encoding="iso8601">1914</dateCreated>
+  </originInfo>
+  <name type="corporate">
+    <namePart>Geo. P. Hall &amp; Son</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">
+                    Photographer
+                </roleTerm>
+    </role>
+  </name>
+  <note displayLabel="Photographer Note">The commercial photography firm George P. Hall &amp; Son operated in Manhattan from 1886 through 1914. Working out of several studios, the firm documented the changing face of New York City at the turn of the 20th century. Hall &amp; Son's photographs were available for general sale, were published in their own calendars and souvenir viewbooks, and appeared as illustrations in such publications as King's Views of New York, Staley's Views of New York, and Harper's Weekly.   George P. Hall (1832-1900) was born in 1832 in Troy, Ohio, and began his career in 1854 as a daguerreotypist in Dayton, Ohio. A year later he opened his first gallery in Indianapolis and then worked in St. Louis, before finally making his way to New York around 1872. He started his commercial photography business at 78 Fulton Street around 1875, and was officially joined by his son James S. Hall in 1886 when firm took the name George P. Hall &amp; Son. The father and son operated the company until 1900, when George P. Hall died. James S. Hall continued to run the business until about 1914. A brief note in the Business Troubles column of the New York Times for June 4, 1914 indicates that creditors were filing a petition against Hall, and that he admitted his insolvency. It is presumed that the firm closed in the wake of these financial difficulties.   The Halls operated several studios in Manhattan. City directories published by Trow indicate that George P. Hall maintained a studio at 78 Fulton Street from 1876 to 1883. He moved his business to 157 Fulton Street in 1883, where he was joined by his son; that studio remained open until 1901. Later shops included those at 303 Broadway from 1890 to 1894, at 52 Water Street from 1897 to 1902, at 212 Broadway from 1901 to 1914, at 364 Bowery from 1902 to 1903, and at 230 Grand Street from 1903 to 1904. The Halls made their residences in Brooklyn, and often turned their cameras toward features of that city as well as Manhattan. They also worked as marine and engineering photographers.</note>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>George P. Hall &amp; Son photograph collection, ca. 1876-1914. Series I: Manhattan</title>
+    </titleInfo>
+  </relatedItem>
+  <note displayLabel="Collection Note">The collection consists of approximately 1,500 modern photographic prints, 275 glass negatives, and 2 log books, and dates from ca. 1876 to 1914. Photographic prints in this collection were printed in the 1960s and 1970s from Hall's original glass negatives. The large-format views in this collection provide clear, extremely detailed and flattering depictions of a variety of subjects, including Manhattan's early skyscrapers, hotels and theater exteriors, harbor activity, and downtown streets, as well as Brooklyn business areas and resorts. George P. Hall &amp; Son photographed the Battery skyline repeatedly from the 1880s through the 1910s, documenting the dramatic changes that occurred as New York progressed from a lowrise to a highrise city. Many of Hall &amp; Son's views are notable for their high-angle perspectives. Views in this collection also depict many of the U.S. Navy's new steel battleships of the 1890s. Sagtikos Manor and other Long Island sites are well documented. There are also some photographs of the Hall Studios and Hall family members.</note>
+  <location>
+    <physicalLocation>New-York Historical Society, 170 Central Park West, New York, NY 10024, 212-873-3400</physicalLocation>
+  </location>
+  <genre>Photographic prints</genre>
+  <typeOfResource>still image</typeOfResource>
+  <note>Digitzed by New-York Historical Society</note>
+  <accessCondition type="use and reproduction">This digital image may be used for educational or scholarly purposes without restriction. Commercial and other uses of the item are prohibited without prior written permission from the New-York Historical Society. Please visit the New-York Historical Society's Rights and Reproductions Department web page at http://www.nyhistory.org/about/rights-reproductions for more information.</accessCondition>
+  <subject>
+    <topic>New York (N.Y.)--Photographs</topic>
+  </subject>
+  <subject>
+    <topic>New York (N.Y.)--Buildings, structures, etc.--Photographs</topic>
+  </subject>
+  <subject>
+    <topic>Municipal buildings--New York (State)--New York--Photographs</topic>
+  </subject>
+  <physicalDescription>
+    <form>Photograph</form>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/photosnycbeyond%3A29661</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:studenthandbills_572</identifier><datestamp>2014-10-10T12:28:01Z</datestamp><setSpec>studenthandbills_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:php="http://php.net/xsl">
+  <titleInfo>
+    <title>Student Congress for Liberty and Peace</title>
+  </titleInfo>
+  <subject authority="lcsh">
+    <topic>Brooklyn College--History</topic>
+  </subject>
+  <genre authority="lctgm">Handbills</genre>
+  <abstract>Handbill signed by various student committees urging students to call for a Peace Conference</abstract>
+  <originInfo>
+    <dateCreated encoding="w3cdtf">1940-10-25</dateCreated>
+  </originInfo>
+  <typeOfResource>text</typeOfResource>
+  <accessCondition type="use and reproduction">Please contact Brooklyn College for rights to use this image</accessCondition>
+  <location>
+    <physicalLocation>Brooklyn College</physicalLocation>
+  </location>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Brooklyn College Handbill Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/studenthandbills%3A572</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:photosnycbeyond_27140</identifier><datestamp>2014-10-10T17:40:17Z</datestamp><setSpec>photosnycbeyond_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Partial panorama of unidentified acreage (New York City vicinity) with train tracks, undated (ca. 1920).</title>
+  </titleInfo>
+  <identifier type="local">nyhs_PR83_9375.jpg</identifier>
+  <note type="dateuncontrolled">ca. 1920</note>
+  <name type="personal">
+    <namePart>Hassler, William Davis, 1877-1921</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">
+                    Photographer
+                </roleTerm>
+    </role>
+  </name>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>William D. Hassler photograph collection, approximately 1910-1921</title>
+    </titleInfo>
+  </relatedItem>
+  <note displayLabel="Collection Note">Negatives, 1910-1920, depict buildings and street scenes in New York City, as well as views in Meadville (Pennsylvania) and Crawford County (Pennsylvania). Groups of photographs were taken for the New York and Washington real estate auctioneer Joseph P. Day. Also present are Hassler family photographs. There is also one box of photographic prints that were selectively made from glass plate negatives by the New-York Historical Society.</note>
+  <location>
+    <physicalLocation>New-York Historical Society, 170 Central Park West, New York, NY 10024, 212-873-3400</physicalLocation>
+  </location>
+  <typeOfResource>still image</typeOfResource>
+  <note>Digitzed by New-York Historical Society</note>
+  <accessCondition type="use and reproduction">This digital image may be used for educational or scholarly purposes without restriction. Commercial and other uses of the item are prohibited without prior written permission from the New-York Historical Society. Please visit the New-York Historical Society's Rights and Reproductions Department web page at http://www.nyhistory.org/about/rights-reproductions for more information.</accessCondition>
+  <genre>Cellulose nitrate film</genre>
+  <genre>Negatives (photographic)</genre>
+  <physicalDescription>
+    <form>Photograph</form>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/photosnycbeyond%3A27140</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:waterways_555</identifier><datestamp>2014-10-10T13:07:14Z</datestamp><setSpec>waterways_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Canal flowing through industrial area (2back) [e0294ac2]</title>
+  </titleInfo>
+  <note type="publishinginfo">Published by A.E. Riley, Middlepoint, N.Y.   Made in Germany</note>
+  <abstract>Postal data:  posted, postmarked (MEDINA, N.Y. NOV 18 190 [indiscernible]), stamp; Postcard type: divided back; Printing information: (No. A 4952); Logo (POST CARD);Trademarks: (EXCELSIOR) printed around circle, with clover inside circle containing the letters (A.N.C.) with (NY),  LEIPZIG BERLIN  DRESDEN) printed below clover;  Written message (Notice the Boat.); Addressee (Mr. Percy Krumpar, Medina, N.Y.); Benjamin Franklin stamp in three-quarter profile</abstract>
+  <note type="dateuncontrolled">190?</note>
+  <note>Digitized by Graduate School of Library and Information Studies, Queens College (CUNY)</note>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <genre authority="lctgm">Postcards</genre>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Post Card collection of the Erie Canal Museum, Syracuse, New York</title>
+    </titleInfo>
+  </relatedItem>
+  <identifier type="local">e0294ac2.jpg</identifier>
+  <accessCondition type="use and reproduction">Contact Thomas T. Surprenant, ebeltoms@nyc.rr.com</accessCondition>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>still image</typeOfResource>
+  <physicalDescription>
+    <extent>3.5 in. x 5.5 in.</extent>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/waterways%3A555</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:photosnycbeyond_16129</identifier><datestamp>2014-10-10T15:15:41Z</datestamp><setSpec>photosnycbeyond_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Rooftop view of unidentified wooded areas, houses.</title>
+  </titleInfo>
+  <identifier type="local">nyhs_PR081_b-35_017-01.jpg</identifier>
+  <name type="personal">
+    <namePart>Armbruster, Eugene L., 1865-1943</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">
+                    Photographer
+                </roleTerm>
+    </role>
+  </name>
+  <note displayLabel="Photographer Note">New York photographer and local historian born in Baden-Baden, Germany; emigrated to the United States 1882 and lived in Brooklyn, New York. Armbruster photographed historic houses, churches, streetscapes, and buildings throughout New York City, and some of the images he created served to illustrate pamphlets he wrote on the local history of the area.</note>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Eugene L. Armbruster photograph collection, 1894-1939. Series II: New York City Negatives. Subseries IV: Glass Plate Negatives: 6.5 x 8.5"</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>New-York Historical Society, 170 Central Park West, New York, NY 10024, 212-873-3400</physicalLocation>
+  </location>
+  <typeOfResource>still image</typeOfResource>
+  <note>Digitzed by New-York Historical Society</note>
+  <accessCondition type="use and reproduction">This digital image may be used for educational or scholarly purposes without restriction. Commercial and other uses of the item are prohibited without prior written permission from the New-York Historical Society. Please visit the New-York Historical Society's Rights and Reproductions Department web page at http://www.nyhistory.org/about/rights-reproductions for more information.</accessCondition>
+  <genre>Negatives (photographic)</genre>
+  <genre>Glass negatives</genre>
+  <genre>Black-and-white negatives</genre>
+  <physicalDescription>
+    <form>Photograph</form>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/photosnycbeyond%3A16129</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:photosnycbeyond_25755</identifier><datestamp>2014-10-10T17:21:07Z</datestamp><setSpec>photosnycbeyond_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Children seated for story hour, Astoria branch of the Queens Borough Public Library, November 28, 1914.</title>
+  </titleInfo>
+  <identifier type="local">nyhs_PR83_2128.jpg</identifier>
+  <originInfo>
+    <dateCreated encoding="iso8601">1914</dateCreated>
+  </originInfo>
+  <name type="personal">
+    <namePart>Hassler, William Davis, 1877-1921</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">
+                    Photographer
+                </roleTerm>
+    </role>
+  </name>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>William D. Hassler photograph collection, approximately 1910-1921</title>
+    </titleInfo>
+  </relatedItem>
+  <note displayLabel="Collection Note">Negatives, approximately 1910-1921, depict buildings and street scenes in New York City, as well as views in Meadville (Pennsylvania) and Crawford County (Pennsylvania). Groups of photographs were taken for the New York and Washington real estate auctioneer Joseph P. Day. Also present are Hassler family photographs. There is also one box of photographic prints that were selectively made from glass plate negatives by the New-York Historical Society.</note>
+  <location>
+    <physicalLocation>New-York Historical Society, 170 Central Park West, New York, NY 10024, 212-873-3400</physicalLocation>
+  </location>
+  <typeOfResource>still image</typeOfResource>
+  <note>Digitzed by New-York Historical Society</note>
+  <accessCondition type="use and reproduction">This digital image may be used for educational or scholarly purposes without restriction. Commercial and other uses of the item are prohibited without prior written permission from the New-York Historical Society. Please visit the New-York Historical Society's Rights and Reproductions Department web page at http://www.nyhistory.org/about/rights-reproductions for more information.</accessCondition>
+  <subject>
+    <topic>New York (N.Y.)--Photographs</topic>
+  </subject>
+  <subject>
+    <topic>Queens (New York, N.Y.)--Photographs</topic>
+  </subject>
+  <subject>
+    <topic>Libraries--New York (State)--New York--Photographs</topic>
+  </subject>
+  <subject>
+    <topic>Queens Borough Public Library</topic>
+  </subject>
+  <subject>
+    <topic>Children--New York (State)--New York--Photographs</topic>
+  </subject>
+  <genre>Glass negatives</genre>
+  <genre>Negatives (photographic)</genre>
+  <physicalDescription>
+    <form>Photograph</form>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/photosnycbeyond%3A25755</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:photosnycbeyond_23071</identifier><datestamp>2014-10-10T16:44:21Z</datestamp><setSpec>photosnycbeyond_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Flatbush: unidentified small wooden church, houses, undated.</title>
+  </titleInfo>
+  <identifier type="local">nyhs_PR081_b-11_f-01_040.jpg</identifier>
+  <name type="personal">
+    <namePart>Armbruster, Eugene L., 1865-1943</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">
+                    Photographer
+                </roleTerm>
+    </role>
+  </name>
+  <note displayLabel="Photographer Note">New York photographer and local historian born in Baden-Baden, Germany; emigrated to the United States 1882 and lived in Brooklyn, New York. Armbruster photographed historic houses, churches, streetscapes, and buildings throughout New York City, and some of the images he created served to illustrate pamphlets he wrote on the local history of the area.</note>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Eugene L. Armbruster photograph collection, 1894-1939. Series II: New York City Negatives. Subseries I: Acetate Film Negatives: 4 x 5"</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>New-York Historical Society, 170 Central Park West, New York, NY 10024, 212-873-3400</physicalLocation>
+  </location>
+  <genre>Negatives (photographic)</genre>
+  <typeOfResource>still image</typeOfResource>
+  <note>Digitzed by New-York Historical Society</note>
+  <accessCondition type="use and reproduction">This digital image may be used for educational or scholarly purposes without restriction. Commercial and other uses of the item are prohibited without prior written permission from the New-York Historical Society. Please visit the New-York Historical Society's Rights and Reproductions Department web page at http://www.nyhistory.org/about/rights-reproductions for more information.</accessCondition>
+  <subject>
+    <topic>Flatbush (New York, N.Y.)--Photographs</topic>
+  </subject>
+  <subject>
+    <topic>Brooklyn (New York, N.Y.)--Buildings, structures, etc.--Photographs</topic>
+  </subject>
+  <physicalDescription>
+    <form>Photograph</form>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/photosnycbeyond%3A23071</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:waterways_2105</identifier><datestamp>2014-10-10T13:24:44Z</datestamp><setSpec>waterways_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Pub For Stilwell Port Byron NY [handwritten front caption in white ink] (1front) [e0702ac1]</title>
+  </titleInfo>
+  <note type="publishinginfo">[unknown]</note>
+  <abstract>Sepia tone postcard with view of the Erie Canal.  The water of the canal dominates the bottom of the postcard.  The focus of the card is on the man and woman standing on a small boat.  Just above is a small bridge. The words (Canalwalk Boat) are written on the bottom portion of the bridge. There are a few adults and children scattered around the bridge area.  Trees and buildings can be seen in the background.</abstract>
+  <subject>
+    <geographic>Port Byron, New York</geographic>
+  </subject>
+  <note type="dateuncontrolled">1907?</note>
+  <note>Digitized by Graduate School of Library and Information Studies, Queens College (CUNY)</note>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <genre authority="lctgm">Postcards</genre>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Waterways Post Card Collection of Thomas T. Surprenant: Erie Canal</title>
+    </titleInfo>
+  </relatedItem>
+  <identifier type="local">e0702ar1.jpg</identifier>
+  <accessCondition type="use and reproduction">Contact Thomas T. Surprenant, ebeltoms@nyc.rr.com</accessCondition>
+  <subject>
+    <topic>Bridges</topic>
+  </subject>
+  <subject>
+    <topic>Pedestrian bridges</topic>
+  </subject>
+  <subject>
+    <topic>Buildings</topic>
+  </subject>
+  <subject>
+    <topic>Dresses</topic>
+  </subject>
+  <subject>
+    <topic>Chimneys</topic>
+  </subject>
+  <subject>
+    <topic>Hats</topic>
+  </subject>
+  <subject>
+    <topic>Fences</topic>
+  </subject>
+  <subject>
+    <topic>Fuelwood</topic>
+  </subject>
+  <subject>
+    <topic>Grasses</topic>
+  </subject>
+  <subject>
+    <topic>Masonry</topic>
+  </subject>
+  <subject>
+    <topic>Railings</topic>
+  </subject>
+  <subject>
+    <topic>Reflections</topic>
+  </subject>
+  <subject>
+    <topic>Ropes</topic>
+  </subject>
+  <subject>
+    <topic>Stairways</topic>
+  </subject>
+  <subject>
+    <topic>Trees</topic>
+  </subject>
+  <subject>
+    <topic>Utility poles</topic>
+  </subject>
+  <subject>
+    <topic>Boys</topic>
+  </subject>
+  <subject>
+    <topic>Men</topic>
+  </subject>
+  <subject>
+    <topic>Passengers</topic>
+  </subject>
+  <subject>
+    <topic>People</topic>
+  </subject>
+  <subject>
+    <topic>Women</topic>
+  </subject>
+  <subject>
+    <topic>Sepia postcards</topic>
+  </subject>
+  <subject>
+    <topic>Canal boats</topic>
+  </subject>
+  <subject>
+    <topic>Canals</topic>
+  </subject>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>still image</typeOfResource>
+  <physicalDescription>
+    <extent>3.5 in. x 5.5 in.</extent>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/waterways%3A2105</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:waterways_561</identifier><datestamp>2014-10-10T13:07:16Z</datestamp><setSpec>waterways_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Industrial scene across the canal or lake? (1front) [e0296ac1]</title>
+  </titleInfo>
+  <note type="publishinginfo">[unknown]</note>
+  <abstract>Scene looking across body of water at industrial and commercial buildings with smokestacks.  There are several boats ashore.  Bridges can be seen on the left hand side behind the buildings; [White border at bottom of card]; Written message (From Mrs. A. A. Theberle)</abstract>
+  <note type="dateuncontrolled">1905?</note>
+  <note>Digitized by Graduate School of Library and Information Studies, Queens College (CUNY)</note>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <genre authority="lctgm">Postcards</genre>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Post Card collection of the Erie Canal Museum, Syracuse, New York</title>
+    </titleInfo>
+  </relatedItem>
+  <identifier type="local">e0296ac1.jpg</identifier>
+  <accessCondition type="use and reproduction">Contact Thomas T. Surprenant, ebeltoms@nyc.rr.com</accessCondition>
+  <subject>
+    <topic>Bridges</topic>
+  </subject>
+  <subject>
+    <topic>Buildings</topic>
+  </subject>
+  <subject>
+    <topic>Commercial facilities</topic>
+  </subject>
+  <subject>
+    <topic>Industrial facilities</topic>
+  </subject>
+  <subject>
+    <topic>Black &amp; white postcards</topic>
+  </subject>
+  <subject>
+    <topic>Boats</topic>
+  </subject>
+  <subject>
+    <topic>Canal boats</topic>
+  </subject>
+  <subject>
+    <topic>Panoramic views</topic>
+  </subject>
+  <subject>
+    <topic>Canals</topic>
+  </subject>
+  <subject>
+    <topic>Barges</topic>
+  </subject>
+  <subject>
+    <topic>Shipping</topic>
+  </subject>
+  <subject>
+    <topic>Smokestacks</topic>
+  </subject>
+  <typeOfResource>text</typeOfResource>
+  <typeOfResource>still image</typeOfResource>
+  <physicalDescription>
+    <extent>3.5 in. x 5.5 in.</extent>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/waterways%3A561</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:artistscorrespond_1213</identifier><datestamp>2014-10-10T14:13:50Z</datestamp><setSpec>artistscorrespond_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Happy New Year</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Minter, Marilyn, 1948-</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Author</roleTerm>
+    </role>
+  </name>
+  <abstract>Holiday card from Bill and Marilyn Minter, n.d.   Card shows a Marilyn Minter full color photograph along with the printed words "Happy New Year,  May Your Holidays be a Fulll Freckled Frolic."</abstract>
+  <subject>
+    <name type="personal">
+      <namePart>Minter, Marilyn, 1948-</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Art, American--20th century--Correspondence</topic>
+  </subject>
+  <subject>
+    <name type="corporate">
+      <namePart>Whitney Museum of American Art</namePart>
+    </name>
+  </subject>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Whitney Artists' Correspondence and Ephemera, 1930-</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>The Frances Mulhall Achilles Library, Archives, Whitney Museum of American Art</physicalLocation>
+  </location>
+  <accessCondition type="use and reproduction">The copying of any protected materials in this collection is prohibited, except for limited non-commercial, educational, and personal use only, or for fair use as defined in the U.S. copyright laws. Images from the Whitney's collection cannot be used for publication or commercial use without the prior written permission from the Museum's Rights and Reproductions Department. For more information about Terms and Conditions, please visit: http://whitney.org/TermsAndConditions</accessCondition>
+  <typeOfResource>Text</typeOfResource>
+  <identifier type="local">wace0400_minter0000</identifier>
+  <note>Digitized by The Frances Mulhall Achilles Library, Archives, Whitney Museum of American Art</note>
+  <physicalDescription>
+    <extent>12.7 cm (H) x 17.4 cm (W)</extent>
+    <note type="condition">good</note>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/artistscorrespond%3A1213</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:photosnycbeyond_20813</identifier><datestamp>2014-10-10T16:14:23Z</datestamp><setSpec>photosnycbeyond_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Flatlands: 1754 Flatbush Avenue, Stoolhoff-Duryea House, at the junction with Avenue J and E. 35th Street, 1922.</title>
+  </titleInfo>
+  <identifier type="local">nyhs_PR081_b-02_f-24_200-01.jpg</identifier>
+  <originInfo>
+    <dateCreated encoding="iso8601">1922</dateCreated>
+  </originInfo>
+  <name type="personal">
+    <namePart>Armbruster, Eugene L., 1865-1943</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">
+                    Photographer
+                </roleTerm>
+    </role>
+  </name>
+  <note displayLabel="Photographer Note">New York photographer and local historian born in Baden-Baden, Germany; emigrated to the United States 1882 and lived in Brooklyn, New York. Armbruster photographed historic houses, churches, streetscapes, and buildings throughout New York City, and some of the images he created served to illustrate pamphlets he wrote on the local history of the area.</note>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Eugene L. Armbruster photograph collection, 1894-1939. Series I: Prints. Subseries I: Prints: 3.5 x 4.5" and smaller</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>New-York Historical Society, 170 Central Park West, New York, NY 10024, 212-873-3400</physicalLocation>
+  </location>
+  <genre>Photographic prints</genre>
+  <typeOfResource>still image</typeOfResource>
+  <note>Digitzed by New-York Historical Society</note>
+  <accessCondition type="use and reproduction">This digital image may be used for educational or scholarly purposes without restriction. Commercial and other uses of the item are prohibited without prior written permission from the New-York Historical Society. Please visit the New-York Historical Society's Rights and Reproductions Department web page at http://www.nyhistory.org/about/rights-reproductions for more information.</accessCondition>
+  <subject>
+    <topic>Flatlands (New York, N.Y.)--Photographs</topic>
+  </subject>
+  <subject>
+    <topic>Brooklyn (New York, N.Y.)--Buildings, structures, etc.--Photographs</topic>
+  </subject>
+  <physicalDescription>
+    <form>Photograph</form>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/photosnycbeyond%3A20813</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:studenthandbills_793</identifier><datestamp>2014-10-10T12:30:32Z</datestamp><setSpec>studenthandbills_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:php="http://php.net/xsl">
+  <titleInfo>
+    <title>The Shame of a Nation</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Progressive Students Party</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+    </role>
+  </name>
+  <subject authority="lcsh">
+    <topic>Brooklyn College--History</topic>
+  </subject>
+  <genre authority="lctgm">Handbills</genre>
+  <abstract>Handbill announcing a speaker from the Southern Tenants Farmers Union</abstract>
+  <originInfo>
+    <dateCreated encoding="w3cdtf">1941-03-07</dateCreated>
+  </originInfo>
+  <typeOfResource>text</typeOfResource>
+  <identifier type="local">hand226</identifier>
+  <accessCondition type="use and reproduction">Please contact Brooklyn College for rights to use this image</accessCondition>
+  <location>
+    <physicalLocation>Brooklyn College</physicalLocation>
+  </location>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Brooklyn College Handbill Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/studenthandbills%3A793</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:albadigitallibrary_587</identifier><datestamp>2014-10-10T12:32:30Z</datestamp><setSpec>albadigitallibrary_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Harry Hakam to Marjorie Polon</title>
+  </titleInfo>
+  <abstract>Harry tells Marjorie he did not like the poem she wrote.  Instead, he prefers hearing about her life, what her parents think of communists and Spain, her siblings, her ambitions for her future.  Asks that she find someone to write to Eloy in Spanish, and to remember to include cigarettes.</abstract>
+  <name type="personal">
+    <namePart>Hakam, Harry, 1913-1996</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="w3cdtf">1938-08-04</dateCreated>
+  </originInfo>
+  <typeOfResource>text</typeOfResource>
+  <genre>Autograph Letter Signed</genre>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Marjorie Polon Papers, ALBA No. 159, Tamiment Library, NYU</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem xmlns:ns_1="xlink" ns_1:href="http://dlib.nyu.edu/findingaids/html/tamwag/polon_content.html"/>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <relatedItem>
+    <note>http://dlib.nyu.edu/findingaids/html/tamwag/hakam_content.html</note>
+  </relatedItem>
+  <subject>
+    <geographic>Barcelona</geographic>
+  </subject>
+  <accessCondition type="use and reproduction">Copyright © 2009 New York University. All rights reserved.</accessCondition>
+  <note>Digital version published by Abraham Lincoln Brigade Archives (ALBA)</note>
+  <identifier type="local">Polon14</identifier>
+  <subject authority="lctgm">
+    <topic>Poetry</topic>
+  </subject>
+  <subject authority="lctgm">
+    <topic>Correspondence</topic>
+  </subject>
+  <subject authority="lctgm">
+    <topic>Communists</topic>
+  </subject>
+  <subject authority="lctgm">
+    <topic>Education</topic>
+  </subject>
+  <physicalDescription>
+    <form>Paper</form>
+    <extent>6.57" x 8.78"</extent>
+    <internetMediaType>application/pdf</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/albadigitallibrary%3A587</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:photosnycbeyond_16879</identifier><datestamp>2014-10-10T15:24:52Z</datestamp><setSpec>photosnycbeyond_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Brooklyn: unidentified street in industrial district, stone retaining wall, undated.</title>
+  </titleInfo>
+  <identifier type="local">nyhs_PR081_b-10_f-14_043.jpg</identifier>
+  <name type="personal">
+    <namePart>Armbruster, Eugene L., 1865-1943</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">
+                    Photographer
+                </roleTerm>
+    </role>
+  </name>
+  <note displayLabel="Photographer Note">New York photographer and local historian born in Baden-Baden, Germany; emigrated to the United States 1882 and lived in Brooklyn, New York. Armbruster photographed historic houses, churches, streetscapes, and buildings throughout New York City, and some of the images he created served to illustrate pamphlets he wrote on the local history of the area.</note>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Eugene L. Armbruster photograph collection, 1894-1939. Series II: New York City Negatives. Subseries I: Acetate Film Negatives: 4 x 5"</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>New-York Historical Society, 170 Central Park West, New York, NY 10024, 212-873-3400</physicalLocation>
+  </location>
+  <subject>
+    <topic>Brooklyn (New York, N.Y.)--Buildings, structures, etc.--Photographs</topic>
+  </subject>
+  <genre>Negatives (photographic)</genre>
+  <typeOfResource>still image</typeOfResource>
+  <note>Digitzed by New-York Historical Society</note>
+  <accessCondition type="use and reproduction">This digital image may be used for educational or scholarly purposes without restriction. Commercial and other uses of the item are prohibited without prior written permission from the New-York Historical Society. Please visit the New-York Historical Society's Rights and Reproductions Department web page at http://www.nyhistory.org/about/rights-reproductions for more information.</accessCondition>
+  <physicalDescription>
+    <form>Photograph</form>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/photosnycbeyond%3A16879</identifier>
+</mods>
+</metadata></record><resumptionToken expirationDate="2015-01-07T19:48:10Z" completeListSize="25341" cursor="0">1199735922</resumptionToken></ListRecords></OAI-PMH>

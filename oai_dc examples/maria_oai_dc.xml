@@ -1,0 +1,1348 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2015-04-06T15:54:46Z</responseDate><request verb="ListRecords" metadataPrefix="oai_dc" set="maria">http://cdm16694.contentdm.oclc.org/oai/oai.php</request><ListRecords><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:maria/0</identifier><datestamp>2012-05-16</datestamp><setSpec>maria</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:maria/1</identifier><datestamp>2012-05-16</datestamp><setSpec>maria</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:maria/2</identifier><datestamp>2012-05-16</datestamp><setSpec>maria</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:maria/3</identifier><datestamp>2012-05-16</datestamp><setSpec>maria</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:maria/4</identifier><datestamp>2012-05-16</datestamp><setSpec>maria</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:maria/5</identifier><datestamp>2012-05-16</datestamp><setSpec>maria</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:maria/6</identifier><datestamp>2012-05-16</datestamp><setSpec>maria</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/7</identifier><datestamp>2015-03-16</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Maria College Board of Trustees</dc:title>
+<dc:description>B &amp; W photograph of the first Advisory Board for Maria College, holding a meeting in the library at Mercy High School, Albany, New York.  Row one : Mother Mary Borromeo Warren, Mr. W. Reynolds Carr, Reverend John Nevins, Mrs. Rhea Eckel, Miss Gladys Murphy.  Row two : Mr. George J. Spears, Brother Celestine Luke Salm, Dr. Thomas Walsh, Mr. James J. Warren, Mr. William Glavin, Sister Mary Geraldine Riley.</dc:description>
+<dc:subject>Catholic universities and colleges; School boards</dc:subject>
+<dc:subject>Catholicism; Sisters of Mercy; Albany Diocese</dc:subject>
+<dc:subject>Warren, Mother W. Reynolds; Borromeo, Ne Mary; Carrvins, Reverend John; Eckel, Mrs. Jacob E. (Rhea); Murphy, Gladys C.; Spears, George J.; Salm, Brother Celestine Luke; Walsh, Dr. Thomas; Warren, James J.; Glavin, William A.; Riley, Sister Mary Geraldine</dc:subject>
+<dc:subject>Maria College</dc:subject>
+<dc:subject>Education; Philosophy &amp; Religion</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:date>1960</dc:date>
+<dc:source>photograph ; b &amp; w ; 7 x 9.5 in. (17.8 x 24.1 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0026</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maria College Digital Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way.  Please cite Maria College.  Prior written permission is required for any other use of the images of Maria College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/7</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/8</identifier><datestamp>2015-03-16</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Maria College bookstore</dc:title>
+<dc:description>B &amp; W photograph of Sister Mary Laetitia (facing camera) and Sister Mary Bertrand working in the Maria College bookstore.</dc:description>
+<dc:subject>Catholic universities and colleges</dc:subject>
+<dc:subject>Catholicism; Sisters of Mercy; Albany Diocese</dc:subject>
+<dc:subject>Laetitia, Sister Mary; Bertrand, Sister Mary</dc:subject>
+<dc:subject>Maria College</dc:subject>
+<dc:subject>Education; Philosophy &amp; Religion</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:date>1970</dc:date>
+<dc:source>photograph ; b &amp; w ; 8 x 8 in. (20.3 x 20.3 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0027</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maria College Digital Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way.  Please cite Maria College.  Prior written permission is required for any other use of the images of Maria College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/8</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/9</identifier><datestamp>2015-03-16</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Sister Mary Celine O&#x27;Brien and student</dc:title>
+<dc:description>B &amp; W photograph of Sister Mary Celine O&#x27;Brien and a student in the Maria College Library.</dc:description>
+<dc:subject>Catholic universities and colleges</dc:subject>
+<dc:subject>Catholicism; Sisters of Mercy; Albany Diocese</dc:subject>
+<dc:subject>O&#x27;Brien, Sister Mary Celine</dc:subject>
+<dc:subject>Maria College</dc:subject>
+<dc:subject>Education; Philosophy &amp; Religion</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:date>1967</dc:date>
+<dc:source>photograph ; b &amp; w ; 3.5 x 4.5 in. (8.9 x 11.4 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0039</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maria College Digital Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way.  Please cite Maria College.  Prior written permission is required for any other use of the images of Maria College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/9</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/10</identifier><datestamp>2015-03-16</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Maria College graduates</dc:title>
+<dc:description>B &amp; W photograph of Bishop William A. Scully congratulating Maria College graduates Sister Kathleen Marie Graber, Sister Mary Magdala Farrell, and Sister Julia Mary Werner.</dc:description>
+<dc:subject>Catholic universities and colleges</dc:subject>
+<dc:subject>Catholicism; Sisters of Mercy; Albany Diocese</dc:subject>
+<dc:subject>Scully, Bishop William A.; Graber, Sister Kathleen Marie; Farrell, Sister Mary Magdala; Werner, Sister Julia Mary</dc:subject>
+<dc:subject>Maria College</dc:subject>
+<dc:subject>Education; Philosophy &amp; Religion</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:publisher>Evangelist Newspaper, Albany, New York</dc:publisher>
+<dc:date>1961-09-09</dc:date>
+<dc:source>photograph ; b &amp; w ; 8 x 10 in. (20.3 x 25.4 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0028</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maria College Digital Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way.  Please cite Maria College.  Prior written permission is required for any other use of the images of Maria College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/10</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/11</identifier><datestamp>2015-03-16</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Groundbreaking ceremony 1</dc:title>
+<dc:description>B &amp; W photograph of the Maria College groundbreaking ceremony for the new library wing.  Bishop William A. Scully and Mayor Erastus Corning assist Mother Mary Magdalena Buckley.</dc:description>
+<dc:subject>Catholic universities and colleges</dc:subject>
+<dc:subject>Catholicism; Sisters of Mercy; Albany Diocese</dc:subject>
+<dc:subject>Scully, Bishop William A.; Buckley, Mother Mary Magdalena; Corning, Erastus</dc:subject>
+<dc:subject>Maria College</dc:subject>
+<dc:subject>Education; Philosophy &amp; Religion</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:date>1965-09-29</dc:date>
+<dc:source>photograph ; b &amp; w ; 8 x 10 in. (20.3 x 25.4 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0017</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maria College Digital Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way.  Please cite Maria College.  Prior written permission is required for any other use of the images of Maria College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/11</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/12</identifier><datestamp>2015-03-16</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Instruction at Maria College</dc:title>
+<dc:description>B &amp; W photograph of Sister Monica Flynn providing library instruction to Sister Marie de Lourdes Michaelson, Sister Mary LaSalle Roman, and Sister Mary Kenneth VanSlyke.</dc:description>
+<dc:subject>Catholic universities and colleges</dc:subject>
+<dc:subject>Catholicism; Sisters of Mercy; Albany Diocese</dc:subject>
+<dc:subject>Flynn, Sister Monica; Michaelson, Sister Marie de Lourdes; Roman, Sister Mary LaSalle; VanSlyke, Sister Mary Kenneth</dc:subject>
+<dc:subject>Maria College</dc:subject>
+<dc:subject>Education; Philosophy &amp; Religion</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:date>1960</dc:date>
+<dc:source>photograph ; b &amp; w ; 7 x 9 in. (17.8 x 22.9 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0023</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maria College Digital Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way.  Please cite Maria College.  Prior written permission is required for any other use of the images of Maria College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/12</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/13</identifier><datestamp>2015-03-16</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Maria College&#x27;s first students</dc:title>
+<dc:description>B &amp; W photograph of eight Sisters of the Presentation heading to class at Maria College.</dc:description>
+<dc:creator>Evangelist Newspaper, Albany, New York</dc:creator>
+<dc:subject>Catholic universities and colleges</dc:subject>
+<dc:subject>Catholicism; Sisters of the Presentation; Sisters of Mercy; Albany Diocese</dc:subject>
+<dc:subject>Maria College</dc:subject>
+<dc:subject>Education; Philosophy &amp; Religion</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:publisher>Evangelist Newspaper, Albany, New York</dc:publisher>
+<dc:date>1958</dc:date>
+<dc:source>photograph ; b &amp; w ; 5 x 8 in. (12.7 x 20.3 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0030</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maria College Digital Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way.  Please cite Maria College.  Prior written permission is required for any other use of the images of Maria College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/13</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/14</identifier><datestamp>2015-03-16</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Sister Mary Mechtilde Norton and student</dc:title>
+<dc:description>B &amp; W photograph of Sister Mary Mechtilde Norton, Librarian, and student at Maria College Library.</dc:description>
+<dc:subject>Catholic universities and colleges</dc:subject>
+<dc:subject>Catholicism; Sisters of Mercy; Albany Diocese</dc:subject>
+<dc:subject>Norton, Sister Mary Mechtilde</dc:subject>
+<dc:subject>Maria College</dc:subject>
+<dc:subject>Education; Philosophy &amp; Religion</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:date>1967</dc:date>
+<dc:source>photograph ; b &amp; w ; 5.5 x 8 in. (14 x 20.3 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0042</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maria College Digital Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way.  Please cite Maria College.  Prior written permission is required for any other use of the images of Maria College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/14</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/15</identifier><datestamp>2015-03-16</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Groundbreaking ceremony 2</dc:title>
+<dc:description>B &amp; W photograph of the Maria College groundbreaking ceremony for the new library wing.  Bishop William A. Scully, Mother Mary Magdalena Buckley, Mayor Erastus Corning, and Mother Mary Borromeo Warren, President of the college, break the earth as faculty and students look on.</dc:description>
+<dc:subject>Catholic universities and colleges</dc:subject>
+<dc:subject>Catholicism; Sisters of Mercy; Albany Diocese</dc:subject>
+<dc:subject>Scully, Bishop William A.; Buckley, Mother Mary Magdalena; Corning, Erastus; Warren, Mother Mary Borromeo</dc:subject>
+<dc:subject>Maria College</dc:subject>
+<dc:subject>Education; Philosophy &amp; Religion</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:date>1965-09-29</dc:date>
+<dc:source>photograph ; b &amp; w ; 8 x 10 in. (20.3 x 25.4 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0018</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maria College Digital Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way.  Please cite Maria College.  Prior written permission is required for any other use of the images of Maria College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/15</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/16</identifier><datestamp>2015-03-16</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Groundbreaking ceremony 3</dc:title>
+<dc:description>B &amp; W photograph of the Maria College groundbreaking ceremony for the new library wing.  Mother Mary Borromeo Warren and Sister Mary Magdalena Buckley join in prayer as Bishop William A. Scully blesses the ground, assisted by Reverend William Jillisky, Reverend Francis Caron, and Reverend John Rizzo.</dc:description>
+<dc:subject>Catholic universities and colleges</dc:subject>
+<dc:subject>Catholicism; Sisters of Mercy; Albany Diocese</dc:subject>
+<dc:subject>Warren, Mother Mary Borromeo; Buckley, Sister Mary Magdalena; Jillisky, Reverend William; Scully, Bishop William A.; Caron, Reverend Francis; Rizzo, Reverend John</dc:subject>
+<dc:subject>Maria College</dc:subject>
+<dc:subject>Education; Philosophy &amp; Religion</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:date>1965-09-29</dc:date>
+<dc:source>photograph ; b &amp; w ; 8 x 10 in. (20.3 x 25.4 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0019</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maria College Digital Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way.  Please cite Maria College.  Prior written permission is required for any other use of the images of Maria College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/16</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/17</identifier><datestamp>2015-03-16</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Blessing and Open House for the New Library Wing of Maria College 1</dc:title>
+<dc:description>B &amp; W photograph of Monsignor Raymond Rooney, Mayor Erastus Corning and Mother Mary Magdalena in the Maria College library taken at the Open House for the new library wing.</dc:description>
+<dc:subject>Catholic universities and colleges</dc:subject>
+<dc:subject>Catholicism; Sisters of Mercy; Albany Diocese</dc:subject>
+<dc:subject>Rooney, Monsignor Raymond; Corning, Erastus; Magdalena, Mother Mary</dc:subject>
+<dc:subject>Maria College</dc:subject>
+<dc:subject>Education; Philosophy &amp; Religion</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:publisher>Knickerbocker Newspaper</dc:publisher>
+<dc:date>1967-02-11</dc:date>
+<dc:source>photograph ; b &amp; w ; 7 x 9 in. (17.8 x 22.9 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0003</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maria College Digital Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way.  Please cite Maria College.  Prior written permission is required for any other use of the images of Maria College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/17</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/18</identifier><datestamp>2015-03-16</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Blessing and Open House for the New Library Wing of Maria College 7</dc:title>
+<dc:description>B &amp; W photograph of Mother Mary Magdalena at the front entrance of Maria College, on the day of the Open House for the new library wing of Maria College.</dc:description>
+<dc:subject>Catholic universities and colleges</dc:subject>
+<dc:subject>Catholicism; Sisters of Mercy; Albany Diocese</dc:subject>
+<dc:subject>Magdalena, Mother Mary</dc:subject>
+<dc:subject>Maria College</dc:subject>
+<dc:subject>Education; Philosophy &amp; Religion</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:publisher>Knickerbocker Newspaper</dc:publisher>
+<dc:date>1967-02-11</dc:date>
+<dc:source>photograph ; b &amp; w ; 7 x 9.5 in. (17.8 x 24.1 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0009</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maria College Digital Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way.  Please cite Maria College.  Prior written permission is required for any other use of the images of Maria College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/18</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/19</identifier><datestamp>2015-03-16</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Madonna and Child and Maria Medallion stained glass windows 1</dc:title>
+<dc:description>B &amp; W photograph of Mother Mary Magdalena and Reverend Bertrand Fay standing by the Madonna and Child and the Maria Medallion windows which grace the main entrance lobby of the Administration Building on the Maria College Campus, Albany, New York.  Each were part of a large stained glass window installed in 1885 above the altar in the Chapel of the original Sisters of Mercy Motherhouse, Rensselaer, New York, the first such convent of the Sisters of Mercy in upstate New York.  When the convent was demolished in 1964, these windows were bequeathed to the College by the Sisters of Mercy, sponsors of the College, and encased in a marble wall opening in the main lobby when the second addition was dedicated in 1967.  Most recently, the windows were strengthened and restored to their natural beauty by nationally known artesian Joseph A. Savio of All in Glass Studio in Castleton, New York, a meticulous and rewarding project that took one year to complete.  The creator of these windows, and where they came from, remain a total mystery, as this is the only piece of history not recorded in the Mercy community archives.</dc:description>
+<dc:creator>Wilder</dc:creator>
+<dc:subject>Catholic universities and colleges</dc:subject>
+<dc:subject>Catholicism; Sisters of Mercy; Albany Diocese</dc:subject>
+<dc:subject>Magdalena, Mother Mary; Fay, Reverend Bertrand</dc:subject>
+<dc:subject>Maria College</dc:subject>
+<dc:subject>Education; Philosophy &amp; Religion</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:publisher>Times Union Newspaper</dc:publisher>
+<dc:date>1967-01-17</dc:date>
+<dc:source>photograph ; b &amp; w ; 7 x 9 in. (17.8 x 22.9 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0024</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maria College Digital Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way.  Please cite Maria College.  Prior written permission is required for any other use of the images of Maria College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/19</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/20</identifier><datestamp>2015-03-16</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>New Library Wing of Maria College 1</dc:title>
+<dc:description>B &amp; W photograph of Sister Mary Paulette (by window) and Sister Mary Foley (seated) in the new library wing of Maria College.</dc:description>
+<dc:subject>Catholic universities and colleges</dc:subject>
+<dc:subject>Catholicism; Sisters of Mercy; Albany Diocese</dc:subject>
+<dc:subject>Paulette, Sister Mary; Foley, Sister Mary</dc:subject>
+<dc:subject>Maria College</dc:subject>
+<dc:subject>Education; Philosophy &amp; Religion</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:date>1967</dc:date>
+<dc:source>photograph ; b &amp; w ; 8 x 10 in. (20.3 x 25.4 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0032</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maria College Digital Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way.  Please cite Maria College.  Prior written permission is required for any other use of the images of Maria College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/20</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/21</identifier><datestamp>2015-03-16</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>New Library Wing of Maria College 2</dc:title>
+<dc:description>B &amp; W photograph of Sisters working and studying in the new library wing of Maria College.</dc:description>
+<dc:subject>Catholic universities and colleges</dc:subject>
+<dc:subject>Catholicism</dc:subject>
+<dc:subject>Maria College</dc:subject>
+<dc:subject>Education</dc:subject>
+<dc:coverage>Albany, New York</dc:coverage>
+<dc:date>1967</dc:date>
+<dc:source>photograph ; b &amp; w ; 5 x 8 in. (12.7 x 20.3 cm.)</dc:source>
+<dc:type>still image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0033</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maria College Digital Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way.  Prior written permission is required for any other use of the images of Maria College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/21</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/22</identifier><datestamp>2015-03-16</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Donald J. McGinn Letter</dc:title>
+<dc:description>Letter from Donald J. McGinn, Professor, Rutgers University, to Mother Mary Borromeo Warren, President of Maria College, accepting her invitation to serve on the first advisory board.</dc:description>
+<dc:creator>McGinn, Donald J.</dc:creator>
+<dc:subject>Catholic universities and colleges; Letters; School boards</dc:subject>
+<dc:subject>Catholicism; Sisters of Mercy; Albany Diocese</dc:subject>
+<dc:subject>McGinn, Donald J.; Warren, Mother Mary Borromeo</dc:subject>
+<dc:subject>Rutgers University; Maria College</dc:subject>
+<dc:subject>Education; Philosophy &amp; Religion</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:publisher>McGinn, Donald J.</dc:publisher>
+<dc:date>1961-07-28</dc:date>
+<dc:source>letter ; 7.5 x 11 in. (19.1 x 27.9 cm.)</dc:source>
+<dc:type>Text</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0014</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maria College Digital Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way.  Please cite Maria College.  Prior written permission is required for any other use of the images of Maria College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/22</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/23</identifier><datestamp>2015-03-16</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Gladys C. Murphy Letter</dc:title>
+<dc:description>Letter from Gladys C. Murphy, Associate Professor of Education, Siena College, to Mother Mary Borromeo Warren, President of Maria College, accepting her invitation to serve on the first advisory board.</dc:description>
+<dc:creator>Murphy, Gladys C.</dc:creator>
+<dc:subject>Catholic universities and colleges; Letters; School boards</dc:subject>
+<dc:subject>Catholicism; Sisters of Mercy; Albany Diocese</dc:subject>
+<dc:subject>Murphy, Gladys C.; Warren, Mother Mary Borromeo</dc:subject>
+<dc:subject>Siena College; Maria College</dc:subject>
+<dc:subject>Education; Philosophy &amp; Religion</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:publisher>Murphy, Gladys C.</dc:publisher>
+<dc:date>1961-07-31</dc:date>
+<dc:source>letter ; 8.5 x 11 in. (21.6 x 27.9 cm.)</dc:source>
+<dc:type>Text</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0016</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maria College Digital Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way.  Please cite Maria College.  Prior written permission is required for any other use of the images of Maria College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/23</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/24</identifier><datestamp>2015-03-16</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>George J. Spears Letter</dc:title>
+<dc:description>Letter from George J. Spears, Dean of Russell Sage College Evening Division, to Mother Mary Borromeo Warren, President of Maria College, accepting her invitation to serve on the first advisory board.</dc:description>
+<dc:creator>Spears, George J.</dc:creator>
+<dc:subject>Catholic universities and colleges; Letters; School boards</dc:subject>
+<dc:subject>Catholicism; Sisters of Mercy; Albany Diocese</dc:subject>
+<dc:subject>Spears, George J.; Warren, Mother Mary Borromeo</dc:subject>
+<dc:subject>Russell Sage College; Maria College</dc:subject>
+<dc:subject>Education; Philosophy &amp; Religion</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:publisher>Spears, George J.</dc:publisher>
+<dc:date>1961-08-01</dc:date>
+<dc:source>letter; 5.5 x 8.5 in. (14 x 21.6 cm.)</dc:source>
+<dc:type>Text</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0015</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maria College Digital Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way.  Please cite Maria College.  Prior written permission is required for any other use of the images of Maria College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/24</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/25</identifier><datestamp>2015-03-16</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Mrs. Jacob E. Eckel Letter</dc:title>
+<dc:description>Letter from Mrs. Jacob E. (Rhea) Eckel, President of Cazenovia Junior College, to Mother Mary Borromeo Warren, President of Maria College, accepting her invitation to serve on the first advisory board.</dc:description>
+<dc:creator>Eckel, Mrs. Jacob E. (Rhea)</dc:creator>
+<dc:subject>Catholic universities and colleges; Letters; School boards</dc:subject>
+<dc:subject>Catholicism; Sisters of Mercy; Albany Diocese</dc:subject>
+<dc:subject>Eckel, Mrs. Jacob E. (Rhea); Warren, Mother Mary Borromeo</dc:subject>
+<dc:subject>Cazenovia Junior College</dc:subject>
+<dc:subject>Education; Philosophy &amp; Religion</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:publisher>Eckel, Mrs. Jacob E. (Rhea)</dc:publisher>
+<dc:date>1961-10-09</dc:date>
+<dc:source>letter ; 5.5 x 8.5 in. (14 x 21.6 cm.)</dc:source>
+<dc:type>Text</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0031</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maria College Digital Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way.  Please cite Maria College.  Prior written permission is required for any other use of the images of Maria College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/25</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/26</identifier><datestamp>2015-03-16</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>James J. Warren Letter</dc:title>
+<dc:description>Letter from James J. Warren, Board of Trustees, State University of New York at Albany, to Mother Mary Borromeo Warren, President of Maria College, accepting her invitation to serve on the first advisory board.</dc:description>
+<dc:creator>Warren, James J.</dc:creator>
+<dc:subject>Catholic universities and colleges; Letters; School boards</dc:subject>
+<dc:subject>Catholicism; Sisters of Mercy; Albany Diocese</dc:subject>
+<dc:subject>Warren, James J.; Warren, Mother Mary Borromeo</dc:subject>
+<dc:subject>State University of New York at Albany; Maria College</dc:subject>
+<dc:subject>Education; Philosophy &amp; Religion</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:publisher>Warren, James J.</dc:publisher>
+<dc:date>1961-08-02</dc:date>
+<dc:source>letter ; 8.5 x 11 in. (21.6 x 27.9 cm.)</dc:source>
+<dc:type>Text</dc:type>
+<dc:identifier>0020</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maria College Digital Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way.  Please cite Maria College.  Prior written permission is required for any other use of the images of Maria College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/26</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/27</identifier><datestamp>2015-03-16</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>W. Reynolds Carr Letter</dc:title>
+<dc:description>Letter from W. Reynolds Carr to Mother Mary Borromeo Warren, President of Maria College, accepting her invitation to serve on the first advisory board.</dc:description>
+<dc:creator>Carr, W. Reynolds</dc:creator>
+<dc:subject>Catholic universities and colleges; Letters; School boards</dc:subject>
+<dc:subject>Catholicism; Sisters of Mercy; Albany Diocese</dc:subject>
+<dc:subject>Carr, W. Reynolds; Warren, Sister Mary Borromeo</dc:subject>
+<dc:subject>Maria College</dc:subject>
+<dc:subject>Education; Philosophy &amp; Religion</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:publisher>Carr, W. Reynolds</dc:publisher>
+<dc:date>1961-07-28</dc:date>
+<dc:source>letter ; 7.5 x 10.5 in. (19.1 x 26.7 cm.)</dc:source>
+<dc:type>Text</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0048</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maria College Digital Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way.  Please cite Maria College.  Prior written permission is required for any other use of the images of Maria College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/27</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/28</identifier><datestamp>2015-03-16</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Sister Mary Gratia Letter</dc:title>
+<dc:description>Letter from Sister Mary Gratia, Dean of Mercy College, to Sister Mary Borromeo Warren, President of Maria College, accepting her invitation to serve on the first advisory board.</dc:description>
+<dc:creator>Gratia, Sister Mary</dc:creator>
+<dc:subject>Catholic universities and colleges; Letters; School boards</dc:subject>
+<dc:subject>Catholicism; Sisters of Mercy; Albany Diocese</dc:subject>
+<dc:subject>Gratia, Sister Mary; Warren, Sister Mary Borromeo</dc:subject>
+<dc:subject>Mercy College</dc:subject>
+<dc:subject>Education; Philosophy &amp; Religion</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:publisher>Gratia, Sister Mary</dc:publisher>
+<dc:date>1961-09-22</dc:date>
+<dc:source>letter ; 8.5 x 11 in. (21.6 x 27.9 cm.)</dc:source>
+<dc:type>Text</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0041</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maria College Digital Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way.  Please cite Maria College.  Prior written permission is required for any other use of the images of Maria College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/28</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/29</identifier><datestamp>2015-03-16</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Brother Celestine Luke Letter</dc:title>
+<dc:description>Letter from Brother Celestine Luke, Associate Professor of Theology, Manhattan College, to Mother Mary Borromeo Warren, President of Maria College, accepting her invitation to serve on the first advisory board.</dc:description>
+<dc:creator>Luke, Brother Celestine</dc:creator>
+<dc:subject>Catholic universities and colleges; Letters; School boards</dc:subject>
+<dc:subject>Catholicism; Sisters of Mercy; Albany Diocese</dc:subject>
+<dc:subject>Luke, Brother Celestine; Warren, Mother Mary Borromeo</dc:subject>
+<dc:subject>Manhattan College; Maria College</dc:subject>
+<dc:subject>Education; Philosophy &amp; Religion</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:publisher>Luke, Brother Celestine</dc:publisher>
+<dc:date>1961-07-28</dc:date>
+<dc:source>letter ; 8.5 x 11 in. (21.6 x 27.9 cm.)</dc:source>
+<dc:type>Text</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0010</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maria College Digital Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way.  Please cite Maria College.  Prior written permission is required for any other use of the images of Maria College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/29</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/30</identifier><datestamp>2015-03-16</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>William A. Glavin Letter</dc:title>
+<dc:description>Letter from William A. Glavin, Attorney at Law, to Mother Mary Borromeo Warren, President of Maria College, accepting her invitation to serve on the first advisory board.</dc:description>
+<dc:creator>Glavin, William A.</dc:creator>
+<dc:subject>Catholic universities and colleges; Letters; School boards</dc:subject>
+<dc:subject>Catholicism; Sisters of Mercy; Albany Diocese</dc:subject>
+<dc:subject>Glavin, William A.; Warren, Mother Mary Borromeo</dc:subject>
+<dc:subject>William A. Glavin, Attorney and Counselor at Law</dc:subject>
+<dc:subject>Education; Philosophy &amp; Religion</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:publisher>Glavin, William A.</dc:publisher>
+<dc:date>1961-07-28</dc:date>
+<dc:source>letter ; 8.5 x 11 in. (21.6 x 27.9 cm.)</dc:source>
+<dc:type>Text</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0049</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maria College Digital Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way.  Please cite Maria College.  Prior written permission is required for any other use of the images of Maria College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/30</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/31</identifier><datestamp>2015-03-16</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Bishop Edward J. Maginn Letter</dc:title>
+<dc:description>Letter from Bishop Edward J. Maginn, Auxiliary Bishop of Albany, Church of St. Vincent de Paul, to Mother Mary Borromeo Warren, President of Maria College, accepting her invitation to serve on the first advisory board.</dc:description>
+<dc:creator>Maginn, Bishop Edward J.</dc:creator>
+<dc:subject>Catholic universities and colleges; Letters; School boards</dc:subject>
+<dc:subject>Catholicism; Sisters of Mercy; Albany Diocese</dc:subject>
+<dc:subject>Maginn, Bishop Edward J.; Warren, Mother Mary Borromeo</dc:subject>
+<dc:subject>Church of St. Vincent DePaul; Maria College</dc:subject>
+<dc:subject>Education; Philosophy &amp; Religion</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:publisher>Maginn, Bishop Edward J.</dc:publisher>
+<dc:date>1961-08-03</dc:date>
+<dc:source>letter ; 8.5 x 11 in. (21.6 x 27.9 cm.)</dc:source>
+<dc:type>Text</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0002</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maria College Digital Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way.  Please cite Maria College.  Prior written permission is required for any other use of the images of Maria College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/31</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/32</identifier><datestamp>2015-03-16</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Provisional Charter of Maria College</dc:title>
+<dc:description>Provisional Charter of Maria College, Albany, New York. listing Mother Mary Borromeo Warren and her associates and successors as an educational corporation under the corporate name of Maria College, of Albany, New York, valid for a term of five years, granted April 25, 1958, number 7254, signed by Dr. James E. Allen, Jr., President of the University and Commissioner of Education.</dc:description>
+<dc:creator>University of the State of New York, Education Department</dc:creator>
+<dc:subject>Catholic universities and colleges; Charter schools</dc:subject>
+<dc:subject>Charters; Catholicism; Sisters of Mercy; Albany Diocese</dc:subject>
+<dc:subject>Allen, James E. Jr.; Warren, Sister Mary Borromeo</dc:subject>
+<dc:subject>Maria College</dc:subject>
+<dc:subject>Education; Philosophy &amp; Religion</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:publisher>University of the State of New York, Education Department</dc:publisher>
+<dc:date>1958-04-25</dc:date>
+<dc:source>card stock ; 8.5 x 11 in. (21.6 x 27.9 cm.)</dc:source>
+<dc:type>Text</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0036</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maria College Digital Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way.  Please cite Maria College.  Prior written permission is required for any other use of the images of Maria College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/32</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/33</identifier><datestamp>2015-03-16</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Amendment to Provisional Charter and Absolute Charter of Maria College</dc:title>
+<dc:description>Copy of the Amendment to Provisional Charter and Absolute Charter of Maria College, Albany, New York, to include the following statement : &quot;To admit lay persons as students in the college as well as members of religious congregations,&quot; and that the Board of Regents &quot;has granted to Maria College this  absolute charter, and has continued the said corporation with all its powers, privileges and duties,&quot; dated November 22, 1963, number 8513, signed by Dr. James E. Allen, Jr., President of the University and Commissioner of Education.</dc:description>
+<dc:creator>University of the State of New York, Education Department</dc:creator>
+<dc:subject>Catholic universities and colleges; Charter schools</dc:subject>
+<dc:subject>Charters; Catholicism; Sisters of Mercy; Albany Diocese</dc:subject>
+<dc:subject>Allen, James E. Jr.; Warren, Sister Mary Borromeo</dc:subject>
+<dc:subject>Maria College</dc:subject>
+<dc:subject>Education; Philosophy &amp; Religion</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:publisher>University of the State of New York, Education Department</dc:publisher>
+<dc:date>1963-11-22</dc:date>
+<dc:source>card stock ; 8.5 x 11 in. (21.6 x 27.9 cm.)</dc:source>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0001</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maria College Digital Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way.  Please cite Maria College.  Prior written permission is required for any other use of the images of Maria College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/33</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/34</identifier><datestamp>2015-03-16</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Sister Rosemary Sgroi in Maria College Library</dc:title>
+<dc:description>B &amp; W photograph of Sister Rosemary Sgroi studying in the Maria College Library.</dc:description>
+<dc:subject>Catholic universities and colleges</dc:subject>
+<dc:subject>Catholicism; Sisters of Mercy; Albany Diocese</dc:subject>
+<dc:subject>Sgroi, Sister Rosemary</dc:subject>
+<dc:subject>Maria College</dc:subject>
+<dc:subject>Education; Philosophy &amp; Religion</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:date>1967</dc:date>
+<dc:source>photograph ; b &amp; w ; 5.5 x 7.5 in. (14 x 19.1 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0044</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maria College Digital Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way.  Please cite Maria College.  Prior written permission is required for any other use of the images of Maria College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/34</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/35</identifier><datestamp>2015-03-16</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Original front entrance to Maria College 1</dc:title>
+<dc:description>B &amp; W photograph of the original front entrance to Maria College, before the new wing was built.</dc:description>
+<dc:subject>Catholic universities and colleges</dc:subject>
+<dc:subject>Catholicism; Sisters of Mercy; Albany Diocese</dc:subject>
+<dc:subject>Maria College</dc:subject>
+<dc:subject>Education; Philosophy &amp; Religion</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:date>1958</dc:date>
+<dc:source>photograph ; b &amp; w ; 3.5 x 3.5 in. (8.9 x 8.9 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0034</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maria College Digital Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way.  Please cite Maria College.  Prior written permission is required for any other use of the images of Maria College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/35</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/36</identifier><datestamp>2015-03-16</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Original front entrance to Maria College 2</dc:title>
+<dc:description>B &amp; W photograph of the original front entrance to Maria College, close up, before the new wing was built.</dc:description>
+<dc:subject>Catholic universities and colleges</dc:subject>
+<dc:subject>Catholicism; Sisters of Mercy; Albany Diocese</dc:subject>
+<dc:subject>Maria College</dc:subject>
+<dc:subject>Education; Philosophy &amp; Religion</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:date>1958</dc:date>
+<dc:source>photograph ; b &amp; w ; 3.5 x 3.5 in. (8.9 x 8.9 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0035</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maria College Digital Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way.  Please cite Maria College.  Prior written permission is required for any other use of the images of Maria College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/36</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/37</identifier><datestamp>2015-03-16</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Sister Mary Costello on campus</dc:title>
+<dc:description>B &amp; W photograph of Sister Mary Costello, Director of Admissions, Maria College, on campus.</dc:description>
+<dc:subject>Catholic universities and colleges</dc:subject>
+<dc:subject>Catholicism; Sisters of Mercy; Albany Diocese</dc:subject>
+<dc:subject>Costello, Sister Mary</dc:subject>
+<dc:subject>Maria College</dc:subject>
+<dc:subject>Education; Philosophy &amp; Religion</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:date>1974-11</dc:date>
+<dc:source>photograph ; b &amp; w ; 3 x 5 in. (7.6 x 12.7 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0040</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maria College Digital Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way.  Please cite Maria College.  Prior written permission is required for any other use of the images of Maria College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/37</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/38</identifier><datestamp>2015-03-16</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Sister Jane McCullough and student</dc:title>
+<dc:description>B &amp; W photograph of Sister Jane McCullough, Business Professor, and student in Maria College Library.</dc:description>
+<dc:subject>Catholic universities and colleges</dc:subject>
+<dc:subject>Catholicism; Sisters of Mercy; Albany Diocese</dc:subject>
+<dc:subject>McCullough, Sister Jane</dc:subject>
+<dc:subject>Maria College</dc:subject>
+<dc:subject>Education; Philosophy &amp; Religion</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:date>1974-11</dc:date>
+<dc:source>photograph ; b &amp; w ; 3 x 5 in. (7.6 x 12.7 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0038</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maria College Digital Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way.  Please cite Maria College.  Prior written permission is required for any other use of the images of Maria College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/38</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/39</identifier><datestamp>2015-03-16</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Students in art class</dc:title>
+<dc:description>B &amp; W photograph of Sisters working in art class at Maria College.</dc:description>
+<dc:subject>Catholic universities and colleges</dc:subject>
+<dc:subject>Catholicism; Sisters of Mercy; Albany Diocese</dc:subject>
+<dc:subject>Maria College</dc:subject>
+<dc:subject>Education; Philosophy &amp; Religion</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:date>1967</dc:date>
+<dc:source>photograph ; b &amp; w ; 5.5 x 8 in. (14 x 20.3 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0045</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maria College Digital Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way.  Please cite Maria College.  Prior written permission is required for any other use of the images of Maria College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/39</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/40</identifier><datestamp>2015-03-16</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Students in science lab</dc:title>
+<dc:description>B &amp; W photograph of Sisters taking notes during science lab.</dc:description>
+<dc:subject>Catholic universities and colleges</dc:subject>
+<dc:subject>Catholicism; Sisters of Mercy; Albany Diocese</dc:subject>
+<dc:subject>Maria College</dc:subject>
+<dc:subject>Education; Philosophy &amp; Religion</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:date>1967</dc:date>
+<dc:source>photograph ; b &amp; w ; 5.5 x 8 in. (14 x 20.3 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0047</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maria College Digital Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way.  Please cite Maria College.  Prior written permission is required for any other use of the images of Maria College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/40</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/41</identifier><datestamp>2015-03-16</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Sister Patricia Davis on campus</dc:title>
+<dc:description>B &amp; W photograph of Sister Patricia Davis, Business Professor, Maria College, on campus.</dc:description>
+<dc:subject>Catholic universities and colleges</dc:subject>
+<dc:subject>Catholicism; Sisters of Mercy; Albany Diocese</dc:subject>
+<dc:subject>Davis, Sister Patricia</dc:subject>
+<dc:subject>Maria College</dc:subject>
+<dc:subject>Education; Philosophy &amp; Religion</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:date>1974-11</dc:date>
+<dc:source>photograph ; b &amp; w ; 3 x 5 in. (7.6 x 12.7 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0043</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maria College Digital Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way.  Please cite Maria College.  Prior written permission is required for any other use of the images of Maria College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/41</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/42</identifier><datestamp>2015-03-16</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Maria College Seal</dc:title>
+<dc:description>B &amp; W photograph of the plaque bearing the seal of Maria College and the name of the President of the College from 1968 to 1977, Sister Mary Berchmans Mahoney.  The seal combines a series of symbols characterizing the purpose, not only of the college, but also of the Sisters of Mercy.  The name &quot;Maria&quot; honors our Lady of Mercy, patroness of the Sisters.  The college was chartered by the University of the State of New York in 1958.  An open book, the heraldic indication of a college, occupies the center field of the seal.  On the left is a shield with red and gold bars topped with a maltese cross.  This shield connotes Mercy, the essence of all Divine attributes and the distinctive feature of the humanitarian objectives undertaken by the Foundress of the Sisters of Mercy.  The Chi-Rho on the right represents the Christocentric training, the core of the college curriculum.  The crown at the top center is a tribute to the patroness of Maria College, the Queen of Heaven.  A cross reaching from crown to book symbolizes the far-reaching principles permeating all phases of Maria College life.  Mother Catherine McAuley, Founder of the Community, is quoted:  &quot;The Divine Lord is present in our midst to aid us in every difficulty, to enable us to surmount every obstacle on our way to His kingdom.&quot;</dc:description>
+<dc:subject>Catholic universities and colleges; Religious articles</dc:subject>
+<dc:subject>Catholicism; Sisters of Mercy; Albany Diocese</dc:subject>
+<dc:subject>Mahoney, Sister Mary Berchmans; McAuley, Mother Catherine</dc:subject>
+<dc:subject>Maria College</dc:subject>
+<dc:subject>Education; Philosophy &amp; Religion</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:date>1958</dc:date>
+<dc:source>photograph ; b &amp; w ; 5 x 7 in. (12.7 x 17.8 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0029</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maria College Digital Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way.  Please cite Maria College.  Prior written permission is required for any other use of the images of Maria College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/42</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/43</identifier><datestamp>2015-03-16</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Students in language lab</dc:title>
+<dc:description>B &amp; W photograph of Sister Irene, Sister Jose, and a fellow Sister listening to their lessons in language lab.</dc:description>
+<dc:subject>Catholic universities and colleges</dc:subject>
+<dc:subject>Catholicism; Sisters of Mercy; Albany Diocese</dc:subject>
+<dc:subject>Irene, Sister; Jose, Sister</dc:subject>
+<dc:subject>Maria College</dc:subject>
+<dc:subject>Education; Philosophy &amp; Religion</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:date>1967</dc:date>
+<dc:source>photograph ; b &amp; w ; 5.5 x 8 in. (14 x 20.3 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0046</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maria College Digital Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way.  Please cite Maria College.  Prior written permission is required for any other use of the images of Maria College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/43</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/44</identifier><datestamp>2015-03-16</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Dominican Monastery Chapel</dc:title>
+<dc:description>B &amp; W photograph of the Dominican Monastery Chapel (now Marian Hall), Maria College.</dc:description>
+<dc:subject>Catholic universities and colleges</dc:subject>
+<dc:subject>Catholicism; Monasteries; Sisters of Mercy; Albany Diocese</dc:subject>
+<dc:subject>Maria College</dc:subject>
+<dc:subject>Education; Philosophy &amp; Religion</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:date>9999</dc:date>
+<dc:source>photograph : b &amp; w ; 8 x 10 in. (20.3 x 25.4 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0013</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maria College Digital Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way.  Please cite Maria College.  Prior written permission is required for any other use of the images of Maria College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/44</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/45</identifier><datestamp>2015-03-16</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Laying of Maria College Cornerstone 1</dc:title>
+<dc:description>B &amp; W photograph of Bishop William A. Scully participating in laying the cornerstone of Maria College.</dc:description>
+<dc:creator>Franklin Studio, Albany, New York</dc:creator>
+<dc:subject>Catholic universities and colleges</dc:subject>
+<dc:subject>Catholicism; Sisters of Mercy; Albany Diocese</dc:subject>
+<dc:subject>Scully, Bishop William A.</dc:subject>
+<dc:subject>Maria College</dc:subject>
+<dc:subject>Education; Philosophy &amp; Religion</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:publisher>Franklin Studio, Albany, New York</dc:publisher>
+<dc:date>1959</dc:date>
+<dc:source>photograph ; b &amp; w ; 8 x 10 in. (20.3 x 25.4 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0021</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maria College Digital Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way.  Prior written permission is required for any other use of the images of Maria College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/45</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/46</identifier><datestamp>2015-03-16</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Laying of Maria College Cornerstone 2</dc:title>
+<dc:description>B &amp; W photograph of Bishop William A. Scully participating in laying the cornerstone of Maria College.</dc:description>
+<dc:creator>Pinto Photo Service</dc:creator>
+<dc:subject>Catholic universities and colleges</dc:subject>
+<dc:subject>Catholicism; Sisters of Mercy; Albany Diocese</dc:subject>
+<dc:subject>Scully, Bishop William A.</dc:subject>
+<dc:subject>Maria College</dc:subject>
+<dc:subject>Education; Philosophy &amp; Religion</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:publisher>Pinto Photo Service, Kinderhook, New York</dc:publisher>
+<dc:date>1959</dc:date>
+<dc:source>photograph ; b &amp; w ; 8 x 10 in. (20.3 x 25.4 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0022</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maria College Digital Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way.  Prior written permission is required for any other use of the images of Maria College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/46</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/47</identifier><datestamp>2015-03-16</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Blessing and Open House for the New Library Wing of Maria College 2</dc:title>
+<dc:description>B &amp; W photograph of Bishop William A. Scully hanging a crucifix in the new library wing of Maria College during the Blessing.</dc:description>
+<dc:creator>Frumkin Studio</dc:creator>
+<dc:subject>Catholic universities and colleges</dc:subject>
+<dc:subject>Catholicism; Sisters of Mercy; Albany Diocese</dc:subject>
+<dc:subject>Scully, Bishop William A.</dc:subject>
+<dc:subject>Maria College</dc:subject>
+<dc:subject>Education; Philosophy &amp; Religion</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:publisher>Frumkin Studio, Albany, New York</dc:publisher>
+<dc:date>1967-02-11</dc:date>
+<dc:source>photograph ; b &amp; w ; 8 x 10 in. (20.3 x 25.4 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0004</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maria College Digital Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way.  Prior written permission is required for any other use of the images of Maria College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/47</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/48</identifier><datestamp>2015-03-16</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Blessing and Open House for the New Library Wing of Maria College 3</dc:title>
+<dc:description>B &amp; W photograph of Bishop William A. Scully conducting the Blessing in the new library wing of Maria College.</dc:description>
+<dc:creator>Frumkin Studio</dc:creator>
+<dc:subject>Catholic universities and colleges</dc:subject>
+<dc:subject>Catholicism; Sisters of Mercy; Albany Diocese</dc:subject>
+<dc:subject>Scully, Bishop William A.</dc:subject>
+<dc:subject>Maria College</dc:subject>
+<dc:subject>Education; Philosophy &amp; Religion</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:publisher>Frumkin Studio, Albany, New York</dc:publisher>
+<dc:date>1967-02-11</dc:date>
+<dc:source>photograph ; b &amp; w ; 8 x 10 in. (20.3 x 25.4 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0005</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maria College Digital Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way.  Prior written permission is required for any other use of the images of Maria College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/48</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/49</identifier><datestamp>2015-03-16</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Blessing and Open House for the New Library Wing of Maria College 4</dc:title>
+<dc:description>Sisters and laypeople gather in the new wing of the Maria College Library as Bishop William A. Scully conducts a blessing.</dc:description>
+<dc:creator>Pinto Photo Service</dc:creator>
+<dc:subject>Catholic universities and colleges</dc:subject>
+<dc:subject>Catholicism; Sisters of Mercy; Albany Diocese</dc:subject>
+<dc:subject>Scully, Bishop William A.</dc:subject>
+<dc:subject>Maria College</dc:subject>
+<dc:subject>Education; Philosophy &amp; Religion</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:publisher>Pinto Photo Service, Kinderhook, New York</dc:publisher>
+<dc:date>1967-02-11</dc:date>
+<dc:source>photograph ; b &amp; w ; 8 x 10 in. (20.3 x 25.4 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0006</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maria College Digital Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way.  Prior written permission is required for any other use of the images of Maria College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/49</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/50</identifier><datestamp>2015-03-16</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Blessing and Open House for the New Library Wing of Maria College 5</dc:title>
+<dc:description>Reverend Joseph Robitaille, Monsignor Raymond Rooney and Reverend Leo O&#x27;Brien assist Bishop William A. Scully as he prepares to say the Blessing for the new library wing of Maria College.</dc:description>
+<dc:creator>Keller, John J.</dc:creator>
+<dc:subject>Catholic universities and colleges</dc:subject>
+<dc:subject>Catholicism; Sisters of Mercy; Albany Diocese</dc:subject>
+<dc:subject>Sanford, William K.; Robitalle, Reverend Joseph; Warren, Mrs. James; Scully, Bishop William A.; Rooney, Monsignor Raymond; O&#x27;Brien, Reverend Leo</dc:subject>
+<dc:subject>Maria College</dc:subject>
+<dc:subject>Education; Philosophy &amp; Religion</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:publisher>ACME Photograph Company, Albany, New York</dc:publisher>
+<dc:date>1967-02-11</dc:date>
+<dc:source>photograph ; b &amp; w ; 8 x 10 in. (20.3 x 25.4 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0007</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maria College Digital Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way.  Prior written permission is required for any other use of the images of Maria College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/50</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/51</identifier><datestamp>2015-03-16</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Blessing and Open House for the New Library Wing of Maria College 6</dc:title>
+<dc:description>Reverend Leo O&#x27;Brien assists Monsignor Raymond Rooney as he prepares for his part in the blessing of the new library wing at Maria College.</dc:description>
+<dc:creator>John J. Keller</dc:creator>
+<dc:subject>Catholic universities and colleges</dc:subject>
+<dc:subject>Catholicism; Sisters of Mercy; Albany Diocese</dc:subject>
+<dc:subject>O&#x27;Brien, Reverend Leo; Rooney, Monsignor Raymond; Fay, Reverend Bertrand</dc:subject>
+<dc:subject>Maria College</dc:subject>
+<dc:subject>Education; Philosophy &amp; Religion</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:publisher>ACME Photograph Company, Albany, New York</dc:publisher>
+<dc:date>1967-02-11</dc:date>
+<dc:source>photograph ; b &amp; w ; 8 x 10 in. (20.3 x 25.4 cm)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0008</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maria College Digital Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way.  Prior written permission is required for any other use of the images of Maria College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/51</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/52</identifier><datestamp>2015-03-16</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Dedication of the Motherhouse Chapel 1</dc:title>
+<dc:description>Local priests conduct a blessing at the dedication of the Motherhouse Chapel for the Sisters of Mercy, Albany, New York.</dc:description>
+<dc:subject>Catholic church buildings</dc:subject>
+<dc:subject>Catholicism; Sisters of Mercy; Albany Diocese</dc:subject>
+<dc:subject>Sisters of Mercy</dc:subject>
+<dc:subject>Philosophy &amp; Religion</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:date>1950-05-18</dc:date>
+<dc:source>photograph ; b &amp; w ; 4 x 6 in. (10.2 x 15.2 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0011</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maria College Digital Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way.  Prior written permission is required for any other use of the images of Maria College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/52</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/53</identifier><datestamp>2015-03-16</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Dedication of the Motherhouse Chapel 2</dc:title>
+<dc:description>Local priests conduct a blessing at the dedication of the Motherhouse Chapel for the Sisters of Mercy, Albany, New York.</dc:description>
+<dc:subject>Catholic church buildings</dc:subject>
+<dc:subject>Catholicism; Sisters of Mercy; Albany Diocese</dc:subject>
+<dc:subject>Sisters of Mercy</dc:subject>
+<dc:subject>Philosophy &amp; Religion</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:date>1950-05-18</dc:date>
+<dc:source>photograph ; b &amp; w ; 3.5 x 6 in. (8.9 x 15.2 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0012</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maria College Digital Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way.  Prior written permission is required for any other use of the images of Maria College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/53</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:maria/54</identifier><datestamp>2012-05-16</datestamp><setSpec>maria</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:maria/55</identifier><datestamp>2012-05-16</datestamp><setSpec>maria</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:maria/56</identifier><datestamp>2012-05-16</datestamp><setSpec>maria</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:maria/57</identifier><datestamp>2012-05-16</datestamp><setSpec>maria</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:maria/58</identifier><datestamp>2012-05-16</datestamp><setSpec>maria</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:maria/59</identifier><datestamp>2012-05-16</datestamp><setSpec>maria</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/65</identifier><datestamp>2015-03-16</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Madonna and Child and Maria Medallion stained glass windows 2</dc:title>
+<dc:description>Stained glass windows of the Madonna and Child and the Maria Medallion which grace the main entrance lobby of the Administration Building on the Maria College Campus, Albany, New York.  Each were part of a large stained glass window installed in 1885 above the altar in the Chapel of the original Sisters of Mercy Motherhouse, Rensselaer, New York, the first such convent of the Sisters of Mercy in upstate New York.  When the convent was demolished in 1964, these windows were bequeathed to the College by the Sisters of Mercy, sponsors of the College, and encased in a marble wall opening in the main lobby when the second addition was dedicated in 1967.  Most recently, the windows were strengthened and restored to their natural beauty by a nationally known artesian Joseph A. Savio of All in Glass Studio in Castleton, New York, a meticulous and rewarding project that took one year to complete.  The creator of these windows, and where they came from, remain a total mystery, as this is the only piece of history not recorded in the Mercy community archives.  (Photography by Elizabeth R. Bouchard.)</dc:description>
+<dc:subject>Catholic universities and colleges</dc:subject>
+<dc:subject>Catholicism; Sisters of Mercy; Albany Diocese</dc:subject>
+<dc:subject>Maria College</dc:subject>
+<dc:subject>Education; Philosophy &amp; Religion</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:date>2010-01-10</dc:date>
+<dc:source>Windows ; stained glass ; 50 x 20 in. (127 cm. x 50.8 cm.) ; 29 x 29 in. (73.66 x 73.66 cm.)</dc:source>
+<dc:type>Physical Object</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0025</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maria College Digital Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way.  Please cite Maria College.  Prior written permission is required for any other use of the images of Maria College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/65</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:maria/66</identifier><datestamp>2012-05-16</datestamp><setSpec>maria</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:maria/67</identifier><datestamp>2012-05-16</datestamp><setSpec>maria</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:maria/68</identifier><datestamp>2012-05-16</datestamp><setSpec>maria</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:maria/69</identifier><datestamp>2012-05-16</datestamp><setSpec>maria</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:maria/70</identifier><datestamp>2012-05-16</datestamp><setSpec>maria</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/74</identifier><datestamp>2015-03-16</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Saint Joseph statue</dc:title>
+<dc:description>Wooden hand carved statue of Saint Joseph.  A note attached to the back states, &quot;San Joseph, made by the early Filipinos converted into Christianity from Cagayan, early 17th century.&quot;  A later note states, &quot;Given to Mercy Community (by) Father Marcellino Tagle, 10/69.&quot;  (Photography by Elizabeth R. Bouchard.)</dc:description>
+<dc:subject>Catholic universities and colleges</dc:subject>
+<dc:subject>Catholicism ; Sisters of Mercy ; Albany Diocese</dc:subject>
+<dc:subject>Tagle, Father Marcellino</dc:subject>
+<dc:subject>Maria College</dc:subject>
+<dc:subject>Education ; Philosophy &amp; Religion</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:date>1600</dc:date>
+<dc:source>Physical Object ; 10.5 in. x 3.25 in. (26.7 cm. x 8.3 cm.)</dc:source>
+<dc:type>Physical Object</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0037</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maria College Digital Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way.  Please cite Maria College.  Prior written permission is required for any other use of the images of Maria College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/74</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/75</identifier><datestamp>2015-03-16</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Marian Hall 1</dc:title>
+<dc:description>Marian Hall, the former Monastery of the Immaculate Conception, is located at 714 New Scotland Avenue, Albany, NY, on the Maria College campus.  It was completed in 1929 for the convent of the Dominican nuns, a cloistered Order of Preachers originally established in France.  A group of sisters came to the United States in 1880, first settling in Newark, NJ.  The Dominican Sisters came to Albany in November 1915 at the invitation of Reverend Thomas Cusack, Bishop of the Diocese.  Reverend Mother Mary Emmanuel as Superior came from Detroit to establish the order locally, along with Mother Mary Theresa (who became head of the local order when Mother Mary Emmanuel passed), Sister Mary of the Holy Ghost, Sister Mary of the Holy Eucharist, Sister Mary Agnes and two lay Sisters, Sister Mary Aloysius and Sister Mary of the Immaculate Conception.  Upon their arrival, the sisters stayed with the Sacred Heart nuns on Kenwood Avenue until a convent was prepared for them on State Street, across from the Capitol.  When the building was condemned shortly afterward, they moved to 112 Washington Avenue, where they resided until completion of the convent in September 1929, when it was also open to the public.  One unique feature of the structure was the large double chapel, which provided an area on one side for the public to worship, and another chapel behind the altar for the cloistered nuns.  These sisters were in constant prayer before the Blessed Sacrement, their order having the rule of perpetual adoration.  The architectural style is Gothic, designed along lines similar to old French abbeys.  The design was prepared by Gander, Gander and Gander Architects.  There is an enclosed courtyard as well as sheltered walkways in the center of the building.  The Gander brothers donated the monastery bells.  The property had been purchased by Reverend Edmund Gibbons, who later became Bishop, using a donation from a benefactress of the Diocese.  This historical information was taken from the Evangelist newspaper, Friday, 9-25-29, pages 1-2, and Sunday, 9-27-29, pages 1-2.  Thirty years later, an interview was granted to the Times Union newspaper by Mother Mary Aquinas, O. P., the Mother Prioress of the Monastery.  The story appeared in the Sunday edition, 5-31-59, pages E-1, 5.  Marian Hall now houses faculty offices and classrooms for nursing students.  (Photography by Elizabeth R. Bouchard.)</dc:description>
+<dc:creator>Bouchard, Elizabeth R.</dc:creator>
+<dc:subject>Catholic universities and colleges</dc:subject>
+<dc:subject>Catholicism ; Sisters of Mercy ; Albany Diocese</dc:subject>
+<dc:subject>Maria College</dc:subject>
+<dc:subject>Education ; Philosophy &amp; Religion</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:date>2010</dc:date>
+<dc:source>Digital Photograph</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0050</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maria College Digital Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way.  Please cite Maria College.  Prior written permission is required for any other use of the images of Maria College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/75</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/76</identifier><datestamp>2015-03-16</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Madonna with angels stained glass windows</dc:title>
+<dc:description>These stained glass windows of the Madonna with angels on either side grace the far side of the chapel inside Marian Hall, the former Monastery of the Immaculate Conception, located at 714 New Scotland Avenue, Albany, NY, on the Maria College campus.  The monastery was completed in 1929 for the convent of the Dominican nuns, a cloistered order of Preachers originally established in France.  The monastery became the new home of the sisters in September 1929, when it was also open to the public.  One unique feature of the structure was the large double chapel, which provided an area for the public on one side to worship, and another chapel behind the altar for the cloistered nuns.  These sisters were in constant prayer before the Blessed Sacrement, their order having the rule of perpetual adoration.  This historical information was taken from the Evangelist newspaper, Friday, 9-25-29, pages 1-2, and Sunday, 9-27-29, pages 1-2.  Thirty years later, an interview was granted to the Times Union newspaper by Mother Mary Aquinas, O.P., the Mother Prioress of the Monastery.  The story appeared in the Sunday edition, 5-31-59, pages E-1, 5.  Marian Hall now houses faculty offices and classrooms for nursing students.  (Photography by Elizabeth R. Bouchard.)</dc:description>
+<dc:subject>Catholic universities and colleges</dc:subject>
+<dc:subject>Catholicism ; Sisters of Mercy ; Albany Diocese</dc:subject>
+<dc:subject>Maria College</dc:subject>
+<dc:subject>Education ; Philosophy &amp; Religion</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:date>1929</dc:date>
+<dc:source>Windows ; stained glass</dc:source>
+<dc:type>Physical Object</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0051</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maria College Digital Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way.  Please cite Maria College.  Prior written permission is required for any other use of the images of Maria College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/76</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/77</identifier><datestamp>2015-03-16</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Marian Hall 2</dc:title>
+<dc:description>Long shot of the Chapel of the former Monastery of the Immaculate Conception, now Marian Hall, located at 714 New Scotland Avenue, Albany, NY, on the Maria College campus.  The monastery was completed in 1929 for the convent of the Dominican nuns, a cloistered order of Preachers originally established in France.  The monastery became the new home of the sisters in September 1929, when it was also open to the public.  One unique feature of the structure was the large double chapel, which provided an area for the public on one side to worship, and another chapel behind the altar for the cloistered nuns.  These sisters were in constant prayer before the Blessed Sacrement, their order having the rule of perpetual adoration.  This historical information was taken from the Evangelist newspaper, Friday, 9-25-29, pages 1-2, and Sunday, 9-27-29, pages 1-2.  Thirty years later, an interview was granted to the Times Union newspaper by Mother Mary Aquinas, O.P., the Mother Prioress of the Monastery.  The story appeared in the Sunday edition, 5-31-59, pages E-1, 5.  Marian Hall now houses faculty offices and classrooms for nursing students.  (Photography by Elizabeth R. Bouchard.)</dc:description>
+<dc:creator>Bouchard, Elizabeth R.</dc:creator>
+<dc:subject>Catholic universities and colleges</dc:subject>
+<dc:subject>Catholicism ; Sisters of Mercy ; Albany Diocese</dc:subject>
+<dc:subject>Maria College</dc:subject>
+<dc:subject>Education ; Philosophy &amp; Religion</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:date>2010</dc:date>
+<dc:source>Digital Photograph</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0052</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maria College Digital Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way.  Please cite Maria College.  Prior written permission is required for any other use of the images of Maria College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/77</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/78</identifier><datestamp>2015-03-16</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Marian Hall 4</dc:title>
+<dc:description>Long shot of the fountain in the courtyard of the former Monastery of the Immaculate Conception, now Marian Hall, located at 714 New Scotland Avenue, Albany, Ny, on the Maria College campus.  The monastery was completed in 1929 for the convent of the Dominican nuns, a cloistered order of Preachers originally established in France.  The monastery became the new home of the sisters in September 1929, when it was also open to the public.  The architectural style is Gothic, designed along lines similar to old French abbeys.  The design was prepared by Gander, Gander and Gander Architects.  There is an enclosed courtyard as well as sheltered walkways in the center of the building.  This historical information was taken from the Evangelist newspaper, Friday, 9-25-29, pages 1-2, and Sunday, 9-27-29, pages 102.  Thirty years later, an interview was granted to the Times Union newspaper by Mother Mary Aquinas, O. P., the Mother Prioress of the Monastery.  The story appeared in the Sunday edition, 5-31-59, pages E-1, 5.  Marian Hall now houses faculty offices and classrooms for nursing students.  (Photography by Elizabeth R. Bouchard.)</dc:description>
+<dc:creator>Bouchard, Elizabeth R.</dc:creator>
+<dc:subject>Catholic universities and colleges</dc:subject>
+<dc:subject>Catholicism ; Sisters of Mercy ; Albany Diocese</dc:subject>
+<dc:subject>Maria College</dc:subject>
+<dc:subject>Education ; Philosophy &amp; Religion</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:date>2010</dc:date>
+<dc:source>Digital Photograph</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0054</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maria College Digital Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way.  Please cite Maria College.  Prior written permission is required for any other use of the images of Maria College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/78</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:maria/79</identifier><datestamp>2012-05-16</datestamp><setSpec>maria</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:maria/80</identifier><datestamp>2012-05-16</datestamp><setSpec>maria</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:maria/81</identifier><datestamp>2012-05-16</datestamp><setSpec>maria</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:maria/82</identifier><datestamp>2012-05-16</datestamp><setSpec>maria</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:maria/83</identifier><datestamp>2012-05-16</datestamp><setSpec>maria</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/88</identifier><datestamp>2015-03-16</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Marian Hall 3</dc:title>
+<dc:description>Marian Hall, the former Monastery of the Immaculate Conception, is located at 714 New Scotland Avenue, Albany, NY, on the Maria College campus. It was completed in 1929 for the convent of the Dominican nuns, a cloistered Order of Preachers originally established in France. A group of sisters came to the United States in 1880, first settling in Newark, NJ. The Dominican Sisters came to Albany in November 1915 at the invitation of Reverend Thomas Cusack, Bishop of the Diocese. Reverend Mother Mary Emmanuel as Superior came from Detroit to establish the order locally, along with Mother Mary Theresa (who became head of the local order when Mother Mary Emmanuel passed), Sister Mary of the Holy Ghost, Sister Mary of the Holy Eucharist, Sister Mary Agnes and two lay Sisters, Sister Mary Aloysius and Sister Mary of the Immaculate Conception. Upon their arrival, the sisters stayed with the Sacred Heart nuns on Kenwood Avenue until a convent was prepared for them on State Street, across from the Capitol. When the building was condemned shortly afterward, they moved to 112 Washington Avenue, where they resided until completion of the convent in September 1929, when it was also open to the public. One unique feature of the structure was the large double chapel, which provided an area on one side for the public to worship, and another chapel behind the altar for the cloistered nuns. These sisters were in constant prayer before the Blessed Sacrement, their order having the rule of perpetual adoration. The architectural style is Gothic, designed along lines similar to old French abbeys. The design was prepared by Gander, Gander and Gander Architects. There is an enclosed courtyard as well as sheltered walkways in the center of the building. The Gander brothers donated the monastery bells. The property had been purchased by Reverend Edmund Gibbons, who later became Bishop, using a donation from a benefactress of the Diocese. This historical information was taken from the Evangelist newspaper, Friday, 9-25-29, pages 1-2, and Sunday, 9-27-29, pages 1-2. Thirty years later, an interview was granted to the Times Union newspaper by Mother Mary Aquinas, O. P., the Mother Prioress of the Monastery. The story appeared in the Sunday edition, 5-31-59, pages E-1, 5. Marian Hall now houses faculty offices and classrooms for nursing students. (Photography by Elizabeth R. Bouchard.)</dc:description>
+<dc:creator>Bouchard, Elizabeth R.</dc:creator>
+<dc:subject>Catholic universities and colleges;</dc:subject>
+<dc:subject>Catholicism; Sisters of Mercy; Albany Diocese;</dc:subject>
+<dc:subject>Maria College</dc:subject>
+<dc:subject>Education; Philosophy &amp; Religion;</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:date>2010</dc:date>
+<dc:source>Digital Photograph</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0053</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maria College Digital Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way. Prior written permission is required for any other use of the images of Maria College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/88</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:maria/89</identifier><datestamp>2012-05-16</datestamp><setSpec>maria</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/90</identifier><datestamp>2015-03-24</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Maureen O&#x27;Sullivan Cushing at the ceremony for the blessing of the Maria College Seal, Albany, NY</dc:title>
+<dc:description>Maureen O&#x27;Sullivan Cushing chats with Sister Laureen A. Fitzgerald, President of Maria College, at the ceremony for the blessing of the Maria College Seal in Albany, NY.  Mayor Thomas M. Whalen looks on.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>College presidents; Seals (Insignia); Ceremonial objects; Dedications; Rites &amp; ceremonies;</dc:subject>
+<dc:subject>O&#x27;Sullivan, Maureen, 1911-1998; Fitzgerald, Laureen A., 1938; Whalen,Thomas M., 1925-1993</dc:subject>
+<dc:subject>Maria College</dc:subject>
+<dc:subject>People; Education; Community &amp; Events;</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:date>1985</dc:date>
+<dc:source>Photographs, b &amp; w; 8 x 10 in. (21 x 26 cm.)</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:format>image/jpeg;</dc:format>
+<dc:identifier>0055</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maureen O&#x27;Sullivan Cushing Collection of Maria College Albany NY</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way. Please cite Maria College. Prior written permission is required for any other use of the images of Maria College. </dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/90</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/91</identifier><datestamp>2015-03-24</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Wedding announcement for Maureen O&#x27;Sullivan and James Cushing</dc:title>
+<dc:description>Wedding announcement for Maureen O&#x27;Sullivan and James Cushing, Monday, August 22, 1983 at St. Mary of the Angels Chapel, Siena College, Loudonville, NY.</dc:description>
+<dc:subject>Weddings;</dc:subject>
+<dc:subject>Weddings; Invitations; Ephemera; Announcements;</dc:subject>
+<dc:subject>O&#x27;Sullivan, Maureen, 1911-1998; Cushing, James E., 1921-2011</dc:subject>
+<dc:subject>Maria College</dc:subject>
+<dc:subject>People; Education; Community &amp; Events;</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:date>1983-08-22</dc:date>
+<dc:source>Card stock, cream color, 5.5 x 7.5 in. (14 x 20 cm.)</dc:source>
+<dc:type>Text;</dc:type>
+<dc:language>eng;</dc:language>
+<dc:format>image/jpeg;</dc:format>
+<dc:identifier>0056</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maureen O&#x27;Sullivan Cushing Collection of Maria College Albany NY</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way. Please cite Maria College. Prior written permission is required for any other use of the images of Maria College. </dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/91</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/92</identifier><datestamp>2015-03-24</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Star Maureen O&#x27;Sullivan weds area businessman</dc:title>
+<dc:description>Newspaper story describes the wedding of Maureen O&#x27;Sullivan to James Cushing, a Schenectady businessman and trustee of Maria College, Albany, NY.</dc:description>
+<dc:creator>Times Union (?)</dc:creator>
+<dc:subject>Weddings;</dc:subject>
+<dc:subject>Weddings; Rites &amp; ceremonies;</dc:subject>
+<dc:subject>O&#x27;Sullivan, Maureen, 1911-1998; Cushing, James E., 1921-2011;</dc:subject>
+<dc:subject>Maria College;</dc:subject>
+<dc:subject>Community &amp; Events; Education; People;</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:publisher>Times Union (?)</dc:publisher>
+<dc:date>1983-08-22</dc:date>
+<dc:source>Newsprint, 5.75 x 11.75 in. (15 x 30 cm.)</dc:source>
+<dc:type>Text;</dc:type>
+<dc:language>eng;</dc:language>
+<dc:format>image/jpeg;</dc:format>
+<dc:identifier>0057</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maureen O&#x27;Sullivan Cushing Collection of Maria College Albany NY</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way. Please cite Maria College. Prior written permission is required for any other use of the images of Maria College. </dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/92</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/97</identifier><datestamp>2015-03-24</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>1987-01-25 letter to Sister Laureen Fitzgerald</dc:title>
+<dc:description>This is a thank-you note from Maureen O&#x27;Sullivan Cushing to Sister Laureen Fitzgerald, President of Maria College, for a dinner party given for Maureen and her husband, trustee James Cushing.</dc:description>
+<dc:creator>O&#x27;Sullivan, Maureen, 1911-1998</dc:creator>
+<dc:subject>Thank-you notes</dc:subject>
+<dc:subject>Correspondence;</dc:subject>
+<dc:subject>O&#x27;Sullivan, Maureen, 1911-1998; Fitzgerald, Laureen A., 1938; Cushing, James E., 1921-2011;</dc:subject>
+<dc:subject>Maria College;</dc:subject>
+<dc:subject>Community &amp; Events;</dc:subject>
+<dc:coverage>Schenectady - Schenectady County - New York</dc:coverage>
+<dc:date>1987-01-25</dc:date>
+<dc:source> stationary, white with name embossed at top in blue, blue border; 5 x 7 in. (13 x 18 cm.)</dc:source>
+<dc:type>Text;</dc:type>
+<dc:language>eng;</dc:language>
+<dc:format>image/jpeg;</dc:format>
+<dc:identifier>0058</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maureen O&#x27;Sullivan Cushing Collection of Maria College Albany NY</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way. Please cite Maria College. Prior written permission is required for any other use of the images of Maria College. </dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/97</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/98</identifier><datestamp>2015-03-24</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>James E. Cushing, Jr., member of Maria College Board of Trustees</dc:title>
+<dc:description>James E. Cushing, Jr. poses for a formal portrait as part of the Maria College Board of Trustees.</dc:description>
+<dc:creator>Gittings</dc:creator>
+<dc:subject>College trustees</dc:subject>
+<dc:subject>Cushing, James E., 1921-2011; O&#x27;Sullivan, Maureen, 1911-1998;</dc:subject>
+<dc:subject>Maria College</dc:subject>
+<dc:subject>People; Education;</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:date>1980</dc:date>
+<dc:source>Photographs, b &amp; w; 8 x 10 in. (13 x 18 cm.)</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:format>image/jpeg;</dc:format>
+<dc:identifier>0059</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maureen O&#x27;Sullivan Cushing Collection of Maria College Albany NY</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way. Please cite Maria College. Prior written permission is required for any other use of the images of Maria College. </dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/98</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/103</identifier><datestamp>2015-03-24</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>1991-01-17 letter to Sister Laureen Fitzgerald</dc:title>
+<dc:description>This is a thank-you note from Maureen O&#x27;Sullivan Cushing to Sister Laureen Fitzgerald, President of Maria College, for a Christmas flower arrangement sent to Maureen and her husband, trustee James Cushing.</dc:description>
+<dc:creator>O&#x27;Sullivan, Maureen, 1911-1998;</dc:creator>
+<dc:subject>Thank-you notes</dc:subject>
+<dc:subject>Correspondence</dc:subject>
+<dc:subject>O&#x27;Sullivan, Maureen, 1911-1998; Fitzgerald, Laureen A., 1938; Cushing, James E., 1921-2011</dc:subject>
+<dc:subject>Maria College</dc:subject>
+<dc:subject>Community &amp; Events</dc:subject>
+<dc:coverage>Schenectady - Schenectady County - New York</dc:coverage>
+<dc:date>1991-01-17</dc:date>
+<dc:source>stationary, white with name embossed at top in blue, blue border; 4 x 8 in. (8 x 11 cm.)</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0059</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maureen O&#x27;Sullivan Cushing Collection of Maria College Albany NY</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way. Please cite Maria College. Prior written permission is required for any other use of the images of Maria College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/103</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:maria/107</identifier><datestamp>2015-03-24</datestamp><setSpec>maria</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>1991-03-08 letter to Sister Laureen Fitzgerald</dc:title>
+<dc:description>This is a thank-you note from Maureen O&#x27;Sullivan Cushing to Sister Laureen Fitzgerald, President of Maria College, thanking her for sending a clipping to Maureen and her husband, trustee James Sullivan.</dc:description>
+<dc:creator>O&#x27;Sullivan, Maureen, 1911-1998;</dc:creator>
+<dc:subject>Thank-you notes</dc:subject>
+<dc:subject>Correspondence</dc:subject>
+<dc:subject>O&#x27;Sullivan, Maureen, 1911-1998; Fitzgerald, Laureen A., 1938; Cushing, James E., 1921-2011</dc:subject>
+<dc:subject>Maria College</dc:subject>
+<dc:subject>Community &amp; Events</dc:subject>
+<dc:coverage>Schenectady - Schenectady County - New York</dc:coverage>
+<dc:date>1991-03-08</dc:date>
+<dc:source>stationary, pale blue with name pressed into paper, designed to be folded as a note card; 4 x 6 in. (6 x 8 cm.)</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0060</dc:identifier>
+<dc:publisher>Maria College</dc:publisher>
+<dc:relation>Maureen O&#x27;Sullivan Cushing Collection of Maria College Albany NY</dc:relation>
+<dc:rights>This digital image may be used for educational purposes, as long as it is not altered in any way. Please cite Maria College. Prior written permission is required for any other use of the images of Maria College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/maria/id/107</dc:identifier></oai_dc:dc>
+</metadata>
+</record></ListRecords></OAI-PMH>

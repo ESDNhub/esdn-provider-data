@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2014-12-16T18:17:33Z</responseDate><request verb="ListRecords" metadataPrefix="oai_dc" set="p15085coll6">http://cdm16694.contentdm.oclc.org/oai/oai.php</request><ListRecords><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15085coll6/0</identifier><datestamp>2014-01-08</datestamp><setSpec>p15085coll6</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Cayuga Lake from Dubois Road</dc:title>
+<dc:description>Landscape scene of small house in countryside, a woman, cows, Ithaca visible in the distance.</dc:description>
+<dc:creator>Millspaugh, John H.</dc:creator>
+<dc:subject>Landscape Paintings</dc:subject>
+<dc:subject>Environment &amp; Nature</dc:subject>
+<dc:coverage>Cayuga Lake, Dubois Road Tompkins County, New York</dc:coverage>
+<dc:date>1892</dc:date>
+<dc:source>Painting, Watercolor</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg;</dc:format>
+<dc:relation>Historic Paintings Unwrapped</dc:relation>
+<dc:rights>The History Center in Tompkins County holds copyright and reproductions rights. Prior written permission is required for any use of this image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15085coll6/id/0</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15085coll6/1</identifier><datestamp>2014-01-08</datestamp><setSpec>p15085coll6</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Mouth of Salmon Creek on East Side of Cayuga Lake, Looking South</dc:title>
+<dc:description>Scene of men in a canoe on Cayuga Lake battling with a bear; 18th century.</dc:description>
+<dc:creator>Norris, W.G.</dc:creator>
+<dc:subject>Landscape Paintings; McDowell, Woodworth, and Loomis</dc:subject>
+<dc:subject>Environment &amp; Nature</dc:subject>
+<dc:coverage>Cayuga Lake Tompkins County, New York</dc:coverage>
+<dc:date>1957</dc:date>
+<dc:source>Painting, Watercolor</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg;</dc:format>
+<dc:relation>Historic Paintings Unwrapped</dc:relation>
+<dc:rights>The History Center in Tompkins County holds copyright and reproductions rights. Prior written permission is required for any use of this image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15085coll6/id/1</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15085coll6/2</identifier><datestamp>2014-01-08</datestamp><setSpec>p15085coll6</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Overnight Camp, Cayuga Lake Moravian Missionaries and Indian Guides, 1750</dc:title>
+<dc:description>Twilight scene of Native American and Europena missionaries camping on lakeside; mid 18th century.</dc:description>
+<dc:creator>Norris, W.G.</dc:creator>
+<dc:subject>Landscape Paintings; Crommerhof, Frederick, Zeisberger, David</dc:subject>
+<dc:subject>Environment &amp; Nature; People</dc:subject>
+<dc:coverage>Cayuga Lake Tompkins County, New York</dc:coverage>
+<dc:date>1957</dc:date>
+<dc:source>Painting, Watercolor</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg;</dc:format>
+<dc:relation>Historic Paintings Unwrapped</dc:relation>
+<dc:rights>The History Center in Tompkins County holds copyright and reproductions rights. Prior written permission is required for any use of this image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15085coll6/id/2</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15085coll6/3</identifier><datestamp>2014-01-08</datestamp><setSpec>p15085coll6</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>South End of Cayuga Lake, 1672</dc:title>
+<dc:description>Battle scene of two warring Native American groups on Cayuga Lake,1672.</dc:description>
+<dc:creator>Norris, W.G.</dc:creator>
+<dc:subject>Landscape Paintings</dc:subject>
+<dc:subject>Military &amp; War</dc:subject>
+<dc:coverage>Cayuga Lake Tompkins County, New York</dc:coverage>
+<dc:date>1953</dc:date>
+<dc:source>Painting, Watercolor</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg;</dc:format>
+<dc:relation>Historic Paintings Unwrapped</dc:relation>
+<dc:rights>The History Center in Tompkins County holds copyright and reproductions rights. Prior written permission is required for any use of this image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15085coll6/id/3</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15085coll6/4</identifier><datestamp>2014-01-08</datestamp><setSpec>p15085coll6</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Adelaide Thomson Bergholtz</dc:title>
+<dc:description>Portrait of a brown-haired woman in a gold dress, with a pearl necklace. Vivid red background. Late 19th century.</dc:description>
+<dc:creator>Forbes, J. Colin</dc:creator>
+<dc:subject>Portrait Paintings; Bergholtz, Adelaide Thomson</dc:subject>
+<dc:subject>People</dc:subject>
+<dc:date>1892; 1893; 1894; 1895; 1896</dc:date>
+<dc:source>Painting</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg;</dc:format>
+<dc:identifier>1992.73.2</dc:identifier>
+<dc:relation>Historic Paintings Unwrapped</dc:relation>
+<dc:rights>The History Center in Tompkins County holds copyright and reproductions rights. Prior written permission is required for any use of this image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15085coll6/id/4</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15085coll6/5</identifier><datestamp>2014-01-08</datestamp><setSpec>p15085coll6</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Mr. Lightfoot brought a boatload of goods up Cayuga Lake in 1791</dc:title>
+<dc:description>Lakeside scene of men at primitive trading post; 1790.</dc:description>
+<dc:creator>Norris, W. Glenn</dc:creator>
+<dc:subject>Landscape Paintings; Lightfoot, Mr.</dc:subject>
+<dc:subject>Work &amp; Labor; Community &amp; Events</dc:subject>
+<dc:coverage>Ithaca, Tompkins County, New York</dc:coverage>
+<dc:date>1953</dc:date>
+<dc:source>Painting, Watercolor</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg;</dc:format>
+<dc:relation>Historic Paintings Unwrapped</dc:relation>
+<dc:rights>The History Center in Tompkins County holds copyright and reproductions rights. Prior written permission is required for any use of this image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15085coll6/id/5</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15085coll6/6</identifier><datestamp>2014-01-08</datestamp><setSpec>p15085coll6</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Bow Lake, B.C.</dc:title>
+<dc:description>Lake scene with tall mountains in background.</dc:description>
+<dc:creator>Norris, W.G.</dc:creator>
+<dc:subject>Landscape Paintings</dc:subject>
+<dc:subject>Environment &amp; Nature</dc:subject>
+<dc:coverage>Bow Lake, British Columbia</dc:coverage>
+<dc:date>1965-07</dc:date>
+<dc:source>Painting, Watercolor</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg;</dc:format>
+<dc:relation>Historic Paintings Unwrapped</dc:relation>
+<dc:rights>The History Center in Tompkins County holds copyright and reproductions rights. Prior written permission is required for any use of this image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15085coll6/id/6</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15085coll6/7</identifier><datestamp>2014-01-08</datestamp><setSpec>p15085coll6</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Burning of Coreorgonel by Colonel Dearborn, September 24, 1779</dc:title>
+<dc:description>Revolutionary War soldiers and Native Americans; 1779.</dc:description>
+<dc:creator>Norris, W.G.</dc:creator>
+<dc:subject>Landscape Paintings</dc:subject>
+<dc:subject>Military &amp; War</dc:subject>
+<dc:coverage>Ithaca, Tompkins County, New York</dc:coverage>
+<dc:date>1953</dc:date>
+<dc:source>Painting, Watercolor</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg;</dc:format>
+<dc:relation>Historic Paintings Unwrapped</dc:relation>
+<dc:rights>The History Center in Tompkins County holds copyright and reproductions rights. Prior written permission is required for any use of this image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15085coll6/id/7</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15085coll6/8</identifier><datestamp>2014-01-08</datestamp><setSpec>p15085coll6</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Beginning of Ithaca</dc:title>
+<dc:description>Forest scene with Cascadilla Creek visible in the background, with small cabin and General Store near the creek. Depicting late 18th or early 19th century scene.</dc:description>
+<dc:creator>Norris, W.G.</dc:creator>
+<dc:subject>Landscape Paintings</dc:subject>
+<dc:subject>Community &amp; Events</dc:subject>
+<dc:coverage>Ithaca, Tompkins County, New York</dc:coverage>
+<dc:date>1947</dc:date>
+<dc:source>Painting, Watercolor</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg;</dc:format>
+<dc:relation>Historic Paintings Unwrapped</dc:relation>
+<dc:rights>The History Center in Tompkins County holds copyright and reproductions rights. Prior written permission is required for any use of this image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15085coll6/id/8</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15085coll6/9</identifier><datestamp>2014-01-08</datestamp><setSpec>p15085coll6</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Speedsville Bridge/ Vermont?</dc:title>
+<dc:description>Wooden covered bridge over small stream; summer scene.</dc:description>
+<dc:creator>Norris, W.G.</dc:creator>
+<dc:subject>Still Life paintings</dc:subject>
+<dc:subject>Architecture</dc:subject>
+<dc:coverage>Speedsville New York</dc:coverage>
+<dc:date>1967; 1968; 1969; 1970; 1971</dc:date>
+<dc:source>Painting, Watercolor</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg;</dc:format>
+<dc:relation>Historic Paintings Unwrapped</dc:relation>
+<dc:rights>The History Center in Tompkins County holds copyright and reproductions rights. Prior written permission is required for any use of this image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15085coll6/id/9</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15085coll6/10</identifier><datestamp>2014-01-08</datestamp><setSpec>p15085coll6</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Burning of the Frontenac, Cayuga Lake</dc:title>
+<dc:description>Scene of burning steamship on Cayuga Lake.</dc:description>
+<dc:creator>Norris, W.G.</dc:creator>
+<dc:subject>Landscape Paintings</dc:subject>
+<dc:subject>Transportation</dc:subject>
+<dc:coverage>Cayuga Lake Tompkins County, New York</dc:coverage>
+<dc:date>1959</dc:date>
+<dc:source>Painting, Watercolor</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg;</dc:format>
+<dc:relation>Historic Paintings Unwrapped</dc:relation>
+<dc:rights>The History Center in Tompkins County holds copyright and reproductions rights. Prior written permission is required for any use of this image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15085coll6/id/10</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15085coll6/11</identifier><datestamp>2014-01-08</datestamp><setSpec>p15085coll6</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Henry Noble Hinckley</dc:title>
+<dc:description>Portrait of dark-haired man in white suit; mid-20th century. Vivid blue background.</dc:description>
+<dc:creator>Midjo, Christian</dc:creator>
+<dc:subject>Portrait Paintings; Hinckley, Henry Noble</dc:subject>
+<dc:subject>People</dc:subject>
+<dc:date>1964</dc:date>
+<dc:source>Painting</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg;</dc:format>
+<dc:identifier>Hinckley Collection</dc:identifier>
+<dc:relation>Historic Paintings Unwrapped</dc:relation>
+<dc:rights>The History Center in Tompkins County holds copyright and reproductions rights. Prior written permission is required for any use of this image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15085coll6/id/11</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15085coll6/12</identifier><datestamp>2014-01-08</datestamp><setSpec>p15085coll6</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Routes of Samuel de Champlain and Etienne Brule, 1615</dc:title>
+<dc:description>Historic map of explorers&#x27; routes through parts of New York, New England, and Canada; 1615.</dc:description>
+<dc:creator>Norris, W.G.</dc:creator>
+<dc:subject>Maps</dc:subject>
+<dc:subject>Transportation</dc:subject>
+<dc:date>1944</dc:date>
+<dc:source>Painting, Watercolor</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg;</dc:format>
+<dc:relation>Historic Paintings Unwrapped</dc:relation>
+<dc:rights>The History Center in Tompkins County holds copyright and reproductions rights. Prior written permission is required for any use of this image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15085coll6/id/12</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15085coll6/13</identifier><datestamp>2014-01-08</datestamp><setSpec>p15085coll6</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Cayuga Indian Village Circa 1600, near Waterburg, Tompkins County, New York</dc:title>
+<dc:description>Indian village with homes and people throughout; depicting late 18th century.</dc:description>
+<dc:creator>Norris, W.G.</dc:creator>
+<dc:subject>Landscape Paintings</dc:subject>
+<dc:subject>Community &amp; Events</dc:subject>
+<dc:coverage>Tompkins County, New York</dc:coverage>
+<dc:date>1955</dc:date>
+<dc:source>Painting, Watercolor</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg;</dc:format>
+<dc:relation>Historic Paintings Unwrapped</dc:relation>
+<dc:rights>The History Center in Tompkins County holds copyright and reproductions rights. Prior written permission is required for any use of this image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15085coll6/id/13</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15085coll6/14</identifier><datestamp>2014-01-08</datestamp><setSpec>p15085coll6</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Ithaca Hotel and General Store Office</dc:title>
+<dc:description>Black and white drawing of three-story Ithaca hotel with horse and carriage in foreground.</dc:description>
+<dc:creator>Walton, Henry, Engraved by Peabody</dc:creator>
+<dc:subject>Cityscape Paintings</dc:subject>
+<dc:subject>Architecture</dc:subject>
+<dc:coverage>Ithaca, Tompkins County, New York</dc:coverage>
+<dc:date>1840</dc:date>
+<dc:source>Print, Engraving</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg;</dc:format>
+<dc:identifier>P-6-120 or 133</dc:identifier>
+<dc:relation>Historic Paintings Unwrapped</dc:relation>
+<dc:rights>The History Center in Tompkins County holds copyright and reproductions rights. Prior written permission is required for any use of this image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15085coll6/id/14</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15085coll6/15</identifier><datestamp>2014-01-08</datestamp><setSpec>p15085coll6</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Drugs and Medicines: Schuyler&#x27;s Store</dc:title>
+<dc:description>Black and white drawing of Ithaca street scene in front of early 19th century drug store and grocery.</dc:description>
+<dc:creator>Walton, Henry</dc:creator>
+<dc:subject>Cityscape Paintings</dc:subject>
+<dc:subject>Architecture</dc:subject>
+<dc:coverage>Ithaca, Tompkins County, New York</dc:coverage>
+<dc:date>1830</dc:date>
+<dc:source>Print; Lithograph</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg;</dc:format>
+<dc:identifier>P-6-35</dc:identifier>
+<dc:relation>Historic Paintings Unwrapped</dc:relation>
+<dc:rights>The History Center in Tompkins County holds copyright and reproductions rights. Prior written permission is required for any use of this image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15085coll6/id/15</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15085coll6/16</identifier><datestamp>2014-01-08</datestamp><setSpec>p15085coll6</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>View of Ithaca, Tompkins County, NY, taken from the West Hill, 1839</dc:title>
+<dc:description>Autumnal view of village of Ithaca and surrounding hillsides. Lake visible on left and people and horses visible in foreground.</dc:description>
+<dc:creator>Walton, Henry</dc:creator>
+<dc:subject>Landscape Paintings</dc:subject>
+<dc:subject>Environment &amp; Nature</dc:subject>
+<dc:coverage>Ithaca, Tompkins County, New York</dc:coverage>
+<dc:date>1839</dc:date>
+<dc:source>Print, Lithograph</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg;</dc:format>
+<dc:identifier>P-6-10</dc:identifier>
+<dc:relation>Historic Paintings Unwrapped</dc:relation>
+<dc:rights>The History Center in Tompkins County holds copyright and reproductions rights. Prior written permission is required for any use of this image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15085coll6/id/16</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15085coll6/17</identifier><datestamp>2014-01-08</datestamp><setSpec>p15085coll6</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>East View of Ithaca, NY</dc:title>
+<dc:description>Long view of Ithaca from present-day Collegetown looking down Seneca Street toward downtown.</dc:description>
+<dc:creator>Walton, Henry</dc:creator>
+<dc:subject>Landscape Paintings</dc:subject>
+<dc:subject>Environment &amp; Nature</dc:subject>
+<dc:coverage>Ithaca, Tompkins County, New York</dc:coverage>
+<dc:date>1841; 1842; 1843; 1844; 1845</dc:date>
+<dc:source>Print, Lithograph</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg;</dc:format>
+<dc:identifier>P-6-12</dc:identifier>
+<dc:relation>Historic Paintings Unwrapped</dc:relation>
+<dc:rights>The History Center in Tompkins County holds copyright and reproductions rights. Prior written permission is required for any use of this image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15085coll6/id/17</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15085coll6/18</identifier><datestamp>2014-01-08</datestamp><setSpec>p15085coll6</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Unknown</dc:title>
+<dc:description>Portrait of an unidentified woman is thought to be the work of artist and photographer Jefferson Beardsley.</dc:description>
+<dc:creator>Beardsley, Jefferson (?)</dc:creator>
+<dc:subject>Portrait Paintings</dc:subject>
+<dc:subject>People</dc:subject>
+<dc:source>Painting, Watercolor, on a photograph</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg;</dc:format>
+<dc:identifier>P-5-80</dc:identifier>
+<dc:relation>Historic Paintings Unwrapped</dc:relation>
+<dc:rights>The History Center in Tompkins County holds copyright and reproductions rights. Prior written permission is required for any use of this image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15085coll6/id/18</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15085coll6/19</identifier><datestamp>2014-01-08</datestamp><setSpec>p15085coll6</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Mrs. Amanda Boardman</dc:title>
+<dc:description>Portrait of older woman with gray hair, elegant, lacy, formal clothing; late 19th century.</dc:description>
+<dc:creator>Whitlock, William</dc:creator>
+<dc:subject>Portrait Paintings; Boardman, Amanda</dc:subject>
+<dc:subject>People</dc:subject>
+<dc:date>1892; 1893; 1894; 1895; 1896</dc:date>
+<dc:source>Painting, Oil</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg;</dc:format>
+<dc:identifier>P-5-45</dc:identifier>
+<dc:relation>Historic Paintings Unwrapped</dc:relation>
+<dc:rights>The History Center in Tompkins County holds copyright and reproductions rights. Prior written permission is required for any use of this image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15085coll6/id/19</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15085coll6/20</identifier><datestamp>2014-01-08</datestamp><setSpec>p15085coll6</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Mr. Douglas Boardman</dc:title>
+<dc:description>Portrait of older man with gray beard, in dark formal clothing; late 19th century.</dc:description>
+<dc:creator>Whitlock, William</dc:creator>
+<dc:subject>Portrait Paintings; Boardman, Mr. Douglas</dc:subject>
+<dc:subject>People</dc:subject>
+<dc:date>1894</dc:date>
+<dc:source>Painting, Oil</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg;</dc:format>
+<dc:identifier>P-5-55</dc:identifier>
+<dc:relation>Historic Paintings Unwrapped</dc:relation>
+<dc:rights>The History Center in Tompkins County holds copyright and reproductions rights. Prior written permission is required for any use of this image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15085coll6/id/20</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15085coll6/21</identifier><datestamp>2014-01-08</datestamp><setSpec>p15085coll6</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Six Nation Council at Onondaga, 1750</dc:title>
+<dc:description>Chief Canassatego ceremonially renewing the friendship between the Onondagas and the Moravian missionaries, represented by Cammerhof and Zeisberger.</dc:description>
+<dc:creator>Norris, W.G.</dc:creator>
+<dc:subject>Genre Paintings; Canassatego, Chief, Cammerhof, Frederick, Zeisberger, David</dc:subject>
+<dc:subject>Community &amp; Events</dc:subject>
+<dc:coverage>Onondaga, New York</dc:coverage>
+<dc:date>1956</dc:date>
+<dc:source>Painting, Watercolor</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg;</dc:format>
+<dc:relation>Historic Paintings Unwrapped</dc:relation>
+<dc:rights>The History Center in Tompkins County holds copyright and reproductions rights. Prior written permission is required for any use of this image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15085coll6/id/21</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15085coll6/22</identifier><datestamp>2014-01-08</datestamp><setSpec>p15085coll6</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Mary Williams (1824 - 1911)</dc:title>
+<dc:description>Portrait of an older woman in very dark clothing with a subdued lace widow&#x27;s cap; very early 1900s.</dc:description>
+<dc:creator>Upjohn, A. Milo</dc:creator>
+<dc:subject>Portrait Paintings; Williams, Mary</dc:subject>
+<dc:subject>People</dc:subject>
+<dc:date>1900; 1901; 1902; 1903; 1904; 1905; 1906; 1907; 1908; 1909; 1910</dc:date>
+<dc:source>Painting, Oil</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg;</dc:format>
+<dc:identifier>1991.86.2</dc:identifier>
+<dc:relation>Historic Paintings Unwrapped</dc:relation>
+<dc:rights>The History Center in Tompkins County holds copyright and reproductions rights. Prior written permission is required for any use of this image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15085coll6/id/22</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15085coll6/23</identifier><datestamp>2014-01-08</datestamp><setSpec>p15085coll6</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>View of Ithaca, Tompkins County, NY, taken from the South Hill, November 1838</dc:title>
+<dc:description>Detailed long view of Ithaca from South Hill, with mill in the foreground, and Cayuga Lake visible off in the distance; early 19th century.</dc:description>
+<dc:creator>Walton, Henry</dc:creator>
+<dc:subject>Landscape paintings</dc:subject>
+<dc:subject>Environment &amp; Nature</dc:subject>
+<dc:coverage>Ithaca, Tompkins County, New York</dc:coverage>
+<dc:date>1838</dc:date>
+<dc:source>Print, Lithograph</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg;</dc:format>
+<dc:identifier>P-6-7 or 9</dc:identifier>
+<dc:relation>Historic Paintings Unwrapped</dc:relation>
+<dc:rights>The History Center in Tompkins County holds copyright and reproductions rights. Prior written permission is required for any use of this image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15085coll6/id/23</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15085coll6/24</identifier><datestamp>2014-01-08</datestamp><setSpec>p15085coll6</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Mrs. Isaac Day</dc:title>
+<dc:description>Portrait of old, wrinkled woman with shawl over her shoulders; early 19th century.</dc:description>
+<dc:creator>Walton, Henry</dc:creator>
+<dc:subject>Portrait Paintings; Day, Mrs. Isaac (Lydia)</dc:subject>
+<dc:subject>People</dc:subject>
+<dc:date>1846</dc:date>
+<dc:source>Painting, Oil</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg;</dc:format>
+<dc:identifier>P-5-46</dc:identifier>
+<dc:relation>Historic Paintings Unwrapped</dc:relation>
+<dc:rights>The History Center in Tompkins County holds copyright and reproductions rights. Prior written permission is required for any use of this image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15085coll6/id/24</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15085coll6/25</identifier><datestamp>2014-01-08</datestamp><setSpec>p15085coll6</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Emeline Davis Cowdrey</dc:title>
+<dc:description>Portrait of young slender woman; early to mid 19th century.</dc:description>
+<dc:creator>Walton, Henry</dc:creator>
+<dc:subject>Portrait Paintings; Cowdrey, Emeline Davis</dc:subject>
+<dc:subject>People</dc:subject>
+<dc:date>1843</dc:date>
+<dc:source>Painting, Oil</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg;</dc:format>
+<dc:relation>Historic Paintings Unwrapped</dc:relation>
+<dc:rights>The History Center in Tompkins County holds copyright and reproductions rights. Prior written permission is required for any use of this image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15085coll6/id/25</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15085coll6/26</identifier><datestamp>2014-01-08</datestamp><setSpec>p15085coll6</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>East View of Ithaca, Tompkins County NY Taken Sept. 1836</dc:title>
+<dc:description>Long view of early 19th century village of Ithaca, with pedestrians in foreground, village and hillside in distance.</dc:description>
+<dc:creator>Walton, Henry</dc:creator>
+<dc:subject>Landscape Paintings</dc:subject>
+<dc:subject>Environment &amp; Nature</dc:subject>
+<dc:coverage>Ithaca, Tompkins County, New York</dc:coverage>
+<dc:date>1836</dc:date>
+<dc:source>Print, Lithograph</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg;</dc:format>
+<dc:identifier>P-6-2</dc:identifier>
+<dc:relation>Historic Paintings Unwrapped</dc:relation>
+<dc:rights>The History Center in Tompkins County holds copyright and reproductions rights. Prior written permission is required for any use of this image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15085coll6/id/26</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15085coll6/27</identifier><datestamp>2014-01-08</datestamp><setSpec>p15085coll6</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Water Level</dc:title>
+<dc:description>Ithaca&#x27;s water inlet with the lake at high water.</dc:description>
+<dc:creator>Bishop, Alison Mason Kingsbury</dc:creator>
+<dc:subject>Landscape Paintings</dc:subject>
+<dc:subject>Environment &amp; Nature</dc:subject>
+<dc:coverage>Cayuga Lake Tompkins County, New York</dc:coverage>
+<dc:date>1937; 1938; 1939; 1940; 1941</dc:date>
+<dc:source>Painting, Oil</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg;</dc:format>
+<dc:identifier>76.4.35</dc:identifier>
+<dc:relation>Historic Paintings Unwrapped</dc:relation>
+<dc:rights>The History Center in Tompkins County holds copyright and reproductions rights. Prior written permission is required for any use of this image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15085coll6/id/27</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15085coll6/28</identifier><datestamp>2014-01-08</datestamp><setSpec>p15085coll6</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Andrus House</dc:title>
+<dc:description>Scene of large stately mansion on a tree-covered hillside; late 19th century.</dc:description>
+<dc:creator>Unknown</dc:creator>
+<dc:subject>Cityscape Paintings</dc:subject>
+<dc:subject>Architecture</dc:subject>
+<dc:coverage>Ithaca, Tompkins County, New York</dc:coverage>
+<dc:date>1847; 1848; 1849; 1850; 1851</dc:date>
+<dc:source>Painting, Oil</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg;</dc:format>
+<dc:identifier>1944.89</dc:identifier>
+<dc:relation>Historic Paintings Unwrapped</dc:relation>
+<dc:rights>The History Center in Tompkins County holds copyright and reproductions rights. Prior written permission is required for any use of this image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15085coll6/id/28</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15085coll6/29</identifier><datestamp>2014-01-08</datestamp><setSpec>p15085coll6</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Robert H. Treman</dc:title>
+<dc:description>Full length portrait of a distinguished looking man; early to mid 20th century.</dc:description>
+<dc:creator>Hardin, Martin D.</dc:creator>
+<dc:subject>Portrait Paintings; Treman, Robert H.</dc:subject>
+<dc:subject>People</dc:subject>
+<dc:date>1930; 1931; 1932; 1933; 1934</dc:date>
+<dc:source>Painting, Oil</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg;</dc:format>
+<dc:identifier>1997.36</dc:identifier>
+<dc:relation>Historic Paintings Unwrapped</dc:relation>
+<dc:rights>The History Center in Tompkins County holds copyright and reproductions rights. Prior written permission is required for any use of this image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15085coll6/id/29</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15085coll6/30</identifier><datestamp>2014-01-08</datestamp><setSpec>p15085coll6</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Sheep Country</dc:title>
+<dc:description>Landscape depiction of Ithaca, NY in the 1920s.</dc:description>
+<dc:creator>Bishop, Alison Mason Kingsbury</dc:creator>
+<dc:subject>Landscape Paintings</dc:subject>
+<dc:subject>Environment &amp; Nature</dc:subject>
+<dc:coverage>Tompkins County New York (Probably)</dc:coverage>
+<dc:date>1933</dc:date>
+<dc:source>Painting, Oil</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg;</dc:format>
+<dc:identifier>76.04. 2 6</dc:identifier>
+<dc:relation>Historic Paintings Unwrapped</dc:relation>
+<dc:rights>The History Center in Tompkins County holds copyright and reproductions rights. Prior written permission is required for any use of this image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15085coll6/id/30</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15085coll6/31</identifier><datestamp>2014-01-08</datestamp><setSpec>p15085coll6</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>House by the Lake</dc:title>
+<dc:description>Abstract painting of brownish house with reddish barn in background, with transparent scenes of surrounding foliage.</dc:description>
+<dc:creator>Bishop, Alison Mason Kingsbury</dc:creator>
+<dc:subject>Cityscape Paintings</dc:subject>
+<dc:subject>Architecture</dc:subject>
+<dc:coverage>Ithaca, Tompkins County, New York</dc:coverage>
+<dc:date>1963</dc:date>
+<dc:source>Painting, Oil</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg;</dc:format>
+<dc:identifier>76.4.2 9</dc:identifier>
+<dc:relation>Historic Paintings Unwrapped</dc:relation>
+<dc:rights>The History Center in Tompkins County holds copyright and reproductions rights. Prior written permission is required for any use of this image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15085coll6/id/31</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15085coll6/32</identifier><datestamp>2014-01-08</datestamp><setSpec>p15085coll6</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Study of a Root Fence No. 1</dc:title>
+<dc:description>Abstract view of tree roots in a field. Vivid light and dark shadowing.</dc:description>
+<dc:creator>Bishop, Alison Mason Kingsbury</dc:creator>
+<dc:subject>Still Life paintings</dc:subject>
+<dc:subject>Environment &amp; Nature</dc:subject>
+<dc:date>1933</dc:date>
+<dc:source>Painting, Oil</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg;</dc:format>
+<dc:identifier>76.4.3 0</dc:identifier>
+<dc:relation>Historic Paintings Unwrapped</dc:relation>
+<dc:rights>The History Center in Tompkins County holds copyright and reproductions rights. Prior written permission is required for any use of this image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15085coll6/id/32</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15085coll6/33</identifier><datestamp>2014-01-08</datestamp><setSpec>p15085coll6</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Louisa Johnson Sprague</dc:title>
+<dc:description>Portrait of a dark-haired woman in a black dress with fine white lace at her throat, with coral colored jewelry; mid to late 19th century.</dc:description>
+<dc:creator>Artist Unknown</dc:creator>
+<dc:subject>Portrait Paintings; Sprague, Louisa Johnson</dc:subject>
+<dc:subject>People</dc:subject>
+<dc:date>1857; 1858; 1859; 1860; 1861; 1862; 1863</dc:date>
+<dc:source>Painting, Oil</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg;</dc:format>
+<dc:identifier>P-5-50</dc:identifier>
+<dc:relation>Historic Paintings Unwrapped</dc:relation>
+<dc:rights>The History Center in Tompkins County holds copyright and reproductions rights. Prior written permission is required for any use of this image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15085coll6/id/33</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15085coll6/34</identifier><datestamp>2014-01-08</datestamp><setSpec>p15085coll6</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Study of a Root Fence No. 2</dc:title>
+<dc:description>The second in a knarled tree root painting series.</dc:description>
+<dc:creator>Bishop, Alison Mason Kingsbury</dc:creator>
+<dc:subject>Still Life paintings</dc:subject>
+<dc:subject>Environment &amp; Nature</dc:subject>
+<dc:date>1933</dc:date>
+<dc:source>Painting, Oil</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg;</dc:format>
+<dc:identifier>76.4.31</dc:identifier>
+<dc:relation>Historic Paintings Unwrapped</dc:relation>
+<dc:rights>The History Center in Tompkins County holds copyright and reproductions rights. Prior written permission is required for any use of this image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15085coll6/id/34</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15085coll6/35</identifier><datestamp>2014-01-08</datestamp><setSpec>p15085coll6</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>The Obstacle</dc:title>
+<dc:description>View of a street leading to a grand yellow house, marked by gentle greens and yellows. Bare trees juxtaposed to lush greenery.</dc:description>
+<dc:creator>Bishop, Alison Mason Kingsbury</dc:creator>
+<dc:subject>Cityscape Paintings</dc:subject>
+<dc:subject>Environment &amp; Nature; Architecture</dc:subject>
+<dc:coverage>Ithaca, Tompkins County, New York</dc:coverage>
+<dc:date>1952</dc:date>
+<dc:source>Painting, Oil</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg;</dc:format>
+<dc:identifier>74.4.32</dc:identifier>
+<dc:relation>Historic Paintings Unwrapped</dc:relation>
+<dc:rights>The History Center in Tompkins County holds copyright and reproductions rights. Prior written permission is required for any use of this image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15085coll6/id/35</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15085coll6/36</identifier><datestamp>2014-01-08</datestamp><setSpec>p15085coll6</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Van Buskirk&#x27;s Gulf</dc:title>
+<dc:description>Abstract view of waterfall and gorge walls surrounding it.</dc:description>
+<dc:creator>Bishop, Alison Mason Kingsbury</dc:creator>
+<dc:subject>Landscape Paintings</dc:subject>
+<dc:subject>Environment &amp; Nature</dc:subject>
+<dc:date>1935</dc:date>
+<dc:source>Painting, Oil</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg;</dc:format>
+<dc:identifier>76.4.33</dc:identifier>
+<dc:relation>Historic Paintings Unwrapped</dc:relation>
+<dc:rights>The History Center in Tompkins County holds copyright and reproductions rights. Prior written permission is required for any use of this image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15085coll6/id/36</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15085coll6/37</identifier><datestamp>2014-01-08</datestamp><setSpec>p15085coll6</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>A Picnic in Arnot Forest</dc:title>
+<dc:description>Autumnal landscape scene with long view of hillside in distance, with a group of picnicking people in the right front foreground.</dc:description>
+<dc:creator>Bishop, Alison Mason Kingsbury</dc:creator>
+<dc:subject>Landscape Paintings; Robinson, Lisa; Robinson, Richard; O&#x27;Leary, Harriett; O&#x27;Leary, Paul; Parmenter, Richard; Parmenter, Bella; Wheeler, Eleanor; Wheeler, Pepperell; Burkholder, W.H.; Bishop, Morris; Bishop, Alison</dc:subject>
+<dc:subject>Environment &amp; Nature</dc:subject>
+<dc:coverage>Arnot Forest New York</dc:coverage>
+<dc:date>1961</dc:date>
+<dc:source>Painting, Oil</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg;</dc:format>
+<dc:identifier>76.4.2 8</dc:identifier>
+<dc:relation>Historic Paintings Unwrapped</dc:relation>
+<dc:rights>The History Center in Tompkins County holds copyright and reproductions rights. Prior written permission is required for any use of this image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15085coll6/id/37</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15085coll6/38</identifier><datestamp>2014-01-08</datestamp><setSpec>p15085coll6</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Old Methodist Tower and West Hill</dc:title>
+<dc:description>Autumnal view of rooftops of Ithaca leading to hillside in distance.</dc:description>
+<dc:creator>Beardsley, Jefferson</dc:creator>
+<dc:subject>Cityscape Paintings</dc:subject>
+<dc:subject>Environment &amp; Nature</dc:subject>
+<dc:coverage>Ithaca, Tompkins County, New York</dc:coverage>
+<dc:source>Painting, Oil</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg;</dc:format>
+<dc:relation>Historic Paintings Unwrapped</dc:relation>
+<dc:rights>The History Center in Tompkins County holds copyright and reproductions rights. Prior written permission is required for any use of this image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15085coll6/id/38</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15085coll6/39</identifier><datestamp>2014-01-08</datestamp><setSpec>p15085coll6</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Untitled</dc:title>
+<dc:description>Morris and Alison Bishop Christmas card view of the lake from their Cayuga Heights home</dc:description>
+<dc:creator>Bishop, Alison Mason Kingsbury</dc:creator>
+<dc:subject>Painting</dc:subject>
+<dc:subject>Environment &amp; Nature</dc:subject>
+<dc:coverage>Cayuga Heights Tompkins County New York</dc:coverage>
+<dc:date>1962</dc:date>
+<dc:source>Print</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg;</dc:format>
+<dc:identifier>1994.82.2</dc:identifier>
+<dc:relation>Historic Paintings Unwrapped</dc:relation>
+<dc:rights>The History Center in Tompkins County holds copyright and reproductions rights. Prior written permission is required for any use of this image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15085coll6/id/39</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15085coll6/40</identifier><datestamp>2014-01-08</datestamp><setSpec>p15085coll6</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>David Daniel Spencer</dc:title>
+<dc:description>Portrait of slender, dark haired man in formal 19th century clothing.</dc:description>
+<dc:creator>Brown, Goodwin</dc:creator>
+<dc:subject>Portrait Paintings; Spencer, David Daniel</dc:subject>
+<dc:subject>People</dc:subject>
+<dc:date>1831</dc:date>
+<dc:source>Painting</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg;</dc:format>
+<dc:identifier>P-5-3</dc:identifier>
+<dc:relation>Historic Paintings Unwrapped</dc:relation>
+<dc:rights>The History Center in Tompkins County holds copyright and reproductions rights. Prior written permission is required for any use of this image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15085coll6/id/40</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15085coll6/41</identifier><datestamp>2014-01-08</datestamp><setSpec>p15085coll6</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Lydia Ackley</dc:title>
+<dc:description>Portrait of young mother with toddler on her lap; early 19th century.</dc:description>
+<dc:creator>McMaster, William E.</dc:creator>
+<dc:subject>Portrait Paintings; Ackley, Lydia</dc:subject>
+<dc:subject>People</dc:subject>
+<dc:date>1843; 1844; 1845; 1846; 1847</dc:date>
+<dc:source>Painting, Oil</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg;</dc:format>
+<dc:identifier>P-5-32</dc:identifier>
+<dc:relation>Historic Paintings Unwrapped</dc:relation>
+<dc:rights>The History Center in Tompkins County holds copyright and reproductions rights. Prior written permission is required for any use of this image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15085coll6/id/41</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15085coll6/42</identifier><datestamp>2014-01-08</datestamp><setSpec>p15085coll6</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Edward Mack Curtis Hawkins</dc:title>
+<dc:description>Portrait of older man with green suit and green hat; early 20th century.</dc:description>
+<dc:creator>Gilley, John</dc:creator>
+<dc:subject>Portrait Paintings; Hawkins, Edward Mack Curtis</dc:subject>
+<dc:subject>People</dc:subject>
+<dc:date>1929</dc:date>
+<dc:source>Painting, Oil</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg;</dc:format>
+<dc:identifier>P-5-44</dc:identifier>
+<dc:relation>Historic Paintings Unwrapped</dc:relation>
+<dc:rights>The History Center in Tompkins County holds copyright and reproductions rights. Prior written permission is required for any use of this image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15085coll6/id/42</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15085coll6/43</identifier><datestamp>2014-01-08</datestamp><setSpec>p15085coll6</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Crowbar Point</dc:title>
+<dc:description>View of small cove with trees off Cayuga Lake.</dc:description>
+<dc:creator>Millspaugh, John H.</dc:creator>
+<dc:subject>Landscape Paintings</dc:subject>
+<dc:subject>Environment &amp; Nature</dc:subject>
+<dc:coverage>Crowbar Point New York</dc:coverage>
+<dc:date>1890; 1891; 1892; 1893; 1894</dc:date>
+<dc:source>Painting, Watercolor</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg;</dc:format>
+<dc:relation>Historic Paintings Unwrapped</dc:relation>
+<dc:rights>The History Center in Tompkins County holds copyright and reproductions rights. Prior written permission is required for any use of this image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15085coll6/id/43</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15085coll6/44</identifier><datestamp>2014-01-08</datestamp><setSpec>p15085coll6</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Inclined Plane. Ithaca-Owego Railroad 1834</dc:title>
+<dc:description>View of railroad tracks on steep hillside in Ithaca; early 19th century.</dc:description>
+<dc:creator>Norris, W.G.</dc:creator>
+<dc:subject>Landscape Paintings</dc:subject>
+<dc:subject>Work &amp; Labor; Transportation</dc:subject>
+<dc:coverage>South Hill, Ithaca, Tompkins County, New York</dc:coverage>
+<dc:date>1957</dc:date>
+<dc:source>Painting, Watercolor</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/jpeg;</dc:format>
+<dc:relation>Historic Paintings Unwrapped</dc:relation>
+<dc:rights>The History Center in Tompkins County holds copyright and reproductions rights. Prior written permission is required for any use of this image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15085coll6/id/44</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15085coll6/45</identifier><datestamp>2014-04-16</datestamp><setSpec>p15085coll6</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Potato Vines  load of</dc:title>
+<dc:description>Farm scene, farmer with horse-drawn wagon loaded with potato vines. Bright summer sunlight</dc:description>
+<dc:creator>Verne Morton</dc:creator>
+<dc:subject>Farms;  Potatoes</dc:subject>
+<dc:subject>Agriculture; Environment &amp; Nature; Work &amp; Labor</dc:subject>
+<dc:coverage>unknown</dc:coverage>
+<dc:publisher>The History Center in Tompkins County</dc:publisher>
+<dc:source>Photograph: glass plate neg., b+w; 5 X 7 in (17  X 12  cm)</dc:source>
+<dc:type>Still image</dc:type>
+<dc:format>image/jp2</dc:format>
+<dc:identifier>N1.3738  M# 2977</dc:identifier>
+<dc:relation>Verne Morton Photograph Collection</dc:relation>
+<dc:rights>The History Center in Tompkins County holds copyright and reproductions rights. Prior written permission is required for any use of this image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15085coll6/id/45</dc:identifier></oai_dc:dc>
+</metadata>
+</record></ListRecords></OAI-PMH>

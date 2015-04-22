@@ -1,0 +1,1900 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2014-12-17T21:06:53Z</responseDate><request verb="ListRecords" metadataPrefix="oai_dc" set="slfl">http://cdm16694.contentdm.oclc.org/oai/oai.php</request><ListRecords><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:slfl/0</identifier><datestamp>2012-05-16</datestamp><setSpec>slfl</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/1</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Academy St. #18 (85.655) Ledger or Hatch Cottage</dc:title>
+<dc:subject>Dwellings</dc:subject>
+<dc:identifier>85.655</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/1</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/2</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>18 Academy Street</dc:title>
+<dc:subject>Dwellings; Neighborhoods; Porches; Apartments</dc:subject>
+<dc:description>White house with black shutters</dc:description>
+<dc:description>Winter</dc:description>
+<dc:identifier>85.655</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/2</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/3</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Church St. #6</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Katherine McClellan</dc:creator>
+<dc:description>Dr.  Edward R.  Baldwin home on Church St. This is his original house on this site; it was moved and replaced by the house illustrated in 87.557d. Additional information about this photograph is written on the back.</dc:description>
+<dc:date>1897</dc:date>
+<dc:source>17 x 21 cm</dc:source>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:description>Winter</dc:description>
+<dc:identifier>88.29</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/3</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/4</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Church St. #6 as it is today</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>William Distin</dc:creator>
+<dc:description>Dr. Edward R. Baldwin&#x27;s second house on this site.</dc:description>
+<dc:source>12 x 16 cm</dc:source>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:description>Summer</dc:description>
+<dc:identifier>87.557d</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/4</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/5</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Algonquin Ave. #58 (86.576k) Ryan House</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Kollecker, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>86.576d</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/5</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/6</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Baker St. #18 (98.63) Edwards Home</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>98.63</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/6</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/7</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Baker St. #50 (82.655) Williams Cottage</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>82.655</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/7</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/8</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Old Military Rd. #34 (84.31k)</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Kollecker, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>84.31k</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/8</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/9</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Old Military Rd. #48 (84.51k)</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Kollecker, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>84.51k</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/9</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/10</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Old Military Rd. #50 (84.25K) Weeks and Moore Cottage</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Kollecker, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>84.25k</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/10</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/11</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Old Military Rd. #54 (95.45k)</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Kollecker, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>95.45k</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/11</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/12</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Park Ave. #106.5 (85.26k)</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Kollecker, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>85.26k</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/12</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/13</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Park Ave. #127 (82.39) Highland Manor Nichols Cottage</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>82.39</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/13</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/14</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Park Ave. #138 (84.45k)</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Kollecker, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>84.45k</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/14</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/15</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Park Ave. #143 (82.473) Duryee Cottage</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>82.473</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/15</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/16</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Park Ave. #146 (02.115) Wilson Cottage 1905</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>02.115</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/16</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/17</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Park Ave. #157(85.25k) Palmer Cottage</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Kollecker, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>85.25k</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/17</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/18</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Bloomingdale Ave. #22 (81.304d) Ensine Miller Home</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Distin, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>81.304d</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/18</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/19</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Park Ave. #160 (85.28k)</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Kollecker, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>85.28k</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/19</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/20</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Park Ave. #167 (85.113) Westhoff House</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>85.113</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/20</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/21</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Park Ave. #168 (82.381) Fletcher Cottage</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>82.381</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/21</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/22</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Park Ave. #38 (85.47k) Carr Cottage</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Kollecker, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>85.47k</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/22</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/23</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Park Ave. #40 (84.22k) Cottage Row</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Kollecker, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>84.22k</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/23</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/24</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Park Ave. #83 (82.133) Montgomery Cottage</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>82.133</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/24</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/25</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Park Ave. #86, 90 and 96 (85.54k)</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Kollecker, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>85.54k</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/25</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/26</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Petrova Ave. #56 (96.103) Christian and Littlewood Home</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>96.103</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/26</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/27</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>River St. #28 (84.38k)</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Kollecker, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>84.38k</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/27</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/28</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>River St. #28 and 30 (83.822)</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>83.822</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/28</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/29</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Bloomingdale Ave. #28 (86.541k) Morgan House</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Kollecker, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>86.541k</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/29</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/30</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>River St. #42 (87.530d) also rear of 43 Church St.</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Distin, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>87.530d</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/30</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/31</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Riverside Dr.  (85.654)</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>85.654</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/31</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/32</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Riverside Dr. #1 (87.555d) Mrs. J.L. Carter House, Barrwell Cot.</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Distin, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>87.555d</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/32</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/33</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Riverside Dr. #29 (81.139d)</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Distin, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>81.139d</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/33</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/34</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Riverside Dr. #63 (84.48k)</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Kollecker, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>84.48k</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/34</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/35</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Riverside Dr. #89 (81.210d) Manko Cottage</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Distin, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>81.210d</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/35</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/36</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Riverside Dr. #90 (84.48k)</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Kollecker, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>84.48k</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/36</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/37</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Riverside Dr. (84.42k)</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Kollecker, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>84.42k</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/37</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/38</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Rockledge Rd. #16 (98.24) Walter Cluett House</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>98.24</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/38</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/39</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Shepard Ave. #16 to 5 (85.55k)</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Kollecker, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>85.55k</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/39</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/40</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Bloomingdale Ave. #90 (83.456) possibly Cantwell Estates</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>83.456</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/40</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/41</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Shepard Ave. #20 (82.470) Edwin D. French Cottage</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>82.470</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/41</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/42</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Shepard Ave. #43 (85.118) Endicott Johnson Cottage and Schwartz</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>85.118</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/42</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/43</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Shepard Ave. #6 (02.190)</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>02.190</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/43</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/44</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>South St. #4 (82.1052) Mrs. Pasho</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>82.1052</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/44</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/45</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>St. Bernard St. # 8 &amp;9 (82.744) Johnson and Tremble Houses</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>82.744</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/45</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/46</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>St. Bernard St. #9 (85.56k) Tremble House</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Kollecker, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>85.56k</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/46</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/47</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Stevenson Lane #11 (88.101) RLS Cottage</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>88.101</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/47</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/48</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Turtle Pd. (82.143) Lockwood Home</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>82.143</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/48</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/49</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Turtle Pd. (84.52k)</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Kollecker, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>84.52k</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/49</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/50</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Turtle Pond (82.133) Clark Home</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>82.133</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/50</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/51</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Bloomingdale Ave. (84.79k) Franklin House Grand Union</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Kollecker, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>84.79k</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/51</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/52</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Unknown #1</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/52</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/53</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>View St. (82.543) W. Lee Knight Cottage</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>82.543</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/53</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/54</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Woodruff St. #42 and 46 (85.41k)</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>
+Kollecker, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>85.41k</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/54</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/55</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Bloomingdale Rd. (97.32) Clancy Cottage</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>97.32</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/55</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/56</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Broadway #164 (02.198) Tully House</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>02.198</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/56</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/57</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Broadway #212 (82.665) Mussen Cottage 1964</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>82.665</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/57</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/58</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Broadway #244 (00.142e) Mountain View Cottage</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>00.142e</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/58</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/59</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Catherine St. #22 (81.46k) Brumfiel Cottage</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Kollecker, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>81.46k</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/59</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/60</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Church St. #10 (02.247) Northwood Cottage</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>02.247</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/60</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/61</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Church St. #13 (84.27k) Oakey and Jewish Center</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Kollecker, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>84.27k</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/61</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/62</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Church St. #14 (86.692k) possibly Sageman House</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Kollecker, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>86.692k</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/62</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/63</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Church St. #14 possibly (84.32k)</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Kollecker, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>84.32k</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/63</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/64</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Church St. #16 (85.237) Waltein Cottage 1931</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>85.237</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/64</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/65</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Church St. #17 (83.461) Minshull Gedroiz Cottage</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>83.461</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/65</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/66</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Church St. #30 (86.290k) Donaldson House</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Kollecker, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>86.290k</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/66</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/67</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Church St. #36 (86.421) The Santanoni Hotel</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>86.421</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/67</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/68</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Church St. #37 (02.274)</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>02.274</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/68</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/69</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Church St. #37 and 39 (85.59k)</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Kollecker, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>85.59k</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/69</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/70</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Church St. #41 (84.36k) Presbyterian Parsonage</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Kollecker, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>84.36k</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/70</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/71</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Church St. #41 (85.60k)</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Kollecker, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>85.60k</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/71</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/72</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Church St. #43 (85.63k) Cooper House</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Kollecker, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>85.63k</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/72</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/73</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Church St. #46 or 48 (85.40k)</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Kollecker, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>85.40k</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/73</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/74</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Church St. #6 (87.557d) Dr. Baldwin first house moved to Academy</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Distin, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>87.557d</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/74</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/75</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Church St. #6 (88.29) Baldwin Home, first one</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>88.29</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/75</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/76</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Church St. #7 (81.314d) Lemon Cottage</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Distin, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>81.314d</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/76</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/77</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Church St. #8 (82.664)</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>82.664</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/77</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/78</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Church St. #8 (85.57k)</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Kollecker, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>85.57k</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/78</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/79</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Cliff Rd. (82.134) Smith Home</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>82.134</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/79</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/80</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Cliff Rd. (82.135) Smith Home</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>82.135</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/80</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/81</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Dorsey St. #51 (84.41k) Villa Dorsey</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Kollecker, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>84.41k</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/81</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/82</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Dorsey Terr. #5 (96.104) Vancour House</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>96.104</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/82</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/83</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Dorsey Terr. (96.102) Victor Kenyon&#x27;s Father-in-law Home</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>96.102</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/83</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/84</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Elm St. #10 and 12 (85.484)</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>85.484</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/84</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/85</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Elm St. #15 (83.354) maybe Wm. Harrison home</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>83.354</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/85</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/86</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Fawn St. #4 (97.142)</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>97.142</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/86</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/87</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Franklin Ave. #31 (84.34k)</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Kollecker, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>84.34k</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/87</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/88</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Franklin Ave. #45 (81.311d) B. Sloan Cottage</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Distin, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>81.311d</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/88</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/89</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Franklin Ave. #48 (82.141) Alta Vista</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>82.141</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/89</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/90</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Franklin Ave. #68 (81.145d) porch of Hudson Cottage</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Distin, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>81.145d</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/90</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/91</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Franklin Ave. #68 (81.15d) interior</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Distin, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>81.15d</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/91</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/92</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Franklin Ave. #68 (83.458) Hudson Hayes Cottage</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>83.458</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/92</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/93</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Front St. #28 (81.132d) also 38 and 40 Shepard Ave.</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Distin, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>81.132d</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/93</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/94</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Front St. #28 (87.640d) Gray Homestead</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Distin, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>87.640d</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/94</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/95</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Glenwood Estates (82.128) Jenks Cottage</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>82.128</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/95</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/96</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Glenwood Estates (82.130) Worthen Cottage</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>82.130</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/96</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/97</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Glenwood Estates (82.60) Rumsey Cottage</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>82.60</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/97</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/98</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Glenwood Estates (83.185) Wm. G. Distin Cottage</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>83.185</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/98</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/99</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Glenwood Estates (83.343) Dr. J.N. Hayes Cottage</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>83.343</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/99</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/100</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Glenwood Estates (83.806) Stonaker Cottage</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>83.806</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/100</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/101</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Helen St. #14 (84.35k) Hennessy House</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Kollecker, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>84.35k</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/101</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/102</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Helen St. #15 (82.755) Gray Cottage</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>82.755</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/102</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/103</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Helen St. #16 (85.33k) Noyes Cottage</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Kollecker, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>85.33k</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/103</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/104</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Helen St. #16, (85.37k) Noyes Cottage porch different</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Kollecker, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>85.37k</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/104</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/105</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Helen St. #16, 18, 20, 24 (85.36k)</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Kollecker, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>85.36k</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/105</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/106</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Helen St. #20 (85.724) French House</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>85.724</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/106</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/107</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Helen St. #25 (84.49k) Bottsford Cottage</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Kollecker, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>84.49k</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/107</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/108</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Helen St. #8 (85.38k)</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Kollecker, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>85.38k</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/108</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/109</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Helen St. #Park Ave. #104 (85.39k)</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Kollecker, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>85.39k</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/109</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/110</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>James St. #28 (00.142b) Tartaris Home</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Distin, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>00.142b</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/110</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/111</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Kiwassa Rd. #11 (82.148) Distin Cottage</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>82.148</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/111</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/112</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Lake St. #123 (88.164) Theo. Hamner House</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>88.164</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/112</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/113</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Lake St. #51 (97.29) Eagles Nest 1922</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>97.29</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/113</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/114</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Lake St. #93 (83.488) Cheeseman Cottage</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>83.488</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/114</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/115</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Main St. #100 (83.146) Guild House</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>83.146</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/115</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/116</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Main St. #104 (87.634d) Lawrason Brown House</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Distin, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>87.634d</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/116</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/117</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Main St. #105 (81.128d) first house</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Distin, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>81.128d</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/117</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/118</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Main St. #105 (82.628) E.L.Trudeau Cottage</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>82.628</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/118</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/119</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Main St. #108 (82.772) moved to Church St. Ext.</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>82.772</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/119</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/120</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Baker St. #34 (85.167) Frazer Cottage</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>85.167</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/120</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/121</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Main St. #110 (83.459) Werle Cottage</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>83.459</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/121</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/122</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Main St. #110 (87.639d)</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Distin, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>87.639d</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/122</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/123</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Main St. #24 (83.877) Miller Cottage</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>83.877</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/123</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/124</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Main St. #28 (81.148d) Dewey House</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Distin, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>81.148d</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/124</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/125</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Main St. #53 (81.302d) Linwood Cottage</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Distin, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>81.302d</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/125</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/126</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Main St. #60 (81.137d) Reynolds Cottage</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Distin, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>81.137d</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/126</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/127</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Main St. #100 (85.53k) Guild House</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Kollecker, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>85.53k</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/127</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/128</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Main St. #96 and #98 (81.58d)</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Distin, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>81.58d</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/128</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/129</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Main St. (81.308d) Riverside Inn</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Distin, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>81.308d</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/129</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/130</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Main St. (86.463) Evans Cottage</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>86.463</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/130</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/131</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Baker St. #36 (85.42k)</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Kollecker, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>85.42k</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/131</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/132</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Maple Hill (Rumenapp Cottage) (81.65d)</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Distin, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>81.65d</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/132</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/133</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Margaret St. #67 (84.63k)</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Kollecker, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>84.63k</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/133</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/134</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Marshall St. #11 (88.136)</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>88.136</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/134</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/135</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Moir Rd. (82.330) Moir Cabin</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>82.330</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/135</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/136</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Moody Pd. Rd. #32 (83.830)</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>83.830</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/136</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/137</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Moody Pd. Rd. (82.136) The Pines</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>82.136</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/137</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/138</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Neil St. #7 (85.870)</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>85.870</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/138</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/139</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Old Lake Colby Rd. (98.62) Finn House</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>98.62</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/139</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/140</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Old Military Rd. #16 (84.44k)</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:creator>Kollecker, William</dc:creator>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>84.44k</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/140</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:slfl/141</identifier><datestamp>2013-04-04</datestamp><setSpec>slfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Old Military Rd. #22 (82.765) McClelellan Cottage</dc:title>
+<dc:subject>Saranac Lake (N.Y.)-Buildings, structures, etc.; Sanatoriums- New York (State)-Saranac Lake-History-Design and construction.</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Saranac Lake, Franklin County (NY);</dc:coverage>
+<dc:type>Image; (Photograph);</dc:type>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>Cure Cottages of Saranac Lake NY</dc:relation>
+<dc:identifier>82.765</dc:identifier>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/slfl/id/141</dc:identifier></oai_dc:dc>
+</metadata>
+</record></ListRecords></OAI-PMH>

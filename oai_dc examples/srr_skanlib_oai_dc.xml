@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2014-12-04T21:21:04Z</responseDate><request verb="ListRecords" metadataPrefix="oai_dc" set="srr_skanlib">http://cdm16694.contentdm.oclc.org/oai/oai.php</request><ListRecords><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_skanlib/2</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_skanlib</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Surgical Dressings Letter</dc:title>
+<dc:description>Thank you letter from Mrs. Mary Hatch Willard to Miss Daisy Turner for her dressing contribution.</dc:description>
+<dc:creator>Willard, Mary Hatch; National Surgical Dressings Committee</dc:creator>
+<dc:subject>Journalism; War; War relief</dc:subject>
+<dc:subject>War; War -- Medical aspects; War -- Relief of sick and wounded;</dc:subject>
+<dc:subject>Government, Law &amp; Politics</dc:subject>
+<dc:coverage>Skaneateles - Onondaga County - New York</dc:coverage>
+<dc:date>1916-11-28</dc:date>
+<dc:source>7.5 x 9 in. (19.05 x 22.86 cm.)</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>surg002</dc:identifier>
+<dc:relation>Skaneateles Library Association Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes. Please cite as: Skaneateles Library Association Collection. For usage beyond fair use please contact holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_skanlib/id/2</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_skanlib/15</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_skanlib</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Centennial Address by John D. Barrow</dc:title>
+<dc:description>Record of the centennial address delivered in Skaneateles on July 4th, 1876</dc:description>
+<dc:creator>Barrow, John D.</dc:creator>
+<dc:subject>Public Speaking; Centennial Celebrations</dc:subject>
+<dc:subject>Speeches, addresses, etc;</dc:subject>
+<dc:subject>Community &amp; Events</dc:subject>
+<dc:coverage>Skaneateles - Onondaga County - New York</dc:coverage>
+<dc:publisher>Masters &amp; Stone, Printers</dc:publisher>
+<dc:date>1876-07</dc:date>
+<dc:source>9 x 6.5 in. (22.86 x 16.51 cm.)</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>cent001.tiff-cent012.tiff</dc:identifier>
+<dc:relation>Skaneateles Library Association Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes. Please cite as: Skaneateles Library Association Collection. For usage beyond fair use please contact holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_skanlib/id/15</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_skanlib/18</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_skanlib</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Waterbury Felt Co. Letter</dc:title>
+<dc:description>Letter addressed to Mrs. Helen Warner from the Waterbury Felt Co. expressing their appreciation for her work in the war relief and are enclosing a $50 check.</dc:description>
+<dc:creator>Waterbury, H. D</dc:creator>
+<dc:subject>Correspondence; War; War relief</dc:subject>
+<dc:subject>War; War -- Medical aspects; War -- Relief of sick and wounded;</dc:subject>
+<dc:subject>Business &amp; Industry; Military &amp; War;</dc:subject>
+<dc:coverage>Skaneateles - Onondaga County - New York</dc:coverage>
+<dc:date>1918-01-24</dc:date>
+<dc:source>8.5 x 11 in. (21.59 x 27.94 cm.)</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>wat001</dc:identifier>
+<dc:relation>Skaneateles Library Association Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes. Please cite as: Skaneateles Library Association Collection. For usage beyond fair use please contact holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_skanlib/id/18</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_skanlib/19</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_skanlib</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Report of the Skaneateles War Relief Committee</dc:title>
+<dc:description>Report of the Skaneateles Relief Committee in WWII</dc:description>
+<dc:creator>Warner, Helen M.; Clark, Frances Underhill; Turner, Daisy M.; Skaneateles War Relief Committee</dc:creator>
+<dc:subject>Journalism; War; War relief</dc:subject>
+<dc:subject>War; Newsletters; War relief; Journalism;</dc:subject>
+<dc:subject>Government, Law &amp; Politics</dc:subject>
+<dc:coverage>Skaneateles - Onondaga County - New York</dc:coverage>
+<dc:date>1916-11-28</dc:date>
+<dc:source>7.5 x 9 in. (19.05 x 22.86 cm.)</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>warrelief003</dc:identifier>
+<dc:relation>Skaneateles Library Association Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes. Please cite as: Skaneateles Library Association Collection. For usage beyond fair use please contact holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_skanlib/id/19</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_skanlib/20</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_skanlib</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Skaneateles Libray Association Membership Card</dc:title>
+<dc:description>Mrs. Hildegarde Edwards Skaneateles Library Association card presented on March 11, 1899</dc:description>
+<dc:creator>Skaneateles Library Association</dc:creator>
+<dc:subject>Membership cards</dc:subject>
+<dc:subject>Associations, institutions, etc. -- Membership;</dc:subject>
+<dc:subject>Business &amp; Industry</dc:subject>
+<dc:coverage>Skaneateles - Onondaga County - New York</dc:coverage>
+<dc:publisher>Skaneateles Library Association</dc:publisher>
+<dc:date>1899-03-11</dc:date>
+<dc:source>4.5 x 3.5 in. (11.43 x 8.89 cm.)</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>libcard016</dc:identifier>
+<dc:relation>Skaneateles Library Association Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes. Please cite as: Skaneateles Library Association Collection. For usage beyond fair use please contact holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_skanlib/id/20</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_skanlib/23</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_skanlib</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Lake Street Postcard</dc:title>
+<dc:description>Post card depicting West Lake Street, Skaneateles, N.Y. Circa 1909.</dc:description>
+<dc:creator>The Valentine &amp; Sons&#x27; Publishing Co., Ltd., New York</dc:creator>
+<dc:subject>Photographic postcards; Lakes &amp; ponds; Dirt roads</dc:subject>
+<dc:subject>Postcards; Roads; Roads, Earth; Lakes;</dc:subject>
+<dc:subject>Geography &amp; Maps;</dc:subject>
+<dc:coverage>Skaneateles - Onondaga County - New York</dc:coverage>
+<dc:publisher>The Valentine &amp; Sons&#x27; Publishing Co., Ltd., New York</dc:publisher>
+<dc:date>1905; 1906; 1907; 1908; 1909; 1910; 1911; 1912; 1913; 1914; 1915</dc:date>
+<dc:source>5.5 x 3.5 in. (13.97 x 8.89 cm.)</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>lakestpstcd001 &amp; lakstpstcd002</dc:identifier>
+<dc:relation>Skaneateles Library Association Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes. Please cite as: Skaneateles Library Association Collection. For usage beyond fair use please contact holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_skanlib/id/23</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_skanlib/26</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_skanlib</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Skaneateles Lake Postcard</dc:title>
+<dc:description>Post card of Skaneateles Lake. Circa 1909.</dc:description>
+<dc:creator>The Valentine &amp; Sons&#x27; Publishing Co., Ltd., New York</dc:creator>
+<dc:subject>Photographic postcards; Lakes &amp; ponds</dc:subject>
+<dc:subject>Parks; Lakes;</dc:subject>
+<dc:subject>Geography &amp; Maps;</dc:subject>
+<dc:coverage>Skaneateles - Onondaga County - New York</dc:coverage>
+<dc:publisher>The Valentine &amp; Sons&#x27; Publishing Co., Ltd., New York</dc:publisher>
+<dc:date>1905; 1906; 1907; 1908; 1909; 1910; 1911; 1912; 1913; 1914; 1915</dc:date>
+<dc:source>5.5 x 3.5 in. (13.97 x 8.89 cm.)</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>skanlakepstcd001 &amp; skanlakepstcd002</dc:identifier>
+<dc:relation>Skaneateles Library Association Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes. Please cite as: Skaneateles Library Association Collection. For usage beyond fair use please contact holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_skanlib/id/26</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_skanlib/48</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_skanlib</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Skaneateles Library Association Catalogue</dc:title>
+<dc:description>Skaneateles Library Catalogue arranged alphabetically by author</dc:description>
+<dc:creator>Skaneateles Library Association</dc:creator>
+<dc:subject>Catalogs</dc:subject>
+<dc:subject>Cataloging</dc:subject>
+<dc:subject>Business &amp; Industry</dc:subject>
+<dc:coverage>Skaneateles - Onondaga County - New York</dc:coverage>
+<dc:publisher>Courier Printing Company</dc:publisher>
+<dc:date>1878</dc:date>
+<dc:source>14 x 10 in. (35.56 x 25.4 cm.)</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>slacata001 - slacata021</dc:identifier>
+<dc:relation>Skaneateles Library Association Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes. Please cite as: Skaneateles Library Association Collection. For usage beyond fair use please contact holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_skanlib/id/48</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_skanlib/51</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_skanlib</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Thayer Park Postcard</dc:title>
+<dc:description>Post card showing Skaneateles Lake from Thayer Park and The Smokehouse Building there.</dc:description>
+<dc:creator>The Valentine &amp; Sons&#x27; Publishing Co., Ltd., New York</dc:creator>
+<dc:subject>Photographic postcards; Lakes &amp; ponds; Parks; Smokehouses</dc:subject>
+<dc:subject>Lakes; Parks;</dc:subject>
+<dc:subject>Geography &amp; Maps;</dc:subject>
+<dc:coverage>Skaneateles - Onondaga County - New York</dc:coverage>
+<dc:publisher>The Valentine &amp; Sons&#x27; Publishing Co., Ltd., New York</dc:publisher>
+<dc:date>1905; 1906; 1907; 1908; 1909; 1910; 1911; 1912; 1913; 1914; 1915</dc:date>
+<dc:source>5.5 x 3.5 in. (13.97 x 8.89 cm.)</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>thayerprkpstcd001 &amp; thayerprkpstcd002</dc:identifier>
+<dc:relation>Skaneateles Library Association Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes. Please cite as: Skaneateles Library Association Collection. For usage beyond fair use please contact holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_skanlib/id/51</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_skanlib/52</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_skanlib</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Skaneateles Dam</dc:title>
+<dc:description>Photo of man standing on the Skaneateles Dam.</dc:description>
+<dc:creator>F.L. Harris &amp; Co</dc:creator>
+<dc:subject>Dams; Photographic prints; Men</dc:subject>
+<dc:subject>Rivers; Dams;</dc:subject>
+<dc:subject>Architecture</dc:subject>
+<dc:coverage>Skaneateles - Onondaga County - New York</dc:coverage>
+<dc:date>1865; 1866; 1867; 1868; 1869; 1870; 1871; 1872; 1873; 1874; 1875</dc:date>
+<dc:source>7 x 5 in. (17.78 x 5 cm.)</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>dam001</dc:identifier>
+<dc:relation>Skaneateles Library Association Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes. Please cite as: Skaneateles Library Association Collection. For usage beyond fair use please contact holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_skanlib/id/52</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_skanlib/53</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_skanlib</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Webb Property</dc:title>
+<dc:description>Photo of rose garden, arches, and small building.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Photographic prints; Roses; Gardens</dc:subject>
+<dc:subject>Gardens, American; Gardens; Garden walks; Trellises; Roses;</dc:subject>
+<dc:subject>Geography &amp; Maps;</dc:subject>
+<dc:coverage>Skaneateles - Onondaga County - New York</dc:coverage>
+<dc:date>1865; 1866; 1867; 1868; 1869; 1870; 1871; 1872; 1873; 1874; 1875</dc:date>
+<dc:source>6.5 x 4.5 in. (16.51 x 11.43 cm.)</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>webbproperty001</dc:identifier>
+<dc:relation>Skaneateles Library Association Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes. Please cite as: Skaneateles Library Association Collection. For usage beyond fair use please contact holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_skanlib/id/53</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_skanlib/54</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_skanlib</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Wildey Photograph</dc:title>
+<dc:description>Photo of several buildings in Skaneateles, including the Packwood Factory.</dc:description>
+<dc:creator>Wildey, Ornando H.</dc:creator>
+<dc:subject>Photographic prints; Factories; Cityscapes</dc:subject>
+<dc:subject>Aerial photographs; Street photography; Architecture;</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Skaneateles - Onondaga County - New York</dc:coverage>
+<dc:date>1865; 1866; 1867; 1868; 1869; 1870; 1871; 1872; 1873; 1874; 1875</dc:date>
+<dc:source>7 x 5 in. (17.78 x 12.7 cm.)</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>wildeyphoto001</dc:identifier>
+<dc:relation>Skaneateles Library Association Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes. Please cite as: Skaneateles Library Association Collection. For usage beyond fair use please contact holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_skanlib/id/54</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_skanlib/55</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_skanlib</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Genesee Street</dc:title>
+<dc:description>Photo of Genesee Street, Skaneateles, N.Y.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Photographic prints; Cityscape photographs</dc:subject>
+<dc:subject>Street photography;</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Skaneateles - Onondaga County - New York</dc:coverage>
+<dc:date>1865; 1866; 1867; 1868; 1869; 1870; 1871; 1872; 1873; 1874; 1875</dc:date>
+<dc:source>7 x 5 in. (17.78 x 12.7 cm.)</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>genesee001</dc:identifier>
+<dc:relation>Skaneateles Library Association Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes. Please cite as: Skaneateles Library Association Collection. For usage beyond fair use please contact holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_skanlib/id/55</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_skanlib/56</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_skanlib</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Skaneateles Bakery</dc:title>
+<dc:description>Photo of horse-drawn carriage outside the Skaneateles Bakery.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Photographic prints; Bakeries; Carts &amp; wagons;</dc:subject>
+<dc:subject>Bakers and bakeries; Carriages and carts; Driving of horse-drawn vehicles;</dc:subject>
+<dc:subject>Business &amp; Industry;</dc:subject>
+<dc:coverage>Skaneateles - Onondaga County - New York</dc:coverage>
+<dc:date>1865; 1866; 1867; 1868; 1869; 1870; 1871; 1872; 1873; 1874; 1875</dc:date>
+<dc:source>5 x 5 in. (12.7 x 12.7 cm.)</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>skanbakery001</dc:identifier>
+<dc:relation>Skaneateles Library Association Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes. Please cite as: Skaneateles Library Association Collection. For usage beyond fair use please contact holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_skanlib/id/56</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_skanlib/57</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_skanlib</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Presbyterian Church</dc:title>
+<dc:description>Photo of Presbyterian Church in Skaneateles, N.Y.</dc:description>
+<dc:creator>F.L. Harris &amp; Co</dc:creator>
+<dc:subject>Photographic prints; Churches; Presbyterian churches</dc:subject>
+<dc:subject>Church; Church architecture; Church buildings; Presbyterian Church;</dc:subject>
+<dc:subject>Philosophy &amp; Religion;</dc:subject>
+<dc:coverage>Skaneateles - Onondaga County - New York</dc:coverage>
+<dc:date>1865; 1866; 1867; 1868; 1869; 1870; 1871; 1872; 1873; 1874; 1875</dc:date>
+<dc:source>5 x 5 in. (12.7 x 12.7 cm.)</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>presbchurch001</dc:identifier>
+<dc:relation>Skaneateles Library Association Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes. Please cite as: Skaneateles Library Association Collection. For usage beyond fair use please contact holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_skanlib/id/57</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_skanlib/58</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_skanlib</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Quaker Lady on Skids</dc:title>
+<dc:description>Photo of the vessel the &quot;Quaker Lady&quot; on skids being pulled by a team of horses outside the Skaneateles Boat &amp; Canoe Co.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Photographic prints; Boat &amp; ship industry;</dc:subject>
+<dc:subject>Boating industry; Boatbuilding; Boats and boating;</dc:subject>
+<dc:subject>Business &amp; Industry;</dc:subject>
+<dc:coverage>Skaneateles - Onondaga County - New York</dc:coverage>
+<dc:date>1865; 1866; 1867; 1868; 1869; 1870; 1871; 1872; 1873; 1874; 1875</dc:date>
+<dc:source>5 x 5 in. (12.7 x 12.7 cm.)</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>quakerlady002</dc:identifier>
+<dc:relation>Skaneateles Library Association Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes. Please cite as: Skaneateles Library Association Collection. For usage beyond fair use please contact holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_skanlib/id/58</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_skanlib/59</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_skanlib</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Skaneateles Woodworking Co.</dc:title>
+<dc:description>Photo of Skaneateles Woodworking Co. with two men standing in doorways, and two more leaning outside.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Photographic prints; Mills</dc:subject>
+<dc:subject>Millwork (Woodwork); Wood;</dc:subject>
+<dc:subject>Business &amp; Industry;</dc:subject>
+<dc:coverage>Skaneateles - Onondaga County - New York</dc:coverage>
+<dc:date>1865; 1866; 1867; 1868; 1869; 1870; 1871; 1872; 1873; 1874; 1875</dc:date>
+<dc:source>5 x 5 in. (12.7 x 12.7 cm.)</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>woodco001</dc:identifier>
+<dc:relation>Skaneateles Library Association Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes. Please cite as: Skaneateles Library Association Collection. For usage beyond fair use please contact holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_skanlib/id/59</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_skanlib/62</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_skanlib</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>George Clinton</dc:title>
+<dc:description>An official document appointing Alanson Edwards Cornet of the troops in the second squadron of the fifth division of the cavalry of New York.</dc:description>
+<dc:subject>Military personnel; Documents; Cavalry;</dc:subject>
+<dc:subject>Soldiers; Military service, Voluntary; Armed Forces;</dc:subject>
+<dc:subject>Military &amp; War;</dc:subject>
+<dc:date>1803-04-08</dc:date>
+<dc:source>unfolded - 15.5 x 19.5 in. (39.4 x 49.5 cm.) folded as photographed - 15.5 x 10 in. (39.4 cm x 25.4 cm.)</dc:source>
+<dc:type>Text;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>georgeclinton001 &amp; georgeclinton002</dc:identifier>
+<dc:relation>Skaneateles Library Association Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes. Please cite as: Skaneateles Library  Association Collection. For usage beyond fair use please contact holding institution. Despite research, the Library is unable to secure all copyright permissions. Thus some of the materials made available here are under the assertion of fair use (17 U.S.C 107).</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_skanlib/id/62</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_skanlib/65</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_skanlib</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Military discharge letter signed by George Washington</dc:title>
+<dc:description>Military discharge letter signed by George Washington.</dc:description>
+<dc:subject>Military discharges;</dc:subject>
+<dc:subject>Military discharge; Military history;</dc:subject>
+<dc:subject>Military &amp; War;</dc:subject>
+<dc:date>1783-06-08</dc:date>
+<dc:source>8 x 14 in. (20.3 x 35.6 cm.)</dc:source>
+<dc:type>Text;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>georgewashington001 &amp; georgewashington002</dc:identifier>
+<dc:relation>Skaneateles Library Association Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes. Please cite as: Skaneateles Library Association Collection. For usage beyond fair use please contact holding institution. Despite research, the Library is unable to secure all copyright permissions. Thus some of the materials made available here are under the assertion of fair use (17 U.S.C 107).</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_skanlib/id/65</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_skanlib/68</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_skanlib</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Military appointment of Daniel Earl, signed by Governor Martin Van Buren</dc:title>
+<dc:description>Original Military Appointment of Daniel Earl colonel of the 159th regiment of infantry of New York, 28, January 1829, signed by Governor Martin VanBuren, 16 February 1829</dc:description>
+<dc:subject>Military personnel; Infantry;</dc:subject>
+<dc:subject>Military appointments; Military personnel;</dc:subject>
+<dc:subject>Military &amp; War;</dc:subject>
+<dc:date>1829-01-28</dc:date>
+<dc:source>14.5 x 10 in. (36.8 x 25.4 cm.)</dc:source>
+<dc:type>Text;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>vanburen001 &amp; vanburen002</dc:identifier>
+<dc:relation>Skaneateles Library Association Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes. Please cite as: Skaneateles Library Association Collection. For usage beyond fair use please contact holding institution. Despite research, the Library is unable to secure all copyright permissions. Thus some of the materials made available here are under the assertion of fair use (17 U.S.C 107).</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_skanlib/id/68</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_skanlib/71</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_skanlib</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Anne Frank Poem to Lia Bates</dc:title>
+<dc:description>A short poem written by Anne Frank to her classmate, Lia Bates</dc:description>
+<dc:creator>Frank, Anne, 1929-1945</dc:creator>
+<dc:subject>Poetry; Autographs;</dc:subject>
+<dc:subject>Poetry; School yearbooks;</dc:subject>
+<dc:subject>People;</dc:subject>
+<dc:date>1939</dc:date>
+<dc:source>closed measurements - 5.5 x 7 in. (14 x 17.8 cm.)</dc:source>
+<dc:type>Text;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>afrank001</dc:identifier>
+<dc:relation>Skaneateles Library Association Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes. Please cite as: Skaneateles Library Association Collection. For usage beyond fair use please contact holding institution. Despite research, the Library is unable to secure all copyright permissions. Thus some of the materials made available here are under the assertion of fair use (17 U.S.C 107).</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_skanlib/id/71</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_skanlib/74</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_skanlib</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Letter from Abraham Lincoln to Sandford, Porter, &amp; Striker</dc:title>
+<dc:description>Original letter from President Abraham Lincoln to Messrs. Sandford, Porter, &amp; Striker, 10, March 1855</dc:description>
+<dc:creator>Lincoln, Abraham, 1809-1865</dc:creator>
+<dc:subject>Correspondence;</dc:subject>
+<dc:subject>Letter writing; Letters;</dc:subject>
+<dc:subject>Business &amp; Industry;</dc:subject>
+<dc:date>1855-03-10</dc:date>
+<dc:source>8 x 10 in.(20.3 x 25.4 cm.)</dc:source>
+<dc:type>Text;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>alincoln001</dc:identifier>
+<dc:relation>Skaneateles Library Association Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes. Please cite as: Skaneateles Library Association Collection. For usage beyond fair use please contact holding institution. Despite research, the Library is unable to secure all copyright permissions. Thus some of the materials made available here are under the assertion of fair use (17 U.S.C 107).</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_skanlib/id/74</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_skanlib/77</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_skanlib</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Letter from Abraham Lincoln to General McClellean</dc:title>
+<dc:description>Original letter from A. Lincoln to Gen. McClellan giving him permission to erect a bridge over the Potomac River.</dc:description>
+<dc:creator>Lincoln, Abraham, 1809-1865</dc:creator>
+<dc:subject>Correspondence; Military maneuvers;</dc:subject>
+<dc:subject>Military maneuvers; Military history; War; Civil war; Letter writing; Letters;</dc:subject>
+<dc:subject>Military &amp; War;</dc:subject>
+<dc:date>1861-11-27</dc:date>
+<dc:source>3.5 x 2 in. (8.9 x 5.1 cm.)</dc:source>
+<dc:type>Text;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>mcclellan001</dc:identifier>
+<dc:relation>Skaneateles Library Association Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes. Please cite as: Skaneateles Library Association Collection. For usage beyond fair use please contact holding institution. Despite research, the Library is unable to secure all copyright permissions. Thus some of the materials made available here are under the assertion of fair use (17 U.S.C 107).</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_skanlib/id/77</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_skanlib/78</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_skanlib</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Letter from William Seward</dc:title>
+<dc:description>Letter from Mr. William Henry Seward to unknown, [20] May 1844. Letter written to decline an engagement in Skaneateles.</dc:description>
+<dc:creator>Seward, William Henry, 1801-1872</dc:creator>
+<dc:subject>Correspondence;</dc:subject>
+<dc:subject>Letters; Letter writing;</dc:subject>
+<dc:subject>Government, Law &amp; Politics;</dc:subject>
+<dc:date>1844-05-20</dc:date>
+<dc:source>7.5 x 6 in. (19.1 x 15.2 cm.)</dc:source>
+<dc:type>Text;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>williamseward001</dc:identifier>
+<dc:relation>Skaneateles Library Association Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes. Please cite as: Skaneateles Library Association Collection. For usage beyond fair use please contact holding institution. Despite research, the Library is unable to secure all copyright permissions. Thus some of the materials made available here are under the assertion of fair use (17 U.S.C 107).</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_skanlib/id/78</dc:identifier></oai_dc:dc>
+</metadata>
+</record></ListRecords></OAI-PMH>

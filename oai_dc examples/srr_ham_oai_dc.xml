@@ -1,0 +1,1033 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2014-12-04T16:43:25Z</responseDate><request verb="ListRecords" metadataPrefix="oai_dc" set="srr_ham">http://cdm16694.contentdm.oclc.org/oai/oai.php</request><ListRecords><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:srr_ham/0</identifier><datestamp>2013-07-17</datestamp><setSpec>srr_ham</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:srr_ham/1</identifier><datestamp>2013-07-17</datestamp><setSpec>srr_ham</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:srr_ham/2</identifier><datestamp>2013-07-17</datestamp><setSpec>srr_ham</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_ham/3</identifier><datestamp>2014-11-04</datestamp><setSpec>srr_ham</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Steam engines in Randallsville - October 1940</dc:title>
+<dc:description>Photo of steam engines in Randallsville - October 1940</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Railroad; Steam locomotive--United States</dc:subject>
+<dc:subject>Transportation</dc:subject>
+<dc:coverage>Hamilton (N.Y.)</dc:coverage>
+<dc:date>1940-10-23</dc:date>
+<dc:source>Photograph; b&amp;w; 8 x 10 1/4 in. (20 1/4 x 26 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ssrhampub001</dc:identifier>
+<dc:relation>NY Ontario &amp; Western Railway Photographs</dc:relation>
+<dc:rights>Items selected from the Hamilton Public Library collections for posting on New York Heritage website are owned by Hamilton Public Library.  Please credit Hamilton Public Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_ham/id/3</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_ham/4</identifier><datestamp>2014-11-04</datestamp><setSpec>srr_ham</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>O &amp; W Track Inspector Car</dc:title>
+<dc:description>Photo of O &amp; W Track Inspector Car operated by a Singal Maintainer, Francis &#x27;Gus&#x27; Kervin of Clinton, NY from 1950 - 1956.   The car had a wooden body and was powered by a 5 HP  2 cycle Fairmount engine, of Minnesota.  Gus added the seat and battery operated wiper.   Picture was taken by Gus on a side track in Hamilton, NY.</dc:description>
+<dc:creator>Kervin, Francis</dc:creator>
+<dc:subject>Railroad; Railroad cars</dc:subject>
+<dc:subject>Transportation</dc:subject>
+<dc:coverage>Hamilton (N.Y.)</dc:coverage>
+<dc:date>1950?</dc:date>
+<dc:source>Photograph; b&amp;w; 10 1/2 x 8 1/4 in. (26 3/4 x 21 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ssrhampub002</dc:identifier>
+<dc:relation>NY Ontario &amp; Western Railway Photographs</dc:relation>
+<dc:rights>Items selected from the Hamilton Public Library collections for posting on New York Heritage website are owned by Hamilton Public Library.  Please credit Hamilton Public Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_ham/id/4</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_ham/5</identifier><datestamp>2014-11-04</datestamp><setSpec>srr_ham</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Circus unloading near station in Hamilton, NY</dc:title>
+<dc:description>Photo of circus unloading near station in Hamilton, NY.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Railroad; Railroad cars; Circus; Circus animals</dc:subject>
+<dc:subject>Community &amp; Events</dc:subject>
+<dc:coverage>Hamilton (N.Y.)</dc:coverage>
+<dc:date>1950?</dc:date>
+<dc:source>Photograph; b&amp;w; 10 x 7 1/2 in. (25 1/2 x 19 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ssrhampub003</dc:identifier>
+<dc:relation>NY Ontario &amp; Western Railway Photographs</dc:relation>
+<dc:rights>Items selected from the Hamilton Public Library collections for posting on New York Heritage website are owned by Hamilton Public Library.  Please credit Hamilton Public Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_ham/id/5</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_ham/6</identifier><datestamp>2014-11-04</datestamp><setSpec>srr_ham</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>North end of Leland Coal Shed in &#x27;70s</dc:title>
+<dc:description>Photo of north end of Leland Coal Shed in &#x27;70s</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Railroad; Coal -- Storage</dc:subject>
+<dc:subject>Transportation</dc:subject>
+<dc:coverage>Hamilton (N.Y.)</dc:coverage>
+<dc:date>1970?</dc:date>
+<dc:source>Photograph; color; 7 x 4 3/4 in. (18 x 12 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ssrhampub004</dc:identifier>
+<dc:relation>NY Ontario &amp; Western Railway Photographs</dc:relation>
+<dc:rights>Items selected from the Hamilton Public Library collections for posting on New York Heritage website are owned by Hamilton Public Library.  Please credit Hamilton Public Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_ham/id/6</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_ham/7</identifier><datestamp>2014-11-04</datestamp><setSpec>srr_ham</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>South end of Leland Coal Shed in &#x27;70s</dc:title>
+<dc:description>Photo of south end of Leland Coal Shed in &#x27;70s</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Railroad; Coal -- Storage</dc:subject>
+<dc:subject>Transportation</dc:subject>
+<dc:coverage>Hamilton (N.Y.)</dc:coverage>
+<dc:date>1970?</dc:date>
+<dc:source>Photograph; color; 7 x 4 1/4 in. (18 x 10 1/2 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ssrhampub005</dc:identifier>
+<dc:relation>NY Ontario &amp; Western Railway Photographs</dc:relation>
+<dc:rights>Items selected from the Hamilton Public Library collections for posting on New York Heritage website are owned by Hamilton Public Library.  Please credit Hamilton Public Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_ham/id/7</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_ham/8</identifier><datestamp>2014-11-04</datestamp><setSpec>srr_ham</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Switch stand night of wreck</dc:title>
+<dc:description>Photo of switch stand night of wreck.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Railroad; Railroad switches</dc:subject>
+<dc:subject>Transportation</dc:subject>
+<dc:coverage>Hamilton (N.Y.)</dc:coverage>
+<dc:date>1955-09-27</dc:date>
+<dc:source>Photograph; b&amp;w; 8 x 10 in. (19 3/4 x 25 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ssrhampub007</dc:identifier>
+<dc:relation>NY Ontario &amp; Western Railway Photographs</dc:relation>
+<dc:rights>Items selected from the Hamilton Public Library collections for posting on New York Heritage website are owned by Hamilton Public Library.  Please credit Hamilton Public Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_ham/id/8</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_ham/9</identifier><datestamp>2014-11-04</datestamp><setSpec>srr_ham</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Candy from wreckage scene - close up</dc:title>
+<dc:description>Photo of candy from wreckage scene.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Railroad; Railroad wrecks</dc:subject>
+<dc:subject>Transportation</dc:subject>
+<dc:coverage>Hamilton (N.Y.)</dc:coverage>
+<dc:date>1955-09-27</dc:date>
+<dc:source>Photograph; b&amp;w; 9 x 6 1/2 in. (23 x 16 1/2 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ssrhampub008</dc:identifier>
+<dc:relation>NY Ontario &amp; Western Railway Photographs</dc:relation>
+<dc:rights>Items selected from the Hamilton Public Library collections for posting on New York Heritage website are owned by Hamilton Public Library.  Please credit Hamilton Public Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_ham/id/9</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_ham/10</identifier><datestamp>2014-11-04</datestamp><setSpec>srr_ham</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Last train approaching Lebanon Street crossing</dc:title>
+<dc:description>Photo of last train approaching Lebanon Street crossing on March 29, 1957.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Railroad; Railroad cars; Railorad stations</dc:subject>
+<dc:subject>Transportation</dc:subject>
+<dc:coverage>Hamilton (N.Y.)</dc:coverage>
+<dc:date>1957-03-29</dc:date>
+<dc:source>Photograph; b&amp;w; 9 3/4 x 7 1/2 in. (24 1/2 x 19 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ssrhampub006</dc:identifier>
+<dc:relation>NY Ontario &amp; Western Railway Photographs</dc:relation>
+<dc:rights>Items selected from the Hamilton Public Library collections for posting on New York Heritage website are owned by Hamilton Public Library.  Please credit Hamilton Public Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_ham/id/10</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_ham/11</identifier><datestamp>2014-11-04</datestamp><setSpec>srr_ham</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Candy from wreckage scene - wide shot</dc:title>
+<dc:description>Photo of candy from wreckage scene.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Railroad; Railroad wrecks</dc:subject>
+<dc:subject>Transportation</dc:subject>
+<dc:coverage>Hamilton (N.Y.)</dc:coverage>
+<dc:date>1955-09-27</dc:date>
+<dc:source>Photograph; b&amp;w; 9 1/2 x 7 3/4 in. (24 1/4 x 19 1/2 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ssrhampub009</dc:identifier>
+<dc:relation>NY Ontario &amp; Western Railway Photographs</dc:relation>
+<dc:rights>Items selected from the Hamilton Public Library collections for posting on New York Heritage website are owned by Hamilton Public Library.  Please credit Hamilton Public Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_ham/id/11</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_ham/12</identifier><datestamp>2014-11-04</datestamp><setSpec>srr_ham</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>SD3 putting wheel trucks back on track</dc:title>
+<dc:description>Photo of SD3 putting wheel trucks back on track.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Railroad; Railroad wrecks</dc:subject>
+<dc:subject>Transportation</dc:subject>
+<dc:coverage>Hamilton (N.Y.)</dc:coverage>
+<dc:date>1955-09-27</dc:date>
+<dc:source>Photograph; b&amp;w; 9 3/4 x 7 1/2 in. (24 1/2 x 19 1/4 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ssrhampub010</dc:identifier>
+<dc:relation>NY Ontario &amp; Western Railway Photographs</dc:relation>
+<dc:rights>Items selected from the Hamilton Public Library collections for posting on New York Heritage website are owned by Hamilton Public Library.  Please credit Hamilton Public Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_ham/id/12</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_ham/13</identifier><datestamp>2014-11-04</datestamp><setSpec>srr_ham</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Main line on left, shoe-fly on right - North view</dc:title>
+<dc:description>Photo of looking north at Main line on left, shoe-fly on right.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Railroad; Railroad cars</dc:subject>
+<dc:subject>Transportation</dc:subject>
+<dc:coverage>Hamilton (N.Y.)</dc:coverage>
+<dc:date>1950?</dc:date>
+<dc:source>Photograph; b&amp;w; 9 3/4 x 7 1/2 in. (24 1/2 x 19 1/4 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ssrhampub011</dc:identifier>
+<dc:relation>NY Ontario &amp; Western Railway Photographs</dc:relation>
+<dc:rights>Items selected from the Hamilton Public Library collections for posting on New York Heritage website are owned by Hamilton Public Library.  Please credit Hamilton Public Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_ham/id/13</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_ham/14</identifier><datestamp>2014-11-04</datestamp><setSpec>srr_ham</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>&quot;&quot;Gandy dancers&quot;&quot; building shoe-fly track</dc:title>
+<dc:description>Photo of &quot;&quot;Gandy dancers&quot;&quot; building shoe-fly track.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Railroad; Railroad cars</dc:subject>
+<dc:subject>Transportation</dc:subject>
+<dc:coverage>Hamilton (N.Y.)</dc:coverage>
+<dc:date>1955-09</dc:date>
+<dc:source>Photograph; b&amp;w; 9 3/4 x 7 1/2 in. (24 1/2 x 19 1/4 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ssrhampub013</dc:identifier>
+<dc:relation>NY Ontario &amp; Western Railway Photographs</dc:relation>
+<dc:rights>Items selected from the Hamilton Public Library collections for posting on New York Heritage website are owned by Hamilton Public Library.  Please credit Hamilton Public Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_ham/id/14</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_ham/15</identifier><datestamp>2014-11-04</datestamp><setSpec>srr_ham</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Last train crossing Lebanon Street</dc:title>
+<dc:description>Photo of last train crossing Lebanon Street on March 29, 1957.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Railroad; Railroad cars; Railorad stations</dc:subject>
+<dc:subject>Transportation</dc:subject>
+<dc:coverage>Hamilton (N.Y.)</dc:coverage>
+<dc:date>1957-03-29</dc:date>
+<dc:source>Photograph; b&amp;w; 9 1/2 x 6 1/2 in. (24 x 16 1/4 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ssrhampub015</dc:identifier>
+<dc:relation>NY Ontario &amp; Western Railway Photographs</dc:relation>
+<dc:rights>Items selected from the Hamilton Public Library collections for posting on New York Heritage website are owned by Hamilton Public Library.  Please credit Hamilton Public Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_ham/id/15</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_ham/16</identifier><datestamp>2014-11-04</datestamp><setSpec>srr_ham</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Second O&amp; W Station around 1914</dc:title>
+<dc:description>Photo of second O&amp; W Station around 1914.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Railroad; Railorad stations</dc:subject>
+<dc:subject>Transportation</dc:subject>
+<dc:coverage>Hamilton (N.Y.)</dc:coverage>
+<dc:date>1914?</dc:date>
+<dc:source>Photograph; b&amp;w; 7 x 6 1/2 in. (17 3/4 x 16 1/4 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ssrhampub016</dc:identifier>
+<dc:relation>NY Ontario &amp; Western Railway Photographs</dc:relation>
+<dc:rights>Items selected from the Hamilton Public Library collections for posting on New York Heritage website are owned by Hamilton Public Library.  Please credit Hamilton Public Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_ham/id/16</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_ham/17</identifier><datestamp>2014-11-04</datestamp><setSpec>srr_ham</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Second O&amp; W Station postcardt</dc:title>
+<dc:description>Postcard of second O&amp; W Station.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Railroad; Railorad stations</dc:subject>
+<dc:subject>Transportation</dc:subject>
+<dc:coverage>Hamilton (N.Y.)</dc:coverage>
+<dc:date>1914?</dc:date>
+<dc:source>Photograph; b&amp;w; 7 3/4 x 9 1/2 in. (19 3/4 x 24 1/2 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ssrhampub017</dc:identifier>
+<dc:relation>NY Ontario &amp; Western Railway Photographs</dc:relation>
+<dc:rights>Items selected from the Hamilton Public Library collections for posting on New York Heritage website are owned by Hamilton Public Library.  Please credit Hamilton Public Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_ham/id/17</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_ham/18</identifier><datestamp>2014-11-04</datestamp><setSpec>srr_ham</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>O &amp; W station &quot;&quot;cat&#x27;s eye&quot;&quot; window</dc:title>
+<dc:description>Photos of O &amp; W station &quot;&quot;cat&#x27;s eye&quot;&quot; window (only one of two stations having this).</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Railroad; Railorad stations</dc:subject>
+<dc:subject>Transportation</dc:subject>
+<dc:coverage>Hamilton (N.Y.)</dc:coverage>
+<dc:date>1914?</dc:date>
+<dc:source>Photograph; b&amp;w; 8 x7 1/4 in. (20 1/4 x 18 1/2 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ssrhampub018</dc:identifier>
+<dc:relation>NY Ontario &amp; Western Railway Photographs</dc:relation>
+<dc:rights>Items selected from the Hamilton Public Library collections for posting on New York Heritage website are owned by Hamilton Public Library.  Please credit Hamilton Public Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_ham/id/18</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_ham/19</identifier><datestamp>2014-11-04</datestamp><setSpec>srr_ham</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Steam engine with milk train</dc:title>
+<dc:description>Photos of steam engine with milk train. Photos glued to backing which included notes.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Railroad; Steam locomotive--United States</dc:subject>
+<dc:subject>Transportation</dc:subject>
+<dc:coverage>Hamilton (N.Y.)</dc:coverage>
+<dc:date>1900?</dc:date>
+<dc:source>Photograph; b&amp;w; 7 1/2 x 10 in. (19 1/4 x 25 1/2 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ssrhampub019</dc:identifier>
+<dc:relation>NY Ontario &amp; Western Railway Photographs</dc:relation>
+<dc:rights>Items selected from the Hamilton Public Library collections for posting on New York Heritage website are owned by Hamilton Public Library.  Please credit Hamilton Public Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_ham/id/19</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_ham/20</identifier><datestamp>2014-11-04</datestamp><setSpec>srr_ham</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>SD1 and SD3 lifting unit</dc:title>
+<dc:description>Photo of SD1 and SD3 lifting unit.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Railroad; Railroad wrecks</dc:subject>
+<dc:subject>Transportation</dc:subject>
+<dc:coverage>Hamilton (N.Y.)</dc:coverage>
+<dc:date>1957-03-29</dc:date>
+<dc:source>Photograph; b&amp;w; 9 3/4 x 7 1/2 in. (24 1/2 x 19 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ssrhampub020</dc:identifier>
+<dc:relation>NY Ontario &amp; Western Railway Photographs</dc:relation>
+<dc:rights>Items selected from the Hamilton Public Library collections for posting on New York Heritage website are owned by Hamilton Public Library.  Please credit Hamilton Public Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_ham/id/20</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_ham/21</identifier><datestamp>2014-11-04</datestamp><setSpec>srr_ham</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>803 A unit landing</dc:title>
+<dc:description>Photo of 803 A unit landing.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Railroad; Locomotive</dc:subject>
+<dc:subject>Transportation</dc:subject>
+<dc:coverage>Hamilton (N.Y.)</dc:coverage>
+<dc:date>1955-09-27</dc:date>
+<dc:source>Photograph; color; 9 3/4 x 6 3/4 in. (24 1/2 x 17 1/4 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ssrhampub014</dc:identifier>
+<dc:relation>NY Ontario &amp; Western Railway Photographs</dc:relation>
+<dc:rights>Items selected from the Hamilton Public Library collections for posting on New York Heritage website are owned by Hamilton Public Library.  Please credit Hamilton Public Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_ham/id/21</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_ham/22</identifier><datestamp>2014-11-04</datestamp><setSpec>srr_ham</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Composite of A and B units</dc:title>
+<dc:description>Photos Composite of A and B units.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Railroad; Railroad wrecks</dc:subject>
+<dc:subject>Transportation</dc:subject>
+<dc:coverage>Hamilton (N.Y.)</dc:coverage>
+<dc:date>1957-03-29</dc:date>
+<dc:source>Photograph; b&amp;w; 10 x 7 in. (25 1/2 x 18 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ssrhampub022</dc:identifier>
+<dc:relation>NY Ontario &amp; Western Railway Photographs</dc:relation>
+<dc:rights>Items selected from the Hamilton Public Library collections for posting on New York Heritage website are owned by Hamilton Public Library.  Please credit Hamilton Public Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_ham/id/22</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_ham/23</identifier><datestamp>2014-11-04</datestamp><setSpec>srr_ham</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Switch showing the padlock</dc:title>
+<dc:description>Photos of switch showing the padlock.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Railroad; Railroad switches</dc:subject>
+<dc:subject>Transportation</dc:subject>
+<dc:coverage>Hamilton (N.Y.)</dc:coverage>
+<dc:date>1957-03-29</dc:date>
+<dc:source>Photograph; b&amp;w; 7 1/4 x 10 in. (18 1/4 x 25 1/2 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ssrhampub023</dc:identifier>
+<dc:relation>NY Ontario &amp; Western Railway Photographs</dc:relation>
+<dc:rights>Items selected from the Hamilton Public Library collections for posting on New York Heritage website are owned by Hamilton Public Library.  Please credit Hamilton Public Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_ham/id/23</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_ham/24</identifier><datestamp>2014-11-04</datestamp><setSpec>srr_ham</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Hamilton wreckage scene</dc:title>
+<dc:description>Photo of Hamilton wreckage scene.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Railroad; Railroad wrecks</dc:subject>
+<dc:subject>Transportation</dc:subject>
+<dc:coverage>Hamilton (N.Y.)</dc:coverage>
+<dc:date>1957-03-29</dc:date>
+<dc:source>Photograph; b&amp;w; 9 3/4 x 7 3/4 in. (24 1/2 x 19 1/4 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ssrhampub021</dc:identifier>
+<dc:relation>NY Ontario &amp; Western Railway Photographs</dc:relation>
+<dc:rights>Items selected from the Hamilton Public Library collections for posting on New York Heritage website are owned by Hamilton Public Library.  Please credit Hamilton Public Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_ham/id/24</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_ham/25</identifier><datestamp>2014-11-04</datestamp><setSpec>srr_ham</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>SD1 and SD3 lifting B unit</dc:title>
+<dc:description>Photo of SD1 and SD3 lifting B unit.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Railroad; Railroad wrecks</dc:subject>
+<dc:subject>Transportation</dc:subject>
+<dc:coverage>Hamilton (N.Y.)</dc:coverage>
+<dc:date>1957-03-29</dc:date>
+<dc:source>Photograph; b&amp;w; 9 1/2 x 7 1/2 in. (24 1/2 x 19 1/4 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ssrhampub024</dc:identifier>
+<dc:relation>NY Ontario &amp; Western Railway Photographs</dc:relation>
+<dc:rights>Items selected from the Hamilton Public Library collections for posting on New York Heritage website are owned by Hamilton Public Library.  Please credit Hamilton Public Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_ham/id/25</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_ham/26</identifier><datestamp>2014-11-04</datestamp><setSpec>srr_ham</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Shoe-fly track -- derrick preparing to lift A unit</dc:title>
+<dc:description>Photo of shoe-fly track -- derrick preparing to lift A unit.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Railroad; Railroad wrecks</dc:subject>
+<dc:subject>Transportation</dc:subject>
+<dc:coverage>Hamilton (N.Y.)</dc:coverage>
+<dc:date>1957-03-29</dc:date>
+<dc:source>Photograph; b&amp;w; 10 3/4 x 6 1/2 in. (27 1/2 x 16 1/2 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ssrhampub025</dc:identifier>
+<dc:relation>NY Ontario &amp; Western Railway Photographs</dc:relation>
+<dc:rights>Items selected from the Hamilton Public Library collections for posting on New York Heritage website are owned by Hamilton Public Library.  Please credit Hamilton Public Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_ham/id/26</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_ham/27</identifier><datestamp>2014-11-04</datestamp><setSpec>srr_ham</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Looking south towards ramp and switch</dc:title>
+<dc:description>Photo looking south towards ramp and switch.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Railroad; Railorad stations</dc:subject>
+<dc:subject>Transportation</dc:subject>
+<dc:coverage>Hamilton (N.Y.)</dc:coverage>
+<dc:date>1950?</dc:date>
+<dc:source>Photograph; b&amp;w; 5 x 3 in. (13 x 7 3/4 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ssrhampub026</dc:identifier>
+<dc:relation>NY Ontario &amp; Western Railway Photographs</dc:relation>
+<dc:rights>Items selected from the Hamilton Public Library collections for posting on New York Heritage website are owned by Hamilton Public Library.  Please credit Hamilton Public Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_ham/id/27</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_ham/28</identifier><datestamp>2014-11-04</datestamp><setSpec>srr_ham</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>O&amp;W southbound train US-2 passing the old depot and basket factory</dc:title>
+<dc:description>Photo of O&amp;W southbound train US-2 passing the old depot and basket factory with a young Bill Wilcox on his bicycle.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Railroad; Railorad stations; Steam locomotive--United States</dc:subject>
+<dc:subject>Transportation</dc:subject>
+<dc:coverage>Hamilton (N.Y.)</dc:coverage>
+<dc:date>1950?</dc:date>
+<dc:source>Photograph; b&amp;w; 9 1/2 x 6 in. (23 3/4 x 15 1/2 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ssrhampub027</dc:identifier>
+<dc:relation>NY Ontario &amp; Western Railway Photographs</dc:relation>
+<dc:rights>Items selected from the Hamilton Public Library collections for posting on New York Heritage website are owned by Hamilton Public Library.  Please credit Hamilton Public Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_ham/id/28</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_ham/29</identifier><datestamp>2014-11-04</datestamp><setSpec>srr_ham</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>O&amp;W southbound local freight train about to pass Hamilton&#x27;s old passenger station</dc:title>
+<dc:description>Photo of O&amp;W southbound local freight train about to pass Hamilton&#x27;s old passenger station.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Railroad; Railorad stations; Steam locomotive--United States</dc:subject>
+<dc:subject>Transportation</dc:subject>
+<dc:coverage>Hamilton (N.Y.)</dc:coverage>
+<dc:date>1950?</dc:date>
+<dc:source>Photograph; b&amp;w; 9 1/2 x 7 in. (23 3/4 x 17 1/4 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ssrhampub028</dc:identifier>
+<dc:relation>NY Ontario &amp; Western Railway Photographs</dc:relation>
+<dc:rights>Items selected from the Hamilton Public Library collections for posting on New York Heritage website are owned by Hamilton Public Library.  Please credit Hamilton Public Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_ham/id/29</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_ham/30</identifier><datestamp>2014-11-04</datestamp><setSpec>srr_ham</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>The wreck of the Flying Diesel Corps</dc:title>
+<dc:description>Photo of the wreck of the Flying Diesel Corps.</dc:description>
+<dc:creator>Clark, Edmund</dc:creator>
+<dc:subject>Railroad; Railroad wrecks</dc:subject>
+<dc:subject>Transportation</dc:subject>
+<dc:coverage>Hamilton (N.Y.)</dc:coverage>
+<dc:date>1955-09-28</dc:date>
+<dc:source>Photograph; color; 9 1/2 x 6 in. (23 3/4 x 14 3/4 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ssrhampub029</dc:identifier>
+<dc:relation>NY Ontario &amp; Western Railway Photographs</dc:relation>
+<dc:rights>Items selected from the Hamilton Public Library collections for posting on New York Heritage website are owned by Hamilton Public Library.  Please credit Hamilton Public Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_ham/id/30</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_ham/31</identifier><datestamp>2014-11-04</datestamp><setSpec>srr_ham</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Old House in Hamilton</dc:title>
+<dc:description>Photo of old house in Hamilton</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Architecture, Domestic; Dwellings; Housing</dc:subject>
+<dc:subject>Community &amp; Events</dc:subject>
+<dc:coverage>Hamilton (N.Y.)</dc:coverage>
+<dc:date>1958?</dc:date>
+<dc:source>Photograph; b&amp;w; 9 1/2 x 7 1/2 in. (24 x 19 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ssrhampub031</dc:identifier>
+<dc:relation>NY Ontario &amp; Western Railway Photographs</dc:relation>
+<dc:rights>Items selected from the Hamilton Public Library collections for posting on New York Heritage website are owned by Hamilton Public Library.  Please credit Hamilton Public Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_ham/id/31</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_ham/32</identifier><datestamp>2014-11-04</datestamp><setSpec>srr_ham</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Factory yard in Hamilton</dc:title>
+<dc:description>Photo of factory yard in Hamilton.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Factories</dc:subject>
+<dc:subject>Community &amp; Events</dc:subject>
+<dc:coverage>Hamilton (N.Y.)</dc:coverage>
+<dc:date>1958?</dc:date>
+<dc:source>Photograph; b&amp;w; 9 1/2 x 7 3/4 in. (24 x 19 1/2 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ssrhampub032</dc:identifier>
+<dc:relation>NY Ontario &amp; Western Railway Photographs</dc:relation>
+<dc:rights>Items selected from the Hamilton Public Library collections for posting on New York Heritage website are owned by Hamilton Public Library.  Please credit Hamilton Public Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_ham/id/32</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_ham/33</identifier><datestamp>2014-11-04</datestamp><setSpec>srr_ham</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Lee Canning Company railway view in Hamilton</dc:title>
+<dc:description>Photo of Lee Canning Company railway view in Hamilton.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Railroad; Railorad stations; Steam locomotive--United States; Factories</dc:subject>
+<dc:subject>Community &amp; Events</dc:subject>
+<dc:coverage>Hamilton (N.Y.)</dc:coverage>
+<dc:date>1900?</dc:date>
+<dc:source>Photograph; b&amp;w; 9 3/4 x 7 3/4 in. (24 1/2 x 19 1/2 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ssrhampub034</dc:identifier>
+<dc:relation>NY Ontario &amp; Western Railway Photographs</dc:relation>
+<dc:rights>Items selected from the Hamilton Public Library collections for posting on New York Heritage website are owned by Hamilton Public Library.  Please credit Hamilton Public Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_ham/id/33</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_ham/34</identifier><datestamp>2014-11-04</datestamp><setSpec>srr_ham</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Lee Canning Company front view in Hamilton</dc:title>
+<dc:description>Photo of Lee Canning Company front view in Hamilton.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Factories</dc:subject>
+<dc:subject>Community &amp; Events</dc:subject>
+<dc:coverage>Hamilton (N.Y.)</dc:coverage>
+<dc:date>1900?</dc:date>
+<dc:source>Photograph; b&amp;w; 9 3/4 x 7 3/4 in. (24 1/2 x 19 1/2 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ssrhampub035</dc:identifier>
+<dc:relation>NY Ontario &amp; Western Railway Photographs</dc:relation>
+<dc:rights>Items selected from the Hamilton Public Library collections for posting on New York Heritage website are owned by Hamilton Public Library.  Please credit Hamilton Public Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_ham/id/34</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_ham/35</identifier><datestamp>2014-11-04</datestamp><setSpec>srr_ham</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>O&amp;W Station in Hamilton N.Y.</dc:title>
+<dc:description>Photo of O&amp;W Station in Hamilton N.Y.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Railroad; Railorad stations; Steam locomotive--United States</dc:subject>
+<dc:subject>Transportation</dc:subject>
+<dc:coverage>Hamilton (N.Y.)</dc:coverage>
+<dc:date>1900?</dc:date>
+<dc:source>Photograph; b&amp;w; 6 x 4 in. (15 x 10 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ssrhampub062</dc:identifier>
+<dc:relation>NY Ontario &amp; Western Railway Photographs</dc:relation>
+<dc:rights>Items selected from the Hamilton Public Library collections for posting on New York Heritage website are owned by Hamilton Public Library.  Please credit Hamilton Public Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_ham/id/35</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_ham/36</identifier><datestamp>2014-11-04</datestamp><setSpec>srr_ham</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Cook&#x27;s Liquor at 53 Utica St.</dc:title>
+<dc:description>Photo of Cook&#x27;s Liquor at 53 Utica St.</dc:description>
+<dc:creator>Molten, Bill</dc:creator>
+<dc:subject>Service stations; Liquor stores</dc:subject>
+<dc:subject>Community &amp; Events</dc:subject>
+<dc:coverage>Hamilton (N.Y.)</dc:coverage>
+<dc:date>1958?</dc:date>
+<dc:source>Photograph; b&amp;w; 9 3/4 x 8 1/4 in. (24 3/4 x 20 3/4 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ssrhampub030</dc:identifier>
+<dc:relation>NY Ontario &amp; Western Railway Photographs</dc:relation>
+<dc:rights>Items selected from the Hamilton Public Library collections for posting on New York Heritage website are owned by Hamilton Public Library.  Please credit Hamilton Public Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_ham/id/36</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_ham/37</identifier><datestamp>2014-11-04</datestamp><setSpec>srr_ham</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>O&amp;W Station in Hamilton N.Y. view from above</dc:title>
+<dc:description>Photo of O&amp;W Station in Hamilton N.Y. view from above.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Railroad; Railorad stations</dc:subject>
+<dc:subject>Transportation</dc:subject>
+<dc:coverage>Hamilton (N.Y.)</dc:coverage>
+<dc:date>1900?</dc:date>
+<dc:source>Photograph; b&amp;w; 6 x 4 in. (15 x 10 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ssrhampub063</dc:identifier>
+<dc:relation>NY Ontario &amp; Western Railway Photographs</dc:relation>
+<dc:rights>Items selected from the Hamilton Public Library collections for posting on New York Heritage website are owned by Hamilton Public Library.  Please credit Hamilton Public Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_ham/id/37</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_ham/38</identifier><datestamp>2014-11-04</datestamp><setSpec>srr_ham</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Long distance view of factory in Hamilton</dc:title>
+<dc:description>Photo of long distance view of factory in Hamilton.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Factories</dc:subject>
+<dc:subject>Community &amp; Events;</dc:subject>
+<dc:coverage>Hamilton (N.Y.)</dc:coverage>
+<dc:date>1900?</dc:date>
+<dc:source>Photograph; b&amp;w; 9 1/2 x 7 3/4 in. (24 x 19 1/2 cm.) Photograph; b&amp;w; 9 1/2 x 7 3/4 in. (24 x 19 1/2 cm.)</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng;</dc:language>
+<dc:format>image/tiff;</dc:format>
+<dc:identifier>ssrhampub033</dc:identifier>
+<dc:relation>NY Ontario &amp; Western Railway Photographs</dc:relation>
+<dc:rights>Items selected from the Hamilton Public Library collections for posting on New York Heritage website are owned by Hamilton Public Library.  Please credit Hamilton Public Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_ham/id/38</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_ham/39</identifier><datestamp>2014-11-04</datestamp><setSpec>srr_ham</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Leland Coal - South End</dc:title>
+<dc:description>Photo of Leland Coal - South End.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Railroad; Coal -- Storage</dc:subject>
+<dc:subject>Transportation</dc:subject>
+<dc:coverage>Hamilton (N.Y.)</dc:coverage>
+<dc:date>1955-09-27</dc:date>
+<dc:source>Photograph; b&amp;w; 9 3/4 x 7 1/2 in. (24 1/2 x 19 1/4 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ssrhampub012</dc:identifier>
+<dc:relation>NY Ontario &amp; Western Railway Photographs</dc:relation>
+<dc:rights>Items selected from the Hamilton Public Library collections for posting on New York Heritage website are owned by Hamilton Public Library.  Please credit Hamilton Public Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_ham/id/39</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:srr_ham/40</identifier><datestamp>2013-05-13</datestamp><setSpec>srr_ham</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_ham/43</identifier><datestamp>2014-11-04</datestamp><setSpec>srr_ham</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Postcard of Colgate Inn, Hamilton, N. Y.</dc:title>
+<dc:description>Unsent, blank postcard depicting the facade of the building from Payne Street, Hamilton, NY.</dc:description>
+<dc:subject>Hotels; Taverns (Inns);</dc:subject>
+<dc:subject>Hotels.; Vehicles.; Trees.;</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Hamilton (N.Y.)</dc:coverage>
+<dc:contributor>Wyer, Bob;</dc:contributor>
+<dc:publisher>Bob Wyer Photocards, Dehli, NY</dc:publisher>
+<dc:source>postcard; col.; 5.3 x 3.5 in (13 x 9 cm)</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng;</dc:language>
+<dc:format>image/jpeg;</dc:format>
+<dc:identifier>srrhampub036</dc:identifier>
+<dc:relation>Hamilton Public Library Postcard Collection</dc:relation>
+<dc:rights>Items selected from the Hamilton Public Library collections for posting on New York Heritage website are owned by Hamilton Public Library. Please credit Hamilton Public Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_ham/id/43</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_ham/46</identifier><datestamp>2014-11-04</datestamp><setSpec>srr_ham</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Postcard of Lebanon Street Looking Towards to Colgate Inn, Hamilton, N. Y.</dc:title>
+<dc:description>Unsent, blank postcard depicting the view of Colgate Inn from Lebanon Street in Hamilton, NY.</dc:description>
+<dc:subject>Hotels; Taverns (Inns);</dc:subject>
+<dc:subject>Hotels.; Vehicles.; Trees.;</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Hamilton (N.Y.)</dc:coverage>
+<dc:publisher>WM. Jubb Co., Syracuse, N. Y.</dc:publisher>
+<dc:source>postcard; b &amp; w; 5.5 x 3.5 in (14 x 9 cm)</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng;</dc:language>
+<dc:format>image/jpeg;</dc:format>
+<dc:identifier>srrhampub038</dc:identifier>
+<dc:relation>Hamilton Public Library Postcard Collection</dc:relation>
+<dc:rights>Items selected from the Hamilton Public Library collections for posting on New York Heritage website are owned by Hamilton Public Library. Please credit Hamilton Public Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_ham/id/46</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_ham/49</identifier><datestamp>2014-11-04</datestamp><setSpec>srr_ham</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Postcard of Colgate Inn, Hamilton, N. Y.</dc:title>
+<dc:description>Postcard. The front side depicts Colgate Inn in Hamilton, NY. The back side is a letter written by a person called &quot;Eddie B.&quot; sent from Binghamton, NY to Alice Phillips and Emma Martin in Madison, WI, which was written in Sept. 28, 1952, and sent in September 29, 1952.</dc:description>
+<dc:subject>Hotels; Taverns (Inns);</dc:subject>
+<dc:subject>Hotels.; Vehicles.; Trees.;</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Hamilton (N.Y.)</dc:coverage>
+<dc:publisher>WM. Jubb Co., Syracuse, N. Y.</dc:publisher>
+<dc:source>postcard; col.; 5.3 x 3.5 in (13.5 x 9.0 cm)</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng;</dc:language>
+<dc:format>image/jpeg;</dc:format>
+<dc:identifier>srrhampub040</dc:identifier>
+<dc:relation>Hamilton Public Library Postcard Collection</dc:relation>
+<dc:rights>Items selected from the Hamilton Public Library collections for posting on New York Heritage website are owned by Hamilton Public Library. Please credit Hamilton Public Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_ham/id/49</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_ham/52</identifier><datestamp>2014-11-04</datestamp><setSpec>srr_ham</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Postcard of Colgate Inn, Hamilton, N. Y.</dc:title>
+<dc:description>Unsent, blank postcard depicting the facade of Colgate Inn from Payne Street, Hamilton, NY.</dc:description>
+<dc:subject>Hotels; Taverns (Inns);</dc:subject>
+<dc:subject>Hotels.; Vehicles.; Trees.;</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Hamilton (N.Y.)</dc:coverage>
+<dc:publisher>WM. Jubb Co., Inc., Syracuse, N. Y.</dc:publisher>
+<dc:source>postcard;  b &amp; w; 5.5 x 3.3 in (14 x 8.5 cm)</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng;</dc:language>
+<dc:format>image/jpeg;</dc:format>
+<dc:identifier>srrhampub042</dc:identifier>
+<dc:relation>Hamilton Public Library Postcard Collection</dc:relation>
+<dc:rights>Items selected from the Hamilton Public Library collections for posting on New York Heritage website are owned by Hamilton Public Library. Please credit Hamilton Public Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_ham/id/52</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_ham/55</identifier><datestamp>2014-11-04</datestamp><setSpec>srr_ham</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Postcard of Park House, Hamilton, N. Y.</dc:title>
+<dc:description>Unsent, blank postcard depicting the Park House in Colgate, NY.</dc:description>
+<dc:subject>Hotels;</dc:subject>
+<dc:subject>Hotels.; Trees.; Vehicles.;</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Hamilton (N.Y.)</dc:coverage>
+<dc:publisher>Worden Press, Brookfield, NY</dc:publisher>
+<dc:source>postcard; b &amp; w; 6 x 4 in (15.2 x 12 cm)</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng;</dc:language>
+<dc:format>image/jpeg;</dc:format>
+<dc:identifier>srrhampub044</dc:identifier>
+<dc:relation>Hamilton Public Library Postcard Collection</dc:relation>
+<dc:rights>Items selected from the Hamilton Public Library collections for posting on New York Heritage website are owned by Hamilton Public Library. Please credit Hamilton Public Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_ham/id/55</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_ham/58</identifier><datestamp>2014-11-04</datestamp><setSpec>srr_ham</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Postcard of Main Street Looking Towards Colgate Inn, Hamailton, N. Y.</dc:title>
+<dc:description>Unsent, blank postcard depicting the view of Colgate Inn from Main Street in Hamilton, NY.</dc:description>
+<dc:subject>Hotels; Taverns (Inns);</dc:subject>
+<dc:subject>Hotels.; Vehicles.; Trees.; Streets.;</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Hamilton (N.Y.)</dc:coverage>
+<dc:publisher>WM. Jubb Co., Inc., Syracuse, N. Y.</dc:publisher>
+<dc:source>postcard; b &amp; w; 5.5 x 3.5 in (14 x 9 cm)</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng;</dc:language>
+<dc:format>image/jpeg;</dc:format>
+<dc:identifier>srrhampub046</dc:identifier>
+<dc:relation>Hamilton Public Library Postcard Collection</dc:relation>
+<dc:rights>Items selected from the Hamilton Public Library collections for posting on New York Heritage website are owned by Hamilton Public Library. Please credit Hamilton Public Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_ham/id/58</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_ham/61</identifier><datestamp>2014-11-04</datestamp><setSpec>srr_ham</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Postcard of Madison Street and the Park House, Hamilton, N. Y.</dc:title>
+<dc:description>Unsent, blank postcard depicting the Park House and Madison Street in Hamilton, NY.</dc:description>
+<dc:subject>Hotels; Taverns (Inns);</dc:subject>
+<dc:subject>Hotels.; Trees.; Streets.;</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Hamilton (N.Y.)</dc:coverage>
+<dc:publisher>Worden Press, Brookfield, NY</dc:publisher>
+<dc:source>postcard; b &amp; w; 6 x 4 in (15 x 10 cm)</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng;</dc:language>
+<dc:format>image/jpeg;</dc:format>
+<dc:relation>Hamilton Public Library Postcard Collection</dc:relation>
+<dc:rights>Items selected from the Hamilton Public Library collections for posting on New York Heritage website are owned by Hamilton Public Library. Please credit Hamilton Public Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_ham/id/61</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_ham/64</identifier><datestamp>2014-11-04</datestamp><setSpec>srr_ham</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Postcard of Colgate Inn, Hamilton, New York.</dc:title>
+<dc:description>Unsent, blank postcard depicting the Colgate Inn in Colgate, N.Y.</dc:description>
+<dc:subject>Hotels; Taverns (Inns);</dc:subject>
+<dc:subject>Hotels.; Vehicles.; Trees.; Streets.;</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Hamilton (N.Y.)</dc:coverage>
+<dc:publisher>Bob Wyer Post Cards, Delhi, N. Y.</dc:publisher>
+<dc:date>1949</dc:date>
+<dc:source>postcard; b &amp; w; 5.5 x 3.3 in (14 x 8 cm)</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng;</dc:language>
+<dc:format>image/jpeg;</dc:format>
+<dc:relation>Hamilton Public Library Postcard Collection</dc:relation>
+<dc:rights>Items selected from the Hamilton Public Library collections for posting on New York Heritage website are owned by Hamilton Public Library. Please credit Hamilton Public Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_ham/id/64</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_ham/67</identifier><datestamp>2014-11-04</datestamp><setSpec>srr_ham</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Postcard of Hamilton, N. Y. in 1911 4th of July.</dc:title>
+<dc:description>Postcard depicting the street view of Hamilton, NY in July 4, 1911.</dc:description>
+<dc:subject>Streets; Buildings; Fourth of July celebrations;</dc:subject>
+<dc:subject>Streets.; Architecture.; Fourth of July -- Celebrations.;</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Hamilton (N.Y.)</dc:coverage>
+<dc:date>1911?</dc:date>
+<dc:source>postcard; b &amp; w; 5.4 x 3.4 in (14 x 9 cm)</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng;</dc:language>
+<dc:format>image/jpeg;</dc:format>
+<dc:identifier>srrhampub052.cpd</dc:identifier>
+<dc:relation>Hamilton Public Library Postcard Collection</dc:relation>
+<dc:rights>Items selected from the Hamilton Public Library collections for posting on New York Heritage website are owned by Hamilton Public Library. Please credit Hamilton Public Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_ham/id/67</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_ham/70</identifier><datestamp>2014-11-04</datestamp><setSpec>srr_ham</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Postcard of Business Corner, Hamilton, N. Y.</dc:title>
+<dc:description>Postcard depicting the Business Corner in Hamilton, NY.</dc:description>
+<dc:subject>Buildings;</dc:subject>
+<dc:subject>Streets.; Architecture.;</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Hamilton (N.Y.)</dc:coverage>
+<dc:publisher>R. W. Hulburd, Hamilton, N. Y.</dc:publisher>
+<dc:date>1922?</dc:date>
+<dc:source>postcard; col.; 5.5 x 3.5 in (14 x 9 cm)</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng;</dc:language>
+<dc:format>image/jpeg;</dc:format>
+<dc:identifier>srrhampub054</dc:identifier>
+<dc:relation>Hamilton Public Library Postcard Collection</dc:relation>
+<dc:rights>Items selected from the Hamilton Public Library collections for posting on New York Heritage website are owned by Hamilton Public Library. Please credit Hamilton Public Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_ham/id/70</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_ham/73</identifier><datestamp>2014-11-04</datestamp><setSpec>srr_ham</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Postcard of Smith Building in Hamilton, NY</dc:title>
+<dc:description>Postcard. The front side depicts Smith Building in Hamilton, NY. The back side is a letter.</dc:description>
+<dc:subject>Buildings; Streets;</dc:subject>
+<dc:subject>Streets.; Architecture.;</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Hamilton (N.Y.)</dc:coverage>
+<dc:publisher>C. H. Phelps, Sydney, N. Y.</dc:publisher>
+<dc:date>1916?</dc:date>
+<dc:source>postcard; b &amp; w; 5.5 x 3.5 in (14 x 9 cm)</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng;</dc:language>
+<dc:format>image/jpeg;</dc:format>
+<dc:identifier>srrhampub056</dc:identifier>
+<dc:relation>Hamilton Public Library Postcard Collection</dc:relation>
+<dc:rights>Items selected from the Hamilton Public Library collections for posting on New York Heritage website are owned by Hamilton Public Library. Please credit Hamilton Public Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_ham/id/73</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_ham/76</identifier><datestamp>2014-11-04</datestamp><setSpec>srr_ham</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Postcard of Lebanon Street, Hamilton, N. Y.</dc:title>
+<dc:description>Postcard. The front side depicts Lebanon Street in Hamilton, NY. The back side is a letter.</dc:description>
+<dc:subject>Streets; Buildings;</dc:subject>
+<dc:subject>Streets.; Architecture.;</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Hamilton (N.Y.)</dc:coverage>
+<dc:publisher>American News Company, New York</dc:publisher>
+<dc:source>postcard; col.; 5.5 x 3.5 in (14 x 9 cm)</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng;</dc:language>
+<dc:format>image/jpeg;</dc:format>
+<dc:identifier>srrhampub058</dc:identifier>
+<dc:relation>Hamilton Public Library Postcard Collection</dc:relation>
+<dc:rights>Items selected from the Hamilton Public Library collections for posting on New York Heritage website are owned by Hamilton Public Library. Please credit Hamilton Public Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_ham/id/76</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_ham/79</identifier><datestamp>2014-11-04</datestamp><setSpec>srr_ham</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Postcard of Business Block, Hamilton, N. Y.</dc:title>
+<dc:description>Postcard. The front side depicts the Business Block in Hamilton, NY. The back side is a letter.</dc:description>
+<dc:subject>Buildings; Streets;</dc:subject>
+<dc:subject>Streets.; Architecture.;</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Hamilton (N.Y.)</dc:coverage>
+<dc:publisher>R. W. Hulburd, Hamilton, N. Y.</dc:publisher>
+<dc:source>postcard; col.; 5.5 x 3.5 in (14 x 9 cm)</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng;</dc:language>
+<dc:format>image/jpeg;</dc:format>
+<dc:identifier>srrhampub060</dc:identifier>
+<dc:relation>Hamilton Public Library Postcard Collection</dc:relation>
+<dc:rights>Items selected from the Hamilton Public Library collections for posting on New York Heritage website are owned by Hamilton Public Library. Please credit Hamilton Public Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_ham/id/79</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_ham/82</identifier><datestamp>2014-11-04</datestamp><setSpec>srr_ham</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Postcard of The Community Memorial Hospital, Hamilton, N. Y.</dc:title>
+<dc:description>Unsent, blank postcard  depicting the Community Memorial Hospital at 150 Broad Street, Hamilton, NY.</dc:description>
+<dc:subject>Hospitals;</dc:subject>
+<dc:subject>Hospitals.; Vehicles.;</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Hamilton (N.Y.)</dc:coverage>
+<dc:publisher>WM. Jubb Co., Syracuse, N. Y.</dc:publisher>
+<dc:source>postcard; b &amp; w; 5.5 x 3.5 in (14 x 9 cm)</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng;</dc:language>
+<dc:format>image/jpeg;</dc:format>
+<dc:identifier>srrhampub070</dc:identifier>
+<dc:relation>Hamilton Public Library Postcard Collection</dc:relation>
+<dc:rights>Items selected from the Hamilton Public Library collections for posting on New York Heritage website are owned by Hamilton Public Library. Please credit Hamilton Public Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_ham/id/82</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_ham/85</identifier><datestamp>2014-11-04</datestamp><setSpec>srr_ham</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Postcard of Business Square, Hamilton</dc:title>
+<dc:description>Unsent, blank postcard  depicting the Business Square in Hamilton, NY.</dc:description>
+<dc:subject>Plazas; Buildings;</dc:subject>
+<dc:subject>Streets.; Architecture.;</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Hamilton (N.Y.)</dc:coverage>
+<dc:publisher>Leader, Morrisville, N. Y.</dc:publisher>
+<dc:source>postcard; b &amp; w; 5.5 x 3.5 in (14 x 9 cm)</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng;</dc:language>
+<dc:format>image/jpeg;</dc:format>
+<dc:identifier>srrhampub068</dc:identifier>
+<dc:relation>Hamilton Public Library Postcard Collection</dc:relation>
+<dc:rights>Items selected from the Hamilton Public Library collections for posting on New York Heritage website are owned by Hamilton Public Library. Please credit Hamilton Public Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_ham/id/85</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_ham/88</identifier><datestamp>2014-11-04</datestamp><setSpec>srr_ham</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Postcard of Smiths Building, Hamilton, N. Y.</dc:title>
+<dc:description>Unsent, blank postcard  depicting Smith Building in Hamilton, NY.</dc:description>
+<dc:subject>Buildings; Streets;</dc:subject>
+<dc:subject>Streets.; Architecture.;</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Hamilton (N.Y.)</dc:coverage>
+<dc:publisher>United Art Publishing Co., New York City</dc:publisher>
+<dc:source>postcard; b &amp; w; 5.5 x 3.5 in (14 x 9 cm)</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng;</dc:language>
+<dc:format>image/jpeg;</dc:format>
+<dc:identifier>srrhampub066</dc:identifier>
+<dc:relation>Hamilton Public Library Postcard Collection</dc:relation>
+<dc:rights>Items selected from the Hamilton Public Library collections for posting on New York Heritage website are owned by Hamilton Public Library. Please credit Hamilton Public Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_ham/id/88</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_ham/91</identifier><datestamp>2014-11-04</datestamp><setSpec>srr_ham</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Postcard of M. J. Clarke Livery Hotel Barn</dc:title>
+<dc:description>Unsent, blank postcard  depicting M. J. Clarke Livery Hotel Barn on Utica Street.</dc:description>
+<dc:subject>Barns;</dc:subject>
+<dc:subject>Architecture.; Barns.;</dc:subject>
+<dc:subject>Architecture; Business &amp; Industry;</dc:subject>
+<dc:coverage>Hamilton (N.Y.)</dc:coverage>
+<dc:publisher>Worden Press, Brookfield, NY</dc:publisher>
+<dc:source>postcard; b &amp; w; 6 x 4 in (15 x 10 cm)</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng;</dc:language>
+<dc:format>image/jpeg;</dc:format>
+<dc:identifier>srrhampub064</dc:identifier>
+<dc:relation>Hamilton Public Library Postcard Collection</dc:relation>
+<dc:rights>Items selected from the Hamilton Public Library collections for posting on New York Heritage website are owned by Hamilton Public Library. Please credit Hamilton Public Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_ham/id/91</dc:identifier></oai_dc:dc>
+</metadata>
+</record></ListRecords></OAI-PMH>

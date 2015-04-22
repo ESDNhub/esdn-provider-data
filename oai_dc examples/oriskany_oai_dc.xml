@@ -1,0 +1,741 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2014-12-04T21:03:35Z</responseDate><request verb="ListRecords" metadataPrefix="oai_dc" set="p16694coll12">http://cdm16694.contentdm.oclc.org/oai/oai.php</request><ListRecords><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll12/7</identifier><datestamp>2014-10-14</datestamp><setSpec>p16694coll12</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Paper Makers&#x27; Feltings Booklet</dc:title>
+<dc:description>Booklet of felt prices according to the size of the felt ; Cover</dc:description>
+<dc:creator>Waterbury Felts</dc:creator>
+<dc:subject>Papermaking machinery felts</dc:subject>
+<dc:subject>Business &amp; Industry;</dc:subject>
+<dc:publisher>Waterbury Felts</dc:publisher>
+<dc:date>1900</dc:date>
+<dc:source>col. 3 x 6 in. (8 X 15 cm.)</dc:source>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>wbm004</dc:identifier>
+<dc:relation>Waterbury Mill</dc:relation>
+<dc:rights>Please cite as: Oriskany Village Museum Waterbury Mill Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll12/id/7</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll12/15</identifier><datestamp>2014-10-14</datestamp><setSpec>p16694coll12</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Waterbury Felts Organ 1970</dc:title>
+<dc:description>Cover page</dc:description>
+<dc:creator>Waterbury Felts</dc:creator>
+<dc:subject>Papermaking machinery felts; Paper industry</dc:subject>
+<dc:subject>Business &amp; Industry; Daily Life;</dc:subject>
+<dc:coverage>Oriskany - Oneida County - New York</dc:coverage>
+<dc:date>1970</dc:date>
+<dc:source>col. ; 5.5 X 8.5 in. (14 X 22 cm)</dc:source>
+<dc:type>Text;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>wbm055</dc:identifier>
+<dc:relation>Waterbury Mill</dc:relation>
+<dc:rights>Please cite as: Oriskany Village Museum Waterbury Mill Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll12/id/15</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll12/29</identifier><datestamp>2014-10-14</datestamp><setSpec>p16694coll12</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Company Report 1920</dc:title>
+<dc:description>Cover</dc:description>
+<dc:creator>Miller, Franklin, Basset &amp; Company</dc:creator>
+<dc:subject>Auditor-General audit report</dc:subject>
+<dc:subject>Business &amp; Industry;</dc:subject>
+<dc:date>1921</dc:date>
+<dc:source>b &amp; w ; 6.5 X 9.5 in. (16 X24 cm)</dc:source>
+<dc:type>Text;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>wbm017</dc:identifier>
+<dc:relation>Waterbury Mill</dc:relation>
+<dc:rights>Please cite as: Oriskany Village Museum Waterbury Mill Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll12/id/29</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll12/50</identifier><datestamp>2014-10-14</datestamp><setSpec>p16694coll12</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Waterbury Felts Organ 1976</dc:title>
+<dc:description>Centennial Issue</dc:description>
+<dc:creator>Waterbury Felts</dc:creator>
+<dc:subject>Papermaking machinery felts; Paper industry;</dc:subject>
+<dc:subject>Business &amp; Industry; Daily Life;</dc:subject>
+<dc:date>1976</dc:date>
+<dc:source>col. ; 8.5 x 11 in. (21.5  X 28 cm)</dc:source>
+<dc:type>Text;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>wbm063</dc:identifier>
+<dc:relation>Waterbury Mill</dc:relation>
+<dc:rights>Please cite as: Oriskany Village Museum Waterbury Mill Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll12/id/50</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll12/51</identifier><datestamp>2014-10-14</datestamp><setSpec>p16694coll12</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Correspondence between JE Waterbury and son Mark Waterbury</dc:title>
+<dc:description>Personal correspondence between JE Waterbury and son Mark Waterbury from Los Angeles, California</dc:description>
+<dc:creator>Waterbury, J.E.</dc:creator>
+<dc:subject>Papermaking machinery felts; Paper industry; Business correspondence</dc:subject>
+<dc:subject>Business &amp; Industry</dc:subject>
+<dc:coverage>Oriskany - Oneida County - New York;</dc:coverage>
+<dc:date>1915</dc:date>
+<dc:source>col. ; 8.5 x 11 in. (21.5  X 28 cm)</dc:source>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>wbm015</dc:identifier>
+<dc:relation>Waterbury Mill</dc:relation>
+<dc:rights>Please cite as: Oriskany Village Museum Waterbury Mill Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll12/id/51</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll12/52</identifier><datestamp>2014-10-14</datestamp><setSpec>p16694coll12</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Correspondence from Rochester toilet paper manufacturer</dc:title>
+<dc:description>Correspondence from Rochster toilet paper manufacturer</dc:description>
+<dc:subject>Papermaking machinery felts; Paper industry; Business correspondence</dc:subject>
+<dc:subject>Business &amp; Industry</dc:subject>
+<dc:coverage>Oriskany - Oneida County - New York; Rochester - Monroe County - New York</dc:coverage>
+<dc:date>1908</dc:date>
+<dc:source>col. ; 8.5 x 11 in. (21.5  X 28 cm)</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>wbm016</dc:identifier>
+<dc:relation>Waterbury Mill</dc:relation>
+<dc:rights>Please cite as: Oriskany Village Museum Waterbury Mill Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll12/id/52</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll12/53</identifier><datestamp>2014-10-14</datestamp><setSpec>p16694coll12</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Mill at Work</dc:title>
+<dc:description>Florence Boiko, Estella Jones, Mary Klocek, Dorothy Harp, Clara Wilson, and Lee LaRock cutting yarn at the mill</dc:description>
+<dc:creator>Ulrich, James</dc:creator>
+<dc:subject>Papermaking machinery felts; Laborers</dc:subject>
+<dc:subject>Business &amp; Industry</dc:subject>
+<dc:date>1960; 1961; 1962; 1963; 1964; 1965; 1966; 1967; 1968; 1969; 1970; 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978; 1979; 1980</dc:date>
+<dc:source>b&amp;w. ; 10 x 8 in. (25.5 x 21 cm)</dc:source>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>wbm032</dc:identifier>
+<dc:relation>Waterbury Mill</dc:relation>
+<dc:rights>Please cite as: Oriskany Village Museum Waterbury Mill Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll12/id/53</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll12/54</identifier><datestamp>2014-10-14</datestamp><setSpec>p16694coll12</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Wool Sorting</dc:title>
+<dc:description>Harry Graham sorting wool</dc:description>
+<dc:creator>Ulrich, James</dc:creator>
+<dc:subject>Papermaking machinery felts;  Wool</dc:subject>
+<dc:subject>Business &amp; Industry</dc:subject>
+<dc:date>1960; 1961; 1962; 1963; 1964; 1965; 1966; 1967; 1968; 1969; 1970; 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978; 1979; 1980</dc:date>
+<dc:source>b&amp;w. ; 10 x 8 in. (25.5 x 21 cm)</dc:source>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>wbm034</dc:identifier>
+<dc:relation>Waterbury Mill</dc:relation>
+<dc:rights>Please cite as: Oriskany Village Museum Waterbury Mill Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll12/id/54</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll12/55</identifier><datestamp>2014-10-14</datestamp><setSpec>p16694coll12</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Warp Dressing</dc:title>
+<dc:description>Casey Harp and Earl Cattrell dressing the warp with yarn</dc:description>
+<dc:creator>Ulrich, James</dc:creator>
+<dc:subject>Papermaking machinery felts; Warp knitting.</dc:subject>
+<dc:subject>Business &amp; Industry; Medicine, Science &amp; Technology;</dc:subject>
+<dc:date>1960; 1961; 1962; 1963; 1964; 1965; 1966; 1967; 1968; 1969; 1970; 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978; 1979; 1980</dc:date>
+<dc:source>b&amp;w. ; 10 x 8 in. (25.5 x 21 cm)</dc:source>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>wbm036</dc:identifier>
+<dc:relation>Waterbury Mill</dc:relation>
+<dc:rights>Please cite as: Oriskany Village Museum Waterbury Mill Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll12/id/55</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll12/56</identifier><datestamp>2014-10-14</datestamp><setSpec>p16694coll12</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Joining 1</dc:title>
+<dc:description>Ruth Fay joining the felt with hooked joining needles</dc:description>
+<dc:creator>Ulrich, James</dc:creator>
+<dc:subject>Papermaking machinery felts; Crochet hooks</dc:subject>
+<dc:subject>Business &amp; Industry</dc:subject>
+<dc:date>1960; 1961; 1962; 1963; 1964; 1965; 1966; 1967; 1968; 1969; 1970; 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978; 1979; 1980</dc:date>
+<dc:source>b&amp;w. ; 10 x 8 in. (25.5 x 21 cm)</dc:source>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>wbm038</dc:identifier>
+<dc:relation>Waterbury Mill</dc:relation>
+<dc:rights>Please cite as: Oriskany Village Museum Waterbury Mill Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll12/id/56</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll12/57</identifier><datestamp>2014-10-14</datestamp><setSpec>p16694coll12</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Joining 2</dc:title>
+<dc:description>The joining of yarn for felts</dc:description>
+<dc:creator>Ulrich, James</dc:creator>
+<dc:subject>Papermaking machinery felts;  Crochet hooks</dc:subject>
+<dc:subject>Business &amp; Industry</dc:subject>
+<dc:date>1960; 1961; 1962; 1963; 1964; 1965; 1966; 1967; 1968; 1969; 1970; 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978; 1979; 1980</dc:date>
+<dc:source>b&amp;w. ; 10 x 8 in. (25.5 x 21 cm)</dc:source>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>wbm042</dc:identifier>
+<dc:relation>Waterbury Mill</dc:relation>
+<dc:rights>Please cite as: Oriskany Village Museum Waterbury Mill Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll12/id/57</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll12/58</identifier><datestamp>2014-10-14</datestamp><setSpec>p16694coll12</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Twisting 1</dc:title>
+<dc:description>Twisting machines</dc:description>
+<dc:creator>Ulrich, James</dc:creator>
+<dc:subject>Papermaking machinery felts; Wool spinning</dc:subject>
+<dc:subject>Business &amp; Industry; Medicine, Science &amp; Technology;</dc:subject>
+<dc:date>1960; 1961; 1962; 1963; 1964; 1965; 1966; 1967; 1968; 1969; 1970; 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978; 1979; 1980</dc:date>
+<dc:source>b&amp;w. ; 10 x 8 in. (25.5 x 21 cm)</dc:source>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>wbm040</dc:identifier>
+<dc:relation>Waterbury Mill</dc:relation>
+<dc:rights>Please cite as: Oriskany Village Museum Waterbury Mill Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll12/id/58</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll12/59</identifier><datestamp>2014-10-14</datestamp><setSpec>p16694coll12</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Weaving 1</dc:title>
+<dc:description>Weaving machines</dc:description>
+<dc:creator>Ulrich, James</dc:creator>
+<dc:subject>Papermaking machinery felts; Woolen and worsted weaving</dc:subject>
+<dc:subject>Business &amp; Industry; Medicine, Science &amp; Technology;</dc:subject>
+<dc:date>1960; 1961; 1962; 1963; 1964; 1965; 1966; 1967; 1968; 1969; 1970; 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978; 1979; 1980</dc:date>
+<dc:source>b&amp;w. ; 10 x 8 in. (25.5 x 21 cm)</dc:source>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>wbm043</dc:identifier>
+<dc:relation>Waterbury Mill</dc:relation>
+<dc:rights>Please cite as: Oriskany Village Museum Waterbury Mill Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll12/id/59</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll12/60</identifier><datestamp>2014-10-14</datestamp><setSpec>p16694coll12</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Weaving 2</dc:title>
+<dc:description>Employee Anna Ogden at the weaving machine</dc:description>
+<dc:creator>Ulrich, James</dc:creator>
+<dc:subject>Papermaking machinery felts; Woolen and worsted weaving</dc:subject>
+<dc:subject>Business &amp; Industry; Medicine, Science &amp; Technology;</dc:subject>
+<dc:date>1960; 1961; 1962; 1963; 1964; 1965; 1966; 1967; 1968; 1969; 1970; 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978; 1979; 1980</dc:date>
+<dc:source>b&amp;w. ; 10 x 8 in. (25.5 x 21 cm)</dc:source>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>wbm044</dc:identifier>
+<dc:relation>Waterbury Mill</dc:relation>
+<dc:rights>Please cite as: Oriskany Village Museum Waterbury Mill Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll12/id/60</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll12/61</identifier><datestamp>2014-10-14</datestamp><setSpec>p16694coll12</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Weaving Heddles</dc:title>
+<dc:description>The weaving machines heddles (part of the machine that separates the threads)</dc:description>
+<dc:creator>Ulrich, James</dc:creator>
+<dc:subject>Papermaking machinery felts; Woolen and worsted weaving</dc:subject>
+<dc:subject>Business &amp; Industry; Medicine, Science &amp; Technology;</dc:subject>
+<dc:date>1960; 1961; 1962; 1963; 1964; 1965; 1966; 1967; 1968; 1969; 1970; 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978; 1979; 1980</dc:date>
+<dc:source>b&amp;w. ; 10 x 8 in. (25.5 x 21 cm)</dc:source>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>wbm045</dc:identifier>
+<dc:relation>Waterbury Mill</dc:relation>
+<dc:rights>Please cite as: Oriskany Village Museum Waterbury Mill Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll12/id/61</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll12/62</identifier><datestamp>2014-10-14</datestamp><setSpec>p16694coll12</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Spinning</dc:title>
+<dc:description>Spinning machines, spinning the wool into thread</dc:description>
+<dc:creator>Ulrich, James</dc:creator>
+<dc:subject>Papermaking machinery felts ; Wool spinning</dc:subject>
+<dc:subject>Business &amp; Industry; Medicine, Science &amp; Technology;</dc:subject>
+<dc:date>1960; 1961; 1962; 1963; 1964; 1965; 1966; 1967; 1968; 1969; 1970; 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978; 1979; 1980</dc:date>
+<dc:source>b&amp;w. ; 10 x 8 in. (25.5 x 21 cm)</dc:source>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>wbm046</dc:identifier>
+<dc:relation>Waterbury Mill</dc:relation>
+<dc:rights>Please cite as: Oriskany Village Museum Waterbury Mill Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll12/id/62</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll12/63</identifier><datestamp>2014-10-14</datestamp><setSpec>p16694coll12</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Twisting 3</dc:title>
+<dc:description>Twisting machines, twisting the threads of wool into yarn</dc:description>
+<dc:creator>Ulrich, James</dc:creator>
+<dc:subject>Papermaking machinery felts; Wool spinning</dc:subject>
+<dc:subject>Business &amp; Industry; Medicine, Science &amp; Technology;</dc:subject>
+<dc:date>1960; 1961; 1962; 1963; 1964; 1965; 1966; 1967; 1968; 1969; 1970; 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978; 1979; 1980</dc:date>
+<dc:source>b&amp;w. ; 10 x 8 in. (25.5 x 21 cm)</dc:source>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>wbm047</dc:identifier>
+<dc:relation>Waterbury Mill</dc:relation>
+<dc:rights>Please cite as: Oriskany Village Museum Waterbury Mill Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll12/id/63</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll12/64</identifier><datestamp>2014-10-14</datestamp><setSpec>p16694coll12</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Spooling</dc:title>
+<dc:description>Spooling machines, gathering the yarn into units</dc:description>
+<dc:creator>Ulrich, James</dc:creator>
+<dc:subject>Papermaking machinery felts; Wool spinning</dc:subject>
+<dc:subject>Business &amp; Industry; Medicine, Science &amp; Technology;</dc:subject>
+<dc:date>1960; 1961; 1962; 1963; 1964; 1965; 1966; 1967; 1968; 1969; 1970; 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978; 1979; 1980</dc:date>
+<dc:source>b&amp;w. ; 10 x 8 in. (25.5 x 21 cm)</dc:source>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>wbm048</dc:identifier>
+<dc:relation>Waterbury Mill</dc:relation>
+<dc:rights>Please cite as: Oriskany Village Museum Waterbury Mill Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll12/id/64</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll12/65</identifier><datestamp>2014-10-14</datestamp><setSpec>p16694coll12</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Knot Tier</dc:title>
+<dc:description>Waterbury Felt Knot Tier</dc:description>
+<dc:creator>Copperwheat, Sid</dc:creator>
+<dc:subject>Papermaking machinery felts; Knotting and splicing</dc:subject>
+<dc:subject>Business &amp; Industry; Medicine, Science &amp; Technology;</dc:subject>
+<dc:date>1960; 1961; 1962; 1963; 1964; 1965; 1966; 1967; 1968; 1969; 1970; 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978; 1979; 1980</dc:date>
+<dc:source>col. ; 3.5 X 5 in. (9 X 13 cm)</dc:source>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>wbm049</dc:identifier>
+<dc:relation>Waterbury Mill</dc:relation>
+<dc:rights>Please cite as: Oriskany Village Museum Waterbury Mill Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll12/id/65</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll12/66</identifier><datestamp>2014-10-14</datestamp><setSpec>p16694coll12</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Knot Tier close-up</dc:title>
+<dc:description>A close up of the Knot Tier</dc:description>
+<dc:creator>Copperwheat, Sid</dc:creator>
+<dc:subject>Papermaking machinery felts; Knotting and splicing</dc:subject>
+<dc:subject>Business &amp; Industry; Medicine, Science &amp; Technology;</dc:subject>
+<dc:date>1960; 1961; 1962; 1963; 1964; 1965; 1966; 1967; 1968; 1969; 1970; 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978; 1979; 1980</dc:date>
+<dc:source>col. ; 3.5 X 5 in. (9 X 13 cm)</dc:source>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>wbm050</dc:identifier>
+<dc:relation>Waterbury Mill</dc:relation>
+<dc:rights>Please cite as: Oriskany Village Museum Waterbury Mill Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll12/id/66</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll12/67</identifier><datestamp>2014-10-14</datestamp><setSpec>p16694coll12</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Drawing Yarn thru Heddles</dc:title>
+<dc:description>Waterbury Felts Neva Lowery Drawing Yarn thru Heddles</dc:description>
+<dc:creator>Copperwheat, Sid</dc:creator>
+<dc:subject>Papermaking machinery felts; Woolen and worsted weaving</dc:subject>
+<dc:subject>Business &amp; Industry; Medicine, Science &amp; Technology;</dc:subject>
+<dc:date>1960; 1961; 1962; 1963; 1964; 1965; 1966; 1967; 1968; 1969; 1970; 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978; 1979; 1980</dc:date>
+<dc:source>col. ; 3.5 X 5 in. (9 X 13 cm)</dc:source>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>wbm051</dc:identifier>
+<dc:relation>Waterbury Mill</dc:relation>
+<dc:rights>Please cite as: Oriskany Village Museum Waterbury Mill Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll12/id/67</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll12/68</identifier><datestamp>2014-10-14</datestamp><setSpec>p16694coll12</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Yarns Threaded thru Heddles on Harnesses</dc:title>
+<dc:description>Yarns in the process of weaving in the heddles of the weaving machine</dc:description>
+<dc:creator>Copperwheat, Sid</dc:creator>
+<dc:subject>Papermaking machinery felts; Woolen and worsted weaving</dc:subject>
+<dc:subject>Business &amp; Industry; Medicine, Science &amp; Technology;</dc:subject>
+<dc:date>1960; 1961; 1962; 1963; 1964; 1965; 1966; 1967; 1968; 1969; 1970; 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978; 1979; 1980</dc:date>
+<dc:source>col. ; 3.5 X 5 in. (9 X 13 cm)</dc:source>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>wbm052</dc:identifier>
+<dc:relation>Waterbury Mill</dc:relation>
+<dc:rights>Please cite as: Oriskany Village Museum Waterbury Mill Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll12/id/68</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll12/69</identifier><datestamp>2014-10-14</datestamp><setSpec>p16694coll12</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Knot Tier 2</dc:title>
+<dc:description>Waterbury Felt Knot Tier</dc:description>
+<dc:creator>Copperwheat, Sid</dc:creator>
+<dc:subject>Papermaking machinery felts; Knotting and splicing</dc:subject>
+<dc:subject>Business &amp; Industry; Medicine, Science &amp; Technology;</dc:subject>
+<dc:date>1960; 1961; 1962; 1963; 1964; 1965; 1966; 1967; 1968; 1969; 1970; 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978; 1979; 1980</dc:date>
+<dc:source>col. ; 3.5 X 5 in. (9 X 13 cm)</dc:source>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>wbm053</dc:identifier>
+<dc:relation>Waterbury Mill</dc:relation>
+<dc:rights>Please cite as: Oriskany Village Museum Waterbury Mill Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll12/id/69</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll12/70</identifier><datestamp>2014-10-14</datestamp><setSpec>p16694coll12</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Knot Tier 3</dc:title>
+<dc:description>Waterbury Felt Knot Tier</dc:description>
+<dc:creator>Copperwheat, Sid</dc:creator>
+<dc:subject>Papermaking machinery felts; Knotting and splicing</dc:subject>
+<dc:subject>Business &amp; Industry; Medicine, Science &amp; Technology;</dc:subject>
+<dc:date>1960; 1961; 1962; 1963; 1964; 1965; 1966; 1967; 1968; 1969; 1970; 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978; 1979; 1980</dc:date>
+<dc:source>col. ; 3.5 X 5 in. (9 X 13 cm)</dc:source>
+<dc:type>Image;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>wbm054</dc:identifier>
+<dc:relation>Waterbury Mill</dc:relation>
+<dc:rights>Please cite as: Oriskany Village Museum Waterbury Mill Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll12/id/70</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll12/71</identifier><datestamp>2014-10-14</datestamp><setSpec>p16694coll12</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Gen the Joiner</dc:title>
+<dc:description>page 4 of Waterbury Felts Organ 1969</dc:description>
+<dc:creator>Waterbury Felts</dc:creator>
+<dc:subject>Papermaking machinery felts ; Crochet hooks</dc:subject>
+<dc:subject>People; Business &amp; Industry</dc:subject>
+<dc:date>1969</dc:date>
+<dc:source>b &amp; w. ; 5.5 X4.5 in. (14 X 11.5 cm.)</dc:source>
+<dc:type>Text;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>wbm084</dc:identifier>
+<dc:relation>Waterbury Mill</dc:relation>
+<dc:rights>Please cite as: Oriskany Village Museum Waterbury Mill Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll12/id/71</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll12/72</identifier><datestamp>2014-10-14</datestamp><setSpec>p16694coll12</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Archie Reigns the Victor</dc:title>
+<dc:description>page 4 of Waterbury Felts Organ 1969</dc:description>
+<dc:creator>Waterbury Felts</dc:creator>
+<dc:subject>Papermaking machinery felts; Washing machines</dc:subject>
+<dc:subject>People; Business &amp; Industry</dc:subject>
+<dc:date>1969</dc:date>
+<dc:source>b &amp; w. ; 5.5 X4 in. (14 X 10.5 cm.)</dc:source>
+<dc:type>Text;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>wbm085</dc:identifier>
+<dc:relation>Waterbury Mill</dc:relation>
+<dc:rights>Please cite as: Oriskany Village Museum Waterbury Mill Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll12/id/72</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll12/73</identifier><datestamp>2014-10-14</datestamp><setSpec>p16694coll12</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Shearing with Chemicals</dc:title>
+<dc:description>page 5 of Waterbury Felts Organ 1969</dc:description>
+<dc:creator>Waterbury Felts</dc:creator>
+<dc:subject>Papermaking machinery felts ; Sheep-shearing--Equipment and supplies</dc:subject>
+<dc:subject>Business &amp; Industry; Medicine, Science &amp; Technology;</dc:subject>
+<dc:date>1969</dc:date>
+<dc:source>b &amp; w. ; 5.5 X 8.5 in. (14 X 121.5 cm.)</dc:source>
+<dc:type>Text;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>wbm086</dc:identifier>
+<dc:relation>Waterbury Mill</dc:relation>
+<dc:rights>Please cite as: Oriskany Village Museum Waterbury Mill Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll12/id/73</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll12/74</identifier><datestamp>2014-10-14</datestamp><setSpec>p16694coll12</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Original Joining Pins</dc:title>
+<dc:description>Collection of the original pins invented and used by Mary Waterbury</dc:description>
+<dc:subject>Papermaking machinery felts;</dc:subject>
+<dc:subject>Business &amp; Industry; Medicine, Science &amp; Technology;</dc:subject>
+<dc:date>1870</dc:date>
+<dc:source>3.5 X 8.5</dc:source>
+<dc:type>Physical Object;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>wbm089</dc:identifier>
+<dc:relation>Waterbury Mill</dc:relation>
+<dc:rights>Please cite as: Oriskany Village Museum Waterbury Mill Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll12/id/74</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll12/75</identifier><datestamp>2014-10-14</datestamp><setSpec>p16694coll12</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Teasle for Raising Nap of Felt</dc:title>
+<dc:description>Sample of teasle used to roll over felt to raise the nap</dc:description>
+<dc:subject>Papermaking machinery felts;</dc:subject>
+<dc:subject>Business &amp; Industry; Medicine, Science &amp; Technology;</dc:subject>
+<dc:source>3 X 7 in.</dc:source>
+<dc:type>Physical Object;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>wbm090</dc:identifier>
+<dc:relation>Waterbury Mill</dc:relation>
+<dc:rights>Please cite as: Oriskany Village Museum Waterbury Mill Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll12/id/75</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll12/76</identifier><datestamp>2014-10-14</datestamp><setSpec>p16694coll12</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Needles from the Joining Room</dc:title>
+<dc:description>Collection of hooked needles used for joining</dc:description>
+<dc:subject>Papermaking machinery felts;</dc:subject>
+<dc:subject>Business &amp; Industry; Medicine, Science &amp; Technology;</dc:subject>
+<dc:source>2 X 7 in.</dc:source>
+<dc:type>Physical Object;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>wbm091</dc:identifier>
+<dc:relation>Waterbury Mill</dc:relation>
+<dc:rights>Please cite as: Oriskany Village Museum Waterbury Mill Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll12/id/76</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll12/77</identifier><datestamp>2014-10-14</datestamp><setSpec>p16694coll12</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Mark Waterbury Sr.</dc:title>
+<dc:description>A member of the Waterbury family</dc:description>
+<dc:subject>People;</dc:subject>
+<dc:source>3.5 X 4.5</dc:source>
+<dc:type>Image;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>wbm092</dc:identifier>
+<dc:relation>Waterbury Mill</dc:relation>
+<dc:rights>Please cite as: Oriskany Village Museum Waterbury Mill Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll12/id/77</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll12/78</identifier><datestamp>2014-10-14</datestamp><setSpec>p16694coll12</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Needles from the Needling Room</dc:title>
+<dc:description>A set of needles from the Needling Room</dc:description>
+<dc:subject>Papermaking machinery felts ; Paper industry ;</dc:subject>
+<dc:subject>Business &amp; Industry; Medicine, Science &amp; Technology;</dc:subject>
+<dc:source>3 X 4 in</dc:source>
+<dc:type>Physical Object;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>wbm093</dc:identifier>
+<dc:relation>Waterbury Mill</dc:relation>
+<dc:rights>Please cite as: Oriskany Village Museum Waterbury Mill Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll12/id/78</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll12/79</identifier><datestamp>2014-10-14</datestamp><setSpec>p16694coll12</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Lena Denton Waterbury Walbran Wedding Portrait</dc:title>
+<dc:description>Daughter of James Edwin and Ella Louis Felter Waterbury, wife of Nicholas A. Walbran</dc:description>
+<dc:subject>Weddings; Brides</dc:subject>
+<dc:subject>People;</dc:subject>
+<dc:source>6.5 X 8</dc:source>
+<dc:type>Image;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>wbm094</dc:identifier>
+<dc:relation>Waterbury Mill</dc:relation>
+<dc:rights>Please cite as: Oriskany Village Museum Waterbury Mill Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll12/id/79</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll12/80</identifier><datestamp>2014-10-14</datestamp><setSpec>p16694coll12</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Jarvis Paper Mills Letter</dc:title>
+<dc:description>Letter from Jarvis Paper Mills to H. Waterbury &amp; Son requesting a felt sample.</dc:description>
+<dc:creator>Jarvis Paper Mills</dc:creator>
+<dc:subject>Papermaking machinery felts; Paper industry; Business correspondence</dc:subject>
+<dc:subject>Business &amp; Industry</dc:subject>
+<dc:coverage>Oriskany - Oneida County - New York;</dc:coverage>
+<dc:date>1905-01-06</dc:date>
+<dc:source>Letters (correspondence) ; col. ; 8 x 10 1/2 in. (21x 27 cm.)</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>wbm002</dc:identifier>
+<dc:relation>Waterbury Mill</dc:relation>
+<dc:rights>Please cite as: Oriskany Village Museum Waterbury Mill Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll12/id/80</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll12/81</identifier><datestamp>2014-10-14</datestamp><setSpec>p16694coll12</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Gas Bill from Indian Refining Company</dc:title>
+<dc:description>An invoice for 55 gallons of gas from the Indian Refining Company.</dc:description>
+<dc:creator>Indian Refining Company</dc:creator>
+<dc:subject>Invoices ; Gas</dc:subject>
+<dc:subject>Business &amp; Industry</dc:subject>
+<dc:date>1912</dc:date>
+<dc:source>Letters (correspondence) ; col. ; 8.5 x 7 in. (21 x 18 cm.)</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>wbm003</dc:identifier>
+<dc:relation>Waterbury Mill</dc:relation>
+<dc:rights>Please cite as: Oriskany Village Museum Waterbury Mill Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll12/id/81</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll12/82</identifier><datestamp>2014-10-14</datestamp><setSpec>p16694coll12</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Request for Felt &amp; Jacket Sample from Nelson &amp; Kreuter Co.</dc:title>
+<dc:description>A request for samples from a Chicago based laundry machnery company. The correspondence includes a pinned piece of felt.</dc:description>
+<dc:creator>Nelson &amp; Kreuter Co.</dc:creator>
+<dc:subject>Papermaking machinery felts; Paper industry; Business correspondence</dc:subject>
+<dc:subject>Business &amp; Industry</dc:subject>
+<dc:coverage>Oriskany - Oneida County - New York; Chicago - Cook County - Illinois</dc:coverage>
+<dc:date>1906</dc:date>
+<dc:source>col. 8.5 x 11 in. (21.5 X28 cm)</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>wbm012</dc:identifier>
+<dc:relation>Waterbury Mill</dc:relation>
+<dc:rights>Please cite as: Oriskany Village Museum Waterbury Mill Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll12/id/82</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll12/83</identifier><datestamp>2014-10-14</datestamp><setSpec>p16694coll12</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Jed Waterbury</dc:title>
+<dc:description>Portrait of Jed Waterbury</dc:description>
+<dc:subject>Business people--1970-1980.</dc:subject>
+<dc:subject>People</dc:subject>
+<dc:date>1970</dc:date>
+<dc:source>b &amp; w ; 5 x 7 in.(13 x 18 cm)</dc:source>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>wbm013</dc:identifier>
+<dc:relation>Waterbury Mill</dc:relation>
+<dc:rights>Please cite as: Oriskany Village Museum Waterbury Mill Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll12/id/83</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll12/84</identifier><datestamp>2014-10-14</datestamp><setSpec>p16694coll12</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Mark Waterbury</dc:title>
+<dc:description>Portrait of Mark Waterbury</dc:description>
+<dc:subject>Business people--1970-1980.</dc:subject>
+<dc:subject>People</dc:subject>
+<dc:date>1970</dc:date>
+<dc:source>b &amp; w ; 5 x 7 in.(13 x 18 cm)</dc:source>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>wbm014</dc:identifier>
+<dc:relation>Waterbury Mill</dc:relation>
+<dc:rights>Please cite as: Oriskany Village Museum Waterbury Mill Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll12/id/84</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll12/85</identifier><datestamp>2014-10-14</datestamp><setSpec>p16694coll12</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Mark Waterbury &amp; Charlotte Waterbury Playing Cards</dc:title>
+<dc:description>Two members of the Waterbury Family playng cards</dc:description>
+<dc:subject>Card games</dc:subject>
+<dc:subject>People; Recreation &amp; Sports;</dc:subject>
+<dc:source>10.5 X 8 in.</dc:source>
+<dc:type>Image;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>wbm095</dc:identifier>
+<dc:relation>Waterbury Mill</dc:relation>
+<dc:rights>Please cite as: Oriskany Village Museum Waterbury Mill Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll12/id/85</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll12/86</identifier><datestamp>2014-10-14</datestamp><setSpec>p16694coll12</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Waterbury Calendar Topper</dc:title>
+<dc:description>Sketch of the mill that headed the 1913 calendar issued by Waterbury Mill</dc:description>
+<dc:creator>H. Waterbury &amp; Sons Co.</dc:creator>
+<dc:subject>Mills</dc:subject>
+<dc:subject>Business &amp; Industry;</dc:subject>
+<dc:coverage>Oriskany - Oneida County - New York;</dc:coverage>
+<dc:date>1913</dc:date>
+<dc:source>11 X 7 in.</dc:source>
+<dc:type>Physical Object;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>wbm096</dc:identifier>
+<dc:relation>Waterbury Mill</dc:relation>
+<dc:rights>Please cite as: Oriskany Village Museum Waterbury Mill Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll12/id/86</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll12/87</identifier><datestamp>2014-10-14</datestamp><setSpec>p16694coll12</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Mark H. Waterbury</dc:title>
+<dc:description>Mayor of Oriskany 1920-1929</dc:description>
+<dc:subject>Business people--1920-1930</dc:subject>
+<dc:subject>People; Government, Law &amp; Politics;</dc:subject>
+<dc:coverage>Oriskany - Oneida County - New York;</dc:coverage>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930; 1931; 1932; 1933; 1934; 1935; 1936; 1937; 1938; 1939; 1940</dc:date>
+<dc:source>10.5 X 14.5`</dc:source>
+<dc:type>Image;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>wbm097</dc:identifier>
+<dc:relation>Waterbury Mill</dc:relation>
+<dc:rights>Please cite as: Oriskany Village Museum Waterbury Mill Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll12/id/87</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll12/88</identifier><datestamp>2014-10-14</datestamp><setSpec>p16694coll12</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Norma  Spear Waterbury</dc:title>
+<dc:description>Wife of Mark Henry Waterbury Jr.</dc:description>
+<dc:subject>People;</dc:subject>
+<dc:source>7.5 X 9</dc:source>
+<dc:type>Image;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>wbm098</dc:identifier>
+<dc:relation>Waterbury Mill</dc:relation>
+<dc:rights>Please cite as: Oriskany Village Museum Waterbury Mill Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll12/id/88</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll12/109</identifier><datestamp>2014-10-14</datestamp><setSpec>p16694coll12</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Waterbury Felts Organ 1976</dc:title>
+<dc:description>Centennial Issue</dc:description>
+<dc:creator>Waterbury Felts</dc:creator>
+<dc:subject>Textile history</dc:subject>
+<dc:subject>Business &amp; Industry; Daily Life;</dc:subject>
+<dc:date>1976</dc:date>
+<dc:source>col. ; 8.5 x 11 in. (21.5  X 28 cm)</dc:source>
+<dc:type>Text;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>wbm063</dc:identifier>
+<dc:relation>Waterbury Mill</dc:relation>
+<dc:rights>Please cite as: Oriskany Village Museum Waterbury Mill Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll12/id/109</dc:identifier></oai_dc:dc>
+</metadata>
+</record></ListRecords></OAI-PMH>

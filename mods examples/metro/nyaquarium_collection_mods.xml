@@ -1,0 +1,982 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2015-03-12T15:48:09Z</responseDate><request>http://dcmny.org/oai2</request><ListRecords><record><header><identifier>oai:dcmny.org:nyaquarium_255</identifier><datestamp>2014-10-10T13:26:24Z</datestamp><setSpec>nyaquarium_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:php="http://php.net/xsl">
+  <titleInfo>
+    <title>Short-nosed gar, New York Aquarium</title>
+  </titleInfo>
+  <abstract>Back caption: Short-Nosed Gar. Great Lakes and Mississippi Valley. Related to extinct Ganoid fishes.</abstract>
+  <note type="dateuncontrolled">ca. 1914-1924</note>
+  <originInfo>
+    <publisher>New York Zoological Society</publisher>
+  </originInfo>
+  <name type="corporate">
+    <namePart>C. T. American Art</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">
+                    Printer
+                </roleTerm>
+    </role>
+  </name>
+  <genre authority="lctgm">Postcards</genre>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Wildlife Conservation Society Archives Collection 2016</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Digitized by Wildlife Conservation Society Archives</note>
+  <accessCondition type="use and reproduction">For rights and permissions, please contact the Wildlife Conservation Society Archives, library@wcs.org</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <identifier type="local">2016-pc-709</identifier>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <subject>
+    <topic>New York Aquarium</topic>
+  </subject>
+  <subject>
+    <topic>Fish</topic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Manhattan (New York, N.Y.)</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Battery Park (New York, N.Y.)</geographic>
+  </subject>
+  <physicalDescription>
+    <extent>1 postcard: colored photograph ; 9 x 14 cm</extent>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/nyaquarium%3A255</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:nyaquarium_228</identifier><datestamp>2014-10-10T13:26:03Z</datestamp><setSpec>nyaquarium_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:php="http://php.net/xsl">
+  <titleInfo>
+    <title>Queen angelfish and moray</title>
+  </titleInfo>
+  <abstract>Back caption: Queen Angelfish and Moray, at the Government Aquarium and Museum, Bermuda. Painted by Dr. Andrey Avinoff, eminent naturalist, entomologist, artist, and late Director of the Carnegie Museum, Pittsburgh, Pa.</abstract>
+  <note type="dateuncontrolled">ca. 1946</note>
+  <originInfo>
+    <publisher>New York Zoological Society</publisher>
+  </originInfo>
+  <name type="corporate">
+    <namePart>Ives Color Processes Inc.</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">
+                    Printer
+                </roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Avinoff, Andrey, 1884-1949</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">
+                    Illustrator
+                </roleTerm>
+    </role>
+  </name>
+  <genre authority="lctgm">Postcards</genre>
+  <subject authority="lcsh">
+    <geographic>Bermuda Islands</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Wildlife Conservation Society Archives Collection 2016</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Digitized by Wildlife Conservation Society Archives</note>
+  <accessCondition type="use and reproduction">For rights and permissions, please contact the Wildlife Conservation Society Archives, library@wcs.org</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <identifier type="local">2016-pc-793</identifier>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <subject>
+    <topic>New York Aquarium</topic>
+  </subject>
+  <subject>
+    <topic>Bermuda Aquarium, Natural History Museum &amp; Zoo</topic>
+  </subject>
+  <subject>
+    <topic>Fish</topic>
+  </subject>
+  <subject>
+    <topic>Eels</topic>
+  </subject>
+  <physicalDescription>
+    <extent>1 postcard; illustration ; 11 x 15.5 cm</extent>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/nyaquarium%3A228</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:nyaquarium_270</identifier><datestamp>2014-10-10T13:25:40Z</datestamp><setSpec>nyaquarium_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:php="http://php.net/xsl">
+  <titleInfo>
+    <title>Blue crab</title>
+  </titleInfo>
+  <abstract>Front caption: Blue Crab--New York Aquarium</abstract>
+  <note type="dateuncontrolled">ca. 1906</note>
+  <originInfo>
+    <publisher>New York Zoological Society</publisher>
+  </originInfo>
+  <genre authority="lctgm">Postcards</genre>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Wildlife Conservation Society Archives Collection 2016</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Digitized by Wildlife Conservation Society Archives</note>
+  <accessCondition type="use and reproduction">For rights and permissions, please contact the Wildlife Conservation Society Archives, library@wcs.org</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <identifier type="local">2016-pc-741</identifier>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <subject>
+    <topic>New York Aquarium</topic>
+  </subject>
+  <subject>
+    <topic>Blue crab</topic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Manhattan (New York, N.Y.)</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Battery Park (New York, N.Y.)</geographic>
+  </subject>
+  <physicalDescription>
+    <extent>1 postcard: b&amp;w photograph ; 9 x 14 cm</extent>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/nyaquarium%3A270</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:nyaquarium_230</identifier><datestamp>2014-10-10T13:25:46Z</datestamp><setSpec>nyaquarium_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:php="http://php.net/xsl">
+  <titleInfo>
+    <title>Parrot fish</title>
+  </titleInfo>
+  <abstract>Back caption: Parrot fish, at the Government Aquarium and Museum, Bermuda. Painted by Dr. Andrey Avinoff, eminent naturalist, entomologist, artist, and late Director of the Carnegie Museum, Pittsburgh, Pa.</abstract>
+  <note type="dateuncontrolled">ca. 1946</note>
+  <originInfo>
+    <publisher>New York Zoological Society</publisher>
+  </originInfo>
+  <name type="corporate">
+    <namePart>Ives Color Processes Inc.</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">
+                    Printer
+                </roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Avinoff, Andrey, 1884-1949</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">
+                    Illustrator
+                </roleTerm>
+    </role>
+  </name>
+  <genre authority="lctgm">Postcards</genre>
+  <subject authority="lcsh">
+    <geographic>Bermuda Islands</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Wildlife Conservation Society Archives Collection 2016</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Digitized by Wildlife Conservation Society Archives</note>
+  <accessCondition type="use and reproduction">For rights and permissions, please contact the Wildlife Conservation Society Archives, library@wcs.org</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <identifier type="local">2016-pc-795</identifier>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <subject>
+    <topic>New York Aquarium</topic>
+  </subject>
+  <subject>
+    <topic>Bermuda Aquarium, Natural History Museum &amp; Zoo</topic>
+  </subject>
+  <subject>
+    <topic>Fish</topic>
+  </subject>
+  <subject>
+    <topic>Eels</topic>
+  </subject>
+  <physicalDescription>
+    <extent>1 postcard; illustration ; 11 x 15.5 cm</extent>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/nyaquarium%3A230</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:nyaquarium_279</identifier><datestamp>2014-10-10T13:25:42Z</datestamp><setSpec>nyaquarium_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:php="http://php.net/xsl">
+  <titleInfo>
+    <title>The happy family tank</title>
+  </titleInfo>
+  <abstract>Back caption: Happy Family Tank / Usually contains 15 or 20 kinds. All tropical. Florida and West Indies.</abstract>
+  <note type="dateuncontrolled">ca. 1914-1924</note>
+  <originInfo>
+    <publisher>New York Zoological Society</publisher>
+  </originInfo>
+  <name type="corporate">
+    <namePart>Detroit Publishing Co.</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">
+                    Printer
+                </roleTerm>
+    </role>
+  </name>
+  <genre authority="lctgm">Postcards</genre>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Wildlife Conservation Society Archives Collection 2016</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Digitized by Wildlife Conservation Society Archives</note>
+  <accessCondition type="use and reproduction">For rights and permissions, please contact the Wildlife Conservation Society Archives, library@wcs.org</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <identifier type="local">2016-pc-759</identifier>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <subject>
+    <topic>New York Aquarium</topic>
+  </subject>
+  <subject>
+    <topic>Aquariums</topic>
+  </subject>
+  <subject>
+    <topic>Fish</topic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Manhattan (New York, N.Y.)</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Battery Park (New York, N.Y.)</geographic>
+  </subject>
+  <physicalDescription>
+    <extent>1 postcard: colored photograph ; 9 x 14 cm</extent>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/nyaquarium%3A279</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:nyaquarium_258</identifier><datestamp>2014-10-10T13:26:18Z</datestamp><setSpec>nyaquarium_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:php="http://php.net/xsl">
+  <titleInfo>
+    <title>Elephant seal, New York Aquarium</title>
+  </titleInfo>
+  <abstract>Back caption: Elephant Seal. Guadalupe Island. West coast of Mexico. A nearly extinct species. Reaches a length of 20 feet.</abstract>
+  <note type="dateuncontrolled">ca. 1914-1924</note>
+  <originInfo>
+    <publisher>New York Zoological Society</publisher>
+  </originInfo>
+  <name type="corporate">
+    <namePart>Detroit Publishing Co.</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">
+                    Printer
+                </roleTerm>
+    </role>
+  </name>
+  <genre authority="lctgm">Postcards</genre>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Wildlife Conservation Society Archives Collection 2016</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Digitized by Wildlife Conservation Society Archives</note>
+  <accessCondition type="use and reproduction">For rights and permissions, please contact the Wildlife Conservation Society Archives, library@wcs.org</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <identifier type="local">2016-pc-715</identifier>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <subject>
+    <topic>New York Aquarium</topic>
+  </subject>
+  <subject>
+    <topic>Elephant seals</topic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Manhattan (New York, N.Y.)</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Battery Park (New York, N.Y.)</geographic>
+  </subject>
+  <physicalDescription>
+    <extent>1 postcard: colored photograph ; 9 x 14 cm</extent>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/nyaquarium%3A258</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:nyaquarium_260</identifier><datestamp>2014-10-10T13:26:22Z</datestamp><setSpec>nyaquarium_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:php="http://php.net/xsl">
+  <titleInfo>
+    <title>Muskallunge</title>
+  </titleInfo>
+  <abstract>Back caption: Muskallunge. Northern United States and Canada. Largest of the pike family.</abstract>
+  <note type="dateuncontrolled">ca. 1914-1924</note>
+  <originInfo>
+    <publisher>New York Zoological Society</publisher>
+  </originInfo>
+  <name type="corporate">
+    <namePart>Detroit Publishing Co.</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">
+                    Printer
+                </roleTerm>
+    </role>
+  </name>
+  <genre authority="lctgm">Postcards</genre>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Wildlife Conservation Society Archives Collection 2016</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Digitized by Wildlife Conservation Society Archives</note>
+  <accessCondition type="use and reproduction">For rights and permissions, please contact the Wildlife Conservation Society Archives, library@wcs.org</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <identifier type="local">2016-pc-721</identifier>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <subject>
+    <topic>New York Aquarium</topic>
+  </subject>
+  <subject>
+    <topic>Fish</topic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Manhattan (New York, N.Y.)</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Battery Park (New York, N.Y.)</geographic>
+  </subject>
+  <physicalDescription>
+    <extent>1 postcard: colored photograph ; 9 x 14 cm</extent>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/nyaquarium%3A260</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:nyaquarium_295</identifier><datestamp>2014-10-10T13:25:56Z</datestamp><setSpec>nyaquarium_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:php="http://php.net/xsl">
+  <titleInfo>
+    <title>Pearl danio / striped danio</title>
+  </titleInfo>
+  <abstract>Back caption: Zebra and Pearl Danios / Brachydanio rerio and albolineatus. These two species, native to India, are among the most popular of small aquarium fishes.</abstract>
+  <note type="dateuncontrolled">ca. 1930s</note>
+  <originInfo>
+    <publisher>New York Zoological Society</publisher>
+  </originInfo>
+  <name type="corporate">
+    <namePart>Tichnor Quality Views</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">
+                    Printer
+                </roleTerm>
+    </role>
+  </name>
+  <genre authority="lctgm">Postcards</genre>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Wildlife Conservation Society Archives Collection 2016</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Digitized by Wildlife Conservation Society Archives</note>
+  <accessCondition type="use and reproduction">For rights and permissions, please contact the Wildlife Conservation Society Archives, library@wcs.org</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <identifier type="local">2016-pc-765</identifier>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <subject>
+    <topic>New York Aquarium</topic>
+  </subject>
+  <subject>
+    <topic>Fish</topic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Manhattan (New York, N.Y.)</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Battery Park (New York, N.Y.)</geographic>
+  </subject>
+  <physicalDescription>
+    <extent>1 postcard; colored photograph ; 9 x 14 cm</extent>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/nyaquarium%3A295</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:nyaquarium_239</identifier><datestamp>2014-10-10T13:25:33Z</datestamp><setSpec>nyaquarium_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:php="http://php.net/xsl">
+  <titleInfo>
+    <title>Rock beauty</title>
+  </titleInfo>
+  <abstract>Back caption: New York Aquarium / (Stage One, on the ocean front at Coney Island) / Rock beauty / Holacanthus tricolor</abstract>
+  <note type="dateuncontrolled">ca. 1957</note>
+  <originInfo>
+    <publisher>New York Zoological Society</publisher>
+  </originInfo>
+  <name type="corporate">
+    <namePart>Natural Color Company</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">
+                    Printer
+                </roleTerm>
+    </role>
+  </name>
+  <genre authority="lctgm">Postcards</genre>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Wildlife Conservation Society Archives Collection 2016</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Digitized by Wildlife Conservation Society Archives</note>
+  <accessCondition type="use and reproduction">For rights and permissions, please contact the Wildlife Conservation Society Archives, library@wcs.org</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <identifier type="local">2016-pc-673</identifier>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <subject>
+    <topic>New York Aquarium</topic>
+  </subject>
+  <subject>
+    <topic>Fish</topic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Brooklyn (New York, N.Y.)</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Coney Island (New York, N.Y.)</geographic>
+  </subject>
+  <physicalDescription>
+    <extent>1 postcard: color photograph ; 9 x 14 cm</extent>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/nyaquarium%3A239</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:nyaquarium_237</identifier><datestamp>2014-10-10T13:26:01Z</datestamp><setSpec>nyaquarium_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:php="http://php.net/xsl">
+  <titleInfo>
+    <title>Queen angel fish</title>
+  </titleInfo>
+  <abstract>Back caption: New York Aquarium / (Stage One, on the ocean front at Coney Island) / Queen angel fish / Angelichthys ciliaris</abstract>
+  <note type="dateuncontrolled">ca. 1957</note>
+  <originInfo>
+    <publisher>New York Zoological Society</publisher>
+  </originInfo>
+  <name type="corporate">
+    <namePart>Natural Color Company</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">
+                    Printer
+                </roleTerm>
+    </role>
+  </name>
+  <genre authority="lctgm">Postcards</genre>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Wildlife Conservation Society Archives Collection 2016</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Digitized by Wildlife Conservation Society Archives</note>
+  <accessCondition type="use and reproduction">For rights and permissions, please contact the Wildlife Conservation Society Archives, library@wcs.org</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <identifier type="local">2016-pc-669</identifier>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <subject>
+    <topic>New York Aquarium</topic>
+  </subject>
+  <subject>
+    <topic>Fish</topic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Brooklyn (New York, N.Y.)</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Coney Island (New York, N.Y.)</geographic>
+  </subject>
+  <physicalDescription>
+    <extent>1 postcard: color photograph ; 9 x 14 cm</extent>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/nyaquarium%3A237</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:nyaquarium_252</identifier><datestamp>2014-10-10T13:25:38Z</datestamp><setSpec>nyaquarium_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:php="http://php.net/xsl">
+  <titleInfo>
+    <title>Green moray, New York Aquarium</title>
+  </titleInfo>
+  <abstract>Back caption: Green moray. Florida and West Indies. Active and ferocious. Reaches a length of 9 feet.</abstract>
+  <note type="dateuncontrolled">ca. 1914-1924</note>
+  <originInfo>
+    <publisher>New York Zoological Society</publisher>
+  </originInfo>
+  <name type="corporate">
+    <namePart>Detroit Publishing Co.</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">
+                    Printer
+                </roleTerm>
+    </role>
+  </name>
+  <genre authority="lctgm">Postcards</genre>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Wildlife Conservation Society Archives Collection 2016</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Digitized by Wildlife Conservation Society Archives</note>
+  <accessCondition type="use and reproduction">For rights and permissions, please contact the Wildlife Conservation Society Archives, library@wcs.org</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <identifier type="local">2016-pc-703</identifier>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <subject>
+    <topic>New York Aquarium</topic>
+  </subject>
+  <subject>
+    <topic>Eels</topic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Manhattan (New York, N.Y.)</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Battery Park (New York, N.Y.)</geographic>
+  </subject>
+  <physicalDescription>
+    <extent>1 postcard: colored photograph ; 9 x 14 cm</extent>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/nyaquarium%3A252</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:nyaquarium_261</identifier><datestamp>2014-10-10T13:25:49Z</datestamp><setSpec>nyaquarium_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:php="http://php.net/xsl">
+  <titleInfo>
+    <title>A giant lobster</title>
+  </titleInfo>
+  <abstract>Back caption: A Giant Lobster. 38 inches long; weight 21 pounds. Captured off Sandy Hook, N. J. Received New York Aquarium Sept. 1913. The longest known specimen.</abstract>
+  <note type="dateuncontrolled">ca. 1914-1924</note>
+  <originInfo>
+    <publisher>New York Zoological Society</publisher>
+  </originInfo>
+  <name type="corporate">
+    <namePart>Detroit Publishing Co.</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">
+                    Printer
+                </roleTerm>
+    </role>
+  </name>
+  <genre authority="lctgm">Postcards</genre>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Wildlife Conservation Society Archives Collection 2016</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Digitized by Wildlife Conservation Society Archives</note>
+  <accessCondition type="use and reproduction">For rights and permissions, please contact the Wildlife Conservation Society Archives, library@wcs.org</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <identifier type="local">2016-pc-723</identifier>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <subject>
+    <topic>New York Aquarium</topic>
+  </subject>
+  <subject>
+    <topic>Lobsters</topic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Manhattan (New York, N.Y.)</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Battery Park (New York, N.Y.)</geographic>
+  </subject>
+  <physicalDescription>
+    <extent>1 postcard: colored photograph ; 9 x 14 cm</extent>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/nyaquarium%3A261</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:nyaquarium_282</identifier><datestamp>2014-10-10T13:25:46Z</datestamp><setSpec>nyaquarium_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:php="http://php.net/xsl">
+  <titleInfo>
+    <title>Flying characins</title>
+  </titleInfo>
+  <abstract>Back caption: Flying Characins / These small fishes, Gasteropelicus and Carnegiella strigata, are true flying fishes capable of skimming over the water for short distances. They are natives of South America.</abstract>
+  <note type="dateuncontrolled">ca. 1930s</note>
+  <originInfo>
+    <publisher>New York Zoological Society</publisher>
+  </originInfo>
+  <name type="corporate">
+    <namePart>Tichnor Quality Views</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">
+                    Printer
+                </roleTerm>
+    </role>
+  </name>
+  <genre authority="lctgm">Postcards</genre>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Wildlife Conservation Society Archives Collection 2016</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Digitized by Wildlife Conservation Society Archives</note>
+  <accessCondition type="use and reproduction">For rights and permissions, please contact the Wildlife Conservation Society Archives, library@wcs.org</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <identifier type="local">2016-pc-769</identifier>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <subject>
+    <topic>New York Aquarium</topic>
+  </subject>
+  <subject>
+    <topic>Fish</topic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Manhattan (New York, N.Y.)</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Battery Park (New York, N.Y.)</geographic>
+  </subject>
+  <physicalDescription>
+    <extent>1 postcard: colored photograph ; 9 x 14 cm</extent>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/nyaquarium%3A282</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:nyaquarium_234</identifier><datestamp>2014-10-10T13:25:42Z</datestamp><setSpec>nyaquarium_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:php="http://php.net/xsl">
+  <titleInfo>
+    <title>Atlantic walrus</title>
+  </titleInfo>
+  <abstract>Back caption: New York Aquarium / (Stage One, on the ocean front at Coney Island) / Atlantic walrus / Odobenus rosmarus</abstract>
+  <note type="dateuncontrolled">ca. 1957</note>
+  <originInfo>
+    <publisher>New York Zoological Society</publisher>
+  </originInfo>
+  <name type="corporate">
+    <namePart>Natural Color Company</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">
+                    Printer
+                </roleTerm>
+    </role>
+  </name>
+  <genre authority="lctgm">Postcards</genre>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Wildlife Conservation Society Archives Collection 2016</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Digitized by Wildlife Conservation Society Archives</note>
+  <accessCondition type="use and reproduction">For rights and permissions, please contact the Wildlife Conservation Society Archives, library@wcs.org</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <identifier type="local">2016-pc-663</identifier>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <subject>
+    <topic>New York Aquarium</topic>
+  </subject>
+  <subject>
+    <topic>Walrus</topic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Brooklyn (New York, N.Y.)</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Coney Island (New York, N.Y.)</geographic>
+  </subject>
+  <physicalDescription>
+    <extent>1 postcard: color photograph ; 9 x 14 cm</extent>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/nyaquarium%3A234</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:nyaquarium_245</identifier><datestamp>2014-10-10T13:26:23Z</datestamp><setSpec>nyaquarium_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:php="http://php.net/xsl">
+  <titleInfo>
+    <title>Large green turtle</title>
+  </titleInfo>
+  <abstract>Front caption: Large Green Turtle (Weight 313 lbs.) -- New York Aquarium</abstract>
+  <note displayLabel="Inscription">Do you remember this fellow / Mabel.</note>
+  <note type="dateuncontrolled">ca. 1906</note>
+  <originInfo>
+    <publisher>New York Zoological Society</publisher>
+  </originInfo>
+  <genre authority="lctgm">Postcards</genre>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Wildlife Conservation Society Archives Collection 2016</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Digitized by Wildlife Conservation Society Archives</note>
+  <accessCondition type="use and reproduction">For rights and permissions, please contact the Wildlife Conservation Society Archives, library@wcs.org</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <identifier type="local">2016-pc-689</identifier>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <subject>
+    <topic>New York Aquarium</topic>
+  </subject>
+  <subject>
+    <topic>Green turtle</topic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Manhattan (New York, N.Y.)</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Battery Park (New York, N.Y.)</geographic>
+  </subject>
+  <physicalDescription>
+    <extent>1 postcard: b&amp;w photograph ; 9 x 14 cm</extent>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/nyaquarium%3A245</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:nyaquarium_254</identifier><datestamp>2014-10-10T13:26:04Z</datestamp><setSpec>nyaquarium_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:php="http://php.net/xsl">
+  <titleInfo>
+    <title>Octopus -- New York Aquarium</title>
+  </titleInfo>
+  <abstract>Back caption: Octopus or Devil Fish. From Bermuda. A Pacific species--is 28 feet across the arms.</abstract>
+  <note type="dateuncontrolled">ca. 1914-1924</note>
+  <originInfo>
+    <publisher>New York Zoological Society</publisher>
+  </originInfo>
+  <name type="corporate">
+    <namePart>Detroit Publishing Co.</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">
+                    Printer
+                </roleTerm>
+    </role>
+  </name>
+  <genre authority="lctgm">Postcards</genre>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Wildlife Conservation Society Archives Collection 2016</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Digitized by Wildlife Conservation Society Archives</note>
+  <accessCondition type="use and reproduction">For rights and permissions, please contact the Wildlife Conservation Society Archives, library@wcs.org</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <identifier type="local">2016-pc-707</identifier>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <subject>
+    <topic>New York Aquarium</topic>
+  </subject>
+  <subject>
+    <topic>Octopus</topic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Manhattan (New York, N.Y.)</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Battery Park (New York, N.Y.)</geographic>
+  </subject>
+  <physicalDescription>
+    <extent>1 postcard: colored photograph ; 9 x 14 cm</extent>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/nyaquarium%3A254</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:nyaquarium_246</identifier><datestamp>2014-10-10T13:26:15Z</datestamp><setSpec>nyaquarium_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:php="http://php.net/xsl">
+  <titleInfo>
+    <title>Interior view -- New York Aquarium</title>
+  </titleInfo>
+  <abstract>Front caption: Interior View -- New York Aquarium</abstract>
+  <note displayLabel="Inscription">Mar 6/08 I cannot wait. Must send this card right away. Hope you arrived home safely / Your Arthur</note>
+  <note type="dateuncontrolled">ca. 1908</note>
+  <originInfo>
+    <publisher>New York Zoological Society</publisher>
+  </originInfo>
+  <genre authority="lctgm">Postcards</genre>
+  <subject>
+    <topic>New York Aquarium</topic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Wildlife Conservation Society Archives Collection 2016</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Digitized by Wildlife Conservation Society Archives</note>
+  <accessCondition type="use and reproduction">For rights and permissions, please contact the Wildlife Conservation Society Archives, library@wcs.org</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <identifier type="local">2016-pc-691</identifier>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <subject authority="lcsh">
+    <geographic>Manhattan (New York, N.Y.)</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Battery Park (New York, N.Y.)</geographic>
+  </subject>
+  <physicalDescription>
+    <extent>1 postcard: b&amp;w photograph ; 9 x 14 cm</extent>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/nyaquarium%3A246</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:nyaquarium_285</identifier><datestamp>2014-10-10T13:25:52Z</datestamp><setSpec>nyaquarium_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:php="http://php.net/xsl">
+  <titleInfo>
+    <title>Glass fish</title>
+  </titleInfo>
+  <abstract>Back caption: Glass Fish / Ambassis lala. A remarkable, nearly transparent fish from the East Indies. The internal details of anatomy can be plainly seen.</abstract>
+  <note type="dateuncontrolled">ca. 1930s</note>
+  <originInfo>
+    <publisher>New York Zoological Society</publisher>
+  </originInfo>
+  <name type="corporate">
+    <namePart>Tichnor Quality Views</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">
+                    Printer
+                </roleTerm>
+    </role>
+  </name>
+  <genre authority="lctgm">Postcards</genre>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Wildlife Conservation Society Archives Collection 2016</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Digitized by Wildlife Conservation Society Archives</note>
+  <accessCondition type="use and reproduction">For rights and permissions, please contact the Wildlife Conservation Society Archives, library@wcs.org</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <identifier type="local">2016-pc-775</identifier>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <subject>
+    <topic>New York Aquarium</topic>
+  </subject>
+  <subject>
+    <topic>Fish</topic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Manhattan (New York, N.Y.)</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Battery Park (New York, N.Y.)</geographic>
+  </subject>
+  <physicalDescription>
+    <extent>1 postcard; colored photograph ; 9 x 14 cm</extent>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/nyaquarium%3A285</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:nyaquarium_226</identifier><datestamp>2014-10-10T13:25:31Z</datestamp><setSpec>nyaquarium_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:php="http://php.net/xsl">
+  <titleInfo>
+    <title>New York Aquarium at Seaside Park, Coney Island, N.Y.</title>
+  </titleInfo>
+  <abstract>Back caption: New York Aquarium at Seaside Park, Coney Island, N.Y. Located between Surf Avenue and the Boardwalk near 8th Street. The Aquarium contains tropical and fresh water fish, aquatic mammals and birds.</abstract>
+  <note type="dateuncontrolled">ca. 1960s</note>
+  <originInfo>
+    <publisher>Acacia Card Company</publisher>
+  </originInfo>
+  <genre authority="lctgm">Postcards</genre>
+  <subject>
+    <topic>New York Aquarium</topic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Wildlife Conservation Society Archives Collection 2016</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Digitized by Wildlife Conservation Society Archives</note>
+  <accessCondition type="use and reproduction">For rights and permissions, please contact the Wildlife Conservation Society Archives, library@wcs.org</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <identifier type="local">2016-pc-653</identifier>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <subject authority="lcsh">
+    <geographic>Brooklyn (New York, N.Y.)</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Coney Island (New York, N.Y.)</geographic>
+  </subject>
+  <physicalDescription>
+    <extent>1 postcard: color illustration ; 9 x 14 cm</extent>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/nyaquarium%3A226</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:nyaquarium_292</identifier><datestamp>2014-10-10T13:25:47Z</datestamp><setSpec>nyaquarium_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:php="http://php.net/xsl">
+  <titleInfo>
+    <title>Angel fish, squirrel fish and spanish hogfish</title>
+  </titleInfo>
+  <abstract>Back caption: Angel fish, Squirrel fish and Spanish hogfish, at the Government Aquarium and Museum, Bermuda. Painted by Dr. Andrey Avinoff, eminent naturalist, entomologist, artist, and late Director of the Carnegie Museum, Pittsburgh, Pa.</abstract>
+  <note type="dateuncontrolled">ca. 1946</note>
+  <originInfo>
+    <publisher>New York Zoological Society</publisher>
+  </originInfo>
+  <name type="corporate">
+    <namePart>Ives Color Processes Inc.</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">
+                    Printer
+                </roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Avinoff, Andrey, 1884-1949</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">
+                    Illustrator
+                </roleTerm>
+    </role>
+  </name>
+  <genre authority="lctgm">Postcards</genre>
+  <subject authority="lcsh">
+    <geographic>Bermuda Islands</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Wildlife Conservation Society Archives Collection 2016</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Digitized by Wildlife Conservation Society Archives</note>
+  <accessCondition type="use and reproduction">For rights and permissions, please contact the Wildlife Conservation Society Archives, library@wcs.org</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <identifier type="local">2016-pc-797</identifier>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <subject>
+    <topic>New York Aquarium</topic>
+  </subject>
+  <subject>
+    <topic>Bermuda Aquarium, Natural History Museum &amp; Zoo</topic>
+  </subject>
+  <subject>
+    <topic>Fish</topic>
+  </subject>
+  <subject>
+    <topic>Eels</topic>
+  </subject>
+  <physicalDescription>
+    <extent>1 postcard: illustration ; 11 x 15.5 cm</extent>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/nyaquarium%3A292</identifier>
+</mods>
+</metadata></record><resumptionToken expirationDate="2015-03-13T15:48:09Z" completeListSize="75" cursor="0">117194137</resumptionToken></ListRecords></OAI-PMH>

@@ -1,0 +1,923 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2014-12-17T18:54:09Z</responseDate><request verb="ListRecords" metadataPrefix="oai_dc" set="R6A001">http://cdm16694.contentdm.oclc.org/oai/oai.php</request><ListRecords><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:R6A001/0</identifier><datestamp>2012-05-16</datestamp><setSpec>R6A001</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:R6A001/1</identifier><datestamp>2013-11-08</datestamp><setSpec>R6A001</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Philip Hardy Family</dc:title>
+<dc:description>Philip Hardy Family. Front row: Magdalena Hardy, Joseph Hardy, Magdalena Mislin, Philip S. Hardy, Jacob Hardy. Back row: Walter Hardy, Herman Hardy, Charles Hardy, Philip Hardy, Laura Hardy.</dc:description>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Amherst (N.Y.); Amherst (N.Y. : Town)</dc:coverage>
+<dc:contributor>Hardy, Marguerite (Donor)</dc:contributor>
+<dc:date>1930?</dc:date>
+<dc:source>5520 x 4500 pixels; 600 dpi</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>2006.10.1</dc:identifier>
+<dc:relation>Hardy Family Photographs</dc:relation>
+<dc:rights>Non-Exclusive License</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/R6A001/id/1</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:R6A001/2</identifier><datestamp>2014-10-02</datestamp><setSpec>R6A001</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Hardy homestead, 1913</dc:title>
+<dc:description>Hardy homestead on 2050 North French Road, 1913.</dc:description>
+<dc:subject>Farm life</dc:subject>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Amherst (N.Y.); Amherst (N.Y. : Town)</dc:coverage>
+<dc:contributor>Hardy, Marguerite (Donor)</dc:contributor>
+<dc:date>1913</dc:date>
+<dc:source>2914 x 1954 pixels; 600 dpi.</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>2006.10.2</dc:identifier>
+<dc:relation>Hardy Family Photographs</dc:relation>
+<dc:rights>Non-Exclusive License</dc:rights>
+<dc:coverage>43.035264</dc:coverage>
+<dc:coverage> -78.792411</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/R6A001/id/2</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:R6A001/3</identifier><datestamp>2014-10-02</datestamp><setSpec>R6A001</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Hardy homestead, 1943</dc:title>
+<dc:description>Hardy homestead in winter, 1943.</dc:description>
+<dc:subject>Farm life</dc:subject>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Amherst (N.Y.); Amherst (N.Y. : Town)</dc:coverage>
+<dc:contributor>Hardy, Marguerite (Donor)</dc:contributor>
+<dc:date>1943</dc:date>
+<dc:source>2820 x 2029 pixels; 600 dpi</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>2006.10.34</dc:identifier>
+<dc:relation>Hardy Family Photographs</dc:relation>
+<dc:rights>Non-Exclusive License</dc:rights>
+<dc:coverage>43.035264</dc:coverage>
+<dc:coverage>-78.792411</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/R6A001/id/3</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:R6A001/4</identifier><datestamp>2014-10-02</datestamp><setSpec>R6A001</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Philip and Magdalena Hardy, 1925</dc:title>
+<dc:description>Philip Hardy and Magdalena Mislin Hardy, 1925.</dc:description>
+<dc:subject>Farm life</dc:subject>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Amherst (N.Y.); Amherst (N.Y. : Town)</dc:coverage>
+<dc:contributor>Hardy, Marguerite (Donor)</dc:contributor>
+<dc:date>1925</dc:date>
+<dc:source>2926 x 4238 pixels; 600 dpi</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>2006.10.5</dc:identifier>
+<dc:relation>Hardy Family Photographs</dc:relation>
+<dc:rights>Non-Exclusive License</dc:rights>
+<dc:coverage>43.035264</dc:coverage>
+<dc:coverage>-78.792411</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/R6A001/id/4</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:R6A001/5</identifier><datestamp>2014-10-02</datestamp><setSpec>R6A001</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Hardy reunion, 1927</dc:title>
+<dc:description>Hardy reunion, 1927.</dc:description>
+<dc:subject>Farm life</dc:subject>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Amherst (N.Y.); Amherst (N.Y. : Town)</dc:coverage>
+<dc:contributor>Hardy, Marguerite (Donor)</dc:contributor>
+<dc:date>1927</dc:date>
+<dc:source>3210 x 2036 pixels; 600 dpi</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>2006.10.6</dc:identifier>
+<dc:relation>Hardy Family Photographs</dc:relation>
+<dc:rights>Non-Exclusive License</dc:rights>
+<dc:coverage>43.035264</dc:coverage>
+<dc:coverage> -78.792411</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/R6A001/id/5</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:R6A001/6</identifier><datestamp>2014-10-02</datestamp><setSpec>R6A001</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Clara, Willard, and Jacob Hardy, 1930</dc:title>
+<dc:description>Clara, Willard, and Jacob Hardy, 1930. In front yard.</dc:description>
+<dc:subject>Farm life</dc:subject>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Amherst (N.Y.); Amherst (N.Y. : Town)</dc:coverage>
+<dc:contributor>Hardy, Marguerite (Donor)</dc:contributor>
+<dc:date>1930</dc:date>
+<dc:source>2702 x 1718 pixels; 600 dpi</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>2006.10.8</dc:identifier>
+<dc:relation>Hardy Family Photographs</dc:relation>
+<dc:rights>Non-Exclusive License</dc:rights>
+<dc:coverage>43.035264</dc:coverage>
+<dc:coverage>-78.792411</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/R6A001/id/6</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:R6A001/7</identifier><datestamp>2014-10-02</datestamp><setSpec>R6A001</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Jacob and Clara Hardy, 1913</dc:title>
+<dc:description>Jacob Hardy and Clara Ernst Hardy, 1913. On porch, in front of door.</dc:description>
+<dc:subject>Farm life</dc:subject>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Amherst (N.Y.); Amherst (N.Y. : Town)</dc:coverage>
+<dc:contributor>Hardy, Marguerite (Donor)</dc:contributor>
+<dc:date>1913</dc:date>
+<dc:source>2601 x 1625 pixels; 600 dpi</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>2006.10.3</dc:identifier>
+<dc:relation>Hardy Family Photographs</dc:relation>
+<dc:rights>Non-Exclusive License</dc:rights>
+<dc:coverage>43.035264</dc:coverage>
+<dc:coverage>-78.792411</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/R6A001/id/7</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:R6A001/8</identifier><datestamp>2014-10-02</datestamp><setSpec>R6A001</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Group photo, Hardy family</dc:title>
+<dc:description>Hardy family, sitting on the porch. Clara Ernst Hardy, Laura Hardy Whipple, Jacob Hardy. Children unidentified.</dc:description>
+<dc:subject>Farm life</dc:subject>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Amherst (N.Y.); Amherst (N.Y. : Town)</dc:coverage>
+<dc:contributor>Hardy, Marguerite (Donor)</dc:contributor>
+<dc:date>1930</dc:date>
+<dc:source>2550 x 1612 pixels; 600 dpi</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>2006.10.4</dc:identifier>
+<dc:relation>Hardy Family Photographs</dc:relation>
+<dc:rights>Non-Exclusive License</dc:rights>
+<dc:coverage>43.035264</dc:coverage>
+<dc:coverage>-78.792411</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/R6A001/id/8</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:R6A001/9</identifier><datestamp>2013-11-08</datestamp><setSpec>R6A001</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Class photo, School #4, 1934</dc:title>
+<dc:description>Class photo, Amherst School #4. Stahl Road, Getzville. May 1934. Sarah L. Ernstine, teacher.</dc:description>
+<dc:subject>Schools</dc:subject>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Amherst (N.Y.); Amherst (N.Y. : Town)</dc:coverage>
+<dc:contributor>Hardy, Marguerite (Donor)</dc:contributor>
+<dc:date>1934-05</dc:date>
+<dc:source>3212 x 2062 pixels; 600 dpi</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>2006.10.19</dc:identifier>
+<dc:relation>Hardy Family Photographs</dc:relation>
+<dc:rights>Non-Exclusive License</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/R6A001/id/9</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:R6A001/10</identifier><datestamp>2013-11-08</datestamp><setSpec>R6A001</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Leona Kropp and Alvin Hardy, 1943</dc:title>
+<dc:description>Leona Kropp and Alvin Hardy. June 7, 1943. Alvin is in uniform.</dc:description>
+<dc:subject>World War, 1939-1945; World War II; Farm life</dc:subject>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Amherst (N.Y.); Amherst (N.Y. : Town)</dc:coverage>
+<dc:contributor>Hardy, Marguerite (Donor)</dc:contributor>
+<dc:date>1943-06-07</dc:date>
+<dc:source>1599 x 2225 pixels; 600 dpi</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>2006.10.26</dc:identifier>
+<dc:relation>Hardy Family Photographs</dc:relation>
+<dc:rights>Non-Exclusive License</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/R6A001/id/10</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:R6A001/11</identifier><datestamp>2014-10-02</datestamp><setSpec>R6A001</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Group photo, Hardy family, 1943</dc:title>
+<dc:description>Alvin Hardy, Leona Kropp, Jacob Hardy, Clara Hardy. May 3, 1943. White dog in foreground, standing outside in front of barn. Alvin in uniform.</dc:description>
+<dc:subject>World War, 1939-1945; World War II; Farm life</dc:subject>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Amherst (N.Y.); Amherst (N.Y. : Town)</dc:coverage>
+<dc:contributor>Hardy, Marguerite (Donor)</dc:contributor>
+<dc:date>1943-05-03</dc:date>
+<dc:source>2217 x 1627 pixels; 600 dpi</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>2006.10.30</dc:identifier>
+<dc:relation>Hardy Family Photographs</dc:relation>
+<dc:rights>Non-Exclusive License</dc:rights>
+<dc:coverage>43.035264 </dc:coverage>
+<dc:coverage>-78.792411</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/R6A001/id/11</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:R6A001/12</identifier><datestamp>2014-10-02</datestamp><setSpec>R6A001</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Group photo, Hardy family, 1943</dc:title>
+<dc:description>Jacob Hardy, Leona Kropp, Alvin Hardy, Clara Hardy. May 3, 1943. Standing outside in front of house. White dog on the left. Alvin in uniform.</dc:description>
+<dc:subject>World War, 1939-1945; World War II; Farm life</dc:subject>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Amherst (N.Y.); Amherst (N.Y. : Town)</dc:coverage>
+<dc:contributor>Hardy, Marguerite (Donor)</dc:contributor>
+<dc:date>1943-05-03</dc:date>
+<dc:source>2158 x 1607 pixels; 600 dpi</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>2006.10.31</dc:identifier>
+<dc:relation>Hardy Family Photographs</dc:relation>
+<dc:rights>Non-Exclusive License</dc:rights>
+<dc:coverage>43.0329</dc:coverage>
+<dc:coverage>-78.7686</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/R6A001/id/12</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:R6A001/13</identifier><datestamp>2014-10-02</datestamp><setSpec>R6A001</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Adeline Schoelles, Willard Hardy, Henry Dettmer, 1935.</dc:title>
+<dc:description>Adeline Schoelles, Willard Hardy, Henry Dettmer, 1935. Standing in front of barn; Willard is holding a white dog in his arms.</dc:description>
+<dc:subject>Farm life</dc:subject>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Amherst (N.Y.); Amherst (N.Y. : Town)</dc:coverage>
+<dc:contributor>Hardy, Marguerite (Donor)</dc:contributor>
+<dc:date>1935</dc:date>
+<dc:source>1707 x 2764 pixels; 600 dpi</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>2006.10.10</dc:identifier>
+<dc:relation>Hardy Family Photographs</dc:relation>
+<dc:rights>Non-Exclusive License</dc:rights>
+<dc:coverage>43.035264</dc:coverage>
+<dc:coverage>-78.792411</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/R6A001/id/13</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:R6A001/14</identifier><datestamp>2013-11-08</datestamp><setSpec>R6A001</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Clara Ernst</dc:title>
+<dc:description>Clara Ernst. Square miniature in embossed cardboard frame. Later married Jacob Hardy.</dc:description>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Amherst (N.Y.); Amherst (N.Y. : Town)</dc:coverage>
+<dc:contributor>Hardy, Marguerite (Donor)</dc:contributor>
+<dc:date>1930?</dc:date>
+<dc:source>1626 x 1860 pixels; 600 dpi</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>2006.10.14</dc:identifier>
+<dc:relation>Hardy Family Photographs</dc:relation>
+<dc:rights>Non-Exclusive License</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/R6A001/id/14</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:R6A001/15</identifier><datestamp>2014-10-02</datestamp><setSpec>R6A001</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Jacob Hardy</dc:title>
+<dc:description>Jacob Hardy, as a young man.</dc:description>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Amherst (N.Y.); Amherst (N.Y. : Town)</dc:coverage>
+<dc:contributor>Hardy, Marguerite (Donor)</dc:contributor>
+<dc:source>845 x 1201 pixels; 600 dpi</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>2006.10.15</dc:identifier>
+<dc:relation>Hardy Family Photographs</dc:relation>
+<dc:rights>Non-Exclusive License</dc:rights>
+<dc:coverage>43.035264</dc:coverage>
+<dc:coverage>-78.792411</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/R6A001/id/15</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:R6A001/16</identifier><datestamp>2013-11-08</datestamp><setSpec>R6A001</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Group photo, Hardy family, 1943</dc:title>
+<dc:description>Charles Hardy, Ervin Hardy, Ida Long Hardy, LaVerne Hardy. July 13, 1943. Standing outside, in front of barn. Ervin in uniform.</dc:description>
+<dc:subject>World War, 1939-1945; World War II; Farm life</dc:subject>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Amherst (N.Y.); Amherst (N.Y. : Town)</dc:coverage>
+<dc:contributor>Hardy, Marguerite (Donor)</dc:contributor>
+<dc:date>1943-07-13</dc:date>
+<dc:source>2220 x 1638 pixels; 600 dpi</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>2006.10.32</dc:identifier>
+<dc:relation>Hardy Family Photographs</dc:relation>
+<dc:rights>Non-Exclusive License</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/R6A001/id/16</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:R6A001/17</identifier><datestamp>2014-10-02</datestamp><setSpec>R6A001</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Group photo, Hardy family</dc:title>
+<dc:description>Philip J. Hardy, Mildred Hardy, Doris Schoelles, Alvin Hardy, Philip H. Hardy, Sr., Evelyn Hardy, Hardol Hardy, Lucy Ernst Vattes. Standing outside in snow, in front of barns and car. Alvin in uniform.</dc:description>
+<dc:subject>World War, 1939-1945; World War II; Farm life</dc:subject>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Amherst (N.Y.); Amherst (N.Y. : Town)</dc:coverage>
+<dc:contributor>Hardy, Marguerite (Donor)</dc:contributor>
+<dc:date>1943?</dc:date>
+<dc:source>2195 x 1576 pixels; 600 dpi</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>2006.10.33</dc:identifier>
+<dc:relation>Hardy Family Photographs</dc:relation>
+<dc:rights>Non-Exclusive License</dc:rights>
+<dc:coverage>43.0329</dc:coverage>
+<dc:coverage>-78.7686</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/R6A001/id/17</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:R6A001/18</identifier><datestamp>2014-10-02</datestamp><setSpec>R6A001</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Clara Hardy on the farm, 1945</dc:title>
+<dc:description>Clara Hardy on the Jacob Hardy farm. July, 1945. Sitting outside, on lawn in front of house. Dog under tree, to the right.</dc:description>
+<dc:subject>Farm life</dc:subject>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Amherst (N.Y.); Amherst (N.Y. : Town)</dc:coverage>
+<dc:contributor>Hardy, Marguerite (Donor)</dc:contributor>
+<dc:date>1945-07</dc:date>
+<dc:source>2701 x 1909 pixels; 600 dpi</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>2006.10.42</dc:identifier>
+<dc:relation>Hardy Family Photographs</dc:relation>
+<dc:rights>Non-Exclusive License</dc:rights>
+<dc:coverage>43.035264</dc:coverage>
+<dc:coverage>-78.792411</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/R6A001/id/18</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:R6A001/19</identifier><datestamp>2014-10-02</datestamp><setSpec>R6A001</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Jacob Hardy, 1930</dc:title>
+<dc:description>Jacob Hardy, 1930. In front of barn with horse.</dc:description>
+<dc:subject>Farm life</dc:subject>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Amherst (N.Y.); Amherst (N.Y. : Town)</dc:coverage>
+<dc:contributor>Hardy, Marguerite (Donor)</dc:contributor>
+<dc:date>1930</dc:date>
+<dc:source>2632 x 1672 pixels; 600 dpi</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>2006.10.9</dc:identifier>
+<dc:relation>Hardy Family Photographs</dc:relation>
+<dc:rights>Non-Exclusive License</dc:rights>
+<dc:coverage>43.035264</dc:coverage>
+<dc:coverage>-78.792411</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/R6A001/id/19</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:R6A001/20</identifier><datestamp>2014-10-02</datestamp><setSpec>R6A001</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Jacob Hardy, 1942</dc:title>
+<dc:description>Jacob Hardy. Dec., 1942. Outside near barns in snow, wearing heavy coat.</dc:description>
+<dc:subject>Farm life</dc:subject>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Amherst (N.Y.); Amherst (N.Y. : Town)</dc:coverage>
+<dc:contributor>Hardy, Marguerite (Donor)</dc:contributor>
+<dc:date>1942-12</dc:date>
+<dc:source>2150 x 1506 pixels; 600 dpi</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>2006.10.23</dc:identifier>
+<dc:relation>Hardy Family Photographs</dc:relation>
+<dc:rights>Non-Exclusive License</dc:rights>
+<dc:coverage>43.035264</dc:coverage>
+<dc:coverage>-78.792411</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/R6A001/id/20</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:R6A001/21</identifier><datestamp>2014-10-02</datestamp><setSpec>R6A001</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Clara Hardy, 1943</dc:title>
+<dc:description>Clara Hardy. Dec., 1943. Walking in between barns in the snow, wearing coat, carrying a pail.</dc:description>
+<dc:subject>Farm life</dc:subject>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Amherst (N.Y.); Amherst (N.Y. : Town)</dc:coverage>
+<dc:contributor>Hardy, Marguerite (Donor)</dc:contributor>
+<dc:date>1943-12</dc:date>
+<dc:source>2162 x 1490 pixels; 600 dpi</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>2006.10.25</dc:identifier>
+<dc:relation>Hardy Family Photographs</dc:relation>
+<dc:rights>Non-Exclusive License</dc:rights>
+<dc:coverage>43.035264</dc:coverage>
+<dc:coverage>-78.792411</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/R6A001/id/21</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:R6A001/22</identifier><datestamp>2014-10-02</datestamp><setSpec>R6A001</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Ruth and Alvin Hardy, 1945</dc:title>
+<dc:description>Ruth Crittendon Hardy and Alvin Hardy on Jacob Hardy farm, 1945. Standing in front of car.</dc:description>
+<dc:subject>Farm life</dc:subject>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Amherst (N.Y.); Amherst (N.Y. : Town)</dc:coverage>
+<dc:contributor>Hardy, Marguerite (Donor)</dc:contributor>
+<dc:date>1945</dc:date>
+<dc:source>2232 x 1660 pixels; 600 dpi</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>2006.10.27</dc:identifier>
+<dc:relation>Hardy Family Photographs</dc:relation>
+<dc:rights>Non-Exclusive License</dc:rights>
+<dc:coverage>43.035264</dc:coverage>
+<dc:coverage>-78.792411</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/R6A001/id/22</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:R6A001/23</identifier><datestamp>2013-11-08</datestamp><setSpec>R6A001</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Ervin Hardy, 1943</dc:title>
+<dc:description>Ervin Hardy. July, 1943. Standing in front of car.</dc:description>
+<dc:subject>Farm life</dc:subject>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Amherst (N.Y.); Amherst (N.Y. : Town)</dc:coverage>
+<dc:contributor>Hardy, Marguerite (Donor)</dc:contributor>
+<dc:date>1943-07</dc:date>
+<dc:source>1458 x 2120 pixels; 600 dpi</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>2006.10.37</dc:identifier>
+<dc:relation>Hardy Family Photographs</dc:relation>
+<dc:rights>Non-Exclusive License</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/R6A001/id/23</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:R6A001/24</identifier><datestamp>2014-10-02</datestamp><setSpec>R6A001</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Ruth and Alvin Hardy, wedding photo, 1945</dc:title>
+<dc:description>Wedding photo, Ruth Crittendon and Alvin Hardy. Left to right: Leo Summers, Peg Lewis, Ruth Crittendon Hardy, Alvin Hardy, Marianne, Ken, Jane Kraus. September, 1945. Outside, in front of house.</dc:description>
+<dc:subject>Farm life</dc:subject>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Amherst (N.Y.); Amherst (N.Y. : Town)</dc:coverage>
+<dc:contributor>Hardy, Marguerite (Donor)</dc:contributor>
+<dc:date>1945-09</dc:date>
+<dc:source>2244 x 1609 pixels; 600 dpi</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>2006.10.38</dc:identifier>
+<dc:relation>Hardy Family Photographs</dc:relation>
+<dc:rights>Non-Exclusive License</dc:rights>
+<dc:coverage>43.035264</dc:coverage>
+<dc:coverage>-78.792411</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/R6A001/id/24</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:R6A001/25</identifier><datestamp>2014-10-02</datestamp><setSpec>R6A001</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Ruth and Alvin Hardy wedding photo, 1945</dc:title>
+<dc:description>Wedding photo, Ruth Crittendon and Alvin Hardy. September, 1945.</dc:description>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Amherst (N.Y.); Amherst (N.Y. : Town)</dc:coverage>
+<dc:contributor>Hardy, Marguerite (Donor)</dc:contributor>
+<dc:date>1945-09</dc:date>
+<dc:source>1602 x 2273 pixels; 600 dpi</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>2006.10.39</dc:identifier>
+<dc:relation>Hardy Family Photographs</dc:relation>
+<dc:rights>Non-Exclusive License</dc:rights>
+<dc:coverage>43.035264</dc:coverage>
+<dc:coverage>-78.792411</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/R6A001/id/25</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:R6A001/26</identifier><datestamp>2013-11-08</datestamp><setSpec>R6A001</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Ida Schoelles Ernst</dc:title>
+<dc:description>Ida Schoelles Ernst. Oval miniature set in embossed carboard frame. Caption says, &quot;Aunt Ida Schoelles&quot;.</dc:description>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Amherst (N.Y.); Amherst (N.Y. : Town)</dc:coverage>
+<dc:contributor>Hardy, Marguerite (Donor)</dc:contributor>
+<dc:source>1835 x 2412 pixels; 600 dpi</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>2006.10.12</dc:identifier>
+<dc:relation>Hardy Family Photographs</dc:relation>
+<dc:rights>Non-Exclusive License</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/R6A001/id/26</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:R6A001/27</identifier><datestamp>2014-10-02</datestamp><setSpec>R6A001</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Clara, Willard and Jacob Hardy, 1937</dc:title>
+<dc:description>Clara, Willard and Jacob Hardy. June 6, 1937. Standing in front of barn, cars in background.</dc:description>
+<dc:subject>Farm life</dc:subject>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Amherst (N.Y.); Amherst (N.Y. : Town)</dc:coverage>
+<dc:contributor>Hardy, Marguerite (Donor)</dc:contributor>
+<dc:date>1937-06-06</dc:date>
+<dc:source>1210 x 1697 pixels; 600 dpi</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>2006.10.18</dc:identifier>
+<dc:relation>Hardy Family Photographs</dc:relation>
+<dc:rights>Non-Exclusive License</dc:rights>
+<dc:coverage>43.035264</dc:coverage>
+<dc:coverage>-78.792411</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/R6A001/id/27</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:R6A001/28</identifier><datestamp>2013-11-08</datestamp><setSpec>R6A001</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Class photo, School #4, 1937</dc:title>
+<dc:description>Class photo, Amherst School #4. Stahl Road, Getzville. 1937. Sarah L. Ernstine, teacher.</dc:description>
+<dc:subject>Rural schools; Schools</dc:subject>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Amherst (N.Y.); Amherst (N.Y. : Town)</dc:coverage>
+<dc:contributor>Hardy, Marguerite (Donor)</dc:contributor>
+<dc:date>1937</dc:date>
+<dc:source>4148 x 2990 pixels; 600 dpi</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>2006.10.20</dc:identifier>
+<dc:relation>Hardy Family Photographs</dc:relation>
+<dc:rights>Non-Exclusive License</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/R6A001/id/28</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:R6A001/29</identifier><datestamp>2014-10-02</datestamp><setSpec>R6A001</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Hardy farm and homestead, 1943</dc:title>
+<dc:description>Hardy farm and homestead in fall, 1943. Barn and silo.</dc:description>
+<dc:subject>Farm life</dc:subject>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Amherst (N.Y.); Amherst (N.Y. : Town)</dc:coverage>
+<dc:contributor>Hardy, Marguerite (Donor)</dc:contributor>
+<dc:date>1943</dc:date>
+<dc:source>1610 x 2284 pixels; 600 dpi</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>2006.10.35</dc:identifier>
+<dc:relation>Hardy Family Photographs</dc:relation>
+<dc:rights>Non-Exclusive License</dc:rights>
+<dc:coverage>43.035264</dc:coverage>
+<dc:coverage> -78.792411</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/R6A001/id/29</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:R6A001/30</identifier><datestamp>2013-11-08</datestamp><setSpec>R6A001</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Leona Kropp, Henry Dettmer, Doris Schoelles, 1943</dc:title>
+<dc:description>Leona Kropp, Henry Dettmer, Doris Schoelles. January, 1943. Outside in snow, in front of barn and car.</dc:description>
+<dc:subject>Farm life</dc:subject>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Amherst (N.Y.); Amherst (N.Y. : Town)</dc:coverage>
+<dc:contributor>Hardy, Marguerite (Donor)</dc:contributor>
+<dc:date>1943-01</dc:date>
+<dc:source>2785 x 2060 pixels; 600 dpi</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>2006.10.36</dc:identifier>
+<dc:relation>Hardy Family Photographs</dc:relation>
+<dc:rights>Non-Exclusive License</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/R6A001/id/30</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:R6A001/31</identifier><datestamp>2014-10-02</datestamp><setSpec>R6A001</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Clara and Jacob Hardy on the farm, 1945</dc:title>
+<dc:description>Clara Hardy and Jacob Hardy on the Jacob Hardy farm. 1945. Standing outside, in front of house.</dc:description>
+<dc:subject>Farm life</dc:subject>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Amherst (N.Y.); Amherst (N.Y. : Town)</dc:coverage>
+<dc:contributor>Hardy, Marguerite (Donor)</dc:contributor>
+<dc:date>1945</dc:date>
+<dc:source>2266 x 1660 pixels; 600 dpi</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>2006.10.43</dc:identifier>
+<dc:relation>Hardy Family Photographs</dc:relation>
+<dc:rights>Non-Exclusive License</dc:rights>
+<dc:coverage>43.035264</dc:coverage>
+<dc:coverage>-78.792411</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/R6A001/id/31</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:R6A001/32</identifier><datestamp>2013-11-08</datestamp><setSpec>R6A001</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Class photo, School #4, 1939</dc:title>
+<dc:description>Class photo, Amherst School #4. Stahl Road, Getzville. 1939. Students: Norma Stuewe, Ruth Simon, Dorothy S. Batt, Alice Simon, Betty Muck, Rena Robent, Mildred Will, Charles Rule, Louise Stuewe, Russell Little, Walter Stahl, Russell Stroke, Adnun Human, William Polman, Walter Will, Walter Simon, Billy Muck, Gloria Debolt, Janet Sutten, Herbert Mattise, Alvin Klein, Hudson Stnoke, Earl Miller, Lee Robert, Robert Mayen, Evelyn Hardy, Mildred Hardy</dc:description>
+<dc:subject>Rural schools; Schools</dc:subject>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Amherst (N.Y.); Amherst (N.Y. : Town)</dc:coverage>
+<dc:contributor>Hardy, Marguerite (Donor)</dc:contributor>
+<dc:date>1939</dc:date>
+<dc:source>1940 x 2905 pixels; 600 dpi</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>2006.10.21</dc:identifier>
+<dc:relation>Hardy Family Photographs</dc:relation>
+<dc:rights>Non-Exclusive License</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/R6A001/id/32</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:R6A001/33</identifier><datestamp>2014-10-02</datestamp><setSpec>R6A001</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Georde Streubing and Jacob Hardy, 1943</dc:title>
+<dc:description>George Streubing and Jacob Hardy. May 16, 1943. Outside, in front of fields.</dc:description>
+<dc:subject>Farm life</dc:subject>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Amherst (N.Y.); Amherst (N.Y. : Town)</dc:coverage>
+<dc:contributor>Hardy, Marguerite (Donor)</dc:contributor>
+<dc:date>1943-05-16</dc:date>
+<dc:source>1586 x 2284 pixels; 600 dpi</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>2006.10.24</dc:identifier>
+<dc:relation>Hardy Family Photographs</dc:relation>
+<dc:rights>Non-Exclusive License</dc:rights>
+<dc:coverage>43.035264</dc:coverage>
+<dc:coverage>-78.792411</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/R6A001/id/33</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:R6A001/34</identifier><datestamp>2014-10-02</datestamp><setSpec>R6A001</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Alvin Hardy, 1943</dc:title>
+<dc:description>Alvin Hardy. June 7, 1943. Alvin is in uniform.</dc:description>
+<dc:subject>World War, 1939-1945; World War II; Farm life</dc:subject>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Amherst (N.Y.); Amherst (N.Y. : Town)</dc:coverage>
+<dc:contributor>Hardy, Marguerite (Donor)</dc:contributor>
+<dc:date>1943-06-07</dc:date>
+<dc:source>1610 x 2284 pixels; 600 dpi</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>2006.10.29</dc:identifier>
+<dc:relation>Hardy Family Photographs</dc:relation>
+<dc:rights>Non-Exclusive License</dc:rights>
+<dc:coverage>43.0329</dc:coverage>
+<dc:coverage> -78.7686</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/R6A001/id/34</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:R6A001/35</identifier><datestamp>2014-10-02</datestamp><setSpec>R6A001</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Henry Dettmer and Jacob Hardy, 1943</dc:title>
+<dc:description>Henry Dettmer and Jacob Hardy at the Philip Hardy farm. January, 1943. Outside in snow, in front of barn.</dc:description>
+<dc:subject>Farm life</dc:subject>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Amherst (N.Y.); Amherst (N.Y. : Town)</dc:coverage>
+<dc:contributor>Hardy, Marguerite (Donor)</dc:contributor>
+<dc:date>1943-01</dc:date>
+<dc:source>2013 x 2825 pixels; 600 dpi</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>2006.10.40</dc:identifier>
+<dc:relation>Hardy Family Photographs</dc:relation>
+<dc:rights>Non-Exclusive License</dc:rights>
+<dc:coverage>43.035264</dc:coverage>
+<dc:coverage>-78.792411</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/R6A001/id/35</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:R6A001/36</identifier><datestamp>2014-10-02</datestamp><setSpec>R6A001</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Cattle on the Jacob Hardy farm</dc:title>
+<dc:description>Cattle on the Jacob Hardy farm.</dc:description>
+<dc:subject>Farm life</dc:subject>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Amherst (N.Y.); Amherst (N.Y. : Town)</dc:coverage>
+<dc:contributor>Hardy, Marguerite (Donor)</dc:contributor>
+<dc:source>1891 x 1282 pixels; 600 dpi</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>2006.10.41</dc:identifier>
+<dc:relation>Hardy Family Photographs</dc:relation>
+<dc:rights>Non-Exclusive License</dc:rights>
+<dc:coverage>43.035264</dc:coverage>
+<dc:coverage>-78.792411</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/R6A001/id/36</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:R6A001/37</identifier><datestamp>2014-10-02</datestamp><setSpec>R6A001</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Hardy homestead, 1928</dc:title>
+<dc:description>Hardy homestead, 1928. Horses pulling wagon, unidentified man driving.</dc:description>
+<dc:subject>Farm life</dc:subject>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Amherst (N.Y.); Amherst (N.Y. : Town)</dc:coverage>
+<dc:contributor>Hardy, Marguerite (Donor)</dc:contributor>
+<dc:date>1928</dc:date>
+<dc:source>3278 x 1942 pixels; 600 dpi</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>2006.10.7</dc:identifier>
+<dc:relation>Hardy Family Photographs</dc:relation>
+<dc:rights>Non-Exclusive License</dc:rights>
+<dc:coverage>43.035264</dc:coverage>
+<dc:coverage>-78.792411</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/R6A001/id/37</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:R6A001/38</identifier><datestamp>2013-11-08</datestamp><setSpec>R6A001</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Joe and Frieda Hardy</dc:title>
+<dc:description>Joseph G. Hardy and Frieda Schinschack Hardy. Posing in front seat of car, through window; Joseph is at the wheel. Caption says &quot;Uncle Joe &amp; Aunt Frieda&quot; [sic]. Possible wedding photo.</dc:description>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Amherst (N.Y.); Amherst (N.Y. : Town)</dc:coverage>
+<dc:contributor>Hardy, Marguerite (Donor)</dc:contributor>
+<dc:source>2662 x 1712 pixels; 600 dpi</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>2006.10.11</dc:identifier>
+<dc:relation>Hardy Family Photographs</dc:relation>
+<dc:rights>Non-Exclusive License</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/R6A001/id/38</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:R6A001/39</identifier><datestamp>2013-11-08</datestamp><setSpec>R6A001</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Clara Ernst</dc:title>
+<dc:description>Clara Ernst, 15 years old. Oval miniature set in cardboard frame. Caption says, &quot;Clara Ernst, 15 years old&quot;. Later married Jacob Hardy.</dc:description>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Amherst (N.Y.); Amherst (N.Y. : Town)</dc:coverage>
+<dc:contributor>Hardy, Marguerite (Donor)</dc:contributor>
+<dc:date>1903</dc:date>
+<dc:source>1316 x 2072 pixels; 600 dpi</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>2006.10.13</dc:identifier>
+<dc:relation>Hardy Family Photographs</dc:relation>
+<dc:rights>Non-Exclusive License</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/R6A001/id/39</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:R6A001/40</identifier><datestamp>2013-11-08</datestamp><setSpec>R6A001</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Willard Hardy, 1937</dc:title>
+<dc:description>Willard Hardy, 1937. Standing in front of car.</dc:description>
+<dc:subject>Farm life</dc:subject>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Amherst (N.Y.); Amherst (N.Y. : Town)</dc:coverage>
+<dc:contributor>Hardy, Marguerite (Donor)</dc:contributor>
+<dc:date>1937</dc:date>
+<dc:source>1480 x 2096 pixels; 600 dpi</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>2006.10.16</dc:identifier>
+<dc:relation>Hardy Family Photographs</dc:relation>
+<dc:rights>Non-Exclusive License</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/R6A001/id/40</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:R6A001/41</identifier><datestamp>2014-10-02</datestamp><setSpec>R6A001</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Willard, Jacob and Clara Hardy, in group photo, 1939</dc:title>
+<dc:description>L to R: Willard, Jacob and Clara Hardy. Others unidentified. 1939.</dc:description>
+<dc:subject>Farm life</dc:subject>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Amherst (N.Y.); Amherst (N.Y. : Town)</dc:coverage>
+<dc:contributor>Hardy, Marguerite (Donor)</dc:contributor>
+<dc:date>1939</dc:date>
+<dc:source>2126 x 1532 pixels; 600 dpi</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>2006.10.17</dc:identifier>
+<dc:relation>Hardy Family Photographs</dc:relation>
+<dc:rights>Non-Exclusive License</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/R6A001/id/41</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:R6A001/42</identifier><datestamp>2013-11-08</datestamp><setSpec>R6A001</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Hardy family, 1943</dc:title>
+<dc:description>Hardy family, May 16, 1943. Standing in front of barns and trees, five adults and two children.</dc:description>
+<dc:subject>Farm life</dc:subject>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Amherst (N.Y.); Amherst (N.Y. : Town)</dc:coverage>
+<dc:contributor>Hardy, Marguerite (Donor)</dc:contributor>
+<dc:date>1943-05-16</dc:date>
+<dc:source>2220 x 1638; 600 dpi.</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>2006.10.22</dc:identifier>
+<dc:relation>Hardy Family Photographs</dc:relation>
+<dc:rights>Non-Exclusive License</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/R6A001/id/42</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:R6A001/43</identifier><datestamp>2014-10-02</datestamp><setSpec>R6A001</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Group photo, Hardy family, 1943</dc:title>
+<dc:description>Mildred Hardy, Harold Hardy, Alvin Hardy, Leona Kropp, Evelyn Hardy. June 7, 1943. Alvin is in uniform.</dc:description>
+<dc:subject>World War, 1939-1945; World War II; Farm life</dc:subject>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Amherst (N.Y.); Amherst (N.Y. : Town)</dc:coverage>
+<dc:contributor>Hardy, Marguerite (Donor)</dc:contributor>
+<dc:date>1943-06-07</dc:date>
+<dc:source>2220 x 1630 pixels; 600 dpi</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>2006.10.28</dc:identifier>
+<dc:relation>Hardy Family Photographs</dc:relation>
+<dc:rights>Non-Exclusive License</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/R6A001/id/43</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:R6A001/44</identifier><datestamp>2014-10-02</datestamp><setSpec>R6A001</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Jacob Hardy on farm, 1945</dc:title>
+<dc:description>Jacob Hardy. 1945. Standing outside in paddock, in snow, with cow.</dc:description>
+<dc:subject>Farm life</dc:subject>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Amherst (N.Y.); Amherst (N.Y. : Town)</dc:coverage>
+<dc:contributor>Hardy, Marguerite (Donor)</dc:contributor>
+<dc:date>1945</dc:date>
+<dc:source>1646 x 2284 pixels; 600 dpi</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>2006.10.44</dc:identifier>
+<dc:relation>Hardy Family Photographs</dc:relation>
+<dc:rights>Non-Exclusive License</dc:rights>
+<dc:coverage>43.035264</dc:coverage>
+<dc:coverage>-78.792411</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/R6A001/id/44</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:R6A001/45</identifier><datestamp>2014-10-02</datestamp><setSpec>R6A001</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Clara Hardy, 1944</dc:title>
+<dc:description>Clara Hardy. 1944. Outside barn, next to wagon. Small dog standing beside her, on wagon.</dc:description>
+<dc:subject>Farm life</dc:subject>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Amherst (N.Y.); Amherst (N.Y. : Town)</dc:coverage>
+<dc:contributor>Hardy, Marguerite (Donor)</dc:contributor>
+<dc:date>1944</dc:date>
+<dc:source>1602 x 2276 pixels; 600 dpi</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>2006.10.45</dc:identifier>
+<dc:relation>Hardy Family Photographs</dc:relation>
+<dc:rights>Non-Exclusive License</dc:rights>
+<dc:coverage>43.035264</dc:coverage>
+<dc:coverage>-78.792411</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/R6A001/id/45</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:R6A001/46</identifier><datestamp>2014-10-02</datestamp><setSpec>R6A001</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Jacob Hardy farm, 1944</dc:title>
+<dc:description>Jacob Hardy farm. 1944.</dc:description>
+<dc:subject>Farm life</dc:subject>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Amherst (N.Y.); Amherst (N.Y. : Town)</dc:coverage>
+<dc:contributor>Hardy, Marguerite (Donor)</dc:contributor>
+<dc:date>1944</dc:date>
+<dc:source>2670 x 1788 pixels; 600 dpi</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>2006.10.46</dc:identifier>
+<dc:relation>Hardy Family Photographs</dc:relation>
+<dc:rights>Non-Exclusive License</dc:rights>
+<dc:coverage>43.035264</dc:coverage>
+<dc:coverage> -78.792411</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/R6A001/id/46</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:R6A001/47</identifier><datestamp>2013-11-08</datestamp><setSpec>R6A001</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Lester and Chester Spoth, 1947</dc:title>
+<dc:description>Lester and Chester Spoth (twins). 1947. Standing on the road, in front of car, in snow. Caption reads, &quot;1947 The Twin Spoths&quot;.</dc:description>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Amherst (N.Y.); Amherst (N.Y. : Town)</dc:coverage>
+<dc:contributor>Hardy, Marguerite (Donor)</dc:contributor>
+<dc:date>1947</dc:date>
+<dc:source>1910 x 2561 pixels; 600 dpi</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>2006.10.47</dc:identifier>
+<dc:relation>Hardy Family Photographs</dc:relation>
+<dc:rights>Non-Exclusive License</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/R6A001/id/47</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:R6A001/48</identifier><datestamp>2013-11-08</datestamp><setSpec>R6A001</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Lester and Chester Spoth, 1947</dc:title>
+<dc:description>Lester and Chester Spoth (twins). 1947. Standing in front of road sign at side of road, in snow. Sign reads, &quot;Hamilton - Toronto - Straight - Ahead.&quot; Caption reads, &quot;1947 Lester &amp; Chester Spoth.&quot;</dc:description>
+<dc:coverage>Canada</dc:coverage>
+<dc:contributor>Hardy, Marguerite (Donor)</dc:contributor>
+<dc:date>1947</dc:date>
+<dc:source>2529 x 1901 pixels; 600 dpi</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>2006.10.48</dc:identifier>
+<dc:relation>Hardy Family Photographs</dc:relation>
+<dc:rights>Non-Exclusive License</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/R6A001/id/48</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:R6A001/49</identifier><datestamp>2014-10-02</datestamp><setSpec>R6A001</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Philip Hardy barn</dc:title>
+<dc:description>Philip Joseph Hardy barn on Campbell Boulevard. Adults: Adeline Schoelles, Ida Schoelles, Doris Schoelles. Children: Alvin Hardy, Harold Hardy, Mildred Hardy, Evelyn Hardy. This barn is still standing (circa 2006).</dc:description>
+<dc:subject>Farm life</dc:subject>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Amherst (N.Y.); Amherst (N.Y. : Town)</dc:coverage>
+<dc:contributor>Hardy, Marguerite (Donor)</dc:contributor>
+<dc:date>1946</dc:date>
+<dc:source>2916 x 4049 pixels; 600 dpi</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>2006.10.49</dc:identifier>
+<dc:relation>Hardy Family Photographs</dc:relation>
+<dc:rights>Non-Exclusive License</dc:rights>
+<dc:coverage>43.0329</dc:coverage>
+<dc:coverage>-78.7686</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/R6A001/id/49</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:R6A001/50</identifier><datestamp>2014-10-02</datestamp><setSpec>R6A001</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Aerial view, Jacob Hardy farm, 1946</dc:title>
+<dc:description>Aerial view of the Jacob Hardy farm, 2050 N. French Road. 1946.</dc:description>
+<dc:subject>Farm life</dc:subject>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Amherst (N.Y.); Amherst (N.Y. : Town)</dc:coverage>
+<dc:contributor>Hardy, Marguerite (Donor)</dc:contributor>
+<dc:date>1946</dc:date>
+<dc:source>2819 x 2267 pixels; 300 dpi</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>2006.10.50</dc:identifier>
+<dc:relation>Hardy Family Photographs</dc:relation>
+<dc:rights>Non-Exclusive License</dc:rights>
+<dc:coverage>43.035264</dc:coverage>
+<dc:coverage>-78.792411</dc:coverage>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/R6A001/id/50</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:R6A001/51</identifier><datestamp>2012-05-16</datestamp><setSpec>R6A001</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:R6A001/2791</identifier><datestamp>2007-05-24</datestamp><setSpec>R6A001</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>A history of the town of Amherst, New York, 1818-1965</dc:title>
+<dc:description>A History of the Town of Amherst, N.Y., 1818-1965, was published by the Town of Amherst in 1965 and written by the Town Clerk and Town Historian, Sue Miller Young. A descendent of some of Amherst’s oldest families, Mrs. Young was one of the founding members of the Williamsville Historical Society and an accomplished archer. This book, the first book-length definitive history of the Town of Amherst, has been out of print for quite some time and is therefore in frequent demand by local historians and genealogists.</dc:description>
+<dc:creator>Young, Sue Miller, 1886-1967</dc:creator>
+<dc:subject>Amherst (N.Y.)--History; Amherst (N.Y. : Town)--History; New York (State)--History; New York (State), Western--History</dc:subject>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Amherst (N.Y.); Amherst (N.Y. : Town)</dc:coverage>
+<dc:publisher>Amherst (N.Y. : Town). Town Board</dc:publisher>
+<dc:date>1965</dc:date>
+<dc:source>xx, 306 p., [32] p. of plates : ill., maps, ports. ; 24 cm.</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>2208024</dc:identifier>
+<dc:relation>History of the Town of Amherst, New York, 1818-1965</dc:relation>
+<dc:rights>Copyright 1965, Town of Amherst, N.Y.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/R6A001/id/2791</dc:identifier></oai_dc:dc>
+</metadata>
+</record></ListRecords></OAI-PMH>

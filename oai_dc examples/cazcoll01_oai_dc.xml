@@ -1,0 +1,1629 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2014-12-03T15:18:33Z</responseDate><request verb="ListRecords" metadataPrefix="oai_dc" set="cazcoll01">http://cdm16694.contentdm.oclc.org/oai/oai.php</request><ListRecords><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/0</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/1</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/2</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/3</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/4</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/5</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/6</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/7</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/8</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/9</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/10</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/11</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/12</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/13</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/14</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/15</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/16</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/17</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/18</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/19</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/20</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/21</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/22</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/23</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/24</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/25</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/26</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/27</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/28</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/29</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/30</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/31</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/32</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/33</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/34</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/35</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/36</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/37</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/38</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/39</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/40</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/41</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/42</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/43</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/44</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/45</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/46</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/47</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/48</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/49</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/50</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/51</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/52</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/53</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/54</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Fashion advertisement with three women</dc:title>
+<dc:description>A set of three drawings: left side is a high-heel shoe and a stocking; to the right side is a group of three women with the sun rising behind them with a fourth woman in a hat that is placed at the lower right-hand corner of the rectangle with the three women.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jp2</dc:format>
+<dc:identifier>DCL073</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation to determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/54</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/55</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Two women feeding a bird.</dc:title>
+<dc:description>Copy of drawing.  Two women, one of who is feeding a bird from her hand.  Border around the drawing is made up of a thick line broken up by dashes.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jp2</dc:format>
+<dc:identifier>DCL063</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation to determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/55</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/56</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Department store advertisement</dc:title>
+<dc:description>Newsprint paper proof of a series of illustrations: a shoe; a woman in a slip; Burdine&#x27;s Department Store building; perfume bottles; a lamp; and a camel 9&quot;w x 12 1/8&quot; h.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jp2</dc:format>
+<dc:identifier>68</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation to determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/56</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/57</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Three Women Cooking</dc:title>
+<dc:description>Pen and ink. One woman in three separate poses in kitchen environment. &quot;5 1/4&quot; in blue crayon.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jp2</dc:format>
+<dc:identifier>DCL025</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation to determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/57</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/58</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Woman with Hands Clasped</dc:title>
+<dc:description>Pen and Ink. Standing woman with head turned to the side and hands clasped.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jp2</dc:format>
+<dc:identifier>DCLO24</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation to determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/58</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/59</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Three purses</dc:title>
+<dc:description>Sketches of three purses. &quot;5862&quot; in pencil.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jp2</dc:format>
+<dc:identifier>DCL026</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation to determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/59</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/60</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Newspaper ad for Daytime Frocks</dc:title>
+<dc:description>Newspaper tear sheet of Burdine&#x27;s ad mounted on lightweight board. &quot;Just unpacked! Replicas of Paris Daytime Frocks! Special Monday!&quot;</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image; Text</dc:type>
+<dc:format>image/jp2</dc:format>
+<dc:identifier>DCL016</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation to determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/60</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/61</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/62</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Two women standing with a beach ball.</dc:title>
+<dc:description>Two women standing with a beach ball.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jp2</dc:format>
+<dc:identifier>DCL041</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation to determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/62</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/63</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Two women walking and one on the side</dc:title>
+<dc:description>Pen and Ink. Three women in two groups. A single woman on right with one hand in her coat pocket and the other  on her coat belt. The group on the left are close to each other with one of them holding the other by the arm.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jp2</dc:format>
+<dc:identifier>DCL031</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation to determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/63</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/64</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Sketch of a store clerk and customer</dc:title>
+<dc:description>Pen and Ink. A cartoon-like sketch depicting a startled clerk in a department store. She is looking at a woman whose back is toward the viewer who seems to be a flamboyant dresser. The sign in the background reads &quot;night gowns.&quot;</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jp2</dc:format>
+<dc:identifier>DCL015</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation to determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/64</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/65</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Women&#x27;s Fashion advertisement</dc:title>
+<dc:description>Copy of sketch. One woman with head turned to one side and hands at near right angles to her sides.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jp2</dc:format>
+<dc:identifier>DCL012</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation to determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/65</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/66</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Woman in a robe</dc:title>
+<dc:description>Pen and Ink. Woman standing wearing a 3/4 length robe and high heels. &quot;Sunday News&quot; and 4&quot; in blue crayon.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jp2</dc:format>
+<dc:identifier>DCL028</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation to determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/66</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/67</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Hat advertisement</dc:title>
+<dc:description>Pen and Ink. A composite of four women&#x27;s heads advertising hats. The faces have blue crayon shading.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jp2</dc:format>
+<dc:identifier>DCL057</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation to determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/67</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/68</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Woman in a black and white ensemble with hand on hip</dc:title>
+<dc:description>Pen and Ink. Standing woman with hat; high heels. Skirt and jacket match: black with white clover leaves outlined in white.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jp2</dc:format>
+<dc:identifier>DCL023</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation to determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/68</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/69</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Three women in coats and hats</dc:title>
+<dc:description>Tear sheet from Vogue magazine. April 15, 1927, pages 73-74. &quot;Vogue&#x27;s Fortnightly Wardrobe&quot;.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jp2</dc:format>
+<dc:identifier>DCL013</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation to determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/69</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/70</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>1000 Pieces of Lingerie newspaper ad</dc:title>
+<dc:description>Pen and Ink. &quot;1000 Pieces of Lingerie $2.95.&quot;</dc:description>
+<dc:creator>Monroe, Jessie Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image; Text</dc:type>
+<dc:format>image/jp2</dc:format>
+<dc:identifier>DCL022</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation to determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/70</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/71</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Two Women Modeling Clothes</dc:title>
+<dc:description>Copy of sketch. Two women, each standing in front of foliage/fronds.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jp2</dc:format>
+<dc:identifier>DCL019</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation to determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/71</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/72</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Jewelry advertisement</dc:title>
+<dc:description>Pen and Ink. A series of sketches of jewelry items arranged vertically almost as a bookmark.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jp2</dc:format>
+<dc:identifier>DCL010</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation to determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/72</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/73</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Woman gazing out at the ocean</dc:title>
+<dc:description>Pen and Ink. Woman sitting on wall with ocean and palm tree in background. She is wearing a long summer skirt with her back exposed. She has a beret on her head. &quot;Palm Beach mount&quot; in blue crayon.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jp2</dc:format>
+<dc:identifier>DCL014</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation to determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/73</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/74</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Two women - one upside down in polka dots</dc:title>
+<dc:description>Two drawings &quot;upside down&quot; to each other. One woman in polka dot dress; other woman sitting on chair. 12 3/8&quot; w x 13 3/4&quot; h.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jp2</dc:format>
+<dc:identifier>36</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation to determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/74</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/75</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Woman with arms outstretched.</dc:title>
+<dc:description>&quot;Coming! A Startling Sale of Ensembles&quot; is printed in black ink.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>Image/jp2</dc:format>
+<dc:identifier>085</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation ot dtermine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citiation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/75</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/76</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Four women in dresses and three children at play.</dc:title>
+<dc:description>Four separate drawings. top has three women in front of a pentagon shape; on their right is a woman standing alone; below her is a hoe; on the bottom is a group of three children around a camp fire and cooking pot. The girl is holding a tennis racket.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>Image/jp2</dc:format>
+<dc:identifier>086</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation ot determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/76</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/77</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Three woman standing next to each other.</dc:title>
+<dc:description>Copy of a sketch. Three women in a group. Woman on left has a purse in one hand. All three women have their right arms akimbo. Each woman is wearing a blouse, skirt and hat.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>Image/jp2</dc:format>
+<dc:identifier>087</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation ot determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/77</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/78</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Girl with doll.</dc:title>
+<dc:description>Pen and Ink. A girl standing and holding a doll. The girl has a bow in her hair. The word &quot;Friday&quot; is written in pencil.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>Image/jp2</dc:format>
+<dc:identifier>058</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation ot dtermine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citiation format for this material is as follows: &quot;The Jesse Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/78</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/79</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Woman standing with arm on hip.</dc:title>
+<dc:description>Pen and Ink. Woman standing with one arm akimbo. She has a black belt tied around her waist with the ends hanging in the center.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>Image/jp2</dc:format>
+<dc:identifier>083</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation to determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/79</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/80</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Two men and a woman.</dc:title>
+<dc:description>Pen and Ink. Two men and a woman acting out some sort of scene. The woman is on the right and looking away from the two men. The man in the middle is turned away and is hold his head in his hands while the man on the left is gesturing with his hands. (his suit seems very small for his size. &quot;Wed News&quot; in blue crayon.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>Image/jp2</dc:format>
+<dc:identifier>084</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation ot dtermine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citiation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/80</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/81</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Woman on patio.</dc:title>
+<dc:description>Copy of sketch (half-tone). Woman on patio in formal gown looking over at palm tree and ocean.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>Image/jp2</dc:format>
+<dc:identifier>060</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation ot dtermine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citiation format for this material is as follows: &quot;The Jesse Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/81</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/82</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Sketch of semi circle with shoes and dollar amount.</dc:title>
+<dc:description>A semi-circle giving the impression of a clock. The numbers 6-7-8-9-10-11-12 are visible beneath examples of women&#x27;s shoes. The price of $5 is in the center of the &quot;clock.&quot;</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>Image/jp2</dc:format>
+<dc:identifier>077</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation ot dtermine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citiation format for this material is as follows: &quot;The Jesse Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/82</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/83</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Two women standing next to each other.</dc:title>
+<dc:description>Pen and Ink. Two women side by side. Woman on left has her arms down with one had holding a purse. Women on right has one arm akimbo with other hand holding a purse.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>Image/jp2</dc:format>
+<dc:identifier>070</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation to determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jesse Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/83</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/84</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Woman standing with umbrella.</dc:title>
+<dc:description>Copy of sketch. Woman in black on-piece bathing suit. she is standing on beach with a fish leaping from the water on her right and a smiling starfish on her left. She is also wearing a beach wrap and carrying an umbrella over her shoulder.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>Image/jp2</dc:format>
+<dc:identifier>055</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation ot dtermine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citiation format for this material is as follows: &quot;The Jesse Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/84</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/85</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Two boys and two girls posing for a clothing ad.</dc:title>
+<dc:description>Pen and Ink. two groups of children&#x27;s ads one on top of the other. On the top of page are two boys in shorts with shirts in blue outlined display boxes. The two girls on the bottom of the page are in their underclothes with blue outlined display boxes of other pieces of underclothing.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>Image/jp2</dc:format>
+<dc:identifier>092</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation ot determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/85</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/86</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Household items.</dc:title>
+<dc:description>Pen and Ink. Household items. On top a tray with a pitcher in the center and three glasses on each side. Below this is a matching coffee pot and coffee cup and saucer. The word &quot;Herald&quot; in pencil.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>Image/jp2</dc:format>
+<dc:identifier>059</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation ot dtermine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citiation format for this material is as follows: &quot;The Jesse Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/86</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/87</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Woman and rocking horse.</dc:title>
+<dc:description>Newspaper proof sheet. Woman riding a rocking horse.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>Image/jp2</dc:format>
+<dc:identifier>090</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation ot determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/87</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/88</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Five women. Two sitting and three standing.</dc:title>
+<dc:description>Copy of sketch. Two sitting women in hats watching a fashion show. Three fashion models on stage.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>Image/jp2</dc:format>
+<dc:identifier>056</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation ot dtermine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citiation format for this material is as follows: &quot;The Jesse Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/88</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/89</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Girl, boy and baby.</dc:title>
+<dc:description>Copy of sketch. A girl holding a paper bell decoration. A drawing of a boy&#x27;s head with the words &quot;For Brother&quot; and a drawing of a baby with the words &quot;For Baby.&quot;</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>Image/jp2</dc:format>
+<dc:identifier>074</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation ot determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/89</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/90</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Woman in jacket holding a purse.</dc:title>
+<dc:description>Copy of sketch. Two drawings on one sheet. Top drawing is of a woman in a hat and a checkered jacket with pleated skirt. Drawing is made only to her waist. The woman is leaning with one arm on a table and she has a purse in the other hand. Below her are three pairs of legs that have what appears to be children&#x27;s shoes on their feet. Flower pots are also shown with one person&#x27;s hand reaching for a flower.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>Image/jp2</dc:format>
+<dc:identifier>064</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation ot determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/90</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/91</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Standing woman in raincoat.</dc:title>
+<dc:description>Pen and Ink. Woman in raincoat standing in front of a round window. Two ducks are splashing on the ground at her feet.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>Image/jp2</dc:format>
+<dc:identifier>053</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation ot determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/91</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/92</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Three women wearing dresses and hats.</dc:title>
+<dc:description>Copy of sketch. Three women standing. First woman in black outfit with cape and hat. Second woman in pleated skirt with handbag in hand and standing in front of a Spanish tile roofed building. Third woman is looking straight ahead wearing a shirt, hat and holding hands together.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>Image/jp2</dc:format>
+<dc:identifier>052</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation ot determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/92</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/93</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Woman in dress and beret.</dc:title>
+<dc:description>Pen and Ink. A standing woman wearing a long dress, a beret and bracelets on each wrist. The word &quot;Herald&#x27; written in blue crayon.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>Image/jp2</dc:format>
+<dc:identifier>081</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation ot determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/93</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/94</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Woman holding a big purse.</dc:title>
+<dc:description>Copy of sketch. Woman in short, summer dress with one arm holding a large handbag and the other resting on a wall. &quot;Bonnie&quot; written in blue crayon on back.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>Image/jp2</dc:format>
+<dc:identifier>073</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation ot determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/94</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/95</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Man in shirt and tie.</dc:title>
+<dc:description>Man wearing a white shirt and black polka-dot tie. He is holding a cigarette and a cigarette case in his hands.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>Image/jp2</dc:format>
+<dc:identifier>069</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation ot determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/95</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/96</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Two women in pleated skirts.</dc:title>
+<dc:description>Pen and Ink. Two women standing and wearing pleated skirts. The words &quot;Sunday News - Ben Day, 6 1/2 written in blue crayon.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>Image/jp2</dc:format>
+<dc:identifier>095</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation ot determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/96</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/97</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Standing woman with hand raised.</dc:title>
+<dc:description>Pen and ink. One standing woman with on hand raised wearing a full length dress decorated with roses.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>Image/jp2</dc:format>
+<dc:identifier>079</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation ot determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/97</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/98</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>One standing woman in dress.</dc:title>
+<dc:description>Pen and Ink. Woman standing wearing a suit and holding a purse in her hand. A hill and Spanish style building is in background with palm trees. &quot;Burdines Thurs News&quot; written in blue crayon.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>Image/jp2</dc:format>
+<dc:identifier>061</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation ot determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/98</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/99</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Five different images in a row.</dc:title>
+<dc:description>Newspaper proof tear sheet. Series of five&quot;windows.&quot; Left to right: Spanish dancer with fan; a man with mustache in pajamas; a boy in a sweater and checkered pants; a pair of woman&#x27;s legs; a balding man with a dress shoe in foreground.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>Image/jp2</dc:format>
+<dc:identifier>051</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation ot determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/99</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/100</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Four standing women modeling dresses.</dc:title>
+<dc:description>Copy of sketch. Four standing women in a kind of paper cut-out motif. Clockwise: Upper right woman has hand on her thigh and a bow on her shoulder; lower right is a woman holding a box with a bow.; upper left woman is clapping her hands; lower left woman is holding a card.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>Image/jp2</dc:format>
+<dc:identifier>068</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation ot determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/100</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/101</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Woman sitting at desk.</dc:title>
+<dc:description>Copy of sketch. Woman sitting at desk in front of typewriter with fan on and upright telephone on other side of the desk. She is typing &quot;Burdine&#x27;s close at 12 o&#x27;clock on Thursday. Drawing of a woman&#x27;s shoe on bottom of page.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>Image/jp2</dc:format>
+<dc:identifier>113</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation ot determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/101</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/102</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Woman in dress and household items.</dc:title>
+<dc:description>Pen and Ink. Series of drawings. On right is a standing woman in a polka dot dress. On the left are ten sketches of household items (iron, toaster, coffee pot, etc.) and a mesh purse, cased cigarette lighter/holder, etc.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>Image/jp2</dc:format>
+<dc:identifier>097</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation ot determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/102</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/103</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Four standing women.</dc:title>
+<dc:description>Pen and Ink. Four women, two highlighted in the foreground and two outlined in the background. The picture includes sofas, a lamp and a bookcase. The word &quot;Sunday&quot; is printed on the top of the page.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>Image/jp2</dc:format>
+<dc:identifier>066</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation ot determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/103</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/104</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Woman running.</dc:title>
+<dc:description>Copy of sketch. Image of a woman running and losing her hat in the process. She is carrying and losing magazines. The words &quot;A Right Merry Christmas&quot; and &quot;Ethyl Marshall&quot; are printed on the page. The magazine titles are Style, Woman&#x27;s Wear, Vogue and Harpers.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>Image/jp2</dc:format>
+<dc:identifier>075</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation ot determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/104</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/105</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>One woman with hand behind her back.</dc:title>
+<dc:description>Pen and Ink. Woman with one arm behind her back and in the other hand holding a book or piece of paper to her chin. &quot;Monday News&quot; and &quot;Ben Day&#x27; in pencil. There are large bows on her shoulder and hip.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>Image/jp2</dc:format>
+<dc:identifier>063</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation ot determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/105</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/106</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Man with white shirt and tie.</dc:title>
+<dc:description>Pen and Ink. A man in a white shirt and tie who is reproduced seven times. He is holding a cigarette in his hand. &quot;Friday News&quot; is printed in blue crayon.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>Image/jp2</dc:format>
+<dc:identifier>103</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation ot determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/106</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/107</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Woman standing in formal dress.</dc:title>
+<dc:description>Pen and Ink. Woman leaning against a wall wearing a long dress, with a necklace and a bracelet on each wrist.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>Image/jp2</dc:format>
+<dc:identifier>110</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation ot determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/107</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/108</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Five women modeling dresses.</dc:title>
+<dc:description>Copy of sketch. Five women standing in line. Two on right hand side are wearing hats. Middle woman has her hand on top of her head.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>Image/jp2</dc:format>
+<dc:identifier>054</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation ot determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/108</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/109</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Woman standing and woman&#x27;s head and arm.</dc:title>
+<dc:description>Pen and Ink. Two drawings. Young woman standing and leaning on right. She is wearing a check suit and wearing a hat. On the left is a drawing of woman&#x27;s face with her hand holding a handbag.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>Image/jp2</dc:format>
+<dc:identifier>088</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation ot determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/109</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/110</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Woman standing with hand on hip.</dc:title>
+<dc:description>Pen and Ink. Standing woman in a skirt and a high neck blouse. The blouse has flowers and the top is tied in a bow.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>Image/jp2</dc:format>
+<dc:identifier>062</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation ot determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/110</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/111</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Two purses and shoes.</dc:title>
+<dc:description>Pen and Ink. Sketches of two handbags and two high heel shoes. &quot;Sunday&quot; and &quot;All 1/2 size&quot; written in pencil.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>Image/jp2</dc:format>
+<dc:identifier>094</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation ot determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/111</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/112</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Series of drawings.</dc:title>
+<dc:description>Copy of sketch. Series of drawings. From left to right: three shoes stacked on top of each other; a doily; a woman with jewelry around her; another woman walking; and a woman in undergarments.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>Image/jp2</dc:format>
+<dc:identifier>JBM110</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation ot determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/112</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/113</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Two women standing next to each other.</dc:title>
+<dc:description>Pen and Ink. Two women standing and modeling undergarments. Small table with vase in the background.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>Image/jp2</dc:format>
+<dc:identifier>145</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation ot determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/113</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/114</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Four standing women.</dc:title>
+<dc:description>Pen and Ink. Two women in foreground in coats and holding purses and two women in background one with her back to the picture.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>Image/jp2</dc:format>
+<dc:identifier>109</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation ot determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/114</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/115</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Woman sitting under a palm tree.</dc:title>
+<dc:description>Pen and Ink. Woman sitting with knees crosses with palm tree in background. She is wearing a summer full-length dress with large and small clover shaped petals. &quot;Palm Beach News&#x27; and &quot;Must go 9 A.M. Thur.&quot; in blue ink.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>Image/jp2</dc:format>
+<dc:identifier>089</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation ot determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/115</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/116</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Tear sheet advertisement.</dc:title>
+<dc:description>Tear sheet from Vogue magazine dated December 21, 1929, pages 15-16. Fashion ad for Burdine&#x27;s -Miami.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>Image/jp2</dc:format>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation ot determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/116</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/117</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/118</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Composite of three different drawings.</dc:title>
+<dc:description>Composite of drawings. On right two women at the horse races or a tennis game. One of the women is holding a pair of binoculars. Below them is and upside-down pair of shoes. On the left side of page is a kind of bookmarker of various circular designs.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>Image/jp2</dc:format>
+<dc:identifier>DCL048</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation ot determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/118</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/119</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Two men working in a tailor shop.</dc:title>
+<dc:description>Pen and Ink. A scene depicting a tailor/designer shop with two men working with their faces away from the viewer. One man is ironing, the other is sewing by hand  by two open windows. A sewing machine is in the foreground. The word &quot;Monday&quot; written in pencil in the right hand corner of the page.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>Image/jp2</dc:format>
+<dc:identifier>DCL033</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation ot determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/119</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/120</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/121</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/122</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Woman wearing a hat and glove.</dc:title>
+<dc:description>Pen and Ink. Woman in foreground wearing a skirt and jacket. She has a hat and her hand on her hip is wearing a glove. The jacket has two tassels and a zippered pocket. In the background is a scene of a football game. Two football players with their backs to the viewer and one woman spectator with her back to the viewer.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>Image/jp2</dc:format>
+<dc:identifier>DCL183</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation ot determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/122</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/123</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Four boys with hands in their pockets.</dc:title>
+<dc:description>Pen and Ink. Four boys pasted onto sheet. They have their hands in their pockets wearing shorts, shirts and ties. One boy has a vest on. &quot;Thursday News&quot; is printed in blue crayon at the bottom of the page.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>Image/jp2</dc:format>
+<dc:identifier>DCL074</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation ot determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/123</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/124</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Two women standing in dresses.</dc:title>
+<dc:description>Pen and Ink. Two women modeling dresses. The woman on left has gloves on and is holding a hat. The woman on the right is wearing a hat and has her hand on her shoulder. The Eiffel Tower is behind them and it is pasted on the page. At the top of the page is pasted an obelisk.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>Image/jp2</dc:format>
+<dc:identifier>DCL167</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation ot determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/124</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/125</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Woman with hand on neck.</dc:title>
+<dc:description>Pen and Ink. Standing woman without hat on beach with water and palm tree in background. Her short skirt and blouse are similar to a tennis outfit. One arm is hanging by her side and the other is raised to her neck.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>Image/jp2</dc:format>
+<dc:identifier>DCL011</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation ot determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/125</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/126</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>High heel shoe and woman.</dc:title>
+<dc:description>Pen and Ink. High heel shoe with a woman in background leaving a doorway that has a Christmas wreath on it.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>Image/jp2</dc:format>
+<dc:identifier>DCL95</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation ot determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/126</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/127</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Drawings of a variety of objects.</dc:title>
+<dc:description>A group of seven drawings running clockwise: Top left is a series of sketches marked &quot;A-E&#x27;; beside it is another series of baby clothes; to the top right is a hand holding an umbrella; below that is a pair of men&#x27;s shoes; and to its left a boy in a barber shop having his hair cut; above him is a nurse and a nurse&#x27;s shoe.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>Image/jp2</dc:format>
+<dc:identifier>DCL040</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation ot determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/127</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/128</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Two women holding purses.</dc:title>
+<dc:description>Pen and Ink. Two women leaning on sign with the word &quot;Burdine&#x27;s on top of page. They are wearing suits and each is holding a purse.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>Image/jp2</dc:format>
+<dc:identifier>DCL032</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation ot determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/128</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/129</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Woman with hand on wall.</dc:title>
+<dc:description>Pen and Ink. Woman in a skirt and jacket with hand resting on gate or wall. Jacket has big buttons and a belt around the middle. She is wearing a beret.</dc:description>
+<dc:creator>Monroe, Jesse Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>Image/jp2</dc:format>
+<dc:identifier>091</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation ot determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/129</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/130</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Children in a park</dc:title>
+<dc:description>Copy of sketch. Scene of young girls and children in park setting. Girl on extreme left is wearing a hat and has a purse in her hand. Beside her is a younger girl who is holding the hand of a younger girl. The three girls are looking at a very small girl. Behind them is a girl with flowers in her hand who is followed by another girl running after her.</dc:description>
+<dc:creator>Monroe, Jessie Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image; Text;</dc:type>
+<dc:format>image/jp2;</dc:format>
+<dc:identifier>DCL050</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational  and research purposes.  It is the researcher&#x27;s obligation to determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for the material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/130</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/131</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Two women posing in suits</dc:title>
+<dc:description>Two women enclosed in rectangles. The rectangles merge at base and go up at angles. The woman on the left has one hand on her shoulder and is dressed in a suit with a high neck. The woman on the right has her hands clasped in front of her. She is dressed in a suit with a high neck with buttons going done to her shoulder and on her sleeves.</dc:description>
+<dc:creator>Monroe, Jessie Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jp2</dc:format>
+<dc:identifier>DCL027</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational  and research purposes.  It is the researcher&#x27;s obligation to determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for the material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/131</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/132</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/133</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Six panels of drawings with candles.</dc:title>
+<dc:description>Pen &amp; Ink. Sex panels with a glowing candle in each one. Slippers are pictured in the left hand side and towels in the right hand side.</dc:description>
+<dc:creator>Monroe, Jessie Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jp2</dc:format>
+<dc:identifier>jbm88</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational  and research purposes.  It is the researcher&#x27;s obligation to determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for the material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/133</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/134</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Woman with a big hat</dc:title>
+<dc:description>Copy of sketch. Woman with her hands up to her oversized hat. A palm tree is in the background.</dc:description>
+<dc:creator>Monroe, Jessie Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jp2</dc:format>
+<dc:identifier>071</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational  and research purposes.  It is the researcher&#x27;s obligation to determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for the material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/134</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/135</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Woman in fur collared coat</dc:title>
+<dc:description>Pen &amp; Ink. Woman with fur collar coat holding a handbag and standing in front of a set of stairs before a building. One hand is on her hip. &quot;News&quot; in pencil on upper left hand corner.</dc:description>
+<dc:creator>Monroe, Jessie Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jp2</dc:format>
+<dc:identifier>106</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational  and research purposes.  It is the researcher&#x27;s obligation to determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for the material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/135</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/136</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/137</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Four sketches of household items</dc:title>
+<dc:description>Copy of four sketches: a linen closet and woman; a series of stamped items such a napkins, baby clothes, etc,; a series of kitchen utensils numbered one to four including a hand egg beater; a series of items numbered five to eight including a thermos bottle, a dog and cat and bell chimes.</dc:description>
+<dc:creator>Monroe, Jessie Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image;</dc:type>
+<dc:format>image/jp2</dc:format>
+<dc:identifier>093</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational  and research purposes.  It is the researcher&#x27;s obligation to determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for the material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/137</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/138</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Drawings of different items</dc:title>
+<dc:description>Pen &amp; Ink. Series of three drawings one on top of the other: a lamp; handkerchief and a gift box; two belts and boy with a gift box.</dc:description>
+<dc:creator>Monroe, Jessie Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jp2</dc:format>
+<dc:identifier>067</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational  and research purposes.  It is the researcher&#x27;s obligation to determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for the material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/138</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/139</identifier><datestamp>2012-05-16</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/140</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>One woman standing with hand on waist.</dc:title>
+<dc:description>Pen &amp; ink. Standing woman with hat and one arm on her hip. She is wearing a long dress with a belt. &quot;Shoot all to this scale&quot; and 5 1/4 &quot; in pencil.</dc:description>
+<dc:creator>Monroe, Jessie Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jp2</dc:format>
+<dc:identifier>DCL150</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational  and research purposes.  It is the researcher&#x27;s obligation to determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for the material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/140</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/141</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Woman in dress looking down</dc:title>
+<dc:description>Pen &amp; Ink. Woman in dress with one hand holding on to the bottom of dress. The words &quot;Extra long Stockings&quot; is written on the top of page. On the bottom of page are the words &quot;Wed-News&quot; written in blue crayon.</dc:description>
+<dc:creator>Monroe, Jessie Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jp2</dc:format>
+<dc:identifier>082</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational  and research purposes.  It is the researcher&#x27;s obligation to determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for the material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/141</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/142</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Composite drawing of household items</dc:title>
+<dc:description>Pen &amp; ink. Series of kitchen items. On right hand side: samovar; coffee pot; iron; and waffle iron. On left: samples of four dinner plates. &quot;1/2 size - Tues&quot; written in pencil.</dc:description>
+<dc:creator>Monroe, Jessie Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jp2</dc:format>
+<dc:identifier>DCL142</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational  and research purposes.  It is the researcher&#x27;s obligation to determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for the material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/142</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/143</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>One woman with hand on hip.</dc:title>
+<dc:description>Pen &amp; ink. Woman with one arm akimbo. She is wearing a long dress and has a scarf tied around her neck in a bow. &quot;P.B. Life&quot; in pencil.</dc:description>
+<dc:creator>Monroe, Jessie Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jp2</dc:format>
+<dc:identifier>DCL148</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational  and research purposes.  It is the researcher&#x27;s obligation to determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for the material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/143</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/144</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Woman sitting on stool</dc:title>
+<dc:description>Pen &amp; ink. Woman sitting on stool and putting on stockings. &quot;5 1/2&quot; in blue crayon.</dc:description>
+<dc:creator>Monroe, Jessie Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jp2</dc:format>
+<dc:identifier>DCL256</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational  and research purposes.  It is the researcher&#x27;s obligation to determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for the material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/144</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/145</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Three drawings of women and pots and pans.</dc:title>
+<dc:description>Newspaper proof sheet. Three drawings. One women standing in undergarment. One woman sitting on a beach towel in a bathing suit with the bright sun shining on her. Below them in a rectangle is a tea kettle, pots, and a coffee pot.</dc:description>
+<dc:creator>Monroe, Jessie Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jp2</dc:format>
+<dc:identifier>DCL254</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational  and research purposes.  It is the researcher&#x27;s obligation to determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for the material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/145</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/146</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Three women, a palm tree and a shoe.</dc:title>
+<dc:description>Newsprint paper proof of three women wearing a suit, a coat and all three in hats. There is a palm tree placed in the middle of the page. On the bottom right hand corner is a stocking and a shoe.</dc:description>
+<dc:creator>Monroe, Jessie Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jp2</dc:format>
+<dc:identifier>DCL255</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational  and research purposes.  It is the researcher&#x27;s obligation to determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for the material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/146</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/170</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Catalog</dc:title>
+<dc:creator>Monroe, Jessie Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jp2</dc:format>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational  and research purposes.  It is the researcher&#x27;s obligation to determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for the material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/170</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/175</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Three women with hats and dress.</dc:title>
+<dc:description>Pen &amp; ink. Three women. One complete figure and two partial drawings. On the right side of page are drawings of two women&#x27;s heads and shoulders wearing hats. On the left hand side of page is a woman wearing a long frilly dress. She has one hand in the air and the other at her side. The dress has flowers on the bottom and top. There is a bow tied in the middle of the dress.</dc:description>
+<dc:creator>Monroe, Jessie Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jp2</dc:format>
+<dc:identifier>012; 013; 014; 015</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational  and research purposes.  It is the researcher&#x27;s obligation to determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for the material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/175</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/176</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Woman standing in front of pedestal.</dc:title>
+<dc:description>Tear sheet from Vogue magazine from 1927 (month and date are torn away ) Woman standing in a party dress. Top left hand corner has a scene of two couples out on the town dancing. At the bottom left hand corner are four examples of jewelry.</dc:description>
+<dc:creator>Monroe, Jessie Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jp2</dc:format>
+<dc:identifier>DCL132</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational  and research purposes.  It is the researcher&#x27;s obligation to determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for the material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/176</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/177</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Sketches of a variety of items.</dc:title>
+<dc:description>Series of sketches: woman kneeling beside suitcase; a guitar; a pennant; a scrap book; a fan, etc.</dc:description>
+<dc:creator>Monroe, Jessie Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jp2</dc:format>
+<dc:identifier>DCL042</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational  and research purposes.  It is the researcher&#x27;s obligation to determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for the material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/177</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/178</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Two women standing wearing hats and dresses.</dc:title>
+<dc:description>Pen &amp; ink. Two standing women applying make-up. They each are wearing a dress and a hat. The woman on the right has a necklace on. They are each standing in front of a palm tree.</dc:description>
+<dc:creator>Monroe, Jessie Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jp2</dc:format>
+<dc:identifier>DCL034</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational  and research purposes.  It is the researcher&#x27;s obligation to determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for the material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/178</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/179</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Man in suit holding a cigarette case.</dc:title>
+<dc:description>Pen &amp; ink. Man on right holding a cigarette case and smoking. He is wearing a dark sports coat and light pair of pants. On the right hand side is a man&#x27;s dress shirt and on the bottom right hand side is a man&#x27;s swim suit.</dc:description>
+<dc:creator>Monroe, Jessie Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image;</dc:type>
+<dc:format>image/jp2;</dc:format>
+<dc:identifier>DCL170-171</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these material for educational and research purposes. It is the researcher&#x27;s obligation to determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection.  An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/179</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/180</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Women in pajamas</dc:title>
+<dc:description>Pen &amp; ink. Five women modeling pajamas with a record player and a dog. The word &quot;Pajamas&quot; is printed from top to bottom on page. &quot;Tues News&quot; in blue crayon on bottom of page.</dc:description>
+<dc:creator>Monroe, Jessie Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image; Text</dc:type>
+<dc:format>image/jp2</dc:format>
+<dc:identifier>DCL192-194</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation to determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/180</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/181</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Composite of 8 drawings</dc:title>
+<dc:description>Newspaper proof tear sheet. Top right are two women each encased in a rectangle background. Below them is a woman emerging from a wall. She is repeated 5 times in outline in order to emphasize stockings. Beside her is a rectangle of peacocks, women&#x27;s faces in mirrors, and of one woman standing up with a mirror in her hand. Below them are two women in hats in hats with a hat box below them. On the bottom of the sheet and upside-down  are two folding blouses. Ont he left side are two parallel arrows.</dc:description>
+<dc:creator>Monroe, Jessie Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image;</dc:type>
+<dc:format>image/jp2;</dc:format>
+<dc:identifier>DCL172-173</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purpose. It is the researcher&#x27;s obligation to determine if use complies with the copyright restrictions when publishing or otherwise distributing material found in the library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/181</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/182</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Remnant Day</dc:title>
+<dc:description>&quot;Remnant Day, Last Day, Wednesday.&quot;  Men, women and children in various styles of clothing.</dc:description>
+<dc:creator>Monroe, Jessie Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image; Text</dc:type>
+<dc:format>image/jp2;</dc:format>
+<dc:identifier>DCl198-199</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation to determine if use complies with the copyright restrictions when publishing or otherwise distributing material found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/182</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/183</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Woman with hands at her side.</dc:title>
+<dc:description>One woman standing with arms at her side. She is modeling woman&#x27;s underwear.</dc:description>
+<dc:creator>Monroe, Jessie Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image;</dc:type>
+<dc:format>image/jp2</dc:format>
+<dc:identifier>076</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation to determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/183</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/184</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Five women posing in jackets and dresses.</dc:title>
+<dc:description>Tear sheet from Vogue magazine, January 1, 1932, pages 63-64. &quot;The Jacketed Mode&quot; is printed in black on bottom of page.</dc:description>
+<dc:creator>Monroe, Jessie Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image; Text</dc:type>
+<dc:format>image/jp2;</dc:format>
+<dc:identifier>Jessie Monroe 113</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational and research purposes. It is the researcher&#x27;s obligation to determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for the material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/184</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/185</identifier><datestamp>2014-11-03</datestamp><setSpec>cazcoll01</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Women looking at lingerie.</dc:title>
+<dc:description>Pen &amp; Ink. Composite of several drawings. Top has saleswoman showing an item to two customers. Below them is  a woman modeling undergarments and to her left are five items of underclothing. The image has a zig-zag cut on bottom right hand side.</dc:description>
+<dc:creator>Monroe, Jessie Bonnie</dc:creator>
+<dc:subject>Fashion drawing designs; Advertisements; Clothing &amp; dress</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>1920; 1921; 1922; 1923; 1924; 1925; 1926; 1927; 1928; 1929; 1930</dc:date>
+<dc:type>Still Image;</dc:type>
+<dc:format>image/jp2;</dc:format>
+<dc:identifier>DCL186-187</dc:identifier>
+<dc:relation>Jessie Bonnie Monroe Fashion Illustration Collection</dc:relation>
+<dc:rights>Cazenovia College Library is providing access to these materials for educational  and research purposes. It is the researcher&#x27;s obligation to determine if use complies with the copyright restrictions when publishing or otherwise distributing materials found in the Library collection. An accepted citation format for this material is as follows: &quot;The Jessie Bonnie Monroe Fashion Illustration Collection, courtesy of the Cazenovia College Library.&quot;</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/cazcoll01/id/185</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/186</identifier><datestamp>2012-12-20</datestamp><setSpec>cazcoll01</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:cazcoll01/187</identifier><datestamp>2012-12-20</datestamp><setSpec>cazcoll01</setSpec></header>
+</record></ListRecords></OAI-PMH>

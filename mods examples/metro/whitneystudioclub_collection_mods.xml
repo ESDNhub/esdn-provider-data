@@ -1,0 +1,1150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2015-03-12T21:03:09Z</responseDate><request>http://dcmny.org/oai2</request><ListRecords><record><header><identifier>oai:dcmny.org:whitneystudioclub_612</identifier><datestamp>2014-10-10T14:36:47Z</datestamp><setSpec>whitneystudioclub_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Statement : Carl Walters, June 3, 1929</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Whitney Studio Club</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Author</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="iso8601">1929</dateCreated>
+  </originInfo>
+  <abstract>Sales record for Carl Walters dated June 3, 1929. Includes handwritten notations regarding payment.</abstract>
+  <subject>
+    <name type="personal">
+      <namePart>Walters, Carl</namePart>
+    </name>
+  </subject>
+  <subject>
+    <name type="corporate">
+      <namePart>Whitney Studio Club</namePart>
+    </name>
+  </subject>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Whitney Studio Club and Galleries: Administrative and Exhibition Records, 1907-1930</title>
+    </titleInfo>
+  </relatedItem>
+  <note displayLabel="Is Part Of">Administrative Records</note>
+  <location>
+    <physicalLocation>The Frances Mulhall Achilles Library, Archives, Whitney Museum of American Art</physicalLocation>
+  </location>
+  <accessCondition type="use and reproduction">The copying of any protected materials in this collection is prohibited, except for limited non-commercial, educational, and personal use only, or for fair use as defined in the U.S. copyright laws. Images from the Whitney's collection cannot be used for publication or commercial use without the prior written permission from the Museum's Rights and Reproductions Department. For more information about Terms and Conditions, please visit: http://whitney.org/TermsAndConditions</accessCondition>
+  <typeOfResource>text</typeOfResource>
+  <identifier type="local">wscg.0895</identifier>
+  <note>Digitized by The Frances Mulhall Achilles Library, Archives, Whitney Museum of American Art</note>
+  <subject authority="lcsh">
+    <topic>Art, American--20th Century--Sales</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Whitney Studio Club--Paperwork (Office practice)</topic>
+  </subject>
+  <physicalDescription>
+    <extent>20.3 cm (H) x 15 cm (W)</extent>
+    <note type="condition">Fair. Paper is slightly yellowed. Large hole on top left corner.</note>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/whitneystudioclub%3A612</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:whitneystudioclub_288</identifier><datestamp>2014-10-10T14:33:04Z</datestamp><setSpec>whitneystudioclub_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Loan receipt from the Art Institute of Chicago to the Whitney Studio Club, February 23, 1929</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Art Institute of Chicago</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Author</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="iso8601">1929</dateCreated>
+  </originInfo>
+  <abstract>Receipt for loan of twelve (12) lithographs by Glenn O. Coleman received from the Whitney Studio Club, dated February 23, 1929.</abstract>
+  <subject>
+    <name type="personal">
+      <namePart>Coleman, Glenn O., 1887-1932</namePart>
+    </name>
+  </subject>
+  <subject>
+    <name type="corporate">
+      <namePart>Whitney Studio Club</namePart>
+    </name>
+  </subject>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Whitney Studio Club and Galleries: Administrative and Exhibition Records, 1907-1930</title>
+    </titleInfo>
+  </relatedItem>
+  <note displayLabel="Is Part Of">Administrative Records</note>
+  <location>
+    <physicalLocation>The Frances Mulhall Achilles Library, Archives, Whitney Museum of American Art</physicalLocation>
+  </location>
+  <accessCondition type="use and reproduction">The copying of any protected materials in this collection is prohibited, except for limited non-commercial, educational, and personal use only, or for fair use as defined in the U.S. copyright laws. Images from the Whitney's collection cannot be used for publication or commercial use without the prior written permission from the Museum's Rights and Reproductions Department. For more information about Terms and Conditions, please visit: http://whitney.org/TermsAndConditions</accessCondition>
+  <typeOfResource>text</typeOfResource>
+  <identifier type="local">wscg.0572</identifier>
+  <note>Digitized by The Frances Mulhall Achilles Library, Archives, Whitney Museum of American Art</note>
+  <subject authority="lcsh">
+    <topic>Art, American--20th century--Inventories</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Whitney Studio Club--Paperwork (Office practice)</topic>
+  </subject>
+  <physicalDescription>
+    <extent>27.5 cm (H) x 21.5 cm (W)</extent>
+    <note type="condition">Fair. Paper is yellowed and has two rips along bottom edge.</note>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/whitneystudioclub%3A288</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:whitneystudioclub_834</identifier><datestamp>2014-10-10T14:39:25Z</datestamp><setSpec>whitneystudioclub_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Xavier J. Barile to Mrs. Force, Dec. 22, '27</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Barile, Xavier J., 1891-1981</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Author</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="iso8601">1927</dateCreated>
+  </originInfo>
+  <abstract>Letter written by Xavier J. Barile to Juliana Force, dated December 22, 1927. Additional handwritten notation of the receipt of $5.</abstract>
+  <subject>
+    <name type="personal">
+      <namePart>Force, Juliana, 1876-1948</namePart>
+    </name>
+  </subject>
+  <subject>
+    <name type="corporate">
+      <namePart>Whitney Studio</namePart>
+    </name>
+  </subject>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Whitney Studio Club and Galleries: Administrative and Exhibition Records, 1907-1930</title>
+    </titleInfo>
+  </relatedItem>
+  <note displayLabel="Is Part Of">Correspondence, John Sloan "The Lafayette"</note>
+  <location>
+    <physicalLocation>The Frances Mulhall Achilles Library, Archives, Whitney Museum of American Art</physicalLocation>
+  </location>
+  <accessCondition type="use and reproduction">The copying of any protected materials in this collection is prohibited, except for limited non-commercial, educational, and personal use only, or for fair use as defined in the U.S. copyright laws. Images from the Whitney's collection cannot be used for publication or commercial use without the prior written permission from the Museum's Rights and Reproductions Department. For more information about Terms and Conditions, please visit: http://whitney.org/TermsAndConditions</accessCondition>
+  <typeOfResource>text</typeOfResource>
+  <identifier type="local">wscg.0991</identifier>
+  <note>Digitized by The Frances Mulhall Achilles Library, Archives, Whitney Museum of American Art</note>
+  <subject authority="lcsh">
+    <topic>Sloan, John, 1871-1951</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Art patrons--United States--Correspondence.</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Art patronage</topic>
+  </subject>
+  <physicalDescription>
+    <extent>28 cm (H) x 21.7 cm (W)</extent>
+    <note type="condition">fair; paper is yellowing</note>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin/>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/whitneystudioclub%3A834</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:whitneystudioclub_756</identifier><datestamp>2014-10-10T14:38:28Z</datestamp><setSpec>whitneystudioclub_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Spring Exhibition  Installation</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Sunami, Soichi, 1885-1971</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Photographer</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="iso8601">1930</dateCreated>
+  </originInfo>
+  <abstract>View 4 of 13. Photograph of an installation view from the Spring Exhibition held March 17-29, 1930. This exhibition is also known as The Flower Exhibition.</abstract>
+  <subject>
+    <name type="corporate">
+      <namePart>Whitney Studio Club</namePart>
+    </name>
+  </subject>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Whitney Studio Club and Galleries: Administrative and Exhibition Records, 1907-1930</title>
+    </titleInfo>
+  </relatedItem>
+  <note displayLabel="Copy Information">Copy 2 of 2</note>
+  <location>
+    <physicalLocation>The Frances Mulhall Achilles Library, Archives, Whitney Museum of American Art</physicalLocation>
+  </location>
+  <accessCondition type="use and reproduction">The copying of any protected materials in this collection is prohibited, except for limited non-commercial, educational, and personal use only, or for fair use as defined in the U.S. copyright laws. Images from the Whitney's collection cannot be used for publication or commercial use without the prior written permission from the Museum's Rights and Reproductions Department. For more information about Terms and Conditions, please visit: http://whitney.org/TermsAndConditions</accessCondition>
+  <typeOfResource>image</typeOfResource>
+  <identifier type="local">wscg0102</identifier>
+  <note>Digitized by The Frances Mulhall Achilles Library, Archives, Whitney Museum of American Art</note>
+  <subject authority="lcsh">
+    <topic>Art, American--20th century--Exhibitions</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Flowers in art--Exhibitions</topic>
+  </subject>
+  <note displayLabel="Is Part Of">Spring Exhibition</note>
+  <note displayLabel="Is Part Of">Flower Exhibition</note>
+  <physicalDescription>
+    <extent>Mounting Board: 28 cm (H) x 36 cm (W); Photograph: 19 cm (H) x 24 cm (W)</extent>
+    <note type="condition">fair; light smudges and pencil mark on recto.</note>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/whitneystudioclub%3A756</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:whitneystudioclub_66</identifier><datestamp>2014-10-10T14:30:32Z</datestamp><setSpec>whitneystudioclub_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Juliana Force to Mrs. Cornelia Sage Quintan [sic], January 24, 1928</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Force, Juliana, 1876-1948</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Author</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="iso8601">1928</dateCreated>
+  </originInfo>
+  <abstract>Telegram written by Juliana Force to Cornela Bentley Sage, dated January 24, 1928. Continued discussion of Watson flower painting and Schnakenberg artwork sale.</abstract>
+  <subject>
+    <name type="personal">
+      <namePart>Sage, Cornelia Bentley</namePart>
+    </name>
+  </subject>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Whitney Studio Club and Galleries: Administrative and Exhibition Records, 1907-1930</title>
+    </titleInfo>
+  </relatedItem>
+  <note displayLabel="Is Part Of">Traveling Exhibition</note>
+  <location>
+    <physicalLocation>The Frances Mulhall Achilles Library, Archives, Whitney Museum of American Art</physicalLocation>
+  </location>
+  <accessCondition type="use and reproduction">The copying of any protected materials in this collection is prohibited, except for limited non-commercial, educational, and personal use only, or for fair use as defined in the U.S. copyright laws. Images from the Whitney's collection cannot be used for publication or commercial use without the prior written permission from the Museum's Rights and Reproductions Department. For more information about Terms and Conditions, please visit: http://whitney.org/TermsAndConditions</accessCondition>
+  <typeOfResource>text</typeOfResource>
+  <identifier type="local">wscg.0311</identifier>
+  <note>Digitized by The Frances Mulhall Achilles Library, Archives, Whitney Museum of American Art</note>
+  <subject authority="lcsh">
+    <topic>Art, American--20th century--Exhibitions--Correspondence</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Art, American--20th Century--Sales</topic>
+  </subject>
+  <subject>
+    <name type="corporate">
+      <namePart>California Palace of the Legion of Honor</namePart>
+    </name>
+  </subject>
+  <subject>
+    <name type="corporate">
+      <namePart>Whitney Studio Club</namePart>
+    </name>
+  </subject>
+  <physicalDescription>
+    <extent>17.3 cm (H) x 21.5 cm (W)</extent>
+    <note type="condition">good</note>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/whitneystudioclub%3A66</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:whitneystudioclub_94</identifier><datestamp>2014-10-10T14:30:52Z</datestamp><setSpec>whitneystudioclub_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>J.R. Force to Mr. Harshe, December 23, 1929</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Force, Juliana, 1876-1948</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Author</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="iso8601">1929</dateCreated>
+  </originInfo>
+  <abstract>Telegram from Juliana Force to Robert Harsh, dated December 23, 1929. Regarding postponement for Cecil Howard's exhibition.</abstract>
+  <subject authority="lcsh">
+    <topic>Art, American--20th century--Exhibitions--Correspondence</topic>
+  </subject>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Whitney Studio Club and Galleries: Administrative and Exhibition Records, 1907-1930</title>
+    </titleInfo>
+  </relatedItem>
+  <note displayLabel="Is Part Of">Correspondence, General</note>
+  <location>
+    <physicalLocation>The Frances Mulhall Achilles Library, Archives, Whitney Museum of American Art</physicalLocation>
+  </location>
+  <accessCondition type="use and reproduction">The copying of any protected materials in this collection is prohibited, except for limited non-commercial, educational, and personal use only, or for fair use as defined in the U.S. copyright laws. Images from the Whitney's collection cannot be used for publication or commercial use without the prior written permission from the Museum's Rights and Reproductions Department. For more information about Terms and Conditions, please visit: http://whitney.org/TermsAndConditions</accessCondition>
+  <typeOfResource>text</typeOfResource>
+  <identifier type="local">wscg.0538</identifier>
+  <note>Digitized by The Frances Mulhall Achilles Library, Archives, Whitney Museum of American Art</note>
+  <subject>
+    <name type="personal">
+      <namePart>Harshe, Robert B., b. 1879</namePart>
+    </name>
+  </subject>
+  <subject>
+    <name type="personal">
+      <namePart>Howard, Cecil, 1888-</namePart>
+    </name>
+  </subject>
+  <subject>
+    <name type="corporate">
+      <namePart>Art Institute of Chicago</namePart>
+    </name>
+  </subject>
+  <subject>
+    <name type="corporate">
+      <namePart>Whitney Studio Galleries</namePart>
+    </name>
+  </subject>
+  <physicalDescription>
+    <extent>16 cm (H) x 21.5 cm (W)</extent>
+    <note type="condition">Good. Paper is slightly discolored. Enclosed in polyester sleeve.</note>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/whitneystudioclub%3A94</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:whitneystudioclub_344</identifier><datestamp>2014-10-10T14:33:45Z</datestamp><setSpec>whitneystudioclub_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Sculpture &amp; drawings : catalogue, January 6 to 24, 1925 / by Cecil Howard.</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Whitney Studio Galleries</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator"/>
+    </role>
+  </name>
+  <abstract>Catalogue of Cecil Howard exhibition. Includes a list of sculptures. Missing back cover. Title from cover.</abstract>
+  <subject>
+    <name type="personal">
+      <namePart>Howard, Cecil, 1888-</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Art, American--20th century--Exhibitions</topic>
+  </subject>
+  <subject>
+    <name type="corporate">
+      <namePart>Whitney Studio Galleries</namePart>
+    </name>
+  </subject>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Whitney Studio Club and Galleries: Administrative and Exhibition Records, 1907-1930</title>
+    </titleInfo>
+  </relatedItem>
+  <note displayLabel="Is Part Of">Whitney Studio Galleries Exhibition</note>
+  <note displayLabel="Call Number">No call number available</note>
+  <location>
+    <physicalLocation>The Frances Mulhall Achilles Library, Archives, Whitney Museum of American Art</physicalLocation>
+  </location>
+  <accessCondition type="use and reproduction">The copying of any protected materials in this collection is prohibited, except for limited non-commercial, educational, and personal use only, or for fair use as defined in the U.S. copyright laws. Images from the Whitney's collection cannot be used for publication or commercial use without the prior written permission from the Museum's Rights and Reproductions Department. For more information about Terms and Conditions, please visit: http://whitney.org/TermsAndConditions</accessCondition>
+  <typeOfResource>text</typeOfResource>
+  <identifier type="local">wscg 1925-01 howard jpegs</identifier>
+  <note>Digitized by The Frances Mulhall Achilles Library, Archives, Whitney Museum of American Art</note>
+  <originInfo>
+    <publisher>Whitney Studio Galleries</publisher>
+    <place>
+      <placeTerm type="text">New York</placeTerm>
+    </place>
+    <dateIssued encoding="iso8601">1925</dateIssued>
+  </originInfo>
+  <physicalDescription>
+    <extent>4 p. ; 18 cm</extent>
+    <note type="condition">Fair. This catalogue has been washed and deacidified. It has been trimmed along the edges and bound in acid-free sleeve. Stains and discoloration throughout. Heavy wear in spine. Information written in ink on front cover. Last page/back cover has been removed. Full measurements: 18.3 cm (H) x 13 cm (W).</note>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/whitneystudioclub%3A344</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:whitneystudioclub_175</identifier><datestamp>2014-10-10T14:31:47Z</datestamp><setSpec>whitneystudioclub_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Six lithographs by Glenn Coleman, Dec. 14, 1928</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Whitney Studio Galleries</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Author</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="iso8601">1928</dateCreated>
+  </originInfo>
+  <abstract>Loan receipt created by Whitney Studio Galleries, dated December 14, 1928. On loan: six (6) lithographs by Glenn O. Coleman; one (1) oil painting by Leon Hartl; and one (1) watercolor by Isabel Whitney.</abstract>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Whitney Studio Club and Galleries: Administrative and Exhibition Records, 1907-1930</title>
+    </titleInfo>
+  </relatedItem>
+  <note displayLabel="Is Part Of">Administrative Records</note>
+  <location>
+    <physicalLocation>The Frances Mulhall Achilles Library, Archives, Whitney Museum of American Art</physicalLocation>
+  </location>
+  <accessCondition type="use and reproduction">The copying of any protected materials in this collection is prohibited, except for limited non-commercial, educational, and personal use only, or for fair use as defined in the U.S. copyright laws. Images from the Whitney's collection cannot be used for publication or commercial use without the prior written permission from the Museum's Rights and Reproductions Department. For more information about Terms and Conditions, please visit: http://whitney.org/TermsAndConditions</accessCondition>
+  <typeOfResource>text</typeOfResource>
+  <identifier type="local">wscg.0722</identifier>
+  <note>Digitized by The Frances Mulhall Achilles Library, Archives, Whitney Museum of American Art</note>
+  <subject>
+    <name type="personal">
+      <namePart>Coleman, Glenn O., 1887-1932</namePart>
+    </name>
+  </subject>
+  <subject>
+    <name type="personal">
+      <namePart>Hartl, Léon, 1889-</namePart>
+    </name>
+  </subject>
+  <subject>
+    <name type="personal">
+      <namePart>Whitney, Isabel Lydia, 1878-1962</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Art, American--20th century--Inventories</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Whitney Studio Galleries--Paperwork (Office practice)</topic>
+  </subject>
+  <physicalDescription>
+    <extent>17.2 cm (H) x 12.7 cm (W)</extent>
+    <note type="condition">fair; paper is yellowing</note>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/whitneystudioclub%3A175</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:whitneystudioclub_765</identifier><datestamp>2014-10-10T14:38:35Z</datestamp><setSpec>whitneystudioclub_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Dr. Mary Halton to Miss Fusfeld, Nov 18, [1927]</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Halton, Dr. Mary</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Author</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="iso8601">1927</dateCreated>
+  </originInfo>
+  <abstract>Letter written by Dr. Mary Halton to Miss Fusfeld, dated November 18, [1927]. Mention of an enclosed check from R. C. Beadle. Additional handwritten notation of the receipt of $20.</abstract>
+  <subject>
+    <name type="personal">
+      <namePart>Beadle, R. C.</namePart>
+    </name>
+  </subject>
+  <subject>
+    <name type="corporate">
+      <namePart>Whitney Studio</namePart>
+    </name>
+  </subject>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Whitney Studio Club and Galleries: Administrative and Exhibition Records, 1907-1930</title>
+    </titleInfo>
+  </relatedItem>
+  <note displayLabel="Is Part Of">Correspondence, John Sloan "The Lafayette"</note>
+  <location>
+    <physicalLocation>The Frances Mulhall Achilles Library, Archives, Whitney Museum of American Art</physicalLocation>
+  </location>
+  <accessCondition type="use and reproduction">The copying of any protected materials in this collection is prohibited, except for limited non-commercial, educational, and personal use only, or for fair use as defined in the U.S. copyright laws. Images from the Whitney's collection cannot be used for publication or commercial use without the prior written permission from the Museum's Rights and Reproductions Department. For more information about Terms and Conditions, please visit: http://whitney.org/TermsAndConditions</accessCondition>
+  <typeOfResource>text</typeOfResource>
+  <identifier type="local">wscg.0982</identifier>
+  <note>Digitized by The Frances Mulhall Achilles Library, Archives, Whitney Museum of American Art</note>
+  <subject authority="lcsh">
+    <topic>Sloan, John, 1871-1951</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Art patrons--United States--Correspondence.</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Art patronage</topic>
+  </subject>
+  <physicalDescription>
+    <extent>21.8 cm (H) x 14 cm (W)</extent>
+    <note type="condition">fair; paper is yellowing</note>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/whitneystudioclub%3A765</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:whitneystudioclub_416</identifier><datestamp>2014-10-10T14:34:32Z</datestamp><setSpec>whitneystudioclub_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Temporary receipt, the Newark museum association, Dec. 19, 1929</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Newark Museum Association</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Author</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="iso8601">1929</dateCreated>
+  </originInfo>
+  <abstract>Loan receipt between the Newark Museum Association and the Whitney Studio Galleries, dated December 19, 1929. On loan: "Lamp of Sleep" by Oscar Bluemner; "Pink Villa" by Rohland; "White Horses" by Karl Free. These watercolors are on loan for the American Watercolor Exhibition. For related business correspondence, see also: Registrar's Department, Newark Museum Association to Whitney Studio Galleries, December 27, 1929 (wscg.0680); and see also:  Registrar's Department, Newark Museum Association to Whitney Studio Galleries, January 18, 1930. (wscg.0681)</abstract>
+  <subject>
+    <name type="corporate">
+      <namePart>Whitney Studio Galleries</namePart>
+    </name>
+  </subject>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Whitney Studio Club and Galleries: Administrative and Exhibition Records, 1907-1930</title>
+    </titleInfo>
+  </relatedItem>
+  <note displayLabel="Is Part Of">Administrative Records</note>
+  <location>
+    <physicalLocation>The Frances Mulhall Achilles Library, Archives, Whitney Museum of American Art</physicalLocation>
+  </location>
+  <accessCondition type="use and reproduction">The copying of any protected materials in this collection is prohibited, except for limited non-commercial, educational, and personal use only, or for fair use as defined in the U.S. copyright laws. Images from the Whitney's collection cannot be used for publication or commercial use without the prior written permission from the Museum's Rights and Reproductions Department. For more information about Terms and Conditions, please visit: http://whitney.org/TermsAndConditions</accessCondition>
+  <typeOfResource>text</typeOfResource>
+  <identifier type="local">wscg0678</identifier>
+  <note>Digitized by The Frances Mulhall Achilles Library, Archives, Whitney Museum of American Art</note>
+  <subject>
+    <name type="personal">
+      <namePart>Bluemner, Oscar, 1867-1938</namePart>
+    </name>
+  </subject>
+  <subject>
+    <name type="personal">
+      <namePart>Free, Karl</namePart>
+    </name>
+  </subject>
+  <subject>
+    <name type="personal">
+      <namePart>Rohland, Paul, 1884-1953</namePart>
+    </name>
+  </subject>
+  <subject>
+    <name type="personal">
+      <namePart>Rohland, Caroline Speare, 1885-1965</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Art, American--20th century--Inventories</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Art--Prices</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Whitney Studio Galleries--Paperwork (Office practice)</topic>
+  </subject>
+  <physicalDescription>
+    <extent>27 cm (H) x 19.4 cm (W)</extent>
+    <note type="condition">fair; paper is yellowing</note>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/whitneystudioclub%3A416</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:whitneystudioclub_773</identifier><datestamp>2014-10-10T14:38:38Z</datestamp><setSpec>whitneystudioclub_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Statement : Mrs. and Mrs. Paul Rohland, December 17, 1929</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Whitney Studio Galleries</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Author</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="iso8601">1929</dateCreated>
+  </originInfo>
+  <abstract>Sales record for Paul Rohland and Caroline Speare Rohland dated December 17, 1929.</abstract>
+  <subject>
+    <name type="corporate">
+      <namePart>Whitney Studio Galleries</namePart>
+    </name>
+  </subject>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Whitney Studio Club and Galleries: Administrative and Exhibition Records, 1907-1930</title>
+    </titleInfo>
+  </relatedItem>
+  <note displayLabel="Is Part Of">Administrative Records</note>
+  <location>
+    <physicalLocation>The Frances Mulhall Achilles Library, Archives, Whitney Museum of American Art</physicalLocation>
+  </location>
+  <accessCondition type="use and reproduction">The copying of any protected materials in this collection is prohibited, except for limited non-commercial, educational, and personal use only, or for fair use as defined in the U.S. copyright laws. Images from the Whitney's collection cannot be used for publication or commercial use without the prior written permission from the Museum's Rights and Reproductions Department. For more information about Terms and Conditions, please visit: http://whitney.org/TermsAndConditions</accessCondition>
+  <typeOfResource>text</typeOfResource>
+  <identifier type="local">wscg.0899</identifier>
+  <note>Digitized by The Frances Mulhall Achilles Library, Archives, Whitney Museum of American Art</note>
+  <subject>
+    <name type="personal">
+      <namePart>Rohland, Paul, 1884-1953</namePart>
+    </name>
+  </subject>
+  <subject>
+    <name type="personal">
+      <namePart>Rohland, Caroline Speare, 1885-1965</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Art, American--20th Century--Sales</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Whitney Studio Galleries--Paperwork (Office practice)</topic>
+  </subject>
+  <physicalDescription>
+    <extent>21.2 cm (H) x 14 cm (W)</extent>
+    <note type="condition">Fair. Paper is slightly yellowed. Large tear on bottom left corner.</note>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/whitneystudioclub%3A773</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:whitneystudioclub_682</identifier><datestamp>2014-10-10T14:37:35Z</datestamp><setSpec>whitneystudioclub_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>JRF to Mr. Charles Rosen, Jan. 29, 1929</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Force, Juliana, 1876-1948</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Author</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="iso8601">1929</dateCreated>
+  </originInfo>
+  <abstract>Letter written by Juliana Force to Charles Rosen, dated January 29, 1929.</abstract>
+  <subject>
+    <name type="personal">
+      <namePart>Rosen, Charles, 1878-1950</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Art, American--20th century--Correspondence</topic>
+  </subject>
+  <subject>
+    <name type="corporate">
+      <namePart>Whitney Studio Galleries</namePart>
+    </name>
+  </subject>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Whitney Studio Club and Galleries: Administrative and Exhibition Records, 1907-1930</title>
+    </titleInfo>
+  </relatedItem>
+  <note displayLabel="Is Part Of">Correspondence, Artists</note>
+  <location>
+    <physicalLocation>The Frances Mulhall Achilles Library, Archives, Whitney Museum of American Art</physicalLocation>
+  </location>
+  <accessCondition type="use and reproduction">The copying of any protected materials in this collection is prohibited, except for limited non-commercial, educational, and personal use only, or for fair use as defined in the U.S. copyright laws. Images from the Whitney's collection cannot be used for publication or commercial use without the prior written permission from the Museum's Rights and Reproductions Department. For more information about Terms and Conditions, please visit: http://whitney.org/TermsAndConditions</accessCondition>
+  <typeOfResource>text</typeOfResource>
+  <identifier type="local">wscg.0490</identifier>
+  <note>Digitized by The Frances Mulhall Achilles Library, Archives, Whitney Museum of American Art</note>
+  <physicalDescription>
+    <extent>28 cm (H) x 21.7 cm (W)</extent>
+    <note type="condition">photocopy is in good condition</note>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/whitneystudioclub%3A682</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:whitneystudioclub_441</identifier><datestamp>2014-10-10T14:34:46Z</datestamp><setSpec>whitneystudioclub_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Water colors by H. E. Schnakenberg : exhibition, February 11-March 2, 1929</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Whitney Studio Galleries</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator"/>
+    </role>
+  </name>
+  <abstract>Exhibition checklist of water colors by H. E. Schnakenberg. Held at the Whitney Studio Galleries, February 11-March 2, 1929. Includes announcement card for the same exhibition. Title from cover.</abstract>
+  <subject>
+    <name type="personal">
+      <namePart>Schnakenberg, H. E. (Henry Ernest), 1892-1970</namePart>
+    </name>
+  </subject>
+  <subject>
+    <name type="corporate">
+      <namePart>Whitney Studio Galleries</namePart>
+    </name>
+  </subject>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Whitney Studio Club and Galleries: Administrative and Exhibition Records, 1907-1930</title>
+    </titleInfo>
+  </relatedItem>
+  <note displayLabel="Is Part Of">Whitney Studio Galleries Exhibition</note>
+  <note displayLabel="Call Number">Not in catalog</note>
+  <note displayLabel="Copy Information">Copy 1 of 2</note>
+  <accessCondition type="use and reproduction">The copying of any protected materials in this collection is prohibited, except for limited non-commercial, educational, and personal use only, or for fair use as defined in the U.S. copyright laws. Images from the Whitney's collection cannot be used for publication or commercial use without the prior written permission from the Museum's Rights and Reproductions Department. For more information about Terms and Conditions, please visit: http://whitney.org/TermsAndConditions</accessCondition>
+  <typeOfResource>text</typeOfResource>
+  <identifier type="local">wscg 1929-02 schn c.1 jpegs</identifier>
+  <note>Digitized by The Frances Mulhall Achilles Library, Archives, Whitney Museum of American Art</note>
+  <subject authority="lcsh">
+    <topic>Art, American--20th century--Exhibitions</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Watercolor painting, American--20th century--Exhibitions</topic>
+  </subject>
+  <originInfo>
+    <publisher>Whitney Studio Galleries</publisher>
+    <place>
+      <placeTerm type="text">New York</placeTerm>
+    </place>
+    <dateIssued encoding="iso8601">1929</dateIssued>
+  </originInfo>
+  <physicalDescription>
+    <extent>4 p. ; 13 cm</extent>
+    <note type="condition">Good. Slight darkening along edges. Some stains on the cover, including an ink mark near the top. Adhesive residue on the back. Full measurement of item: 12.7 cm (H) x 10.2 cm (W).</note>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin/>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/whitneystudioclub%3A441</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:whitneystudioclub_44</identifier><datestamp>2014-10-10T14:30:17Z</datestamp><setSpec>whitneystudioclub_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Whitney Studio announces an exhibition of sculpture by Florence Lucius and drawings by Jeanne Poupelet, January 26th to February 13th</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Whitney Studio</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator"/>
+    </role>
+  </name>
+  <abstract>Announcement card for an exhibition of sculpture by Florence Lucius and drawings by Jeanne Poupelet, held January 26-February 13, [1926]. Year of exhibition taken from penciled note on card.</abstract>
+  <subject authority="lcsh">
+    <topic>Art, Modern--20th century--Exhibitions</topic>
+  </subject>
+  <subject>
+    <name type="corporate">
+      <namePart>Whitney Studio</namePart>
+    </name>
+  </subject>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Whitney Studio Club and Galleries: Administrative and Exhibition Records, 1907-1930</title>
+    </titleInfo>
+  </relatedItem>
+  <note displayLabel="Is Part Of">Whitney Studio Exhibition</note>
+  <note displayLabel="Call Number">Not in catalog</note>
+  <location>
+    <physicalLocation>The Frances Mulhall Achilles Library, Archives, Whitney Museum of American Art</physicalLocation>
+  </location>
+  <accessCondition type="use and reproduction">The copying of any protected materials in this collection is prohibited, except for limited non-commercial, educational, and personal use only, or for fair use as defined in the U.S. copyright laws. Images from the Whitney's collection cannot be used for publication or commercial use without the prior written permission from the Museum's Rights and Reproductions Department. For more information about Terms and Conditions, please visit: http://whitney.org/TermsAndConditions</accessCondition>
+  <typeOfResource>text</typeOfResource>
+  <identifier type="local">wscg.0140</identifier>
+  <note>Digitized by The Frances Mulhall Achilles Library, Archives, Whitney Museum of American Art</note>
+  <subject>
+    <name type="personal">
+      <namePart>Davidson, Florence Lucius, d. 1962</namePart>
+    </name>
+  </subject>
+  <subject>
+    <name type="personal">
+      <namePart>Poupelet, Jane, 1874-1932</namePart>
+    </name>
+  </subject>
+  <subject>
+    <name type="personal">
+      <namePart>Zayas, Marius de (1880-1961)</namePart>
+    </name>
+  </subject>
+  <originInfo>
+    <publisher>Whitney Studio</publisher>
+    <place>
+      <placeTerm type="text">New York</placeTerm>
+    </place>
+    <dateIssued encoding="iso8601">1926</dateIssued>
+  </originInfo>
+  <physicalDescription>
+    <extent>8.5 cm (H) x 13.5 cm (W)</extent>
+    <note type="condition">Good. Small pencil at lower-right corner.</note>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin/>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/whitneystudioclub%3A44</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:whitneystudioclub_945</identifier><datestamp>2014-10-10T14:40:42Z</datestamp><setSpec>whitneystudioclub_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>George William Eggers to Mrs. Juliana R. Force, November 8, 1929</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Eggers, George W. (George William), b. 1883</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Author</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="iso8601">1929</dateCreated>
+  </originInfo>
+  <abstract>Letter from George William Eggers to Juliana Force, dated November 8, 1929. Regarding Howard Cecil's exhibition.</abstract>
+  <subject authority="lcsh">
+    <topic>Art, American--20th century--Correspondence</topic>
+  </subject>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Whitney Studio Club and Galleries: Administrative and Exhibition Records, 1907-1930</title>
+    </titleInfo>
+  </relatedItem>
+  <note displayLabel="Is Part Of">Correspondence, General</note>
+  <location>
+    <physicalLocation>The Frances Mulhall Achilles Library, Archives, Whitney Museum of American Art</physicalLocation>
+  </location>
+  <accessCondition type="use and reproduction">The copying of any protected materials in this collection is prohibited, except for limited non-commercial, educational, and personal use only, or for fair use as defined in the U.S. copyright laws. Images from the Whitney's collection cannot be used for publication or commercial use without the prior written permission from the Museum's Rights and Reproductions Department. For more information about Terms and Conditions, please visit: http://whitney.org/TermsAndConditions</accessCondition>
+  <typeOfResource>text</typeOfResource>
+  <identifier type="local">wscg.0532</identifier>
+  <note>Digitized by The Frances Mulhall Achilles Library, Archives, Whitney Museum of American Art</note>
+  <subject>
+    <name type="personal">
+      <namePart>Force, Juliana, 1876-1948</namePart>
+    </name>
+  </subject>
+  <subject>
+    <name type="personal">
+      <namePart>Howard, Cecil, 1888-</namePart>
+    </name>
+  </subject>
+  <subject>
+    <name type="corporate">
+      <namePart>Whitney Studio</namePart>
+    </name>
+  </subject>
+  <subject>
+    <name type="corporate">
+      <namePart>Worcester Art Museum</namePart>
+    </name>
+  </subject>
+  <physicalDescription>
+    <extent>27.5 cm (H) x 21.2 cm (W)</extent>
+    <note type="condition">Good. Enclosed in polyester sleeve.</note>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/whitneystudioclub%3A945</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:whitneystudioclub_144</identifier><datestamp>2014-10-10T14:31:26Z</datestamp><setSpec>whitneystudioclub_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>John D. Graham to Mrs. Cambell, March 31, 1929</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Graham, John, 1887-1961</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Author</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="iso8601">1929</dateCreated>
+  </originInfo>
+  <abstract>Typed letter written by John Graham to Alice Campbell, Whitney Studio Galleries, dated March 31, 1929. Signed. Informing Campbell that his tempera painting, "Horse and harlequin", was not Dudensing Gallery's possession, since it was exhibited in the Black and White show.  Graham is requesting information regarding its whereabouts.</abstract>
+  <subject>
+    <name type="personal">
+      <namePart>Campbell, Alice Fraser</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Art, American--20th century--Correspondence</topic>
+  </subject>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Whitney Studio Club and Galleries: Administrative and Exhibition Records, 1907-1930</title>
+    </titleInfo>
+  </relatedItem>
+  <note displayLabel="Is Part Of">Correspondence, Artists</note>
+  <location>
+    <physicalLocation>The Frances Mulhall Achilles Library, Archives, Whitney Museum of American Art</physicalLocation>
+  </location>
+  <accessCondition type="use and reproduction">The copying of any protected materials in this collection is prohibited, except for limited non-commercial, educational, and personal use only, or for fair use as defined in the U.S. copyright laws. Images from the Whitney's collection cannot be used for publication or commercial use without the prior written permission from the Museum's Rights and Reproductions Department. For more information about Terms and Conditions, please visit: http://whitney.org/TermsAndConditions</accessCondition>
+  <typeOfResource>text</typeOfResource>
+  <identifier type="local">wscg0443</identifier>
+  <note>Digitized by The Frances Mulhall Achilles Library, Archives, Whitney Museum of American Art</note>
+  <subject>
+    <name type="corporate">
+      <namePart>Dudensing Galleries</namePart>
+    </name>
+  </subject>
+  <subject>
+    <name type="corporate">
+      <namePart>Whitney Studio Galleries</namePart>
+    </name>
+  </subject>
+  <physicalDescription>
+    <extent>28 cm (H) x 21.7 cm (W)</extent>
+    <note type="condition">fair; encased in a polyester sleeve; staple holes</note>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/whitneystudioclub%3A144</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:whitneystudioclub_83</identifier><datestamp>2014-10-10T14:30:42Z</datestamp><setSpec>whitneystudioclub_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Exhibition of modern paintings by American and foreign artists : at Mrs. H.P. Whitney's Studio, 8 West 8, January 5th to 18th, inclusive, 1916</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Whitney Studio</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator"/>
+    </role>
+  </name>
+  <abstract>Catalogue for exhibition of paintings by American and foreign artists held at the Studio, January 5-18, 1916. Artists included: Cecilia Beaux, Paul Albert Besnard, Robert W. Chanler, Howard G. Cushing, Frederic C. Freiseke, Beatrice How, George B. Luks, John Lavery, Ernest Lawson, William Orpen, John S. Sargent, Lucien Simon, Ioaquin Sorolla y Bastida, Ettore Tito, Ignacio Zuloaga, Robert Henri, Giovanni Boldini, George W. Bellows, Wiliam T. Glackens, Gennaro Favai, Arthur B. Davies, William A. Delano, Maxfield Parrish, Warren B. Davis, Franz Stück, Jules Guérin, Edmond Dulac, Gaston La Touche, John La Farge. Title from cover. The physical copy scanned is a photocopy made from microfilm.</abstract>
+  <name type="corporate">
+    <namePart>George Harjes Company</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Printer</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <name type="personal">
+      <namePart>Whitney, Gertrude Vanderbilt, 1875-1942</namePart>
+    </name>
+  </subject>
+  <subject>
+    <name type="corporate">
+      <namePart>Whitney Studio</namePart>
+    </name>
+  </subject>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Whitney Studio Club and Galleries: Administrative and Exhibition Records, 1907-1930</title>
+    </titleInfo>
+  </relatedItem>
+  <note displayLabel="Is Part Of">Whitney Studio Exhibition</note>
+  <note displayLabel="Call Number">No call number available</note>
+  <location>
+    <physicalLocation>The Frances Mulhall Achilles Library, Archives, Whitney Museum of American Art</physicalLocation>
+  </location>
+  <accessCondition type="use and reproduction">The copying of any protected materials in this collection is prohibited, except for limited non-commercial, educational, and personal use only, or for fair use as defined in the U.S. copyright laws. Images from the Whitney's collection cannot be used for publication or commercial use without the prior written permission from the Museum's Rights and Reproductions Department. For more information about Terms and Conditions, please visit: http://whitney.org/TermsAndConditions</accessCondition>
+  <typeOfResource>text</typeOfResource>
+  <identifier type="local">wscg 1916-01 am jpegs</identifier>
+  <note>Digitized by The Frances Mulhall Achilles Library, Archives, Whitney Museum of American Art</note>
+  <subject authority="lcsh">
+    <topic>Art, American--20th century--Exhibitions</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Art, Modern--20th century--Exhibitions</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Painting, Modern--20th century</topic>
+  </subject>
+  <originInfo>
+    <publisher>Whitney Studio</publisher>
+    <place>
+      <placeTerm type="text">New York</placeTerm>
+    </place>
+    <dateIssued encoding="iso8601">1916</dateIssued>
+  </originInfo>
+  <physicalDescription>
+    <extent>7 p. ; 20 cm</extent>
+    <note type="condition">Fair. Adhesive residue on spine, pages delicate where formerly glued together by adhesive.  Rebound in acid-free sleeve.  Full measurements: 19.6 cm (H) x 11.7 cm (W).</note>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/whitneystudioclub%3A83</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:whitneystudioclub_52</identifier><datestamp>2014-10-10T14:30:21Z</datestamp><setSpec>whitneystudioclub_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Statement : Glenn Coleman, Jan. 1, 1929</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Whitney Studio Club</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Author</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="iso8601">1929</dateCreated>
+  </originInfo>
+  <abstract>Sales record for Glenn O. Coleman dated January 1, 1929. Includes handwritten notation regarding payment.</abstract>
+  <subject>
+    <name type="personal">
+      <namePart>Coleman, Glenn O., 1887-1932</namePart>
+    </name>
+  </subject>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Whitney Studio Club and Galleries: Administrative and Exhibition Records, 1907-1930</title>
+    </titleInfo>
+  </relatedItem>
+  <note displayLabel="Is Part Of">Administrative Records</note>
+  <location>
+    <physicalLocation>The Frances Mulhall Achilles Library, Archives, Whitney Museum of American Art</physicalLocation>
+  </location>
+  <accessCondition type="use and reproduction">The copying of any protected materials in this collection is prohibited, except for limited non-commercial, educational, and personal use only, or for fair use as defined in the U.S. copyright laws. Images from the Whitney's collection cannot be used for publication or commercial use without the prior written permission from the Museum's Rights and Reproductions Department. For more information about Terms and Conditions, please visit: http://whitney.org/TermsAndConditions</accessCondition>
+  <typeOfResource>text</typeOfResource>
+  <identifier type="local">wscg.0851</identifier>
+  <note>Digitized by The Frances Mulhall Achilles Library, Archives, Whitney Museum of American Art</note>
+  <subject authority="lcsh">
+    <topic>Art, American--20th Century--Sales</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Whitney Studio Club--Paperwork (Office practice)</topic>
+  </subject>
+  <physicalDescription>
+    <extent>20.3 cm (H) x 15 cm (W)</extent>
+    <note type="condition">Fair. Paper is slightly yellowed.</note>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/whitneystudioclub%3A52</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:whitneystudioclub_806</identifier><datestamp>2014-10-10T14:39:03Z</datestamp><setSpec>whitneystudioclub_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>The Red Table</title>
+  </titleInfo>
+  <originInfo>
+    <dateCreated encoding="iso8601">1927-1928</dateCreated>
+  </originInfo>
+  <abstract>Photograph of the painting "The Red Table" by Niles Spencer from the Traveling Exhibition, 1927-1928.</abstract>
+  <subject>
+    <name type="personal">
+      <namePart>Spencer, Niles, 1893-1952</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Painting, American--20th century</topic>
+  </subject>
+  <subject>
+    <name type="corporate">
+      <namePart>Whitney Studio Club</namePart>
+    </name>
+  </subject>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Whitney Studio Club and Galleries: Administrative and Exhibition Records, 1907-1930</title>
+    </titleInfo>
+  </relatedItem>
+  <note displayLabel="Is Part Of">Traveling Exhibition</note>
+  <location>
+    <physicalLocation>The Frances Mulhall Achilles Library, Archives, Whitney Museum of American Art</physicalLocation>
+  </location>
+  <accessCondition type="use and reproduction">The copying of any protected materials in this collection is prohibited, except for limited non-commercial, educational, and personal use only, or for fair use as defined in the U.S. copyright laws. Images from the Whitney's collection cannot be used for publication or commercial use without the prior written permission from the Museum's Rights and Reproductions Department. For more information about Terms and Conditions, please visit: http://whitney.org/TermsAndConditions</accessCondition>
+  <typeOfResource>image</typeOfResource>
+  <identifier type="local">wscg0047</identifier>
+  <note>Digitized by The Frances Mulhall Achilles Library, Archives, Whitney Museum of American Art</note>
+  <physicalDescription>
+    <extent>14.1 cm (H) x 22.6 cm (W)</extent>
+    <note type="condition">good; adhesive residue and discoloration on corners.</note>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/whitneystudioclub%3A806</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:whitneystudioclub_366</identifier><datestamp>2014-10-10T14:33:58Z</datestamp><setSpec>whitneystudioclub_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Juliana R. Force to Mrs. Cornelia Sage Quintan [sic], November 11, 1927</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Force, Juliana, 1876-1948</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Author</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateCreated encoding="iso8601">1927</dateCreated>
+  </originInfo>
+  <abstract>Telegram from Juliana Force to Cornelia Bentley Sage (Quinton), sent November 11, 1927.</abstract>
+  <subject>
+    <name type="personal">
+      <namePart>Sage, Cornelia Bentley</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Art, American--20th century--Exhibitions--Correspondence</topic>
+  </subject>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Whitney Studio Club and Galleries: Administrative and Exhibition Records, 1907-1930</title>
+    </titleInfo>
+  </relatedItem>
+  <note displayLabel="Is Part Of">Traveling Exhibition</note>
+  <location>
+    <physicalLocation>The Frances Mulhall Achilles Library, Archives, Whitney Museum of American Art</physicalLocation>
+  </location>
+  <accessCondition type="use and reproduction">The copying of any protected materials in this collection is prohibited, except for limited non-commercial, educational, and personal use only, or for fair use as defined in the U.S. copyright laws. Images from the Whitney's collection cannot be used for publication or commercial use without the prior written permission from the Museum's Rights and Reproductions Department. For more information about Terms and Conditions, please visit: http://whitney.org/TermsAndConditions</accessCondition>
+  <typeOfResource>text</typeOfResource>
+  <identifier type="local">wscg.0263</identifier>
+  <note>Digitized by The Frances Mulhall Achilles Library, Archives, Whitney Museum of American Art</note>
+  <subject>
+    <name type="corporate">
+      <namePart>California Palace of the Legion of Honor</namePart>
+    </name>
+  </subject>
+  <subject>
+    <name type="corporate">
+      <namePart>Whitney Studio Club</namePart>
+    </name>
+  </subject>
+  <physicalDescription>
+    <extent>17.5 cm (H) x 21.5 cm (W)</extent>
+    <note type="condition">Good. Encased in polyester sleeve.</note>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/whitneystudioclub%3A366</identifier>
+</mods>
+</metadata></record><resumptionToken expirationDate="2015-03-13T21:03:09Z" completeListSize="998" cursor="40">631668832</resumptionToken></ListRecords></OAI-PMH>

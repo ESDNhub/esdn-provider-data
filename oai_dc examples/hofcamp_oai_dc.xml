@@ -1,0 +1,1015 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2014-12-09T22:12:29Z</responseDate><request verb="ListRecords" metadataPrefix="oai_dc" set="p15281coll150">http://cdm16373.contentdm.oclc.org/oai/oai.php</request><ListRecords><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/0</identifier><datestamp>2012-02-06</datestamp><setSpec>p15281coll150</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/1</identifier><datestamp>2012-02-06</datestamp><setSpec>p15281coll150</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/2</identifier><datestamp>2012-02-06</datestamp><setSpec>p15281coll150</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/3</identifier><datestamp>2012-02-06</datestamp><setSpec>p15281coll150</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/4</identifier><datestamp>2012-02-06</datestamp><setSpec>p15281coll150</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/5</identifier><datestamp>2012-02-06</datestamp><setSpec>p15281coll150</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/6</identifier><datestamp>2012-02-06</datestamp><setSpec>p15281coll150</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/7</identifier><datestamp>2012-02-06</datestamp><setSpec>p15281coll150</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/8</identifier><datestamp>2012-02-06</datestamp><setSpec>p15281coll150</setSpec></header>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/9</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Camp Mills (N.Y.); Military camps--New York--Camp Mills--History--20th century; Soldiers--United States; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>Unidentified soldier (left) and Lieutenant Cullen (right) exercising.</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-1</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/9</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/10</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Camp Mills (N.Y.); Military camps--New York--Camp Mills--History--20th century; Soldiers--United States; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>Unidentified soldier.</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-2</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/10</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/11</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Camp Mills (N.Y.); Military camps--New York--Camp Mills--History--20th century; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>Aerial view of section of camp.</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-67</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/11</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/12</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Camp Mills (N.Y.); Military camps--New York--Camp Mills--History--20th century; Soldiers--United States; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>“Souza” and unidentified soldier in military vehicle.</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-3</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/12</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/13</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Cox, Fred; Hounker, Walter; Camp Mills (N.Y.); Military camps--New York--Camp Mills--History--20th century; Soldiers--United States; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>Fred Cox (left) and Walter Hounker (right) in military vehicle.</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-4</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/13</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/14</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Camp Mills (N.Y.); Military camps--New York--Camp Mills--History--20th century; Soldiers--United States; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>Unidentified soldier in front of tent.</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-5</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/14</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/15</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Cox, Fred; Camp Mills (N.Y.); Military camps--New York--Camp Mills--History--20th century; Soldiers--United States; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>Fred Cox in front of tent.</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-6</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/15</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/16</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Camp Mills (N.Y.); Military camps--New York--Camp Mills--History--20th century; Soldiers--Recreation; Soldiers--United States; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>Unidentified soldiers posing in “totem pole” formation.</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-8</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/16</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/17</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Cox, Fred; Camp Mills (N.Y.); Military camps--New York--Camp Mills--History--20th century; Soldiers--United States; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>Unidentified soldier (left) and Fred Cox (right) in front of tent.</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-7</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/17</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/18</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Hounker, Walter; Camp Mills (N.Y.); Influenza Epidemic, 1918-1919--United States; Military camps--New York--Camp Mills--History--20th century; Soldiers--United States; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>Walter Hounker (at right) and unidentified soldiers sitting in front of tent that was being aired out as precaution against spread of influenza.</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-9</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/18</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/19</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Camp Mills (N.Y.); Military camps--New York--Camp Mills--History--20th century; Soldiers--Recreation; Soldiers--United States; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>Unidentified soldiers playing “craps.”</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-10</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/19</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/20</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Camp Mills (N.Y.); Military camps--New York--Camp Mills--History--20th century; Soldiers--United States; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>Unidentified soldiers in front of barracks.</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-11</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/20</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/21</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Camp Mills (N.Y.); Military camps--New York--Camp Mills--History--20th century; Soldiers--United States; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>Unidentified soldier.</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-13</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/21</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/22</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Camp Mills (N.Y.); Military camps--New York--Camp Mills--History--20th century; Soldiers--United States; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>Unidentified soldier.</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-16</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/22</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/23</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Camp Mills (N.Y.); Military camps--New York--Camp Mills--History--20th century; Soldiers--United States; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>Unidentified soldier before departing for New York City.</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-14</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/23</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/24</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Camp Mills (N.Y.); Military camps--New York--Camp Mills--History--20th century; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>Building destroyed by fire.</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>January 4, 1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-15</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/24</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/25</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Cox, Fred; Hounker, Walter; Camp Mills (N.Y.); Military camps--New York--Camp Mills--History--20th century; Soldiers--United States; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>Fred Cox (left) and Walter Hounker (right) arguing over some bananas.</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-20</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/25</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/26</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Camp Mills (N.Y.); Military camps--New York--Camp Mills--History--20th century; Soldiers--United States; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>Unidentified soldier (left) and Lieutenant Cullen (right) outside of &quot;the joint.&quot;</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-17</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/26</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/27</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Camp Mills (N.Y.); Military camps--New York--Camp Mills--History--20th century; Soldiers--United States; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>Unidentified soldiers in front of tent.</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-18</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/27</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/28</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Camp Mills (N.Y.); Military camps--New York--Camp Mills--History--20th century; Soldiers--United States; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>Unidentified soldiers in front of tent.</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-19</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/28</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/29</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Camp Mills (N.Y.); Curtiss Engineering Corporation; Aeronautics--New York (State)--Long Island--History; Military camps--New York--Camp Mills--History--20th century; Soldiers--United States; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>“Dave” and unidentified soldier, warehouses and Curtiss plant in background.</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>March 12, 1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-26</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/29</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/30</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Camp Mills (N.Y.); Military camps--New York--Camp Mills--History--20th century; Soldiers--United States; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>“Dave” posing in park.</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>March 12, 1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-21</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/30</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/31</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Camp Mills (N.Y.); Military camps--New York--Camp Mills--History--20th century; Soldiers--United States; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>Unidentified soldiers standing in field.</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>March 12, 1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-22</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/31</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/32</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Camp Mills (N.Y.); Military camps--New York--Camp Mills--History--20th century; Soldiers--United States; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>Walkway and view of the “Y.”</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>March 12, 1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-23</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/32</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/33</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Camp Mills (N.Y.); Military camps--New York--Camp Mills--History--20th century; Soldiers--United States; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>Unidentified soldier standing in park.</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>March 12, 1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-24</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/33</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/34</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Camp Mills (N.Y.); Military camps--New York--Camp Mills--History--20th century; Soldiers--United States; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>Unidentified soldiers standing in street.</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>March 12, 1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-25</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/34</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/35</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Camp Mills (N.Y.); Curtiss Engineering Corporation; Aeronautics--New York (State)--Long Island--History; Military camps--New York--Camp Mills--History--20th century; Soldiers--United States; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>Unidentified soldier (left) and “Souza” (right), warehouses and Curtiss plant in background.</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>March 12, 1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-29</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/35</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/36</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Camp Mills (N.Y.); Military camps--New York--Camp Mills--History--20th century; Soldiers--United States; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>“Souza” (left) and unidentified soldier (right) in front of Colonel’s car.</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>March 12, 1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-27</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/36</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/37</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Camp Mills (N.Y.); Military camps--New York--Camp Mills--History--20th century; Soldiers--United States; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>Unidentified soldiers in front of Colonel’s car.</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>March 12, 1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-28</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/37</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/38</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Hounker, Walter; Camp Mills (N.Y.); Military camps--New York--Camp Mills--History--20th century; Soldiers--United States; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>Walter Hounker (left) with unidentified soldier (right).</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-37</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/38</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/39</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Camp Mills (N.Y.); Military camps--New York--Camp Mills--History--20th century; Soldiers--United States; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>Unidentified soldier (left), “Dave” (center) and “Souza” (right).</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>March 12, 1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-30</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/39</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/40</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Camp Mills (N.Y.); Influenza Epidemic, 1918-1919--United States; Military camps--New York--Camp Mills--History--20th century; Soldiers--United States; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918; World War, 1914-1918--Health aspects</dc:subject>
+<dc:description>Unidentified soldiers in front of tents that were being aired out as precaution against spread of influenza.</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-31</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/40</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/41</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Camp Mills (N.Y.); Influenza Epidemic, 1918-1919--United States; Military camps--New York--Camp Mills--History--20th century; Soldiers--United States; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918; World War, 1914-1918--Health aspects</dc:subject>
+<dc:description>Unidentified soldiers in front of tent that was being aired out as precaution against spread of influenza.</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-12</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/41</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/42</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Camp Mills (N.Y.); Influenza Epidemic, 1918-1919--United States; Military camps--New York--Camp Mills--History--20th century; Soldiers--United States; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>Unidentified soldier in front of tent that was being aired out as precaution against spread of influenza.</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-32</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/42</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/43</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Camp Mills (N.Y.); Military camps--New York--Camp Mills--History--20th century; Soldiers--United States; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>Unidentified soldiers standing in front of tent.</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-33</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/43</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/44</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Camp Mills (N.Y.); Military camps--New York--Camp Mills--History--20th century; Soldiers--United States; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>Unidentified soldiers standing in front of tents.</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-34</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/44</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/45</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Camp Mills (N.Y.); Influenza Epidemic, 1918-1919--United States; Military camps--New York--Camp Mills--History--20th century; Soldiers--United States; United States. Army--Military life--History--20th century; United States. Army. Quartermaster Corps; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>Quartermasters sitting in front of tent that was being aired out as precaution against the spread of influenza.</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-35</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/45</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/46</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Cox, Fred; Camp Mills (N.Y.); Military camps--New York--Camp Mills--History--20th century; Soldiers--United States; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>Fred Cox (bottom left) with unidentified soldiers.</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-36</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/46</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/47</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Camp Mills (N.Y.); Military camps--New York--Camp Mills--History--20th century; Soldiers--United States; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>Unidentified soldier having a snack.</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-38</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/47</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/48</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Cox, Fred; Camp Mills (N.Y.); Military camps--New York--Camp Mills--History--20th century; Soldiers--Recreation; Soldiers--United States; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>Fred Cox (right) playing cards with unidentified soldiers.</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-42</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/48</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/49</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Camp Mills (N.Y.); Military camps--New York--Camp Mills--History--20th century; Soldiers--United States; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>Unidentified soldiers on a Sunday afternoon.</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-39</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/49</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/50</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Camp Mills (N.Y.); Military camps--New York--Camp Mills--History--20th century; Soldiers--United States; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>Unidentified soldier in front of a hedge, smoking a cigarette.</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-40</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/50</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/51</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Harr, John L.; Camp Mills (N.Y.); Military camps--New York--Camp Mills--History--20th century; Soldiers--United States; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>Unidentified soldier (left) with John L. Harr (right).</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-41</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/51</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/52</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Hounker, Walter; Camp Mills (N.Y.); Military camps--New York--Camp Mills--History--20th century; Soldiers--United States; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>Walter Hounker in front of tent.</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-43</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/52</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/53</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Camp Mills (N.Y.); Military camps--New York--Camp Mills--History--20th century; Soldiers--United States; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>Unidentified soldier with mess equipment, before a meal.</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-44</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/53</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/54</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>LaGarr, Barney; Camp Mills (N.Y.); Military camps--New York--Camp Mills--History--20th century; Soldiers--United States; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>Unidentified soldier (left) and Barney LaGarr (right).</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-45</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/54</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/55</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Camp Mills (N.Y.); Military camps--New York--Camp Mills--History--20th century; Soldiers--United States; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>Unidentified soldier reading a letter.</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-46</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/55</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/56</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Camp Mills (N.Y.); Military camps--New York--Camp Mills--History--20th century; Soldiers--United States; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>Unidentified soldier (left) and “Souza” (right) in front of tent.</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-47</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/56</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/57</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Cox, Fred; Camp Mills (N.Y.); Military camps--New York--Camp Mills --History--20th century; Soldiers--United States; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>Fred Cox (second from right) and unidentified soldiers.</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-48</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/57</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/58</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Camp Mills (N.Y.); Influenza Epidemic, 1918-1919--United States; Military camps--New York--Camp Mills--History--20th century; Soldiers--United States; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>Quartermasters sitting in front of tent that was being aired out as precaution against the spread of influenza.</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-49</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/58</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/59</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Camp Mills (N.Y.); Military camps--New York--Camp Mills--History--20th century; Soldiers--United States; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>“Souza” (at right) with unidentified soldiers on ship.</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>January 4, 1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-50</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/59</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/60</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Camp Mills (N.Y.); Military camps--New York--Camp Mills--History--20th century; Sailors--American--1910-1920; Soldiers--United States; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>Unidentified sailor (left) and unidentified soldier (right) on ship.</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>January 4, 1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-51</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/60</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/61</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Camp Mills (N.Y.); Military camps--New York--Camp Mills--History--20th century; Sailors--American--1910-1920; Soldiers--United States; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>“Souza” (top row, right) with unidentified soldiers and unidentified sailor (bottom row, right) on ship.</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>January 4, 1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-52</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/61</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/62</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Camp Mills (N.Y.); Military camps--New York--Camp Mills--History--20th century; Soldiers--United States; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>Unidentified soldier in overcoat.</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-53</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/62</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/63</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Camp Mills (N.Y.); Military camps--New York--Camp Mills--History--20th century; Soldiers--United States; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>Lieutenant Cullen (center) with Croty and Hannagan.</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-54</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/63</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/64</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Camp Mills (N.Y.); Military camps--New York--Camp Mills--History--20th century; Soldiers--United States; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>Lieutenant Cullen and unidentified soldiers.</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-55</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/64</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/65</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Camp Mills (N.Y.); Curtiss Engineering Corporation; Aeronautics--New York (State)--Long Island--History; Military camps--New York--Camp Mills--History--20th century; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>View of the Curtiss Plant.</dc:description>
+<dc:coverage>Garden City, NY</dc:coverage>
+<dc:date>1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-56</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/65</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/66</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Camp Mills (N.Y.); Military camps--New York--Camp Mills--History--20th century; Soldiers--United States; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>Unidentified soldier in front of local residence.</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-57</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/66</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/67</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Hounker, Walter; LaGarr, Barney; Camp Mills (N.Y.); Military camps--New York--Camp Mills--History--20th century; Soldiers--United States; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>“Souza” (far left), Walter Hounker (second from left), Barney LaGarr (crouching on ground) and unidentified soldiers in front of barracks.</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>April 2, 1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-58</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/67</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/68</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Camp Mills (N.Y.); Military camps--New York--Camp Mills--History--20th century; Soldiers--Recreation; Soldiers--United States; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>Unidentified soldiers in front of Liberty Theatre.</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>March 12, 1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-59</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/68</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/69</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Camp Mills (N.Y.); Military camps--New York--Camp Mills--History--20th century; Soldiers--Recreation; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>Aerial view of Liberty Theatre showing Hempstead and Garden City in distance.</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-60</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/69</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/70</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Camp Mills (N.Y.); Military camps--New York--Camp Mills--History--20th century; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>Aerial view of section of camp showing Garden City in distance.</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-61</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/70</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/71</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Camp Mills (N.Y.); Military camps--New York--Camp Mills--History--20th century; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>Aerial view of barracks.</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-62</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/71</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/72</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Camp Mills (N.Y.); Military camps--New York--Camp Mills--History--20th century; Soldiers--United States; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>“Souza” (right) sitting with unidentified soldier.</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>March 12, 1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-63</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/72</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/73</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Camp Mills (N.Y.); Long Island Railroad Company--History; Military camps--New York--Camp Mills--History--20th century; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>View of the Hempstead Long Island Rail Road Station.</dc:description>
+<dc:coverage>Hempstead, NY</dc:coverage>
+<dc:date>1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-64</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/73</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/74</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Camp Mills (N.Y.); Military camps--New York--Camp Mills--History--20th century; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>Aerial view showing canteen in left foreground.</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-65</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/74</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p15281coll150/75</identifier><datestamp>2011-08-23</datestamp><setSpec>p15281coll150</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Camp Mills</dc:title>
+<dc:subject>Camp Mills (N.Y.); Military camps--New York--Camp Mills--History--20th century; United States. Army--Military life--History--20th century; United States--History--World War I, 1914-1918</dc:subject>
+<dc:description>Aerial view of road leading to the Curtiss Plant.</dc:description>
+<dc:coverage>Mineola, NY</dc:coverage>
+<dc:date>1919</dc:date>
+<dc:format>Photograph</dc:format>
+<dc:source>Camp Mills Photographs</dc:source>
+<dc:identifier>Camp Mills 1-66</dc:identifier>
+<dc:publisher>Hofstra University, Special Collections Department, Long Island Studies Institute</dc:publisher>
+<dc:rights>Hofstra University is the copyright holder of this photograph. Permission to copy or publish any portion of the Hofstra University collection must be given by Hofstra University.</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p15281coll150/id/75</dc:identifier></oai_dc:dc>
+</metadata>
+</record></ListRecords></OAI-PMH>

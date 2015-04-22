@@ -1,0 +1,1430 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2014-10-07T18:13:54Z</responseDate><request verb="ListRecords" metadataPrefix="oai_dc" set="p261501coll8">http://cdm16694.contentdm.oclc.org/oai/oai.php</request><ListRecords><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/0</identifier><datestamp>2012-05-16</datestamp><setSpec>p261501coll8</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/1</identifier><datestamp>2012-05-16</datestamp><setSpec>p261501coll8</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/2</identifier><datestamp>2012-05-16</datestamp><setSpec>p261501coll8</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/3</identifier><datestamp>2012-05-16</datestamp><setSpec>p261501coll8</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/4</identifier><datestamp>2012-05-16</datestamp><setSpec>p261501coll8</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/5</identifier><datestamp>2012-05-16</datestamp><setSpec>p261501coll8</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/6</identifier><datestamp>2012-05-16</datestamp><setSpec>p261501coll8</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/7</identifier><datestamp>2012-05-16</datestamp><setSpec>p261501coll8</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/8</identifier><datestamp>2012-05-16</datestamp><setSpec>p261501coll8</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/9</identifier><datestamp>2012-05-16</datestamp><setSpec>p261501coll8</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/10</identifier><datestamp>2012-05-16</datestamp><setSpec>p261501coll8</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/11</identifier><datestamp>2012-05-16</datestamp><setSpec>p261501coll8</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/12</identifier><datestamp>2012-05-16</datestamp><setSpec>p261501coll8</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/13</identifier><datestamp>2012-05-16</datestamp><setSpec>p261501coll8</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/14</identifier><datestamp>2012-05-16</datestamp><setSpec>p261501coll8</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/15</identifier><datestamp>2012-05-16</datestamp><setSpec>p261501coll8</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/16</identifier><datestamp>2012-05-16</datestamp><setSpec>p261501coll8</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/17</identifier><datestamp>2012-05-16</datestamp><setSpec>p261501coll8</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/18</identifier><datestamp>2012-05-16</datestamp><setSpec>p261501coll8</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/19</identifier><datestamp>2012-05-16</datestamp><setSpec>p261501coll8</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/20</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Clement Bowers and family dog, Bibbs, c.1902 (3 of 4)</dc:title>
+<dc:description>Clement Bowers, younger brother of photographer and artist Franck Taylor Bowers, and the family dog, Bibbs, taken at their Binghamton, NY home.</dc:description>
+<dc:creator>Bowers, Franck Taylor</dc:creator>
+<dc:subject>Bowers, Franck Taylor; Bowers, Clement; Animals</dc:subject>
+<dc:subject>People; Daily Life</dc:subject>
+<dc:date>c.1902</dc:date>
+<dc:date>1902</dc:date>
+<dc:source>Glass-plate Negative;</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>3.153</dc:identifier>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society.  Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/20</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/21</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Female model in blanket (4 of 5)</dc:title>
+<dc:description>Female model wearing a blanket and holding a large vase.  Taken as a study for a possible painting by the photographer.</dc:description>
+<dc:creator>Bowers, Franck Taylor</dc:creator>
+<dc:subject>Bowers, Franck Taylor; Art</dc:subject>
+<dc:subject>People; Arts &amp; Entertainment</dc:subject>
+<dc:date>c.1910</dc:date>
+<dc:date>1910</dc:date>
+<dc:source>Glass-plate Negative;</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>4.65</dc:identifier>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society.  Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/21</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/22</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Frances Bowers in hat, fitted jacket on lawn</dc:title>
+<dc:description>Frances Bowers, wife of the photographer, wearing a fitted jacket and large hat while standing on the lawn.</dc:description>
+<dc:creator>Bowers, Franck Taylor</dc:creator>
+<dc:subject>Bowers, Franck Taylor; Bowers, Frances</dc:subject>
+<dc:subject>People;</dc:subject>
+<dc:date>c.1915</dc:date>
+<dc:date>1915</dc:date>
+<dc:source>Glass-plate Negative;</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>3.65</dc:identifier>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society.  Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/22</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/23</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Possibly John D. Rockefeller holding Clement Bowers</dc:title>
+<dc:description>Possible image of John D. Rockefeller, the partner of Lamont Bowers who is the father of Clement Bowers, the infant seated on the man&#x27;s lap.  Bowers was the financial advisor to Rockefeller and helped run his operation in both New York and Colorado.</dc:description>
+<dc:creator>Bowers, Franck Taylor</dc:creator>
+<dc:subject>Bowers, Lamont; Rockfeller, John D.</dc:subject>
+<dc:subject>People;</dc:subject>
+<dc:date>c.1900</dc:date>
+<dc:date>1900</dc:date>
+<dc:source>Glass-plate Negative;</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>4.91</dc:identifier>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society.  Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/23</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/24</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Franck Taylor Bowers, self-portrait, standing by works, used as cover illustration for exhibit catalog</dc:title>
+<dc:description>Franck Taylor Bowers self-portrait standing in his studio surrounded by his works.  This photograph was used as the cover illustration for the exhibit catalog of an exhibit held at Roberson Museum &amp; Science Center.</dc:description>
+<dc:creator>Bowers, Franck Taylor</dc:creator>
+<dc:subject>Bowers, Franck Taylor; Art; Photography</dc:subject>
+<dc:subject>People; Arts &amp; Entertainment</dc:subject>
+<dc:date>c.1910</dc:date>
+<dc:date>1910</dc:date>
+<dc:source>Glass-plate Negative;</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>3.9</dc:identifier>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society.  Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/24</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/25</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Franck Taylor Bowers, State Fair series (6 of 8)</dc:title>
+<dc:description>Artwork by Franck Taylor Bowers depicting the State Fair done in a series of paintings.  This is one of eight depictions in the Bowers Collection.</dc:description>
+<dc:creator>Bowers, Franck Taylor</dc:creator>
+<dc:subject>Bowers, Franck Taylor; Art</dc:subject>
+<dc:subject>People; Arts &amp; Entertainment</dc:subject>
+<dc:date>c.1900</dc:date>
+<dc:date>1900</dc:date>
+<dc:source>Glass-plate Negative;</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>2.06</dc:identifier>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society.  Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/25</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/26</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Franck Taylor Bowers, Works, cover illustration for The Household magazine, August 1902</dc:title>
+<dc:description>This artwork by Franck Taylor Bowers was used the as the cover of The House Magazine in August 1902.  The original home used as the model for this painting is located in Broome County, NY.</dc:description>
+<dc:creator>Bowers, Franck Taylor</dc:creator>
+<dc:subject>Bowers, Franck Taylor; Art</dc:subject>
+<dc:subject>People; Arts &amp; Entertainment</dc:subject>
+<dc:date>1902</dc:date>
+<dc:date>1902</dc:date>
+<dc:source>Glass-plate Negative;</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>2.12</dc:identifier>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society.  Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/26</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/27</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Glen Knob, Bowers Farm, dining room with Lamont Bowers, Fanny Bowers, Clement Bowers and Frances Bowers seated at table</dc:title>
+<dc:description>Franck Taylor Bowers took this picture of the dining room at the Bowers&#x27; summer residence, Glen Knob, which was located in the Town of Dickinson, about 4 miles from the family &quot;mansion&quot; in Binghamton.</dc:description>
+<dc:creator>Bowers, Franck Taylor</dc:creator>
+<dc:subject>Bowers, Franck Taylor; Architecture; Bowers, Lamont; Bowers, Clement; Broome County</dc:subject>
+<dc:subject>People; Architecture; Daily Life</dc:subject>
+<dc:date>c.1910</dc:date>
+<dc:date>1910</dc:date>
+<dc:source>Glass-plate Negative;</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>3.06</dc:identifier>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society.  Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/27</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/28</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>203 Main St., Binghamton (Lamont Bowers residence) with porch</dc:title>
+<dc:description>Front view of the Lamont Bowers home at 203 Main Street in Binghamton and taken by his son, Franck Taylor Bowers.  Lamont Bowers was the financial advisor and partner of John D. Rockefeller.</dc:description>
+<dc:creator>Bowers, Franck Taylor</dc:creator>
+<dc:subject>Bowers, Lamont; Binghamton</dc:subject>
+<dc:subject>Architecture</dc:subject>
+<dc:date>c.1915</dc:date>
+<dc:date>1915</dc:date>
+<dc:source>Glass-plate Negative;</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>3.08</dc:identifier>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society.  Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/28</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/29</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Josiah Bonsell, staff of Bowers family, 1902, telling stories; Josiah Bonsell, staff of Bowers family, 1902, telling stories.tif</dc:title>
+<dc:description>Josiah Bonsell, an African-American staff member of the Lamont Bowers family, leans against a building telling stories to the neighborhood.</dc:description>
+<dc:creator>Bowers, Franck Taylor</dc:creator>
+<dc:subject>Bowers, Lamont; Bonsell, Josiah; African-Americans</dc:subject>
+<dc:subject>People; Ethnic groups</dc:subject>
+<dc:date>1902</dc:date>
+<dc:date>1902</dc:date>
+<dc:source>Glass-plate Negative;</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1.94</dc:identifier>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society.  Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/29</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/30</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Lamont Bowers and Franck Taylor Bowers in parlor</dc:title>
+<dc:description>Lamont Bowers and his son, Franck Taylor Bowers, sitting in their parlor at their home at 203 Main Street in Binghamton.</dc:description>
+<dc:creator>Bowers, Franck Taylor</dc:creator>
+<dc:subject>Bowers, Lamont; Bowers, Franck Taylor</dc:subject>
+<dc:subject>People; Daily Life</dc:subject>
+<dc:date>c.1910</dc:date>
+<dc:date>1910</dc:date>
+<dc:source>Glass-plate Negative;</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>3.45</dc:identifier>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society.  Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/30</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/31</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Lou Johnson, nursemaid for Bowers family, with Lamont Bowers, seated</dc:title>
+<dc:description>Lamont Bowers with the family&#x27;s nursemaid, Lou Johnson, in the Bowers family home at 203 Main Street in Binghamton, NY.</dc:description>
+<dc:creator>Bowers, Franck taylor</dc:creator>
+<dc:subject>Bowers; Lamont; Johnson, Lou</dc:subject>
+<dc:subject>People; Daily Life</dc:subject>
+<dc:date>c.1910</dc:date>
+<dc:date>1910</dc:date>
+<dc:source>Glass-plate Negative;</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1.111</dc:identifier>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society.  Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/31</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/32</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Male model dressed in toga standing with male model seated on left</dc:title>
+<dc:description>Male model dress in a toga used as a study for a painting by the photographer, Franck Taylor Bowers.</dc:description>
+<dc:creator>Bowers, Franck Taylor</dc:creator>
+<dc:subject>Bowers, Franck Taylor; Art; Photography</dc:subject>
+<dc:subject>People; Arts &amp; Entertainment</dc:subject>
+<dc:date>ca.1910</dc:date>
+<dc:date>1910</dc:date>
+<dc:source>Glass-plate Negative;</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>4.12</dc:identifier>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society.  Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/32</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/33</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Bowers Denver home with four children and two older youth in front</dc:title>
+<dc:description>Lamont Bowers home in Denver, Colorado with several children in front during the winter time.</dc:description>
+<dc:creator>Bowers, Franck Taylor</dc:creator>
+<dc:subject>Bowers, Lamont; Denver; Children</dc:subject>
+<dc:subject>People; Daily Life</dc:subject>
+<dc:date>c. 1900</dc:date>
+<dc:date>1900</dc:date>
+<dc:source>Glass-plate Negative;</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>2.79</dc:identifier>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society.  Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/33</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/34</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Bowers railroad car, Sunrise, 1911, with six people on outside on car by tracks</dc:title>
+<dc:description>Private railroad car of Lamont Bowers.  The car was called Sunrise and was used to transport the Bowers family from their Denver home to Binghamton, NY.</dc:description>
+<dc:creator>Bowers, Franck Taylor</dc:creator>
+<dc:subject>Bowers, Lamont; Railroads; Transportation</dc:subject>
+<dc:subject>Transportation; People</dc:subject>
+<dc:date>1911</dc:date>
+<dc:date>1911</dc:date>
+<dc:source>Glass-plate Negative;</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>3.03</dc:identifier>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society.  Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/34</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/35</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>New York City street scene, c.1900</dc:title>
+<dc:description>A typical New York City street scene about 1900.  Trolleys and other passerbys fill the street.</dc:description>
+<dc:creator>Bowers, Franck Taylor</dc:creator>
+<dc:subject>Bowers, Franck Taylor; New York City; Transportation</dc:subject>
+<dc:subject>Daily Life; Transportation</dc:subject>
+<dc:date>c.1900</dc:date>
+<dc:date>1900</dc:date>
+<dc:source>Glass-plate Negative;</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>2.87</dc:identifier>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society.  Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/35</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/36</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Model dressed as jester (2 of 4)</dc:title>
+<dc:description>Young man dressed as a jester and used as a study for a painting by the photographer, Franck Taylor Bowers.</dc:description>
+<dc:creator>Bowers, Franck Taylor</dc:creator>
+<dc:subject>Bowers, Franck Taylor; Art; Photography</dc:subject>
+<dc:subject>People; Arts &amp; Entertainment</dc:subject>
+<dc:date>c.1910</dc:date>
+<dc:date>1910</dc:date>
+<dc:source>Glass-plate Negative;</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>4.04</dc:identifier>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society.  Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/36</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/37</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Possibly Charles Chapman from rear in covered chair and working on artwork</dc:title>
+<dc:description>Charles Chapman, artist and friend of the photographer and artist, Franck Taylor Bowers, seated and working on an illustration.</dc:description>
+<dc:creator>Bowers, Franck Taylor</dc:creator>
+<dc:subject>Bowers, Franck Taylor; Chapman, Charles; Art</dc:subject>
+<dc:subject>People; Arts &amp; Entertainment</dc:subject>
+<dc:date>c.1900</dc:date>
+<dc:date>1900</dc:date>
+<dc:source>Glass-plate Negative;</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>4.47</dc:identifier>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society.  Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/37</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/38</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Mr. Peck, Samantha series, 1903, lived on Main St., Binghamton across from Bowers residence</dc:title>
+<dc:description>Photograph of Mr. Peck who lived near the Lamont Bowers family in Binghamton, NY.  He was dressed as a model for a series of illustrations created by Franck Taylor Bowers called the Samantha series.</dc:description>
+<dc:creator>Bowers, Franck Taylor</dc:creator>
+<dc:subject>Bowers, Franck Taylor; Art, Photography</dc:subject>
+<dc:subject>People; Arts &amp; Entertainment</dc:subject>
+<dc:date>1903</dc:date>
+<dc:date>1903</dc:date>
+<dc:source>Glass-plate Negative;</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>2.67</dc:identifier>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society.  Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/38</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/39</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>New York City street scene with men in front of store</dc:title>
+<dc:description>Street scene of stores on a New York City street with several men on the sidewalk.</dc:description>
+<dc:creator>Bowers, Franck Taylor</dc:creator>
+<dc:subject>Bowers, Franck Taylor; New York City</dc:subject>
+<dc:subject>People;</dc:subject>
+<dc:date>c.1900</dc:date>
+<dc:date>1900</dc:date>
+<dc:source>Glass-plate Negative;</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>2.101</dc:identifier>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society.  Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/39</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/40</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>African-American woman (possible household staff of Lamont Bowers) sitting</dc:title>
+<dc:description>People scene</dc:description>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:subject>People</dc:subject>
+<dc:date>ca 1910</dc:date>
+<dc:date>1910</dc:date>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/40</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/41</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Barn raising</dc:title>
+<dc:description>Building a barn.  Site is unknown.</dc:description>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:subject>Agriculture</dc:subject>
+<dc:date>ca. 1900</dc:date>
+<dc:date>1900</dc:date>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/41</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/42</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Barn interior showing multiple stalls</dc:title>
+<dc:description>Barn site is unknown.</dc:description>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:subject>Agriculture Science</dc:subject>
+<dc:subject>Agriculture</dc:subject>
+<dc:date>ca 1920</dc:date>
+<dc:date>1920</dc:date>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/42</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/43</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Basement of 203 Main St. (Lamont Bowers residence), Binghamton (1 of 2)</dc:title>
+<dc:description>Household scene</dc:description>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>ca 1910</dc:date>
+<dc:date>1910</dc:date>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/43</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/44</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Boat approaching wharf on waterway</dc:title>
+<dc:description>Transportation scene</dc:description>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:subject>Transportation</dc:subject>
+<dc:date>ca. 1900</dc:date>
+<dc:date>1900</dc:date>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/44</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/45</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Church, unknown location, with ornate steeple with four peaks</dc:title>
+<dc:description>Church</dc:description>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:subject>Philosophy &amp; Religion</dc:subject>
+<dc:date>ca. 1900</dc:date>
+<dc:date>1900</dc:date>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/45</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/46</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Church, unknown location, with tall steeple and center entry</dc:title>
+<dc:description>Church</dc:description>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:subject>Philosophy &amp; Religion</dc:subject>
+<dc:date>ca. 1910</dc:date>
+<dc:date>1910</dc:date>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/46</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/47</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Civil War monument, unknown location</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:subject>Military &amp; War</dc:subject>
+<dc:date>ca. 1910</dc:date>
+<dc:date>1910</dc:date>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/47</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/48</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Corner building in urban street with woman entering doorway</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:subject>Daily Life; People</dc:subject>
+<dc:date>ca 1910</dc:date>
+<dc:date>1910</dc:date>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/48</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/49</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Dam and mill building, unknown location</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:subject>Architecture</dc:subject>
+<dc:date>ca 1910</dc:date>
+<dc:date>1910</dc:date>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/49</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/50</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Decorated Christmas tress in parlor</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>ca. 1900</dc:date>
+<dc:date>1900</dc:date>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/50</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/51</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Equipment in possible dairy (cheese) operation</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:subject>Architecture</dc:subject>
+<dc:date>ca. 1900</dc:date>
+<dc:date>1900</dc:date>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/51</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/52</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Fanny Bowers seated in rear of parlor at 203 Main St., Binghamton (Lamont Bowers residence)</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:subject>Daily Life</dc:subject>
+<dc:date>ca. 1915</dc:date>
+<dc:date>1915</dc:date>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/52</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/53</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Farmer standing in cornfield</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:subject>Agriculture</dc:subject>
+<dc:date>ca. 1900</dc:date>
+<dc:date>1900</dc:date>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/53</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/54</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Farmer with one-horse plow in field</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:subject>People; Daily Life</dc:subject>
+<dc:date>ca. 1900</dc:date>
+<dc:date>1900</dc:date>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/54</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/55</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Four-story Italinate building with cupola and multiple columns</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:subject>Architecture</dc:subject>
+<dc:date>ca. 1900</dc:date>
+<dc:date>1900</dc:date>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/55</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/56</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Frances Bowers at her dressing table (2 of 3)</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:subject>Daily Life; People</dc:subject>
+<dc:date>ca. 1915</dc:date>
+<dc:date>1915</dc:date>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/56</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/57</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Franck Taylor Bowers wearing waiter&#x27;s apron and towel over arm</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:subject>Daily Life; People</dc:subject>
+<dc:date>ca 1910</dc:date>
+<dc:date>1910</dc:date>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/57</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/58</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Franck Taylor Bowers, self-portrait, seated in formal attire (1 of 3)</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:subject>People</dc:subject>
+<dc:date>ca. 1900</dc:date>
+<dc:date>1900</dc:date>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/58</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/59</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Franck Taylor Bowers, Works, painting of nude male from rear</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:subject>Arts &amp; Entertainment; People</dc:subject>
+<dc:date>ca 1920</dc:date>
+<dc:date>1920</dc:date>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/59</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/60</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Gallows and hanging of three individuals, possible Philippine Insurrection (3 of 3), positive images</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:date>ca. 1900</dc:date>
+<dc:date>1900</dc:date>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/60</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/61</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Group of people in front of peddler&#x27;s wagon (peddler in long coat in middle)</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:date>ca. 1915</dc:date>
+<dc:date>1915</dc:date>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/61</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/62</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Group of six people standing in front of federal style house with two-horse team and a goat</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:subject>Architecture</dc:subject>
+<dc:date>ca. 1900</dc:date>
+<dc:date>1900</dc:date>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/62</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/63</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Harbor, probably with New York, and major bridge in rear</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:date>ca. 1900</dc:date>
+<dc:date>1900</dc:date>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/63</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/64</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Haying operation, unknown location, c. 1900</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:date>ca. 1915</dc:date>
+<dc:date>1915</dc:date>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/64</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/65</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Hearse with glass sides in front of possible mausoleum with two men near hearse</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:date>ca. 1900</dc:date>
+<dc:date>1900</dc:date>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/65</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/66</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Horse and sleigh in front of small house, unknown location</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:date>ca. 1900</dc:date>
+<dc:date>1900</dc:date>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/66</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/67</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>House entry with foliage over entire entrance</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:date>ca. 1900</dc:date>
+<dc:date>1900</dc:date>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/67</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/68</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Ice pond with men and wagon moving blocks of ice</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:date>ca. 1915</dc:date>
+<dc:date>1915</dc:date>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/68</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/69</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Illustration of Self Love and Self Denial (possible Franck Taylor Bowers work)</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:date>ca. 1900</dc:date>
+<dc:date>1900</dc:date>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/69</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/70</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Image of illustration Messiah&#x27;s Kingdom Foretold</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:date>ca. 1900</dc:date>
+<dc:date>1900</dc:date>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/70</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/71</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Interior of schoolhouse with rows of desks</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:date>ca. 1900</dc:date>
+<dc:date>1900</dc:date>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/71</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/72</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Janet Whitney Bowers in seated pose near window (4 of 4)</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:date>ca 1910</dc:date>
+<dc:date>1910</dc:date>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/72</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/73</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Lamont Bowers sitting on porch with hat (1 of 2)</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:date>ca. 1915</dc:date>
+<dc:date>1915</dc:date>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/73</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/74</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Landscape, unknown location with reflections of trees in water (1 of 2)</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:date>ca 1910</dc:date>
+<dc:date>1910</dc:date>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/74</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/75</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Landscape, unknown location with stream and tree reflections (1 of 3)</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:date>ca. 1910</dc:date>
+<dc:date>1910</dc:date>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/75</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/76</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Little girl leaning against fence railing in park setting</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:subject>Architecture</dc:subject>
+<dc:date>ca. 1900</dc:date>
+<dc:date>1900</dc:date>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/76</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/77</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Male model in bowler standing in office</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:date>ca 1910</dc:date>
+<dc:date>1910</dc:date>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/77</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/78</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Man and small boy working on rowboat in yard</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:date>ca. 1915</dc:date>
+<dc:date>1915</dc:date>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/78</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/79</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Man holding stalks</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:date>ca. 1900</dc:date>
+<dc:date>1900</dc:date>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/79</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/80</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Man in cart being pulled by ox in front of store</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:date>ca. 1915</dc:date>
+<dc:date>1915</dc:date>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/80</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/81</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Man standing in greenhouse full of poinsettias</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/81</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/82</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Man with bowler plays chess with bearded man with top hat while third man watches</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/82</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/83</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Man with bowler seated in one-horse buggy on country road</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/83</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/84</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Man with cap riding bicycle on sidewalk</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/84</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/85</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Man with hat and moustache sitting under a tree</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/85</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/86</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Man with hat holding rifle standing next to slain deer</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/86</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/87</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Man with heavy topcoat on hat standing next to sleigh in winter</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/87</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/88</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Man working in a pumpkin patch</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/88</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/89</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Man&#x27;s figure against the landscape near the Little Choconut Creek</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/89</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/90</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Modeling study, six groups of people in 24 vignettes, including man second from right</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/90</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/91</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Modeling study, with five groups of people in 20 vignettes</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/91</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/92</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Mrs. John Rankin (Janet Ryan Whitney, wife of John Rankin), born 1862 and died 1951, mother of Janet Whitney Bowers, with large dog</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/92</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/93</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Nine women with rakes in a field</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/93</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/94</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>People standing outside of a possible carnival tent</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/94</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/95</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Rev. Marsh of England, 1898, in hammock</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/95</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/96</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Small village in distance as seen from country road</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/96</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/97</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Statue of Native American with bow and dog on large boulder</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/97</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/98</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Stone fireplace mantle and hearth with mantle clock</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:subject>Architecture</dc:subject>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/98</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/99</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Street scene in winter with Victorian homes on left and street lamp</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/99</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/100</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Street view, unknown location, with trolley tracks in foreground and major building in rear</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/100</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/101</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Study with interesting shaped barrel chair</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/101</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/102</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Susquehanna River at Great Bend, Pennsylvania</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/102</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/103</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Train engine in distance with smoke coming from stack</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/103</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/104</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Train engine on track in front of building with Norwich on sign</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/104</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/105</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Turkey in farm yard</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/105</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/106</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Two men, a woman and dog around a farm implement</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/106</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/107</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Two women resting against a hammock</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/107</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/108</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Two women, one pushing the other around in a wheelbarrow</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/108</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/109</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Two young girls and two boys and family dog, Bibbs in yard</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/109</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/110</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Valley with snow in spots, barns and houses can be seen</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/110</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/111</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Wagon with barrels coming into a large facility</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/111</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/112</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Winding lane through trees with horse at left</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/112</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/113</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Woman in winter clothes pulling small girl on sled across the ice, building in rear</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/113</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/114</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Young boy with early tricycle near houses</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/114</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/115</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Young man and young women sitting on bench in conversation</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/115</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/116</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Young woman in housekeeper&#x27;s clothing seated holding broom and dustpan</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/116</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p261501coll8/117</identifier><datestamp>2014-06-17</datestamp><setSpec>p261501coll8</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Zella, the Gypsy Fortune Teller&#x27;s tent</dc:title>
+<dc:creator>Franck Taylor Bowers</dc:creator>
+<dc:source>5 X 7 inches</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Bowers Collection</dc:relation>
+<dc:rights>This digital image may be used for one time personal use, as long as it is not altered in any way and proper credit is given that it is from the collection of the Broome County Historical Society. Prior written permission from the Broome County Historical Society is required for any other use of the images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p261501coll8/id/117</dc:identifier></oai_dc:dc>
+</metadata>
+</record></ListRecords></OAI-PMH>

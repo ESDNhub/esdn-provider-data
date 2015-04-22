@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2014-12-04T17:28:46Z</responseDate><request verb="ListRecords" metadataPrefix="oai_dc" set="srr_lfpl">http://cdm16694.contentdm.oclc.org/oai/oai.php</request><ListRecords><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_lfpl/11</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_lfpl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Catalogue of Little Falls Academy</dc:title>
+<dc:description>Catalogue of the trustees, teachers, and student of the Little Falls Academy for the year of 1846.</dc:description>
+<dc:subject>Schools; Catalogs</dc:subject>
+<dc:subject>Catalogs;</dc:subject>
+<dc:subject>Education;</dc:subject>
+<dc:coverage>Little Falls - Herkimer County - New York</dc:coverage>
+<dc:publisher>J. M LYONS Press, Herkimer, Herk. Co. N.Y.</dc:publisher>
+<dc:date>1846</dc:date>
+<dc:source>Closed dimensions: 5 x 8 in. (13 x 20.5 cm.)</dc:source>
+<dc:type>Text;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff;</dc:format>
+<dc:identifier>Catalogue_LFA001</dc:identifier>
+<dc:relation>Little Falls Public Library Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes. Please cite as: Little Falls Public Library Collection. For usage beyond fair use please contact holding institution. Despite research, the Library is unable to secure all copyright permissions. Thus some of the materials made available here are under the assertion of fair use (17 U.S.C 107).</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_lfpl/id/11</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_lfpl/19</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_lfpl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Rebuilding Little Falls</dc:title>
+<dc:description>A pamphlet describing the ten-year plan for Little Fall&#x27;s renovation through the federal government&#x27;s urban renewal financial assistance plan under the Housing Act of 1949.</dc:description>
+<dc:subject>Pamphlets; City planning; Urban renewal</dc:subject>
+<dc:subject>Business &amp; Industry;</dc:subject>
+<dc:coverage>Little Falls - Herkimer County - New York</dc:coverage>
+<dc:date>1960</dc:date>
+<dc:source>Closed dimensions: 7 x 11 in. (18 x 28 cm.)</dc:source>
+<dc:type>Text;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff;</dc:format>
+<dc:identifier>RebuildingLF001- RebuildingLF007</dc:identifier>
+<dc:relation>Little Falls Public Library Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes. Please cite as: Little Falls Public Library Collection. For usage beyond fair use please contact holding institution. Despite research, the Library is unable to secure all copyright permissions. Thus some of the materials made available here are under the assertion of fair use (17 U.S.C 107).</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_lfpl/id/19</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_lfpl/20</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_lfpl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Gargoyle on Little Falls City Hall, Little Falls Photography Club&#x27;s April, 1936 competition 1st place winner</dc:title>
+<dc:description>Black and white photograph of gargoyle on Little Falls City Hall, built in 1918 in the Classical Revival style, by architect William Neil Smith, and builders; George B. Willis &amp; Sons, and Halinan and Snyder. Taken by Gordon Dowling for the Little Falls Camera Club&#x27;s  April, 1936 competition.</dc:description>
+<dc:creator>Doling, Gordon</dc:creator>
+<dc:subject>Photography; City &amp; town halls; Gargoyles; Architectural decorations &amp; ornaments; Roofs</dc:subject>
+<dc:subject>Public architecture; City halls; Gargoyles; Architecture, Classical; Photography;</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Little Falls - Herkimer County - New York</dc:coverage>
+<dc:date>1936-04-16</dc:date>
+<dc:source>Inside matted dimensions: 7 x 9 in. (18 x 23 cm.)</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff;</dc:format>
+<dc:identifier>1936Photo_Contest001</dc:identifier>
+<dc:relation>Little Falls Public Library Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes. Please cite as: Little Falls Public Library Collection. For usage beyond fair use please contact holding institution. Despite research, the Library is unable to secure all copyright permissions. Thus some of the materials made available here are under the assertion of fair use (17 U.S.C 107).</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_lfpl/id/20</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_lfpl/21</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_lfpl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Staircase and Stained Glass Window Photograph</dc:title>
+<dc:description>Black and white photograph of staircase and stained glass window. Taken by P.W. Wing for the Little Falls Camera Club&#x27;s April competition.</dc:description>
+<dc:creator>Wing, P.W.</dc:creator>
+<dc:subject>Photography; Stairways; Stained glass; Windows</dc:subject>
+<dc:subject>Staircases; Stairs; Glass painting and staining; Windows;</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Little Falls - Herkimer County - New York</dc:coverage>
+<dc:date>1936-04-16</dc:date>
+<dc:source>Inside matted dimensions: 9 x 7 in.  (23 x 18.5 cm.)</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff;</dc:format>
+<dc:identifier>1936Photo_Contest002</dc:identifier>
+<dc:relation>Little Falls Public Library Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes. Please cite as: Little Falls Public Library Collection. For usage beyond fair use please contact holding institution. Despite research, the Library is unable to secure all copyright permissions. Thus some of the materials made available here are under the assertion of fair use (17 U.S.C 107).</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_lfpl/id/21</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_lfpl/22</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_lfpl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Little Fals City Hall Photograph</dc:title>
+<dc:description>Black and white photograph of roof of Little Falls City Hall. Taken by P.W. Wing for the Little Falls Camera Club&#x27;s April competition.</dc:description>
+<dc:creator>Wing, P.W.</dc:creator>
+<dc:subject>Photography; City &amp; town halls, Roofs; Towers</dc:subject>
+<dc:subject>Public architecture; City halls; Gargoyles; Architecture, Classical; Photography;</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Little Falls - Herkimer County - New York</dc:coverage>
+<dc:date>1936-04-16</dc:date>
+<dc:source>Inside matted dimensions: 7 x 9 in. (18 x 22.5 cm.)</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff;</dc:format>
+<dc:identifier>1936Photo_Contest003</dc:identifier>
+<dc:relation>Little Falls Public Library Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes. Please cite as: Little Falls Public Library Collection. For usage beyond fair use please contact holding institution. Despite research, the Library is unable to secure all copyright permissions. Thus some of the materials made available here are under the assertion of fair use (17 U.S.C 107).</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_lfpl/id/22</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_lfpl/23</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_lfpl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>1936Photo_Contest004</dc:title>
+<dc:description>Black and white photograph taken by P.W. Wing for the Little Falls Camera Club&#x27;s June competition.</dc:description>
+<dc:creator>Wing, P.W.</dc:creator>
+<dc:subject>Photography; Parks; Vehicles;</dc:subject>
+<dc:subject>Parks; Photography; Vehicles;</dc:subject>
+<dc:subject>Geography &amp; Maps;</dc:subject>
+<dc:coverage>Little Falls - Herkimer County - New York</dc:coverage>
+<dc:date>1936</dc:date>
+<dc:source>Inside matted dimensions: 7 x 9 in. (18 x 22.5 cm.)</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff;</dc:format>
+<dc:identifier>1936Photo_Contest004</dc:identifier>
+<dc:relation>Little Falls Public Library Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes. Please cite as: Little Falls Public Library Collection. For usage beyond fair use please contact holding institution. Despite research, the Library is unable to secure all copyright permissions. Thus some of the materials made available here are under the assertion of fair use (17 U.S.C 107).</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_lfpl/id/23</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_lfpl/24</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_lfpl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Photograph of the Lock in Little Falls at Night</dc:title>
+<dc:description>Black and white night photograph of the Little Falls lock. Taken by  C.H. Cheney for the Little Falls Camera Club&#x27;s December 1936 competition.</dc:description>
+<dc:creator>Cheney, C.H.</dc:creator>
+<dc:subject>Photography; Locks (Hydraulic engineering); Canals</dc:subject>
+<dc:subject>Night photography;</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Little Falls - Herkimer County - New York</dc:coverage>
+<dc:date>1936-12-11</dc:date>
+<dc:source>Inside matted dimesions: 9 x 7 in. (22.5 x 17 cm.)</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff;</dc:format>
+<dc:identifier>1936Photo_Contest006</dc:identifier>
+<dc:relation>Little Falls Public Library Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes. Please cite as: Little Falls Public Library Collection. For usage beyond fair use please contact holding institution. Despite research, the Library is unable to secure all copyright permissions. Thus some of the materials made available here are under the assertion of fair use (17 U.S.C 107).</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_lfpl/id/24</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_lfpl/25</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_lfpl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Tug Boat on Mohawk River</dc:title>
+<dc:description>Black and white photograph of tugboat. Taken by P.W. Wing for the Little Falls Camera Club&#x27;s December competition.</dc:description>
+<dc:creator>Wing, P.W.</dc:creator>
+<dc:subject>Photography; Tugboats; Barges</dc:subject>
+<dc:subject>Photography; Tugboats;</dc:subject>
+<dc:subject>Transportation;</dc:subject>
+<dc:coverage>Little Falls - Herkimer County - New York</dc:coverage>
+<dc:date>1936-12-10</dc:date>
+<dc:source>Inside matted dimensions: 9 x 7 in. (23.5 x 18.5 cm.)</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff;</dc:format>
+<dc:identifier>1936Photo_Contest007</dc:identifier>
+<dc:relation>Little Falls Public Library Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes. Please cite as: Little Falls Public Library Collection. For usage beyond fair use please contact holding institution. Despite research, the Library is unable to secure all copyright permissions. Thus some of the materials made available here are under the assertion of fair use (17 U.S.C 107).</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_lfpl/id/25</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_lfpl/26</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_lfpl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Sailor on Little Falls Lock</dc:title>
+<dc:description>Black and white phtograph taken by P.W. Wing for the Little Falls Camera Club&#x27;s December 1936 competition.</dc:description>
+<dc:creator>Wing, P.W.</dc:creator>
+<dc:subject>Photography; Sailors; Locks (Hydraulic engineering)</dc:subject>
+<dc:subject>Sailors; Photography; Locks (Hydraulic engineering);</dc:subject>
+<dc:subject>People;</dc:subject>
+<dc:coverage>Little Falls - Herkimer County - New York</dc:coverage>
+<dc:date>1936-12-11</dc:date>
+<dc:source>Inside matted dimensions: 7 x 9 in. (18.5 x 23.5 cm.)</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff;</dc:format>
+<dc:identifier>1936Photo_Contest005</dc:identifier>
+<dc:relation>Little Falls Public Library Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes. Please cite as: Little Falls Public Library Collection. For usage beyond fair use please contact holding institution. Despite research, the Library is unable to secure all copyright permissions. Thus some of the materials made available here are under the assertion of fair use (17 U.S.C 107).</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_lfpl/id/26</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_lfpl/33</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_lfpl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Musterrole_prt2</dc:title>
+<dc:description>Little Falls register of discharged officers and soldiers from the War of 1812.</dc:description>
+<dc:subject>Military personnel; Military discharges;</dc:subject>
+<dc:subject>Military history; Military deserters; Military discharge;</dc:subject>
+<dc:subject>Military &amp; War;</dc:subject>
+<dc:coverage>Little Falls - Herkimer County - New York</dc:coverage>
+<dc:date>1814</dc:date>
+<dc:type>Text;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>muster_roll009- muster_roll012, muster_roll012_fragment001 &amp; muster_roll012_fragment002</dc:identifier>
+<dc:relation>Little Falls Public Library Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes. Please cite as: Little Falls Public Library Collection. For usage beyond fair use please contact holding institution. Despite research, the Library is unable to secure all copyright permissions. Thus some of the materials made available here are under the assertion of fair use (17 U.S.C 107).</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_lfpl/id/33</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_lfpl/74</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_lfpl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Tourism Guide</dc:title>
+<dc:description>Little Falls tourism guide to the community.</dc:description>
+<dc:creator>Stacey, Irving E., President of Little Falls Chamber of Commerce</dc:creator>
+<dc:subject>Tourism; Pamphlets</dc:subject>
+<dc:subject>Business &amp; Industry;</dc:subject>
+<dc:coverage>Little Falls - Herkimer County - New York</dc:coverage>
+<dc:publisher>The Little Falls Chamber of Commerce</dc:publisher>
+<dc:date>1921</dc:date>
+<dc:type>Text; Still Image;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff;</dc:format>
+<dc:identifier>TourismGuide001-ToursimGuide040</dc:identifier>
+<dc:relation>Little Falls Public Library Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes. Please cite as: Little Falls Public Library Collection. For usage beyond fair use please contact holding institution. Despite research, the Library is unable to secure all copyright permissions. Thus some of the materials made available here are under the assertion of fair use (17 U.S.C 107).</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_lfpl/id/74</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_lfpl/83</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_lfpl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>War of 1812 Muster Roll- Part 1</dc:title>
+<dc:description>Little Falls register of discharged officers and soldiers from the War of 1812.</dc:description>
+<dc:subject>Military personnel; Military discharges;</dc:subject>
+<dc:subject>Military history; Military deserters; Military discharge;</dc:subject>
+<dc:subject>Military &amp; War;</dc:subject>
+<dc:coverage>Little Falls - Herkimer County - New York</dc:coverage>
+<dc:date>1814</dc:date>
+<dc:type>Text;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>muster_roll001 - 
+muster_roll008</dc:identifier>
+<dc:relation>Little Falls Public Library Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes. Please cite as: Little Falls Public Library Collection. For usage beyond fair use please contact holding institution. Despite research, the Library is unable to secure all copyright permissions. Thus some of the materials made available here are under the assertion of fair use (17 U.S.C 107).</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_lfpl/id/83</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_lfpl/84</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_lfpl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Little Falls Public Library Interior Photograph 5</dc:title>
+<dc:description>Black and white interior photograph of the Little Falls Public Library when it was a residence in the 1800&#x27;s</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Photography; Interiors; Chandeliers;</dc:subject>
+<dc:subject>Architecture, Queen Anne; Architecture; Interior decoration; Architecture, Victorian; Chandeliers;</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Little Falls - Herkimer County - New York</dc:coverage>
+<dc:date>1840; 1841; 1842; 1843; 1844; 1845; 1846; 1847; 1848; 1849; 1850; 1851; 1852; 1853; 1854; 1855; 1856; 1857; 1858; 1859; 1860; 1861; 1862; 1863; 1864; 1865; 1866; 1867; 1868; 1869; 1870</dc:date>
+<dc:source>9.5  x 7.5  in. (24 x 19.5 cm.)</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>LFPLphotos1800s005</dc:identifier>
+<dc:relation>Little Falls Public Library Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes. Please cite as: Little Falls Public Library Collection. For usage beyond fair use please contact holding institution. Despite research, the Library is unable to secure all copyright permissions. Thus some of the materials made available here are under the assertion of fair use (17 U.S.C 107).</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_lfpl/id/84</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_lfpl/85</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_lfpl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Little Falls Public Library Exterior Photograph 2</dc:title>
+<dc:description>Black and white exterior photograph of the Little Falls Public Library when it was a residence in the 1800&#x27;s</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Photography; Architecture; Porches;</dc:subject>
+<dc:subject>Architecture, Queen Anne; Architecture, Victorian;</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Little Falls - Herkimer County - New York</dc:coverage>
+<dc:date>1840; 1841; 1842; 1843; 1844; 1845; 1846; 1847; 1848; 1849; 1850; 1851; 1852; 1853; 1854; 1855; 1856; 1857; 1858; 1859; 1860; 1861; 1862; 1863; 1864; 1865; 1866; 1867; 1868; 1869; 1870</dc:date>
+<dc:source>10 x 8 in. (25.5 x 20 cm.)</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>LFPLphotos1800s008</dc:identifier>
+<dc:relation>Little Falls Public Library Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes. Please cite as: Little Falls Public Library Collection. For usage beyond fair use please contact holding institution. Despite research, the Library is unable to secure all copyright permissions. Thus some of the materials made available here are under the assertion of fair use (17 U.S.C 107).</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_lfpl/id/85</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_lfpl/86</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_lfpl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Little Falls Public Library Exterior Photograph 1</dc:title>
+<dc:description>Black and white exterior photograph of the Little Falls Public Library when it was a residence in the 1800&#x27;s</dc:description>
+<dc:creator>Photographer: Abbott, William H. &amp; Son</dc:creator>
+<dc:subject>Photography; Architecture; Porches;</dc:subject>
+<dc:subject>Architecture, Queen Anne; Architecture, Victorian;</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Little Falls - Herkimer County - New York</dc:coverage>
+<dc:date>1840; 1841; 1842; 1843; 1844; 1845; 1846; 1847; 1848; 1849; 1850; 1851; 1852; 1853; 1854; 1855; 1856; 1857; 1858; 1859; 1860; 1861; 1862; 1863; 1864; 1865; 1866; 1867; 1868; 1869; 1870</dc:date>
+<dc:source>7.5 x 9.5 in. (19.5 x 24 cm.)</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>LFPLphotos1800s007</dc:identifier>
+<dc:relation>Little Falls Public Library Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes. Please cite as: Little Falls Public Library Collection. For usage beyond fair use please contact holding institution. Despite research, the Library is unable to secure all copyright permissions. Thus some of the materials made available here are under the assertion of fair use (17 U.S.C 107).</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_lfpl/id/86</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_lfpl/87</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_lfpl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Little Falls Public Library Interior Photograph 1</dc:title>
+<dc:description>Black and white interior photograph of the Little Falls Public Library when it was a residence in the 1800&#x27;s</dc:description>
+<dc:creator>Photographer: Bucklin, Meyers J.</dc:creator>
+<dc:subject>Photography; Interiors; Chandeliers;</dc:subject>
+<dc:subject>Architecture, Queen Anne; Architecture; Interior decoration; Architecture, Victorian; Chandeliers;</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Little Falls - Herkimer County - New York</dc:coverage>
+<dc:date>1840; 1841; 1842; 1843; 1844; 1845; 1846; 1847; 1848; 1849; 1850; 1851; 1852; 1853; 1854; 1855; 1856; 1857; 1858; 1859; 1860; 1861; 1862; 1863; 1864; 1865; 1866; 1867; 1868; 1869; 1870</dc:date>
+<dc:source>9.5 x 7 in. (24 x 17 cm.)</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>LFLphotos1800s001</dc:identifier>
+<dc:relation>Little Falls Public Library Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes. Please cite as: Little Falls Public Library Collection. For usage beyond fair use please contact holding institution. Despite research, the Library is unable to secure all copyright permissions. Thus some of the materials made available here are under the assertion of fair use (17 U.S.C 107).</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_lfpl/id/87</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_lfpl/88</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_lfpl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Little Falls Public Library Interior Photograph 2</dc:title>
+<dc:description>Black and white interior photograph of the Little Falls Public Library when it was a residence in the 1800&#x27;s</dc:description>
+<dc:creator>Photographer: Bucklin, Meyers, J.</dc:creator>
+<dc:subject>Photography; Interiors; Chandeliers;</dc:subject>
+<dc:subject>Architecture, Queen Anne; Architecture; Interior decoration; Architecture, Victorian; Chandeliers;</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Little Falls - Herkimer County - New York</dc:coverage>
+<dc:date>1840; 1841; 1842; 1843; 1844; 1845; 1846; 1847; 1848; 1849; 1850; 1851; 1852; 1853; 1854; 1855; 1856; 1857; 1858; 1859; 1860; 1861; 1862; 1863; 1864; 1865; 1866; 1867; 1868; 1869; 1870</dc:date>
+<dc:source>9.5 x 7 in. (24 x 17 cm.)</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>LFPLphotos1800s002</dc:identifier>
+<dc:relation>Little Falls Public Library Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes. Please cite as: Little Falls Public Library Collection. For usage beyond fair use please contact holding institution. Despite research, the Library is unable to secure all copyright permissions. Thus some of the materials made available here are under the assertion of fair use (17 U.S.C 107).</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_lfpl/id/88</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_lfpl/89</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_lfpl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Little Falls Public Library Interior Photograph 3</dc:title>
+<dc:description>Black and white interior photograph of the Little Falls Public Library when it was a residence in the 1800&#x27;s</dc:description>
+<dc:creator>Photographer:  Abbott, William H. &amp; Son</dc:creator>
+<dc:subject>Photography; Interiors; Bedrooms;</dc:subject>
+<dc:subject>Architecture, Queen Anne; Architecture; Interior decoration; Architecture, Victorian; Bedroom furniture; Bedrooms; Beds;</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Little Falls - Herkimer County - New York</dc:coverage>
+<dc:date>1840; 1841; 1842; 1843; 1844; 1845; 1846; 1847; 1848; 1849; 1850; 1851; 1852; 1853; 1854; 1855; 1856; 1857; 1858; 1859; 1860; 1861; 1862; 1863; 1864; 1865; 1866; 1867; 1868; 1869; 1870</dc:date>
+<dc:source>9 x 7. 5in. (23 x 19 cm.)</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>LFPLphotos1800s003</dc:identifier>
+<dc:relation>Little Falls Public Library Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes. Please cite as: Little Falls Public Library Collection. For usage beyond fair use please contact holding institution. Despite research, the Library is unable to secure all copyright permissions. Thus some of the materials made available here are under the assertion of fair use (17 U.S.C 107).</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_lfpl/id/89</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_lfpl/90</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_lfpl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Little Falls Public Library Interior Photograph 4</dc:title>
+<dc:description>Black and white interior photograph of the Little Falls Public Library when it was a residence in the 1800&#x27;s</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Photography; Interiors; Fireplaces</dc:subject>
+<dc:subject>Architecture, Queen Anne; Architecture; Interior decoration; Architecture, Victorian;</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Little Falls - Herkimer County - New York</dc:coverage>
+<dc:date>1840; 1841; 1842; 1843; 1844; 1845; 1846; 1847; 1848; 1849; 1850; 1851; 1852; 1853; 1854; 1855; 1856; 1857; 1858; 1859; 1860; 1861; 1862; 1863; 1864; 1865; 1866; 1867; 1868; 1869; 1870</dc:date>
+<dc:source>9.5 x 6.5 in. (24 x 17 cm.)</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>LFPLphotos1800s004</dc:identifier>
+<dc:relation>Little Falls Public Library Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes. Please cite as: Little Falls Public Library Collection. For usage beyond fair use please contact holding institution. Despite research, the Library is unable to secure all copyright permissions. Thus some of the materials made available here are under the assertion of fair use (17 U.S.C 107).</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_lfpl/id/90</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_lfpl/91</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_lfpl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Little Falls Public Library Interior Photograph 6</dc:title>
+<dc:description>Black and white interior photograph of the Little Falls Public Library when it was a residence in the 1800&#x27;s</dc:description>
+<dc:creator>Photographer:  Abbott, William H. &amp; Son</dc:creator>
+<dc:subject>Photography; Interiors; Chandeliers;</dc:subject>
+<dc:subject>Architecture, Queen Anne; Architecture; Interior decoration; Architecture, Victorian; Chandeliers;</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Little Falls - Herkimer County - New York</dc:coverage>
+<dc:date>1840; 1841; 1842; 1843; 1844; 1845; 1846; 1847; 1848; 1849; 1850; 1851; 1852; 1853; 1854; 1855; 1856; 1857; 1858; 1859; 1860; 1861; 1862; 1863; 1864; 1865; 1866; 1867; 1868; 1869; 1870</dc:date>
+<dc:source>9.5  x 7.5  in. (24 x 19.5 cm.)</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>LFPLphotos1800s006</dc:identifier>
+<dc:relation>Little Falls Public Library Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes. Please cite as: Little Falls Public Library Collection. For usage beyond fair use please contact holding institution. Despite research, the Library is unable to secure all copyright permissions. Thus some of the materials made available here are under the assertion of fair use (17 U.S.C 107).</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_lfpl/id/91</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_lfpl/92</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_lfpl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Little Falls Public Library Exterior Photograph 3</dc:title>
+<dc:description>Black and white exterior photograph of the Little Falls Public Library when it was a residence in the 1800&#x27;s</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Photography; Architecture; Porches;</dc:subject>
+<dc:subject>Architecture, Queen Anne; Architecture, Victorian;</dc:subject>
+<dc:subject>Architecture;</dc:subject>
+<dc:coverage>Little Falls - Herkimer County - New York</dc:coverage>
+<dc:date>1840; 1841; 1842; 1843; 1844; 1845; 1846; 1847; 1848; 1849; 1850; 1851; 1852; 1853; 1854; 1855; 1856; 1857; 1858; 1859; 1860; 1861; 1862; 1863; 1864; 1865; 1866; 1867; 1868; 1869; 1870</dc:date>
+<dc:source>10.5 x 9.5 in. (27 x 23.5 cm.)</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>LFPLphotos1800s009</dc:identifier>
+<dc:relation>Little Falls Public Library Collection</dc:relation>
+<dc:rights>This digital image may be used for educational purposes. Please cite as: Little Falls Public Library Collection. For usage beyond fair use please contact holding institution. Despite research, the Library is unable to secure all copyright permissions. Thus some of the materials made available here are under the assertion of fair use (17 U.S.C 107).</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_lfpl/id/92</dc:identifier></oai_dc:dc>
+</metadata>
+</record></ListRecords></OAI-PMH>

@@ -1,0 +1,1258 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2014-12-10T20:12:34Z</responseDate><request verb="ListRecords" resumptionToken="p16373coll104:200:p16373coll104:0000-00-00:9999-99-99:oai_dc" metadataPrefix="oai_dc" set="p16373coll104">http://cdm16373.contentdm.oclc.org/oai/oai.php</request><ListRecords><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/200</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/201</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/202</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/203</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/204</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/205</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/206</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/207</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/208</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/209</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/210</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/211</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/212</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/213</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/214</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/215</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/216</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/217</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/218</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/219</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/220</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/221</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/222</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/223</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/224</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/225</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/226</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/227</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/228</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/229</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/230</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/231</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/232</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/233</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/234</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/235</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/236</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/237</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/238</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/239</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/240</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/241</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/242</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/243</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/244</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/245</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/246</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/247</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/248</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/249</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/250</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/251</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/252</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/253</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/254</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/255</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/256</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/257</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/258</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/259</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/260</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/261</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/262</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/263</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/264</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/265</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/266</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/267</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/268</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/269</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/270</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/271</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/272</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/273</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/274</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/275</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/276</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/277</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/278</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/279</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/280</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/281</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/282</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/283</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/284</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/285</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/286</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/287</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/288</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/289</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/290</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/291</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/292</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/293</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/294</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/295</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/296</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/297</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/298</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/299</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/300</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/301</identifier><datestamp>2013-11-18</datestamp><setSpec>p16373coll104</setSpec></header>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/315</identifier><datestamp>2013-11-19</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1929</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/315</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/330</identifier><datestamp>2013-11-19</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1927</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/330</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/348</identifier><datestamp>2013-11-19</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1934</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/348</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/368</identifier><datestamp>2013-11-19</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1932</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/368</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/391</identifier><datestamp>2013-11-19</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1933</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/391</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/416</identifier><datestamp>2013-11-19</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1930</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/416</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/442</identifier><datestamp>2013-11-19</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1931</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/442</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/454</identifier><datestamp>2013-11-19</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1935</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/454</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/468</identifier><datestamp>2013-11-19</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1936</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/468</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/485</identifier><datestamp>2013-11-19</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1937</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/485</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/500</identifier><datestamp>2013-11-19</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1941</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/500</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/522</identifier><datestamp>2013-11-19</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1938</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/522</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/570</identifier><datestamp>2013-11-19</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 2009</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/570</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/590</identifier><datestamp>2013-11-19</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1942</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/590</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/615</identifier><datestamp>2013-11-19</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1939</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/615</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/641</identifier><datestamp>2013-11-19</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1943</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/641</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/672</identifier><datestamp>2013-11-19</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1944</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/672</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/706</identifier><datestamp>2013-11-19</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1946</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/706</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/746</identifier><datestamp>2013-11-19</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1945</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/746</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/765</identifier><datestamp>2013-11-19</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1940</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/765</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/812</identifier><datestamp>2013-11-19</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1947</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/812</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/870</identifier><datestamp>2013-11-19</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1948</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/870</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/927</identifier><datestamp>2013-11-19</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1949</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/927</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/977</identifier><datestamp>2013-11-19</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1951</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/977</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/1045</identifier><datestamp>2013-11-19</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1950</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/1045</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/1176</identifier><datestamp>2013-11-19</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 2003</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/1176</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/1236</identifier><datestamp>2013-11-19</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1952</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/1236</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/1376</identifier><datestamp>2013-11-19</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1992</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/1376</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/1440</identifier><datestamp>2013-11-19</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1953</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/1440</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/1588</identifier><datestamp>2013-11-19</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 2002</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/1588</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/1654</identifier><datestamp>2013-11-19</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1954</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/1654</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/1711</identifier><datestamp>2013-11-19</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1957</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/1711</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/1871</identifier><datestamp>2013-11-19</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1993</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/1871</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/2039</identifier><datestamp>2013-11-19</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1998</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/2039</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/2213</identifier><datestamp>2013-11-19</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1995</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/2213</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/2292</identifier><datestamp>2013-11-19</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1955</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/2292</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/2468</identifier><datestamp>2013-11-19</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1996</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/2468</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/2644</identifier><datestamp>2013-11-19</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1997</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/2644</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/2825</identifier><datestamp>2013-11-20</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 2000</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/2825</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/3007</identifier><datestamp>2013-11-20</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1994</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/3007</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/3082</identifier><datestamp>2013-11-20</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1958</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/3082</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/3272</identifier><datestamp>2013-11-20</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 2001</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/3272</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/3462</identifier><datestamp>2013-11-20</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1999</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/3462</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/3553</identifier><datestamp>2013-11-20</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1956</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/3553</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/3681</identifier><datestamp>2013-11-20</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1960</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/3681</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/3832</identifier><datestamp>2013-11-20</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1959</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/3832</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/3976</identifier><datestamp>2013-11-20</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1961</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/3976</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/4082</identifier><datestamp>2013-11-20</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1972</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/4082</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/4191</identifier><datestamp>2013-11-20</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1975</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/4191</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/4370</identifier><datestamp>2013-11-20</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1962</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/4370</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/4507</identifier><datestamp>2013-11-20</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>1974</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/4507</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/4637</identifier><datestamp>2013-11-20</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1976</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/4637</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/4768</identifier><datestamp>2013-11-20</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1977</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/4768</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/4939</identifier><datestamp>2013-11-20</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1965</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/4939</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/5123</identifier><datestamp>2013-11-20</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1963</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/5123</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/5294</identifier><datestamp>2013-11-20</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1966</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/5294</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/5452</identifier><datestamp>2013-11-20</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1970</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/5452</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/5589</identifier><datestamp>2013-11-20</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1978</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/5589</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/5762</identifier><datestamp>2013-11-20</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1968</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/5762</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/5931</identifier><datestamp>2013-11-20</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>1971</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/5931</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/6119</identifier><datestamp>2013-11-20</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1969</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/6119</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/6302</identifier><datestamp>2013-11-20</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1973</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/6302</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/6509</identifier><datestamp>2013-11-20</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1967</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/6509</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/6742</identifier><datestamp>2013-11-20</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1964</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/6742</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/6879</identifier><datestamp>2013-11-20</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1979</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/6879</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/7042</identifier><datestamp>2013-11-20</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1980</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/7042</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/7158</identifier><datestamp>2013-11-20</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1985</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/7158</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/7322</identifier><datestamp>2013-11-20</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1981</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/7322</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/7469</identifier><datestamp>2013-11-20</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1983</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/7469</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/7607</identifier><datestamp>2013-11-20</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1984</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/7607</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/7784</identifier><datestamp>2013-11-20</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1982</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/7784</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/7924</identifier><datestamp>2013-11-20</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1987</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/7924</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/8079</identifier><datestamp>2013-11-20</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1986</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/8079</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/8233</identifier><datestamp>2013-11-20</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1989</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/8233</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/8398</identifier><datestamp>2013-11-20</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1991</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/8398</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/8575</identifier><datestamp>2013-11-20</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1990</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/8575</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16373.contentdm.oclc.org:p16373coll104/8877</identifier><datestamp>2013-11-20</datestamp><setSpec>p16373coll104</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Library Board Minutes, 1988</dc:title>
+<dc:description>Minutes from the Freeport Memorial Library for the years 1929 to current.</dc:description>
+<dc:creator>Board of Trustees, Freeport Memorial Library</dc:creator>
+<dc:publisher>Freeport Memorial Library</dc:publisher>
+<dc:contributor>Scanned by Imaging &amp; Microfilm Access, Inc. (Bohemia, NY 11716) and the Freeport Memorial Library</dc:contributor>
+<dc:format>PDF</dc:format>
+<dc:source>Freeport Memorial Library</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>Freeport, New York</dc:coverage>
+<dc:rights>This digital image may be freely used for educational uses, as long as it is not altered in any way. No commercial reproduction or distribution of this image is permitted without written permission of the Freeport Memorial Library, 144 W. Merrick Road, Freeport, NY 11520 or email: frreference@freeportlibrary.info</dc:rights>
+<dc:identifier>http://cdm16373.contentdm.oclc.org/cdm/ref/collection/p16373coll104/id/8877</dc:identifier></oai_dc:dc>
+</metadata>
+</record><resumptionToken /></ListRecords></OAI-PMH>

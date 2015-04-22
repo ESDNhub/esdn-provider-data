@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2014-12-04T21:15:50Z</responseDate><request verb="ListRecords" metadataPrefix="oai_dc" set="srr_skanhis">http://cdm16694.contentdm.oclc.org/oai/oai.php</request><ListRecords><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_skanhis/2</identifier><datestamp>2014-10-14</datestamp><setSpec>srr_skanhis</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Glen Haven Souvenir Postcard</dc:title>
+<dc:description>Glen Haven as seen from the opposite shore. The Glen Haven Senitarium (1847-1911) was tucked between a 1,200 foot embankment and Skaneateles Lake. Visitors seeking the &quot;water cure&quot; were offered a quiet, healthy environment to escape the heat and noise of city- dwelling in the 1850s.</dc:description>
+<dc:subject>Postcards; Therapeutic communities; Lakes;</dc:subject>
+<dc:subject>Community &amp; Events; Daily Life; Recreation &amp; Sports;</dc:subject>
+<dc:coverage>Skaneateles</dc:coverage>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Skaneateles Lake Collection</dc:relation>
+<dc:rights>Please cite as: Skaneateles Historical Society&#x27;s Skaneateles Lake Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_skanhis/id/2</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_skanhis/5</identifier><datestamp>2014-10-14</datestamp><setSpec>srr_skanhis</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Glen Haven Hotel Mail Card</dc:title>
+<dc:description>The grandeur of the Glen Haven Hotel. The hotel could accomodate 200 or more guests offering large, airy rooms and elegant furnishings. Additional buildings and cottages were also devoted to patient care.</dc:description>
+<dc:subject>Postcards; Hotels; lakes</dc:subject>
+<dc:subject>Community &amp; Events; Daily Life;</dc:subject>
+<dc:coverage>Skaneateles</dc:coverage>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng;</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Skaneateles Lake Collection</dc:relation>
+<dc:rights>Please cite as: Skaneateles Historical Society&#x27;s Skaneateles Lake Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_skanhis/id/5</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_skanhis/8</identifier><datestamp>2014-10-14</datestamp><setSpec>srr_skanhis</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Glen Haven Stereoscopic Card</dc:title>
+<dc:description>View of families by cottage. Families sought hydrotherapy to find relief from unnatural artificial lifestyles by alternative health treatments.</dc:description>
+<dc:creator>Wildey, O. H. (Photographer)</dc:creator>
+<dc:subject>Families seated outside of cottage.</dc:subject>
+<dc:subject>Hydrotherapy; Family; Cottages;</dc:subject>
+<dc:subject>Community &amp; Events; Daily Life; People;</dc:subject>
+<dc:coverage>Skaneateles</dc:coverage>
+<dc:publisher>O. H. Wildey</dc:publisher>
+<dc:source>Double slide Stereoscopic card</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng;</dc:language>
+<dc:format>image/tiff;</dc:format>
+<dc:relation>Skaneateles Lake Collection</dc:relation>
+<dc:rights>Please cite as: Skaneateles Historical Society&#x27;s Skaneateles Lake Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_skanhis/id/8</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_skanhis/11</identifier><datestamp>2014-10-14</datestamp><setSpec>srr_skanhis</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Hotel Glen Haven Photograph</dc:title>
+<dc:description>The Hotel at Glen Haven. The hotel could accommodate 200 or more guests, offering large airy rooms and elegant furnishings. Additional buildings and cottages were also devoted to patient care.</dc:description>
+<dc:creator>Gardiner, Warner</dc:creator>
+<dc:subject>Hotel at Glen Haven</dc:subject>
+<dc:subject>Hydrotherapy; Hotels</dc:subject>
+<dc:subject>Community &amp; Events; Daily Life</dc:subject>
+<dc:coverage>Skaneateles</dc:coverage>
+<dc:source>Photograph with handwritten description and tag on the back.</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng;</dc:language>
+<dc:format>image/tiff;</dc:format>
+<dc:relation>Skaneateles Lake Collection</dc:relation>
+<dc:rights>Please cite as: Skaneateles Historical Society&#x27;s Skaneateles Lake Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_skanhis/id/11</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_skanhis/14</identifier><datestamp>2014-10-14</datestamp><setSpec>srr_skanhis</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Dr. W. C. Thomas Photograph</dc:title>
+<dc:description>Dr. W. C. Thomas was the proprietor of the Glen Haven &quot;water cure&quot; from 1860-1900. The treatment included half baths; dips in the cold lake; healthy eating with no coffee, tea or liquid; and drinking large amounts of water to cleanse the system.</dc:description>
+<dc:subject>Photograph of seated Dr. Thomas with child and dog in background.</dc:subject>
+<dc:subject>Physicians; Dogs; Children; Hydrotherapy</dc:subject>
+<dc:subject>People;</dc:subject>
+<dc:coverage>Skaneateles</dc:coverage>
+<dc:contributor>Mrs. Holbin?</dc:contributor>
+<dc:source>Photograph with handwritten elements on back.</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng;</dc:language>
+<dc:format>image/tiff;</dc:format>
+<dc:relation>Skaneateles Lake Collection</dc:relation>
+<dc:rights>Please cite as: Skaneateles Historical Society&#x27;s Skaneateles Lake Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_skanhis/id/14</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_skanhis/15</identifier><datestamp>2014-10-14</datestamp><setSpec>srr_skanhis</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Glen Haven Photograph- view from the lake</dc:title>
+<dc:description>A photograph taken from the view of the lake, showing a part of the shore including a dock and a house. A man and woman stand on the porch, and another woman is sitting on a log near the bank.</dc:description>
+<dc:subject>Photograph from the lake of a local shore.</dc:subject>
+<dc:subject>Docks; Cottages; Lakes</dc:subject>
+<dc:subject>People; Daily Life; Geography &amp; Maps;</dc:subject>
+<dc:coverage>Skaneateles</dc:coverage>
+<dc:contributor>Gift of Ann Foaiy?</dc:contributor>
+<dc:source>Photograph with handwritten elements on reverse.</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng;</dc:language>
+<dc:format>image/tiff;</dc:format>
+<dc:relation>Skaneateles Lake Collection</dc:relation>
+<dc:rights>Please cite as: Skaneateles Historical Society&#x27;s Skaneateles Lake Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_skanhis/id/15</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:srr_skanhis/16</identifier><datestamp>2012-09-25</datestamp><setSpec>srr_skanhis</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_skanhis/19</identifier><datestamp>2014-10-14</datestamp><setSpec>srr_skanhis</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Bordino Landing Postcard</dc:title>
+<dc:description>Double sided postcard of Bordino, Skaneateles Lake, NY</dc:description>
+<dc:creator>Williams &amp; Hunt</dc:creator>
+<dc:subject>Postcards; Lakes; Steamboats; docks</dc:subject>
+<dc:subject>Transportation; Geography &amp; Maps;</dc:subject>
+<dc:coverage>Skaneateles, NY</dc:coverage>
+<dc:contributor>John G. Erano; Williams &amp; Hunt</dc:contributor>
+<dc:publisher>Williams &amp; Hunt</dc:publisher>
+<dc:date>1911</dc:date>
+<dc:source>Color illustration of Bordino Landing, with handwritten message and postal stamp on reverse.</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng;</dc:language>
+<dc:format>image/tiff;</dc:format>
+<dc:relation>Skaneateles Lake Collection</dc:relation>
+<dc:rights>Please cite as: Skaneateles Historical Society&#x27;s Skaneateles Lake Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_skanhis/id/19</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_skanhis/22</identifier><datestamp>2014-10-14</datestamp><setSpec>srr_skanhis</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Carpenter&#x27;s Brook Photograph</dc:title>
+<dc:description>Photograph of Carpenter&#x27;s Brook- Long shot of Gray Cliff Falls</dc:description>
+<dc:subject>Waterfalls;</dc:subject>
+<dc:subject>Geography &amp; Maps;</dc:subject>
+<dc:coverage>Skaneateles, NY</dc:coverage>
+<dc:contributor>Stinson?</dc:contributor>
+<dc:date>1989-07-19</dc:date>
+<dc:source>Photograph with handwritten description on reverse.</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Skaneateles Lake Collection</dc:relation>
+<dc:rights>Please cite as: Skaneateles Historical Society&#x27;s Skaneateles Lake Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_skanhis/id/22</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_skanhis/25</identifier><datestamp>2014-10-14</datestamp><setSpec>srr_skanhis</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Page from Photographic Album- Carpenter&#x27;s Point</dc:title>
+<dc:description>Double sided page from Photographic Album, photographs are pasted to heavy weight paper.</dc:description>
+<dc:subject>Photographs</dc:subject>
+<dc:subject>Geography &amp; Maps;</dc:subject>
+<dc:coverage>Skaneateles, NY</dc:coverage>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Skaneateles Lake Collection</dc:relation>
+<dc:rights>Please cite as: Skaneateles Historical Society&#x27;s Skaneateles Lake Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_skanhis/id/25</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_skanhis/28</identifier><datestamp>2014-10-14</datestamp><setSpec>srr_skanhis</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Carpenters Point, New Hope, Skaneateles Lake Postcard</dc:title>
+<dc:description>Postcard depicting the Upper Falls, and the whiskey distillery that resided there.</dc:description>
+<dc:creator>Williams &amp; Hunt</dc:creator>
+<dc:subject>lakes; postcards</dc:subject>
+<dc:subject>Geography &amp; Maps;</dc:subject>
+<dc:coverage>Skaneateles, NY</dc:coverage>
+<dc:contributor>Williams &amp; Hunt</dc:contributor>
+<dc:publisher>Williams &amp; Hunt</dc:publisher>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Skaneateles Lake Collection</dc:relation>
+<dc:rights>Please cite as: Skaneateles Historical Society&#x27;s Skaneateles Lake Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_skanhis/id/28</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_skanhis/31</identifier><datestamp>2014-10-14</datestamp><setSpec>srr_skanhis</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Across the Foot of Skaneateles Lake Postcard</dc:title>
+<dc:description>Fair Haven, at the southeast end of Skaneateles Lake, sits directly opposite the site of the Glen Haven water cure.</dc:description>
+<dc:creator>Williams &amp; Hunt</dc:creator>
+<dc:subject>postcards; lakes;</dc:subject>
+<dc:subject>Geography &amp; Maps; Community &amp; Events;</dc:subject>
+<dc:coverage>Skaneateles, NY</dc:coverage>
+<dc:publisher>Williams &amp; Hunt</dc:publisher>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff;</dc:format>
+<dc:relation>Skaneateles Lake Collection</dc:relation>
+<dc:rights>Please cite as: Skaneateles Historical Society&#x27;s Skaneateles Lake Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_skanhis/id/31</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_skanhis/34</identifier><datestamp>2014-10-14</datestamp><setSpec>srr_skanhis</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Fair Haven Marina Postcard</dc:title>
+<dc:description>The Marina at Fair Haven, at the south end of Skaneateles Lake. Today the Glen Haven Hotel, accessible by boat or car, offers food and spectacular views.</dc:description>
+<dc:creator>Wm. Jubb Co., Inc.</dc:creator>
+<dc:subject>marinas; postcards; lakes</dc:subject>
+<dc:subject>Community &amp; Events; Geography &amp; Maps;</dc:subject>
+<dc:coverage>Skaneateles, NY</dc:coverage>
+<dc:contributor>Wm. Jubb Co., Inc.</dc:contributor>
+<dc:publisher>Wm. Jubb Co., Inc.</dc:publisher>
+<dc:date>1940; 1941; 1942; 1943; 1944; 1945; 1946; 1947; 1948; 1949; 1950; 1951; 1952; 1953; 1954; 1955; 1956; 1957; 1958; 1959; 1960</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff;</dc:format>
+<dc:relation>Skaneateles Lake Collection</dc:relation>
+<dc:rights>Please cite as: Skaneateles Historical Society&#x27;s Skaneateles Lake Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_skanhis/id/34</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_skanhis/37</identifier><datestamp>2014-10-14</datestamp><setSpec>srr_skanhis</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Fair Haven, Skaneateles Lake, NY Postcard</dc:title>
+<dc:description>An establishment in Fair Haven offered alcoholic beverages. Those at the water cure that were tired of its restricted diet could row across the lake for a little liquid relief.</dc:description>
+<dc:subject>Souvenirs (Keepsakes); postcards; lakes; hydrotherapy</dc:subject>
+<dc:subject>Geography &amp; Maps; Community &amp; Events;</dc:subject>
+<dc:coverage>Skaneateles, NY</dc:coverage>
+<dc:date>1911</dc:date>
+<dc:source>Color illustration souvenir postcard with written message on reverse.</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff;</dc:format>
+<dc:relation>Skaneateles Lake Collection</dc:relation>
+<dc:rights>Please cite as: Skaneateles Historical Society&#x27;s Skaneateles Lake Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_skanhis/id/37</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_skanhis/38</identifier><datestamp>2014-10-14</datestamp><setSpec>srr_skanhis</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Mandana Inn Newspaper Clipping</dc:title>
+<dc:description>A &quot;now/then&quot; newspaper clipping showing the Mandana Inn when it was first purchased in 1910 by Fannie Loomis and the post 1955 Inn.</dc:description>
+<dc:subject>Newspapers; Historic sites; Hotels;</dc:subject>
+<dc:subject>Community &amp; Events; Business &amp; Industry;</dc:subject>
+<dc:coverage>Mandana, NY</dc:coverage>
+<dc:source>Newspaper clipping showing two photographs with caption.</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng;</dc:language>
+<dc:format>image/tiff;</dc:format>
+<dc:relation>Skaneateles Lake Collection</dc:relation>
+<dc:rights>Please cite as: Skaneateles Historical Society&#x27;s Skaneateles Lake Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_skanhis/id/38</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_skanhis/39</identifier><datestamp>2014-10-14</datestamp><setSpec>srr_skanhis</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Mandana Inn Changes Hands newsclipping</dc:title>
+<dc:description>A newspaper clipping from the Syracuse Post Standard about the change in ownership of the Historic Mandana Inn.</dc:description>
+<dc:creator>Cazentre, Don</dc:creator>
+<dc:subject>newspapers; historic sites; hotels</dc:subject>
+<dc:subject>Business &amp; Industry;</dc:subject>
+<dc:coverage>Mandana, NY</dc:coverage>
+<dc:publisher>The Post Standard</dc:publisher>
+<dc:date>2012-08-17</dc:date>
+<dc:source>Newspaper article titled &quot;Mandana Inn Changes Hands&quot;</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng;</dc:language>
+<dc:format>image/tiff;</dc:format>
+<dc:relation>Skaneateles Lake Collection</dc:relation>
+<dc:rights>Please cite as: Skaneateles Historical Society&#x27;s Skaneateles Lake Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_skanhis/id/39</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_skanhis/42</identifier><datestamp>2014-10-14</datestamp><setSpec>srr_skanhis</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Mandana Bay Postcard</dc:title>
+<dc:description>Postcard with black and white photograph and written message on reverse. Photograph is taken from the shore of Skaneateles Lake.</dc:description>
+<dc:subject>postcards; lakes</dc:subject>
+<dc:subject>Geography &amp; Maps;</dc:subject>
+<dc:coverage>Mandana, NY</dc:coverage>
+<dc:contributor>Bowker, Etta; Eastwood</dc:contributor>
+<dc:date>1911</dc:date>
+<dc:source>Black and white photographic postcard with written message on reverse.</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng;</dc:language>
+<dc:format>image/tiff;</dc:format>
+<dc:relation>Skaneateles Lake Collection</dc:relation>
+<dc:rights>Please cite as: Skaneateles Historical Society&#x27;s Skaneateles Lake Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_skanhis/id/42</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_skanhis/45</identifier><datestamp>2014-10-14</datestamp><setSpec>srr_skanhis</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>View of the Lake from Mandana, Syracuse Lake, N.Y. Postcard</dc:title>
+<dc:description>Color illustration postcard with written message on reverse.</dc:description>
+<dc:creator>Wm. Jubb Co., Inc.</dc:creator>
+<dc:subject>postcards; lakes</dc:subject>
+<dc:subject>Geography &amp; Maps;</dc:subject>
+<dc:coverage>Mandana, NY</dc:coverage>
+<dc:contributor>Wm. Jubb Co., Inc.</dc:contributor>
+<dc:publisher>WM Jubb, Co., Inc.</dc:publisher>
+<dc:source>Color illustration postcard with written message on reverse.</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng;</dc:language>
+<dc:format>image/tiff;</dc:format>
+<dc:relation>Skaneateles Lake Collection</dc:relation>
+<dc:rights>Please cite as: Skaneateles Historical Society&#x27;s Skaneateles Lake Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_skanhis/id/45</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_skanhis/46</identifier><datestamp>2014-10-14</datestamp><setSpec>srr_skanhis</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Historic Mandana Inn Welcome Letter</dc:title>
+<dc:description>A Welcome Letter for the Historic Mandana Inn from the owners, the Koziol Family. The letter includes a timeline of ownership of the Inn as well as a brief history of the Inn.</dc:description>
+<dc:creator>The Koziol Family</dc:creator>
+<dc:subject>historic sites; Taverns (Inns);</dc:subject>
+<dc:subject>Business &amp; Industry; Community &amp; Events;</dc:subject>
+<dc:coverage>Mandana, NY</dc:coverage>
+<dc:contributor>The Koziol Family</dc:contributor>
+<dc:publisher>The Koziol Family, Historic Mandana Inn</dc:publisher>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng;</dc:language>
+<dc:format>image/tiff;</dc:format>
+<dc:relation>Skaneateles Lake Collection</dc:relation>
+<dc:rights>Please cite as: Skaneateles Historical Society&#x27;s Skaneateles Lake Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_skanhis/id/46</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_skanhis/47</identifier><datestamp>2014-10-14</datestamp><setSpec>srr_skanhis</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Truswell Marine, Inc. Newspaper Clipping</dc:title>
+<dc:description>Photograph of Truswell Marine, Inc., a business at a Skaneateles Lake Marina.</dc:description>
+<dc:subject>newspapers; marinas; boats</dc:subject>
+<dc:subject>Business &amp; Industry; Community &amp; Events;</dc:subject>
+<dc:coverage>Mandana, NY</dc:coverage>
+<dc:date>1961-05-28</dc:date>
+<dc:source>Newspaper photograph with caption</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng;</dc:language>
+<dc:format>image/tiff;</dc:format>
+<dc:relation>Skaneateles Lake Collection</dc:relation>
+<dc:rights>Please cite as: Skaneateles Historical Society&#x27;s Skaneateles Lake Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_skanhis/id/47</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_skanhis/50</identifier><datestamp>2014-10-14</datestamp><setSpec>srr_skanhis</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Bear Swamp Creek, Carpenter&#x27;s Falls</dc:title>
+<dc:description>Bear Swamp is an integral part of the Skaneateles Lake Watershed. Today Bear Swamp is a state forest open year round to the public.</dc:description>
+<dc:creator>Johnson, Graham L.</dc:creator>
+<dc:subject>Rivers; Waterfalls; Watersheds;</dc:subject>
+<dc:subject>Geography &amp; Maps;</dc:subject>
+<dc:coverage>Skaneateles, NY</dc:coverage>
+<dc:contributor>Graham L. Johnson</dc:contributor>
+<dc:publisher>Graham L. Johnson</dc:publisher>
+<dc:date>1982-10-13</dc:date>
+<dc:source>Black and white photograph with handwriting on reverse.</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff;</dc:format>
+<dc:relation>Skaneateles Lake Collection</dc:relation>
+<dc:rights>Please cite as: Skaneateles Historical Society&#x27;s Skaneateles Lake Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_skanhis/id/50</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_skanhis/51</identifier><datestamp>2014-10-14</datestamp><setSpec>srr_skanhis</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>&quot;Drilling in Bear Swamp&quot; Newspaper Clipping</dc:title>
+<dc:description>Newspaper article and photograph about drilling in Bear Swamp. The state bought much of the land and planted balsam and spruce trees in the 1930&#x27;s. Deer, turkeys, waterfowl, foxes, and coyotes are abundant. Bear Swamp is an integral part of the Skaneateles Lake Watershed. In 2005, natural gas and oil exploration at this site was a topic of discussion. Today fracking is a major concern threatening the quality of our natural resources.</dc:description>
+<dc:creator>Hacken, Liz</dc:creator>
+<dc:subject>newspapers; Drilling platforms; Oil fields;</dc:subject>
+<dc:subject>Government, Law &amp; Politics; Environment &amp; Nature;</dc:subject>
+<dc:coverage>Skaneateles, NY</dc:coverage>
+<dc:contributor>Liz Hacken; The Citizen</dc:contributor>
+<dc:publisher>The Citizen</dc:publisher>
+<dc:date>2005-07-09</dc:date>
+<dc:source>Newspaper article in The Citizen with photograph.</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff;</dc:format>
+<dc:relation>Skaneateles Lake Collection</dc:relation>
+<dc:rights>Please cite as: Skaneateles Historical Society&#x27;s Skaneateles Lake Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_skanhis/id/51</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_skanhis/52</identifier><datestamp>2014-10-14</datestamp><setSpec>srr_skanhis</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Bear Swamp Offers Undisturbed Wildlife Newspaper clipping</dc:title>
+<dc:description>Portion of newspaper article and photograph of Bear Swamp in winter. Today Bear Swamp is a state forest. It is open year-round to the public and trail maps are located at the entrance for hiking in fair weather and cross-country skiing for snowy days.</dc:description>
+<dc:creator>Cannerelli, Stephen D.</dc:creator>
+<dc:subject>Forest reserves; Forest roads; newspapers</dc:subject>
+<dc:subject>Geography &amp; Maps; Environment &amp; Nature;</dc:subject>
+<dc:coverage>Skaneateles, NY</dc:coverage>
+<dc:contributor>Stephen D. Cannerelli</dc:contributor>
+<dc:date>1999-12-26</dc:date>
+<dc:source>Second half of newspaper article with photograph</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff;</dc:format>
+<dc:relation>Skaneateles Lake Collection</dc:relation>
+<dc:rights>Please cite as: Skaneateles Historical Society&#x27;s Skaneateles Lake Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_skanhis/id/52</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_skanhis/55</identifier><datestamp>2014-10-14</datestamp><setSpec>srr_skanhis</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>&quot;New&quot; Skaneateles Country Club Photo</dc:title>
+<dc:description>After many years and a devastating fire, the Country Club now serves the community&#x27;s golfers, sailors, and sports people of all kinds.</dc:description>
+<dc:creator>Ginny?</dc:creator>
+<dc:subject>Country clubs;</dc:subject>
+<dc:subject>Business &amp; Industry; Community &amp; Events;</dc:subject>
+<dc:coverage>Skaneateles, NY</dc:coverage>
+<dc:contributor>Ginny?</dc:contributor>
+<dc:date>1993-03</dc:date>
+<dc:source>Photograph of &quot;new&quot; country club with writing on reverse.</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Skaneateles Lake Collection</dc:relation>
+<dc:rights>Please cite as: Skaneateles Historical Society&#x27;s Skaneateles Lake Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_skanhis/id/55</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_skanhis/58</identifier><datestamp>2014-10-14</datestamp><setSpec>srr_skanhis</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>View of Mile Point, from Octagon School, Skaneateles, NY Postcard</dc:title>
+<dc:description>From the 1930&#x27;s to the 1980&#x27;s, in the cove just south of One Mile Point, was one of the few public swimming areas on the lake.</dc:description>
+<dc:creator>Livingston, H.A.</dc:creator>
+<dc:subject>lakes; postcards</dc:subject>
+<dc:subject>Geography &amp; Maps;</dc:subject>
+<dc:coverage>Skaneateles, NY</dc:coverage>
+<dc:contributor>H.A. Livingston</dc:contributor>
+<dc:publisher>H.A. Livingston</dc:publisher>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Skaneateles Lake Collection</dc:relation>
+<dc:rights>Please cite as: Skaneateles Historical Society&#x27;s Skaneateles Lake Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_skanhis/id/58</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_skanhis/59</identifier><datestamp>2014-10-14</datestamp><setSpec>srr_skanhis</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Scanned image of Skaneateles Country Club</dc:title>
+<dc:description>Just north of One Mile Point stands the Skaneateles Country Club, begun as a golf club in 1915. The original clubhouse was finished in 1917.</dc:description>
+<dc:subject>Country clubs</dc:subject>
+<dc:subject>Community &amp; Events; Business &amp; Industry;</dc:subject>
+<dc:coverage>Skaneateles, NY</dc:coverage>
+<dc:contributor>Clark?</dc:contributor>
+<dc:date>1926</dc:date>
+<dc:source>Scanned image from possibly a book. Source unknown.</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Skaneateles Lake Collection</dc:relation>
+<dc:rights>Please cite as: Skaneateles Historical Society&#x27;s Skaneateles Lake Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_skanhis/id/59</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_skanhis/60</identifier><datestamp>2014-10-14</datestamp><setSpec>srr_skanhis</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Newspaper Photographs by Herbert Baker</dc:title>
+<dc:description>Top photograph shows the view of Skaneateles Lake from the home of late Captain George Collins, his wife is at the left of the photograph. The bottom photograph shows visitors coming to camp near Spafford Landing. Captain George Collins, a Union officer, was born in Spafford Corners in 1837. He and his family arrived at Spafford Landing by boat and built the first private cottage on the Lake in 1880.</dc:description>
+<dc:creator>Baker, Herbert N.</dc:creator>
+<dc:subject>cottages; lakes; newspapers</dc:subject>
+<dc:subject>Daily Life; Geography &amp; Maps;</dc:subject>
+<dc:coverage>Skaneateles, NY</dc:coverage>
+<dc:contributor>Herbert N. Baker</dc:contributor>
+<dc:source>Two photographs and captions featured in a newspaper clipping.</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:relation>Skaneateles Lake Collection</dc:relation>
+<dc:rights>Please cite as: Skaneateles Historical Society&#x27;s Skaneateles Lake Collection. For usage beyond Fair Use, please contact the holding institution.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_skanhis/id/60</dc:identifier></oai_dc:dc>
+</metadata>
+</record></ListRecords></OAI-PMH>

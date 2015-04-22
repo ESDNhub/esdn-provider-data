@@ -1,0 +1,2323 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2014-09-09T20:30:06Z</responseDate><request verb="ListRecords" set="wilderstein" metadataPrefix="oai_dc">http://www.hrvh.org/oai/oai.php</request><ListRecords><record><header><identifier>oai:www.hrvh.org:wilderstein/40</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Strand theatre Friday : poster</dc:title>
+<dc:creator>American Field Service; Frohman, Daniel; Strand Theatre (New York City)</dc:creator>
+<dc:date>1916</dc:date>
+<dc:description>Poster listing program of the gala benefit performance on 1916-12-08 at the Strand Theater in New York City.  Program included a showing of the film &quot;Our American Boys in the European War&quot;</dc:description>
+<dc:subject>World War, 1914-1918--Motion pictures</dc:subject>
+<dc:subject>American Field Service</dc:subject>
+<dc:subject>American Field Service; American Ambulance Field Service;</dc:subject>
+<dc:language>eng</dc:language>
+<dc:source>Poster</dc:source>
+<dc:type>Text</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_033.005.02.04</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/40</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/45</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/47</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Guerre 1914-1915 Première visite</dc:title>
+<dc:date>1915?</dc:date>
+<dc:publisher>J. K. 1. - Edition Alsatia  Visé Nancy A. 484</dc:publisher>
+<dc:description>Photographic postcard depicting the first visit to Haute-Alsace by the president of the Republic of France, with a column of Alpine riflemen (Chasseurs Alpins) marching past him in review</dc:description>
+<dc:subject>World War, 1914-1918--France--Pictorial Works</dc:subject>
+<dc:subject>Soldiers; Marching; Spectators;</dc:subject>
+<dc:coverage>Alsace (France); Lorraine (France)</dc:coverage>
+<dc:language>fre</dc:language>
+<dc:source>postcard, b&amp;w,  3 x 5 in.</dc:source>
+<dc:type>Image</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_cd0601</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/47</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/48</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Haute-Alsace. - Thann. - L&#x27;Église St-Thiébaut</dc:title>
+<dc:date>1915?</dc:date>
+<dc:publisher>Visé Nancy A. 492; J. K. 13. - Edition Alsatia</dc:publisher>
+<dc:description>Photographic postcard depicting the church of St. Thiebaut in Thann, Haute-Alsace</dc:description>
+<dc:subject>World War, 1914-1918--France--Pictorial Works</dc:subject>
+<dc:subject>Churches</dc:subject>
+<dc:coverage>Thann (France)</dc:coverage>
+<dc:language>fre</dc:language>
+<dc:source>postcard, b&amp;w,  3 x 5 in.</dc:source>
+<dc:type>Image</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_cd0602</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/48</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/49</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Haute-Alsace.  Steinbach.  Le Hirnlstein</dc:title>
+<dc:description>Photographic postcard depicting the summit of a mountain or rock outcropping called Le Hirnlstein (altitude 500 meters)  Trees in foreground with rock outcropping reached by a staircase with railing.  A man is standing on the outcropping.</dc:description>
+<dc:subject>World War, 1914-1918--Germany--Pictorial Works</dc:subject>
+<dc:subject>Trees; Rocks</dc:subject>
+<dc:coverage>Steinbach (Germany)</dc:coverage>
+<dc:language>fre</dc:language>
+<dc:source>postcard, b&amp;w,  3 x 5 in.</dc:source>
+<dc:type>Image</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_cd0603</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/49</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/50</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Moosch.  Quais sur la Thur</dc:title>
+<dc:date>1915?</dc:date>
+<dc:publisher>Chadourne, Faubourg de France,  Belfort</dc:publisher>
+<dc:description>Photographic postcard view of an embankment with houses by the side of the Thur river.  Two men in uniform (lower left foreground) stand on the left bank.  Fenced street on raised embankment on right bank of the river, with houses at upper right of image.  Laundry hanging on fence.</dc:description>
+<dc:subject>World War, 1914-1918--France--Pictorial Works</dc:subject>
+<dc:subject>Rivers</dc:subject>
+<dc:coverage>Alsace (France)</dc:coverage>
+<dc:language>fre</dc:language>
+<dc:source>postcard, b&amp;w,  3 x 5 in.</dc:source>
+<dc:type>Image</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_cd0604</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/50</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/51</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Wesserling, Alsace</dc:title>
+<dc:date>1915?</dc:date>
+<dc:description>Photographic postcard depicting a scene in Wesserling, Alsace [handwritten]  Large building in background, snow on ground, hedge visible left to right across bottom third of image.</dc:description>
+<dc:subject>World War, 1914-1918--France--Pictorial Works</dc:subject>
+<dc:subject>Buildings; Snow</dc:subject>
+<dc:coverage>Alsace (France); Lorraine (France)</dc:coverage>
+<dc:language>fre</dc:language>
+<dc:source>postcard, b&amp;w,  3 x 5 in.</dc:source>
+<dc:type>Image</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_cd0605</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/51</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/52</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Adelboden: Elsighorn</dc:title>
+<dc:date>1915?</dc:date>
+<dc:publisher>Kunstanstalt Brügger, Meiringen.</dc:publisher>
+<dc:description>Photographic postcard depicting Elsighorn Mountain at Adelboden.  Snow-covered mountain peaks with skiers.  Silouettes of four skiers, three in center of image, one lower right third of image.  Four pairs of skis visible stuck upright in the snow.</dc:description>
+<dc:subject>World War, 1914-1918--Switzerland--Pictorial Works</dc:subject>
+<dc:subject>Mountains; Snow</dc:subject>
+<dc:coverage>Adelboden (Bern, Switzerland)</dc:coverage>
+<dc:source>postcard, b&amp;w,  3 x 5 in.</dc:source>
+<dc:type>Image</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_cd0606</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/52</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/53</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Col de Bussang</dc:title>
+<dc:date>1915?</dc:date>
+<dc:publisher>Chadbourne, Faubourg de France, Belfort</dc:publisher>
+<dc:description>Photographic postcard depicting a group of German prisoners of war crossing the mountains via the Bussang Pass escorted by a French soldier.  There is a mountain ridge in the background, evergreens, and the deciduous trees in the photo are in leaf.</dc:description>
+<dc:subject>World War, 1914-1918--France--Pictorial Works</dc:subject>
+<dc:subject>Prisoners of war;</dc:subject>
+<dc:coverage>France</dc:coverage>
+<dc:language>fre</dc:language>
+<dc:source>postcard, b&amp;w,  3 x 5 in.</dc:source>
+<dc:type>Image</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_cd0607</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/53</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/54</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Guerre 1914-1915 Gerbéviller-la-Martyre</dc:title>
+<dc:date>1915?</dc:date>
+<dc:publisher>Lunéville Photo - P R. 13, Pl. de L&#x27;Eglise</dc:publisher>
+<dc:description>Photographic postcard depicting a roofless chateau</dc:description>
+<dc:subject>World War, 1914-1918--France--Pictorial Works</dc:subject>
+<dc:subject>Castles &amp; palaces; Ruins</dc:subject>
+<dc:coverage>Gerbeviller (France)</dc:coverage>
+<dc:language>fre</dc:language>
+<dc:source>postcard, b&amp;w,  3 x 5 in.</dc:source>
+<dc:type>Image</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_cd0608</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/54</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/55</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>La Grande Guerre.  Gerbéviller-la-Martyre</dc:title>
+<dc:date>1915?</dc:date>
+<dc:publisher>Lunéville-Photo - P. R., 13, Pl. de l&#x27;Eglise</dc:publisher>
+<dc:description>Photographic postcard view of ruins of a building facing a town square in Gerbéviller-la-Martyre.  A uniformed man stands to left of a fountain from which a stream of water flows.  A standing woman leans against the fountain and another sits on a road marker upon which are what appear to be distance figures.</dc:description>
+<dc:subject>World War, 1914-1918--France--Pictorial Works</dc:subject>
+<dc:subject>Buildings; War damage;</dc:subject>
+<dc:coverage>Gerbeviller (France)</dc:coverage>
+<dc:language>fre</dc:language>
+<dc:source>postcard, b&amp;w,  3 x 5 in.</dc:source>
+<dc:type>Image</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_cd0609</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/55</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/56</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Guerre 1914-1915.  Gerbéviller</dc:title>
+<dc:date>1915?</dc:date>
+<dc:publisher>Lunéville Photo - P R., 13, Pl. de L&#x27;Église; Visé Nancy  A. 1540</dc:publisher>
+<dc:description>Photographic postcard depicting the ruins of a bombed church with roof and stained glass missing.  The front door of the church stands open.</dc:description>
+<dc:subject>World War, 1914-1918--France--Pictorial Works</dc:subject>
+<dc:subject>Churches; War damage</dc:subject>
+<dc:coverage>Gerbeviller (France)</dc:coverage>
+<dc:language>fre</dc:language>
+<dc:source>postcard, b&amp;w,  3 x 5 in.</dc:source>
+<dc:type>Image</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_cd0610</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/56</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/57</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>La Grande Guerre.  Gerbéviller-la-Martyre.</dc:title>
+<dc:date>1915?</dc:date>
+<dc:publisher>Lunéville-Photo - P. R., 13, Pl. de l&#x27;Eglise</dc:publisher>
+<dc:description>Photographic postcard view of ruins of building destroyed by bombs in Gerbéviller-la-Martyre.  Three children and three adults are standing on the street and sidewalk in front of one of the ruined buildings.</dc:description>
+<dc:subject>World War, 1914-1918--France--Pictorial Works</dc:subject>
+<dc:subject>Buildings; War damage;</dc:subject>
+<dc:coverage>Gerbeviller (France)</dc:coverage>
+<dc:language>fre</dc:language>
+<dc:source>postcard, b&amp;w,  3 x 5 in.</dc:source>
+<dc:type>Image</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_cd0611c2</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/57</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/58</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Guerre 1914-1915.  Gerbéviller</dc:title>
+<dc:publisher>Lunéville-Photo - P. R., 13, Pls. de l&#x27;Eglise</dc:publisher>
+<dc:description>Photographic postcard with view of the ruined chapel of a chateau on left with ruined buildings on the right.  Street is cleared of rubble.  Trees have no leaves.</dc:description>
+<dc:subject>World War, 1914-1918--France--Pictorial Works</dc:subject>
+<dc:subject>Castles &amp; palaces; Chapels; War damage</dc:subject>
+<dc:coverage>Gerbeviller (France)</dc:coverage>
+<dc:language>fre</dc:language>
+<dc:source>postcard, b&amp;w,  3 x 5 in.</dc:source>
+<dc:type>Image</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_cd0612</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/58</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/59</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Grande Guerre 1914-15.  Metzeral (Haute-Alsace)</dc:title>
+<dc:date>1915?</dc:date>
+<dc:description>Photographic postcard view of two ruined buildings, roofless and lacking windows and doors.  Rubble and destroyed wagon in foreground.  Mountain ridge in back ground is covered with trees.</dc:description>
+<dc:subject>World War, 1914-1918--France--Pictorial Works</dc:subject>
+<dc:subject>War damage; Buildings;</dc:subject>
+<dc:coverage>Alsace (France); Lorraine (France)</dc:coverage>
+<dc:language>fre</dc:language>
+<dc:source>postcard, b&amp;w,  3 x 5 in.</dc:source>
+<dc:type>Image</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_cd0613</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/59</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/60</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Grande Guerre 1914-15</dc:title>
+<dc:date>1915?</dc:date>
+<dc:description>Photographic postcard view of ruined building with roof, doors and windows missing.  Rubble in foreground.  Tree-covered mountain ridge in background.</dc:description>
+<dc:subject>World War, 1914-1918--France--Pictorial Works</dc:subject>
+<dc:subject>War damage; Buildings</dc:subject>
+<dc:language>fre</dc:language>
+<dc:source>postcard, b&amp;w,  3 x 5 in.</dc:source>
+<dc:type>Image</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_cd0614</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/60</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/61</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Guerre 1914 - 1915.  Gerbéviller-la-Martyre.</dc:title>
+<dc:publisher>Visé Nancy A. 650</dc:publisher>
+<dc:description>Photographic postcard depicting the war-damaged church at Gerbéviller-la-Martyre.  Ruins of the church seen from the side; with fence, plantings and paths in foreground.</dc:description>
+<dc:subject>World War, 1914-1918--France--Pictorial Works</dc:subject>
+<dc:subject>Churches; War damage</dc:subject>
+<dc:coverage>Gerbeviller (France)</dc:coverage>
+<dc:language>fre</dc:language>
+<dc:source>postcard, b&amp;w,  3 x 5 in.</dc:source>
+<dc:type>Image</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_cd0615</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/61</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/62</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Troyes</dc:title>
+<dc:publisher>Collection T.G.</dc:publisher>
+<dc:description>Photographic postcard depicting stone rood screen in the church of Saint Madeleine, in Troyes</dc:description>
+<dc:subject>World War, 1914-1918--France--Pictorial Works</dc:subject>
+<dc:subject>Churches;</dc:subject>
+<dc:coverage>Troyes (France)</dc:coverage>
+<dc:language>fre</dc:language>
+<dc:source>postcard, b&amp;w,  3 x 5 in.</dc:source>
+<dc:type>Image</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_cd0617</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/62</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/63</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Grande Guerre 1914-15.  Metzeral (Hte-Alsace)</dc:title>
+<dc:date>1915?</dc:date>
+<dc:description>Photographic postcard depicting Metzeral, a town in Haute Alsace, after a battle.  Ruins of building with roof missing and walls damaged.  Man dressed in dark clothing sitting or squatting  in rubble in middle ground.</dc:description>
+<dc:subject>World War, 1914-1918--France--Pictorial Works</dc:subject>
+<dc:subject>War damage; Buildings;</dc:subject>
+<dc:coverage>Alsace (France); Lorraine (France)</dc:coverage>
+<dc:language>fre</dc:language>
+<dc:source>postcard, b&amp;w,  3 x 5 in.</dc:source>
+<dc:type>Image</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_cd0618</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/63</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/64</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Troyes.  Cathédrale Saint-Pierre.  Choeur</dc:title>
+<dc:creator>ND. Phot.</dc:creator>
+<dc:publisher>Imp. Photographique Neurdein Frères. -- Paris</dc:publisher>
+<dc:description>Photographic postcard with interior view of the choir of Saint Peter&#x27;s cathedral, in Troyes</dc:description>
+<dc:subject>World War, 1914-1918--France--Pictorial Works</dc:subject>
+<dc:subject>Cathedrals;</dc:subject>
+<dc:coverage>Troyes (France)</dc:coverage>
+<dc:language>fre</dc:language>
+<dc:source>postcard, b&amp;w,  3 x 5 in.</dc:source>
+<dc:type>Image</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_cd0619</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/64</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/65</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Guerre 1914-1916.  Baccarat. - Rue de Canal</dc:title>
+<dc:date>1916?</dc:date>
+<dc:publisher>Cliché Bertrand   Visé Nancy A. 1076</dc:publisher>
+<dc:description>Photographic postcard depicting war damage in Baccarat.  Rubble and damaged building in foreground.  Thirteen people standing in street along canal.  Cityscape in background.  Building on left has sign painted on exterior wall reading &quot;Horlogerie / Bijouterie / Orfévrerie / Machines à Coudre / L. George.&quot; An image of a pocket watch is at the bottom of the sign</dc:description>
+<dc:subject>World War, 1914-1918--France--Pictorial Works</dc:subject>
+<dc:subject>Cityscapes; War damage;</dc:subject>
+<dc:coverage>Baccarat (France)</dc:coverage>
+<dc:language>fre</dc:language>
+<dc:source>postcard, b&amp;w,  3 x 5 in.</dc:source>
+<dc:type>Image</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_cd0620</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/65</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/66</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Troyes. - Le Chevet de la Cathédrale</dc:title>
+<dc:description>Photographic postcard depicting the exterior of the apse of the cathedral of Troyes</dc:description>
+<dc:subject>World War, 1914-1918--France--Pictorial Works</dc:subject>
+<dc:subject>Apses; Cathedrals;</dc:subject>
+<dc:coverage>Troyes (France)</dc:coverage>
+<dc:language>fre</dc:language>
+<dc:source>postcard, b&amp;w,  3 x 5 in.</dc:source>
+<dc:type>Image</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_cd0621</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/66</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/67</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Guerre 1914-1916  Baccarat. - L&#x27;Eglise</dc:title>
+<dc:date>1916?</dc:date>
+<dc:publisher>Cliché Bertrand</dc:publisher>
+<dc:description>Photographic postcard depicting bomb damage to the church at Baccarat.  Bomb-damaged church in left foreground.  Clock in tower.  Street in foreground with seven uniformed men, two women with hats and and a wagon with a standing man and a barrel with the letters &quot;H F&quot; painted on its end.</dc:description>
+<dc:subject>World War, 1914-1918--France--Pictorial Works</dc:subject>
+<dc:subject>Churches; War damage;</dc:subject>
+<dc:coverage>Baccarat (France)</dc:coverage>
+<dc:language>fre</dc:language>
+<dc:source>postcard, b&amp;w,  3 x 5 in.</dc:source>
+<dc:type>Image</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_cd0622</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/67</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/68</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Curiosités et Merveilles de l&#x27;Alsace-Lorraine</dc:title>
+<dc:publisher>Imp. Ad. Weick. - Saint-Dié (Déposé) No 7339</dc:publisher>
+<dc:description>Photographic postcard view of the ruins of the Chateau de Spesbourg, Alsace-Lorraine.  The chateau is in the background, with trees and vegetation in the foreground.</dc:description>
+<dc:subject>World War, 1914-1918--France--Pictorial Works</dc:subject>
+<dc:subject>Castles &amp; palaces;</dc:subject>
+<dc:coverage>Alsace (France); Lorraine (France)</dc:coverage>
+<dc:language>fre</dc:language>
+<dc:source>postcard, b&amp;w,  3 x 5 in.</dc:source>
+<dc:type>Image</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_cd0623</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/68</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/69</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>La Cathédrale de Thann</dc:title>
+<dc:publisher>X. W.</dc:publisher>
+<dc:description>Photographic postcard view of Thann Cathedral with tower.  Street with buildings and awnings and people outside.</dc:description>
+<dc:subject>World War, 1914-1918--France--Pictorial Works</dc:subject>
+<dc:subject>Cathedrals;</dc:subject>
+<dc:coverage>Thann (France)</dc:coverage>
+<dc:language>fre</dc:language>
+<dc:source>postcard, b&amp;w,  3 x 5 in.</dc:source>
+<dc:type>Image</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_cd0624</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/69</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/70</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Guerre 1914-1916  Baccarat.  Rue des Ponts - Eglise de Deneuvre</dc:title>
+<dc:date>1916?</dc:date>
+<dc:publisher>Cliché Bertrand; Visé Nancy A 4528</dc:publisher>
+<dc:description>Photographic postcard depicting war damage in Baccarat.  Photo shows street scene with snow-covered rubble and ruins, church of Deneuvre in upper-left background, pedestrians, and a man riding a horse or a donkey while leading another.</dc:description>
+<dc:subject>World War, 1914-1918--France--Pictorial Works</dc:subject>
+<dc:subject>Cityscapes; War damage;</dc:subject>
+<dc:coverage>Baccarat (France)</dc:coverage>
+<dc:language>fre</dc:language>
+<dc:source>postcard, b&amp;w,  3 x 5 in.</dc:source>
+<dc:type>Image</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_cd0625</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/70</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/71</identifier><datestamp>2014-08-21</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Curiosités et Merveilles de l&#x27;Alsace-Lorraine</dc:title>
+<dc:date>1916?</dc:date>
+<dc:description>Photographic postcard view of terraced vineyards with buildings in foreground and the Chateau de Kayserberg in the background</dc:description>
+<dc:subject>World War, 1914-1918--France--Pictorial Works</dc:subject>
+<dc:subject>Castles &amp; palaces; Villages;</dc:subject>
+<dc:coverage>Alsace (France); Lorraine (France)</dc:coverage>
+<dc:language>fre</dc:language>
+<dc:source>postcard, b&amp;w,  3 x 5 in.</dc:source>
+<dc:type>Image</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_cd0626</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/71</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/72</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Curiosités et Merveilles de l&#x27;Alsace-Lorraine</dc:title>
+<dc:date>1916?</dc:date>
+<dc:publisher>Imp. Ad. Weick. - Saint-Dié (Déposé) No 7337; Edition Ad. Weick, St-Dié</dc:publisher>
+<dc:description>Photographic postcard depicting ruins of Limbourg Castle on the Rhine.</dc:description>
+<dc:subject>World War, 1914-1918--France--Pictorial Works</dc:subject>
+<dc:subject>Castles &amp; palaces; Ruins;</dc:subject>
+<dc:coverage>Alsace (France); Lorraine (France)</dc:coverage>
+<dc:language>fre</dc:language>
+<dc:source>postcard, b&amp;w,  3 x 5 in.</dc:source>
+<dc:type>Image</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_cd0627</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/72</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/73</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Le Guerre en Lorraine en 1914-1915  Baccarat</dc:title>
+<dc:date>1915?</dc:date>
+<dc:publisher>E. Bastien, lib.-édit., Lunéville</dc:publisher>
+<dc:description>Photographic postcard view of buildings in Baccarat ruined by German bombs.  Lion statue surmounting a fountain in foreground.  Two uniformed men standing in rubble and two civilians in berets at right middle ground.</dc:description>
+<dc:subject>World War, 1914-1918--France--Pictorial Works; Cities and towns</dc:subject>
+<dc:subject>Buildings; War damage;</dc:subject>
+<dc:coverage>Baccarat (France)</dc:coverage>
+<dc:language>fre</dc:language>
+<dc:source>postcard, b&amp;w,  3 x 5 in.</dc:source>
+<dc:type>Image</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_cd0628</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/73</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/74</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Guerre 1914-1915.  Thann (Alsace)</dc:title>
+<dc:date>1915?</dc:date>
+<dc:publisher>Nancy-Paris, Impr. Berger-Levrault - Visé Nancy - C - no 187</dc:publisher>
+<dc:description>Photographic postcard depicting ruins of buildings in Place du Marché-aux-Pommes-de-Terre, Thann, bombed by the Germans.</dc:description>
+<dc:subject>World War, 1914-1918--France--Pictorial Works</dc:subject>
+<dc:subject>Buildings; War damage</dc:subject>
+<dc:coverage>Thann (France)</dc:coverage>
+<dc:language>fre</dc:language>
+<dc:source>postcard, b&amp;w,  3 x 5 in.</dc:source>
+<dc:type>Image</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_cd0629</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/74</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/75</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Haute-Alsace. - Thann. - La Thürr</dc:title>
+<dc:date>1915?</dc:date>
+<dc:publisher>Chadourne, Faubourg de France, Belfort</dc:publisher>
+<dc:description>Photographic postcard view of the Thurr River with buildings on each side.  Woman or women on river&#x27;s edge, lower left foreground.  Arched bridge in background.</dc:description>
+<dc:subject>World War, 1914-1918--France--Pictorial Works; Cities and towns</dc:subject>
+<dc:subject>Rivers</dc:subject>
+<dc:language>fre</dc:language>
+<dc:source>postcard, b&amp;w,  3 x 5 in.</dc:source>
+<dc:type>Image</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_cd0630</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/75</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/76</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>La Guerre en Lorraine en 1914-1915  Gerbéviller</dc:title>
+<dc:date>1915?</dc:date>
+<dc:publisher>E. Bastien, lib.-édit., Lunéville</dc:publisher>
+<dc:description>Photographic postcard view of the bridge over the Mortagne River, site of a battle.  Also visible are houses and a tree on the left side of the river.</dc:description>
+<dc:subject>World War, 1914-1918--France--Pictorial Works; Cities and towns</dc:subject>
+<dc:subject>Bridges</dc:subject>
+<dc:language>fre</dc:language>
+<dc:source>postcard, b&amp;w,  3 x 5 in.</dc:source>
+<dc:type>Image</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_cd0631</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/76</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/77</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>La Guerre en Lorraine en 1914-1915  Gerbéviller</dc:title>
+<dc:date>1915?</dc:date>
+<dc:publisher>E. Bastien, lib-édit, Lunéville</dc:publisher>
+<dc:description>Photographic postcard view of bombed buildings along the Rue de Lorraine, in Gerbéviller.  Two women standing in the street on left, and uniformed man with hat and moustache at lower right foreground.</dc:description>
+<dc:subject>World War, 1914-1918--France--Pictorial Works</dc:subject>
+<dc:subject>Buildings; War damage; War damage;</dc:subject>
+<dc:coverage>Gerbeviller (France)</dc:coverage>
+<dc:language>fre</dc:language>
+<dc:source>postcard, b&amp;w,  3 x 5 in.</dc:source>
+<dc:type>Image</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_cd0632</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/77</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/78</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>La Guerre en Lorraine en 1914-1915  Gerbéviller</dc:title>
+<dc:date>1915?</dc:date>
+<dc:publisher>E. Bastien, lib. edit., Lunéville</dc:publisher>
+<dc:description>Photographic postcard view of the Rue Gambetta with bombed buildings.  Rubble in foreground including two wheels on an axle and what appears to be a mowing machine at the right foreground.</dc:description>
+<dc:subject>World War, 1914-1918--France--Pictorial Works; Cities and towns</dc:subject>
+<dc:subject>Buildings; War damage</dc:subject>
+<dc:coverage>Gerbeviller (France)</dc:coverage>
+<dc:language>fre</dc:language>
+<dc:source>postcard, b&amp;w,  3 x 5 in.</dc:source>
+<dc:type>Image</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_cd0633</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/78</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/79</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>En Lorraine - Guerre 1914-15  Gerbéviller</dc:title>
+<dc:date>1914?</dc:date>
+<dc:publisher>Quantin, lib.-édit.- Cliché Dirler</dc:publisher>
+<dc:description>Photographic postcard view of ruined buildings at the corner of the Rue de Ponts.  Two men standing on the rubble.  Man in sweater, hat with cigarette in mouth and dog at his side on left; man in suit and beret on right.  Two women, one with hat and long dark coat, the other with dress and apron, a child in a wagon, a boy sitting on rubble, and another on a barrel in foreground.</dc:description>
+<dc:subject>World War, 1914-1918--France--Pictorial Works</dc:subject>
+<dc:subject>War damage; Buildings</dc:subject>
+<dc:coverage>Gerbeviller (France)</dc:coverage>
+<dc:language>fre</dc:language>
+<dc:source>postcard, b&amp;w,  3 x 5 in.</dc:source>
+<dc:type>Image</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_cd0634</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/79</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/80</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>La Guerre en Lorraine en 1914-1915  Baccarat</dc:title>
+<dc:date>1915?</dc:date>
+<dc:publisher>E. Bastien, lib.-édit., Lunéville</dc:publisher>
+<dc:description>Photographic postcard view of buildings in Baccarat ruined by German bombs.  Lion statue surmounting a fountain in foreground.  Two uniformed men standing in rubble and two civilians in berets at right middle ground.</dc:description>
+<dc:subject>World War, 1914-1918--France--Pictorial Works</dc:subject>
+<dc:subject>Fountains; Buildings; War damage;</dc:subject>
+<dc:coverage>Baccarat (France)</dc:coverage>
+<dc:language>fre</dc:language>
+<dc:source>postcard, b&amp;w,  3 x 5 in.</dc:source>
+<dc:type>Image</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_cd0628c2</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/80</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/81</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>La Guerre en Lorraine en 1914-1915  Gerbéviller</dc:title>
+<dc:date>1915?</dc:date>
+<dc:publisher>E. Bastien, lib.-édit., Lunéville</dc:publisher>
+<dc:description>Photographic postcard view of buildings in Gerbéviller damaged by bombing.   Street has been cleared of rubble.  Trees in background.</dc:description>
+<dc:subject>World War, 1914-1918--France--Pictorial Works; Cities and towns</dc:subject>
+<dc:subject>Buildings; War damage</dc:subject>
+<dc:coverage>Gerbeviller (France)</dc:coverage>
+<dc:language>fre</dc:language>
+<dc:source>postcard, b&amp;w,  3 x 5 in.</dc:source>
+<dc:type>Image</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_cd0636</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/81</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/82</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>La Guerre en Lorraine en 1914-1915  Gerbéviller</dc:title>
+<dc:date>1915?</dc:date>
+<dc:publisher>E. Bastien, lib.-édit., Lunéville</dc:publisher>
+<dc:description>Photographic postcard view of the interior ofa bomb-damaged chapel.  Statue of a boy with raised right arm in center of image.</dc:description>
+<dc:subject>World War, 1914-1918--France--Pictorial Works</dc:subject>
+<dc:subject>Chapels; War damage</dc:subject>
+<dc:coverage>Gerbeviller (France)</dc:coverage>
+<dc:language>fre</dc:language>
+<dc:source>postcard, b&amp;w,  3 x 5 in.</dc:source>
+<dc:type>Image</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_cd0637</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/82</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/83</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>La Guerre en Lorraine en 1914-1916  Gerbéviller</dc:title>
+<dc:date>1916?</dc:date>
+<dc:publisher>E. Bastien, lib.-édit., Lunéville</dc:publisher>
+<dc:description>Photographic postcard view of the interior of a church damaged by shells</dc:description>
+<dc:subject>World War, 1914-1918--France--Pictorial Works</dc:subject>
+<dc:subject>Churches; War damage;</dc:subject>
+<dc:coverage>Gerbeviller (France)</dc:coverage>
+<dc:language>fre</dc:language>
+<dc:source>postcard, b&amp;w,  3 x 5 in.</dc:source>
+<dc:type>Image</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_cd0638</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/83</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/84</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>La Guerre en Lorraine en 1914-1915  Gerbéviller</dc:title>
+<dc:date>1915?</dc:date>
+<dc:publisher>Bastien, lib.-édit., Lunéville   Visé Nancy A. 808</dc:publisher>
+<dc:description>Photographic postcard view of Rue de la Poste, Gerbéviller, showing destruction caused by bombing.  Rubble along street.  Two  figures visible at end of street.  A shutter hangs lopsidedly from a window at the upper-right corner of the image.</dc:description>
+<dc:subject>World War, 1914-1918--France--Pictorial Works; Cities and towns</dc:subject>
+<dc:subject>Buildings; War damage;</dc:subject>
+<dc:coverage>Gerbeviller (France)</dc:coverage>
+<dc:language>fre</dc:language>
+<dc:source>postcard, b&amp;w,  3 x 5 in.</dc:source>
+<dc:type>Image</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_cd0639</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/84</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/85</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>La Guerre en Lorraine en 1914-1916  Gerbéviller</dc:title>
+<dc:date>1915?</dc:date>
+<dc:publisher>Bastien, lib.-édit., Lunéville</dc:publisher>
+<dc:description>Photographic postcard view of the ruins of Poste Street, Gerbéviller, with rubble on both sides of the street.  Two people standing on rubble on left, man in beret and woman in long coat.</dc:description>
+<dc:subject>World War, 1914-1918--France--Pictorial Works; Cities and towns</dc:subject>
+<dc:subject>Buildings; War damage</dc:subject>
+<dc:coverage>Gerbeviller (France)</dc:coverage>
+<dc:language>fre</dc:language>
+<dc:source>postcard, b&amp;w,  3 x 5 in.</dc:source>
+<dc:type>Image</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_cd0640</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/85</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/86</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>La Guerre en Lorraine en 1914-1915.  Gerbéviller</dc:title>
+<dc:date>1915?</dc:date>
+<dc:publisher>E. Bastien, lib. édit., Lunéville</dc:publisher>
+<dc:description>Photographic postcard view of houses which remain after bombing of Gerbéviller.  Three men appear to be in uniform in the left foreground and three women with long skirts on the right.  There are windowless damaged building at the center of the image.</dc:description>
+<dc:subject>World War, 1914-1918--France--Pictorial Works; Cities and towns</dc:subject>
+<dc:subject>Buildings; War damage;</dc:subject>
+<dc:coverage>Gerbeviller (France)</dc:coverage>
+<dc:language>fre</dc:language>
+<dc:source>postcard, b&amp;w,  3 x 5 in.</dc:source>
+<dc:type>Image</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_cd0641</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/86</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/87</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Guerre 1914-1916.  Baccarat</dc:title>
+<dc:date>1916?</dc:date>
+<dc:publisher>Cliché Bertrand</dc:publisher>
+<dc:description>Photographic postcard view of the Rue des Ponts and numerous figures of men, women and children walking.  Ruins and rubble on left and right and a damaged church on the right.</dc:description>
+<dc:subject>World War, 1914-1918--France--Pictorial Works</dc:subject>
+<dc:subject>Cityscapes; War damage;</dc:subject>
+<dc:coverage>Baccarat (France)</dc:coverage>
+<dc:language>fre</dc:language>
+<dc:source>postcard, b&amp;w,  3 x 5 in.</dc:source>
+<dc:type>Image</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_cd0642</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/87</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/88</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Guerre 1914-1916.  Baccarat</dc:title>
+<dc:publisher>Cliché Bertrand</dc:publisher>
+<dc:description>Photographic postcard view from an elevation of the ruins of Baccarat.  Numerous roofless building and piles of rubble can be seen.</dc:description>
+<dc:subject>World War, 1914-1918--France--Pictorial Works</dc:subject>
+<dc:subject>Cityscapes; War damage;</dc:subject>
+<dc:coverage>Baccarat (France)</dc:coverage>
+<dc:language>fre</dc:language>
+<dc:source>postcard, b&amp;w,  3 x 5 in.</dc:source>
+<dc:type>Image</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_cd0643</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/88</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/89</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/90</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Curiosités et Merveilles de l&#x27;Alsace-Lorraine</dc:title>
+<dc:date>1916?</dc:date>
+<dc:publisher>Imp. Ad. Weick. - Saint-Dié (Déposé) No 7368 - Cl. w.; Edition Ad. Weick, St-Dié</dc:publisher>
+<dc:description>Photographic postcard view of the ruins of Ribeaupierre Chateau.  Vegetation in foreground.</dc:description>
+<dc:subject>World War, 1914-1918--France--Pictorial Works</dc:subject>
+<dc:subject>Castles &amp; palaces;</dc:subject>
+<dc:coverage>Alsace (France); Lorraine (France)</dc:coverage>
+<dc:language>fre</dc:language>
+<dc:source>postcard, b&amp;w,  3 x 5 in.</dc:source>
+<dc:type>Image</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_cd0645</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/90</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/91</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Nancy.  La Porte de la Craffe</dc:title>
+<dc:description>Photographic postcard view of the Porte de la Craffe showing twin cylindrical towers with cone roofs joined by a mansard-roofed entrance gate.  Shops with awnings on each side of plaza.  Standing figure in front of gate.</dc:description>
+<dc:subject>World War, 1914-1918--France--Pictorial Works</dc:subject>
+<dc:subject>Gatehouses;</dc:subject>
+<dc:coverage>Nancy (France)</dc:coverage>
+<dc:language>fre</dc:language>
+<dc:source>postcard, b&amp;w,  3 x 5 in.</dc:source>
+<dc:type>Image</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_cd0646</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/91</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/92</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Nancy.  Palais Ducal</dc:title>
+<dc:date>1915?</dc:date>
+<dc:publisher>Imprimeries Réunies de Nancy</dc:publisher>
+<dc:description>Photographic postcard view of entrance facade of the Ducal palace.  Five men. a woman, and a child stand in front of gate to the palace.</dc:description>
+<dc:subject>World War, 1914-1918--France--Pictorial Works</dc:subject>
+<dc:subject>Castles &amp; palaces;</dc:subject>
+<dc:coverage>Nancy (France)</dc:coverage>
+<dc:language>fre</dc:language>
+<dc:source>postcard, b&amp;w,  3 x 5 in.</dc:source>
+<dc:type>Image</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_cd0647</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/92</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/93</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Nancy.  Porte de la Citadelle (1598)</dc:title>
+<dc:date>1915?</dc:date>
+<dc:publisher>Imprimeries Réunies de Nancy</dc:publisher>
+<dc:description>Photographic postcard view of the Citadel gate in Nancy.  The entrance is ornate. A plaza with trees is visible in the foreground.</dc:description>
+<dc:subject>World War, 1914-1918--France--Pictorial Works</dc:subject>
+<dc:subject>Gatehouses;</dc:subject>
+<dc:coverage>Nancy (France)</dc:coverage>
+<dc:language>fre</dc:language>
+<dc:source>postcard, b&amp;w,  3 x 5 in.</dc:source>
+<dc:type>Image</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_cd0648</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/93</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/94</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Nancy.  Portail du Palais Ducal  (Détail)</dc:title>
+<dc:date>1915?</dc:date>
+<dc:publisher>Imprimerie Réunies de Nancy</dc:publisher>
+<dc:description>Photographic postcard view of details of decorative elements on the gate of the ducal palace in Nancy.  A coat of arms and a rearing horse with rider wearing a helmet and brandishing a sword in his right hand.</dc:description>
+<dc:subject>World War, 1914-1918--France--Pictorial Works</dc:subject>
+<dc:subject>Castles &amp; palaces;</dc:subject>
+<dc:language>fre</dc:language>
+<dc:source>postcard, b&amp;w,  3 x 5 in.</dc:source>
+<dc:type>Image</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_cd0649</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/94</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/95</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Nancy. L&#x27;Église des Cordeliers</dc:title>
+<dc:description>Photographic postcard view of the tomb and epitaph of King René</dc:description>
+<dc:subject>World War, 1914-1918--France--Pictorial Works</dc:subject>
+<dc:subject>Tombs &amp; sepulchral monuments;</dc:subject>
+<dc:coverage>Nancy (France)</dc:coverage>
+<dc:language>fre</dc:language>
+<dc:source>postcard, b&amp;w,  3 x 5 in.</dc:source>
+<dc:type>Image</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_cd0650</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/95</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/96</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Postcard: artist carrying gun and easel</dc:title>
+<dc:creator>Ketif, M.</dc:creator>
+<dc:date>1915</dc:date>
+<dc:description>Postcard with drawing of an artist carrying a portfolio, an easel, and a rifle.  The artist depicted smokes a pipe and wears puttees.  He is bearded.  Signed &quot;M. Ketif / 1915.&quot;</dc:description>
+<dc:subject>World War, 1914-1918--France--Pictorial Works</dc:subject>
+<dc:subject>Drawings;</dc:subject>
+<dc:language>fre</dc:language>
+<dc:source>postcard, b&amp;w,  3 x 5 in.</dc:source>
+<dc:type>Image</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_cd0651</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/96</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/97</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Curiosités et Merveilles de l&#x27;Alsace-Lorraine</dc:title>
+<dc:date>1916?</dc:date>
+<dc:publisher>Imp Ad. Weick. - Saint-Dié (Déposé) No 7366 - Cl. w;  Edition Ad Weick, St-Dié</dc:publisher>
+<dc:description>Photographic postcard depicting the ruins of Ortenberg Castle near Schletstadt in Alsace-Lorraine</dc:description>
+<dc:subject>World War, 1914-1918--France--Pictorial Works</dc:subject>
+<dc:subject>Castles &amp; palaces; Ruins</dc:subject>
+<dc:coverage>Alsace (France); Lorraine (France)</dc:coverage>
+<dc:language>fre</dc:language>
+<dc:source>postcard, b&amp;w,  3 x 5 in.</dc:source>
+<dc:type>Image</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_cd0652</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/97</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/98</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>La Grande Guerre 1914-15</dc:title>
+<dc:creator>Richard, A.</dc:creator>
+<dc:date>1915?</dc:date>
+<dc:publisher>A. Richard, 84, faub. du Temple   Visa Paris 257</dc:publisher>
+<dc:description>Photographic postcard depicting the church at Gommersdorff, Alsace-Lorraine</dc:description>
+<dc:subject>World War, 1914-1918--France--Pictorial Works</dc:subject>
+<dc:subject>Churches;</dc:subject>
+<dc:coverage>Alsace (France)</dc:coverage>
+<dc:language>fre</dc:language>
+<dc:source>postcard, b&amp;w,  3 x 5 in.</dc:source>
+<dc:type>Image</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_cd0653</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/98</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/99</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>La Grande Guerre 1914 1315 Thann</dc:title>
+<dc:creator>A. Richard</dc:creator>
+<dc:date>1915?</dc:date>
+<dc:publisher>Impr. EDIA Versailles; A. Richard, 84, faub. du Temple</dc:publisher>
+<dc:description>Photographic postcard depicting the bombed synagogue at Thann, in Haute-Alsace</dc:description>
+<dc:subject>World War, 1914-1918--France--Pictorial Works</dc:subject>
+<dc:subject>Synagogues; War damage;</dc:subject>
+<dc:coverage>Thann (France)</dc:coverage>
+<dc:language>fr</dc:language>
+<dc:source>postcard, b&amp;w,  3 x 5 in.</dc:source>
+<dc:type>Image</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_cd0653</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/99</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/100</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>American Field Service Bulletin No. 01</dc:title>
+<dc:creator>American Field Service</dc:creator>
+<dc:date>1917-07-04</dc:date>
+<dc:publisher>American Field Service</dc:publisher>
+<dc:description>The American Field Service Bulletin is a weekly publication intended for the different sections of the American Ambulance Field Service to acquaint the men in the AFS with what is transpiring in the Service.</dc:description>
+<dc:subject>World War, 1914-1918--Periodicals</dc:subject>
+<dc:subject>American Field Service</dc:subject>
+<dc:subject>American Field Service; American Ambulance Field Service;</dc:subject>
+<dc:subject>Military</dc:subject>
+<dc:language>eng</dc:language>
+<dc:source>Unbound serial, 5.25 x 8.25 in.</dc:source>
+<dc:type>Text</dc:type>
+<dc:source>Robert Bowne Suckley Collection</dc:source>
+<dc:identifier>wp_lc06620.1917.01</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/100</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/101</identifier><datestamp>2014-08-21</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Our friend France, moving pictures of Americans on the French battle front : souvenir program</dc:title>
+<dc:date>1916-12-08</dc:date>
+<dc:contributor>Naudin, Bernard, 1876-1946</dc:contributor>
+<dc:description>Large-format souvenir program of showing of  &quot;Our American Boys in the European War&quot;.</dc:description>
+<dc:subject>World War, 1914-1918--Motion pictures</dc:subject>
+<dc:subject>American Field Service</dc:subject>
+<dc:subject>American Field Service; American Ambulance Field Service</dc:subject>
+<dc:language>eng</dc:language>
+<dc:type>Text</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_033.005.02.05</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/101</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/102</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Invitation to motion picture &quot;Our American Boys in the European War&quot;</dc:title>
+<dc:creator>American Field Service</dc:creator>
+<dc:date>1916</dc:date>
+<dc:description>An invitation to a performance of the motion picture, &quot;Our American Boys in the European War&quot; on Friday, December 8th, 1916 at the Strand Theatre in New York City with envelope, program, RSVP card, and return envelope</dc:description>
+<dc:subject>World War, 1914-1918--Motion pictures</dc:subject>
+<dc:subject>American Field Service</dc:subject>
+<dc:subject>Suckley, Henry Eglinton Montgomery, 1887-1917</dc:subject>
+<dc:subject>American Field Service; American Ambulance Field Service</dc:subject>
+<dc:type>Text</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/102</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/104</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Moving Pictures of the American Ambulance Field Service and the American Aviators in France: announcement</dc:title>
+<dc:creator>American Field Service</dc:creator>
+<dc:date>1916</dc:date>
+<dc:contributor>Naudin, Bernard, 1876-1946</dc:contributor>
+<dc:description>Announcement of a showing of &quot;Our American Boys in the European War&quot; on 1916-08-30 at the Gallery on the Moors in Gloucester, Massachusetts. With black and white line drawings by Bernard Naudin.  15 pages.</dc:description>
+<dc:subject>World War, 1914-1918--Motion pictures</dc:subject>
+<dc:subject>American Field Service</dc:subject>
+<dc:subject>American Field Service; American Ambulance Field Service</dc:subject>
+<dc:language>eng</dc:language>
+<dc:type>Text</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_033.005.02.02</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/104</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/105</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Moving Pictures of the American Ambulance Field Service and the American Aviators in France : announcement</dc:title>
+<dc:creator>American Field Service</dc:creator>
+<dc:date>1916</dc:date>
+<dc:contributor>Naudin, Bernard, 1876-1946</dc:contributor>
+<dc:description>Announcement of a showing of &quot;Our American Boys in the European War&quot; on 1916-09-07 at the Building of Arts in Bar Harbor, Maine.  With black and white line drawings by Bernard Naudin.</dc:description>
+<dc:subject>World War, 1914-1918--Motion pictures</dc:subject>
+<dc:subject>American Field Service</dc:subject>
+<dc:subject>American Field Service; American Ambulance Field Service</dc:subject>
+<dc:language>eng</dc:language>
+<dc:type>Text</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_033.005.02.03</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/105</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/127</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>American Field Service Bulletin No. 02</dc:title>
+<dc:creator>American Field Service</dc:creator>
+<dc:date>1917-07-11</dc:date>
+<dc:publisher>American Field Service</dc:publisher>
+<dc:description>The American Field Service Bulletin is a weekly publication intended for the different sections of the American Ambulance Field Service to acquaint the men in the AFS with what is transpiring in the Service.</dc:description>
+<dc:subject>World War, 1914-1918--Periodicals</dc:subject>
+<dc:subject>American Field Service</dc:subject>
+<dc:subject>American Field Service; American Ambulance Field Service;</dc:subject>
+<dc:subject>Military</dc:subject>
+<dc:language>eng</dc:language>
+<dc:source>Unbound serial, 5.25 x 8.25 in.</dc:source>
+<dc:type>Text</dc:type>
+<dc:source>Robert Bowne Suckley Collection</dc:source>
+<dc:identifier>wp_lc06620.1917.02</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/127</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/128</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>American Field Service Bulletin No. 03</dc:title>
+<dc:creator>American Field Service</dc:creator>
+<dc:date>1917-07-18</dc:date>
+<dc:publisher>American Field Service</dc:publisher>
+<dc:description>The American Field Service Bulletin is a weekly publication intended for the different sections of the American Ambulance Field Service to acquaint the men in the AFS with what is transpiring in the Service.</dc:description>
+<dc:subject>World War, 1914-1918--Periodicals</dc:subject>
+<dc:subject>American Field Service</dc:subject>
+<dc:subject>American Field Service; American Ambulance Field Service;</dc:subject>
+<dc:subject>Military</dc:subject>
+<dc:language>eng</dc:language>
+<dc:source>Unbound serial, 5.25 x 8.25 in.</dc:source>
+<dc:type>Text</dc:type>
+<dc:source>Robert Bowne Suckley Collection</dc:source>
+<dc:identifier>wp_lc06620.1917.03</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/128</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/129</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>American Field Service Bulletin No. 04</dc:title>
+<dc:creator>American Field Service</dc:creator>
+<dc:date>1917-07-25</dc:date>
+<dc:description>The American Field Service Bulletin is a weekly publication intended for the different sections of the American Ambulance Field Service to acquaint the men in the AFS with what is transpiring in the Service.</dc:description>
+<dc:subject>World War, 1914-1918--Periodicals</dc:subject>
+<dc:subject>American Field Service</dc:subject>
+<dc:subject>American Field Service; American Ambulance Field Service;</dc:subject>
+<dc:subject>Military</dc:subject>
+<dc:language>eng</dc:language>
+<dc:source>Unbound serial, 5.25 x 8.25</dc:source>
+<dc:type>Text</dc:type>
+<dc:source>Robert Bowne Suckley Collection</dc:source>
+<dc:identifier>wp_lc06620.1917.04</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/129</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/130</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>American Field Service Bulletin No. 05</dc:title>
+<dc:creator>American Field Service</dc:creator>
+<dc:date>1917-08-01</dc:date>
+<dc:publisher>American Field Service</dc:publisher>
+<dc:description>The American Field Service Bulletin is a weekly publication intended for the different sections of the American Ambulance Field Service to acquaint the men in the AFS with what is transpiring in the Service.</dc:description>
+<dc:subject>World War, 1914-1918--Periodicals</dc:subject>
+<dc:subject>American Field Service</dc:subject>
+<dc:subject>American Field Service; American Ambulance Field Service;</dc:subject>
+<dc:subject>Military</dc:subject>
+<dc:language>eng</dc:language>
+<dc:source>Unbound serial, 5.25 x 8.25 in.</dc:source>
+<dc:type>Text</dc:type>
+<dc:source>Robert Bowne Suckley Collection</dc:source>
+<dc:identifier>wp_lc06620.1917.05</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/130</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/131</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>American Field Service Bulletin No. 06</dc:title>
+<dc:creator>American Field Service</dc:creator>
+<dc:date>1917-08-08</dc:date>
+<dc:publisher>American Field Service</dc:publisher>
+<dc:description>The American Field Service Bulletin is a weekly publication intended for the different sections of the American Ambulance Field Service to acquaint the men in the AFS with what is transpiring in the Service</dc:description>
+<dc:subject>World War, 1914-1918--Periodicals</dc:subject>
+<dc:subject>American Field Service</dc:subject>
+<dc:subject>American Field Service; American Ambulance Field Service;</dc:subject>
+<dc:subject>Military</dc:subject>
+<dc:language>eng</dc:language>
+<dc:source>Unbound serial, 5.25 x 8.25 in.</dc:source>
+<dc:type>Text</dc:type>
+<dc:source>Robert Bowne Suckley Collection</dc:source>
+<dc:identifier>wp_lc06620.06</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/131</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/140</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>American Field Service Bulletin No. 07</dc:title>
+<dc:creator>American Field Service</dc:creator>
+<dc:date>1917-08-15</dc:date>
+<dc:publisher>American Field Service</dc:publisher>
+<dc:description>The American Field Service Bulletin is a weekly publication intended for the different sections of the American Ambulance Field Service to acquaint the men in the AFS with what is transpiring in the Service</dc:description>
+<dc:subject>World War, 1914-1918--Periodicals</dc:subject>
+<dc:subject>American Field Service</dc:subject>
+<dc:subject>American Field Service; American Ambulance Field Service;</dc:subject>
+<dc:subject>Military</dc:subject>
+<dc:language>eng</dc:language>
+<dc:source>Unbound serial, 5.25 x 8.25 in.</dc:source>
+<dc:type>Text</dc:type>
+<dc:source>Robert Bowne Suckley Collection</dc:source>
+<dc:identifier>wp_lc06620.1917.07</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/140</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/142</identifier><datestamp>2014-08-21</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>American Field Service diploma</dc:title>
+<dc:creator>American Field Service</dc:creator>
+<dc:date>1918?</dc:date>
+<dc:contributor>Naudin, Bernard, 1876-1946</dc:contributor>
+<dc:description>American Field Service diploma of Henry E.M. Suckley, signed by [illegible], Abram Piatt Andrew, Jr., and Stephen Galatti</dc:description>
+<dc:subject>American Field Service</dc:subject>
+<dc:subject>Diplomas</dc:subject>
+<dc:subject>Suckley, Henry Eglinton Montgomery, 1887-1917</dc:subject>
+<dc:subject>American Field Service; American Ambulance Field Service</dc:subject>
+<dc:language>fre</dc:language>
+<dc:type>Text</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_033.005.03.01</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/142</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/151</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>American Field Service Bulletin No. 08</dc:title>
+<dc:creator>American Field Service</dc:creator>
+<dc:date>1917-08-23</dc:date>
+<dc:publisher>American Field Service</dc:publisher>
+<dc:description>The American Field Service Bulletin is a weekly publication intended for the different sections of the American Ambulance Field Service to acquaint the men in the AFS with what is transpiring in the Service.</dc:description>
+<dc:subject>World War, 1914-1918--Periodicals</dc:subject>
+<dc:subject>American Field Service</dc:subject>
+<dc:subject>American Field Service; American Ambulance Field Service</dc:subject>
+<dc:subject>Military</dc:subject>
+<dc:language>eng</dc:language>
+<dc:source>Unbound serial, 5.25 x 8.25 in</dc:source>
+<dc:type>Text</dc:type>
+<dc:source>Robert Bowne Suckley Collection</dc:source>
+<dc:identifier>wp_lc06620.1917.08</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/151</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/156</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/157</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/158</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/159</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/160</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/161</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>1915 Passport of Henry Eglinton Montgomery Suckley: passport</dc:title>
+<dc:creator>United States. Department of State</dc:creator>
+<dc:date>1915-01-14</dc:date>
+<dc:description>Passport of Henry Eglinton Montgomery Suckley with attached photograph</dc:description>
+<dc:subject>Suckley, Henry Eglinton Montgomery, 1887-1917</dc:subject>
+<dc:language>eng</dc:language>
+<dc:source>Paper, 11.5 x 16.75 in., with photograph stapled to upper left hand corner</dc:source>
+<dc:type>Text</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_033.005.01.01</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/161</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/162</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>1916 Passport of Henry Eglinton Montgomery Suckley: Passport</dc:title>
+<dc:creator>United States. Department of State</dc:creator>
+<dc:date>1916-09-09</dc:date>
+<dc:description>U.S. passport of Henry Eglinton Montgomery Suckley with attached photograph</dc:description>
+<dc:subject>Suckley, Henry Eglinton Montgomery, 1887-1917</dc:subject>
+<dc:language>eng</dc:language>
+<dc:source>Paper, 11.5 x16.75 in., with photograph stapled to upper left hand corner</dc:source>
+<dc:type>Text</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_033.005.01.02</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/162</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/163</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Letter, A. Piatt Andrew to Henry E.M. Suckley, July 20, 1916</dc:title>
+<dc:creator>Andrew, A. Piatt (Abram Piatt), 1873-1936</dc:creator>
+<dc:date>1916-07-20</dc:date>
+<dc:description>Typewritten letter on AAFS stationery from A. Piatt Andrew to Henry E.M. Suckley, dated 1916-07-20, re new section equipped by the New York Stock Exchange through efforts of H.E.M. Suckley&#x27;s uncle; Suckley&#x27;s services are desired as the leader of a section of the American Ambulance Field Service</dc:description>
+<dc:subject>American Field Service</dc:subject>
+<dc:subject>Andrew, A. Piatt (Abram Piatt), 1873-1936; Suckley, Henry Eglinton Montgomery, 1887-1917</dc:subject>
+<dc:subject>American Field Service; American Ambulance Field Service;</dc:subject>
+<dc:language>eng</dc:language>
+<dc:source>Paper, 21 x 27 cm.</dc:source>
+<dc:type>Text</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_033.003.01</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/163</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/164</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Letter, A. Piatt Andrew to Henry E.M. Suckley, July 26, 1916</dc:title>
+<dc:creator>Andrew, A. Piatt (Abram Piatt), 1873-1936</dc:creator>
+<dc:date>1916-07-26</dc:date>
+<dc:description>Typewritten letter on AAFS stationery from A. Piatt Andrew to Henry Eglinton Montgomery Suckley, dated July 26, 1916, re acceptance of leadership of Stock Exchange section</dc:description>
+<dc:subject>World War, 1914-1918--France;</dc:subject>
+<dc:subject>American Field Service</dc:subject>
+<dc:subject>Andrew, A. Piatt (Abram Piatt), 1873-1936; Suckley, Henry Eglinton Montgomery, 1887-1917</dc:subject>
+<dc:subject>American Field Service; American Ambulance Field Service;</dc:subject>
+<dc:language>eng</dc:language>
+<dc:source>Paper, 21 x 27 cm.</dc:source>
+<dc:type>Text</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_033.003.01</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/164</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/173</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>American Ambulance Field Service in France : promotional pamphlet</dc:title>
+<dc:creator>American Field Service</dc:creator>
+<dc:date>1916</dc:date>
+<dc:description>American Ambulance Field Service promotional/fund-raising  brochure</dc:description>
+<dc:subject>American Field Service</dc:subject>
+<dc:subject>Fund raising</dc:subject>
+<dc:subject>American Field Service; American Ambulance Field Service</dc:subject>
+<dc:language>eng</dc:language>
+<dc:source>Paper, 8 x 10.25 in.</dc:source>
+<dc:type>Text</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_033.005.04.01</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/173</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/182</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>American Field Service Bulletin No. 09</dc:title>
+<dc:creator>American Field Service</dc:creator>
+<dc:date>1917-09-01</dc:date>
+<dc:publisher>American Field Service</dc:publisher>
+<dc:description>The American Field Service Bulletin is a weekly publication intended for the different sections of the American Ambulance Field Service to acquaint the men in the AFS with what is transpiring in the Service</dc:description>
+<dc:subject>World War, 1914-1918--Periodicals</dc:subject>
+<dc:subject>American Field Service</dc:subject>
+<dc:subject>American Field Service; American Ambulance Field Service;</dc:subject>
+<dc:subject>Military</dc:subject>
+<dc:language>eng</dc:language>
+<dc:source>Unbound serial, 5.25 x 8.25 in.</dc:source>
+<dc:type>Text</dc:type>
+<dc:source>Robert Bowne Suckley Collection</dc:source>
+<dc:identifier>wp_lc06620.1917.09</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/182</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/195</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/196</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>American Field Service Bulletin No. 10</dc:title>
+<dc:creator>American Field Service</dc:creator>
+<dc:date>1917-09-08</dc:date>
+<dc:publisher>American Field Service</dc:publisher>
+<dc:description>The American Field Service Bulletin is a weekly publication intended for the different sections of the American Ambulance Field Service to acquaint the men in the AFS with what is transpiring in the Service.</dc:description>
+<dc:subject>World War, 1914-1918--Periodicals</dc:subject>
+<dc:subject>American Field Service</dc:subject>
+<dc:subject>American Field Service; American Ambulance Field Service;</dc:subject>
+<dc:subject>Military</dc:subject>
+<dc:language>eng</dc:language>
+<dc:source>Unbound serial, 5.25 x 8.25 in</dc:source>
+<dc:type>Text</dc:type>
+<dc:source>Robert Bowne Suckley Collection</dc:source>
+<dc:identifier>wp_lc06620.1917.10</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/196</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/197</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Rhinebeckers at front write of work in Europe&#x27;s Great War : newspaper clipping</dc:title>
+<dc:creator>Rhinebeck Gazette</dc:creator>
+<dc:date>1916-04-01</dc:date>
+<dc:contributor>Suckley, Henry Eglinton Montgomery, 1887-1917; Merritt, Ethel Douglas</dc:contributor>
+<dc:description>Rhinebeck Gazette article dated 1916-04-01 mostly consisting of two letters sent by Henry E. M. Suckley to the editors of Horae Scholasticae, a student newspaper published at St. Paul&#x27;s School, Concord, New Hampshire.  Letters dated 1915-07-04 and 1915-11-29.  Also includes letter from Ethel D. Merritt to Mrs. Frank Latson, no date.</dc:description>
+<dc:subject>World War, 1914-1918</dc:subject>
+<dc:subject>American Field Service</dc:subject>
+<dc:subject>Suckley, Henry Eglinton Montgomery, 1887-1917</dc:subject>
+<dc:subject>American Field Service; American Ambulance Field Service;</dc:subject>
+<dc:language>eng</dc:language>
+<dc:source>Newsprint, 21 5/8 x 7 7/8 in, 21 5/8 x 5 6/8 in.</dc:source>
+<dc:type>Text</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>hemslettersingazette.jpg</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/197</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/198</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Americans Who Serve France</dc:title>
+<dc:creator>Leslie&#x27;s Weekly</dc:creator>
+<dc:date>1917-03-08</dc:date>
+<dc:contributor>Hare, James H., 1856-1946</dc:contributor>
+<dc:publisher>Leslie&#x27;s Weekly</dc:publisher>
+<dc:description>One-page newspaper article from Leslie&#x27;s Weekly on the American Ambulance Field Service.  Illustrated with four photographs.  One photograph of a group of volunteers includes Henry E.M. Suckley.</dc:description>
+<dc:subject>World War, 1914-1918--France</dc:subject>
+<dc:subject>American Field Service</dc:subject>
+<dc:subject>Suckley, Henry Eglinton Montgomery, 1887-1917</dc:subject>
+<dc:language>eng</dc:language>
+<dc:source>Paper, 10 6/16 x 14 in.</dc:source>
+<dc:type>Text; Image</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>amwhoservemarch1917.jpg</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/198</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/199</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Souvenir de Henry M. Suckley tué à Koritza : framed calligraphic remembrance</dc:title>
+<dc:creator>M. LeParmantier</dc:creator>
+<dc:date>1917?</dc:date>
+<dc:description>Ornamental calligraphic remembrance of Henry Eglinton Montgomery Suckley&#x27;s service in the American Ambulance Field Service for France and for losing his life in Koritza, Albania.  In circular gilt frame.  Depicts a five-pointed star made of leaf- or bud-like forms in gilt, silver, green, and red.  Inside the star is a metallic-silver colored Latin cross, two quotes from the Bible, and an inscription in remembrance of Henry E.M. Suckley.</dc:description>
+<dc:subject>World War, 1914-1918--France</dc:subject>
+<dc:subject>Honor</dc:subject>
+<dc:subject>Suckley, Henry Eglinton Montgomery, 1887-1917;</dc:subject>
+<dc:subject>American Field Service;</dc:subject>
+<dc:language>fre</dc:language>
+<dc:source>Ink, pencil, paint and gilt on paper, mounted in circular wooden frame, 7 1/16 in. in diameter</dc:source>
+<dc:type>Physical Object</dc:type>
+<dc:source>Robert Bowne Suckley Collection</dc:source>
+<dc:identifier>HenrySuckleyDeathSouvenir.jpg</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Wilderstein Preservation holds copyright and reproduction rights. Permission for reproduction required. http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/199</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/200</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Henry Suckley killed by bomb : newspaper clipping</dc:title>
+<dc:creator>The Rhinebeck Gazette</dc:creator>
+<dc:date>1917-03-31</dc:date>
+<dc:publisher>The Rhinebeck Gazette</dc:publisher>
+<dc:description>Newspaper article with photograph from the Rhinebeck Gazette recounting the death of Henry Eglinton Montgomery Suckley in Albania.</dc:description>
+<dc:subject>World War, 1914-1918--France</dc:subject>
+<dc:subject>American Field Service</dc:subject>
+<dc:subject>Suckley, Henry Eglinton Montgomery, 1887-1917</dc:subject>
+<dc:subject>American Field Service; American Ambulance Field Service</dc:subject>
+<dc:language>eng</dc:language>
+<dc:source>Newsprint</dc:source>
+<dc:type>Text; Image</dc:type>
+<dc:source>Robert Bowne Suckley Collection</dc:source>
+<dc:identifier>henrysuckleykilledbybomb.jpg</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/200</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/213</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>American Field Service Bulletin No. 11</dc:title>
+<dc:creator>American Field Service</dc:creator>
+<dc:date>1917-09-15</dc:date>
+<dc:publisher>American Field Service</dc:publisher>
+<dc:description>The American Field Service Bulletin is a weekly publication intended for the different sections of the American Ambulance Field Service to acquaint the men in the AFS with what is transpiring in the Service.</dc:description>
+<dc:subject>World War, 1914-1918--Periodicals</dc:subject>
+<dc:subject>American Field Service</dc:subject>
+<dc:subject>American Field Service; American Ambulance Field Service;</dc:subject>
+<dc:subject>Military</dc:subject>
+<dc:language>eng</dc:language>
+<dc:source>Unbound serial, 5.25 x 8.25 in</dc:source>
+<dc:type>Text</dc:type>
+<dc:source>Robert Bowne Suckley Collection</dc:source>
+<dc:identifier>wp_lc06620.1917.11</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/213</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/230</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>American Field Service Bulletin No. 12</dc:title>
+<dc:creator>American Field Service</dc:creator>
+<dc:date>1917-09-22</dc:date>
+<dc:publisher>American Field Service</dc:publisher>
+<dc:description>The American Field Service Bulletin is a weekly publication intended for the different sections of the American Ambulance Field Service to acquaint the men in the AFS with what is transpiring in the Service.</dc:description>
+<dc:subject>World War, 1914-1918--Periodicals</dc:subject>
+<dc:subject>American Field Service</dc:subject>
+<dc:subject>American Field Service; American Ambulance Field Service;</dc:subject>
+<dc:subject>Military</dc:subject>
+<dc:language>eng</dc:language>
+<dc:source>Unbound serial, 5.25 x 8.25 in</dc:source>
+<dc:type>Text</dc:type>
+<dc:source>Robert Bowne Suckley Collection</dc:source>
+<dc:identifier>wp_lc06620.1917.12</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/230</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/247</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>American Field Service Bulletin No. 13</dc:title>
+<dc:creator>American Field Service</dc:creator>
+<dc:date>1917-09-29</dc:date>
+<dc:publisher>American Field Service</dc:publisher>
+<dc:description>The American Field Service Bulletin is a weekly publication intended for the different sections of the American Ambulance Field Service to acquaint the men in the AFS with what is transpiring in the Service.</dc:description>
+<dc:subject>World War, 1914-1918--Periodicals</dc:subject>
+<dc:subject>American Field Service</dc:subject>
+<dc:subject>American Field Service; American Ambulance Field Service;</dc:subject>
+<dc:subject>Military</dc:subject>
+<dc:language>eng</dc:language>
+<dc:source>Unbound serial, 5.25 x 8.25 in</dc:source>
+<dc:type>Text</dc:type>
+<dc:source>Robert Bowne Suckley Collection</dc:source>
+<dc:identifier>wp_lc06620.1917.13</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/247</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/256</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>American Field Service Bulletin No. 14</dc:title>
+<dc:creator>American Field Service</dc:creator>
+<dc:date>1917-10-06</dc:date>
+<dc:publisher>American Field Service</dc:publisher>
+<dc:description>The American Field Service Bulletin is a weekly publication intended for the different sections of the American Ambulance Field Service to acquaint the men in the AFS with what is transpiring in the Service</dc:description>
+<dc:subject>World War, 1914-1918--Periodicals</dc:subject>
+<dc:subject>American Field Service</dc:subject>
+<dc:subject>American Field Service; American Ambulance Field Service;</dc:subject>
+<dc:subject>Military</dc:subject>
+<dc:language>eng</dc:language>
+<dc:source>Unbound serial, 5.25 x 8.25 in</dc:source>
+<dc:type>Text</dc:type>
+<dc:source>Robert Bowne Suckley Collection</dc:source>
+<dc:identifier>wp_lc06620.1917.14</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/256</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/269</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>American Field Service Bulletin No. 15</dc:title>
+<dc:creator>American Field Service</dc:creator>
+<dc:date>1917-10-13</dc:date>
+<dc:publisher>American Field Service</dc:publisher>
+<dc:description>The American Field Service Bulletin is a weekly publication intended for the different sections of the American Ambulance Field Service to acquaint the men in the AFS with what is transpiring in the Service</dc:description>
+<dc:subject>World War, 1914-1918--Periodicals</dc:subject>
+<dc:subject>American Field Service</dc:subject>
+<dc:subject>American Field Service; American Ambulance Field Service;</dc:subject>
+<dc:subject>Military</dc:subject>
+<dc:language>eng</dc:language>
+<dc:source>Unbound serial, 5.25 x 8.25 in</dc:source>
+<dc:type>Text</dc:type>
+<dc:source>Robert Bowne Suckley Collection</dc:source>
+<dc:identifier>wp_lc06620.1917.15</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/269</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/282</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>American Field Service Bulletin No. 16</dc:title>
+<dc:creator>American Field Service</dc:creator>
+<dc:date>1917-10-20</dc:date>
+<dc:publisher>American Field Service</dc:publisher>
+<dc:description>The American Field Service Bulletin is a weekly publication intended for the different sections of the American Ambulance Field Service to acquaint the men in the AFS with what is transpiring in the Service</dc:description>
+<dc:subject>World War, 1914-1918--Periodicals</dc:subject>
+<dc:subject>American Field Service</dc:subject>
+<dc:subject>American Field Service; American Ambulance Field Service;</dc:subject>
+<dc:subject>Military</dc:subject>
+<dc:language>eng</dc:language>
+<dc:source>Unbound serial, 5.25 x 8.25 in.</dc:source>
+<dc:type>Text</dc:type>
+<dc:source>Robert Bowne Suckley Collection</dc:source>
+<dc:identifier>wp_lc06620.1917.16</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/282</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/291</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>American Field Service Bulletin No. 17</dc:title>
+<dc:creator>American Field Service</dc:creator>
+<dc:date>1917-10-27</dc:date>
+<dc:publisher>American Field Service</dc:publisher>
+<dc:description>The American Field Service Bulletin is a weekly publication intended for the different sections of the American Ambulance Field Service to acquaint the men in the AFS with what is transpiring in the Service</dc:description>
+<dc:subject>World War, 1914-1918--Periodicals</dc:subject>
+<dc:subject>American Field Service</dc:subject>
+<dc:subject>American Field Service; American Ambulance Field Service;</dc:subject>
+<dc:subject>Military</dc:subject>
+<dc:language>eng</dc:language>
+<dc:source>Unbound serial, 5.25 x 8.25 in.</dc:source>
+<dc:type>Text</dc:type>
+<dc:source>Robert Bowne Suckley Collection</dc:source>
+<dc:identifier>wp_lc06620.1917.17</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/291</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/292</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/293</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/294</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/295</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/296</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/297</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/298</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/299</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/300</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/301</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/302</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/303</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/304</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/305</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/306</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/307</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/308</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/309</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/310</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/311</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/312</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/313</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/314</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/315</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/316</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/317</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/318</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/319</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/320</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/321</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/322</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/323</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/324</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/325</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/326</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/327</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/328</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/329</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/330</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/331</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/332</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/333</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/334</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/335</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/336</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/337</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/338</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/339</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/340</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/341</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/342</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/343</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/344</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/345</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/346</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/347</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/348</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/349</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/350</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/351</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/352</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/353</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/354</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/355</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/356</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/357</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/358</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/359</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/360</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/361</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/362</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/363</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/364</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/365</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/366</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/819</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>World War I photograph album of Henry Eglinton Montgomery Suckley</dc:title>
+<dc:creator>Suckley, Henry Eglinton Montgomery, 1887-1917</dc:creator>
+<dc:date>1915-1917</dc:date>
+<dc:description>Dated: 1915-1917. The ablum contains photos taken by Henry while serving in the American Ambulance Field Service in France. Black leather photograph album with sewn binding and black pages (10 1/4 x 12 1/8 x 1 in). Silver gelatin prints include both printed and developed out processes. Various formats including autographic photos measuring 1 3/4 x 2 3/4 in. to  larger photos measuring 4 x 5 in. and other sizes as well are mounted on pages.</dc:description>
+<dc:subject>World War, 1914-1918; World War, 1914-1918--Casualities; World War, 1914-1918--Destruction and pillage; World War, 1914-1918--Photographs; Soldiers; Ambulances; American Field Service; Bunkers</dc:subject>
+<dc:subject>Suckley, Henry Eglinton Montgomery, 1887-1917</dc:subject>
+<dc:coverage>Europe</dc:coverage>
+<dc:subject>Military;</dc:subject>
+<dc:source>Photograph Album, 75 pages</dc:source>
+<dc:type>Image</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp.a11</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Wilderstein Preservation holds copyright and reproduction rights. Permission for reproduction required. http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/819</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/835</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/861</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Diary of Henry Eglinton Montgomery Suckley: December 26, 1916 - February 4, 1917</dc:title>
+<dc:creator>Suckley, Henry Eglinton Montgomery, 1887-1917</dc:creator>
+<dc:date>1916-1917</dc:date>
+<dc:description>Agenda book belonging to Henry Eglinton Montgomery Suckley used as a diary of events personal as well as events related to his service as the leader of Section 10 of the American Field Service. Dated entries from 1916-12-26 to 1917-2-4 mainly relate the relocation of Section 10 by ship (S. S. Lotus) across the Mediterranean Sea. Henry&#x27;s group, along with other sections of the American Field Service, departed from Marseilles, France on January 3, 1917 and arrived in the harbor of Salonika on January 8, 1917.</dc:description>
+<dc:subject>World War, 1914-1918--Salonika</dc:subject>
+<dc:subject>Suckley, Henry Eglinton Montgomery, 1887-1917</dc:subject>
+<dc:language>eng</dc:language>
+<dc:source>Bound volume ; 6 1/4 x 3 3/4 in.</dc:source>
+<dc:type>Text</dc:type>
+<dc:relation>Henry Eglinton Montgomery Suckley diary (December 26,1916 to February 4, 1917)</dc:relation>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_033</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Wilderstein Preservation holds copyright and reproduction rights. Permission for reproduction required. http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/861</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/873</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>American Field Service Bulletin No. 18</dc:title>
+<dc:creator>American Field Service</dc:creator>
+<dc:date>1917-11-3</dc:date>
+<dc:publisher>American Field Service</dc:publisher>
+<dc:description>The American Field Service Bulletin is a weekly publication intended for the different sections of the American Ambulance Field Service to acquaint the men in the AFS with what is transpiring in the Service.</dc:description>
+<dc:subject>World War, 1914-1918--Periodicals</dc:subject>
+<dc:subject>American Field Service</dc:subject>
+<dc:subject>American Field Service; American Ambulance Field Service;</dc:subject>
+<dc:subject>Military</dc:subject>
+<dc:language>eng</dc:language>
+<dc:source>Unbound serial, 5.25 x 8.25 in.</dc:source>
+<dc:type>Text</dc:type>
+<dc:source>Robert Bowne Suckley Collection</dc:source>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/873</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/890</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>American Field Service Bulletin No. 19</dc:title>
+<dc:creator>American Field Service</dc:creator>
+<dc:date>1917-11-10</dc:date>
+<dc:publisher>American Field Service</dc:publisher>
+<dc:description>The American Field Service Bulletin is a weekly publication intended for the different sections of the American Ambulance Field Service to acquaint the men in the AFS with what is transpiring in the Service.</dc:description>
+<dc:subject>World War, 1914-1918--Periodicals</dc:subject>
+<dc:subject>American Field Service</dc:subject>
+<dc:subject>American Field Service; American Ambulance Field Service;</dc:subject>
+<dc:subject>Military</dc:subject>
+<dc:language>eng</dc:language>
+<dc:source>Unbound serial, 5.25 x 8.25 in.</dc:source>
+<dc:type>Text</dc:type>
+<dc:source>Robert Bowne Suckley Collection</dc:source>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/890</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/899</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>American Field Service Bulletin No. 20</dc:title>
+<dc:creator>American Field Service</dc:creator>
+<dc:date>1917-11-17</dc:date>
+<dc:publisher>American Field Service</dc:publisher>
+<dc:description>The American Field Service Bulletin is a weekly publication intended for the different sections of the American Ambulance Field Service to acquaint the men in the AFS with what is transpiring in the Service</dc:description>
+<dc:subject>World War, 1914-1918--Periodicals</dc:subject>
+<dc:subject>American Field Service</dc:subject>
+<dc:subject>American Field Service; American Ambulance Field Service;</dc:subject>
+<dc:subject>Military</dc:subject>
+<dc:language>eng</dc:language>
+<dc:source>Unbound serial, 5.25 x 8.25 in.</dc:source>
+<dc:type>Text</dc:type>
+<dc:source>Robert Bowne Suckley Collection</dc:source>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/899</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/912</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>American Field Service Bulletin No. 21</dc:title>
+<dc:creator>American Field Service</dc:creator>
+<dc:date>1917-11-24</dc:date>
+<dc:publisher>American Field Service</dc:publisher>
+<dc:description>The American Field Service Bulletin is a weekly publication intended for the different sections of the American Ambulance Field Service to acquaint the men in the AFS with what is transpiring in the Service</dc:description>
+<dc:subject>World War, 1914-1918--Periodicals</dc:subject>
+<dc:subject>American Field Service</dc:subject>
+<dc:subject>American Field Service; American Ambulance Field Service;</dc:subject>
+<dc:subject>Military</dc:subject>
+<dc:language>eng</dc:language>
+<dc:source>Unbound serial, 5.25 x 8.25 in.</dc:source>
+<dc:type>Text</dc:type>
+<dc:source>Robert Bowne Suckley Collection</dc:source>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/912</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/929</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>American Field Service Bulletin No. 22</dc:title>
+<dc:creator>American Field Service</dc:creator>
+<dc:date>1917-12-01</dc:date>
+<dc:publisher>American Field Service</dc:publisher>
+<dc:description>The American Field Service Bulletin is a weekly publication intended for the different sections of the American Ambulance Field Service to acquaint the men in the AFS with what is transpiring in the Service</dc:description>
+<dc:subject>World War, 1914-1918--Periodicals</dc:subject>
+<dc:subject>American Field Service</dc:subject>
+<dc:subject>American Field Service; American Ambulance Field Service;</dc:subject>
+<dc:subject>Military</dc:subject>
+<dc:language>eng</dc:language>
+<dc:source>Unbound serial, 5.25 x 8.25 in.</dc:source>
+<dc:type>Text</dc:type>
+<dc:source>Robert Bowne Suckley Collection</dc:source>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/929</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/946</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>American Field Service Bulletin No. 23</dc:title>
+<dc:creator>American Field Service</dc:creator>
+<dc:date>1917-12-08</dc:date>
+<dc:publisher>American Field Service</dc:publisher>
+<dc:description>The American Field Service Bulletin is a weekly publication intended for the different sections of the American Ambulance Field Service to acquaint the men in the AFS with what is transpiring in the Service</dc:description>
+<dc:subject>World War, 1914-1918--Periodicals</dc:subject>
+<dc:subject>American Field Service</dc:subject>
+<dc:subject>American Field Service; American Ambulance Field Service;</dc:subject>
+<dc:subject>Military</dc:subject>
+<dc:language>eng</dc:language>
+<dc:source>Unbound serial, 5.25 x 8.25 in.</dc:source>
+<dc:type>Text</dc:type>
+<dc:source>Robert Bowne Suckley Collection</dc:source>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/946</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/958</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>American Field Service Bulletin No. 24</dc:title>
+<dc:creator>American Field Service</dc:creator>
+<dc:date>1917-12-15</dc:date>
+<dc:publisher>American Field Service</dc:publisher>
+<dc:description>The American Field Service Bulletin is a weekly publication intended for the different sections of the American Ambulance Field Service to acquaint the men in the AFS with what is transpiring in the Service</dc:description>
+<dc:subject>World War, 1914-1918--Periodicals</dc:subject>
+<dc:subject>American Field Service</dc:subject>
+<dc:subject>American Field Service; American Ambulance Field Service;</dc:subject>
+<dc:subject>Military</dc:subject>
+<dc:language>eng</dc:language>
+<dc:source>Unbound serial, 5.25 x 8.25 in.</dc:source>
+<dc:type>Text</dc:type>
+<dc:source>Robert Bowne Suckley Collection</dc:source>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/958</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/963</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/979</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>American Field Service Bulletin No. 25</dc:title>
+<dc:creator>American Field Service</dc:creator>
+<dc:date>1917-12-22</dc:date>
+<dc:publisher>American Field Service</dc:publisher>
+<dc:description>The American Field Service Bulletin is a weekly publication intended for the different sections of the American Ambulance Field Service to acquaint the men in the AFS with what is transpiring in the Service</dc:description>
+<dc:subject>World War, 1914-1918--Periodicals</dc:subject>
+<dc:subject>American Field Service</dc:subject>
+<dc:subject>American Field Service; American Ambulance Field Service;</dc:subject>
+<dc:subject>Military</dc:subject>
+<dc:language>eng</dc:language>
+<dc:source>Unbound serial, 5.25 x 8.25 in.</dc:source>
+<dc:type>Text</dc:type>
+<dc:source>Robert Bowne Suckley Collection</dc:source>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/979</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/992</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>American Field Service Bulletin No. 26</dc:title>
+<dc:creator>American Field Service</dc:creator>
+<dc:date>1917-12-29</dc:date>
+<dc:publisher>American Field Service</dc:publisher>
+<dc:description>The American Field Service Bulletin is a weekly publication intended for the different sections of the American Ambulance Field Service to acquaint the men in the AFS with what is transpiring in the Service</dc:description>
+<dc:subject>World War, 1914-1918--Periodicals</dc:subject>
+<dc:subject>American Field Service</dc:subject>
+<dc:subject>American Field Service; American Ambulance Field Service;</dc:subject>
+<dc:subject>Military</dc:subject>
+<dc:language>eng</dc:language>
+<dc:source>Unbound serial, 5.25 x 8.25 in.</dc:source>
+<dc:type>Text</dc:type>
+<dc:source>Robert Bowne Suckley Collection</dc:source>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/992</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/994</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/995</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/996</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/997</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/998</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/999</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/1000</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/1001</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/1010</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Diary of Henry Eglinton Montgomery Suckley: February 5, 1917 - February 25, 1917</dc:title>
+<dc:creator>Suckley, Henry Eglinton Montgomery, 1887-1917</dc:creator>
+<dc:date>1917-02</dc:date>
+<dc:description>Notebook belonging to Henry Eglinton Montgomery Suckley used as a diary. Henry recorded only two entries in his last diary. Less than a month after the final entry, Henry was killed by a German bomb.</dc:description>
+<dc:subject>World War, 1914-1918--Salonika</dc:subject>
+<dc:subject>Suckley, Henry Eglinton Montgomery, 1887-1917</dc:subject>
+<dc:source>Bound volume ; 8 x 6 1/2 in.</dc:source>
+<dc:type>Text</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_003.005.02</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Wilderstein Preservation holds copyright and reproduction rights. Permission for reproduction required. http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/1010</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/1027</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Memorial Booklet: Henry Eglinton Montgomery Suckley</dc:title>
+<dc:date>1917-4-22</dc:date>
+<dc:description>Booklet created for the memorial service of Henry Suckley at the Church of the Incarnation in New York City. The service was held on 22 April 1917.</dc:description>
+<dc:subject>World War, 1914 -1918</dc:subject>
+<dc:subject>Memorial rites &amp; ceremonies</dc:subject>
+<dc:subject>Suckley, Henry Eglinton Montgomery, 1887-1917</dc:subject>
+<dc:source>Booklet ;  9 x 6 1/8 in.</dc:source>
+<dc:type>Text</dc:type>
+<dc:source>Robert Bowne Suckley Collection</dc:source>
+<dc:identifier>wp_033.006.01</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/1027</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/1030</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Battle of the Marne (from the 6th to 12 September)</dc:title>
+<dc:date>1915-3-5</dc:date>
+<dc:description>Photographic postcard depicting the damaged interior of a church after the battle of the Marne. Message from Henry Eglinton Montgomery Suckley to his father Robert Bowne Suckley regarding the aftermath of the battle.</dc:description>
+<dc:subject>World War, 1914-1918--France--Pictorial Works;</dc:subject>
+<dc:subject>Churches; War damage;</dc:subject>
+<dc:subject>Suckley, Henry Eglinton Montgomery, 1887-1917; Suckley, Robert Bowne, 1856-1921</dc:subject>
+<dc:language>fre; eng</dc:language>
+<dc:source>postcard, b&amp;w, 3.5 x 5.5 in.</dc:source>
+<dc:type>Image</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/1030</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/1035</identifier><datestamp>2014-08-21</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Letter, Henry Eglinton Montgomery Suckley to Robert Bowne Suckley, February 2, 1915</dc:title>
+<dc:creator>Suckley, Henry Eglinton Montgomery, 1887-1917</dc:creator>
+<dc:date>1915-2-14</dc:date>
+<dc:description>Letter on stationery from The American Hospital of Paris from Henry Eglinton Montgomery Suckley to his father, Robert Bowne Suckley. Though recognizing the hardships that await him, Henry assures his father that he will be in little danger when he becomes actively engaged in the volunteer ambulance effort. Henry also recounts the retreat of the English Red Cross from Mons.</dc:description>
+<dc:subject>Suckley, Henry Eglinton Montgomery, 1887-1917--Correspondence</dc:subject>
+<dc:subject>Suckley, Henry Eglinton Montgomery, 1887-1917; Suckley, Robert Bowne, 1856-1921</dc:subject>
+<dc:language>eng</dc:language>
+<dc:source>Paper, 11 x 8.5 in.</dc:source>
+<dc:type>Text</dc:type>
+<dc:source>Robert Bowne Suckley Collection</dc:source>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/1035</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/1036</identifier><datestamp>2014-08-21</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Letter, Henry Eglinton Montgomery Suckley to Elizabeth Philips Montgomery Suckley, March 7, 1917</dc:title>
+<dc:creator>Suckley, Henry Eglinton Montgomery, 1887-1917</dc:creator>
+<dc:date>1917-3-7</dc:date>
+<dc:description>Letter on American Ambulance Field Service stationery from Henry Eglinton Montgomery Suckley to his mother, Elizabeth Philips Montgomery Suckley. Last known letter from Henry to his mother. Henry announces his intention to marry Elizabeth (Betty) Miller.</dc:description>
+<dc:subject>Suckley, Henry Eglinton Montgomery, 1887-1917--Correspondence</dc:subject>
+<dc:subject>Suckley, Henry Eglinton Montgomery, 1887-1917; Suckley, Elizabeth Philips Montgomery, 1864-1953</dc:subject>
+<dc:language>eng</dc:language>
+<dc:source>Paper, 11.5 x 8.5 in.</dc:source>
+<dc:type>Text</dc:type>
+<dc:source>Elizabeth Philips Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_026.002.12.07.jpg</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Wilderstein Preservation holds copyright and reproduction rights. Permission for reproduction required. http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/1036</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/1041</identifier><datestamp>2014-08-21</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Letter, Henry Eglinton Montgomery Suckley to Robert Bowne Suckley, 1917-2-29</dc:title>
+<dc:creator>Suckley, Henry Eglinton Montgomery, 1887-1917</dc:creator>
+<dc:date>1917-2-29</dc:date>
+<dc:description>Lettter from Henry Eglinton Montgomery Suckley to his father, Robert Bowne Suckley. Last known letter from Henry to his father. Henry announces his intention to marry Elizabeth (Betty) Miller.</dc:description>
+<dc:subject>Suckley, Henry Eglinton Montgomery, 1887-1917--Correspondence</dc:subject>
+<dc:subject>Suckley, Henry Eglinton Montgomery, 1887-1917; Suckley, Robert Bowne, 1856-1921</dc:subject>
+<dc:language>eng</dc:language>
+<dc:source>Paper, 11.5 x 8.5 in.</dc:source>
+<dc:type>Text</dc:type>
+<dc:source>Robert Bowne Suckley Collection</dc:source>
+<dc:identifier>wp_023.004.06.07</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Wilderstein Preservation holds copyright and reproduction rights. Permission for reproduction required. http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/1041</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/1042</identifier><datestamp>2014-08-21</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Letter, Stephen Galatti to Elizabeth Philips Montgomery Suckley, April 3, 1917</dc:title>
+<dc:description>Letter from Stephen Galatti, a member of the American Ambulance Field Service to Elizabeth P. M. Suckley, mother of Henry Eglinton Montgomery Suckley. Galatti describes the memorial service held in Paris for Henry shortly after he was killed by a German bomb.</dc:description>
+<dc:subject>Suckley, Henry Eglinton Montgomery, 1887-1917; Suckley, Elizabeth Philips Montgomery, 1864-1953; Galatti, Stephen</dc:subject>
+<dc:language>eng</dc:language>
+<dc:source>Paper, 11.5 x 8.5 in.</dc:source>
+<dc:type>Text</dc:type>
+<dc:source>Elizabeth Philips Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_026.002.13a.jpg</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/1042</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/1043</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Advertisement for the volunteer American Ambulance Field Service</dc:title>
+<dc:creator>American Field Service</dc:creator>
+<dc:date>1915</dc:date>
+<dc:publisher>American Ambulance Field Service</dc:publisher>
+<dc:description>Advertisement published by the American Ambulance Field Service, under the direction of Henry D. Sleeper and William R. Hereford, calling for volunteers to serve as ambulance drivers in France during World War I.</dc:description>
+<dc:subject>Advertising; Recruiting and enlistment; Volunteer work; Ambulances;  World War, 1914-1918</dc:subject>
+<dc:subject>American Field Service; American Ambulance Field Service</dc:subject>
+<dc:language>eng</dc:language>
+<dc:source>Paper, 11.5 x 8.5 in.</dc:source>
+<dc:type>Text</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_033.003.01.01.jpg</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Please contact Wilderstein Preservation for coyright information: http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/1043</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/1059</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Croix de Guerre (1917)</dc:title>
+<dc:date>1917-10-18</dc:date>
+<dc:description>Maltese cross with medallion in center. On the medallion is a head with a laurel wreath surrounded by the words &quot;Republique Francaise.&quot; Behind the cross are two swords with points up. The medal is suspended from a ribbon of six wide green and seven narrow red stripes. A metal bar goes through the top of the ribbon upon which is attached a metal five pointed star. The back of the medal is marked &quot;1914 / 1916&quot; &lt;br&gt;&lt;br&gt;The French Republic posthumously awarded this military decoration to Henry Eglinton Montgomery Suckley on 10 October 1917. While serving with the American Ambulance Field Service as a volunteer ambulance driver, Henry was killed by a German bomb.</dc:description>
+<dc:subject>Medals; World War, 1914-1918; World War, 1914-1918--Medals</dc:subject>
+<dc:subject>Suckley, Henry Eglinton Montgomery, 1887-1917</dc:subject>
+<dc:language>fre</dc:language>
+<dc:source>Metal/grosgrain ribbon; 1.5 x 1.5 in.</dc:source>
+<dc:type>Physical Object</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_033.01891.jpg</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Wilderstein Preservation holds copyright and reproduction rights. Permission for reproduction required. http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/1059</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:wilderstein/1060</identifier><datestamp>2012-05-10</datestamp><setSpec>wilderstein</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/1063</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Croix de Guerre (1915)</dc:title>
+<dc:date>c.1915</dc:date>
+<dc:description>Maltese cross with medallion in center. On the medallion is a head with a laurel wreath surrounded by the words &quot;Republique Francaise.&quot; Behind the cross are two swords with points up. The medal is suspended from a ribbon of six wide green and seven narrow red stripes. A metal bar goes through the top of the ribbon upon which is attached a metal five pointed star. The back of the medal is marked &quot;1914 / 1916&quot; &lt;br&gt;&lt;br&gt;The French Republic awarded this military decoration to members of Section 3 of the American Ambulance Field Service in recognition for services rendered October 15 - 17, 1915. Henry Eglinton Montgomery Suckley was a member of Section 3 at this time.</dc:description>
+<dc:subject>Medals; World War, 1914-1918; World War, 1914-1918--Medals</dc:subject>
+<dc:subject>Suckley, Henry Eglinton Montgomery, 1887-1917</dc:subject>
+<dc:language>fre</dc:language>
+<dc:source>Metal/grosgrain ribbon; .5 x .5 in.</dc:source>
+<dc:type>Physical Object</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_033.01892.jpg</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Wilderstein Preservation holds copyright and reproduction rights. Permission for reproduction required. http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/1063</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:wilderstein/1066</identifier><datestamp>2014-08-19</datestamp><setSpec>wilderstein</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Military cap</dc:title>
+<dc:date>1915?</dc:date>
+<dc:description>Henry Eglinton Montgomery&#x27;s miltary cap, olive green with red cross. Army hat with turned up sides.</dc:description>
+<dc:subject>Military uniforms; World War, 1914-1918--Military uniforms</dc:subject>
+<dc:subject>Caps (Headgear)</dc:subject>
+<dc:subject>Suckley, Henry Eglinton Montgomery, 1887-1917</dc:subject>
+<dc:subject>Military</dc:subject>
+<dc:source>Wool with leather band inside cap</dc:source>
+<dc:type>Physical Object</dc:type>
+<dc:source>Henry Eglinton Montgomery Suckley Collection</dc:source>
+<dc:identifier>wp_033cs00019.jpg</dc:identifier>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Suckley Family World War I Collection</dc:relation>
+<dc:source>Wilderstein Preservation</dc:source>
+<dc:rights>Wilderstein Preservation holds copyright and reproduction rights. Permission for reproduction required. http://www.wilderstein.org</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/wilderstein/id/1066</dc:identifier></oai_dc:dc>
+</metadata>
+</record><resumptionToken>wilderstein:1067:wilderstein:0000-00-00:9999-99-99:oai_dc</resumptionToken></ListRecords></OAI-PMH>

@@ -1,0 +1,2254 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2014-12-17T22:21:27Z</responseDate><request verb="ListRecords" resumptionToken="paulsmiths:10326:paulsmiths:0000-00-00:9999-99-99:oai_dc" metadataPrefix="oai_dc" set="paulsmiths">http://cdm16694.contentdm.oclc.org/oai/oai.php</request><ListRecords><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10326</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10327</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10328</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10329</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10330</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10331</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10332</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10333</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10334</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10335</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10336</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10337</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10338</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10339</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10340</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10341</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10342</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10343</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10344</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10345</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10346</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10347</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10348</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10349</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10350</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10351</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10352</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10353</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10354</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10355</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10356</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10357</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10358</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10359</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10360</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10361</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10362</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10363</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10364</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10365</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10366</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10367</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10368</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10369</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10370</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10371</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10372</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10373</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10374</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10375</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10376</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10377</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10378</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10379</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10380</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10381</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10382</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10383</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10384</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10385</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10386</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10387</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10388</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10389</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10390</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10391</identifier><datestamp>2014-06-19</datestamp><setSpec>paulsmiths</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10392</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>President Calvin Coolidge, Mrs. Grace Coolidge, and John Coolidge Riding in Boat at White Pine Camp</dc:title>
+<dc:description>Caption: &quot;Coolidges enjoying Indian Summer at Mountain Camp - Paul Smiths NY - Photo Shows President and Mrs. Coolidge and their son John Coolidge as they returned from a short ride in the motor launch &quot;Winkler.&quot; The presidential party is enjoying the fine weather of the Indian summer these last days of their stay at White Pine Camp.&quot;</dc:description>
+<dc:subject>Coolidge, Calvin, 1872-1933; Coolidge, Grace Goodhue, 1879-1957; Coolidge, John, 1906-2000; Boats</dc:subject>
+<dc:subject>People; Government, Law &amp; Politics; Transportation; Recreation &amp; Sports</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>9/12/1926</dc:date>
+<dc:date>1926</dc:date>
+<dc:source>photograph; b&amp;w; 6.5 x 10 in. (16.5 x 25.4 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>2006.001.0002</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10392</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10393</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>President Calvin Coolidge and Mrs. Grace Coolidge Arrive at Gabriels Station before Departing for Washington</dc:title>
+<dc:description>Caption: &quot;Watch your credit - International Newsreel Photo - Slug (Coolidge and Dogs) - Coolidges Leave Summer Camp - Paul Smiths... Photo shows the President and Mrs. Coolidge with their dogs Prudence Prim and Rob Roy as they arrived at the railroad station to board the train on which they returned to Washington.&quot;</dc:description>
+<dc:subject>Coolidge, Calvin, 1872-1933; Coolidge, Grace Goodhue, 1879-1957; Presidents&#x27; pets--United States</dc:subject>
+<dc:subject>People; Government, Law &amp; Politics</dc:subject>
+<dc:coverage>Gabriels (N.Y.)</dc:coverage>
+<dc:date>9/18/1926</dc:date>
+<dc:date>1926</dc:date>
+<dc:source>photograph; b&amp;w; 10 x 7 in. (25.4 x 17.8 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>2006.001.0001</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10393</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10394</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>President Calvin Coolidge, Mrs. Grace Coolidge, and John Coolidge with Dogs Prudence Prim and Rob Roy at White Pine Camp</dc:title>
+<dc:description>Caption: &quot;Coolidges Enjoying Indian Summer at Camp - Paul Smiths, NY, Photo shows President and Mrs. Coolidge with their son John and their famous White House dogs Prudence Prim and Rob Roy, in the gardens of their summer residence, White Pine Camp.&quot;</dc:description>
+<dc:subject>Coolidge, Calvin, 1872-1933; Coolidge, Grace Goodhue, 1879-1957; Coolidge, John, 1906-2000; Pets; Presidents&#x27; pets--United States</dc:subject>
+<dc:subject>Government, Law &amp; Politics; People</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>9/12/1926</dc:date>
+<dc:date>1926</dc:date>
+<dc:source>photograph; b&amp;w; 6.5 x 10 in. (16.5 x 25.4 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>2006.001.0003</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10394</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10395</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>President Calvin Coolidge at White Pine Camp</dc:title>
+<dc:description>Caption: &quot;343641 - Excellent full length photo of President Coolidge at the Summer White House White Pine Camp, NY.&quot;</dc:description>
+<dc:subject>Coolidge, Calvin, 1872-1933</dc:subject>
+<dc:subject>People; Government, Law &amp; Politics</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>1926</dc:date>
+<dc:date>1926</dc:date>
+<dc:source>photograph; b&amp;w; 6.5 x 8.5 in. (16.5 x 21.6 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>2006.001.0004</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10395</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10396</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Mrs. Grace Coolidge with Dog at White Pine Camp</dc:title>
+<dc:description>Caption: &quot;Mrs. Coolidge with Dog at White Pine Camp&quot;</dc:description>
+<dc:subject>Coolidge, Grace Goodhue, 1879-1957; Pets; Presidents&#x27; pets--United States</dc:subject>
+<dc:subject>People; Government, Law &amp; Politics</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>7/7/1926</dc:date>
+<dc:date>1926</dc:date>
+<dc:source>photograph; b&amp;w; 10 x 7 in. (25.4 x 17.8 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>2006.001.0006</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10396</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10397</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>President Calvin Coolidge and Mrs. Grace Coolidge Arrive at White Pine Camp</dc:title>
+<dc:description>Caption: &quot;Coolidges arrive at Summer House.&quot;</dc:description>
+<dc:subject>Coolidge, Calvin, 1872-1933; Coolidge, Grace Goodhue, 1879-1957</dc:subject>
+<dc:subject>People; Government, Law &amp; Politics</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>7/7/1926</dc:date>
+<dc:date>1926</dc:date>
+<dc:source>photograph; b&amp;w; 8.5 x 6.5 in. (21.6 x 16.5 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>2006.001.0005</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10397</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10398</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>President Calvin Coolidge and Mrs. Grace Coolidge Arrive at White Pine Camp with Dogs Rob Roy and Prudence Prim</dc:title>
+<dc:description>Caption: &quot;Watch your credit - 342549--55, International Newsreel Photo - Slug (Pres. and Mrs. Coolidge) - President and Mrs. Coolidge arrive at summer home - Paul Smith&#x27;s, NY, Photo shows President and Mrs. Coolidge with dogs Rob Roy and Prudence Prim looking over the beautiful grounds of White Pine Camp, their home for the Summer - FMABE AIR[?].&quot;</dc:description>
+<dc:subject>Coolidge, Calvin, 1872-1933; Coolidge, Grace Goodhue, 1879-1957; Pets</dc:subject>
+<dc:subject>People; Government, Law &amp; Politics</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>7/7/1926</dc:date>
+<dc:date>1926</dc:date>
+<dc:source>photograph; b&amp;w; 10 x 6.25 in. (25.4 x 15.9 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>2006.001.0007</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10398</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10399</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>President Calvin Coolidge and Mrs. Grace Coolidge on Train at Gabriels Station Before Departing for Washington</dc:title>
+<dc:description>Caption: &quot;International Newsreel Photo - Slug (Coolidges) - Coolidges leave summer camp - Paul Smiths, NY - Photo shows President and Mrs. Coolidge on their special car just before they left Paul Smiths for Washington - their Summer vacation at an end.&quot;</dc:description>
+<dc:subject>Coolidge, Calvin, 1872-1933; Coolidge, Grace Goodhue, 1879-1957; Trains</dc:subject>
+<dc:subject>Government, Law &amp; Politics; People; Transportation</dc:subject>
+<dc:coverage>Gabriels (N.Y.)</dc:coverage>
+<dc:date>9/18/1926</dc:date>
+<dc:date>1926</dc:date>
+<dc:source>photograph; b&amp;w; 9.5 x 6.5 in. (24.1 x 16.5 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>2006.001.0009</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10399</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10400</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>President Calvin Coolidge and Mrs. Grace Coolidge Arriving at Gabriels Station by Train</dc:title>
+<dc:description>Caption: &quot;Watch your credit - 342543 - International Newsreel Photo - Slug (Leaving car)- President Coolidge arrives at White Pine Camp - Paul Smith&#x27;s, NY - Photo shows President Coolidge as he left his car at Gabriel Station.&quot;</dc:description>
+<dc:subject>Coolidge, Calvin, 1872-1933; Coolidge, Grace Goodhue, 1879-1957; Trains</dc:subject>
+<dc:subject>Government, Law &amp; Politics; Transportation; People</dc:subject>
+<dc:coverage>Gabriels (N.Y.)</dc:coverage>
+<dc:date>7/7/1926</dc:date>
+<dc:date>1926</dc:date>
+<dc:source>photograph; b&amp;w; 10 x 7 in. (25.4 x 17.8 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>2006.001.0008</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10400</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10401</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>President Calvin Coolidge and Mrs. Grace Coolidge on Train at Gabriels Station Before Departing</dc:title>
+<dc:description>Caption: &quot;President and Mrs. Coolidge leaving Gabriels Station, 9/18/26, Summer White House.&quot;</dc:description>
+<dc:subject>Coolidge, Calvin, 1872-1933; Coolidge, Grace Goodhue, 1879-1957; Trains</dc:subject>
+<dc:subject>Government, Law &amp; Politics; People; Transportation</dc:subject>
+<dc:coverage>Gabriels (N.Y.)</dc:coverage>
+<dc:date>9/18/1926</dc:date>
+<dc:date>1926</dc:date>
+<dc:source>photograph; b&amp;w; 5.5 x 3.5 in. (14 x 8.9 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>2006.001.0010</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10401</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10402</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Mrs. Grace Coolidge Inspects Marine Camp at White Pine Camp 2</dc:title>
+<dc:description>Caption: &quot;Mrs. Coolidge inspects Marine Camp - Paul Smith&#x27;s, NY - Photo shows Mrs. Calvin Coolidge, wife of the Pres. as she appeared inspecting the various Marine Camp tents here.&quot;</dc:description>
+<dc:subject>Coolidge, Grace Goodhue, 1879-1957; Marines</dc:subject>
+<dc:subject>Government, Law &amp; Politics; People; Military &amp; War</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>7/24/1926</dc:date>
+<dc:date>1926</dc:date>
+<dc:source>photograph; b&amp;w; 10 x 6.5 in. (25.4 x 16.5 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>2006.001.0013</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10402</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10403</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>President Calvin Coolidge and Mrs. Grace Coolidge at White Pine Camp</dc:title>
+<dc:description>Caption: &quot;International Newsreel photo - 342549--55 - Slug (Pres. and Mrs. Coolidge) - President and Mrs. Coolidge look over summer home - Paul Smith&#x27;s, NY - Photo shows President and Mrs. Coolidge taking tour of inspection over beautiful grounds at new Summer White House at White Pine Camp shortly after their arrival.&quot;</dc:description>
+<dc:subject>Coolidge, Calvin, 1872-1933; Coolidge, Grace Goodhue, 1879-1957</dc:subject>
+<dc:subject>Government, Law &amp; Politics; People</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>7/7/1926</dc:date>
+<dc:date>1926</dc:date>
+<dc:source>photograph; b&amp;w; 10 x 7 in. (25.4 x 17.8 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>2006.001.0011</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10403</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10404</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Mrs. Grace Coolidge Inspects Marine Camp at White Pine Camp 1</dc:title>
+<dc:description>Caption: &quot;Mrs. Coolidge inspects Marine Camp - Paul Smith&#x27;s, NY - Photo shows Mrs. Calvin Coolidge, wife of the President, as she appeared entering the Marine Camp here escorted by Marine Officers and the President&#x27;s Aide Capt. Wilson of the U.S.N.&quot;</dc:description>
+<dc:subject>Coolidge, Grace Goodhue, 1879-1957; Marines; Brown, Wilson, 1882-1957</dc:subject>
+<dc:subject>People; Military &amp; War; Government, Law &amp; Politics</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>7/24/1926</dc:date>
+<dc:date>1926</dc:date>
+<dc:source>photograph; b&amp;w; 10 x 6.25 in. (25.4 x 15.9 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>2006.001.0012</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10404</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10405</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>President Calvin Coolidge Inspects Marine Corps Camp at White Pine Camp 1</dc:title>
+<dc:description>Caption: &quot;Slug (Coolidge) - Coolidge inspects Marine Corps equipment - Paul Smiths, NY - Photo shows President Coolidge as he inspected one of the Marine&#x27;s tent at the Marine Corps Guard Encampment at White Pine Camp where President and Mrs. Coolidge are spending the summer.&quot;</dc:description>
+<dc:subject>Coolidge, Calvin, 1872-1933; Marines</dc:subject>
+<dc:subject>Government, Law &amp; Politics; People; Military &amp; War</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>7/16/1926</dc:date>
+<dc:date>1926</dc:date>
+<dc:source>photograph; b&amp;w; 10 x 6 in. (25.4 x 15.2 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>2006.001.0015</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10405</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10406</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Marine Guard at Entrance to White Pine Camp</dc:title>
+<dc:description>Caption: &quot;342544-5-6 - International Newsreel photo - Slug (Marine Guard) - Marines Guard Coolidge Summer Camp - Paul Smith&#x27;s, NY - Photo shows the Marine Guard at the outside of White Pine Camp, the home of the President for the Summer.&quot;</dc:description>
+<dc:subject>Marines</dc:subject>
+<dc:subject>Military &amp; War; People</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>7/7/1926</dc:date>
+<dc:date>1926</dc:date>
+<dc:source>photograph; b&amp;w; 8.5 x 6.5 in. (21.6 x 16.5 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>2006.001.0014</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10406</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10407</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>President Calvin Coolidge Leaving Paul Smith&#x27;s Hotel After Visiting Secretary Everett Sanders 1</dc:title>
+<dc:description>Caption: &quot;Coolidge visits ill secretary - Paul Smiths, NY - Photo shows Pres. Coolidge, as he appeared leaving Paul Smith&#x27;s Hotel here, after visiting his secretary Mr. Sanders, who is ill. This has been the president&#x27;s first visit to this famous hotel.&quot;</dc:description>
+<dc:subject>Coolidge, Calvin, 1872-1933; Sanders, Everett, 1882-1950</dc:subject>
+<dc:subject>Government, Law &amp; Politics; People</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>7/27/1926</dc:date>
+<dc:date>1926</dc:date>
+<dc:source>photograph; b&amp;w; 10 x 7 in. (25.4 x 17.8 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>2006.001.0023</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10407</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10408</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>President Calvin Coolidge Inspects Marine Corps Camp at White Pine Camp 2</dc:title>
+<dc:description>Caption: &quot;Coolidge Inspects Marine Corps Camp - Paul Smiths, NY - Photo shows President Coolidge, accompanied by Secretary Sanders, his Aide Captain Wilson Brown, and secret service men, as he made a tour of inspection of the Marine Corps Camp at White Pine Camp.&quot;</dc:description>
+<dc:subject>Coolidge, Calvin, 1872-1933; Brown, Wilson, 1882-1957; Sanders, Everett, 1882-1950; Marines</dc:subject>
+<dc:subject>Government, Law &amp; Politics; People; Military &amp; War</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>7/16/1926</dc:date>
+<dc:date>1926</dc:date>
+<dc:source>photograph; b&amp;w; 10 x 6.25 in. (25.4 x 15.9 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>2006.001.0016</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10408</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10409</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>President Calvin Coolidge with Will H. Hays at White Pine Camp</dc:title>
+<dc:description>Caption: &quot;Slug (Coolidge &amp; Hays) - Hays visits Summer White House - Paul Smiths, NY - Photo shows President Coolidge with Will Hays, Director General of the Motion Picture Interests as they appeared at the Summer Executive Mansion here.&quot;</dc:description>
+<dc:subject>Coolidge, Calvin, 1872-1933; Hays, Will H. (Will Harrison), 1879-1954; Motion Picture Producers and Distributors of America</dc:subject>
+<dc:subject>Government, Law &amp; Politics; People</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>9/2/1926</dc:date>
+<dc:date>1926</dc:date>
+<dc:source>photograph; b&amp;w; 8.5 x 6.5 in. (21.6 x 16.5 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>2006.001.0017</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10409</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10410</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>President Calvin Coolidge Greets Vaudeville Performers at White Pine Camp</dc:title>
+<dc:description>Caption: &quot;Coolidge Greets Vaudevillians - Paul Smiths, NY - Photo shows President Coolidge greeting members of the Vaudeville Profession at his Summer Executive Mansion here. The stage folk are here to attend the breaking of ground for the new Northwoods Sanatorium at Saranac Lake, which will be for members of the profession.&quot;</dc:description>
+<dc:subject>Coolidge, Calvin, 1872-1933; Vaudeville--United States</dc:subject>
+<dc:subject>People; Government, Law &amp; Politics; Arts &amp; Entertainment</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>8/16/1926</dc:date>
+<dc:date>1926</dc:date>
+<dc:source>photograph; b&amp;w; 10 x 7 in. (25.4 x 17.8 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>2006.001.0018</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10410</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10411</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>A.E. Kundred Presents President Calvin Coolidge with Prize Gladioli at White Pine Camp</dc:title>
+<dc:description>Caption: &quot;Gladioli for the President - Paul Smiths, NY - Photo shows President Coolidge receiving a basket of prize Gladioli from A.E. Kundred, champion grower of this species of flower and intimate of Luther Burbank. The flowers presented to Mr. Coolidge were from the finest blossoms grown by Mr. Kundred who was represented by 30,000 blooms at the recent show of the American Gladiolus Society at Rochester.&quot;</dc:description>
+<dc:subject>Coolidge, Calvin, 1872-1933; Gladiolus</dc:subject>
+<dc:subject>Government, Law &amp; Politics; People</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>8/14/1926</dc:date>
+<dc:date>1926</dc:date>
+<dc:source>photograph; b&amp;w; 10 x 7 in. (25.4 x 17.8 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>2006.001.0019</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10411</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10412</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>President Calvin Coolidge with Vaudeville Performers at White Pine Camp</dc:title>
+<dc:description>Caption: &quot;Coolidge greets Vaudeville stars - Paul Smiths, NY - Photo shows President Coolidge with the group of Vaudeville performers at the Summer Executive mansion here. The Vaudeville stars are here to attend the breaking of ground for the new Northwoods Sanatorium at Saranac Lake, which is to be for the members of the profession ill with tuberculosis.&quot;</dc:description>
+<dc:subject>Coolidge, Calvin, 1872-1933; Vaudeville--United States</dc:subject>
+<dc:subject>Government, Law &amp; Politics; People</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>8/16/1926</dc:date>
+<dc:date>1926</dc:date>
+<dc:source>photograph; b&amp;w; 10 x 7 in. (25.4 x 17.8 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>2006.001.0020</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10412</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10413</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Governor Al Smith, Mrs. Smith, and Captain Wilson Brown Leave Paul Smith&#x27;s Hotel for White Pine Camp</dc:title>
+<dc:description>Caption: &quot;The Smiths visit the Coolidges - Paul Smiths, NY - Photo shows Gov. and Mrs. Al Smith, escorted by Captain Wilson Brown, U.S. Marine Corps, and newspapermen, as they left their cottage here for the visit to White Pine Camp where President and Mrs. Coolidge were hosts at luncheon.&quot;</dc:description>
+<dc:subject>Smith, Alfred Emanuel, 1873-1944; Brown, Wilson, 1882-1957; Smith, Catherine A. (Catherine Anne)</dc:subject>
+<dc:subject>People; Government, Law &amp; Politics</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>7/17/1926</dc:date>
+<dc:date>1926</dc:date>
+<dc:source>photograph; b&amp;w; 10 x 6.5 in. (25.4 x 16.5 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>2006.001.0021</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10413</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10414</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>President Calvin Coolidge Leaving Paul Smith&#x27;s Hotel After Visiting Secretary Everett Sanders 2</dc:title>
+<dc:description>Caption: &quot;XX-Paul Smiths, NY - President Coolidge visits Secretary Sanders who is ill - Photo shows President Coolidge leaving Paul Smiths Hotel after paying a visit to his Secretary Sanders who is sick in bed. This is the first time that the President visited the hotel.&quot;</dc:description>
+<dc:subject>Coolidge, Calvin, 1872-1933; Sanders, Everett, 1882-1950</dc:subject>
+<dc:subject>Government, Law &amp; Politics; People</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>7/27/1926</dc:date>
+<dc:date>1926</dc:date>
+<dc:source>photograph; b&amp;w; 10 x 8 in. (25.4 x 20.3 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>2006.001.0022</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10414</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10415</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>President Calvin Coolidge with Senator Ralph Cameron and Frank Stearns at White Pine Camp</dc:title>
+<dc:description>Caption: &quot;International Newsreel Photo - Slug (Coolidge Group) - Visitors at the Summer White House - Paul Smiths, NY - Photo shows President Coolidge as he posed with Senator Ralph Cameron of Arizona and Frank Stearns of Boston, the President&#x27;s political adviser, before the summer Executive Mansion.&quot;</dc:description>
+<dc:subject>Coolidge, Calvin, 1872-1933; Cameron, Ralph H. (Ralph Henry), 1863-; Stearns, Frank W. (Frank Waterman), 1856-1939</dc:subject>
+<dc:subject>People; Government, Law &amp; Politics</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>8/1/1926</dc:date>
+<dc:date>1926</dc:date>
+<dc:source>photograph; b&amp;w; 10 x 6.5 in. (25.4 x 16.5 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>2006.001.0031</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10415</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10416</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>President Calvin Coolidge and Phelps Smith at White Pine Camp</dc:title>
+<dc:description>President Calvin Coolidge and Phelps Smith of Paul Smith&#x27;s Hotel at White Pine Camp</dc:description>
+<dc:subject>Coolidge, Calvin, 1872-1933; Smith, Phelps, 1862-1937</dc:subject>
+<dc:subject>Government, Law &amp; Politics; People</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>1926</dc:date>
+<dc:date>1926</dc:date>
+<dc:source>photograph; b&amp;w; 8 x 10 in. (20.3 x 25.4 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>2006.001.0024</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10416</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10417</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>President Calvin Coolidge, Grace Coolidge, and John Coolidge at White Pine Camp</dc:title>
+<dc:description>Caption: &quot;Coolidges enjoying Indian Summer at White Pine Camp - Paul Smiths, NY - Photo shows President and Mrs. Coolidge, with their son John and the White House dogs, Rob Roy and Prudence Prim, as they walked over the bridge to the Japanese Tea House at White Pine Camp, their summer residence. This is the bridge from which President Coolidge has fished on many occasions.&quot;</dc:description>
+<dc:subject>Coolidge, Calvin, 1872-1933; Coolidge, Grace Goodhue, 1879-1957; Coolidge, John, 1906-2000; Pets</dc:subject>
+<dc:subject>People; Recreation &amp; Sports; Government, Law &amp; Politics</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>9/12/1926</dc:date>
+<dc:date>1926</dc:date>
+<dc:source>photograph; b&amp;w; 6.5 x 9.5 in. (16.5 x 24.1 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>2006.001.0025</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10417</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10418</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Mrs. Al Smith, Jr. Taking a Photograph of Governor Al Smith  at Paul Smith&#x27;s Hotel</dc:title>
+<dc:description>Caption: &quot;Look pleasant, Governor - Paul Smiths, NY - Photo shows Mrs. Al Smith, Jr., making a picture of her father in law, Gov. Al Smith, with the three pound pike sent to the Governor by President Coolidge, while Al Jr. looks on.&quot;</dc:description>
+<dc:subject>Smith, Alfred Emanuel, 1873-1944</dc:subject>
+<dc:subject>People; Government, Law &amp; Politics; Recreation &amp; Sports</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>7/18/1926</dc:date>
+<dc:date>1926</dc:date>
+<dc:source>photograph; b&amp;w; 8.5 x 6.5 in. (21.6 x 16.5 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>2006.001.0026</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10418</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10419</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Governor Al Smith Arriving at Paul Smith&#x27;s Hotel to Visit President Calvin Coolidge</dc:title>
+<dc:description>Caption: &quot;Paul Smiths New York - Photo shows Governor Al Smith as he arrived at Paul Smiths for a visit to President Coolidge at the Summer White House.&quot;</dc:description>
+<dc:subject>Smith, Alfred Emanuel, 1873-1944</dc:subject>
+<dc:subject>People; Government, Law &amp; Politics</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>1926</dc:date>
+<dc:date>1926</dc:date>
+<dc:source>photograph; b&amp;w; 9.5 x 6 in. (24.1 x 15.2 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>2006.001.0027</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10419</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10420</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Catherine Smith, Al Smith, Jr., and Mrs. Al Smith, Jr. at Paul Smith&#x27;s Hotel</dc:title>
+<dc:description>Caption: &quot;The Smiths visit the Coolidges - Paul Smiths, NY - Photo shows, left to right, Catherine Smith, daughter of Governor Al Smith, Al Smith, Jr., and his wife, as they rested on the lawn at Paul Smiths Hotel here. They were members of Gov. Smith&#x27;s party which arrived here. Gov. and Mrs. Smith were guests of President and Mrs. Coolidge at luncheon at White Pine Camp.&quot;</dc:description>
+<dc:subject>Smith, Alfred Emanuel, 1873-1944</dc:subject>
+<dc:subject>People</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>7/17/1926</dc:date>
+<dc:date>1926</dc:date>
+<dc:source>photograph; b&amp;w; 7.25 x 6.5 in. (18.4 x 16.5 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>2006.001.0028</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10420</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10421</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>President Calvin Coolidge with Secretary Herbert Hoover at White Pine Camp</dc:title>
+<dc:description>Caption: &quot;Watch your credit- International Newsreel photo - Slug (Coolidge and Hoover) - Secretary Hoover visits the President at White Pine Camp - Paul Smiths, NY - Photo shows President Coolidge with Secretary of Commerce Hoover as they appeared at White Pine Camp. The Secretary presented to the president some reports on the improvement of the commercial aviation resources of the nation. AB.&quot;</dc:description>
+<dc:subject>Coolidge, Calvin, 1872-1933; Hoover, Herbert, 1874-1964</dc:subject>
+<dc:subject>People; Government, Law &amp; Politics</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>8/14/1926</dc:date>
+<dc:date>1926</dc:date>
+<dc:source>photograph; b&amp;w; 10 x 6.5 in. (25.4 x 16.5 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>2006.001.0029</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10421</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10422</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>President Calvin Coolidge with General Herbert M. Lord at White Pine Camp</dc:title>
+<dc:description>Caption: &quot;International Newsreel Photo - Slug (Coolidge) - Budget Chief Visits the Summer White House - Paul Smiths, NY - Photo shows President Coolidge with General Herbert M. Lord, head of the budget commission who called at the White House to present his report. Following the meeting with Gen. Lord the President announced that the budget for 1928 would be reduced by a hundred million dollars. FM. AD.&quot;</dc:description>
+<dc:subject>Coolidge, Calvin, 1872-1933</dc:subject>
+<dc:subject>People; Government, Law &amp; Politics</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>8/12/1926</dc:date>
+<dc:date>1926</dc:date>
+<dc:source>photograph; b&amp;w; 6.5 x 8.5 in. (16.5 x 21.6 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>2006.001.0030</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10422</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10423</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Calvin Coolidge Receiving Forget-Me-Not from Daniel Manning, Jr. at White Pine Camp</dc:title>
+<dc:description>Caption: &quot;Coolidge gets first Forget-me-not - Paul Smiths, NY - Photo shows President Coolidge with little Daniel Manning, Jr. who presented the President the first forget me not which the Chief Executive will wear on Argonne Day, Sept. 25th. Disabled American Veterans of Saranac Post No. 18 sent the first flower to the President.&quot;</dc:description>
+<dc:subject>Coolidge, Calvin, 1872-1933; Forget-me-nots</dc:subject>
+<dc:subject>People; Government, Law &amp; Politics</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>8/4/1926</dc:date>
+<dc:date>1926</dc:date>
+<dc:source>photograph; b&amp;w; 7.25 x 10 in. (18.4 x 25.4 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>2006.001.0034</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10423</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10424</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Calvin Coolidge with Richard Washburn Child at White Pine Camp</dc:title>
+<dc:description>Caption: &quot;International Newsreel Photo - Slug (Coolidge and Child) - Child visits President - Paul Smiths, NY - Photo shows Pres. Coolidge, as he appeared with Richard Washburn Child (in background) as they left the summer mansion here, after child visited the president.&quot;</dc:description>
+<dc:subject>Coolidge, Calvin, 1872-1933; Child, Richard Washburn, 1881-1935; Men</dc:subject>
+<dc:subject>People; Government, Law &amp; Politics</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>7/30/1926</dc:date>
+<dc:date>1926</dc:date>
+<dc:source>photograph; b&amp;w; 10 x 7 in. (25.4 x 17.8 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>2006.001.0032</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10424</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10425</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Calvin Coolidge Leaving White Pine Camp with Journalists</dc:title>
+<dc:description>Caption: &quot;Watch your credit - International Newsreel Photo - Slug (Coolidge departs) - Coolidge departs with Newspaper men - Paul Smiths, NY - Photo shows President Coolidge walking away from the entrance to the Summer Executive Mansion, after he had conferred with the newspaper men, seen at left. Continuing a custom observed at the White House in Washington, the President will meet the representatives of the press every Tuesday and Friday while at the Summer Camp.&quot;</dc:description>
+<dc:subject>Coolidge, Calvin, 1872-1933; Journalists</dc:subject>
+<dc:subject>People; Government, Law &amp; Politics</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>7/10/1926</dc:date>
+<dc:date>1926</dc:date>
+<dc:source>photograph; b&amp;w; 10 x 6 in. (25.4 x 15.2 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>2006.001.0033</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10425</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10426</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Calvin Coolidge with Members of the American Federation of Labor</dc:title>
+<dc:description>Caption: &quot;Labor leaders visit Coolidge - Paul Smith&#x27;s, NY - Photo shows Pres. Coolidge as he appeared in a group of Labor Leaders. On the President&#x27;s left is, Pres. William Green of the American Federation of Labor, and on the President&#x27;s right is Secretary Frank Morrison. Others in the group are Vice Presidents Frank Duffy, Martin F. Ryan, James A. Wilson, James P. Noonan, Thomas A. Rickert, Daniel T. Tobin, and Peter J. Brady.&quot;</dc:description>
+<dc:subject>Coolidge, Calvin, 1872-1933; American Federation of Labor</dc:subject>
+<dc:subject>People; Government, Law &amp; Politics</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>8/24/1926</dc:date>
+<dc:date>1926</dc:date>
+<dc:source>photograph; b&amp;w; 10 x 6.5 in. (25.4 x 16.5 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>2006.001.0037</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10426</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10427</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>President Calvin Coolidge and Secretary of State Frank Kellogg at White Pine Camp</dc:title>
+<dc:description>Caption: &quot;Kellogg and Coolidge Confer - Paul Smiths, NY - Photo shows Pres. Coolidge and Secretary of State Frank Kellogg as the appeared arriving at the executive office here for a conference.&quot;</dc:description>
+<dc:subject>Coolidge, Calvin, 1872-1933; Kellogg, Frank B. (Frank Billings), 1856-1937</dc:subject>
+<dc:subject>People; Government, Law &amp; Politics</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>8/17/1926</dc:date>
+<dc:date>1926</dc:date>
+<dc:source>photograph; b&amp;w; 8.5 x 5.5 in. (21.6 x 14 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>2006.001.0035</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10427</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10428</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>President Calvin Coolidge with the Secretary of Agriculture and Owen D. Young at White Pine Camp</dc:title>
+<dc:description>Caption: &quot;Secretary of Agriculture and member of finance commission with Coolidge - Paul Smiths, NY - Photographed outside the Summer Executive Offices of the President. Left to Right, President Coolidge, Secy. of Agriculture Jardine and Owen D. Young, after they had discussed water power and business conditions. Secy. Jardine also discussed department matters.&quot;</dc:description>
+<dc:subject>Coolidge, Calvin, 1872-1933; Jardine, William Marion, 1879-1955; Young, Owen D., 1874-1962</dc:subject>
+<dc:subject>People; Government, Law &amp; Politics</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>8/22/1926</dc:date>
+<dc:date>1926</dc:date>
+<dc:source>photograph; b&amp;w; 8.5 x 6.5 in. (21.6 x 16.5 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>2006.001.0036</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10428</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10429</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>A.A. &quot;Paul&quot; Smith 8</dc:title>
+<dc:description>Photograph of Paul Smith with an unidentified man.</dc:description>
+<dc:subject>Smith, Apollos A. (Paul), 1825-1912; Men</dc:subject>
+<dc:subject>People; Daily Life</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:source>photograph; b&amp;w; 10 x 8 in. (25.4 x 20.3 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.500.1213</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10429</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10430</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Oscar Otis [?] at White Pine Camp</dc:title>
+<dc:description>Caption: &quot;Believed to be Oscar Otis, White Pine Camp, N.B. in the Coolidge Photos, Newsreel photo.&quot;</dc:description>
+<dc:subject>Men; White Pine Camp</dc:subject>
+<dc:subject>People; Recreation &amp; Sports</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>1926?</dc:date>
+<dc:date>1926</dc:date>
+<dc:source>photograph; b&amp;w; 8 x 10 in. (20.3 x 25.4 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>2006.001.0038</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10430</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10431</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>President Calvin Coolidge with Attorney General John G. Sargent and James R. Sheffield at White Pine Camp</dc:title>
+<dc:description>Caption: &quot;Mexican Church Crisis Reported to President Coolidge - Paul Smiths, NY - Photo shows left to right Attorney General Sargent, President Coolidge, and James R. Sheffield, American Ambassador to Mexico, who has reported to President Coolidge on the crisis in Mexico where the church war is still in force. FM.AD.&quot;</dc:description>
+<dc:subject>Coolidge, Calvin, 1872-1933; Sargent, John G. (John Garibaldi), 1860-1939; Sheffield, James R. (James Rockwell), 1864-1938</dc:subject>
+<dc:subject>People; Government, Law &amp; Politics</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>9/9/1926</dc:date>
+<dc:date>1926</dc:date>
+<dc:source>photograph; b&amp;w; 10 x 6.75 in. (25.4 x 17.1 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>2006.001.0039</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10431</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10432</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Senator James Wolcott Wadsworth and President Calvin Coolidge at White Pine Camp</dc:title>
+<dc:description>Caption: &quot;Wadsworth Confers with Coolidge - Paul Smiths, NY - Photo shows Senator Wadsworth, and Pres. Coolidge, as they appeared in front of the executive office here.&quot;</dc:description>
+<dc:subject>Coolidge, Calvin, 1872-1933; Wadsworth, James Wolcott, 1877-1952</dc:subject>
+<dc:subject>Government, Law &amp; Politics; People</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>1926-08</dc:date>
+<dc:date>1926</dc:date>
+<dc:source>photograph; b&amp;w; 6.75 x 9 in. (17.1 x 22.9 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>2006.001.0040</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10432</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10433</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>James R. Sheffield with Bear Cub at White Pine Camp</dc:title>
+<dc:description>Caption: &quot;A Strange Playmate - Paul Smiths, NY - James R. Sheffield, American Ambassador to Mexico who is visiting President Coolidge at the Summer White House finds a strange playmate in this five month old cinnamon bear owned by Jack Schriver of Detroit.&quot;</dc:description>
+<dc:subject>Sheffield, James R. (James Rockwell), 1864-1938; Bear cubs</dc:subject>
+<dc:subject>People; Government, Law &amp; Politics</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>9/9/1926</dc:date>
+<dc:date>1926</dc:date>
+<dc:source>photograph; b&amp;w; 7.5 x 8.75 in. (19.1 x 22.2 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>2006.001.0041</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10433</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10434</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>President Calvin Coolidge and Knights of Columbus Men at White Pine Camp</dc:title>
+<dc:description>Caption: &quot;Coolidge greets K. of C. Men - Paul Smiths, NY - Photo shows President Coolidge with the Knights of Columbus delegates who called upon him to seek government aid for the program for relief of the Catholics in Mexico. Left to right in the group are Luke E. Hart; Martin H. Carmody; Supreme Knight James A. Flaherty; President Coolidge; William J. McGinley; W.C. Prout; and John S. Conway.&quot;</dc:description>
+<dc:subject>Coolidge, Calvin, 1872-1933; Knights of Columbus; Hart, Luke E. (Luke Edward), 1880-1964</dc:subject>
+<dc:subject>People; Government, Law &amp; Politics</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>9/2/1926</dc:date>
+<dc:date>1926</dc:date>
+<dc:source>photograph; b&amp;w; 10 x 6.5 in. (25.4 x 16.5 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>2006.001.0042</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10434</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10435</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Smith Men at Railroad</dc:title>
+<dc:description>Photograph of A.A. &quot;Paul&quot; Smith, Paul Smith, Jr., and Phelps Smith standing in front of an electric rail car for the Paul Smith&#x27;s Electric Light and Power and Railroad Co.</dc:description>
+<dc:subject>Paul Smith&#x27;s Electric Light and Power and Railroad Co.; Smith, Apollos A. (Paul), 1825-1912; Smith, Paul Jr., 1870-1927; Smith, Phelps, 1862-1037; Railroads; Railroad cars; Electric locomotives</dc:subject>
+<dc:subject>Transportation; People; Daily Life</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>1907?-1912?</dc:date>
+<dc:date>1907; 1908; 1909; 1910; 1911; 1912</dc:date>
+<dc:source>photograph; b&amp;w; 10 x 8 in. (25.4 x 20.3 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.500.1001</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10435</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10436</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>A.A. &quot;Paul&quot; Smith 1</dc:title>
+<dc:description>Photograph of Paul Smith in a horse-drawn wagon on the grounds of Paul Smith&#x27;s Hotel.</dc:description>
+<dc:subject>Smith, Apollos A. (Paul), 1825-1912; Paul Smith&#x27;s Hotel Company; Hotels; Horses; Wagons</dc:subject>
+<dc:subject>Business &amp; Industry; People; Transportation</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>Unknown</dc:date>
+<dc:source>photograph; b&amp;w; 4 x 3.25 in. (10.2 x 8.3 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.500.1201</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10436</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10437</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>A.A. &quot;Paul&quot; Smith 2</dc:title>
+<dc:description>Photograph of Paul Smith sitting in a rocking chair on a porch, probably at Paul Smith&#x27;s Hotel.</dc:description>
+<dc:subject>Smith, Apollos A. (Paul), 1825-1912; Paul Smith&#x27;s Hotel Company; Men</dc:subject>
+<dc:subject>People; Business &amp; Industry</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>Unknown</dc:date>
+<dc:source>photograph; b&amp;w; 4.25 x 3 in. (10.8 x 7.6 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.500.1202</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10437</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10438</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>A.A. &quot;Paul&quot; Smith 3</dc:title>
+<dc:description>Portrait of Paul Smith. Photographer&#x27;s Mark: Fay &amp; Ferris Photo Atelier.</dc:description>
+<dc:subject>Smith, Apollos A. (Paul), 1825-1912; Men; Portrait</dc:subject>
+<dc:subject>People; Daily Life</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:source>photograph; b&amp;w; 2.5 x 3.5 in. (6.4 x 8.9 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.500.1203</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10438</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10439</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>A.A. &quot;Paul&quot; Smith 4</dc:title>
+<dc:description>Photograph of Paul Smith standing outside of Paul Smith&#x27;s hotel. Caption: &quot;Paul Smith (Apollos) (old man himself).&quot;</dc:description>
+<dc:subject>Smith, Apollos A. (Paul), 1825-1912; Paul Smith&#x27;s Hotel Company; Hotels; Men</dc:subject>
+<dc:subject>People; Business &amp; Industry</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>Unknown</dc:date>
+<dc:source>photograph; b&amp;w; 2.75 x 3.75 in. (7 x 9.5 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.500.1204</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10439</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10440</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>A.A. &quot;Paul&quot; Smith 5</dc:title>
+<dc:description>Photograph of Paul Smith on the grounds at Paul Smith&#x27;s Hotel.</dc:description>
+<dc:subject>Smith, Apollos A. (Paul), 1825-1912; Paul Smith&#x27;s Hotel Company; Hotels; Buildings; Men</dc:subject>
+<dc:subject>People; Business &amp; Industry</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>Unknown</dc:date>
+<dc:source>photograph; b&amp;w; 3.5 x 4.5 in. (8.9 x 11.4 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.500.1205</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10440</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10441</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>A.A. &quot;Paul&quot; Smith with Mrs. Millbank</dc:title>
+<dc:description>Photograph of Paul Smith sitting on steps next to Mrs. Millbank [Possibly Milbank].</dc:description>
+<dc:subject>Smith, Apollos A. (Paul), 1825-1912; Women; Men</dc:subject>
+<dc:subject>People; Daily Life</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:source>photograph; b&amp;w; 3 x 4 in. (7.6 x 10.2 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.500.1206</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10441</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10442</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>A.A. &quot;Paul&quot; Smith 6</dc:title>
+<dc:description>Photograph of Paul Smith on the porch of an unidentified building.</dc:description>
+<dc:subject>Smith, Apollos A. (Paul), 1825-1912; Buildings; Men</dc:subject>
+<dc:subject>People; Daily Life</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:source>photograph; b&amp;w; 5.25 x 4.25 in. (13.3 x 10.8 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.500.1207</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10442</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10443</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>A.A. &quot;Paul&quot; Smith with Guests</dc:title>
+<dc:description>Photograph of Paul Smith with guests on the bank of Lower St. Regis Lake in front of Paul Smith&#x27;s Hotel. Note on the back: &quot;A little reminder of the charming Sunday the Sheriff, Mrs. Stetson, and I passed at your lovely place. Yours Sincerely, Anne W. See [Lee?], 26 Elmwood Ave., Cambridge, Mass. Nov. 5th [Later note reads: probably Paul in the middle].&quot;</dc:description>
+<dc:subject>Smith, Apollos A. (Paul), 1825-1912; Paul Smith&#x27;s Hotel Company; Hotels; Buildings</dc:subject>
+<dc:subject>People; Daily Life; Business &amp; Industry</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>Unknown</dc:date>
+<dc:source>photograph; b&amp;w; 6.75 x 2.25 in. (17.1 x 5.7 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.500.1208</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10443</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10444</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>A.A. &quot;Paul&quot; Smith 7</dc:title>
+<dc:description>Portrait of Paul Smith.</dc:description>
+<dc:subject>Smith, Apollos A. (Paul), 1825-1912; Men; Portrait</dc:subject>
+<dc:subject>People; Daily Life</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:source>photograph; b&amp;w; 4.5 x 6.5 in. (11.4 x 16.5 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.500.1209</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10444</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10445</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>A.A. &quot;Paul&quot; Smith 10</dc:title>
+<dc:description>Portrait of Paul Smith by Charles Derby.</dc:description>
+<dc:subject>Smith, Apollos A. (Paul), 1825-1912; Men; Portrait</dc:subject>
+<dc:subject>People; Daily Life</dc:subject>
+<dc:coverage>Morrisonville (N.Y.)</dc:coverage>
+<dc:date>Unknown</dc:date>
+<dc:source>photograph; b&amp;w; 4.25 x 6.5 in. (10.8 x 16.5 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.500.1210</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10445</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10446</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>A.A. &quot;Paul&quot; Smith at Construction Site</dc:title>
+<dc:description>Photograph of Paul Smith at an unidentified construction site. Possibly for Paul Smith&#x27;s Electric Light and Power and Railroad Co. Paul Smith is seen standing at the left inside the pipe.</dc:description>
+<dc:subject>Paul Smith&#x27;s Electric Light and Power and Railroad Co.; Smith, Apollos A. (Paul), 1825-1912; Construction</dc:subject>
+<dc:subject>People; Business &amp; Industry; Work &amp; Labor; Business &amp; Industry</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:source>photograph; b&amp;w; 10 x 8 in. (25.4 x 20.3 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.500.1211</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10446</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10447</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>A.A. &quot;Paul&quot; Smith on Paul Smith&#x27;s Hotel Grounds</dc:title>
+<dc:description>Photograph of Paul Smith with an unidentified man on the grounds at Paul Smith&#x27;s Hotel.</dc:description>
+<dc:subject>Smith, Apollos A. (Paul), 1825-1912; Paul Smith&#x27;s Hotel Company; Hotels; Buildings; Men</dc:subject>
+<dc:subject>People; Architecture; Business &amp; Industry</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>Unknown</dc:date>
+<dc:source>photograph; b&amp;w; 10 x 8 in. (25.4 x 20.3 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.500.1212</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10447</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10448</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>A.A. &quot;Paul&quot; Smith on Dock</dc:title>
+<dc:description>Photograph of Paul Smith and others standing on the dock next to a boat. Paul Smith is noted as standing sixth from right. Boat name is partially obscured, but likely reads &quot;Adirondacks.&quot; Caption: &quot;Second from right: Alvin Jonson; Third: Mr. Aiken; Fifth: Smith M. Meed [?]; Sixth: Paul Smith; Seventh: Yancey Cleveland [?]. Taken at Sweet T[?] in the 80s.&quot; [Handwriting is difficult to read]</dc:description>
+<dc:subject>Smith, Apollos A. (Paul), 1825-1912; Boats; Men</dc:subject>
+<dc:subject>People; Recreation &amp; Sports</dc:subject>
+<dc:date>1880?</dc:date>
+<dc:date>1880</dc:date>
+<dc:source>photograph; b&amp;w; 8.5 x 5.25 in. (21.6 x 13.3 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.500.1224</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10448</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10449</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Stagecoach at Paul Smith&#x27;s Hotel 1</dc:title>
+<dc:description>Photograph of a stagecoach with guests in front of Paul Smith&#x27;s Hotel. Guests, guides, and others are seen on the porch of the hotel. Paul Smith is among those seated on the porch.</dc:description>
+<dc:subject>Smith, Apollos A. (Paul), 1825-1912; Paul Smith&#x27;s Hotel Company; Hotels; Stagecoaches; Buildings</dc:subject>
+<dc:subject>People; Business &amp; Industry; Transportation</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>Unknown</dc:date>
+<dc:source>photograph; b&amp;w; 8 x 5 in. (20.3 x 12.7 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.500.1215</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10449</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10450</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>A.A. &quot;Paul&quot; Smith 9</dc:title>
+<dc:description>Portrait of Paul Smith. Caption: &quot;A.A. Smith.&quot;</dc:description>
+<dc:subject>Smith, Apollos A. (Paul), 1825-1912; Portrait; Men</dc:subject>
+<dc:subject>People; Daily Life</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:source>photograph; b&amp;w; 6 x 9 in. (15.2 x 22.9 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.500.1216</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10450</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10451</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>A.A. &quot;Paul&quot; Smith 11</dc:title>
+<dc:description>Portrait of Paul Smith. Caption: &quot;Paul Smith, Veteran Guide and Hotel Man.&quot;</dc:description>
+<dc:subject>Smith, Apollos A. (Paul), 1825-1912; Men; Portrait</dc:subject>
+<dc:subject>People; Daily Life</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:source>photograph; b&amp;w; 6.75 x 9 in. (17.1 x 22.9 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.500.1217</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10451</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10452</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>A.A. &quot;Paul&quot; Smith 12</dc:title>
+<dc:description>Photograph of Paul Smith, likely taken on the porch at Smith Cottage.</dc:description>
+<dc:subject>Smith, Apollos A. (Paul), 1825-1912; Men</dc:subject>
+<dc:subject>People; Daily Life</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>Unknown</dc:date>
+<dc:source>photograph; b&amp;w; 5.25 x 5.25 in. (13.3 x 13.3 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.500.1218</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10452</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10453</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>A.A. &quot;Paul&quot; Smith 13</dc:title>
+<dc:description>Portrait of Paul Smith by Charles Derby.</dc:description>
+<dc:subject>Smith, Apollos A. (Paul), 1825-1912; Men; Portrait</dc:subject>
+<dc:subject>People; Daily Life</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>Unknown</dc:date>
+<dc:source>photograph; b&amp;w; 6.75 x 9.75 in. (17.1 x 24.8 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.500.1219</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10453</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10454</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>A.A. &quot;Paul&quot; Smith with B.A. Muncil and Mr. Faulkner</dc:title>
+<dc:description>Caption: &quot;B.A. Muncil with Paul Smith Sr. and Mr. Faulkner at the Boat House circa 1910.&quot;</dc:description>
+<dc:subject>Smith, Apollos A. (Paul), 1825-1912; Men; Paul Smith&#x27;s Hotel Company; Hotels</dc:subject>
+<dc:subject>People; Daily Life</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>1910?</dc:date>
+<dc:date>1910</dc:date>
+<dc:source>photograph; b&amp;w; 4 x 3 in. (10.2 x 7.6 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.500.1220</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10454</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10455</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Paul Smith at Paul Smith&#x27;s Hotel</dc:title>
+<dc:description>Photograph of Paul Smith standing in front of Paul Smith&#x27;s Hotel.</dc:description>
+<dc:subject>Smith, Apollos A. (Paul), 1825-1912; Men; Hotels; Paul Smith&#x27;s Hotel Company; Buildings</dc:subject>
+<dc:subject>People; Business &amp; Industry</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>1911</dc:date>
+<dc:date>1911</dc:date>
+<dc:source>photograph; b&amp;w; 2.75 x 4.5 in. (7 x 11.4 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.500.1221</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10455</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10456</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>A.A. &quot;Paul&quot; Smith at Malone County Fair</dc:title>
+<dc:description>Photograph of Paul Smith and others at the Malone County Fair. Caption: &quot;Malone, Sept. 21, 1904, County Fair - Uncle Paul, Mr. and Mrs. [H? N?] W. McAlpin, Mrs. James A. Neff, Jr., Miss Anna Benedict, Mr. Moffitt, Miss Julia Moffitt.&quot;</dc:description>
+<dc:subject>Smith, Apollos A. (Paul), 1825-1912; Fairs; Men; Women; Children; Portrait</dc:subject>
+<dc:subject>People; Daily Life</dc:subject>
+<dc:coverage>Malone (N.Y.)</dc:coverage>
+<dc:date>9/21/1904</dc:date>
+<dc:date>1904</dc:date>
+<dc:source>photograph; b&amp;w; 9 x 7 in. (22.9 x 17.8 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.500.1223</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10456</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10457</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>A.A. &quot;Paul&quot; Smith on Porch at Smith Cottage</dc:title>
+<dc:description>Photograph of Paul Smith standing on the porch at Smith Cottage at Paul Smith&#x27;s Hotel.</dc:description>
+<dc:subject>Smith, Apollos A. (Paul), 1825-1912; Hotels; Buildings; Men; Paul Smith&#x27;s Hotel Company</dc:subject>
+<dc:subject>People; Daily Life</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>Unknown</dc:date>
+<dc:source>photograph; b&amp;w; 7 x 5 in. (17.8 x 12.7 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.500.1228</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10457</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10458</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>A.A. &quot;Paul&quot; Smith with George Stevens</dc:title>
+<dc:description>Photograph of Paul Smith with George Stevens, owner of the Stevens House in Lake Placid, NY. Photograph by L.E. Shattuck.</dc:description>
+<dc:subject>Smith, Apollos A. (Paul), 1825-1912; Men</dc:subject>
+<dc:subject>People; Business &amp; Industry</dc:subject>
+<dc:date>1900?</dc:date>
+<dc:date>1900</dc:date>
+<dc:source>photograph; b&amp;w; 7 x 4.75 in. (17.8 x 12.1 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.500.1225</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10458</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10459</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>A.A. &quot;Paul&quot; Smith and Moose</dc:title>
+<dc:description>Photograph of Paul Smith after shooting his first moose. Caption: &quot;Paul Smith and his first &#x27;King of the Forest,&#x27; October 1902.&quot;</dc:description>
+<dc:subject>Smith, Apollos A. (Paul), 1825-1912; Moose; Moose hunting; Hunters</dc:subject>
+<dc:subject>People; Recreation &amp; Sports; Daily Life</dc:subject>
+<dc:date>1902-10</dc:date>
+<dc:date>1902</dc:date>
+<dc:source>photograph; b&amp;w; 3 x 4 in. (7.6 x 10.2 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.500.1226</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10459</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10460</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>A.A. &quot;Paul&quot; Smith 14</dc:title>
+<dc:description>Portrait of Paul Smith.</dc:description>
+<dc:subject>Smith, Apollos A. (Paul), 1825-1912; Men</dc:subject>
+<dc:subject>People; Daily Life</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:source>photograph; b&amp;w; 6.75 x 8.25 in. (17.1 x 21 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.500.1227</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10460</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10461</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>A.A. &quot;Paul&quot; Smith 18</dc:title>
+<dc:description>Portrait of Paul Smith by the Lewis Historical Pub. Co.</dc:description>
+<dc:subject>Smith, Apollos A. (Paul), 1825-1912; Men; Portrait</dc:subject>
+<dc:subject>People; Daily Life</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:source>photograph; b&amp;w; 8 x 10 in. (20.3 x 25.4 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.500.1234</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10461</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10462</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>A.A. &quot;Paul&quot; Smith at Smith Cottage</dc:title>
+<dc:description>Photograph of Paul Smith in front of Smith Cottage at Paul Smith&#x27;s Hotel.</dc:description>
+<dc:subject>Smith, Apollos A. (Paul), 1825-1912; Paul Smith&#x27;s Hotel Company; Hotels; Buildings</dc:subject>
+<dc:subject>People; Daily Life</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>Unknown</dc:date>
+<dc:source>photograph; b&amp;w; 6.75 x 5 in. (17.1 x 12.7 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.500.1229</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10462</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10463</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>A.A. &quot;Paul&quot; Smith 15</dc:title>
+<dc:description>Photograph of full-length portrait of Paul Smith in the woods. Photograph has a postcard backing but has not been used.</dc:description>
+<dc:subject>Smith, Apollos A. (Paul), 1825-1912; Men</dc:subject>
+<dc:subject>People; Daily Life</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:source>photograph; b&amp;w; 3.5 x 5.5 in. (8.9 x 14 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.500.1230</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10463</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10464</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>A.A. &quot;Paul&quot; Smith and Unidentified Women</dc:title>
+<dc:description>Photograph of Paul Smith with unidentified women around a tree.</dc:description>
+<dc:subject>Smith, Apollos A. (Paul), 1825-1912; Men; Women</dc:subject>
+<dc:subject>People; Daily Life</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:source>photograph; b&amp;w; 5.25 x 8.5 in. (13.3 x 21.6 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.500.1231</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10464</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10465</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>A.A. &quot;Paul&quot; Smith 16</dc:title>
+<dc:description>Photograph of Paul Smith on the porch of Smith Cottage at Paul Smith&#x27;s Hotel.</dc:description>
+<dc:subject>Smith, Apollos A. (Paul), 1825-1912; Paul Smith&#x27;s Hotel Company; Men; Buildings</dc:subject>
+<dc:subject>People; Daily Life; Business &amp; Industry</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>Unknown</dc:date>
+<dc:source>photograph; b&amp;w; 5 x 5 in. (12.7 x 12.7 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.500.1232</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10465</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10466</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>A.A. &quot;Paul&quot; Smith 17</dc:title>
+<dc:description>Photograph of Paul Smith.</dc:description>
+<dc:subject>Smith, Apollos A. (Paul), 1825-1912; Men</dc:subject>
+<dc:subject>People</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:source>photograph; b&amp;w; 4.5 x 6.25 in. (11.4 x 15.9 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.500.1233</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10466</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10467</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>A.A. &quot;Paul&quot; Smith on a Boat</dc:title>
+<dc:description>Photograph of Paul Smith on a boat with unidentified men and women. Probably on Lower St. Regis Lake at Paul Smith&#x27;s Hotel. Caption: &quot;Compliments of Florence Elizabeth Davis, East Orange, NJ.&quot;</dc:description>
+<dc:subject>Smith, Apollos A. (Paul), 1825-1912; Men; Women; Boats and boating</dc:subject>
+<dc:subject>People; Recreation &amp; Sports</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:source>photograph; b&amp;w; 5 x 5 in. (12.7 x 12.7 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.500.1242</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10467</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10468</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>A.A. &quot;Paul&quot; Smith on a Horse</dc:title>
+<dc:description>Photograph of Paul Smith on a horse. Saddle blanket is embroidered with &quot;Paul Smith&quot; and probably the Great Seal of the United States.</dc:description>
+<dc:subject>Smith, Apollos A. (Paul), 1825-1912; Horses; Men; Horsemanship</dc:subject>
+<dc:subject>People; Transportation; Recreation &amp; Sports; Daily Life</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:source>photograph; b&amp;w; 9 x 7 in. (22.9 x 17.8 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.500.1235</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10468</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10469</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>A.A. &quot;Paul&quot; Smith 19</dc:title>
+<dc:description>Portrait of Paul Smith. Photographer&#x27;s mark: Baldwin, Artist, Plattsburgh, NY, Publisher of Adirondack Scenery.</dc:description>
+<dc:subject>Smith, Apollos A. (Paul), 1825-1912; Men; Portrait</dc:subject>
+<dc:subject>People; Daily Life</dc:subject>
+<dc:coverage>Plattsburgh (N.Y.)</dc:coverage>
+<dc:date>Unknown</dc:date>
+<dc:source>photograph; b&amp;w; 4 x 8.25 in. (10.2 x 21 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.500.1236</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10469</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10470</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>A.A. &quot;Paul&quot; Smith at the Railroad</dc:title>
+<dc:description>Panoramic photograph of Paul Smith standing with unidentified women in front of the train tracks at Paul Smith&#x27;s Hotel. This electric train ran between the main station and Paul Smith&#x27;s Hotel. Guests are seen boarding the train at the right.</dc:description>
+<dc:subject>Smith, Apollos A. (Paul), 1825-1912; Paul Smith&#x27;s Hotel Company; Paul Smith&#x27;s Electric Light and Power and Railroad Co.; Hotels; Locomotives</dc:subject>
+<dc:subject>Business &amp; Industry; People; Transportation</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:source>photograph; b&amp;w; 11.5 x 3.5 in. (29.2 x 8.9 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.500.1237</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10470</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10471</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Stero Card of A.A. &quot;Paul&quot; Smith</dc:title>
+<dc:description>Stereo card portrait of Paul Smith. Photograph by Seneca Ray Stoddard.</dc:description>
+<dc:subject>Smith, Apollos A. (Paul), 1825-1912; Stoddard, Seneca Ray, 1844-1917; Stereoscopic views; Portrait</dc:subject>
+<dc:subject>People; Daily Life</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:source>photograph; b&amp;w; 7 x 4 in. (17.8 x 10.2 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.500.1238</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10471</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10472</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>A.A. &quot;Paul&quot; Smith with Dan W. Riddle and Dr. Sam B. Ward</dc:title>
+<dc:description>Photograph of Paul Smith with Dan W. Riddle, Manager of the Saranac Inn, and Dr. Sam B. Ward, first president of hte Upper Saranac Association. Caption: &quot;&#x27;Adirondack Conversation&#x27; - Left, Paul Smith; Center, D.W. Riddle - Manager, Saranac Inn; Right, Dr. Sam B. Ward, 1st Pres. Upper Saranac Assoc. [Back] Dan W. Riddle, Mgr Saranac Inn died June 1913 - for 30 years had been a friend and treas. of Sanitorium; Dr. Sam Ward Upper S.L. Assn. Pres., Around 1900.&quot;</dc:description>
+<dc:subject>Smith, Apollos A. (Paul), 1825-1912; Men; Paul Smith&#x27;s Hotel Company</dc:subject>
+<dc:subject>People; Business &amp; Industry</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>1895-06-23</dc:date>
+<dc:date>1895</dc:date>
+<dc:source>photograph; b&amp;w; 8 x 10 in. (20.3 x 25.4 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.500.1239</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10472</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10473</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>A.A. &quot;Paul&quot; Smith in the Woods</dc:title>
+<dc:description>Photograph of Paul Smith in the woods. Caption: &quot;Paul at home, 1912.&quot;</dc:description>
+<dc:subject>Smith, Apollos A. (Paul), 1825-1912; Men</dc:subject>
+<dc:subject>People; Daily Life</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>1912</dc:date>
+<dc:date>1912</dc:date>
+<dc:source>photograph; b&amp;w; 7 x 5 in. (17.8 x 12.7 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.500.1240</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10473</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10474</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>A.A. &quot;Paul&quot; Smith 20</dc:title>
+<dc:description>Portrait of Paul Smith. Photographer&#x27;s mark: &quot;Bigelow, Photographer, Plattsburgh, NY&quot;</dc:description>
+<dc:subject>Smith, Apollos A. (Paul), 1825-1912; Men; Portrait</dc:subject>
+<dc:subject>People; Daily Life</dc:subject>
+<dc:coverage>Plattsburgh (N.Y.)</dc:coverage>
+<dc:date>Unknown</dc:date>
+<dc:source>photograph; b&amp;w; 4.25 x 5.75 in. (10.8 x 14.6 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.500.1241</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10474</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10475</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>A.A. &quot;Paul&quot; Smith 21</dc:title>
+<dc:description>Photograph of Paul Smith seated in a rocking chair.</dc:description>
+<dc:subject>Smith, Apollos A. (Paul), 1825-1912; Men</dc:subject>
+<dc:subject>People; Daily Life</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:source>photograph; b&amp;w; 4.75 x 5.5 in. (12.1 x 14 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.500.1243</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10475</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10476</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Henry Smith as a Young Man</dc:title>
+<dc:description>Photograph of Henry B.L. Smith at as a young man.</dc:description>
+<dc:subject>Smith, Henry B. Loomis, 1861-1891; Men</dc:subject>
+<dc:subject>People</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:source>photograph; b&amp;w; 8.5 x 5 in. (21.6 x 12.7 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.500.2006</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10476</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10477</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>A.A &quot;Paul&quot; Smith on the Hotel Grounds</dc:title>
+<dc:description>Photograph of Paul Smith on the grounds at Paul Smith&#x27;s Hotel.</dc:description>
+<dc:subject>Smith, Apollos A. (Paul), 1825-1912; Hotels; Paul Smith&#x27;s Hotel Company</dc:subject>
+<dc:subject>People; Daily Life</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>Unknown</dc:date>
+<dc:source>photograph; b&amp;w; 5.25 x 5.25 in. (13.3 x 13.3 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.500.1244</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10477</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10478</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>A.A. &quot;Paul&quot; Smith 22</dc:title>
+<dc:description>Portrait of Paul Smith.</dc:description>
+<dc:subject>Smith, Apollos A. (Paul), 1825-1912; Men; Portrait</dc:subject>
+<dc:subject>People; Daily Life</dc:subject>
+<dc:coverage>Plattsburgh (N.Y.)</dc:coverage>
+<dc:date>Unknown</dc:date>
+<dc:source>photograph; b&amp;w; 4.25 x 6.5 in. (10.8 x 16.5 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.500.1245</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10478</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10479</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Postcard of A.A. &quot;Paul&quot; Smith</dc:title>
+<dc:description>Postcard of Paul Smith. Caption: &quot;Paul Smith, veteran guide and hotel man.&quot; Postcard was sent to Miss C. Troy [?], Bloomingdale, NY &quot;Essex Co..&quot;</dc:description>
+<dc:subject>Smith, Apollos A. (Paul), 1825-1912; Men; Postcards</dc:subject>
+<dc:subject>People</dc:subject>
+<dc:date>9/26/1905</dc:date>
+<dc:date>1905</dc:date>
+<dc:source>postcard; b&amp;w; 5.5 x 3.5 in. (14 x 8.9 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.500.1246</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10479</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10480</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>A.A. Paul Smith by the Fire</dc:title>
+<dc:description>Photograph of Paul Smith seated in a rocking chair by a fireplace.</dc:description>
+<dc:subject>Smith, Apollos A. (Paul), 1825-1912; Men</dc:subject>
+<dc:subject>People; Daily Life</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:source>photograph; b&amp;w; 10 x 12 in. (25.4 x 30.5 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.500.1247</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10480</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10481</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>A.A. &quot;Paul&quot; Smith with Unidentified Group</dc:title>
+<dc:description>Photograph of Paul Smith with an unidentified group of men and women.</dc:description>
+<dc:subject>Smith, Apollos A. (Paul), 1825-1912; Men; Women</dc:subject>
+<dc:subject>People; Daily Life</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:source>photograph; b&amp;w; 12 x 9.5 in. (30.5 x 24.1 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.500.1248</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10481</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10482</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Man with Dog</dc:title>
+<dc:description>Photograph of an unidentified man with a large dog. Was previously identified as Henry B.L. Smith but Henry died at the age of 30 and the man in the photograph appears to be older.</dc:description>
+<dc:subject>Men; Dogs</dc:subject>
+<dc:subject>People</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:source>photograph; b&amp;w; 5.25 x 4.25 in. (13.3 x 10.8 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.500.2001</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10482</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10483</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Portrait of an Unidentified Man</dc:title>
+<dc:description>Photograph of an unidentified man. Was previously identified at Henry B.L. Smith but does not resemble other photographs of Henry. Photographer&#x27;s mark: &quot;G.W. Baldwin, Photographer, Keeseville, NY - The Sun is My Servant.&quot;</dc:description>
+<dc:subject>Men; Portrait</dc:subject>
+<dc:subject>People</dc:subject>
+<dc:coverage>Keeseville (N.Y.)</dc:coverage>
+<dc:date>Unknown</dc:date>
+<dc:source>photograph; b&amp;w; 2.5 x 4 in. (6.4 x 10.2 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.500.2002</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10483</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10484</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Henry Smith as a Toddler</dc:title>
+<dc:description>Hand-colored stereo card of Henry B.L. Smith at age 3 with a dog.</dc:description>
+<dc:subject>Stereoscopic views; Smith, Henry B. Loomis, 1861-1891; Children; Portrait; Dog</dc:subject>
+<dc:subject>People; Daily Life</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:source>photograph; color; 7 x 3.5 in. (17.8 x 8.9 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.500.2003</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10484</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10485</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Unidentified Young Men</dc:title>
+<dc:description>Studio portrait of three unidentified young men. It has previously been identified as the three Smith brothers, Paul Jr., Phelps, and Henry, but a caption on the back reads: &quot;Harding, Henry, and Phelps Foquet (J. Haney).&quot; It doest not bear a strong resemblance to the Smith brothers so its subjects are not certain. Photographer&#x27;s mark: &quot;Baldwin, Artist, Plattsburgh, NY, Publisher of Adirondack Scenery, Manufacturer of Gold and Plush Picture Frames.&quot;</dc:description>
+<dc:subject>Smith, Henry B. Loomis, 1861-1891; Smith, Paul Jr., 1870-1927; Smith, Phelps, 1862-1037; Men; Portrait</dc:subject>
+<dc:subject>People</dc:subject>
+<dc:coverage>Plattsburgh (N.Y.)</dc:coverage>
+<dc:date>Unknown</dc:date>
+<dc:source>photograph; b&amp;w; 4.25 x 6.5 in. (10.8 x 16.5 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.500.2004</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10485</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10486</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Henry B.L. Smith with H. Hinds</dc:title>
+<dc:description>Photograph of Henry B.L. Smith with H. Hinds, a Paul Smith&#x27;s Hotel stagecoach driver. Caption: &quot;H.B.L. Smith with H. Hinds - Stage Driver, well known. Donaldson Vol. I p.331.&quot; Photographer&#x27;s mark: &quot;G.W. Baldwin, Keeseville, NY.&quot;</dc:description>
+<dc:subject>Men; Smith, Henry B. Loomis, 1861-1891</dc:subject>
+<dc:subject>People</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:source>photograph; b&amp;w; 4.5 x 6.5 in. (11.4 x 16.5 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.500.2005</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10486</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10487</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Signal Corps School Certifications of Merit</dc:title>
+<dc:description>Photograph of a group of trainees on the campus at Paul Smith&#x27;s. Caption: &quot;Paul Smith&#x27;s, January 1943 - Privates Assael and Saland receive certifications of merit for suggestions made to Picatinny Arsenal.&quot;</dc:description>
+<dc:subject>United States. Army. Signal Corps; Students</dc:subject>
+<dc:subject>People; Military &amp; War; Education</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>1943-01</dc:date>
+<dc:date>1943</dc:date>
+<dc:source>photograph; b&amp;w; 10 x 8 in. (25.4 x 20.3 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.901.1011</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10487</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10488</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Henry Smith Silhouette</dc:title>
+<dc:description>Paper silhouette of Henry B.L. Smith.</dc:description>
+<dc:subject>Smith, Henry B. Loomis, 1861-1891; Silhouette; Men</dc:subject>
+<dc:subject>People</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:source>silhouette; b&amp;w; 4.5 x 7.25 in. (11.4 x 18.4 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.500.2007</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10488</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10489</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Henry Smith with Guides and Sports</dc:title>
+<dc:description>Photograph of a group of guides and sports posing with deer heads. Back row: 2. Henry Smith, 5. George Lyon, 7. John or Ed Roark; Seated: 2. Ben Muncil. Photograph by Charles Derby.</dc:description>
+<dc:subject>Men; Smith, Henry B. Loomis, 1861-1891; Muncil, B.A., Sr. (Benjamin A.), 1867-1930; Deer hunters; Deer hunting</dc:subject>
+<dc:subject>People; Recreation &amp; Sports</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:source>photograph; b&amp;w; 10 x 8 in. (25.4 x 20.3 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.500.2008</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10489</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10490</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Henry Smith in Group</dc:title>
+<dc:description>Photograph of Henry B.L. Smith seated at the  center of a group of men. The man standing over his left shoulder is John Harding. Caption: &quot;Seated: 2. Henry, Standing: 3. John Harding.&quot;</dc:description>
+<dc:subject>Smith, Henry B. Loomis, 1861-1891; Men</dc:subject>
+<dc:subject>People</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:source>photograph; b&amp;w; 10 x 8 in. (25.4 x 20.3 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.500.2009</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10490</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10491</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Henry B.L. Smith 1</dc:title>
+<dc:description>Photograph of Henry B.L. Smith, the eldest son of Paul and Lydia Martin Smith. Photograph by Charles Derby.</dc:description>
+<dc:subject>Smith, Henry B. Loomis, 1861-1891; Men</dc:subject>
+<dc:subject>People</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:source>photograph; b&amp;w; 8 x 10 in. (20.3 x 25.4 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.500.2010</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10491</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10492</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Henry B.L. Smith 2</dc:title>
+<dc:description>Photograph of Henry B.L. Smith in a wagon pulled by two Morgan horses.</dc:description>
+<dc:subject>Smith, Henry B. Loomis, 1861-1891; Men; Wagons; Morgan horse</dc:subject>
+<dc:subject>People; Transportation</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:source>photograph; b&amp;w; 10 x 7 in. (25.4 x 17.8 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.500.2012</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10492</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10493</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Boat House at White Pine Camp 5</dc:title>
+<dc:description>Photo postcard of the Boat House and bridge on Osgood Pond at White Pine Camp. Printed by $5 Photo Co., Photo Park, Canton, NY.</dc:description>
+<dc:subject>White Pine Camp; Boathouses; Bridges; Buildings; Ponds</dc:subject>
+<dc:subject>Architecture; Environment &amp; Nature</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>Unknown</dc:date>
+<dc:source>photograph; b&amp;w; 5.5 x 3.5 in. (14 x 8.9 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.900.2008</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10493</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10494</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>White Pine Camp on Osgood Pond</dc:title>
+<dc:description>Postcard of Osgood Pond at White Pine Camp. Published by Wm. Jubb Co., Syracuse, NY, C.T. American Art Black and White.</dc:description>
+<dc:subject>Ponds; White Pine Camp</dc:subject>
+<dc:subject>Environment &amp; Nature</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>Unknown</dc:date>
+<dc:source>postcard; b&amp;w; 5.5 x 3.5 in. (14 x 8.9 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.900.2101</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10494</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10495</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Bowling Alley at White Pine Camp</dc:title>
+<dc:description>Photo postcard of the bridge across Osgood Pond at White Pine Camp. The bowling alley is visible across the bridge. Postcard reads: &quot;Bowling Alley, Summer White House, Osgood Lake, Paul Smiths, N.Y.&quot; Published by $5 Photo Co., Photo Park, Canton, NY. Postcard was with an envelope reading &quot;Post Card Views of Summer White House, in the Adirondacks at Paul Smiths, NY, near Lake Saranac and Lake Placid.&quot;</dc:description>
+<dc:subject>White Pine Camp; Camps; Ponds; Bridges; Buildings</dc:subject>
+<dc:subject>Environment &amp; Nature; Architecture</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>Unknown</dc:date>
+<dc:source>photograph; b&amp;w; 5.5 x 3.5 in. (14 x 8.9 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.900.2102</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10495</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10496</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>The View at White Pine Camp</dc:title>
+<dc:description>Photograph of the bridge from the Boat House at White Pine Camp. Details in the photograph have been inked or painted in. Caption: &quot;Watch your credit - 342521 - International Newsreel Photo - Slug (View from the Boat House) - At the Summer White House Camp - Paul Smiths, NY, Above is a view taken from the boat house at the White Pine Camp, showing the pier to the tea house and the bowling alleys. 7-7-26.&quot;</dc:description>
+<dc:subject>White Pine Camp; Bridges; Ponds; Buildings; Camps</dc:subject>
+<dc:subject>Environment &amp; Nature; Architecture</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>7/7/1926</dc:date>
+<dc:date>1926</dc:date>
+<dc:source>photograph; b&amp;w; 6 x 10 in. (15.2 x 25.4 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.900.2103</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10496</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10497</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>White Pine Camp Grounds</dc:title>
+<dc:description>Photograph of an outdoor seating area on the grounds at White Pine Camp.</dc:description>
+<dc:subject>White Pine Camp</dc:subject>
+<dc:subject>Recreation &amp; Sports; Environment &amp; Nature</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>Unknown</dc:date>
+<dc:source>photograph; b&amp;w; 6 x 3.5 in. (15.2 x 8.9 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.900.2104</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10497</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10498</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Boating at White Pine Camp</dc:title>
+<dc:description>Photograph of boats on Osgood Pond at White Pine Camp.</dc:description>
+<dc:subject>White Pine Camp; Boats and boating; Ponds</dc:subject>
+<dc:subject>Environment &amp; Nature; Recreation &amp; Sports</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>Unknown</dc:date>
+<dc:source>photograph; b&amp;w; 6 x 3.5 in. (15.2 x 8.9 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.900.2105</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10498</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10499</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>White Pine Camp Entrance</dc:title>
+<dc:description>Photograph of the entrance sign at White Pine Camp in 1958. Sign reads, &quot;White Pine Camp, Paul Smith&#x27;s College, Forestry Department.&quot;</dc:description>
+<dc:subject>White Pine Camp; Paul Smith&#x27;s College; Signs and signboards</dc:subject>
+<dc:subject>Environment &amp; Nature; Education</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>1958</dc:date>
+<dc:date>1958</dc:date>
+<dc:source>photograph; b&amp;w; 7 x 5 in. (17.8 x 12.7 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.900.2106</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10499</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10500</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Tea House and Garden at White Pine Camp</dc:title>
+<dc:description>Postcard of the Tea House and garden at White Pine Camp. Published by The Greeting Card Mfg. Co., Inc., 32 Union Square, NY.</dc:description>
+<dc:subject>White Pine Camp; Postcards; Buildings</dc:subject>
+<dc:subject>Environment &amp; Nature; Architecture</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>Unknown</dc:date>
+<dc:source>postcard; b&amp;w; 5.5 x 3.5 in. (14 x 8.9 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.900.2201</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10500</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10501</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Tea House Bridge at White Pine Camp</dc:title>
+<dc:description>Postcard of the Tea House and bridge at White Pine Camp. Published by the Greeting Card Mfg. Co., Inc., 32 Union Sq., NY.</dc:description>
+<dc:subject>White Pine Camp; Bridges; Buildings; Postcards</dc:subject>
+<dc:subject>Environment &amp; Nature; Architecture</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>Unknown</dc:date>
+<dc:source>postcard; b&amp;w; 5.5 x 3.5 in. (14 x 8.9 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.900.2202</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10501</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10502</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Tea House at White Pine Camp</dc:title>
+<dc:description>Photo postcard of the Tea House and bridge at White Pine Camp.</dc:description>
+<dc:subject>White Pine Camp; Postcards; Buildings; Bridges</dc:subject>
+<dc:subject>Architecture; Environment &amp; Nature</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>Unknown</dc:date>
+<dc:source>photograph; b&amp;w; 5.5 x 3.5 in. (14 x 8.9 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.900.2203</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10502</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10503</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>White Pine Camp Visitors</dc:title>
+<dc:description>Photograph of unidentified visitors at White Pine Camp, possibly during President Coolidge&#x27;s stay at the &quot;Summer White House.&quot;</dc:description>
+<dc:subject>White Pine Camp</dc:subject>
+<dc:subject>Environment &amp; Nature; People</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>1926?</dc:date>
+<dc:date>1926</dc:date>
+<dc:source>photograph; b&amp;w; 5.75 x 3.5 in. (14.6 x 8.9 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.900.2301</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10503</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10504</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>White Pine Camp Dining Room</dc:title>
+<dc:description>Photograph of a dining room table at White Pine Camp, most likely in the Main Building.</dc:description>
+<dc:subject>White Pine Camp; Interiors; Dining Rooms</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>Unknown</dc:date>
+<dc:source>photograph; b&amp;w; 7 x 5 in. (17.8 x 12.7 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.900.2401</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10504</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10505</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Guest Cabin #2 at White Pine Camp 1</dc:title>
+<dc:description>Caption: &quot;One of the guest cabins with red pine accommodated through the roof/sliding gasket. White Pine Camp. Note: Rhododendron, transplanted here, doing well. Spring 1993.&quot;</dc:description>
+<dc:subject>White Pine Camp; Buildings; Red pine</dc:subject>
+<dc:subject>Architecture; Environment &amp; Nature</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>1993</dc:date>
+<dc:date>1993</dc:date>
+<dc:source>photograph; b&amp;w; 3.5 x 5 in. (8.9 x 12.7 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.900.5001</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10505</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10506</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Guest Cabin #2 at White Pine Camp 2</dc:title>
+<dc:description>Photograph of guest cabins at White Pine Camp. Red Pines can be seen growing through the cabins.</dc:description>
+<dc:subject>White Pine Camp; Red pine; Buildings</dc:subject>
+<dc:subject>Environment &amp; Nature; Architecture</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>Unknown</dc:date>
+<dc:source>photograph; b&amp;w; 4 x 6 in. (10.2 x 15.2 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.900.5002</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10506</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10507</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Signal Corps Member with Boat</dc:title>
+<dc:description>Photograph of an unidentified Signal Corps School member with a boat. Caption: &quot;Signal Corp, The Albertype Co., Brooklyn, NY.&quot;</dc:description>
+<dc:subject>United States. Army. Signal Corps; Boats and boating; Uniforms; Lakes; Men</dc:subject>
+<dc:subject>Environment &amp; Nature; Military &amp; War; People</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>1942?</dc:date>
+<dc:date>1942</dc:date>
+<dc:source>photograph; b&amp;w; 10 x 7.5 in. (25.4 x 19.1 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.901.1001</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10507</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10508</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Signal Corps School Enrollment Ceremony 1</dc:title>
+<dc:description>Photograph of the enrollment ceremony for the first class of men at the Signal Corps School on the Paul Smith&#x27;s campus.</dc:description>
+<dc:subject>United States. Army. Signal Corps</dc:subject>
+<dc:subject>People; Military &amp; War</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>1942?</dc:date>
+<dc:date>1942</dc:date>
+<dc:source>photograph; b&amp;w; 6.75 x 4.75 in. (17.1 x 12.1 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.901.1002</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10508</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10509</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Signal Corps School Sports</dc:title>
+<dc:description>Photograph of an unidentified man kicking a ball at the Signal Corps School on the Paul Smith&#x27;s campus. &quot;Caption: Signal Corps, 7/42-9/43.&quot;</dc:description>
+<dc:subject>United States. Army. Signal Corps</dc:subject>
+<dc:subject>People; Military &amp; War; Recreation &amp; Sports</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>1942?</dc:date>
+<dc:date>1942</dc:date>
+<dc:source>photograph; b&amp;w; 5.5 x 4 in. (14 x 10.2 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.901.1003</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10509</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10510</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Signal Corps Man</dc:title>
+<dc:description>Photograph of an unidentified man at the Signal Corps School held on the Paul Smith&#x27;s campus.</dc:description>
+<dc:subject>United States. Army. Signal Corps</dc:subject>
+<dc:subject>Military &amp; War; People</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>1942?-1943?</dc:date>
+<dc:date>1942; 1943</dc:date>
+<dc:source>photograph; b&amp;w; 5.25 x 4 in. (13.3 x 10.2 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.901.1004</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10510</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10511</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Signal Corps Snowball</dc:title>
+<dc:description>Photograph of Joseph J. Bongiorni throwing a snowball at the Signal Corps School on the campus of the future Paul Smith&#x27;s College. Caption: &quot;The &#x27;Ace&#x27; in Action.&quot;</dc:description>
+<dc:subject>United States. Army. Signal Corps</dc:subject>
+<dc:subject>People; Military &amp; War; Recreation &amp; Sports</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>1942?-1943?</dc:date>
+<dc:date>1942; 1943</dc:date>
+<dc:source>photograph; b&amp;w; 5.75 x 3.5 in. (14.6 x 8.9 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.901.1005</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10511</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10512</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Signal Corps Radio Mathematics Class</dc:title>
+<dc:description>Photograph of a classroom at the Signal Corps School on the Paul Smith&#x27;s campus. Caption: &quot;Class in radio mathematics, Paul Smith&#x27;s. US Army Signal Corps Photo #6071.&quot;</dc:description>
+<dc:subject>United States. Army. Signal Corps; Classrooms; Students</dc:subject>
+<dc:subject>Military &amp; War; People; Education</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>1942?-1943?</dc:date>
+<dc:date>1942; 1943</dc:date>
+<dc:source>photograph; b&amp;w; 10 x 8 in. (25.4 x 20.3 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.901.1006</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10512</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10513</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Signal Corps School Ceremony</dc:title>
+<dc:description>Photograph of the ceremony held for the first group enrolled at the Signal Corps training school. Caption: &quot;First group of men are enrolled for training at Paul Smith&#x27;s Radio School - US Army Signal Corps Photo #6059.&quot;</dc:description>
+<dc:subject>United States. Army. Signal Corps; Students</dc:subject>
+<dc:subject>Military &amp; War; People; Education</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>1942?</dc:date>
+<dc:date>1942</dc:date>
+<dc:source>photograph; b&amp;w; 10 x 8 in. (25.4 x 20.3 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.901.1007</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10513</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10514</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Signal Corps School Radio Shop</dc:title>
+<dc:description>Photograph of trainees in the radio shop at the Signal Corps School. Caption: &quot;Radio Shop, Paul Smith&#x27;s - US Army Signal Corps Photo #6068.&quot;</dc:description>
+<dc:subject>United States. Army. Signal Corps; Classrooms; Students</dc:subject>
+<dc:subject>Military &amp; War; People; Education</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>1942?-1943?</dc:date>
+<dc:date>1942; 1943</dc:date>
+<dc:source>photograph; b&amp;w; 10 x 8 in. (25.4 x 20.3 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.901.1008</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10514</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10515</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Signal Corps School Classroom</dc:title>
+<dc:description>Photograph of a Signal Corps classroom at Paul Smith&#x27;s. Caption: &quot;Class in Radio Mathematics, Paul Smiths. US Army Signal Corps Photo #6070.&quot;</dc:description>
+<dc:subject>United States. Army. Signal Corps; Classrooms; Students</dc:subject>
+<dc:subject>People; Military &amp; War; Education</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>1942?-1943?</dc:date>
+<dc:date>1942; 1943</dc:date>
+<dc:source>photograph; b&amp;w; 10 x 8 in. (25.4 x 20.3 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.901.1009</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10515</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10516</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Signal Corps School Campus 2</dc:title>
+<dc:description>Photograph of possible dormitories on the campus at the Signal Corps School at Paul Smith&#x27;s, Photograph by Harold M. Eby.</dc:description>
+<dc:subject>United States. Army. Signal Corps; Buildings; Dormitories</dc:subject>
+<dc:subject>Architecture; Military &amp; War; Education</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>1943?</dc:date>
+<dc:date>1943</dc:date>
+<dc:source>photograph; b&amp;w; 10 x 8 in. (25.4 x 20.3 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.901.1209</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10516</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10517</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Signal Corps School 1</dc:title>
+<dc:description>Photograph of Privates Assael and Saland with unidentified men after receiving certificates of merit. Caption: &quot;Privates Assael and Saland receive certifications of merit for suggestions made to Picatinny Arsenal.&quot; Photograph by Harold M. Eby.</dc:description>
+<dc:subject>United States. Army. Signal Corps; Students</dc:subject>
+<dc:subject>Military &amp; War; Education; People</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>1943-01</dc:date>
+<dc:date>1943</dc:date>
+<dc:source>photograph; b&amp;w; 8 x 10 in. (20.3 x 25.4 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.901.1012</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10517</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10518</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Signal Corps School 2</dc:title>
+<dc:description>Photograph of Privates Assael and Saland with unidentified men after receiving certificates of merit. Caption: &quot;Paul Smith&#x27;s, January 1943 - Privates Assael and Saland receive certifications of merit for suggestions made to Picatinny Arsenal.&quot;</dc:description>
+<dc:subject>United States. Army. Signal Corps; Students</dc:subject>
+<dc:subject>People; Military &amp; War; Education</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>1943-01</dc:date>
+<dc:date>1943</dc:date>
+<dc:source>photograph; b&amp;w; 10 x 8 in. (25.4 x 20.3 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.901.1013</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10518</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10519</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Signal Corps School 3</dc:title>
+<dc:description>Photograph of Privates Assael and Saland after receiving certificates of merit. Caption: &quot;Paul Smith&#x27;s, January 1943 - Privates Assael and Saland receive certifications of merit for suggestions made to Picatinny Arsenal.&quot;</dc:description>
+<dc:subject>United States. Army. Signal Corps; Students</dc:subject>
+<dc:subject>Military &amp; War; Education; People</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>1943-01</dc:date>
+<dc:date>1943</dc:date>
+<dc:source>photograph; b&amp;w; 10 x 8 in. (25.4 x 20.3 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.901.1014</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10519</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10520</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Signal Corps School 4</dc:title>
+<dc:description>Photograph of Privates Assael and Saland after receiving certificates of merit. Caption: &quot;Privates Assael and Saland receive certifications of merit for suggestions made to Picatinny Arsenal.&quot; Photograph by Harold M. Eby.</dc:description>
+<dc:subject>United States. Army. Signal Corps; Students</dc:subject>
+<dc:subject>Military &amp; War; Education; People</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>1943-01</dc:date>
+<dc:date>1943</dc:date>
+<dc:source>photograph; b&amp;w; 10 x 8 in. (25.4 x 20.3 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.901.1015</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10520</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10521</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Signal Corps School Group</dc:title>
+<dc:description>Photograph of an unidentified group of people at the Signal Corps School at Paul Smith&#x27;s.</dc:description>
+<dc:subject>United States. Army. Signal Corps</dc:subject>
+<dc:subject>Military &amp; War; People</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>1943?</dc:date>
+<dc:date>1943</dc:date>
+<dc:source>photograph; b&amp;w; 10 x 5.25 in. (25.4 x 13.3 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.901.1016</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10521</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10522</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>WAAC/WAC Training School Radio Shop</dc:title>
+<dc:description>Photograph of WAAC/WAC trainees in the radio shop. Caption: &quot;Radio Shop, Paul Smith&#x27;s. US Army Signal Corps Photo #9018.&quot;</dc:description>
+<dc:subject>United States. Army. Women&#x27;s Army Auxiliary Corps; United States. Army. Signal Corps; Students; Women; United States. Army. Women&#x27;s Army Corps</dc:subject>
+<dc:subject>People; Education; Military &amp; War</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>1943?</dc:date>
+<dc:date>1943</dc:date>
+<dc:source>photograph; b&amp;w; 10 x 8 in. (25.4 x 20.3 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.901.1101</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10522</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10523</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>WAAC/WAC Training School Golfing</dc:title>
+<dc:description>Caption: &quot;WAAC Signal Corps Trainees at Paul Smith&#x27;s. Sinking the ball at the third hole, Paul Smith&#x27;s has excellent facilities for golf, tennis, and all other outdoor sports. These WAAC Signal Corps trainees release soldiers for combat duty. US Army Signal Corps Photo #9313.&quot;</dc:description>
+<dc:subject>United States. Army. Women&#x27;s Army Auxiliary Corps; United States. Army. Women&#x27;s Army Corps; United States. Army. Signal Corps; Students; Golf; Golfers</dc:subject>
+<dc:subject>Military &amp; War; Education; People; Recreation &amp; Sports</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>1943?</dc:date>
+<dc:date>1943</dc:date>
+<dc:source>photograph; b&amp;w; 10 x 8 in. (25.4 x 20.3 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.901.1102</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10523</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10524</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>WAAC/WAC Training School Code Class</dc:title>
+<dc:description>Caption: &quot;Class in code, Paul Smith&#x27;s. US Army Signal Corps Photo #9014.&quot;</dc:description>
+<dc:subject>United States. Army. Signal Corps; United States. Army. Women&#x27;s Army Auxiliary Corps; United States. Army. Women&#x27;s Army Corps; Classrooms; Students</dc:subject>
+<dc:subject>People; Military &amp; War; Education</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>1943?-1945?</dc:date>
+<dc:date>1943; 1944; 1945</dc:date>
+<dc:source>photograph; b&amp;w; 10 x 8 in. (25.4 x 20.3 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.901.1103</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10524</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:paulsmiths/10525</identifier><datestamp>2014-06-27</datestamp><setSpec>paulsmiths</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>WAAC/WAC Training School Lounge</dc:title>
+<dc:description>Photograph of WAAC/WAC trainees singing around a piano in the lounge at Paul Smith&#x27;s. Caption: &quot;Lounge, Paul Smiths. US Army Signal Corps Photo #9009.&quot;</dc:description>
+<dc:subject>United States. Army. Signal Corps; United States. Army. Women&#x27;s Army Auxiliary Corps; United States. Army. Women&#x27;s Army Corps; Students; Piano</dc:subject>
+<dc:subject>Military &amp; War; Recreation &amp; Sports</dc:subject>
+<dc:coverage>Paul Smiths (N.Y.)</dc:coverage>
+<dc:date>1943?-1945?</dc:date>
+<dc:date>1943; 1944; 1945</dc:date>
+<dc:source>photograph; b&amp;w; 10 x 8 in. (25.4 x 20.3 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1000.901.1107</dc:identifier>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/paulsmiths/id/10525</dc:identifier></oai_dc:dc>
+</metadata>
+</record><resumptionToken>paulsmiths:10526:paulsmiths:0000-00-00:9999-99-99:oai_dc</resumptionToken></ListRecords></OAI-PMH>

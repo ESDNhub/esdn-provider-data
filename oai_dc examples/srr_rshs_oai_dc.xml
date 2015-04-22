@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2014-12-04T20:45:40Z</responseDate><request verb="ListRecords" metadataPrefix="oai_dc" set="srr_rshs">http://cdm16694.contentdm.oclc.org/oai/oai.php</request><ListRecords><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_rshs/2</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_rshs</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Letter of Administration Regarding Estate of Roberts, Daniel R.</dc:title>
+<dc:description>The document indicates that since Dr. Daniel R. Roberts has died, his estate will be passed on to Jaine Roberts. It is signed by an individual named Bronson. It also indicates that a inventory of his possessions must be taken.</dc:description>
+<dc:creator>Walker, T. (Printer, Utica, New York)</dc:creator>
+<dc:subject>Documents; Inheritance &amp; succession;</dc:subject>
+<dc:subject>People</dc:subject>
+<dc:coverage>Vernon - Oneida County -  New York</dc:coverage>
+<dc:contributor>Roberts, Jaine.; Bronson, (?) (Witness)</dc:contributor>
+<dc:publisher>Walker, T. (Printer, Utica, New York)</dc:publisher>
+<dc:date>1820-10-02</dc:date>
+<dc:source>document; b&amp;w; 12.8 x 8 in. (32.512 x 20.32 cm.)</dc:source>
+<dc:type>Text</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>RSHC001</dc:identifier>
+<dc:relation>Welsh Community of Remsen Steuben</dc:relation>
+<dc:rights>To the best of their knowledge, all copyrights are owned by the Remsen Steuben Historical Society. Contact the Remsen Steuben Historical Society for information regarding reproduction of these images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_rshs/id/2</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_rshs/5</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_rshs</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Estate of Roberts, Daniel R., 1920-10-02</dc:title>
+<dc:description>The document details the items and value of Daniel R. Roberts&#x27; estate. An inventory is included.</dc:description>
+<dc:creator>Unknown</dc:creator>
+<dc:subject>Documents; Inheritance &amp; succession;</dc:subject>
+<dc:subject>People;</dc:subject>
+<dc:coverage>Steuben - Oneida County - New York</dc:coverage>
+<dc:date>1820-10-02</dc:date>
+<dc:source>document; b&amp;w; 25 x 8 in. (63.5 x 20.32 cm.)</dc:source>
+<dc:type>Text;</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>RSHC004</dc:identifier>
+<dc:relation>Welsh Community of Remsen Steuben</dc:relation>
+<dc:rights>To the best of their knowledge, all copyrights are owned by the Remsen Steuben Historical Society. Contact the Remsen Steuben Historical Society for information regarding reproduction of these images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_rshs/id/5</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_rshs/10</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_rshs</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Duplicate Copy of Estate Appraisal Document, Roberts, Jaine, 1840-12-18</dc:title>
+<dc:description>A duplicate of the original document detailing an inventory of Jaine Roberts&#x27; personal property. The document was created following her death in 1840.</dc:description>
+<dc:creator>Fuller, Rupert (Appraiser); Thomas, Robert (Appraiser)</dc:creator>
+<dc:subject>Documents; Inheritance &amp; succession;</dc:subject>
+<dc:subject>People;</dc:subject>
+<dc:coverage>Steuben - Oneida County - New York</dc:coverage>
+<dc:contributor>Roberts, William D. (Adminsitrator)</dc:contributor>
+<dc:date>1820-12-18</dc:date>
+<dc:source>document; b&amp;w; 12.7 x 8 in. (32.258 x 20.32 cm.)</dc:source>
+<dc:type>Text</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>RSHC007</dc:identifier>
+<dc:relation>Welsh Community of Remsen Steuben</dc:relation>
+<dc:rights>To the best of their knowledge, all copyrights are owned by the Remsen Steuben Historical Society. Contact the Remsen Steuben Historical Society for information regarding reproduction of these images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_rshs/id/10</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_rshs/12</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_rshs</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Marriage Certificate of Thomas, Robert and Richards, Anne, 1868-07-14</dc:title>
+<dc:description>The one-sided, black-and-white document is a Certificate of Marriage documenting the union between Robert Thomas and Anne Richards. The document indicates that both resided in Steuben, New York. It certifies that Morris J. Williams of the Morris J. Williams Baptist Ministry married the pair on 1968-07-14 in the Remsen Village. Evan Roberts and Jane Roberts, who both resided in Remsen, New York, acted as witnesses at the wedding. The document was created on 1969-03-23 in Trenton, New York, more commonly known as Barneveld, New York. Morris J. Williams signed the document. A pictoral depiction of a marriage ceremony is pictured above the text.</dc:description>
+<dc:creator>Oneida County, New York State</dc:creator>
+<dc:subject>Marriage certificates; Documents</dc:subject>
+<dc:subject>Community &amp; Events</dc:subject>
+<dc:coverage>Barneveld - Oneida County - New York</dc:coverage>
+<dc:contributor>Williams, Morris J.</dc:contributor>
+<dc:date>1869-03-23</dc:date>
+<dc:source>document; b&amp;w; 14.5 x 12 in. (36.83 x 30.48 cm.)</dc:source>
+<dc:type>Text</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>RSHC012</dc:identifier>
+<dc:relation>Welsh Community of Remsen Steuben</dc:relation>
+<dc:rights>To the best of their knowledge, all copyrights are owned by the Remsen Steuben Historical Society. Contact the Remsen Steuben Historical Society for information regarding reproduction of these images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_rshs/id/12</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_rshs/14</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_rshs</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Certificate of American Citizenship, Roberts, William D., 1939-06-10</dc:title>
+<dc:description>The one-sided, black-and-white document is a certificate that certifies that William D. Roberts is considered to be a citizen of the United States of America. Roberts had to agree to renounce the queen of the United Kingdom of Great Britain and Ireland before he could become a citizen, given he was formerly a Welsh citizen.</dc:description>
+<dc:creator>Oneida County, State of New York</dc:creator>
+<dc:subject>Citizenship; Documents</dc:subject>
+<dc:subject>People</dc:subject>
+<dc:coverage>Oneida County - New York</dc:coverage>
+<dc:date>1839-06-10</dc:date>
+<dc:source>document; b&amp;w; 9.7 x 8 in. (24.638 x 20.32 cm.)</dc:source>
+<dc:type>Text</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>RSHC013</dc:identifier>
+<dc:relation>Welsh Community of Remsen Steuben</dc:relation>
+<dc:rights>To the best of their knowledge, all copyrights are owned by the Remsen Steuben Historical Society. Contact the Remsen Steuben Historical Society for information regarding reproduction of these images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_rshs/id/14</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_rshs/19</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_rshs</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Bank Document for Savings Bank of Utica, Belonging to Roberts, William D., 1844-02-23</dc:title>
+<dc:description>The two-sided, two page document is an abstract including summaries of various bank documents.</dc:description>
+<dc:creator>Savings Bank of Utica, Utica, New York</dc:creator>
+<dc:subject>Banking</dc:subject>
+<dc:subject>Daily Life</dc:subject>
+<dc:coverage>Utica - Oneida County - New York</dc:coverage>
+<dc:date>1844-02-23</dc:date>
+<dc:source>document; b&amp;w; 12.5 x 8 in. (31.75 x 20.32 cm.)</dc:source>
+<dc:type>Text</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>RSHC014</dc:identifier>
+<dc:relation>Welsh Community of Remsen Steuben</dc:relation>
+<dc:rights>To the best of their knowledge, all copyrights are owned by the Remsen Steuben Historical Society. Contact the Remsen Steuben Historical Society for information regarding reproduction of these images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_rshs/id/19</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_rshs/24</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_rshs</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Warranty Land Deed, Richards, Richard; Richards, John, 1835-10-16</dc:title>
+<dc:description>This land deed details an agreement made between many parties.</dc:description>
+<dc:creator>Williams, William (Merchant)</dc:creator>
+<dc:subject>Land; Documents;</dc:subject>
+<dc:subject>Daily Life;</dc:subject>
+<dc:coverage>Utica - Oneida County - New York</dc:coverage>
+<dc:contributor>Richards, Owen (Signature); Richards, Richard (Signature); (?), David (Signature); (?), William (Signature)</dc:contributor>
+<dc:publisher>Williams, William (Merchant)</dc:publisher>
+<dc:date>1835-10-16</dc:date>
+<dc:source>document; b&amp;w; 17 x 10.75 in. (43.18 x 27.305 cm.)</dc:source>
+<dc:type>Text</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>RSHC019</dc:identifier>
+<dc:relation>Welsh Community of Remsen Steuben</dc:relation>
+<dc:rights>To the best of their knowledge, all copyrights are owned by the Remsen Steuben Historical Society. Contact the Remsen Steuben Historical Society for information regarding reproduction of these images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_rshs/id/24</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_rshs/27</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_rshs</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Wartime Correspondence, Roberts, Daniel Collection</dc:title>
+<dc:description>This letter is written by a solider who is sending money home. He discusses his battalion&#x27;s plans.</dc:description>
+<dc:creator>Unknown</dc:creator>
+<dc:subject>Civil wars; War; Documents</dc:subject>
+<dc:subject>Military &amp; War</dc:subject>
+<dc:source>document; b&amp;w; 7.9 x 5.3 in. (20.066 x 13.462 cm.)</dc:source>
+<dc:type>Text</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>RSHC026</dc:identifier>
+<dc:relation>Welsh Community of Remsen Steuben</dc:relation>
+<dc:rights>To the best of their knowledge, all copyrights are owned by the Remsen Steuben Historical Society. Contact the Remsen Steuben Historical Society for information regarding reproduction of these images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_rshs/id/27</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_rshs/30</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_rshs</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Bond Document for Roberts, William D., 1844-02-23</dc:title>
+<dc:description>The document is a bond from the Utica Savings Bank. It is for the amount of 200 dollars at a rate of seven percent. It is labeled No. 30.</dc:description>
+<dc:creator>The Savings Bank of Utica</dc:creator>
+<dc:subject>Documents; Bonds (negotiable instruments)</dc:subject>
+<dc:subject>Daily Life;</dc:subject>
+<dc:coverage>Utica - Oneida County - New York</dc:coverage>
+<dc:contributor>Roberts, William D. (Signature); Owens, O. (Witness)</dc:contributor>
+<dc:publisher>The Savings Bank of Utica</dc:publisher>
+<dc:date>1844-02-23</dc:date>
+<dc:source>document; b&amp;w; 9.5 x 7.8 in. (24.13 x 19.812 cm.)</dc:source>
+<dc:type>Text</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>RSHC033</dc:identifier>
+<dc:relation>Welsh Community of Remsen Steuben</dc:relation>
+<dc:rights>To the best of their knowledge, all copyrights are owned by the Remsen Steuben Historical Society. Contact the Remsen Steuben Historical Society for information regarding reproduction of these images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_rshs/id/30</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_rshs/35</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_rshs</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Note Concerning Property Written by Richards, Owen B. and Richards, Anne, 1930</dc:title>
+<dc:description>The note is written by Owen B. Richards on the topic of property. His wife&#x27;s name, Anne Richards, is also included on the document. The note was &quot;Signed sealed and delivered&quot; in the care of D. J. Richards.</dc:description>
+<dc:creator>Richards, Owen B.</dc:creator>
+<dc:subject>Documents; Land</dc:subject>
+<dc:subject>Daily Life;</dc:subject>
+<dc:contributor>Richards, Anne</dc:contributor>
+<dc:date>1930</dc:date>
+<dc:source>correspondence; b&amp;w; 12.5 x 7.8 in. (31.75 x 19.812 cm.)</dc:source>
+<dc:type>Text</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>RSHC036</dc:identifier>
+<dc:relation>Welsh Community of Remsen Steuben</dc:relation>
+<dc:rights>To the best of their knowledge, all copyrights are owned by the Remsen Steuben Historical Society. Contact the Remsen Steuben Historical Society for information regarding reproduction of these images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_rshs/id/35</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_rshs/38</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_rshs</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Mortgage Agreement, 1840-03-28</dc:title>
+<dc:description>The black-and-white document is a mortgage agreement  between William D. Roberts, Mary Roberts, and Griffith E. Griffiths.</dc:description>
+<dc:creator>Northway, R. Jr. (Printer)</dc:creator>
+<dc:subject>Mortgages; Documents</dc:subject>
+<dc:subject>Daily Life;</dc:subject>
+<dc:coverage>Steuben - Oneida County - New York</dc:coverage>
+<dc:contributor>Roberts, William D.; Roberts, Mary D.</dc:contributor>
+<dc:date>1840-03-28</dc:date>
+<dc:source>document; b&amp;w; 14 x 17 in. (35.56 x 43.18 cm.)</dc:source>
+<dc:type>Text;</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>RSHC043</dc:identifier>
+<dc:relation>Welsh Community of Remsen Steuben</dc:relation>
+<dc:rights>To the best of their knowledge, all copyrights are owned by the Remsen Steuben Historical Society. Contact the Remsen Steuben Historical Society for information regarding reproduction of these images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_rshs/id/38</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_rshs/41</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_rshs</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Deed, 1844-03-09</dc:title>
+<dc:description>The black-and-white document is a deed of sale.</dc:description>
+<dc:creator>Walker &amp; Lake</dc:creator>
+<dc:subject>Documents</dc:subject>
+<dc:subject>Daily Life;</dc:subject>
+<dc:date>1844-03-09</dc:date>
+<dc:source>document; b&amp;w; 12.5 x 8 in. (31.75 x 20.32 cm.)</dc:source>
+<dc:type>Text;</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>RSHC046</dc:identifier>
+<dc:relation>Welsh Community of Remsen Steuben</dc:relation>
+<dc:rights>To the best of their knowledge, all copyrights are owned by the Remsen Steuben Historical Society. Contact the Remsen Steuben Historical Society for information regarding reproduction of these images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_rshs/id/41</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_rshs/42</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_rshs</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Document Certifying Enlistment of Roberts, Daniel D.</dc:title>
+<dc:description>Document reads, &quot;This may certify that William D. Roberts has enlisted into the company of light infantry to which I have the command and equipt as the law directs in the 72 Regiment (?) Sixth 183&quot; It is signed by Joseph Jones (Captain).</dc:description>
+<dc:creator>Jones, Joseph (Captain)</dc:creator>
+<dc:subject>Civil wars; War; Documents</dc:subject>
+<dc:subject>Military &amp; War</dc:subject>
+<dc:coverage>Steuben - Oneida County - New York</dc:coverage>
+<dc:source>document; b&amp;w; 3.1 x 7.3 in. (7.874 x 18.542 cm.)</dc:source>
+<dc:type>Text</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>SRR025</dc:identifier>
+<dc:relation>Welsh Community of Remsen Steuben</dc:relation>
+<dc:rights>To the best of their knowledge, all copyrights are owned by the Remsen Steuben Historical Society. Contact the Remsen Steuben Historical Society for information regarding reproduction of these images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_rshs/id/42</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_rshs/43</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_rshs</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Receipt Indicating Fulfillment of the Will of Roberts, Jaine, 1841-10-28</dc:title>
+<dc:description>The document indicates that Griffith E. Griffiths and James Davis received the goods and money left to them in Jaine Roberts&#x27; will. The document indicates that William D. Roberts was the executor of Jaine Roberts&#x27; estate. Griffith E. Griffiths and James Davis signed the document.</dc:description>
+<dc:creator>Roberts, William D. (Executor)</dc:creator>
+<dc:subject>Estates; Wills; Documents;</dc:subject>
+<dc:subject>People</dc:subject>
+<dc:coverage>Steuben - Oneida County - New York</dc:coverage>
+<dc:contributor>Griffiths, Griffith E. (Signature); Davis, James (Signature)</dc:contributor>
+<dc:date>1841-10-28</dc:date>
+<dc:source>document; b&amp;w; 7.4 x 7.9 in. (18.796 x 20.066 cm.)</dc:source>
+<dc:type>Text</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>RSHC024</dc:identifier>
+<dc:relation>Welsh Community of Remsen Steuben</dc:relation>
+<dc:rights>To the best of their knowledge, all copyrights are owned by the Remsen Steuben Historical Society. Contact the Remsen Steuben Historical Society for information regarding reproduction of these images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_rshs/id/43</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_rshs/44</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_rshs</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Wartime Correspondence From Roberts, Daniel, 1862-09-12</dc:title>
+<dc:description>This letter is written by Daniel Roberts to someone at home. It is addressed to the Madison Barracks. It discusses money that will be sent to them, plans for the battalion to travel, and the clothes he is sending to them.</dc:description>
+<dc:creator>Roberts, Daniel.</dc:creator>
+<dc:subject>Civil wars; War; Correspondence</dc:subject>
+<dc:subject>Military &amp; War</dc:subject>
+<dc:coverage>Washington - District of Columbia</dc:coverage>
+<dc:date>1862-09-12</dc:date>
+<dc:source>correspondence; b&amp;w; 8.2 x 10.3 in. (20.828 x 26.162 cm.)</dc:source>
+<dc:type>Text</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>RSHC029</dc:identifier>
+<dc:relation>Welsh Community of Remsen Steuben</dc:relation>
+<dc:rights>To the best of their knowledge, all copyrights are owned by the Remsen Steuben Historical Society. Contact the Remsen Steuben Historical Society for information regarding reproduction of these images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_rshs/id/44</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_rshs/45</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_rshs</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Reward of Merit, Roberts, Daniel</dc:title>
+<dc:description>The small document is a &quot;Reward of Merit Presented to Mr. Daniel Roberts By Laura Thomas.&quot; &quot;Mr. Daniel Roberts&quot; and &quot;Laura Thomas&quot; are written in on the printed document by an unknown party. The top of the doucment pictures a hunter holding a spear, who is a accompanied by a dog.</dc:description>
+<dc:creator>Unknown</dc:creator>
+<dc:subject>Certificates; Hunting; Hunting dogs;</dc:subject>
+<dc:subject>Recreation &amp; Sports</dc:subject>
+<dc:source>document; b&amp;w; 2.9 x 3.8 in. (7.366 x 9.652 cm.)</dc:source>
+<dc:type>Text</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>RSHC030</dc:identifier>
+<dc:relation>Welsh Community of Remsen Steuben</dc:relation>
+<dc:rights>To the best of their knowledge, all copyrights are owned by the Remsen Steuben Historical Society. Contact the Remsen Steuben Historical Society for information regarding reproduction of these images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_rshs/id/45</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_rshs/46</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_rshs</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Genealogical Chart of Roberts, Daniel R.&#x27;s Descendants</dc:title>
+<dc:description>This document depicts the family tree of Daniel R. Roberts beginning with him and his wife Jaine, to the present day.</dc:description>
+<dc:creator>Remsen Steuben Historical Society</dc:creator>
+<dc:subject>Family trees</dc:subject>
+<dc:subject>People</dc:subject>
+<dc:coverage>Steuben - Oneida County - New York</dc:coverage>
+<dc:source>document; b&amp;w; 15.3 x 21 in. (38.862 x 53.34 cm.)</dc:source>
+<dc:type>Text</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>RSHC031</dc:identifier>
+<dc:relation>Welsh Community of Remsen Steuben</dc:relation>
+<dc:rights>To the best of their knowledge, all copyrights are owned by the Remsen Steuben Historical Society. Contact the Remsen Steuben Historical Society for information regarding reproduction of these images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_rshs/id/46</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_rshs/47</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_rshs</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Wartime Correspondence From Wilder, Henry B. to Roberts, William D.</dc:title>
+<dc:description>The letter is written by Wilder, Henry B. to Roberts, William D. Wilder. Wilder responds to Roberts&#x27; inquiry regarding Daniel&#x27;s wages. He also notes that Daniel is the &quot;same as before.&quot; Wilder inquires to Roberts about where William is and what he is doing.</dc:description>
+<dc:creator>Wilder, Henry B. (Servant and Captain)</dc:creator>
+<dc:subject>Correspondence; Wages</dc:subject>
+<dc:subject>Daily Life;</dc:subject>
+<dc:source>correspondence; b&amp;w; 6 x 10.5 in. (15.24 x 26.67 cm.)</dc:source>
+<dc:type>Text</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>RSHC032</dc:identifier>
+<dc:relation>Welsh Community of Remsen Steuben</dc:relation>
+<dc:rights>To the best of their knowledge, all copyrights are owned by the Remsen Steuben Historical Society. Contact the Remsen Steuben Historical Society for information regarding reproduction of these images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_rshs/id/47</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_rshs/48</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_rshs</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Marble Headstone Receipt, Utica, New York, 1863-07-22</dc:title>
+<dc:description>The receipt indicates a marble headstone was purchased from Lewis L. Lewis Wholesale Dealer in Foreign and American Marbles, 21 and 23 Bleeker St., Utica. The receipt is made out a Mr. W. D. Roberts and is dated 1863-07-22. The amount purchased is &quot;1 Marble Headstone&quot; for &quot;$35-&quot;. The receipt notes that the payment was received.</dc:description>
+<dc:creator>Unknown</dc:creator>
+<dc:subject>Estates; Marble; Graves</dc:subject>
+<dc:subject>Business &amp; Industry;</dc:subject>
+<dc:coverage>Utica - Oneida County - New York</dc:coverage>
+<dc:date>1863-07-22</dc:date>
+<dc:source>document; b&amp;w; 4.8 x 8.5 in. (12.192 x 21.59 cm.)</dc:source>
+<dc:type>Text</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>RSHC041</dc:identifier>
+<dc:relation>Welsh Community of Remsen Steuben</dc:relation>
+<dc:rights>To the best of their knowledge, all copyrights are owned by the Remsen Steuben Historical Society. Contact the Remsen Steuben Historical Society for information regarding reproduction of these images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_rshs/id/48</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:srr_rshs/49</identifier><datestamp>2013-11-20</datestamp><setSpec>srr_rshs</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Dr. Roberts&#x27; Welsh Medicamentum Broadside, 1830</dc:title>
+<dc:description>The black-and-white broadside is an advertisement for Dr. Roberts&#x27; medicine. The broadside indicates the benefits of his medicine, what it cures, and where it can be purchased. The medicine, &quot;cures indigestion or despepsia, liver complaints, jaundice, cholic, fever &amp; ague, dysentary, headache, loss of appetite, flatulence, hypochondria, hysterics, dropsy, &amp; heartburn.&quot; The document indicates that M. Hitchcock acted as Dr. Roberts&#x27; agent. Dr. Roberts&#x27; medicines are &quot;Sold in Albany by R.M. Meigs, Druggist 466 South Market-street.&quot;</dc:description>
+<dc:creator>Old Print Shop Farmers&#x27; Museum</dc:creator>
+<dc:subject>Medicines; Sick persons;</dc:subject>
+<dc:subject>Business &amp; Industry;</dc:subject>
+<dc:date>1830</dc:date>
+<dc:source>broadside; b&amp;w; 11 x 8 in. (27.94 x 20.32 cm.)</dc:source>
+<dc:type>Text</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>RSHC042</dc:identifier>
+<dc:relation>Welsh Community of Remsen Steuben</dc:relation>
+<dc:rights>To the best of their knowledge, all copyrights are owned by the Remsen Steuben Historical Society. Contact the Remsen Steuben Historical Society for information regarding reproduction of these images.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/srr_rshs/id/49</dc:identifier></oai_dc:dc>
+</metadata>
+</record></ListRecords></OAI-PMH>

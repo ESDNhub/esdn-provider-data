@@ -1,0 +1,984 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2015-01-08T18:15:26Z</responseDate><request>http://dcmnystage.metro.dgicloud.com/oai2</request><ListRecords><record><header><identifier>oai:dcmny.org:zoomaps_82</identifier><datestamp>2014-10-08T17:34:57Z</datestamp><setSpec>zoomaps_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Final plan for the development of the New York Zoological Park as presented by the New York Zoological Society, in 1897</title>
+  </titleInfo>
+  <subject>
+    <geographic>Bronx (New York, N.Y.)</geographic>
+  </subject>
+  <subject>
+    <cartographics>
+      <scale>Scale 1:3,600</scale>
+    </cartographics>
+  </subject>
+  <name type="corporate">
+    <namePart>Matthews-Northrup Co.</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrealtor">Printer</roleTerm>
+    </role>
+  </name>
+  <relatedItem displayLabel="Appears in" type="host">
+    <note>Second Annual Report of the New York Zoological Society, 1898</note>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Wildlife Conservation Society Archives Collection 2016</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Digitized by Wildlife Conservation Society Archives</note>
+  <accessCondition type="use and reproduction">For rights and permissions, please contact the Wildlife Conservation Society Archives, library@wcs.org</accessCondition>
+  <typeOfResource>cartographic</typeOfResource>
+  <identifier type="local">2016-map-002</identifier>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <subject>
+    <topic>Bronx Zoo</topic>
+  </subject>
+  <subject>
+    <topic>Bronx Zoo--Maps, pictorial</topic>
+  </subject>
+  <originInfo>
+    <publisher>New York Zoological Society</publisher>
+    <dateIssued encoding="iso8601">1898</dateIssued>
+  </originInfo>
+  <physicalDescription>
+    <extent>1 map: color ; 37 x 47 cm, folded to 24 x 14 cm</extent>
+    <note type="condition">Torn along folds.</note>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmnystage.metro.dgicloud.com/islandora/object/zoomaps%3A82</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:zoomaps_84</identifier><datestamp>2014-10-08T17:34:57Z</datestamp><setSpec>zoomaps_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Map of the New York Zoological Park, as far as completed</title>
+  </titleInfo>
+  <subject>
+    <geographic>Bronx (New York, N.Y.)</geographic>
+  </subject>
+  <subject>
+    <cartographics>
+      <scale>Scale 1:6,400</scale>
+    </cartographics>
+  </subject>
+  <relatedItem displayLabel="Appears in" type="host">
+    <note>Popular official guide to the New York Zoological Park, 3rd ed., 1900</note>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Wildlife Conservation Society Archives Collection 2016</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Digitized by Wildlife Conservation Society Archives</note>
+  <accessCondition type="use and reproduction">For rights and permissions, please contact the Wildlife Conservation Society Archives, library@wcs.org</accessCondition>
+  <typeOfResource>cartographic</typeOfResource>
+  <identifier type="local">2016-map-004</identifier>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <subject>
+    <topic>Bronx Zoo</topic>
+  </subject>
+  <subject>
+    <topic>Bronx Zoo--Maps, pictorial</topic>
+  </subject>
+  <originInfo>
+    <publisher>New York Zoological Society</publisher>
+    <dateIssued encoding="iso8601">1899</dateIssued>
+  </originInfo>
+  <physicalDescription>
+    <extent>1 map: color ; 21 x 28 cm, folded to 14 x 21 cm</extent>
+    <note type="condition"/>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmnystage.metro.dgicloud.com/islandora/object/zoomaps%3A84</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:zoomaps_92</identifier><datestamp>2014-10-08T17:34:59Z</datestamp><setSpec>zoomaps_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Bronx Zoo map/tour</title>
+  </titleInfo>
+  <subject>
+    <geographic>Bronx (New York, N.Y.)</geographic>
+  </subject>
+  <subject>
+    <cartographics>
+      <scale>Scale 1:4,364</scale>
+    </cartographics>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Wildlife Conservation Society Archives Collection 2016</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Digitized by Wildlife Conservation Society Archives</note>
+  <accessCondition type="use and reproduction">For rights and permissions, please contact the Wildlife Conservation Society Archives, library@wcs.org</accessCondition>
+  <typeOfResource>cartographic</typeOfResource>
+  <identifier type="local">2016-map-013</identifier>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <subject>
+    <topic>Bronx Zoo</topic>
+  </subject>
+  <subject>
+    <topic>Bronx Zoo--Maps, pictorial</topic>
+  </subject>
+  <originInfo>
+    <publisher>New York Zoological Society</publisher>
+    <dateIssued encoding="iso8601">1978-1979</dateIssued>
+  </originInfo>
+  <physicalDescription>
+    <extent>1 map: color ; 36 x 43 cm, folded to 9 x 22 cm</extent>
+    <note type="condition">Upper right corner of map missing; pen and pencil marks throughout.</note>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmnystage.metro.dgicloud.com/islandora/object/zoomaps%3A92</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:zoomaps_88</identifier><datestamp>2014-10-08T17:34:59Z</datestamp><setSpec>zoomaps_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>New York Zoological Park</title>
+  </titleInfo>
+  <subject>
+    <geographic>Bronx (New York, N.Y.)</geographic>
+  </subject>
+  <subject>
+    <cartographics>
+      <scale>Scale 1:6,400</scale>
+    </cartographics>
+  </subject>
+  <name type="personal">
+    <namePart>Beerbower, G. M.</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrealtor">Engineer</roleTerm>
+    </role>
+  </name>
+  <relatedItem displayLabel="Appears in" type="host">
+    <note>Official guide to the New York Zoological Park, 22nd ed., 1930</note>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Wildlife Conservation Society Archives Collection 2016</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Digitized by Wildlife Conservation Society Archives</note>
+  <accessCondition type="use and reproduction">For rights and permissions, please contact the Wildlife Conservation Society Archives, library@wcs.org</accessCondition>
+  <typeOfResource>cartographic</typeOfResource>
+  <identifier type="local">2016-map-008</identifier>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <subject>
+    <topic>Bronx Zoo</topic>
+  </subject>
+  <subject>
+    <topic>Bronx Zoo--Maps, pictorial</topic>
+  </subject>
+  <originInfo>
+    <publisher>New York Zoological Society</publisher>
+    <dateIssued encoding="iso8601">1907</dateIssued>
+  </originInfo>
+  <physicalDescription>
+    <extent>1 map: color ; 21 x 28 cm, folded to 14 x 21 cm</extent>
+    <note type="condition"/>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmnystage.metro.dgicloud.com/islandora/object/zoomaps%3A88</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:zoomaps_93</identifier><datestamp>2014-10-08T17:34:59Z</datestamp><setSpec>zoomaps_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Bronx Zoo</title>
+  </titleInfo>
+  <abstract>Features giraffe illustration on folded cover.</abstract>
+  <note type="dateuncontrolled">ca. 1980s</note>
+  <subject>
+    <geographic>Bronx (New York, N.Y.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Wildlife Conservation Society Archives Collection 2016</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Digitized by Wildlife Conservation Society Archives</note>
+  <accessCondition type="use and reproduction">For rights and permissions, please contact the Wildlife Conservation Society Archives, library@wcs.org</accessCondition>
+  <typeOfResource>cartographic</typeOfResource>
+  <identifier type="local">2016-map-014</identifier>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <subject>
+    <topic>Bronx Zoo</topic>
+  </subject>
+  <subject>
+    <topic>Bronx Zoo--Maps, pictorial</topic>
+  </subject>
+  <subject>
+    <topic>Zoo animals</topic>
+  </subject>
+  <subject>
+    <topic>Giraffe</topic>
+  </subject>
+  <originInfo>
+    <publisher>New York Zoological Society</publisher>
+  </originInfo>
+  <physicalDescription>
+    <extent>1 map: color ; 41 x 32 cm, folded to 8 x 16 cm</extent>
+    <note type="condition"/>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmnystage.metro.dgicloud.com/islandora/object/zoomaps%3A93</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:zoomaps_96</identifier><datestamp>2014-10-08T17:35:00Z</datestamp><setSpec>zoomaps_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Bronx Zoo</title>
+  </titleInfo>
+  <abstract>Features New York Zoological Society logo on folded cover.</abstract>
+  <note type="dateuncontrolled">ca. 1980s</note>
+  <subject>
+    <geographic>Bronx (New York, N.Y.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Wildlife Conservation Society Archives Collection 2016</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Digitized by Wildlife Conservation Society Archives</note>
+  <accessCondition type="use and reproduction">For rights and permissions, please contact the Wildlife Conservation Society Archives, library@wcs.org</accessCondition>
+  <typeOfResource>cartographic</typeOfResource>
+  <identifier type="local">2016-map-017</identifier>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <subject>
+    <topic>Bronx Zoo</topic>
+  </subject>
+  <subject>
+    <topic>Bronx Zoo--Maps, pictorial</topic>
+  </subject>
+  <originInfo>
+    <publisher>New York Zoological Society</publisher>
+  </originInfo>
+  <physicalDescription>
+    <extent>1 map: color ; 43 x 33 cm, folded to 9 x 16 cm</extent>
+    <note type="condition"/>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmnystage.metro.dgicloud.com/islandora/object/zoomaps%3A96</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:zoomaps_95</identifier><datestamp>2014-10-08T17:35:00Z</datestamp><setSpec>zoomaps_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Bronx Zoo map/tour</title>
+  </titleInfo>
+  <abstract>Features polar bear illustration by George Gershinowitz on folded cover.</abstract>
+  <note type="dateuncontrolled">ca. 1970s-1980s</note>
+  <subject>
+    <geographic>Bronx (New York, N.Y.)</geographic>
+  </subject>
+  <subject>
+    <cartographics>
+      <scale>Scale 1:4,364</scale>
+    </cartographics>
+  </subject>
+  <name type="personal">
+    <namePart>Gershinowitz, George</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrealtor">Illustrator</roleTerm>
+    </role>
+  </name>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Wildlife Conservation Society Archives Collection 2016</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Digitized by Wildlife Conservation Society Archives</note>
+  <accessCondition type="use and reproduction">For rights and permissions, please contact the Wildlife Conservation Society Archives, library@wcs.org</accessCondition>
+  <typeOfResource>cartographic</typeOfResource>
+  <identifier type="local">2016-map-016</identifier>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <subject>
+    <topic>Bronx Zoo</topic>
+  </subject>
+  <subject>
+    <topic>Bronx Zoo--Maps, pictorial</topic>
+  </subject>
+  <subject>
+    <topic>Zoo animals</topic>
+  </subject>
+  <subject>
+    <topic>Polar bear</topic>
+  </subject>
+  <originInfo>
+    <publisher>New York Zoological Society</publisher>
+  </originInfo>
+  <physicalDescription>
+    <extent>1 map: color ; 43 x 35 cm, folded to 9 x 22 cm</extent>
+    <note type="condition"/>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmnystage.metro.dgicloud.com/islandora/object/zoomaps%3A95</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:zoomaps_91</identifier><datestamp>2014-10-08T17:35:01Z</datestamp><setSpec>zoomaps_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Map of the Bronx Zoo</title>
+  </titleInfo>
+  <note type="dateuncontrolled">ca. 1960s</note>
+  <subject>
+    <geographic>Bronx (New York, N.Y.)</geographic>
+  </subject>
+  <subject>
+    <cartographics>
+      <scale>Scale 1:4,364</scale>
+    </cartographics>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Wildlife Conservation Society Archives Collection 2016</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Digitized by Wildlife Conservation Society Archives</note>
+  <accessCondition type="use and reproduction">For rights and permissions, please contact the Wildlife Conservation Society Archives, library@wcs.org</accessCondition>
+  <typeOfResource>cartographic</typeOfResource>
+  <identifier type="local">2016-map-012</identifier>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <subject>
+    <topic>Bronx Zoo</topic>
+  </subject>
+  <subject>
+    <topic>Bronx Zoo--Maps, pictorial</topic>
+  </subject>
+  <subject>
+    <topic>Zoo animals</topic>
+  </subject>
+  <subject>
+    <topic>African Plains</topic>
+  </subject>
+  <subject>
+    <topic>Children's Zoo</topic>
+  </subject>
+  <subject>
+    <topic>Okapi</topic>
+  </subject>
+  <subject>
+    <topic>Penguins</topic>
+  </subject>
+  <subject>
+    <topic>Elephants</topic>
+  </subject>
+  <name type="personal">
+    <namePart>Sandford, Lloyd</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrealtor">Illustrator</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Schoenherr, John</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrealtor">Illustrator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <publisher>New York Zoological Society</publisher>
+  </originInfo>
+  <physicalDescription>
+    <extent>1 map: color ; 21 x 46 cm, folded to 10 x 23 cm</extent>
+    <note type="condition"/>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmnystage.metro.dgicloud.com/islandora/object/zoomaps%3A91</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:zoomaps_94</identifier><datestamp>2014-10-08T17:35:00Z</datestamp><setSpec>zoomaps_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Bronx Zoo map/tour</title>
+  </titleInfo>
+  <abstract>Features fennec fox illustration on folded cover.</abstract>
+  <note type="dateuncontrolled">ca. 1970s-80s</note>
+  <subject>
+    <geographic>Bronx (New York, N.Y.)</geographic>
+  </subject>
+  <subject>
+    <cartographics>
+      <scale>Scale 1:4,364</scale>
+    </cartographics>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Wildlife Conservation Society Archives Collection 2016</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Digitized by Wildlife Conservation Society Archives</note>
+  <accessCondition type="use and reproduction">For rights and permissions, please contact the Wildlife Conservation Society Archives, library@wcs.org</accessCondition>
+  <typeOfResource>cartographic</typeOfResource>
+  <identifier type="local">2016-map-015</identifier>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <subject>
+    <topic>Bronx Zoo</topic>
+  </subject>
+  <subject>
+    <topic>Bronx Zoo--Maps, pictorial</topic>
+  </subject>
+  <subject>
+    <topic>Zoo animals</topic>
+  </subject>
+  <subject>
+    <topic>Foxes</topic>
+  </subject>
+  <subject>
+    <topic>Fennec</topic>
+  </subject>
+  <originInfo>
+    <publisher>New York Zoological Society</publisher>
+  </originInfo>
+  <physicalDescription>
+    <extent>1 map: color ; 43 x 36 cm, folded to 9 x 18 cm</extent>
+    <note type="condition"/>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmnystage.metro.dgicloud.com/islandora/object/zoomaps%3A94</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:zoomaps_83</identifier><datestamp>2014-10-08T17:34:57Z</datestamp><setSpec>zoomaps_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Map of the New York Zoological Park, as far as completed</title>
+  </titleInfo>
+  <subject>
+    <geographic>Bronx (New York, N.Y.)</geographic>
+  </subject>
+  <subject>
+    <cartographics>
+      <scale>Scale 1:6,400</scale>
+    </cartographics>
+  </subject>
+  <relatedItem displayLabel="Appears in" type="host">
+    <note>Popular official guide to the New York Zoological Park, 1st ed., 1899</note>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Wildlife Conservation Society Archives Collection 2016</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Digitized by Wildlife Conservation Society Archives</note>
+  <accessCondition type="use and reproduction">For rights and permissions, please contact the Wildlife Conservation Society Archives, library@wcs.org</accessCondition>
+  <typeOfResource>cartographic</typeOfResource>
+  <identifier type="local">2016-map-003</identifier>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <subject>
+    <topic>Bronx Zoo</topic>
+  </subject>
+  <subject>
+    <topic>Bronx Zoo--Maps, pictorial</topic>
+  </subject>
+  <originInfo>
+    <publisher>New York Zoological Society</publisher>
+    <dateIssued encoding="iso8601">1899</dateIssued>
+  </originInfo>
+  <physicalDescription>
+    <extent>1 map: b&amp;w ; 21 x 28 cm, folded to 14 x 21 cm</extent>
+    <note type="condition"/>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmnystage.metro.dgicloud.com/islandora/object/zoomaps%3A83</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:zoomaps_98</identifier><datestamp>2014-10-08T17:35:01Z</datestamp><setSpec>zoomaps_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Bronx Zoo</title>
+  </titleInfo>
+  <subject>
+    <geographic>Bronx (New York, N.Y.)</geographic>
+  </subject>
+  <relatedItem displayLabel="Appears in" type="host">
+    <note>Bronx Zoo's Paper: Fall/Winter 1989</note>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Wildlife Conservation Society Archives Collection 2016</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Digitized by Wildlife Conservation Society Archives</note>
+  <accessCondition type="use and reproduction">For rights and permissions, please contact the Wildlife Conservation Society Archives, library@wcs.org</accessCondition>
+  <typeOfResource>cartographic</typeOfResource>
+  <identifier type="local">2016-map-019</identifier>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <subject>
+    <topic>Bronx Zoo</topic>
+  </subject>
+  <subject>
+    <topic>Bronx Zoo--Maps, pictorial</topic>
+  </subject>
+  <originInfo>
+    <dateIssued encoding="iso8601">1989</dateIssued>
+  </originInfo>
+  <physicalDescription>
+    <extent>1 map: color ; 45 x 58 cm, folded to 29 x 23 cm</extent>
+    <note type="condition"/>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmnystage.metro.dgicloud.com/islandora/object/zoomaps%3A98</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:zoomaps_89</identifier><datestamp>2014-10-08T17:34:59Z</datestamp><setSpec>zoomaps_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>New York Zoological Park</title>
+  </titleInfo>
+  <subject>
+    <geographic>Bronx (New York, N.Y.)</geographic>
+  </subject>
+  <subject>
+    <cartographics>
+      <scale>Scale 1:6,000</scale>
+    </cartographics>
+  </subject>
+  <name type="corporate">
+    <namePart>American Map Co.</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrealtor">Printer</roleTerm>
+    </role>
+  </name>
+  <relatedItem displayLabel="Appears in" type="host">
+    <note>Guide to the New York Zoological Park, 1st ed., 1939</note>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Wildlife Conservation Society Archives Collection 2016</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Digitized by Wildlife Conservation Society Archives</note>
+  <accessCondition type="use and reproduction">For rights and permissions, please contact the Wildlife Conservation Society Archives, library@wcs.org</accessCondition>
+  <typeOfResource>cartographic</typeOfResource>
+  <identifier type="local">2016-map-009</identifier>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <subject>
+    <topic>Bronx Zoo</topic>
+  </subject>
+  <subject>
+    <topic>Bronx Zoo--Maps, pictorial</topic>
+  </subject>
+  <originInfo>
+    <publisher>New York Zoological Society</publisher>
+    <dateIssued encoding="iso8601">1939</dateIssued>
+  </originInfo>
+  <physicalDescription>
+    <extent>1 map: b&amp;w ; 20 x 27 cm, folded to 13 x 20 cm</extent>
+    <note type="condition"/>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmnystage.metro.dgicloud.com/islandora/object/zoomaps%3A89</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:zoomaps_90</identifier><datestamp>2014-10-08T17:34:59Z</datestamp><setSpec>zoomaps_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Map of the animals in the Zoo</title>
+  </titleInfo>
+  <abstract>Features elephant photograph on folded cover.</abstract>
+  <note type="dateuncontrolled">ca. 1950s</note>
+  <subject>
+    <geographic>Bronx (New York, N.Y.)</geographic>
+  </subject>
+  <subject>
+    <cartographics>
+      <scale>Scale 1:4,364</scale>
+    </cartographics>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Wildlife Conservation Society Archives Collection 2016</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Digitized by Wildlife Conservation Society Archives</note>
+  <accessCondition type="use and reproduction">For rights and permissions, please contact the Wildlife Conservation Society Archives, library@wcs.org</accessCondition>
+  <typeOfResource>cartographic</typeOfResource>
+  <identifier type="local">2016-map-011</identifier>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <subject>
+    <topic>Bronx Zoo</topic>
+  </subject>
+  <subject>
+    <topic>Bronx Zoo--Maps, pictorial</topic>
+  </subject>
+  <subject>
+    <topic>Zoo animals</topic>
+  </subject>
+  <subject>
+    <topic>Zoo animals--Infancy</topic>
+  </subject>
+  <subject>
+    <topic>Elephants</topic>
+  </subject>
+  <subject>
+    <topic>Giant panda</topic>
+  </subject>
+  <subject>
+    <topic>Farm in the Zoo</topic>
+  </subject>
+  <subject>
+    <topic>African Plains</topic>
+  </subject>
+  <subject>
+    <topic>Zebras</topic>
+  </subject>
+  <subject>
+    <topic>Children's Zoo</topic>
+  </subject>
+  <subject>
+    <topic>Tiger</topic>
+  </subject>
+  <originInfo>
+    <publisher>New York Zoological Society</publisher>
+  </originInfo>
+  <physicalDescription>
+    <extent>1 map: b&amp;w ; 35 x 29 cm, folded to 9 x 16 cm</extent>
+    <note type="condition"/>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmnystage.metro.dgicloud.com/islandora/object/zoomaps%3A90</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:zoomaps_97</identifier><datestamp>2014-10-08T17:35:00Z</datestamp><setSpec>zoomaps_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Bronx Zoo</title>
+  </titleInfo>
+  <abstract>Features giraffe photo by Bill Meng on folded cover.</abstract>
+  <note type="dateuncontrolled">ca. 1980s</note>
+  <subject>
+    <geographic>Bronx (New York, N.Y.)</geographic>
+  </subject>
+  <name type="personal">
+    <namePart>Meng, Bill</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrealtor">Photographer</roleTerm>
+    </role>
+  </name>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Wildlife Conservation Society Archives Collection 2016</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Digitized by Wildlife Conservation Society Archives</note>
+  <accessCondition type="use and reproduction">For rights and permissions, please contact the Wildlife Conservation Society Archives, library@wcs.org</accessCondition>
+  <typeOfResource>cartographic</typeOfResource>
+  <identifier type="local">2016-map-018</identifier>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <subject>
+    <topic>Bronx Zoo</topic>
+  </subject>
+  <subject>
+    <topic>Bronx Zoo--Maps, pictorial</topic>
+  </subject>
+  <subject>
+    <topic>Zoo animals</topic>
+  </subject>
+  <subject>
+    <topic>Giraffe</topic>
+  </subject>
+  <originInfo>
+    <publisher>New York Zoological Society</publisher>
+  </originInfo>
+  <physicalDescription>
+    <extent>1 map: color ; 43 x 33 cm, folded to 9 x 16 cm</extent>
+    <note type="condition"/>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmnystage.metro.dgicloud.com/islandora/object/zoomaps%3A97</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:zoomaps_80</identifier><datestamp>2014-10-08T17:34:57Z</datestamp><setSpec>zoomaps_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Map of the animals in the Zoo</title>
+  </titleInfo>
+  <abstract>Features elephant photograph on folded cover.</abstract>
+  <subject>
+    <geographic>Bronx (New York, N.Y.)</geographic>
+  </subject>
+  <subject>
+    <cartographics>
+      <scale>Scale 1:4,364</scale>
+    </cartographics>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Wildlife Conservation Society Archives Collection 2016</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Digitized by Wildlife Conservation Society Archives</note>
+  <accessCondition type="use and reproduction">For rights and permissions, please contact the Wildlife Conservation Society Archives, library@wcs.org</accessCondition>
+  <typeOfResource>cartographic</typeOfResource>
+  <identifier type="local">2016-map-010</identifier>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <subject>
+    <topic>Bronx Zoo</topic>
+  </subject>
+  <subject>
+    <topic>Bronx Zoo--Maps, pictorial</topic>
+  </subject>
+  <subject>
+    <topic>Zoo animals</topic>
+  </subject>
+  <subject>
+    <topic>Zoo animals--Infancy</topic>
+  </subject>
+  <subject>
+    <topic>Elephants</topic>
+  </subject>
+  <subject>
+    <topic>Giant panda</topic>
+  </subject>
+  <subject>
+    <topic>Farm in the Zoo</topic>
+  </subject>
+  <subject>
+    <topic>African Plains</topic>
+  </subject>
+  <subject>
+    <topic>Zebras</topic>
+  </subject>
+  <subject>
+    <topic>Children's Zoo</topic>
+  </subject>
+  <subject>
+    <topic>Tiger</topic>
+  </subject>
+  <originInfo>
+    <publisher>New York Zoological Society</publisher>
+    <dateIssued encoding="iso8601">1952</dateIssued>
+  </originInfo>
+  <physicalDescription>
+    <extent>1 map: b&amp;w ; 36 x 28 cm, folded to 9 x 15 cm</extent>
+    <note type="condition"/>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmnystage.metro.dgicloud.com/islandora/object/zoomaps%3A80</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:zoomaps_81</identifier><datestamp>2014-10-08T17:34:57Z</datestamp><setSpec>zoomaps_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Preliminary plan of the Zoological Park for New York City in South Bronx Park</title>
+  </titleInfo>
+  <subject>
+    <geographic>Bronx (New York, N.Y.)</geographic>
+  </subject>
+  <subject>
+    <cartographics>
+      <scale>Scale 1:1,200</scale>
+    </cartographics>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Wildlife Conservation Society Archives Collection 2016</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Digitized by Wildlife Conservation Society Archives</note>
+  <accessCondition type="use and reproduction">For rights and permissions, please contact the Wildlife Conservation Society Archives, library@wcs.org</accessCondition>
+  <typeOfResource>cartographic</typeOfResource>
+  <identifier type="local">2016-map-001</identifier>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <subject>
+    <topic>Bronx Zoo</topic>
+  </subject>
+  <subject>
+    <topic>Bronx Zoo--Maps, pictorial</topic>
+  </subject>
+  <originInfo>
+    <publisher>New York Zoological Society</publisher>
+    <dateIssued encoding="iso8601">1896-11-27</dateIssued>
+  </originInfo>
+  <physicalDescription>
+    <extent>1 map: b&amp;w ; 42 x 46 cm, folded to 14 x 24 cm</extent>
+    <note type="condition">Torn along folds.</note>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmnystage.metro.dgicloud.com/islandora/object/zoomaps%3A81</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:zoomaps_85</identifier><datestamp>2014-10-08T17:34:57Z</datestamp><setSpec>zoomaps_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Map of the New York Zoological Park, as far as completed</title>
+  </titleInfo>
+  <subject>
+    <geographic>Bronx (New York, N.Y.)</geographic>
+  </subject>
+  <subject>
+    <cartographics>
+      <scale>Scale 1:6,400</scale>
+    </cartographics>
+  </subject>
+  <name type="personal">
+    <namePart>Beerbower, G. M.</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrealtor">Engineer</roleTerm>
+    </role>
+  </name>
+  <name type="corporate">
+    <namePart>Matthews-Northrup Co.</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrealtor">Printer</roleTerm>
+    </role>
+  </name>
+  <relatedItem displayLabel="Appears in" type="host">
+    <note>Popular official guide to the New York Zoological Park, 7th ed., 1904</note>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Wildlife Conservation Society Archives Collection 2016</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Digitized by Wildlife Conservation Society Archives</note>
+  <accessCondition type="use and reproduction">For rights and permissions, please contact the Wildlife Conservation Society Archives, library@wcs.org</accessCondition>
+  <typeOfResource>cartographic</typeOfResource>
+  <identifier type="local">2016-map-005</identifier>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <subject>
+    <topic>Bronx Zoo</topic>
+  </subject>
+  <subject>
+    <topic>Bronx Zoo--Maps, pictorial</topic>
+  </subject>
+  <originInfo>
+    <publisher>New York Zoological Society</publisher>
+    <dateIssued encoding="iso8601">1904</dateIssued>
+  </originInfo>
+  <physicalDescription>
+    <extent>1 map: color ; 21 x 28 cm, folded to 14 x 21 cm</extent>
+    <note type="condition"/>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmnystage.metro.dgicloud.com/islandora/object/zoomaps%3A85</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:zoomaps_87</identifier><datestamp>2014-10-08T17:34:59Z</datestamp><setSpec>zoomaps_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>New York Zoological Park</title>
+  </titleInfo>
+  <subject>
+    <geographic>Bronx (New York, N.Y.)</geographic>
+  </subject>
+  <subject>
+    <cartographics>
+      <scale>Scale 1:6,400</scale>
+    </cartographics>
+  </subject>
+  <name type="personal">
+    <namePart>Beerbower, G. M.</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrealtor">Engineer</roleTerm>
+    </role>
+  </name>
+  <relatedItem displayLabel="Appears in" type="host">
+    <note>Popular official guide to the New York Zoological Park, 15th ed., 1918</note>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Wildlife Conservation Society Archives Collection 2016</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Digitized by Wildlife Conservation Society Archives</note>
+  <accessCondition type="use and reproduction">For rights and permissions, please contact the Wildlife Conservation Society Archives, library@wcs.org</accessCondition>
+  <typeOfResource>cartographic</typeOfResource>
+  <identifier type="local">2016-map-007</identifier>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <subject>
+    <topic>Bronx Zoo</topic>
+  </subject>
+  <subject>
+    <topic>Bronx Zoo--Maps, pictorial</topic>
+  </subject>
+  <originInfo>
+    <publisher>New York Zoological Society</publisher>
+    <dateIssued encoding="iso8601">1918</dateIssued>
+  </originInfo>
+  <physicalDescription>
+    <extent>1 map: color ; 21 x 28 cm, folded to 14 x 21 cm</extent>
+    <note type="condition"/>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmnystage.metro.dgicloud.com/islandora/object/zoomaps%3A87</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:zoomaps_86</identifier><datestamp>2014-10-08T17:34:57Z</datestamp><setSpec>zoomaps_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>New York Zoological Park</title>
+  </titleInfo>
+  <subject>
+    <geographic>Bronx (New York, N.Y.)</geographic>
+  </subject>
+  <subject>
+    <cartographics>
+      <scale>Scale 1:6,400</scale>
+    </cartographics>
+  </subject>
+  <name type="personal">
+    <namePart>Beerbower, G. M.</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrealtor">Engineer</roleTerm>
+    </role>
+  </name>
+  <name type="corporate">
+    <namePart>Matthews-Northrup Co.</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrealtor">Printer</roleTerm>
+    </role>
+  </name>
+  <relatedItem displayLabel="Appears in" type="host">
+    <note>Popular official guide to the New York Zoological Park, 9th ed., 1907</note>
+  </relatedItem>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Wildlife Conservation Society Archives Collection 2016</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Digitized by Wildlife Conservation Society Archives</note>
+  <accessCondition type="use and reproduction">For rights and permissions, please contact the Wildlife Conservation Society Archives, library@wcs.org</accessCondition>
+  <typeOfResource>cartographic</typeOfResource>
+  <identifier type="local">2016-map-006</identifier>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <subject>
+    <topic>Bronx Zoo</topic>
+  </subject>
+  <subject>
+    <topic>Bronx Zoo--Maps, pictorial</topic>
+  </subject>
+  <originInfo>
+    <publisher>New York Zoological Society</publisher>
+    <dateIssued encoding="iso8601">1907</dateIssued>
+  </originInfo>
+  <physicalDescription>
+    <extent>1 map: color ; 21 x 28 cm, folded to 14 x 21 cm</extent>
+    <note type="condition"/>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmnystage.metro.dgicloud.com/islandora/object/zoomaps%3A86</identifier>
+</mods>
+</metadata></record></ListRecords></OAI-PMH>

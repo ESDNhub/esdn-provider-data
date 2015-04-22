@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2014-09-30T16:21:13Z</responseDate><request verb="ListRecords" metadataPrefix="oai_dc" set="aiha">http://cdm16694.contentdm.oclc.org/oai/oai.php</request><ListRecords><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:aiha/0</identifier><datestamp>2012-05-16</datestamp><setSpec>aiha</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:aiha/1</identifier><datestamp>2012-05-16</datestamp><setSpec>aiha</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:aiha/2</identifier><datestamp>2012-05-16</datestamp><setSpec>aiha</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:aiha/3</identifier><datestamp>2012-05-16</datestamp><setSpec>aiha</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:aiha/4</identifier><datestamp>2012-05-16</datestamp><setSpec>aiha</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:aiha/5</identifier><datestamp>2012-05-16</datestamp><setSpec>aiha</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:aiha/6</identifier><datestamp>2012-05-16</datestamp><setSpec>aiha</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:aiha/7</identifier><datestamp>2012-05-16</datestamp><setSpec>aiha</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:aiha/8</identifier><datestamp>2012-05-16</datestamp><setSpec>aiha</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:aiha/9</identifier><datestamp>2012-05-16</datestamp><setSpec>aiha</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:aiha/10</identifier><datestamp>2012-05-16</datestamp><setSpec>aiha</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:aiha/11</identifier><datestamp>2012-05-16</datestamp><setSpec>aiha</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:aiha/12</identifier><datestamp>2012-05-16</datestamp><setSpec>aiha</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:aiha/13</identifier><datestamp>2012-05-09</datestamp><setSpec>aiha</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Mayor John Boyd Thacher, II, with Chinese-American Children</dc:title>
+<dc:description>Three Chinese-American girls and one Chinese-American boy are handing money to Mayor John Boyd Thacher, II, in an event staged to show homefront efforts towards raising money for World War II efforts.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>World War II; War; Mayors; Propaganda; Chinese Americans;</dc:subject>
+<dc:subject>Photographs;</dc:subject>
+<dc:subject>Thacher, John Boyd, II, 1882-1957</dc:subject>
+<dc:subject>Military &amp; War; People; Government, Law &amp; Politics; Ethnic Groups;</dc:subject>
+<dc:coverage>Albany -- Albany County -- New York</dc:coverage>
+<dc:date>1943?</dc:date>
+<dc:source>Photograph:  b&amp;w 9 1/8 &quot; x 7 13/16 in. (23.177 5 x 19.843 75 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0019</dc:identifier>
+<dc:relation>Library Digital Images</dc:relation>
+<dc:rights>Fair use copy permitted for research, study, or investigational purposes citing the Albany Institute of History &amp; Art. Any other use requires written permission.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/aiha/id/13</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:aiha/14</identifier><datestamp>2012-05-09</datestamp><setSpec>aiha</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Sanford R. Gifford on National Guard Duty</dc:title>
+<dc:description>Photograph of Hudson River School painter Sanford Robinson Gifford standing on guard in his New York 7th Regiment National Guard uniform.  Other soldiers sit behind him inside the tent.  An African American boy squats beside him.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Images, Photographic; United States -- History -- Civil War, 1861-1865; Soldiers;</dc:subject>
+<dc:subject>People; Military &amp; War;</dc:subject>
+<dc:coverage>Albany -- Albany County -- New York</dc:coverage>
+<dc:date>1861?</dc:date>
+<dc:source>Photograph; b&amp;w.</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0025</dc:identifier>
+<dc:relation>Library Digital Images</dc:relation>
+<dc:rights>Fair use copy permitted for research, study, or investigational purposes citing the Albany Institute of History &amp; Art. Any other use requires written permission.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/aiha/id/14</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:aiha/15</identifier><datestamp>2012-05-09</datestamp><setSpec>aiha</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Advertisement for Runaway Slave</dc:title>
+<dc:description>Broadside advertising an reward for information about Jack, a runaway slave.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Slavery; Slaveholders; Fugitive slaves</dc:subject>
+<dc:subject>Advertising; Broadsides; Slave trade; Slavery; Slaves</dc:subject>
+<dc:subject>Jack; Whalen, Abel; Child, William</dc:subject>
+<dc:subject>The American Press</dc:subject>
+<dc:subject>Business &amp; Industry; Daily Life; Ethnic Groups; Work &amp; Labor</dc:subject>
+<dc:coverage>Albany -- Albany County -- New York</dc:coverage>
+<dc:contributor>Child, William</dc:contributor>
+<dc:publisher>The American Press</dc:publisher>
+<dc:date>1809-06-13</dc:date>
+<dc:source>Broadside; 7.1 x 7.5 in. (18 x 19 cm.)</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0001</dc:identifier>
+<dc:relation>Library Digital Images</dc:relation>
+<dc:rights>Fair use copy permitted for research, study, or investigational purposes citing the Albany Institute of History &amp; Art. Any other use requires written permission.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/aiha/id/15</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:aiha/16</identifier><datestamp>2013-05-31</datestamp><setSpec>aiha</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Bill of Fare for the Albany Alms House</dc:title>
+<dc:description>This is a printed Bill of Fare for the Albany, N.Y. Alms House.  The bill was printed by the order of the Common Council with CHAs. D. COOPER, Clk and the date Oct. 23, 1809 at the bottom.  Breakfast, dinner, and supper options are described included drinks. The breakfast and supper options for children are noted at the end.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Almshouses--New York (State)--History; Poor; Homeless persons; Menus; Diet;</dc:subject>
+<dc:subject>Broadsides</dc:subject>
+<dc:subject>Cooper, Chas. D.</dc:subject>
+<dc:subject>Community &amp; Events; Government, Law &amp; Politics</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:date>1809-10-23</dc:date>
+<dc:source>Broadsides</dc:source>
+<dc:type>Text</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0007</dc:identifier>
+<dc:relation>Library Digital Images</dc:relation>
+<dc:rights>Fair use copy permitted for research, study, or investigational purposes citing the Albany Institute of History &amp; Art. Any other use requires written permission.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/aiha/id/16</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:aiha/17</identifier><datestamp>2013-05-31</datestamp><setSpec>aiha</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Circus Elephants on Parade in Washington Park, Albany, NY</dc:title>
+<dc:description>Circus elephants walking down a brick lined street (possibly Washington Avenue) by a park (probably Washington Park).  Children run alongside the elephants.  Adults watch from a sidewalk on the other side of the street.  A man on horseback rides beside the elephants.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Circus animals; Circus parades; Circuses &amp; shows; Horseback riding; Horses; Parks; Streets; Children;</dc:subject>
+<dc:subject>Architecture; Community &amp; Events; Environment &amp; Nature; People; Recreation &amp; Sports; Transportation</dc:subject>
+<dc:coverage>Albany -- Albany County -- New York</dc:coverage>
+<dc:date>1880?</dc:date>
+<dc:source>Photograph:  b&amp;w 6 x 8 in. (15.24 x 20.32 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0010</dc:identifier>
+<dc:relation>Library Digital Images</dc:relation>
+<dc:rights>Fair use copy permitted for research, study, or investigational purposes citing the Albany Institute of History &amp; Art. Any other use requires written permission.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/aiha/id/17</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:aiha/18</identifier><datestamp>2012-05-09</datestamp><setSpec>aiha</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Delivery Note to Mrs. Christina from Abraham Ten Broeck</dc:title>
+<dc:description>A note from Abraham Ten Broeck addressed to Mrs. Christina regarding the delivery of cloth that is to be bleached.  The note mentions that a person named John, presumbly a slave, will be delivering the cloth.</dc:description>
+<dc:creator>Ten Broeck, Abraham</dc:creator>
+<dc:subject>African Americans</dc:subject>
+<dc:subject>Slaves; Textiles;</dc:subject>
+<dc:subject>Ten Broeck, Abraham</dc:subject>
+<dc:subject>Daily Life; Work &amp; Labor; Ethnic Groups</dc:subject>
+<dc:coverage>Albany -- Albany County -- New York</dc:coverage>
+<dc:date>1795-08-03</dc:date>
+<dc:source>Ink on paper</dc:source>
+<dc:type>Text</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0011</dc:identifier>
+<dc:relation>Library Digital Images</dc:relation>
+<dc:rights>Fair use copy permitted for research, study, or investigational purposes citing the Albany Institute of History &amp; Art. Any other use requires written permission.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/aiha/id/18</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:aiha/19</identifier><datestamp>2012-05-09</datestamp><setSpec>aiha</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Prescription for Peter Spoke</dc:title>
+<dc:description>Prescription written for Peter Spoke by Christian G. Hacker from the apothecary shop of Louis Sautter, Jr., 75 South Pearl Street, Albany, New York.</dc:description>
+<dc:creator>Hacker, Christian G.</dc:creator>
+<dc:subject>Health; Pharmacists; Drugstores;</dc:subject>
+<dc:subject>Spoke, Peter; Hacker, Christian G.; Sautter, Louis, Jr.</dc:subject>
+<dc:subject>Louis Sautter, Jr. Apothecary</dc:subject>
+<dc:subject>Business &amp; Industry; Medicine, Science &amp; Technology</dc:subject>
+<dc:coverage>Albany -- Albany County -- New York</dc:coverage>
+<dc:date>1899-05-08</dc:date>
+<dc:source>Ink on paper</dc:source>
+<dc:type>Text</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0021</dc:identifier>
+<dc:relation>Library Digital Images</dc:relation>
+<dc:rights>Fair use copy permitted for research, study, or investigational purposes citing the Albany Institute of History &amp; Art. Any other use requires written permission.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/aiha/id/19</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:aiha/20</identifier><datestamp>2012-05-09</datestamp><setSpec>aiha</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Letter from Samuel W. Brown to Cuyler Reynolds</dc:title>
+<dc:description>Letter from Samuel W. Brown to Cuyler Reynolds dated March 1909 from Cairo, Egypt.  Letter regards the purchase of mummies for the collection of the Albany Institute Historical and Art Society.  Written on stationery from the Eden Palace Hotel, Cairo, Egypt.</dc:description>
+<dc:creator>Brown, Samuel w.</dc:creator>
+<dc:subject>Mummies; Galleries &amp; museums;</dc:subject>
+<dc:subject>Brown, Samuel W.; Reynolds, Cuyler</dc:subject>
+<dc:subject>Albany Institute Historical and Art Society; Albany Institute of History &amp; Art; Eden Palace Hotel</dc:subject>
+<dc:subject>Business &amp; Industry;</dc:subject>
+<dc:coverage>Albany -- Albany County -- New York; Cairo -- Egypt</dc:coverage>
+<dc:date>1909-03</dc:date>
+<dc:source>Ink on paper</dc:source>
+<dc:type>Text</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0017</dc:identifier>
+<dc:relation>Library Digital Images</dc:relation>
+<dc:rights>Fair use copy permitted for research, study, or investigational purposes citing the Albany Institute of History &amp; Art. Any other use requires written permission.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/aiha/id/20</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:aiha/21</identifier><datestamp>2012-05-09</datestamp><setSpec>aiha</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>NEBA Roast Beef Sandwiches and Mike&#x27;s Submarines</dc:title>
+<dc:description>Color photograph of NEBA Roast Beef Sandwiches and Mike&#x27;s Submarines restaurants near Central and Colvin Avenues.</dc:description>
+<dc:creator>Weil, E. M.</dc:creator>
+<dc:subject>Restaurants;</dc:subject>
+<dc:subject>NEBA Roast Beef Sandwiches; Mike&#x27;s Submarines</dc:subject>
+<dc:subject>Architecture; Business &amp; Industry</dc:subject>
+<dc:coverage>Albany -- Albany County -- New York</dc:coverage>
+<dc:date>1960 - 1970?</dc:date>
+<dc:source>Photograph: color; 10 x 8 in. (25.4 x 20.32 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0020</dc:identifier>
+<dc:relation>Library Digital Images</dc:relation>
+<dc:rights>Fair use copy permitted for research, study, or investigational purposes citing the Albany Institute of History &amp; Art. Any other use requires written permission.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/aiha/id/21</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:aiha/24</identifier><datestamp>2012-05-16</datestamp><setSpec>aiha</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:aiha/25</identifier><datestamp>2013-12-17</datestamp><setSpec>aiha</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Letter to Lawrence Johnson from Lee Baxter on 25 June 1957</dc:title>
+<dc:description>Letter sent to Lawrence Johnson, the secretary of the Kingsmen, from Lee Baxter, on 25 June 1957.</dc:description>
+<dc:creator>Lee Baxter</dc:creator>
+<dc:subject>Correspondence</dc:subject>
+<dc:subject>Kingsmen</dc:subject>
+<dc:subject>Community &amp; Events</dc:subject>
+<dc:coverage>Troy - Rensselaer County - New York</dc:coverage>
+<dc:publisher>Lee Baxter</dc:publisher>
+<dc:date>1957-06-25</dc:date>
+<dc:source>Paper; 8 1/2 x 11 in.</dc:source>
+<dc:relation>Is Part Of MS 191</dc:relation>
+<dc:type>Text</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0018</dc:identifier>
+<dc:relation>Library Digital Images</dc:relation>
+<dc:rights>Fair use copy permitted for research, study, or investigational purposes citing the Albany Institute of History &amp; Art. Any other use requires written permission.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/aiha/id/25</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:aiha/26</identifier><datestamp>2012-05-09</datestamp><setSpec>aiha</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Approval Order signed by Colonel Morgan Lewis</dc:title>
+<dc:description>An order of approval signed by Colonel Morgan Lewis for the delivery of rope to the garrison at Cherry Valley.  Lewis was Colonel and Deputy Quartermaster-General for the Northern Department, 1776-1783.  He was Governor of New York, 1804-07.</dc:description>
+<dc:creator>Lewis, Morgan, 1754-1844</dc:creator>
+<dc:subject>American Revolution; Military supplies;</dc:subject>
+<dc:subject>War; Correspondence</dc:subject>
+<dc:subject>Lewis, Morgan, 1754-1844</dc:subject>
+<dc:subject>Military &amp; War; People</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:date>1776-08-22</dc:date>
+<dc:source>Ink on paper; 7.25 x 4.75 in. (18.415 x 12.065 cm.)</dc:source>
+<dc:type>Text</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0005</dc:identifier>
+<dc:relation>Library Digital Images</dc:relation>
+<dc:rights>Fair use copy permitted for research, study, or investigational purposes citing the Albany Institute of History &amp; Art.  Any other use requires written permission.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/aiha/id/26</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:aiha/27</identifier><datestamp>2012-05-09</datestamp><setSpec>aiha</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Charles Downing standing by a drawf pear tree.</dc:title>
+<dc:description>Charles Downing, a noted pomologist, stands by one a drawf pear tree.  Charles and his brother, Andrew Jackson Downing, published The Fruits and Fruit Trees of America in 1845.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Horticulture; Pear; Fruit-culture;</dc:subject>
+<dc:subject>Horticulture; Pear trees; Fruit trees;</dc:subject>
+<dc:subject>Downing, Charles, 1802-1885</dc:subject>
+<dc:subject>Agriculture; People;</dc:subject>
+<dc:coverage>New York</dc:coverage>
+<dc:date>1870</dc:date>
+<dc:source>Photograph; b&amp;w; 8.5 x 10 in. (21.48 x 25.4 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0009</dc:identifier>
+<dc:relation>Library Digital Images</dc:relation>
+<dc:rights>Fair use copy permitted for research, study, or investigational purposes citing the Albany Institute of History &amp; Art. Any other use requires written permission.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/aiha/id/27</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:aiha/28</identifier><datestamp>2012-05-09</datestamp><setSpec>aiha</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>First Municipal Airport</dc:title>
+<dc:description>Mayor John Boyd Thatcher II purchased land for the site of the current airport in 1928 from the Watervliet Shakers, creating the first municipal airport. The Albany airport has changed and expanded many times since then, most recently in 1993 in a $184 million renovation project that resulted in a new name, Albany International Airport.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Airport terminals; Airplanes, Company; Airport buildings;</dc:subject>
+<dc:subject>Airport terminals; Airports;</dc:subject>
+<dc:subject>Albany County Airport</dc:subject>
+<dc:subject>Transportation; People;</dc:subject>
+<dc:coverage>Albany -- Albany County -- New York</dc:coverage>
+<dc:date>1954</dc:date>
+<dc:source>Photograph; b&amp;w; 10 x 8 in. (25.4 x 20.6 cm)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0012</dc:identifier>
+<dc:relation>Library Digital Images</dc:relation>
+<dc:rights>Fair use copy permitted for research, study, or investigational purposes citing the Albany Institute of History &amp; Art. Any other use requires written permission.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/aiha/id/28</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:aiha/29</identifier><datestamp>2012-05-09</datestamp><setSpec>aiha</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Catskill Mountain House Souvenir Paperweight</dc:title>
+<dc:description>Photo of Catskill Mountain House Souvenir Paperweight. Photo taken by</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Catskill Mountain House (Hotel); Hotels;</dc:subject>
+<dc:subject>Hotels;</dc:subject>
+<dc:subject>Catskill Mountain House</dc:subject>
+<dc:subject>Recreation &amp; Sports; Architecture; People;</dc:subject>
+<dc:coverage>Palenville - - Greene County - - New York</dc:coverage>
+<dc:date>1865-1870?</dc:date>
+<dc:source>Paperweight; albumen b&amp;w photograph</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0008</dc:identifier>
+<dc:relation>Library Digital Images</dc:relation>
+<dc:rights>Fair use copy permitted for research, study, or investigational purposes citing the Albany Institute of History &amp; Art. Any other use requires written permission.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/aiha/id/29</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:aiha/30</identifier><datestamp>2012-05-09</datestamp><setSpec>aiha</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>African American waiter Pullman Co. Car on the New York Central Railroad Line</dc:title>
+<dc:description>The largest private employer of black labor in the United States by the 1920s, the Pullman Company provided African Americans with stable jobs as waiters and porters on train lines including the New York Central.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Railroads -- Employees; Railroad travel; African Americans;</dc:subject>
+<dc:subject>Railroads; Railroad employees; Railroad dining cars;</dc:subject>
+<dc:subject>Pullman Car &amp; Manufacturing Corp.</dc:subject>
+<dc:subject>Transportation; Ethnic Groups; Work &amp; Labor;</dc:subject>
+<dc:coverage>New York</dc:coverage>
+<dc:date>1925?</dc:date>
+<dc:source>Photograph; b&amp;w</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0002</dc:identifier>
+<dc:relation>Library Digital Images</dc:relation>
+<dc:rights>Fair use copy permitted for research, study, or investigational purposes citing the Albany Institute of History &amp; Art. Any other use requires written permission.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/aiha/id/30</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:aiha/31</identifier><datestamp>2012-05-09</datestamp><setSpec>aiha</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Albany Yacht Club and Maiden Lane Railroad Bridge looking east</dc:title>
+<dc:description>A view of the Albany Yacht Club and the Maiden Lane Bridge.  The Yatch Club was established in 1873.  It has moved numerous times as the waterfront of Albany has changed.   The Maiden Lane Bridge was a railroad bridge across the Hudson River between the city of Albany and Rensselaer County, New York.  The bridge was removed when the Albany-Rensselaer Amtrak Station was opened across the river in Rensselaer in 1968. The bridge was referred to as South Bridge.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Railroad bridges; Yachts;</dc:subject>
+<dc:subject>Railroad bridges; Yacht clubs;</dc:subject>
+<dc:subject>Albany Yacht Club; Maiden Lane Railroad Bridge</dc:subject>
+<dc:subject>Transportation;</dc:subject>
+<dc:coverage>Albany -- Albany County -- New York</dc:coverage>
+<dc:date>1910?</dc:date>
+<dc:source>Photogragh, b&amp;w</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0004</dc:identifier>
+<dc:relation>Library Digital Images</dc:relation>
+<dc:rights>Fair use copy permitted for research, study, or investigational purposes citing the Albany Institute of History &amp; Art. Any other use requires written permission.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/aiha/id/31</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:aiha/32</identifier><datestamp>2013-05-31</datestamp><setSpec>aiha</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Barge passing through Locke 2, Waterford, N.Y.</dc:title>
+<dc:description>Work began on the Erie Barge Canal in 1905 and finished in 1918.  This canal was build to accommodate larger barges with deeper drafts.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Erie Canal (N.Y.); Canals; Barges;</dc:subject>
+<dc:subject>Canal boats; Barges;</dc:subject>
+<dc:subject>Erie Canal (N.Y.)</dc:subject>
+<dc:subject>People; Transportation;</dc:subject>
+<dc:coverage>Waterford - -Saratoga County - - New York</dc:coverage>
+<dc:date>1940?</dc:date>
+<dc:source>Photograph; b&amp;w</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0006</dc:identifier>
+<dc:relation>Library Digital Images</dc:relation>
+<dc:rights>Fair use copy permitted for research, study, or investigational purposes citing the Albany Institute of History &amp; Art. Any other use requires written permission.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/aiha/id/32</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:aiha/33</identifier><datestamp>2012-05-09</datestamp><setSpec>aiha</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Greenbush Toll Bridge</dc:title>
+<dc:description>Bridge from Greenbush N.Y. to Rensselaer N.Y.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Toll bridges;</dc:subject>
+<dc:subject>Toll bridges;</dc:subject>
+<dc:subject>Transportation;</dc:subject>
+<dc:coverage>East Greenbush - Rensselaer County -- New York</dc:coverage>
+<dc:date>1910?</dc:date>
+<dc:source>Photograph; b&amp;W</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0015</dc:identifier>
+<dc:relation>Library Digital Images</dc:relation>
+<dc:rights>Fair use copy permitted for research, study, or investigational purposes citing the Albany Institute of History &amp; Art. Any other use requires written permission.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/aiha/id/33</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:aiha/34</identifier><datestamp>2012-05-09</datestamp><setSpec>aiha</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>R.B. Wing &amp; Sons, Ship Supplies</dc:title>
+<dc:description>R.B. Wing &amp; Sons was established in 1845. The building still stands today at 386 Broadway in Albany N.Y.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Ship chandlers;</dc:subject>
+<dc:subject>Ship equipment &amp; rigging;</dc:subject>
+<dc:subject>R.B. Wing &amp; Sons</dc:subject>
+<dc:subject>Business &amp; Industry; People;</dc:subject>
+<dc:coverage>Albany -- Albany County -- New York</dc:coverage>
+<dc:date>1870 - 1880?</dc:date>
+<dc:source>Photograph; b&amp;W</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0022</dc:identifier>
+<dc:relation>Library Digital Images</dc:relation>
+<dc:rights>Fair use copy permitted for research, study, or investigational purposes citing the Albany Institute of History &amp; Art. Any other use requires written permission.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/aiha/id/34</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:aiha/35</identifier><datestamp>2013-06-13</datestamp><setSpec>aiha</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Frank A. Jagger Lumber Boat at Albany Lumber District</dc:title>
+<dc:description>In the 1870s Albany had one of the largest lumber districts in the United States.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Lumber trade; Lumber</dc:subject>
+<dc:subject>Lumber; Lumber industry;</dc:subject>
+<dc:subject>Business &amp; Industry; Work &amp; Labor; People;</dc:subject>
+<dc:coverage>Albany -- Albany County -- New York</dc:coverage>
+<dc:date>1870-80?</dc:date>
+<dc:source>Photograph: albumen, b&amp;w</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0013</dc:identifier>
+<dc:relation>Library Digital Images</dc:relation>
+<dc:rights>Fair use copy permitted for research, study, or investigational purposes citing the Albany Institute of History &amp; Art. Any other use requires written permission.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/aiha/id/35</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:aiha/36</identifier><datestamp>2012-05-09</datestamp><setSpec>aiha</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Rip Van Winkle House Catskill N.Y</dc:title>
+<dc:description>Sterograph of Rip Van Winkle House in Catskill N.Y.  Photographed by J. Loeffler, Tompkinsville, Staten Island, N.Y.  The Rip Van Winkle Boarding House and the adjacent shantey house burned in 1918.</dc:description>
+<dc:creator>John Loeffler</dc:creator>
+<dc:subject>Catskill Mountains (N.Y.); Hotels;</dc:subject>
+<dc:subject>Hotels;</dc:subject>
+<dc:subject>Rip Van Winkle House</dc:subject>
+<dc:subject>Architecture; Recreation &amp; Sports; People;</dc:subject>
+<dc:coverage>Palenville -- Greene County -- New York</dc:coverage>
+<dc:date>1870?</dc:date>
+<dc:source>Stereoscopic photograph</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0023</dc:identifier>
+<dc:relation>Library Digital Images</dc:relation>
+<dc:rights>Fair use copy permitted for research, study, or investigational purposes citing the Albany Institute of History &amp; Art. Any other use requires written permission.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/aiha/id/36</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:aiha/37</identifier><datestamp>2012-05-09</datestamp><setSpec>aiha</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Trophy Point</dc:title>
+<dc:description>Stereo view of the circle of 13 original iron chains at Trophy Point, West Point Military Academy.  In 1778 George Washington ordered Polish engineer Colonel Thaddeus Kosciusko to construct an iron chain to block passage of British ships from sailing to Albany.  The chain streched between West Point and Constitution Island. A ring of thirteen original links, respenting thee thirteen American colonies, attracts tourists to the grounds of West Point Military Academy.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>New York (State)--History--Revolution, 1775-1783; American Revolution;</dc:subject>
+<dc:subject>Photographs; Stereographs</dc:subject>
+<dc:subject>West Point Military Academy</dc:subject>
+<dc:subject>Military &amp; War; Architecture;</dc:subject>
+<dc:coverage>West Point -- Orange Count -- New York</dc:coverage>
+<dc:publisher>Underwood &amp; Underwood</dc:publisher>
+<dc:date>1901</dc:date>
+<dc:source>Stereoscopic photograph</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0028</dc:identifier>
+<dc:relation>Library Digital Images</dc:relation>
+<dc:rights>Fair use copy permitted for research, study, or investigational purposes citing the Albany Institute of History &amp; Art. Any other use requires written permission.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/aiha/id/37</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:aiha/38</identifier><datestamp>2012-05-09</datestamp><setSpec>aiha</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Robert R. Henry</dc:title>
+<dc:description>Advertisement for groceries at Robert R. Henry&#x27;s store on 1 Quay Street.  Robert R. Henry (1771-1851) was an area merchant and one of the initial trustees of the Albany Public Library.  His store, located along the docks at the Albany basin, offered a complete assortment of groceries inlcuding produce,coffee, teas, wines, brandy, spices oils and a variety of products from the West Indies.  In exchange for these goods, Albany exported fur, meat, wheat and lumber.He owned a house on Market Street.  He moved his business to the American South around 1815.</dc:description>
+<dc:creator>Henry, Robert R. (1771 - 1851)</dc:creator>
+<dc:subject>Grocers; Advertising;</dc:subject>
+<dc:subject>Advertising; Broadsides; Grocers;</dc:subject>
+<dc:subject>Robert R. Henry</dc:subject>
+<dc:subject>Business &amp; Industry;</dc:subject>
+<dc:coverage>Albany -- Albany County -- New York</dc:coverage>
+<dc:publisher>Websters and Skinner</dc:publisher>
+<dc:date>1808-09-15</dc:date>
+<dc:source>Broadside; 13 x 8 in. (33 x 20 cm.)</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0024</dc:identifier>
+<dc:relation>Library Digital Images</dc:relation>
+<dc:rights>Fair use copy permitted for research, study, or investigational purposes citing the Albany Institute of History &amp; Art. Any other use requires written permission.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/aiha/id/38</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:aiha/39</identifier><datestamp>2012-05-09</datestamp><setSpec>aiha</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>God Save Union</dc:title>
+<dc:description>It was common practice in the 19th century to call a &quot;convention&quot; to hear the reading of a momentous statement.  In this case The Emancipation Proclamation.  On January 5th, 1863, Frederick Douglas spoke at the Baptist Church on Hamilton Street on the subject of emancipation. The event was sponsered by the Friends of Freedom of Albany County.</dc:description>
+<dc:creator>Stephen Meyers et.al.</dc:creator>
+<dc:subject>Slavery; Abolitionists; Antislavery movements; African American abolitionists;</dc:subject>
+<dc:subject>Slavery; Abolition movement; Abolitionists;</dc:subject>
+<dc:subject>Friends of Freedom in Albany County</dc:subject>
+<dc:subject>Ethnic Groups; Community &amp; Events;</dc:subject>
+<dc:coverage>Albany -- Albany County -- New York</dc:coverage>
+<dc:date>1861-01-01</dc:date>
+<dc:source>Broadside; 11.5 x 9 in. (29 x 23 cm.)</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0014</dc:identifier>
+<dc:relation>Library Digital Images</dc:relation>
+<dc:rights>Fair use copy permitted for research, study, or investigational purposes citing the Albany Institute of History &amp; Art. Any other use requires written permission.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/aiha/id/39</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:aiha/40</identifier><datestamp>2012-05-09</datestamp><setSpec>aiha</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Splendid Red Coaches, Albany and Whitehall Express</dc:title>
+<dc:description>The stagecoach connected with Lake Champlain steamboats, enabling travelers to reach Montreal. The Albany to Whitehall coach ride was a twelve hour journey.  Travelers left from Young &amp; Walbridge&#x27;s Stage Office on 500 South Market in Albany traveled onto Troy then onto Whitehall at the Phoenix Hotel and Clinton House.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Stagecoaches; Travel;</dc:subject>
+<dc:subject>Stagecoaches; Travel; Travel posters;</dc:subject>
+<dc:subject>Transportation; Business &amp; Industry;</dc:subject>
+<dc:coverage>New York</dc:coverage>
+<dc:date>1831-08-10</dc:date>
+<dc:source>Broadside; 14 x 12 in. (35.5 x 30 cm.)</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0026</dc:identifier>
+<dc:relation>Library Digital Images</dc:relation>
+<dc:rights>Fair use copy permitted for research, study, or investigational purposes citing the Albany Institute of History &amp; Art. Any other use requires written permission.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/aiha/id/40</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:aiha/41</identifier><datestamp>2012-05-09</datestamp><setSpec>aiha</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Harness Race</dc:title>
+<dc:description>An advertisement for three days of harness racing taking place in Albany from September 30 through October 2nd, 1868.  The total purse was $6000 for the six races. Results of the first day of the races can be found in the October 2, 1868 edition of the New York Times.  The race took place on Park Island which no longer exists since the buidling of I-787.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Harness racing; Horse racing; Horse racing -- Betting; Racetracks (Horse racing);</dc:subject>
+<dc:subject>Harness racing; Racetracks (Horse racing); Horse racing;</dc:subject>
+<dc:subject>Island Park Association</dc:subject>
+<dc:subject>Community &amp; Events; Business &amp; Industry; Recreation &amp; Sports;</dc:subject>
+<dc:coverage>Albany -- Albany County -- New York</dc:coverage>
+<dc:date>1868</dc:date>
+<dc:source>Broadside; 70.5 x 39.75 in. ( 179 x 101 cm.)</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0016</dc:identifier>
+<dc:relation>Library Digital Images</dc:relation>
+<dc:rights>Fair use copy permitted for research, study, or investigational purposes citing the Albany Institute of History &amp; Art. Any other use requires written permission.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/aiha/id/41</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:aiha/42</identifier><datestamp>2013-05-31</datestamp><setSpec>aiha</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Albany Nursery</dc:title>
+<dc:description>The Albany Nursery was established by Jesse Beul (1778-1839) in 1821.  Mr. Beul was active in the agricultural improvements.  On his 85-acre farm established just west of Albany in the area known as the Sandy Barrens, he put to practice the principles of crop rotation and green manures. In 1834, he founded the newspaper The Cultivator to keep farmers informed of new agricultural methods.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Advertising; Nurseries (Horticulture);</dc:subject>
+<dc:subject>Advertisements; Horticulture;</dc:subject>
+<dc:subject>Albany Nursery</dc:subject>
+<dc:subject>Agriculture; Business &amp; Industry;</dc:subject>
+<dc:coverage>Albany -- Albany County -- New York</dc:coverage>
+<dc:publisher>J. B. Van Steenbergh</dc:publisher>
+<dc:date>1826-09</dc:date>
+<dc:source>Broadside; 22 x 18.5 in. (56 x 47 cm.)</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0003</dc:identifier>
+<dc:relation>Library Digital Images</dc:relation>
+<dc:rights>Fair use copy permitted for research, study, or investigational purposes citing the Albany Institute of History &amp; Art. Any other use requires written permission.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/aiha/id/42</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:aiha/43</identifier><datestamp>2012-05-09</datestamp><setSpec>aiha</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>The Cultivator</dc:title>
+<dc:description>An advertisement for three publications from Luther Tucker and Son of Albany.  The first one is The Cultivator.    A monthly journal devoted to agriculture, horticulture and floriculture.  The second is a weekly paper called The Country Gentleman.  The last is The Illustrated Annual Register of Rural Affairs and Cultivator Almanac.  Luther Tucker was a member of the New York State Agriculutral Society and an ardent support of the New York State Fair.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Agricultural industries; Agricultural administration; Agriculture -- Research; Almanacs, American; Newspapers; Scholarly periodicals;</dc:subject>
+<dc:subject>Agriculture;</dc:subject>
+<dc:subject>Luther Tucker &amp; Son</dc:subject>
+<dc:subject>Agriculture; Daily Life; Work &amp; Labor;</dc:subject>
+<dc:coverage>United States</dc:coverage>
+<dc:publisher>Van Benthuysen</dc:publisher>
+<dc:date>1860</dc:date>
+<dc:source>Broadside; 27 x 21.5 in. (69 x 57 cm.)</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0027</dc:identifier>
+<dc:relation>Library Digital Images</dc:relation>
+<dc:rights>Fair use copy permitted for research, study, or investigational purposes citing the Albany Institute of History &amp; Art. Any other use requires written permission.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/aiha/id/43</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:aiha/44</identifier><datestamp>2012-05-09</datestamp><setSpec>aiha</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Halloween Postcard</dc:title>
+<dc:description>Postcard promoting All Halloween Carnival in Albany, New York, 30 and 31 October 1905</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Halloween</dc:subject>
+<dc:subject>Holidays; Postcards;</dc:subject>
+<dc:subject>Community &amp; Events;</dc:subject>
+<dc:coverage>Albany -- Albany County -- New York</dc:coverage>
+<dc:date>1905</dc:date>
+<dc:source>postcard; col; 5 1/2 x 3 1/4 in. (13.97 x 8.255 cm.)</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>0029</dc:identifier>
+<dc:relation>Library Digital Images</dc:relation>
+<dc:rights>Fair use copy permitted for research, study, or investigational purposes citing the Albany Institute of History &amp; Art. Any other use requires written permission.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/aiha/id/44</dc:identifier></oai_dc:dc>
+</metadata>
+</record></ListRecords></OAI-PMH>

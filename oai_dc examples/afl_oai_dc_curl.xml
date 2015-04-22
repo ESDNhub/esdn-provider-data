@@ -1,0 +1,1023 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2014-11-04T21:48:05Z</responseDate>
+  <request verb="ListRecords" set="afl" metadataPrefix="mods">http://64.80.165.148:8080/repox/OAIHandler</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:repox.ist.utl.pt:afl:oai:cdm16694.contentdm.oclc.org:afl/6</identifier>
+        <datestamp>2014-09-30</datestamp>
+        <setSpec>afl</setSpec>
+      </header>
+      <metadata>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+          <titleInfo>
+            <title>D. &amp; H. R.R. Station Postcard</title>
+          </titleInfo>
+          <originInfo>
+            <dateCreated keyDate="yes">1909</dateCreated>
+          </originInfo>
+          <note type="content">Image of the station with a man walking with horses towards carriage at the station. Hotel Altamont and stores in background.</note>
+          <physicalDescription>
+            <extent>5 1/2 x 3 1/2 in. (13.97 x 8.89 cm.)</extent>
+            <form>Postcard; b&amp;w</form>
+          </physicalDescription>
+          <identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/afl/id/6</identifier>
+          <location>
+            <url usage="primary display" access="object in context">http://cdm16694.contentdm.oclc.org/cdm/ref/collection/afl/id/6</url>
+          </location>
+          <location>
+            <url access="preview">http://cdm16694.contentdm.oclc.org/utils/getthumbnail/collection/afl/id/6</url>
+          </location>
+          <accessCondition>This digital image may be used for educational uses. Please cite as Village of Altamont Archives and Museum. Prior written permission is required for any other use of the images.</accessCondition>
+          <subject>
+            <topic>Transportation</topic>
+          </subject>
+          <subject>
+            <topic>Delaware and Hudson Railway Company</topic>
+          </subject>
+          <subject>
+            <topic>Travel</topic>
+          </subject>
+          <subject>
+            <topic>Horses</topic>
+          </subject>
+          <subject>
+            <topic>Railroads</topic>
+          </subject>
+          <subject>
+            <topic>Railroad stations</topic>
+          </subject>
+          <subject>
+            <topic>Altamont (N.Y.)</topic>
+          </subject>
+          <subject>
+            <topic>Travel</topic>
+          </subject>
+          <subject>
+            <topic>Transportation</topic>
+          </subject>
+          <subject>
+            <topic>Horses</topic>
+          </subject>
+          <subject>
+            <topic>Railroads</topic>
+          </subject>
+          <subject>
+            <topic>Railroad stations</topic>
+          </subject>
+          <subject>
+            <topic>Altamont Train Station</topic>
+          </subject>
+          <subject>
+            <topic>Altamont Hotel</topic>
+          </subject>
+          <subject>
+            <topic>Delaware &amp; Hudson (D&amp;H) Railroad Station (Altamont, N.Y.)</topic>
+          </subject>
+          <subject>
+            <topic>Transportation</topic>
+          </subject>
+          <subject>
+            <topic>Work &amp; Labor</topic>
+          </subject>
+          <subject>
+            <geographic>New York</geographic>
+          </subject>
+          <subject>
+            <geographic>Village of Altamont - Albany County - New York</geographic>
+          </subject>
+          <typeOfResource>still image</typeOfResource>
+          <note type="ownership">Altamont Free Library</note>
+        </mods>
+      </metadata>
+      <about>
+        <oaiProvenance:provenance xmlns:oaiProvenance="http://www.openarchives.org/OAI/2.0/provenance" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/provenance http://www.openarchives.org/OAI/2.0/provenance.xsd">
+          <oaiProvenance:originDescription harvestDate="2014-09-30" altered="true">
+            <oaiProvenance:baseURL>http://cdm16694.contentdm.oclc.org/oai/oai.php</oaiProvenance:baseURL>
+            <oaiProvenance:identifier>oai:cdm16694.contentdm.oclc.org:afl/6</oaiProvenance:identifier>
+            <oaiProvenance:datestamp>2014-09-30</oaiProvenance:datestamp>
+            <oaiProvenance:metadataNamespace>http://www.openarchives.org/OAI/2.0/</oaiProvenance:metadataNamespace>
+          </oaiProvenance:originDescription>
+        </oaiProvenance:provenance>
+      </about>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:repox.ist.utl.pt:afl:oai:cdm16694.contentdm.oclc.org:afl/7</identifier>
+        <datestamp>2014-09-30</datestamp>
+        <setSpec>afl</setSpec>
+      </header>
+      <metadata>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+          <titleInfo>
+            <title>William Jennings Bryant at Altamont Train Station</title>
+          </titleInfo>
+          <originInfo>
+            <dateCreated keyDate="yes" point="start">1900</dateCreated>
+            <dateCreated point="end" qualifier="questionable">1908?</dateCreated>
+          </originInfo>
+          <note type="content">Train in Altamont Station facing south. William Jennings Bryant standing on flag draped observation car platform speaking to crowd. Either the 1900 or 1908 whistle stop presidential campaign.</note>
+          <physicalDescription>
+            <extent>b&amp;w, 4 1/2 x 3 3/4 in. (11.43 x 9.53 cm.)</extent>
+            <form>Photograph</form>
+          </physicalDescription>
+          <identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/afl/id/7</identifier>
+          <location>
+            <url usage="primary display" access="object in context">http://cdm16694.contentdm.oclc.org/cdm/ref/collection/afl/id/7</url>
+          </location>
+          <location>
+            <url access="preview">http://cdm16694.contentdm.oclc.org/utils/getthumbnail/collection/afl/id/7</url>
+          </location>
+          <accessCondition>This digital image may be used for educational uses. Please cite as Village of Altamont Archives and Museum. Prior written permission is required for any other use of the images.</accessCondition>
+          <subject>
+            <topic>Transportation</topic>
+          </subject>
+          <subject>
+            <topic>Railroads</topic>
+          </subject>
+          <subject>
+            <topic>Railroad stations</topic>
+          </subject>
+          <subject>
+            <topic>Politicians</topic>
+          </subject>
+          <subject>
+            <topic>Delaware and Hudson Railway Company</topic>
+          </subject>
+          <subject>
+            <topic>Political campaigns</topic>
+          </subject>
+          <subject>
+            <topic>Altamont (N.Y.)</topic>
+          </subject>
+          <subject>
+            <topic>Travel</topic>
+          </subject>
+          <subject>
+            <topic>Travel</topic>
+          </subject>
+          <subject>
+            <topic>Transportation</topic>
+          </subject>
+          <subject>
+            <topic>Railroads</topic>
+          </subject>
+          <subject>
+            <topic>Railroad stations</topic>
+          </subject>
+          <subject>
+            <topic>Politics &amp; government</topic>
+          </subject>
+          <subject>
+            <topic>Politicians</topic>
+          </subject>
+          <subject>
+            <topic>Altamont Train Station</topic>
+          </subject>
+          <subject>
+            <topic>Delaware &amp; Hudson (D&amp;H) Railroad Station (Altamont, N.Y.)</topic>
+          </subject>
+          <subject>
+            <topic>Transportation</topic>
+          </subject>
+          <subject>
+            <topic>Government, Law &amp; Politics</topic>
+          </subject>
+          <subject>
+            <topic>Work &amp; Labor</topic>
+          </subject>
+          <subject>
+            <geographic>New York</geographic>
+          </subject>
+          <subject>
+            <geographic>Village of Altamont - Albany County - New York</geographic>
+          </subject>
+          <typeOfResource>still image</typeOfResource>
+          <note type="ownership">Altamont Free Library</note>
+        </mods>
+      </metadata>
+      <about>
+        <oaiProvenance:provenance xmlns:oaiProvenance="http://www.openarchives.org/OAI/2.0/provenance" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/provenance http://www.openarchives.org/OAI/2.0/provenance.xsd">
+          <oaiProvenance:originDescription harvestDate="2014-09-30" altered="true">
+            <oaiProvenance:baseURL>http://cdm16694.contentdm.oclc.org/oai/oai.php</oaiProvenance:baseURL>
+            <oaiProvenance:identifier>oai:cdm16694.contentdm.oclc.org:afl/7</oaiProvenance:identifier>
+            <oaiProvenance:datestamp>2014-09-30</oaiProvenance:datestamp>
+            <oaiProvenance:metadataNamespace>http://www.openarchives.org/OAI/2.0/</oaiProvenance:metadataNamespace>
+          </oaiProvenance:originDescription>
+        </oaiProvenance:provenance>
+      </about>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:repox.ist.utl.pt:afl:oai:cdm16694.contentdm.oclc.org:afl/8</identifier>
+        <datestamp>2014-09-30</datestamp>
+        <setSpec>afl</setSpec>
+      </header>
+      <metadata>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+          <titleInfo>
+            <title>RCA Letter to Altamont Free Library</title>
+          </titleInfo>
+          <name>
+            <namePart>Racusin, N.</namePart>
+            <role>
+              <roleTerm>creator</roleTerm>
+            </role>
+          </name>
+          <originInfo>
+            <dateCreated keyDate="yes" point="start">1969</dateCreated>
+            <dateCreated point="end">07</dateCreated>
+          </originInfo>
+          <note type="content">Typewritten letter on RCA stationary from N. Racusin to "Librarian" at Altamont Free Library, dated July 1969, re donation of albums for the circulating collection.</note>
+          <physicalDescription>
+            <extent>8.5 x 11 in. (21.59 x 27.94 cm.)</extent>
+            <form>Letter; col.</form>
+          </physicalDescription>
+          <identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/afl/id/8</identifier>
+          <location>
+            <url usage="primary display" access="object in context">http://cdm16694.contentdm.oclc.org/cdm/ref/collection/afl/id/8</url>
+          </location>
+          <location>
+            <url access="preview">http://cdm16694.contentdm.oclc.org/utils/getthumbnail/collection/afl/id/8</url>
+          </location>
+          <accessCondition>This digital image may be used for educational uses. Please cite as Village of Altamont Archives and Museum. Prior written permission is required for any other use of the images.</accessCondition>
+          <subject>
+            <topic>Librarians</topic>
+          </subject>
+          <subject>
+            <topic>Library materials</topic>
+          </subject>
+          <subject>
+            <topic>Albums</topic>
+          </subject>
+          <subject>
+            <topic>Music</topic>
+          </subject>
+          <subject>
+            <topic>Altamont (N.Y.)</topic>
+          </subject>
+          <subject>
+            <topic>Librarians</topic>
+          </subject>
+          <subject>
+            <topic>Libraries</topic>
+          </subject>
+          <subject>
+            <topic>Albums</topic>
+          </subject>
+          <subject>
+            <topic>Music</topic>
+          </subject>
+          <subject>
+            <topic>Correspondence</topic>
+          </subject>
+          <subject>
+            <topic>RCA</topic>
+          </subject>
+          <subject>
+            <topic>Altamont Free Library</topic>
+          </subject>
+          <subject>
+            <topic>Arts &amp; Entertainment</topic>
+          </subject>
+          <subject>
+            <topic>Business &amp; Industry</topic>
+          </subject>
+          <subject>
+            <geographic>New York</geographic>
+          </subject>
+          <subject>
+            <geographic>Village of Altamont - Albany County - New York</geographic>
+          </subject>
+          <typeOfResource>text</typeOfResource>
+          <note type="ownership">Altamont Free Library</note>
+        </mods>
+      </metadata>
+      <about>
+        <oaiProvenance:provenance xmlns:oaiProvenance="http://www.openarchives.org/OAI/2.0/provenance" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/provenance http://www.openarchives.org/OAI/2.0/provenance.xsd">
+          <oaiProvenance:originDescription harvestDate="2014-09-30" altered="true">
+            <oaiProvenance:baseURL>http://cdm16694.contentdm.oclc.org/oai/oai.php</oaiProvenance:baseURL>
+            <oaiProvenance:identifier>oai:cdm16694.contentdm.oclc.org:afl/8</oaiProvenance:identifier>
+            <oaiProvenance:datestamp>2014-09-30</oaiProvenance:datestamp>
+            <oaiProvenance:metadataNamespace>http://www.openarchives.org/OAI/2.0/</oaiProvenance:metadataNamespace>
+          </oaiProvenance:originDescription>
+        </oaiProvenance:provenance>
+      </about>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:repox.ist.utl.pt:afl:oai:cdm16694.contentdm.oclc.org:afl/2</identifier>
+        <datestamp>2014-09-30</datestamp>
+        <setSpec>afl</setSpec>
+      </header>
+      <metadata>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+          <titleInfo>
+            <title>Delaware and Hudson Station (D&amp;H) Cyanotype</title>
+          </titleInfo>
+          <originInfo>
+            <dateCreated keyDate="yes">1910</dateCreated>
+          </originInfo>
+          <note type="content">Postcard showing passengers and dog in winter at D&amp;H Station, Altamont, NY. The 35 mile long passenger service line built in the 1850's was originally known as the Albany &amp; Susquehanna Railroad and ran from Albany to Schoharie Junction, NY. Thanks in part to Hiram Gram, Altamont's first mayor, the railroad company included a stop in Knowersville, which later became known as the Village of Altamont.</note>
+          <physicalDescription>
+            <extent>4.25 x 3.5 in (10.8 x 8.9 cm.)</extent>
+            <form>Postcard; cyanotype</form>
+          </physicalDescription>
+          <identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/afl/id/2</identifier>
+          <location>
+            <url usage="primary display" access="object in context">http://cdm16694.contentdm.oclc.org/cdm/ref/collection/afl/id/2</url>
+          </location>
+          <location>
+            <url access="preview">http://cdm16694.contentdm.oclc.org/utils/getthumbnail/collection/afl/id/2</url>
+          </location>
+          <accessCondition>This digital image may be used for educational uses. Please cite as Village of Altamont Archives and Museum. Prior written permission is required for any other use of the images.</accessCondition>
+          <subject>
+            <topic>Altamont (N.Y.)</topic>
+          </subject>
+          <subject>
+            <topic>Railroads</topic>
+          </subject>
+          <subject>
+            <topic>Railroad stations</topic>
+          </subject>
+          <subject>
+            <topic>Winter</topic>
+          </subject>
+          <subject>
+            <topic>Dogs</topic>
+          </subject>
+          <subject>
+            <topic>Delaware and Hudson Railway Company</topic>
+          </subject>
+          <subject>
+            <topic>Travel</topic>
+          </subject>
+          <subject>
+            <topic>Transportation</topic>
+          </subject>
+          <subject>
+            <topic>Railroads</topic>
+          </subject>
+          <subject>
+            <topic>Railroad stations</topic>
+          </subject>
+          <subject>
+            <topic>Transportation</topic>
+          </subject>
+          <subject>
+            <topic>Winter</topic>
+          </subject>
+          <subject>
+            <topic>Dogs</topic>
+          </subject>
+          <subject>
+            <topic>Altamont Train Station</topic>
+          </subject>
+          <subject>
+            <topic>Delaware &amp; Hudson (D&amp;H) Railroad Station (Altamont, N.Y.)</topic>
+          </subject>
+          <subject>
+            <topic>Transportation</topic>
+          </subject>
+          <subject>
+            <topic>People</topic>
+          </subject>
+          <subject>
+            <geographic>New York</geographic>
+          </subject>
+          <subject>
+            <geographic>Village of Altamont - Albany County - New York</geographic>
+          </subject>
+          <typeOfResource>still image</typeOfResource>
+          <note type="ownership">Altamont Free Library</note>
+        </mods>
+      </metadata>
+      <about>
+        <oaiProvenance:provenance xmlns:oaiProvenance="http://www.openarchives.org/OAI/2.0/provenance" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/provenance http://www.openarchives.org/OAI/2.0/provenance.xsd">
+          <oaiProvenance:originDescription harvestDate="2014-09-30" altered="true">
+            <oaiProvenance:baseURL>http://cdm16694.contentdm.oclc.org/oai/oai.php</oaiProvenance:baseURL>
+            <oaiProvenance:identifier>oai:cdm16694.contentdm.oclc.org:afl/2</oaiProvenance:identifier>
+            <oaiProvenance:datestamp>2014-09-30</oaiProvenance:datestamp>
+            <oaiProvenance:metadataNamespace>http://www.openarchives.org/OAI/2.0/</oaiProvenance:metadataNamespace>
+          </oaiProvenance:originDescription>
+        </oaiProvenance:provenance>
+      </about>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:repox.ist.utl.pt:afl:oai:cdm16694.contentdm.oclc.org:afl/3</identifier>
+        <datestamp>2014-09-30</datestamp>
+        <setSpec>afl</setSpec>
+      </header>
+      <metadata>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+          <titleInfo>
+            <title>Children in Altamont Train Station</title>
+          </titleInfo>
+          <originInfo/>
+          <note type="content">Photograph of interior room of Altamont Train Station. Group of elementary school children visiting with teacher/parents.</note>
+          <physicalDescription>
+            <extent>7.5 x 4.5 in. (19.1 x 11.4 cm.)</extent>
+            <form>Photograph; b&amp;w</form>
+          </physicalDescription>
+          <identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/afl/id/3</identifier>
+          <location>
+            <url usage="primary display" access="object in context">http://cdm16694.contentdm.oclc.org/cdm/ref/collection/afl/id/3</url>
+          </location>
+          <location>
+            <url access="preview">http://cdm16694.contentdm.oclc.org/utils/getthumbnail/collection/afl/id/3</url>
+          </location>
+          <accessCondition>This digital image may be used for educational uses. Please cite as Village of Altamont Archives and Museum. Prior written permission is required for any other use of the images.</accessCondition>
+          <subject>
+            <topic>Travel</topic>
+          </subject>
+          <subject>
+            <topic>Transportation</topic>
+          </subject>
+          <subject>
+            <topic>Railroads</topic>
+          </subject>
+          <subject>
+            <topic>Railroad stations</topic>
+          </subject>
+          <subject>
+            <topic>Altamont (N.Y.)</topic>
+          </subject>
+          <subject>
+            <topic>Children</topic>
+          </subject>
+          <subject>
+            <topic>Railroad conductors</topic>
+          </subject>
+          <subject>
+            <topic>Education, Elementary</topic>
+          </subject>
+          <subject>
+            <topic>Teachers</topic>
+          </subject>
+          <subject>
+            <topic>School field trips</topic>
+          </subject>
+          <subject>
+            <topic>Delaware and Hudson Railway Company</topic>
+          </subject>
+          <subject>
+            <topic>Transportation</topic>
+          </subject>
+          <subject>
+            <topic>Railroads</topic>
+          </subject>
+          <subject>
+            <topic>Railroad stations</topic>
+          </subject>
+          <subject>
+            <topic>Travel</topic>
+          </subject>
+          <subject>
+            <topic>Teachers</topic>
+          </subject>
+          <subject>
+            <topic>Railroad employees</topic>
+          </subject>
+          <subject>
+            <topic>School field trips</topic>
+          </subject>
+          <subject>
+            <topic>Altamont Train Station</topic>
+          </subject>
+          <subject>
+            <topic>Delaware &amp; Hudson (D&amp;H) Railroad Station (Altamont, N.Y.)</topic>
+          </subject>
+          <subject>
+            <topic>Education</topic>
+          </subject>
+          <subject>
+            <topic>People</topic>
+          </subject>
+          <subject>
+            <topic>Transportation</topic>
+          </subject>
+          <subject>
+            <topic>Work &amp; Labor</topic>
+          </subject>
+          <subject>
+            <topic>Community &amp; Events</topic>
+          </subject>
+          <subject>
+            <geographic>New York</geographic>
+          </subject>
+          <subject>
+            <geographic>Village of Altamont - Albany County - New York</geographic>
+          </subject>
+          <typeOfResource>still image</typeOfResource>
+          <note type="ownership">Altamont Free Library</note>
+        </mods>
+      </metadata>
+      <about>
+        <oaiProvenance:provenance xmlns:oaiProvenance="http://www.openarchives.org/OAI/2.0/provenance" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/provenance http://www.openarchives.org/OAI/2.0/provenance.xsd">
+          <oaiProvenance:originDescription harvestDate="2014-09-30" altered="true">
+            <oaiProvenance:baseURL>http://cdm16694.contentdm.oclc.org/oai/oai.php</oaiProvenance:baseURL>
+            <oaiProvenance:identifier>oai:cdm16694.contentdm.oclc.org:afl/3</oaiProvenance:identifier>
+            <oaiProvenance:datestamp>2014-09-30</oaiProvenance:datestamp>
+            <oaiProvenance:metadataNamespace>http://www.openarchives.org/OAI/2.0/</oaiProvenance:metadataNamespace>
+          </oaiProvenance:originDescription>
+        </oaiProvenance:provenance>
+      </about>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:repox.ist.utl.pt:afl:oai:cdm16694.contentdm.oclc.org:afl/4</identifier>
+        <datestamp>2014-09-30</datestamp>
+        <setSpec>afl</setSpec>
+      </header>
+      <metadata>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+          <titleInfo>
+            <title>Altamont Train Station and Altamont Hotel</title>
+          </titleInfo>
+          <originInfo>
+            <dateCreated keyDate="yes" qualifier="questionable">1910?</dateCreated>
+          </originInfo>
+          <note type="content">Postcard image of D&amp;H Station, park, and Altamont Hotel. Addressed to Miss Mabel Livingston, Binghampton, (sic) NY.</note>
+          <physicalDescription>
+            <extent>4.5 x 3.375 in. (11.4 x 8.6 cm.)</extent>
+            <form>Postcard; sepia toned b&amp;w</form>
+          </physicalDescription>
+          <identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/afl/id/4</identifier>
+          <location>
+            <url usage="primary display" access="object in context">http://cdm16694.contentdm.oclc.org/cdm/ref/collection/afl/id/4</url>
+          </location>
+          <location>
+            <url access="preview">http://cdm16694.contentdm.oclc.org/utils/getthumbnail/collection/afl/id/4</url>
+          </location>
+          <accessCondition>This digital image may be used for educational uses. Please cite as Village of Altamont Archives and Museum. Prior written permission is required for any other use of the images.</accessCondition>
+          <subject>
+            <topic>Railroads</topic>
+          </subject>
+          <subject>
+            <topic>Railroad stations</topic>
+          </subject>
+          <subject>
+            <topic>Transportation</topic>
+          </subject>
+          <subject>
+            <topic>Travel</topic>
+          </subject>
+          <subject>
+            <topic>Hotels</topic>
+          </subject>
+          <subject>
+            <topic>Parks</topic>
+          </subject>
+          <subject>
+            <topic>Vacations</topic>
+          </subject>
+          <subject>
+            <topic>Altamont (N.Y.)</topic>
+          </subject>
+          <subject>
+            <topic>Delaware and Hudson Railway Company</topic>
+          </subject>
+          <subject>
+            <topic>Railroads</topic>
+          </subject>
+          <subject>
+            <topic>Railroad stations</topic>
+          </subject>
+          <subject>
+            <topic>Transportation</topic>
+          </subject>
+          <subject>
+            <topic>Travel</topic>
+          </subject>
+          <subject>
+            <topic>Hotels</topic>
+          </subject>
+          <subject>
+            <topic>Parks</topic>
+          </subject>
+          <subject>
+            <topic>Altamont Hotel</topic>
+          </subject>
+          <subject>
+            <topic>Altamont Train Station</topic>
+          </subject>
+          <subject>
+            <topic>Delaware &amp; Hudson (D&amp;H) Railroad Station (Altamont, N.Y.)</topic>
+          </subject>
+          <subject>
+            <topic>Business &amp; Industry</topic>
+          </subject>
+          <subject>
+            <topic>Transportation</topic>
+          </subject>
+          <subject>
+            <topic>Work &amp; Labor</topic>
+          </subject>
+          <subject>
+            <geographic>New York</geographic>
+          </subject>
+          <subject>
+            <geographic>Village of Altamont - Albany County - New York</geographic>
+          </subject>
+          <typeOfResource>still image</typeOfResource>
+          <note type="ownership">Altamont Free Library</note>
+        </mods>
+      </metadata>
+      <about>
+        <oaiProvenance:provenance xmlns:oaiProvenance="http://www.openarchives.org/OAI/2.0/provenance" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/provenance http://www.openarchives.org/OAI/2.0/provenance.xsd">
+          <oaiProvenance:originDescription harvestDate="2014-09-30" altered="true">
+            <oaiProvenance:baseURL>http://cdm16694.contentdm.oclc.org/oai/oai.php</oaiProvenance:baseURL>
+            <oaiProvenance:identifier>oai:cdm16694.contentdm.oclc.org:afl/4</oaiProvenance:identifier>
+            <oaiProvenance:datestamp>2014-09-30</oaiProvenance:datestamp>
+            <oaiProvenance:metadataNamespace>http://www.openarchives.org/OAI/2.0/</oaiProvenance:metadataNamespace>
+          </oaiProvenance:originDescription>
+        </oaiProvenance:provenance>
+      </about>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:repox.ist.utl.pt:afl:oai:cdm16694.contentdm.oclc.org:afl/5</identifier>
+        <datestamp>2014-09-30</datestamp>
+        <setSpec>afl</setSpec>
+      </header>
+      <metadata>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+          <titleInfo>
+            <title>Albany-Binghamton Commuter</title>
+          </titleInfo>
+          <name>
+            <namePart>Shaughnessy, James</namePart>
+            <role>
+              <roleTerm>creator</roleTerm>
+            </role>
+          </name>
+          <originInfo>
+            <dateCreated keyDate="yes">1952</dateCreated>
+          </originInfo>
+          <note type="content">The Albany-Binghamton Commuter train, manufactured in Schenectady, NY, passes the Altamont Train Station. Image taken by railroad photographer, James Shaughnessy.</note>
+          <physicalDescription>
+            <extent>5 x 3 in. (12.7 x 7.62 cm.)</extent>
+            <form>Photograph; b&amp;w</form>
+          </physicalDescription>
+          <identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/afl/id/5</identifier>
+          <location>
+            <url usage="primary display" access="object in context">http://cdm16694.contentdm.oclc.org/cdm/ref/collection/afl/id/5</url>
+          </location>
+          <location>
+            <url access="preview">http://cdm16694.contentdm.oclc.org/utils/getthumbnail/collection/afl/id/5</url>
+          </location>
+          <accessCondition>This digital image may be used for educational uses. Please cite as Village of Altamont Archives and Museum. Prior written permission is required for any other use of the images.</accessCondition>
+          <subject>
+            <topic>Transportation</topic>
+          </subject>
+          <subject>
+            <topic>Travel</topic>
+          </subject>
+          <subject>
+            <topic>Altamont (N.Y.)</topic>
+          </subject>
+          <subject>
+            <topic>Railroads</topic>
+          </subject>
+          <subject>
+            <topic>Railroad stations</topic>
+          </subject>
+          <subject>
+            <topic>Delaware and Hudson Railway Company</topic>
+          </subject>
+          <subject>
+            <topic>Transportation</topic>
+          </subject>
+          <subject>
+            <topic>Railroads</topic>
+          </subject>
+          <subject>
+            <topic>Railroad stations</topic>
+          </subject>
+          <subject>
+            <topic>Travel</topic>
+          </subject>
+          <subject>
+            <topic>Altamont Train Station</topic>
+          </subject>
+          <subject>
+            <topic>Altamont Hotel</topic>
+          </subject>
+          <subject>
+            <topic>Delaware &amp; Hudson (D&amp;H) Railroad Station (Altamont, N.Y.)</topic>
+          </subject>
+          <subject>
+            <topic>Transportation</topic>
+          </subject>
+          <subject>
+            <geographic>New York</geographic>
+          </subject>
+          <subject>
+            <geographic>Village of Altamont - Albany County - New York</geographic>
+          </subject>
+          <typeOfResource>still image</typeOfResource>
+          <note type="ownership">Altamont Free Library</note>
+        </mods>
+      </metadata>
+      <about>
+        <oaiProvenance:provenance xmlns:oaiProvenance="http://www.openarchives.org/OAI/2.0/provenance" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/provenance http://www.openarchives.org/OAI/2.0/provenance.xsd">
+          <oaiProvenance:originDescription harvestDate="2014-09-30" altered="true">
+            <oaiProvenance:baseURL>http://cdm16694.contentdm.oclc.org/oai/oai.php</oaiProvenance:baseURL>
+            <oaiProvenance:identifier>oai:cdm16694.contentdm.oclc.org:afl/5</oaiProvenance:identifier>
+            <oaiProvenance:datestamp>2014-09-30</oaiProvenance:datestamp>
+            <oaiProvenance:metadataNamespace>http://www.openarchives.org/OAI/2.0/</oaiProvenance:metadataNamespace>
+          </oaiProvenance:originDescription>
+        </oaiProvenance:provenance>
+      </about>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:repox.ist.utl.pt:afl:oai:cdm16694.contentdm.oclc.org:afl/0</identifier>
+        <datestamp>2014-09-30</datestamp>
+        <setSpec>afl</setSpec>
+      </header>
+      <metadata>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+          <titleInfo>
+            <title>Delaware &amp; Hudson Railroad Yard</title>
+          </titleInfo>
+          <originInfo>
+            <dateCreated keyDate="yes" point="start">1910</dateCreated>
+            <dateCreated point="end">1920</dateCreated>
+          </originInfo>
+          <note type="content">Image of Delaware &amp; Hudson Railroad Yard (D&amp;H); station; tracks; signals; watchtower; Hotel Altamont on right. Writing on front of card: D&amp;H Yards, Altamont, NY.</note>
+          <physicalDescription>
+            <extent>5.25 x 3.5 in. (13.3 x 8.9 cm.)</extent>
+            <form>Postcard; Sepia toned</form>
+          </physicalDescription>
+          <identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/afl/id/0</identifier>
+          <location>
+            <url usage="primary display" access="object in context">http://cdm16694.contentdm.oclc.org/cdm/ref/collection/afl/id/0</url>
+          </location>
+          <location>
+            <url access="preview">http://cdm16694.contentdm.oclc.org/utils/getthumbnail/collection/afl/id/0</url>
+          </location>
+          <accessCondition>This digital image may be used for educational uses. Please cite as Village of Altamont Archives and Museum. Prior written permission is required for any other use of the images.</accessCondition>
+          <subject>
+            <topic>Railroads</topic>
+          </subject>
+          <subject>
+            <topic>Railroad stations</topic>
+          </subject>
+          <subject>
+            <topic>Delaware and Hudson Railway Company</topic>
+          </subject>
+          <subject>
+            <topic>Altamont (N.Y.)</topic>
+          </subject>
+          <subject>
+            <topic>Travel</topic>
+          </subject>
+          <subject>
+            <topic>Transportation</topic>
+          </subject>
+          <subject>
+            <topic>Railroads</topic>
+          </subject>
+          <subject>
+            <topic>Railroad stations</topic>
+          </subject>
+          <subject>
+            <topic>Travel</topic>
+          </subject>
+          <subject>
+            <topic>Transportation</topic>
+          </subject>
+          <subject>
+            <topic>Altamont Hotel</topic>
+          </subject>
+          <subject>
+            <topic>Altamont Train Station</topic>
+          </subject>
+          <subject>
+            <topic>Delaware &amp; Hudson (D&amp;H) Railroad Station (Altamont, N.Y.)</topic>
+          </subject>
+          <subject>
+            <topic>Transportation</topic>
+          </subject>
+          <subject>
+            <topic>Business &amp; Industry</topic>
+          </subject>
+          <subject>
+            <topic>Work &amp; Labor</topic>
+          </subject>
+          <subject>
+            <geographic>New York</geographic>
+          </subject>
+          <subject>
+            <geographic>Village of Altamont - Albany County - New York</geographic>
+          </subject>
+          <typeOfResource>still image</typeOfResource>
+          <note type="ownership">Altamont Free Library</note>
+        </mods>
+      </metadata>
+      <about>
+        <oaiProvenance:provenance xmlns:oaiProvenance="http://www.openarchives.org/OAI/2.0/provenance" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/provenance http://www.openarchives.org/OAI/2.0/provenance.xsd">
+          <oaiProvenance:originDescription harvestDate="2014-09-30" altered="true">
+            <oaiProvenance:baseURL>http://cdm16694.contentdm.oclc.org/oai/oai.php</oaiProvenance:baseURL>
+            <oaiProvenance:identifier>oai:cdm16694.contentdm.oclc.org:afl/0</oaiProvenance:identifier>
+            <oaiProvenance:datestamp>2014-09-30</oaiProvenance:datestamp>
+            <oaiProvenance:metadataNamespace>http://www.openarchives.org/OAI/2.0/</oaiProvenance:metadataNamespace>
+          </oaiProvenance:originDescription>
+        </oaiProvenance:provenance>
+      </about>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:repox.ist.utl.pt:afl:oai:cdm16694.contentdm.oclc.org:afl/1</identifier>
+        <datestamp>2014-09-30</datestamp>
+        <setSpec>afl</setSpec>
+      </header>
+      <metadata>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+          <titleInfo>
+            <title>Bi-Centennial Special Excursion Ticket</title>
+          </titleInfo>
+          <originInfo>
+            <dateCreated keyDate="yes" point="start">1886</dateCreated>
+            <dateCreated point="end">07</dateCreated>
+          </originInfo>
+          <note type="content">1886 New York State Bi-Centennial. Knowersville to Albany. Good for period July 19-22, 1886.</note>
+          <note type="content">Knowersville was the Village's original name before 1887 when Albany resident Lucie Rochefort Cassidy, wife of politician William Cassidy, used her friendship with US President Grover Cleveland to have the Village eventually renamed to Altamont, which means "high mountain". Note: President Grover Cleveland came to Albany on Thursday, July 22, 1886 to take part in the NYS Bi-Centennial Celebration. He was a guest of Governor David B. Hill during his brief stay in Albany. Gov. Hill, (once Pres. Cleveland's NYS Lt. Governor) was inaugurated as Governor of NYS in January 1885.</note>
+          <physicalDescription>
+            <extent>1 3/4 x 3 in. (4.45 x 7.62 cm.)</extent>
+            <form>Ticket; col.</form>
+          </physicalDescription>
+          <identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/afl/id/1</identifier>
+          <location>
+            <url usage="primary display" access="object in context">http://cdm16694.contentdm.oclc.org/cdm/ref/collection/afl/id/1</url>
+          </location>
+          <location>
+            <url access="preview">http://cdm16694.contentdm.oclc.org/utils/getthumbnail/collection/afl/id/1</url>
+          </location>
+          <accessCondition>This digital image may be used for educational uses. Please cite as Village of Altamont Archives and Museum. Prior written permission is required for any other use of the images.</accessCondition>
+          <subject>
+            <topic>Railroads</topic>
+          </subject>
+          <subject>
+            <topic>Transportation -- Tickets</topic>
+          </subject>
+          <subject>
+            <topic>Anniversaries</topic>
+          </subject>
+          <subject>
+            <topic>Transportation</topic>
+          </subject>
+          <subject>
+            <topic>Railroad stations</topic>
+          </subject>
+          <subject>
+            <topic>Travel</topic>
+          </subject>
+          <subject>
+            <topic>Altamont (N.Y.)</topic>
+          </subject>
+          <subject>
+            <topic>Delaware and Hudson Railway Company</topic>
+          </subject>
+          <subject>
+            <topic>Tickets</topic>
+          </subject>
+          <subject>
+            <topic>Transportation</topic>
+          </subject>
+          <subject>
+            <topic>Railroads</topic>
+          </subject>
+          <subject>
+            <topic>Travel</topic>
+          </subject>
+          <subject>
+            <topic>Delaware and Hudson Canal Company</topic>
+          </subject>
+          <subject>
+            <topic>Community &amp; Events</topic>
+          </subject>
+          <subject>
+            <topic>Transportation</topic>
+          </subject>
+          <subject>
+            <topic>Business &amp; Industry</topic>
+          </subject>
+          <subject>
+            <geographic>New York</geographic>
+          </subject>
+          <subject>
+            <geographic>Village of Altamont - Albany County - New York</geographic>
+          </subject>
+          <subject>
+            <geographic>Knowersville - Albany County - New York</geographic>
+          </subject>
+          <typeOfResource>text</typeOfResource>
+          <note type="ownership">Altamont Free Library</note>
+        </mods>
+      </metadata>
+      <about>
+        <oaiProvenance:provenance xmlns:oaiProvenance="http://www.openarchives.org/OAI/2.0/provenance" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/provenance http://www.openarchives.org/OAI/2.0/provenance.xsd">
+          <oaiProvenance:originDescription harvestDate="2014-09-30" altered="true">
+            <oaiProvenance:baseURL>http://cdm16694.contentdm.oclc.org/oai/oai.php</oaiProvenance:baseURL>
+            <oaiProvenance:identifier>oai:cdm16694.contentdm.oclc.org:afl/1</oaiProvenance:identifier>
+            <oaiProvenance:datestamp>2014-09-30</oaiProvenance:datestamp>
+            <oaiProvenance:metadataNamespace>http://www.openarchives.org/OAI/2.0/</oaiProvenance:metadataNamespace>
+          </oaiProvenance:originDescription>
+        </oaiProvenance:provenance>
+      </about>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:repox.ist.utl.pt:afl:oai:cdm16694.contentdm.oclc.org:afl/13</identifier>
+        <datestamp>2014-09-30</datestamp>
+        <setSpec>afl</setSpec>
+      </header>
+      <metadata>
+        <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd" version="3.4">
+          <titleInfo>
+            <title>Constitution and By Laws for Altamont Free Library</title>
+          </titleInfo>
+          <originInfo>
+            <dateCreated keyDate="yes">1916-05-08</dateCreated>
+            <publisher>Chas. E. Houghtaling</publisher>
+          </originInfo>
+          <note type="content">Typewritten constitution and by-laws for Altamont Free Library, dated 1916-05-08, re establishment of library, membership, officers, rules, borrowing policies, late fines, etc.</note>
+          <note type="content">Pages scanned in b&amp;w for readability.</note>
+          <physicalDescription>
+            <extent>13.25 x 8.5 in. (33.65 x 21.59 cm.)</extent>
+            <form>carbon copy manuscript fastened together; col.</form>
+          </physicalDescription>
+          <identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/afl/id/13</identifier>
+          <location>
+            <url usage="primary display" access="object in context">http://cdm16694.contentdm.oclc.org/cdm/ref/collection/afl/id/13</url>
+          </location>
+          <location>
+            <url access="preview">http://cdm16694.contentdm.oclc.org/utils/getthumbnail/collection/afl/id/13</url>
+          </location>
+          <accessCondition>This digital image may be used for educational uses. Please cite as Village of Altamont Archives and Museum. Prior written permission is required for any other use of the images.</accessCondition>
+          <subject>
+            <topic>Altamont (N.Y.)</topic>
+          </subject>
+          <subject>
+            <topic>Libraries</topic>
+          </subject>
+          <subject>
+            <topic>Librarians</topic>
+          </subject>
+          <subject>
+            <topic>Committees</topic>
+          </subject>
+          <subject>
+            <topic>Associations, institutions, etc. -- Membership</topic>
+          </subject>
+          <subject>
+            <topic>Ordinances, Municipal</topic>
+          </subject>
+          <subject>
+            <topic>Libraries</topic>
+          </subject>
+          <subject>
+            <topic>Librarians</topic>
+          </subject>
+          <subject>
+            <topic>Committees</topic>
+          </subject>
+          <subject>
+            <topic>Constitutions</topic>
+          </subject>
+          <subject>
+            <topic>Altamont Free Library</topic>
+          </subject>
+          <subject>
+            <topic>Community &amp; Events</topic>
+          </subject>
+          <subject>
+            <topic>Government, Law &amp; Politics</topic>
+          </subject>
+          <subject>
+            <geographic>New York</geographic>
+          </subject>
+          <subject>
+            <geographic>Village of Altamont - Albany County - New York</geographic>
+          </subject>
+          <typeOfResource>text</typeOfResource>
+          <note type="ownership">Altamont Free Library</note>
+        </mods>
+      </metadata>
+      <about>
+        <oaiProvenance:provenance xmlns:oaiProvenance="http://www.openarchives.org/OAI/2.0/provenance" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/provenance http://www.openarchives.org/OAI/2.0/provenance.xsd">
+          <oaiProvenance:originDescription harvestDate="2014-09-30" altered="true">
+            <oaiProvenance:baseURL>http://cdm16694.contentdm.oclc.org/oai/oai.php</oaiProvenance:baseURL>
+            <oaiProvenance:identifier>oai:cdm16694.contentdm.oclc.org:afl/13</oaiProvenance:identifier>
+            <oaiProvenance:datestamp>2014-09-30</oaiProvenance:datestamp>
+            <oaiProvenance:metadataNamespace>http://www.openarchives.org/OAI/2.0/</oaiProvenance:metadataNamespace>
+          </oaiProvenance:originDescription>
+        </oaiProvenance:provenance>
+      </about>
+    </record>
+  </ListRecords>
+</OAI-PMH>

@@ -1,0 +1,968 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2015-03-12T17:03:53Z</responseDate><request>http://dcmny.org/oai2</request><ListRecords><record><header><identifier>oai:dcmny.org:bronxpark_3249</identifier><datestamp>2014-10-10T13:42:46Z</datestamp><setSpec>bronxpark_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Big bathtub</title>
+  </titleInfo>
+  <abstract>Back caption: New York Zoological Park (Bronx Zoo) / The big bathtub / Polar Bears in the Bronx Zoo seem to enjoy summer weather, for they have a huge swimming pool for use on hot days.</abstract>
+  <note type="dateuncontrolled">ca. 1950</note>
+  <name type="corporate">
+    <namePart>East and West Postcard Co.</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Printer</roleTerm>
+    </role>
+  </name>
+  <genre authority="lctgm">Postcards</genre>
+  <subject authority="lcsh">
+    <geographic>Bronx (New York, N.Y.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Wildlife Conservation Society Archives Collection 2016</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Digitized by Wildlife Conservation Society Archives</note>
+  <accessCondition type="use and reproduction">For rights and permissions, please contact the Wildlife Conservation Society Archives, library@wcs.org</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <identifier type="local">2016-pc-357</identifier>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <subject>
+    <topic>Bronx Zoo</topic>
+  </subject>
+  <subject>
+    <topic>Zoo animals</topic>
+  </subject>
+  <subject>
+    <topic>Bears</topic>
+  </subject>
+  <subject>
+    <topic>Polar bear</topic>
+  </subject>
+  <originInfo>
+    <publisher>New York Zoological Society</publisher>
+  </originInfo>
+  <physicalDescription>
+    <extent>1 postcard: b&amp;w photograph ; 9 x 14 cm</extent>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/bronxpark%3A3249</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:bronxpark_2961</identifier><datestamp>2014-10-10T13:40:22Z</datestamp><setSpec>bronxpark_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Noah's Ark</title>
+  </titleInfo>
+  <abstract>Back caption: "Noah's Ark" in the Children's Zoo in the Bronx Zoo, New York. A dozen kinds of little animals from all over the world live happily together in the Ark.</abstract>
+  <note type="dateuncontrolled">ca. 1940s</note>
+  <name type="corporate">
+    <namePart>East and West Publishing Co.</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Printer</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Gottscho, Samuel H. (Samuel Herman), 1875-1971</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Photographer</roleTerm>
+    </role>
+  </name>
+  <genre authority="lctgm">Postcards</genre>
+  <subject authority="lcsh">
+    <geographic>Bronx (New York, N.Y.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Wildlife Conservation Society Archives Collection 2016</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Digitized by Wildlife Conservation Society Archives</note>
+  <accessCondition type="use and reproduction">For rights and permissions, please contact the Wildlife Conservation Society Archives, library@wcs.org</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <identifier type="local">2016-pc-193</identifier>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <subject>
+    <topic>Bronx Zoo</topic>
+  </subject>
+  <subject>
+    <topic>Children's Zoo</topic>
+  </subject>
+  <subject>
+    <topic>Children's zoos</topic>
+  </subject>
+  <subject>
+    <topic>Zoo animals</topic>
+  </subject>
+  <subject>
+    <topic>Noah's Ark</topic>
+  </subject>
+  <originInfo>
+    <publisher>New York Zoological Society</publisher>
+  </originInfo>
+  <physicalDescription>
+    <extent>1 postcard: b&amp;w photograph ; 9 x 14 cm</extent>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/bronxpark%3A2961</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:bronxpark_3270</identifier><datestamp>2014-10-10T13:42:46Z</datestamp><setSpec>bronxpark_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Boat House on Bronx Lake, Bronx Park, N.Y. City</title>
+  </titleInfo>
+  <note displayLabel="Content Note">The Boat House was near the current site of Jungle World.</note>
+  <note type="dateuncontrolled">undated</note>
+  <genre authority="lctgm">Postcards</genre>
+  <subject authority="lcsh">
+    <geographic>Bronx (New York, N.Y.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Wildlife Conservation Society Archives Collection 2016</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Digitized by Wildlife Conservation Society Archives</note>
+  <accessCondition type="use and reproduction">For rights and permissions, please contact the Wildlife Conservation Society Archives, library@wcs.org</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <identifier type="local">2016-pc-145</identifier>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <subject>
+    <topic>Bronx Zoo</topic>
+  </subject>
+  <subject>
+    <topic>Bronx Zoo--Restaurants</topic>
+  </subject>
+  <subject>
+    <topic>Boat House Restaurant</topic>
+  </subject>
+  <subject>
+    <topic>Bronx Lake (N.Y.)</topic>
+  </subject>
+  <physicalDescription>
+    <extent>1 postcard: colored photograph ; 9 x 14 cm</extent>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/bronxpark%3A3270</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:bronxpark_3042</identifier><datestamp>2014-10-10T13:39:13Z</datestamp><setSpec>bronxpark_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Entrance to African Plains, New York Zoological Park</title>
+  </titleInfo>
+  <note type="dateuncontrolled">ca. 1940s</note>
+  <name type="corporate">
+    <namePart>Colourpicture</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Printer</roleTerm>
+    </role>
+  </name>
+  <genre authority="lctgm">Postcards</genre>
+  <subject authority="lcsh">
+    <geographic>Bronx (New York, N.Y.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Wildlife Conservation Society Archives Collection 2016</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Digitized by Wildlife Conservation Society Archives</note>
+  <accessCondition type="use and reproduction">For rights and permissions, please contact the Wildlife Conservation Society Archives, library@wcs.org</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <identifier type="local">2016-pc-091</identifier>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <subject>
+    <topic>Bronx Zoo</topic>
+  </subject>
+  <subject>
+    <topic>African Plains</topic>
+  </subject>
+  <originInfo>
+    <publisher>New York Zoological Society</publisher>
+  </originInfo>
+  <physicalDescription>
+    <extent>1 postcard: colored photograph ; 9 x 14 cm</extent>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/bronxpark%3A3042</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:bronxpark_3034</identifier><datestamp>2014-10-10T13:39:36Z</datestamp><setSpec>bronxpark_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Papyrus, sugar cane, etc. in Aquatic House New York Botanical Garden</title>
+  </titleInfo>
+  <note type="dateuncontrolled">undated</note>
+  <name type="corporate">
+    <namePart>Albertype Co.</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Printer</roleTerm>
+    </role>
+  </name>
+  <genre authority="lctgm">Postcards</genre>
+  <subject authority="lcsh">
+    <geographic>Bronx (New York, N.Y.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Archives of The New York Botanical Garden. Postcard Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Digitized by Archives of The New York Botanical Garden</note>
+  <accessCondition type="use and reproduction">For rights and permissions, please contact the LuEsther T. Mertz Library - http://library.nybg.org</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <identifier type="local">NYBG-pc-035</identifier>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <subject>
+    <topic>New York Botanical Garden</topic>
+  </subject>
+  <subject>
+    <topic>Enid A. Haupt Conservatory</topic>
+  </subject>
+  <subject>
+    <topic>Aquatic House</topic>
+  </subject>
+  <subject>
+    <topic>Papyrus</topic>
+  </subject>
+  <subject>
+    <topic>Sugarcane</topic>
+  </subject>
+  <originInfo>
+    <publisher>New York Botanical Garden</publisher>
+  </originInfo>
+  <physicalDescription>
+    <extent>1 postcard: b&amp;w photograph ; 9 x 14 cm</extent>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/bronxpark%3A3034</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:bronxpark_3272</identifier><datestamp>2014-10-10T13:42:40Z</datestamp><setSpec>bronxpark_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Riding animal, Indian Elephant New York Zoological Park</title>
+  </titleInfo>
+  <note type="dateuncontrolled">ca. 1920-1940</note>
+  <name type="corporate">
+    <namePart>Quadri-Color Co.</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Printer</roleTerm>
+    </role>
+  </name>
+  <genre authority="lctgm">Postcards</genre>
+  <subject authority="lcsh">
+    <geographic>Bronx (New York, N.Y.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Wildlife Conservation Society Archives Collection 2016</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Digitized by Wildlife Conservation Society Archives</note>
+  <accessCondition type="use and reproduction">For rights and permissions, please contact the Wildlife Conservation Society Archives, library@wcs.org</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <identifier type="local">2016-pc-209</identifier>
+  <relatedItem>
+    <note displayLabel="Series Info">NYZP postcard series number: 1502B</note>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <subject>
+    <topic>Bronx Zoo</topic>
+  </subject>
+  <subject>
+    <topic>Zoo animals</topic>
+  </subject>
+  <subject>
+    <topic>Zoo keepers</topic>
+  </subject>
+  <subject>
+    <topic>Riding animals</topic>
+  </subject>
+  <subject>
+    <topic>Elephants</topic>
+  </subject>
+  <subject>
+    <topic>Gunda (Asian elephant)</topic>
+  </subject>
+  <originInfo>
+    <publisher>New York Zoological Society</publisher>
+  </originInfo>
+  <physicalDescription>
+    <extent>1 postcard: colored photograph ; 9 x 14 cm</extent>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/bronxpark%3A3272</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:bronxpark_3209</identifier><datestamp>2014-10-10T13:38:03Z</datestamp><setSpec>bronxpark_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Sea Lion Pool and portion of Baird Court New York Zoological Park</title>
+  </titleInfo>
+  <note type="dateuncontrolled">ca. 1920-1940</note>
+  <name type="corporate">
+    <namePart>Quadri-Color Co.</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Printer</roleTerm>
+    </role>
+  </name>
+  <genre authority="lctgm">Postcards</genre>
+  <subject authority="lcsh">
+    <geographic>Bronx (New York, N.Y.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Wildlife Conservation Society Archives Collection 2016</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Digitized by Wildlife Conservation Society Archives</note>
+  <accessCondition type="use and reproduction">For rights and permissions, please contact the Wildlife Conservation Society Archives, library@wcs.org</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <identifier type="local">2016-pc-019</identifier>
+  <relatedItem>
+    <note displayLabel="Series Info">NYZP postcard series number: 4475B</note>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <subject>
+    <topic>Bronx Zoo</topic>
+  </subject>
+  <subject>
+    <topic>Sea Lion Pool</topic>
+  </subject>
+  <subject>
+    <topic>Baird Court</topic>
+  </subject>
+  <originInfo>
+    <publisher>New York Zoological Society</publisher>
+  </originInfo>
+  <physicalDescription>
+    <extent>1 postcard: colored photograph ; 9 x 14 cm</extent>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/bronxpark%3A3209</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:bronxpark_3120</identifier><datestamp>2014-10-10T13:39:15Z</datestamp><setSpec>bronxpark_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Shelter House and Lake New York Botanical Garden</title>
+  </titleInfo>
+  <note type="dateuncontrolled">undated</note>
+  <name type="corporate">
+    <namePart>Albertype Co.</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Printer</roleTerm>
+    </role>
+  </name>
+  <genre authority="lctgm">Postcards</genre>
+  <subject authority="lcsh">
+    <geographic>Bronx (New York, N.Y.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Archives of The New York Botanical Garden. Postcard Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Digitized by Archives of The New York Botanical Garden</note>
+  <accessCondition type="use and reproduction">For rights and permissions, please contact the LuEsther T. Mertz Library - http://library.nybg.org</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <identifier type="local">NYBG-pc-067</identifier>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <subject>
+    <topic>New York Botanical Garden</topic>
+  </subject>
+  <subject>
+    <topic>Shelter House</topic>
+  </subject>
+  <subject>
+    <topic>Upper Lake</topic>
+  </subject>
+  <subject>
+    <topic>Twin Lakes</topic>
+  </subject>
+  <subject>
+    <topic>Rhododendron</topic>
+  </subject>
+  <originInfo>
+    <publisher>New York Botanical Garden</publisher>
+  </originInfo>
+  <physicalDescription>
+    <extent>1 postcard: b&amp;w photograph ; 9 x 14 cm</extent>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/bronxpark%3A3120</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:bronxpark_2883</identifier><datestamp>2014-10-10T13:41:07Z</datestamp><setSpec>bronxpark_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Group of educated orang utans New York Zoological Park</title>
+  </titleInfo>
+  <note displayLabel="Inscription">Have some "Force."</note>
+  <note type="dateuncontrolled">ca. 1905</note>
+  <genre authority="lctgm">Postcards</genre>
+  <subject authority="lcsh">
+    <geographic>Bronx (New York, N.Y.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Wildlife Conservation Society Archives Collection 2016</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Digitized by Wildlife Conservation Society Archives</note>
+  <accessCondition type="use and reproduction">For rights and permissions, please contact the Wildlife Conservation Society Archives, library@wcs.org</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <identifier type="local">2016-pc-419</identifier>
+  <relatedItem>
+    <note displayLabel="Series Info">NYZP postcard series number: 416</note>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <subject>
+    <topic>Bronx Zoo</topic>
+  </subject>
+  <subject>
+    <topic>Zoo animals</topic>
+  </subject>
+  <subject>
+    <topic>Orangutan</topic>
+  </subject>
+  <originInfo>
+    <publisher>New York Zoological Society</publisher>
+  </originInfo>
+  <physicalDescription>
+    <extent>1 postcard: b&amp;w photograph, 1905 postmark, stamp, inscription ; 9 x 14 cm</extent>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/bronxpark%3A2883</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:bronxpark_3242</identifier><datestamp>2014-10-10T13:43:07Z</datestamp><setSpec>bronxpark_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Boat House, Bronx Park, New York City</title>
+  </titleInfo>
+  <note displayLabel="Content Note">The Boat House was near the current site of Jungle World.</note>
+  <note type="dateuncontrolled">ca. 1922</note>
+  <genre authority="lctgm">Postcards</genre>
+  <subject authority="lcsh">
+    <geographic>Bronx (New York, N.Y.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Wildlife Conservation Society Archives Collection 2016</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Digitized by Wildlife Conservation Society Archives</note>
+  <accessCondition type="use and reproduction">For rights and permissions, please contact the Wildlife Conservation Society Archives, library@wcs.org</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <identifier type="local">2016-pc-133</identifier>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <subject>
+    <topic>Bronx Zoo</topic>
+  </subject>
+  <subject>
+    <topic>Bronx Zoo--Restaurants</topic>
+  </subject>
+  <subject>
+    <topic>Boat House Restaurant</topic>
+  </subject>
+  <subject>
+    <topic>Bronx Lake (N.Y.)</topic>
+  </subject>
+  <physicalDescription>
+    <extent>1 postcard: colored photograph, 1922 postmark, stamp, inscription ; 9 x 14 cm</extent>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/bronxpark%3A3242</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:bronxpark_3230</identifier><datestamp>2014-10-10T13:41:50Z</datestamp><setSpec>bronxpark_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>The mansion, N.Y. Botanical Garden</title>
+  </titleInfo>
+  <note type="dateuncontrolled">undated</note>
+  <genre authority="lctgm">Postcards</genre>
+  <subject authority="lcsh">
+    <geographic>Bronx (New York, N.Y.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Archives of The New York Botanical Garden. Postcard Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Digitized by Archives of The New York Botanical Garden</note>
+  <accessCondition type="use and reproduction">For rights and permissions, please contact the LuEsther T. Mertz Library - http://library.nybg.org</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <identifier type="local">NYBG-pc-009</identifier>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <subject>
+    <topic>New York Botanical Garden</topic>
+  </subject>
+  <subject>
+    <topic>Lorillard Mansion</topic>
+  </subject>
+  <originInfo>
+    <publisher>Albertype Co.</publisher>
+  </originInfo>
+  <physicalDescription>
+    <extent>1 postcard: b&amp;w photograph ; 9 x 14 cm</extent>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/bronxpark%3A3230</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:bronxpark_2937</identifier><datestamp>2014-10-10T13:42:24Z</datestamp><setSpec>bronxpark_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Malay tiger "Princeton" New York Zoological Park</title>
+  </titleInfo>
+  <note type="dateuncontrolled">ca. 1920-1940</note>
+  <name type="corporate">
+    <namePart>Quadri-Color Co.</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Printer</roleTerm>
+    </role>
+  </name>
+  <genre authority="lctgm">Postcards</genre>
+  <subject authority="lcsh">
+    <geographic>Bronx (New York, N.Y.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Wildlife Conservation Society Archives Collection 2016</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Digitized by Wildlife Conservation Society Archives</note>
+  <accessCondition type="use and reproduction">For rights and permissions, please contact the Wildlife Conservation Society Archives, library@wcs.org</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <identifier type="local">2016-pc-345</identifier>
+  <relatedItem>
+    <note displayLabel="Series Info">NYZP postcard series number: 1422B</note>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <subject>
+    <topic>Bronx Zoo</topic>
+  </subject>
+  <subject>
+    <topic>Zoo animals</topic>
+  </subject>
+  <subject>
+    <topic>Tiger</topic>
+  </subject>
+  <subject>
+    <topic>Princeton (Tiger)</topic>
+  </subject>
+  <originInfo>
+    <publisher>New York Zoological Society</publisher>
+  </originInfo>
+  <physicalDescription>
+    <extent>1 postcard: colored photograph ; 9 x 14 cm</extent>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/bronxpark%3A2937</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:bronxpark_2963</identifier><datestamp>2014-10-10T13:38:19Z</datestamp><setSpec>bronxpark_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Bluejay family</title>
+  </titleInfo>
+  <abstract>Back caption: Bluejay family / Eastern North America / New York Zoological Park</abstract>
+  <name type="corporate">
+    <namePart>Meriden Gravure Co.</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Printer</roleTerm>
+    </role>
+  </name>
+  <genre authority="lctgm">Postcards</genre>
+  <subject authority="lcsh">
+    <geographic>Bronx (New York, N.Y.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Wildlife Conservation Society Archives Collection 2016</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Digitized by Wildlife Conservation Society Archives</note>
+  <accessCondition type="use and reproduction">For rights and permissions, please contact the Wildlife Conservation Society Archives, library@wcs.org</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <identifier type="local">2016-pc-261</identifier>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <subject>
+    <topic>Bronx Zoo</topic>
+  </subject>
+  <subject>
+    <topic>Zoo animals</topic>
+  </subject>
+  <subject>
+    <topic>Blue jay</topic>
+  </subject>
+  <originInfo>
+    <publisher>New York Zoological Society</publisher>
+    <dateIssued encoding="iso8601">1944</dateIssued>
+  </originInfo>
+  <physicalDescription>
+    <extent>1 postcard: b&amp;w photograph ; 9 x 14 cm</extent>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/bronxpark%3A2963</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:bronxpark_3241</identifier><datestamp>2014-10-10T13:43:06Z</datestamp><setSpec>bronxpark_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Boston Road Entrance New York Zoological Park</title>
+  </titleInfo>
+  <note displayLabel="Content Note">The Boston Road Entrance was near the current site of the Asia Gate.</note>
+  <note type="dateuncontrolled">ca. 1908</note>
+  <name type="corporate">
+    <namePart>American Colortype Co.</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Printer</roleTerm>
+    </role>
+  </name>
+  <genre authority="lctgm">Postcards</genre>
+  <subject authority="lcsh">
+    <geographic>Bronx (New York, N.Y.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Wildlife Conservation Society Archives Collection 2016</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Digitized by Wildlife Conservation Society Archives</note>
+  <accessCondition type="use and reproduction">For rights and permissions, please contact the Wildlife Conservation Society Archives, library@wcs.org</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <identifier type="local">2016-pc-101</identifier>
+  <relatedItem>
+    <note displayLabel="Series Info">NYZP postcard series number: 4210B</note>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <subject>
+    <topic>Bronx Zoo</topic>
+  </subject>
+  <subject>
+    <topic>Bronx Zoo--Entrances</topic>
+  </subject>
+  <originInfo>
+    <publisher>New York Zoological Society</publisher>
+  </originInfo>
+  <physicalDescription>
+    <extent>1 postcard: colored photograph ; 9 x 14 cm</extent>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/bronxpark%3A3241</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:bronxpark_3225</identifier><datestamp>2014-10-10T13:40:33Z</datestamp><setSpec>bronxpark_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Giraffes New York Zoological Park</title>
+  </titleInfo>
+  <note type="dateuncontrolled">ca. 1920-1940</note>
+  <name type="corporate">
+    <namePart>Quadri-Color Co.</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Printer</roleTerm>
+    </role>
+  </name>
+  <genre authority="lctgm">Postcards</genre>
+  <subject authority="lcsh">
+    <geographic>Bronx (New York, N.Y.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Wildlife Conservation Society Archives Collection 2016</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Digitized by Wildlife Conservation Society Archives</note>
+  <accessCondition type="use and reproduction">For rights and permissions, please contact the Wildlife Conservation Society Archives, library@wcs.org</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <identifier type="local">2016-pc-529</identifier>
+  <relatedItem>
+    <note displayLabel="Series Info">NYZP postcard series number: 3161B</note>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <subject>
+    <topic>Bronx Zoo</topic>
+  </subject>
+  <subject>
+    <topic>Zoo animals</topic>
+  </subject>
+  <subject>
+    <topic>Zoo keepers</topic>
+  </subject>
+  <subject>
+    <topic>Giraffe</topic>
+  </subject>
+  <originInfo>
+    <publisher>New York Zoological Society</publisher>
+  </originInfo>
+  <physicalDescription>
+    <extent>1 postcard: colored photograph ; 9 x 14 cm</extent>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/bronxpark%3A3225</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:bronxpark_2941</identifier><datestamp>2014-10-10T13:40:05Z</datestamp><setSpec>bronxpark_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>American bison New York Zoological Society</title>
+  </titleInfo>
+  <note type="dateuncontrolled">ca. 1920-1940</note>
+  <name type="corporate">
+    <namePart>Quadri-Color Co.</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Printer</roleTerm>
+    </role>
+  </name>
+  <genre authority="lctgm">Postcards</genre>
+  <subject authority="lcsh">
+    <geographic>Bronx (New York, N.Y.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Wildlife Conservation Society Archives Collection 2016</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Digitized by Wildlife Conservation Society Archives</note>
+  <accessCondition type="use and reproduction">For rights and permissions, please contact the Wildlife Conservation Society Archives, library@wcs.org</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <identifier type="local">2016-pc-473</identifier>
+  <relatedItem>
+    <note displayLabel="Series Info">NYZP postcard series number: 3743B</note>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <subject>
+    <topic>Bronx Zoo</topic>
+  </subject>
+  <subject>
+    <topic>Zoo animals</topic>
+  </subject>
+  <subject>
+    <topic>American bison</topic>
+  </subject>
+  <originInfo>
+    <publisher>New York Zoological Society</publisher>
+  </originInfo>
+  <physicalDescription>
+    <extent>1 postcard: colored photograph ; 9 x 14 cm</extent>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/bronxpark%3A2941</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:bronxpark_3192</identifier><datestamp>2014-10-10T13:39:29Z</datestamp><setSpec>bronxpark_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Chimpanzees New York Zoological Park</title>
+  </titleInfo>
+  <note type="dateuncontrolled">ca. 1920-1940</note>
+  <name type="corporate">
+    <namePart>Quadri-Color Co.</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Printer</roleTerm>
+    </role>
+  </name>
+  <genre authority="lctgm">Postcards</genre>
+  <subject authority="lcsh">
+    <geographic>Bronx (New York, N.Y.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Wildlife Conservation Society Archives Collection 2016</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Digitized by Wildlife Conservation Society Archives</note>
+  <accessCondition type="use and reproduction">For rights and permissions, please contact the Wildlife Conservation Society Archives, library@wcs.org</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <identifier type="local">2016-pc-409</identifier>
+  <relatedItem>
+    <note displayLabel="Series Info">NYZP postcard series number: 3852B</note>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <subject>
+    <topic>Bronx Zoo</topic>
+  </subject>
+  <subject>
+    <topic>Zoo animals</topic>
+  </subject>
+  <subject>
+    <topic>Chimpanzees</topic>
+  </subject>
+  <originInfo>
+    <publisher>New York Zoological Society</publisher>
+  </originInfo>
+  <physicalDescription>
+    <extent>1 postcard: colored photograph ; 9 x 14 cm</extent>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/bronxpark%3A3192</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:bronxpark_2848</identifier><datestamp>2014-10-10T13:41:43Z</datestamp><setSpec>bronxpark_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Handling a python New York Zoological Park</title>
+  </titleInfo>
+  <note type="dateuncontrolled">ca. 1920-1940</note>
+  <name type="corporate">
+    <namePart>Quadri-Color Co.</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Printer</roleTerm>
+    </role>
+  </name>
+  <genre authority="lctgm">Postcards</genre>
+  <subject authority="lcsh">
+    <geographic>Bronx (New York, N.Y.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Wildlife Conservation Society Archives Collection 2016</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Digitized by Wildlife Conservation Society Archives</note>
+  <accessCondition type="use and reproduction">For rights and permissions, please contact the Wildlife Conservation Society Archives, library@wcs.org</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <identifier type="local">2016-pc-245</identifier>
+  <relatedItem>
+    <note displayLabel="Series Info">NYZP postcard series number: 1411B</note>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <subject>
+    <topic>Bronx Zoo</topic>
+  </subject>
+  <subject>
+    <topic>Zoo animals</topic>
+  </subject>
+  <subject>
+    <topic>Zoo keepers</topic>
+  </subject>
+  <subject>
+    <topic>Python (Genus)</topic>
+  </subject>
+  <originInfo>
+    <publisher>New York Zoological Society</publisher>
+  </originInfo>
+  <physicalDescription>
+    <extent>1 postcard: colored photograph ; 9 x 14 cm</extent>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/bronxpark%3A2848</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:bronxpark_2893</identifier><datestamp>2014-10-10T13:42:14Z</datestamp><setSpec>bronxpark_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Century plant flowering, Botanical Garden, New York City</title>
+  </titleInfo>
+  <note type="dateuncontrolled">undated</note>
+  <genre authority="lctgm">Postcards</genre>
+  <subject authority="lcsh">
+    <geographic>Bronx (New York, N.Y.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Archives of The New York Botanical Garden. Postcard Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Digitized by Archives of The New York Botanical Garden</note>
+  <accessCondition type="use and reproduction">For rights and permissions, please contact the LuEsther T. Mertz Library - http://library.nybg.org</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <identifier type="local">NYBG-pc-049</identifier>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <subject>
+    <topic>New York Botanical Garden</topic>
+  </subject>
+  <subject>
+    <topic>Enid A. Haupt Conservatory</topic>
+  </subject>
+  <subject>
+    <topic>Flowers</topic>
+  </subject>
+  <subject>
+    <topic>Agave americana</topic>
+  </subject>
+  <physicalDescription>
+    <extent>1 postcard: b&amp;w photograph ; 9 x 14 cm</extent>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/bronxpark%3A2893</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:bronxpark_3130</identifier><datestamp>2014-10-10T13:39:01Z</datestamp><setSpec>bronxpark_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Riding animals, - Indian elephant, "Gunda." New York Zoological Park</title>
+  </titleInfo>
+  <note type="dateuncontrolled">undated</note>
+  <genre authority="lctgm">Postcards</genre>
+  <subject authority="lcsh">
+    <geographic>Bronx (New York, N.Y.)</geographic>
+  </subject>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Wildlife Conservation Society Archives Collection 2016</title>
+    </titleInfo>
+  </relatedItem>
+  <note>Digitized by Wildlife Conservation Society Archives</note>
+  <accessCondition type="use and reproduction">For rights and permissions, please contact the Wildlife Conservation Society Archives, library@wcs.org</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <identifier type="local">2016-pc-207</identifier>
+  <relatedItem>
+    <note displayLabel="Series Info">NYZP postcard series number: 1502B</note>
+  </relatedItem>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <subject>
+    <topic>Bronx Zoo</topic>
+  </subject>
+  <subject>
+    <topic>Zoo animals</topic>
+  </subject>
+  <subject>
+    <topic>Zoo keepers</topic>
+  </subject>
+  <subject>
+    <topic>Riding animals</topic>
+  </subject>
+  <subject>
+    <topic>Elephants</topic>
+  </subject>
+  <subject>
+    <topic>Gunda (Asian elephant)</topic>
+  </subject>
+  <originInfo>
+    <publisher>New York Zoological Society</publisher>
+  </originInfo>
+  <physicalDescription>
+    <extent>1 postcard: colored photograph ; 9 x 14 cm</extent>
+    <internetMediaType>image/jp2</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/bronxpark%3A3130</identifier>
+</mods>
+</metadata></record><resumptionToken expirationDate="2015-03-13T17:03:53Z" completeListSize="454" cursor="0">2053593589</resumptionToken></ListRecords></OAI-PMH>

@@ -1,0 +1,1463 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2014-12-18T20:27:41Z</responseDate><request verb="ListRecords" set="marlboro" metadataPrefix="oai_dc">http://www.hrvh.org/oai/oai.php</request><ListRecords><record><header status="deleted"><identifier>oai:www.hrvh.org:marlboro/0</identifier><datestamp>2012-05-10</datestamp><setSpec>marlboro</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/1</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Descendants of John Burroughs</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:description>One young woman and two girls are sitting on the steps of a house. They are identified as Ursula (center - grandaughter of  John Burroughs) and daughters of John Burroughs grandson, John.</dc:description>
+<dc:subject>Girls;</dc:subject>
+<dc:subject>Burroughs, John, 1837-1921--Family</dc:subject>
+<dc:coverage>Marlboro - Ulster County - New York;</dc:coverage>
+<dc:subject>People; Daily Life;</dc:subject>
+<dc:type>Still Image</dc:type>
+<dc:identifier>mfl.0002</dc:identifier>
+<dc:date>2005</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/1</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/2</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Site of John Burroughs&#x27; private school</dc:title>
+<dc:description>Building at the corner of Bloom and Main Streets in Marlboro where John Burroughs is believed to have held classes circa 1860 when he was 19 years old.</dc:description>
+<dc:subject>Private schools;</dc:subject>
+<dc:subject>Burroughs, John (1837-1921);</dc:subject>
+<dc:coverage>Marlboro - Ulster County - New York;</dc:coverage>
+<dc:subject>Education; Literary Tradition;</dc:subject>
+<dc:format>photograph</dc:format>
+<dc:type>image</dc:type>
+<dc:identifier>00063</dc:identifier>
+<dc:date>2005</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/2</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/3</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Looking north from Mondello&#x27;s Hotel</dc:title>
+<dc:description>A view looking north up Main Street (Route 9W) from Mondello&#x27;s Hotel in Marlboro, NY. There is a horse-drawn buggy on the dirt road. Utility poles are shown on either side of the road.</dc:description>
+<dc:subject>Utility poles; Dirt roads; Horses;</dc:subject>
+<dc:coverage>Marlboro - Ulster County - New York;</dc:coverage>
+<dc:subject>Daily Life; Transportation;</dc:subject>
+<dc:format>photograph</dc:format>
+<dc:type>Still Image</dc:type>
+<dc:identifier>0016</dc:identifier>
+<dc:date>2005</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library;</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/3</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/4</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Bell&#x27;s Mill</dc:title>
+<dc:description>Several workers at Bell&#x27;s Mill in Milton, NY.</dc:description>
+<dc:subject>Factories; Spinning machinery;</dc:subject>
+<dc:subject>Bell&#x27;s Mill (Milton, N.Y.)</dc:subject>
+<dc:coverage>Milton - Ulster County - New York</dc:coverage>
+<dc:subject>Business &amp; Industry; Work &amp; Labor; Women</dc:subject>
+<dc:format>photograph</dc:format>
+<dc:type>Still Image</dc:type>
+<dc:source>Will Plank Collection</dc:source>
+<dc:identifier>mfl.0601</dc:identifier>
+<dc:date>2005</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library;</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/4</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/5</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Farmerette</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:description>A young woman, or farmerette, wearing overalls and a hat, is picking currants in Marlboro during World War I. Two other farmerettes are in the background.</dc:description>
+<dc:subject>Fruit industry--New York (State)--Marlboro;</dc:subject>
+<dc:subject>Currants; World War, 1914-1918--New York (State)--Ulster County</dc:subject>
+<dc:coverage>Marlboro - Ulster County - New York</dc:coverage>
+<dc:subject>Agriculture; Work &amp; Labor; Women</dc:subject>
+<dc:format>photograph</dc:format>
+<dc:type>Still Image</dc:type>
+<dc:identifier>mfl.0237</dc:identifier>
+<dc:date>2005</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/5</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/6</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Flatiron Building in Marlboro, NY</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:description>The future site of the first Marlboro Free Library, the Flatiron Building is depicted here looking north up Main Street (Route 9W) and showing the unpaved streets and utility poles along the street. A carriage is parked at the east side of Main Street. King Street is shown on the left of the Flatiron Building.</dc:description>
+<dc:subject>Dirt roads; Buildings;</dc:subject>
+<dc:subject>Flatiron Building (Marlboro, N.Y.)</dc:subject>
+<dc:coverage>Marlboro - Ulster County - New York</dc:coverage>
+<dc:subject>Architecture;</dc:subject>
+<dc:type>Still Image</dc:type>
+<dc:identifier>mfl.0012</dc:identifier>
+<dc:date>2005</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/6</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/7</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Rink Building Button Factory</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:description>Adults and children outside the Button Factory in the Rink Building, located at the southeast corner of Route 9W and Dock Road in Marlboro, New York.</dc:description>
+<dc:subject>Factories;</dc:subject>
+<dc:subject>Rink Building (Marlboro, N.Y.);</dc:subject>
+<dc:coverage>Marlboro - Ulster County - New York;</dc:coverage>
+<dc:subject>People; Work &amp; Labor;</dc:subject>
+<dc:format>photograph</dc:format>
+<dc:type>Still Image</dc:type>
+<dc:identifier>mfl.0166</dc:identifier>
+<dc:date>2005</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/7</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/8</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Boots and Shoes store</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:description>A man is standing outside the Boots and Shoes store on Western Avenue in Marlboro, NY. The store sign states &quot;Boots and Shoes, Gents furnishing goods.&quot;</dc:description>
+<dc:subject>Stores &amp; shops;</dc:subject>
+<dc:coverage>Marlboro - Ulster County - New York;</dc:coverage>
+<dc:subject>Business &amp; Industry; Architecture</dc:subject>
+<dc:type>Still Image</dc:type>
+<dc:source>Badner Collection</dc:source>
+<dc:identifier>mfl.0723</dc:identifier>
+<dc:date>2005</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/8</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/9</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Old Home Week, Marlboro, New York</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:date>1897</dc:date>
+<dc:description>Looking south on Western Avenue during Old Home Week celebrations in Marlboro. A horse and a wagon are in front of Warren&#x27;s Market, a small automobile is on the side of the street, and two horses pulling something not in the photo are in the street. Flags and patriotic banners fly from buildings and wires. Several people are on the street and sidewalks. B. Herberich Bakery is in the Berean Building.</dc:description>
+<dc:subject>Celebrations--New York (State)--Marlboro; Horses; Carts &amp; wagons; Flags; Storefronts</dc:subject>
+<dc:subject>Old Home Week (Marlboro, N.Y.); Warren&#x27;s Market (Marlboro, N.Y.); B. Herberich Bakery (Marlboro, N.Y.); Berean Building (Marlboro, N.Y.)</dc:subject>
+<dc:coverage>Marlboro - Ulster County - New York;</dc:coverage>
+<dc:subject>Community &amp; Events;</dc:subject>
+<dc:format>photograph</dc:format>
+<dc:type>Still Image</dc:type>
+<dc:identifier>mfl.0009</dc:identifier>
+<dc:date>2005</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/9</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/10</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Farmerettes</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:description>Three young women are in a car and a fourth is holding a bucket. These young women are farmerettes. A fifth person, a young girl, is watching the women and the car. The car&#x27;s windshield has stickers or playbills that read, in part, &quot;Address by...,&quot;Marlboro, NY July 25.&quot; Farmerettes typically helped with the harvest of currants during World War I.</dc:description>
+<dc:subject>Fruit industry--New York (State)--Ulster County; Automobiles--1910-1920</dc:subject>
+<dc:subject>World War, 1914-1918--New York (State)--Ulster County;</dc:subject>
+<dc:coverage>Marlboro - Ulster County - New York</dc:coverage>
+<dc:subject>Agriculture; Work &amp; Labor; Women</dc:subject>
+<dc:format>photograph</dc:format>
+<dc:type>Still Image</dc:type>
+<dc:identifier>mfl.0245</dc:identifier>
+<dc:date>2005</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/10</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/11</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Farmerettes picking currants</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:description>About nine young women, or farmerettes, picking currants in Marlboro during World War I.</dc:description>
+<dc:subject>Fruit industry--New York (State)--Marlboro;</dc:subject>
+<dc:subject>Currants; World War, 1914-1918--New York (State)--Ulster County</dc:subject>
+<dc:coverage>Marlboro - Ulster County - New York;</dc:coverage>
+<dc:subject>Agriculture; Work &amp; Labor; Women</dc:subject>
+<dc:format>photograph</dc:format>
+<dc:type>Still Image</dc:type>
+<dc:identifier>mfl.0247</dc:identifier>
+<dc:date>2005</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/11</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/12</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Farmerettes picking currants</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:description>About 15 young women, or Farmerettes, picking currants in a field in Marlboro during World War I.</dc:description>
+<dc:subject>Fruit industry--New York (State)--Marlboro;</dc:subject>
+<dc:subject>Currants; World War, 1914-1918--New York (State)--Ulster County</dc:subject>
+<dc:coverage>Marlboro - Ulster County - New York;</dc:coverage>
+<dc:subject>Agriculture; Work &amp; Labor; Women</dc:subject>
+<dc:type>Still Image</dc:type>
+<dc:identifier>mfl.0251</dc:identifier>
+<dc:date>2005</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/12</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/13</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Frederic Goudy work shop</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:description>The workshop of Frederic Goudy. A wicker chair and several tables and stands are in the room. Two windows and two skylights are seen, as are a desk lamp and two overhead pull-chain lights (one without a bulb). Frederic Goudy was an American type designer.</dc:description>
+<dc:subject>Workshops</dc:subject>
+<dc:subject>Type designers</dc:subject>
+<dc:subject>Goudy, Frederic W. (Frederic William), 1865-1947;</dc:subject>
+<dc:coverage>Marlboro - Ulster County - New York;</dc:coverage>
+<dc:subject>Business &amp; Industry;</dc:subject>
+<dc:format>photograph</dc:format>
+<dc:type>Still Image</dc:type>
+<dc:source>Goudy Collection</dc:source>
+<dc:identifier>mfl.goudy-0024</dc:identifier>
+<dc:date>2005</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/13</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/14</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Frederic and Bertha Goudy</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:date>1930-09-13</dc:date>
+<dc:description>Frederic and Bertha Goudy standing outside. Frederic Goudy was an American type designer.</dc:description>
+<dc:subject>Type designers</dc:subject>
+<dc:subject>Goudy, Frederic W. (Frederic William), 1865-1947; Goudy, Bertha, 1869-1935</dc:subject>
+<dc:coverage>Marlboro - Ulster County - New York;</dc:coverage>
+<dc:subject>People;</dc:subject>
+<dc:format>photograph</dc:format>
+<dc:type>Still Image</dc:type>
+<dc:source>Goudy Collection</dc:source>
+<dc:identifier>mfl.goudy-110</dc:identifier>
+<dc:date>2005</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/14</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/15</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Frederic Goudy by a waterfall</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:description>Frederic Goudy standing in front of a waterfall. Frederic Goudy was an American type designer.</dc:description>
+<dc:subject>Waterfalls</dc:subject>
+<dc:subject>Type designers</dc:subject>
+<dc:subject>Goudy, Frederic W. (Frederic William), 1865-1947;</dc:subject>
+<dc:coverage>Marlboro - Ulster County - New York;</dc:coverage>
+<dc:subject>People;</dc:subject>
+<dc:format>photograph</dc:format>
+<dc:type>Still Image</dc:type>
+<dc:source>Goudy Collection</dc:source>
+<dc:identifier>mfl.goudy-0004</dc:identifier>
+<dc:date>2005</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/15</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/16</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Frederic Goudy</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:description>Frederic Goudy, a young woman and a dog on a leash standing in front of a house. Frederic Goudy was an American type designer.</dc:description>
+<dc:subject>Dogs</dc:subject>
+<dc:subject>Type designers</dc:subject>
+<dc:subject>Goudy, Frederic W. (Frederic William), 1865-1947</dc:subject>
+<dc:coverage>Marlboro - Ulster County - New York;</dc:coverage>
+<dc:subject>People; Daily Life;</dc:subject>
+<dc:format>photograph</dc:format>
+<dc:type>Still Image</dc:type>
+<dc:source>Goudy Collection</dc:source>
+<dc:identifier>mfl.goudy--0058</dc:identifier>
+<dc:date>2005</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/16</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/17</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Young women</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:description>Depicts three young ladies in front of a building.They are wearing long-sleeved blouses and long skirts.</dc:description>
+<dc:subject>Women--New York (State)--Marlboro; Clothing &amp; dress;</dc:subject>
+<dc:coverage>New York (State);</dc:coverage>
+<dc:subject>People;</dc:subject>
+<dc:type>Still Image</dc:type>
+<dc:identifier>mfl.0865</dc:identifier>
+<dc:date>2005</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/17</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/18</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Dedication of the World War I Soldiers&#x27;  Monument, Marlboro, NY</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:date>1923</dc:date>
+<dc:description>The dedication of the World War I Soldiers&#x27; Monument at the corner of King Street and Main Street (Route 9W), at the site of the original  Marlboro Free Library. Several American flags and the American Legion flag are seen.</dc:description>
+<dc:subject>Flags; Celebrations--New York (State)--Marlboro; Monuments &amp; memorials--1920-1930</dc:subject>
+<dc:coverage>Marlboro - Ulster County - New York</dc:coverage>
+<dc:subject>Community &amp; Events; Military;</dc:subject>
+<dc:format>photograph</dc:format>
+<dc:type>Still Image</dc:type>
+<dc:identifier>mfl.0058</dc:identifier>
+<dc:date>2005</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/18</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/19</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Day Boat to Poughkeepsie</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:description>The Day Boat, Hudson Taylor, to Poughkeepsie, in the early 1900s. Passengers are seen on the top deck.</dc:description>
+<dc:subject>Steamboats; Flags</dc:subject>
+<dc:subject>Hudson River (N.Y. and N.J.);</dc:subject>
+<dc:coverage>New York (State);</dc:coverage>
+<dc:subject>Transportation; Recreation</dc:subject>
+<dc:format>photograph</dc:format>
+<dc:type>Still Image</dc:type>
+<dc:identifier>mfl.0010</dc:identifier>
+<dc:date>2005</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/19</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/20</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Benjamin B. O&#x27;Dell Steamboat</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:description>The Benjamin B. O&#x27;Dell, a steamboat, near Young&#x27;s Dock on the Hudson River in Marlboro</dc:description>
+<dc:subject>Steamboats</dc:subject>
+<dc:subject>Hudson River (N.Y. and N.J.);</dc:subject>
+<dc:coverage>Marlboro - Ulster County - New York;</dc:coverage>
+<dc:subject>Transportation; Recreation</dc:subject>
+<dc:type>Still Image</dc:type>
+<dc:source>Badner Collection</dc:source>
+<dc:identifier>mfl.0774</dc:identifier>
+<dc:date>2005</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/20</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/21</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Buckley&#x27;s Bridge</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:description>The Goudy stone bridge, or Buckley&#x27;s Bridge, on Old Post Road in Marlboro, NY at the Goudy home, Deepdene.</dc:description>
+<dc:subject>Stone bridges</dc:subject>
+<dc:coverage>Marlboro - Ulster County - New York;</dc:coverage>
+<dc:subject>Architecture; Landscape &amp; Nature;</dc:subject>
+<dc:type>Still Image</dc:type>
+<dc:source>Goudy Collection</dc:source>
+<dc:identifier>mfl.goudy--0036</dc:identifier>
+<dc:date>2005</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/21</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/22</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Young&#x27;s Dock</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:description>Young&#x27;s Dock on the Hudson River in Marlboro. The Marlboro Yacht Club is now located here (2005).</dc:description>
+<dc:subject>Loading docks;</dc:subject>
+<dc:subject>Hudson River (N.Y. and N.J.)</dc:subject>
+<dc:coverage>Marlboro - Ulster County - New York;</dc:coverage>
+<dc:subject>Architecture; Landscape &amp; Nature;</dc:subject>
+<dc:format>photograph</dc:format>
+<dc:type>Still Image</dc:type>
+<dc:identifier>mfl.0810</dc:identifier>
+<dc:date>2005</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/22</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/23</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Marlboro High School</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:date>1904</dc:date>
+<dc:description>Students at the old Marlboro High School in a classroom, most sitting at desks. Miss Keller and Mr. Mabie are the teachers. Students are (from list on back of photo): Greaves, Frances Warren, Bertha Baildon, Emma Lyons, Clara L. Palmer, Maude H. Greaves, Frances Rhine, Lola Baildon, Eva nd Effie Terwilleger, Jessie Lawson, Louise L. Young, Ethel M. Warren, Ethel McCarthy, Lena, Edna J. McCullough, Emma M. Baxter, Mae Larson, Ralph Hauf..., Bert Kniffin, Oscar Shortt, Edmund Staples, Joseph Morrow (?), William Greiner, Edward Barry, George Shortt, James Dowd, William Warden, Arthur, Charles, Everett, Ernest R. D...., Walter Sutcliffe, Edward, John DuBois.</dc:description>
+<dc:subject>Students; Teachers; Classrooms; Desks</dc:subject>
+<dc:subject>Marlboro (N.Y.) Central School (1888-1937)</dc:subject>
+<dc:coverage>Marlboro - Ulster County - New York</dc:coverage>
+<dc:subject>Education; People;</dc:subject>
+<dc:type>Still Image</dc:type>
+<dc:identifier>mfl.0494</dc:identifier>
+<dc:date>2005</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/23</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/24</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Old Marlboro Central School</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:date>1950-05-04</dc:date>
+<dc:description>A view looking west from the vineyards where the current Marlboro Elementary School sits, with the old Marlboro High School on the hill (current Marlboro Middle School). Route 9W is shown. A machine is working on installing the gas line for Central Hudson.</dc:description>
+<dc:subject>Schools;</dc:subject>
+<dc:subject>Vineyards</dc:subject>
+<dc:subject>Marlboro (N.Y.) Central School (1888-1937) ; Central Hudson Gas and Electric Corporation</dc:subject>
+<dc:coverage>Marlboro - Ulster County - New York</dc:coverage>
+<dc:subject>Architecture; Education; Agriculture</dc:subject>
+<dc:format>photograph</dc:format>
+<dc:type>Still Image</dc:type>
+<dc:identifier>mfl.0499</dc:identifier>
+<dc:date>2005</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/24</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/25</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>St. James Basketball Team</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:date>1928-1929</dc:date>
+<dc:description>Basketball Team from St. James Church in Milton, New York. From left to right: Coach Conroy, C. Gledura, G. Sears, M. LaPolla, F. Warren, B. Timan</dc:description>
+<dc:subject>Basketball players; Uniforms</dc:subject>
+<dc:coverage>Milton - Ulster County - New York;</dc:coverage>
+<dc:subject>Recreation; People; Sports</dc:subject>
+<dc:format>photograph</dc:format>
+<dc:type>Still Image</dc:type>
+<dc:identifier>mfl.0546</dc:identifier>
+<dc:date>2005</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/25</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/26</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Baseball team</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:description>Depicts 13 men, 11 of whom are in baseball uniforms with mitts, 1 wearing a Newburgh, N.Y. uniform.</dc:description>
+<dc:subject>Baseball; Baseball players</dc:subject>
+<dc:coverage>New York (State);</dc:coverage>
+<dc:subject>Recreation; People; Sports</dc:subject>
+<dc:format>photograph</dc:format>
+<dc:type>Still Image</dc:type>
+<dc:identifier>mfl.0584</dc:identifier>
+<dc:date>2005</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/26</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/27</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Young&#x27;s Home, Marlboro, New York</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:description>Young&#x27;s home, on Young&#x27;s Road in Marlboro, NY. Standing in front are four unidentified people--a man, two women, and a young boy.</dc:description>
+<dc:subject>Houses; Clothing &amp; dress;</dc:subject>
+<dc:subject>Young&#x27;s Road (Marlboro, N.Y.)</dc:subject>
+<dc:coverage>Marlboro - Ulster County - New York;</dc:coverage>
+<dc:subject>Architecture; People; Daily Life;</dc:subject>
+<dc:format>postcard</dc:format>
+<dc:type>Still Image</dc:type>
+<dc:source>Badner Collection</dc:source>
+<dc:identifier>mfl.0823</dc:identifier>
+<dc:date>2005</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/27</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/28</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Young&#x27;s Farm, Marlboro, New York</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:date>1908-04</dc:date>
+<dc:description>Three men are involved in spraying fruit trees on Young&#x27;s Farm on Young&#x27;s Road. Two men are in a two-wheeled cart doing the spraying; the third man stands on the ground. Two horses are hitched to the cart, and each horse is wearing a covering.</dc:description>
+<dc:subject>Fruit industry--New York (State)--Marlboro; Agricultural laborers; Horses; Carts &amp; wagons;</dc:subject>
+<dc:subject>Young&#x27;s Farm (Marlboro, N.Y.);</dc:subject>
+<dc:coverage>Marlboro - Ulster County - New York;</dc:coverage>
+<dc:subject>Work &amp; Labor; Agriculture;</dc:subject>
+<dc:format>postcard</dc:format>
+<dc:type>Still Image</dc:type>
+<dc:source>Badner Collection</dc:source>
+<dc:identifier>mfl.0840</dc:identifier>
+<dc:date>2005</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/28</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/29</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>World War II collection of boxes for the Red Cross at a Milton School</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:description>Six students in front of a blackboard, each is holding a Red Cross collection box for World War II. From left to right the students are Delores Dirago, Anna Colletta, Jack Berry, Richard Marsiglia, Barbara Schiavonne, Ted Kniffen (names are listed on the back of the photo).</dc:description>
+<dc:subject>Children; Charity</dc:subject>
+<dc:subject>World War, 1939-1945--New York (State)--Ulster County;</dc:subject>
+<dc:subject>Milton (N.Y.) Elementary School (1937-    )</dc:subject>
+<dc:coverage>Milton - Ulster County - New York;</dc:coverage>
+<dc:subject>People;</dc:subject>
+<dc:type>Still Image</dc:type>
+<dc:source>Dolby/Lyons Collection</dc:source>
+<dc:identifier>mfl.0961</dc:identifier>
+<dc:date>2005</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/29</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:marlboro/30</identifier><datestamp>2012-05-10</datestamp><setSpec>marlboro</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/31</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Old Home Week, Marlboro, New York</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:date>1911-1913</dc:date>
+<dc:description>Depicts a woman and two children, a boy and a girl, outside a building displaying a &quot;Salada Tea&quot; banner in the window. Flags are flying from windows and are in the storefront windows.</dc:description>
+<dc:subject>Stores &amp; shops; Women; Children; Baby carriages; Celebrations--New York (State)--Marlboro;</dc:subject>
+<dc:subject>Old Home Week (Marlboro, N.Y.)</dc:subject>
+<dc:coverage>Marlboro - Ulster County - New York;</dc:coverage>
+<dc:subject>Community &amp; Events; Business &amp; Industry;</dc:subject>
+<dc:type>Still Image</dc:type>
+<dc:identifier>mfl.0164</dc:identifier>
+<dc:date>2005</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/31</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/32</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Advance Lodge Band, Marlboro, NY</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:date>1912-04-28</dc:date>
+<dc:description>Four rows of men in uniforms are in a room with a clock, a patriotic banner, and photos and certificates in frames. The photo is hand-labeled in white, &quot;Co. 50, U.R. K&amp;P, N.Y. Brigade, 2nd Advance Lodge, April 28, 1912.&quot; Some of the men are in lighter-colored uniforms carrying musical instruments. Some are in darker uniforms carrying swords or sabers. One man is in a uniform of a drum major. The drum is marked &quot;Advance Lodge Band Marlboro, N.Y.&quot;</dc:description>
+<dc:subject>Bands; Musical instruments;</dc:subject>
+<dc:coverage>Marlboro - Ulster County - New York</dc:coverage>
+<dc:subject>Arts &amp; Entertainment; Community &amp; Events; People;</dc:subject>
+<dc:format>photograph</dc:format>
+<dc:type>Still Image</dc:type>
+<dc:identifier>mfl.0167</dc:identifier>
+<dc:date>2005</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/32</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/33</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>William Badner</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:description>A young boy is standing, wearing boots, gloves, a jacket and a hat with a feather and with a white handkerchief in his pocket. &quot;William Badner&quot; is handwritten on the bottom.</dc:description>
+<dc:subject>Boys; Hats; Clothing &amp; dress;</dc:subject>
+<dc:subject>Badner, William</dc:subject>
+<dc:subject>People;</dc:subject>
+<dc:format>postcard</dc:format>
+<dc:type>Still Image</dc:type>
+<dc:source>Badner Collection</dc:source>
+<dc:identifier>mfl.0654</dc:identifier>
+<dc:date>2005</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/33</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/34</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Moving the Marlboro Hardware Store building</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:date>1896</dc:date>
+<dc:description>Preparations to move the Marlboro Hardware Store building to its present site on Route 9W north of Western Avenue are being made. Eight men are standing in front of the building on Western Ave.</dc:description>
+<dc:subject>Moving of structures--New York (State)--Marlboro; Hardware stores</dc:subject>
+<dc:subject>Marlboro Hardware Store (N.Y.);</dc:subject>
+<dc:coverage>Marlboro - Ulster County - New York;</dc:coverage>
+<dc:subject>Architecture; Work &amp; Labor; People;</dc:subject>
+<dc:format>photograph</dc:format>
+<dc:type>Still Image</dc:type>
+<dc:source>Badner Collection</dc:source>
+<dc:identifier>mfl.0689</dc:identifier>
+<dc:date>2005</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/34</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/35</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>A celebration at the Marlboro Free Library</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:description>Flags are flying and a crowd of people are gathered in front of the Marlboro Free Library building at Route 9W (Main Street) and King Street. The celebration may be the dedication of the Library or of the war memorial in front of the Library.</dc:description>
+<dc:subject>Celebrations; Crowds; Flags;</dc:subject>
+<dc:subject>Marlboro Free Library (N.Y.)</dc:subject>
+<dc:coverage>Marlboro - Ulster County - New York</dc:coverage>
+<dc:subject>Community &amp; Events;</dc:subject>
+<dc:format>photograph</dc:format>
+<dc:type>Still Image</dc:type>
+<dc:identifier>mfl.0701</dc:identifier>
+<dc:date>2005</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/35</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/36</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Old Home Week, Marlboro, New York</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:date>1911-1913</dc:date>
+<dc:description>A parade down Main Street (Route 9W) during Old Home Week in Marlboro. A group of young girls dressed in white are pulling a small cart with flowers. A woman walks beside the girls. Behind them are four women on foot, followed by several cars. Cars are parked along the street, some with people inside watching the parade. Flags and patriotic banners are on cars, buildings, and utility poles. One building has a sign that reads &quot;Rubber tire repairing.&quot;</dc:description>
+<dc:subject>Parades &amp; processions; Girls; Flags; Automobiles; Celebrations--New York (State)--Marlboro;</dc:subject>
+<dc:subject>Old Home Week (Marlboro, N.Y.)</dc:subject>
+<dc:coverage>Marlboro - Ulster County - New York;</dc:coverage>
+<dc:subject>Community &amp; Events</dc:subject>
+<dc:format>photograph</dc:format>
+<dc:type>Still Image</dc:type>
+<dc:identifier>mfl.0702</dc:identifier>
+<dc:date>2005</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/36</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/37</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Marlboro High School Baseball Team</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:date>1945-06</dc:date>
+<dc:description>The Marlboro High School Baseball Team is sitting on bleachers. All are in uniform except for the coach and one student.</dc:description>
+<dc:subject>Baseball players</dc:subject>
+<dc:subject>Marlboro (N.Y.) High School (1937-1967)</dc:subject>
+<dc:coverage>Marlboro - Ulster County - New York;</dc:coverage>
+<dc:subject>Education; Recreation; People; Sports</dc:subject>
+<dc:format>photograph</dc:format>
+<dc:type>Still Image</dc:type>
+<dc:source>Dolby/Lyons Collection</dc:source>
+<dc:identifier>mfl.0938</dc:identifier>
+<dc:date>2005</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/37</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/38</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Shady Brook Farm and Buckley Bridge, Marlboro, New York</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:description>Looking across Old Post Road from the Goudy property. The Buckley Bridge runs over the creek, with the Shady Brook Farm in the background. Building also called House No. 44 on photo.</dc:description>
+<dc:subject>Resorts;</dc:subject>
+<dc:subject>Shady Brook Farm (Marlboro, N.Y.);</dc:subject>
+<dc:coverage>Marlboro - Ulster County - New York;</dc:coverage>
+<dc:subject>Landscape &amp; Nature;</dc:subject>
+<dc:type>Still Image</dc:type>
+<dc:date>2005</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/38</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:marlboro/39</identifier><datestamp>2012-05-10</datestamp><setSpec>marlboro</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:marlboro/40</identifier><datestamp>2012-05-10</datestamp><setSpec>marlboro</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:marlboro/41</identifier><datestamp>2012-05-10</datestamp><setSpec>marlboro</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:marlboro/42</identifier><datestamp>2012-05-10</datestamp><setSpec>marlboro</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:www.hrvh.org:marlboro/43</identifier><datestamp>2012-05-10</datestamp><setSpec>marlboro</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/44</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Farmerettes</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:description>Farmerettes in Marlboro, New York during World War I, under a tent.</dc:description>
+<dc:subject>Agricultural laborers; Tents;</dc:subject>
+<dc:coverage>Marlboro - Ulster County - New York;</dc:coverage>
+<dc:subject>Agriculture; Work &amp; Labor; Women;</dc:subject>
+<dc:format>photograph</dc:format>
+<dc:type>Still Image</dc:type>
+<dc:identifier>mfl.00253</dc:identifier>
+<dc:date>2005-10</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/44</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/45</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Farmers unloading a wagon</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:description>Farmers unloading cartons from a wagon in Marlboro, New York during World War I.</dc:description>
+<dc:subject>Carts &amp; wagons; Agricultural laborers; Farmers--New York (State)--Marlboro; Fruit industry--New York (State)--Marlboro;</dc:subject>
+<dc:coverage>Marlboro - Ulster County - New York;</dc:coverage>
+<dc:subject>Work &amp; Labor; Agriculture; Transportation;</dc:subject>
+<dc:format>photograph</dc:format>
+<dc:type>Still Image</dc:type>
+<dc:identifier>mfl.00252</dc:identifier>
+<dc:date>2005-10</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/45</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/46</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>B. Herberich Bakery</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:date>1913</dc:date>
+<dc:description>The building on Western Avenue in Marlboro with the words &quot;B. Herberich Bakery&quot; in one window and &quot;B. Herberich Confectionery&quot; in the other window. Four adults and one small child stand in front of the building.</dc:description>
+<dc:subject>Bakeries--New York (State)--Marlboro</dc:subject>
+<dc:coverage>Marlboro - Ulster County - New York</dc:coverage>
+<dc:subject>Business &amp; Industry;</dc:subject>
+<dc:format>photograph</dc:format>
+<dc:type>Still Image</dc:type>
+<dc:identifier>mfl.00974</dc:identifier>
+<dc:date>2005-10</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/46</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/47</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Hudson Taylor Steamboat</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:description>The Hudson Taylor Steamboat on the Hudson River in New York.</dc:description>
+<dc:subject>Steamboats; Boats</dc:subject>
+<dc:subject>Hudson River (N.Y. and N.J.)--Transportation;</dc:subject>
+<dc:coverage>New York (State);</dc:coverage>
+<dc:subject>Transportation; Recreation</dc:subject>
+<dc:format>photograph</dc:format>
+<dc:type>Still Image</dc:type>
+<dc:source>Badner Collection</dc:source>
+<dc:identifier>mfl.00740</dc:identifier>
+<dc:date>2005-10</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/47</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/48</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Tugboat on the Hudson River</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:description>A Hudson River steam tugboat.</dc:description>
+<dc:subject>Tugboats--New York (State);</dc:subject>
+<dc:subject>Hudson River (N.Y. and N.J.)--Transportation;</dc:subject>
+<dc:coverage>New York (State);</dc:coverage>
+<dc:subject>Transportation</dc:subject>
+<dc:format>photograph</dc:format>
+<dc:type>Still Image</dc:type>
+<dc:source>Badner Collection</dc:source>
+<dc:identifier>mfl.00796</dc:identifier>
+<dc:date>2005-10</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/48</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/49</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Warren Blacksmith Shop, Marlboro, New York</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:description>Two gentleman and a horse are standing outside of the building. One man has a horseshoe in one hand. There are several wooden wagon wheels leaning against the side of the building.</dc:description>
+<dc:subject>Blacksmiths--New York (State)--Marlboro; Forge shops;</dc:subject>
+<dc:coverage>Marlboro - Ulster County - New York;</dc:coverage>
+<dc:subject>Business &amp; Industry; Work &amp; Labor;</dc:subject>
+<dc:format>photograph</dc:format>
+<dc:type>Still Image</dc:type>
+<dc:source>Badner Collection</dc:source>
+<dc:identifier>mfl.00586</dc:identifier>
+<dc:date>2005-10</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/49</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/50</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Village of Marlboro, New York</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:description>Buildings in the village of Marlboro, NY.</dc:description>
+<dc:subject>Villages; Storefronts</dc:subject>
+<dc:coverage>Marlboro - Ulster County - New York</dc:coverage>
+<dc:subject>Architecture;</dc:subject>
+<dc:format>photograph</dc:format>
+<dc:type>Still Image</dc:type>
+<dc:identifier>mfl.00114</dc:identifier>
+<dc:date>2005-10</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/50</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/51</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Village of Marlboro, New York</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:description>Buildings in the village of Marlboro, NY.</dc:description>
+<dc:subject>Villages; Storefronts; Carts &amp; wagons;</dc:subject>
+<dc:coverage>Marlboro - Ulster County - New York</dc:coverage>
+<dc:subject>Architecture;</dc:subject>
+<dc:format>photograph</dc:format>
+<dc:type>Still Image</dc:type>
+<dc:identifier>mfl.00088</dc:identifier>
+<dc:date>2005-10</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/51</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/52</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Swimming at Shady Brook Farm, Marlboro, New York</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:description>Over a dozen people are in the water or sitting on a wall overlooking the water at Shady Brook Farm. Two unoccupied canoes are in the water.</dc:description>
+<dc:subject>Swimmers--New York (State)--Marlboro; Swimming;</dc:subject>
+<dc:subject>Shady Brook Farm (Marlboro, N.Y.);</dc:subject>
+<dc:coverage>Marlboro - Ulster County - New York;</dc:coverage>
+<dc:subject>Recreation;</dc:subject>
+<dc:format>photograph</dc:format>
+<dc:type>Still Image</dc:type>
+<dc:identifier>mfl.00241</dc:identifier>
+<dc:date>2005-10</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/52</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/53</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Poughkeepsie Steamboat</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:description>The Poughkeepsie Steamboat on the Hudson River.</dc:description>
+<dc:subject>Steamboats; Rivers</dc:subject>
+<dc:subject>Hudson River (N.Y. and N.J.)--Transportation;</dc:subject>
+<dc:coverage>New York (State);</dc:coverage>
+<dc:subject>Transportation;</dc:subject>
+<dc:format>photograph</dc:format>
+<dc:type>Still Image</dc:type>
+<dc:source>Badner Collection</dc:source>
+<dc:identifier>mfl.00731</dc:identifier>
+<dc:date>2005-10</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/53</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/54</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Bank in Marlboro, NY</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:description>The old bank at Western Avenue and Route 9W in Marlboro, NY.</dc:description>
+<dc:subject>Banks--New York (State)--Marlboro;</dc:subject>
+<dc:coverage>Marlboro - Ulster County - New York</dc:coverage>
+<dc:subject>Business &amp; Industry; Architecture;</dc:subject>
+<dc:format>photograph</dc:format>
+<dc:type>Still Image</dc:type>
+<dc:identifier>mfl.00067</dc:identifier>
+<dc:date>2005-10</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/54</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/55</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Old Home Week, Marlboro, New York</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:description>The buildings have banners on them for Old Home Week. There is a young man crossing the street. Two horse-drawn wagons are on the street.</dc:description>
+<dc:subject>Boys; Flags; Carriages &amp; coaches; Storefronts; Celebrations</dc:subject>
+<dc:subject>Old Home Week (Marlboro, N.Y.);</dc:subject>
+<dc:coverage>Marlboro - Ulster County - New York;</dc:coverage>
+<dc:subject>Community &amp; Events;</dc:subject>
+<dc:format>photograph</dc:format>
+<dc:type>Still Image</dc:type>
+<dc:identifier>mfl.00064</dc:identifier>
+<dc:date>2005-10</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/55</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/56</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Night Boat</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:description>The Night Boat to New York City.</dc:description>
+<dc:subject>Steamboats--New York (State);</dc:subject>
+<dc:subject>Hudson River (N.Y. and N.J.)--Transportation;</dc:subject>
+<dc:subject>Central Hudson Steamboat Company</dc:subject>
+<dc:coverage>New York (State);</dc:coverage>
+<dc:subject>Transportation; Recreation</dc:subject>
+<dc:format>photograph</dc:format>
+<dc:type>Still Image</dc:type>
+<dc:identifier>mfl.00005</dc:identifier>
+<dc:date>2005-10</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/56</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/57</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Milton School, Milton, N.Y.</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:description>The Milton School in Milton, New York. Four children are in front of the building. The number &quot;M18941&quot; is imprinted on the lower left of the photo.</dc:description>
+<dc:subject>Postcards; Schools; School children;</dc:subject>
+<dc:subject>Milton (N.Y) Schools;</dc:subject>
+<dc:coverage>Milton - Ulster County - New York;</dc:coverage>
+<dc:subject>Architecture; Education;</dc:subject>
+<dc:format>photograph</dc:format>
+<dc:type>Still Image</dc:type>
+<dc:identifier>mfl.00204</dc:identifier>
+<dc:date>2005-10</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/57</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/58</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Methodist Church, Marlboro, New York</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:description>The Methodist Church in Marlboro, New York.</dc:description>
+<dc:subject>Churches--New York (State)--Marlboro;</dc:subject>
+<dc:subject>Methodist churches--New York (State)--Marlboro;</dc:subject>
+<dc:subject>Methodist Church (Marlboro, N.Y.);</dc:subject>
+<dc:coverage>Marlboro - Ulster County - New York;</dc:coverage>
+<dc:subject>Architecture; Religion;</dc:subject>
+<dc:format>photograph</dc:format>
+<dc:type>Still Image</dc:type>
+<dc:identifier>mfl.00171</dc:identifier>
+<dc:date>2005-10</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/58</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/59</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Mary Powell</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:description>The steamboat Mary Powell on the Hudson River.</dc:description>
+<dc:subject>Steamboats; Ships--New York (State);</dc:subject>
+<dc:subject>Hudson River (N.Y. and N.J.)--Transportation;</dc:subject>
+<dc:coverage>New York (State);</dc:coverage>
+<dc:subject>Transportation; Recreation</dc:subject>
+<dc:format>photograph</dc:format>
+<dc:type>Still Image</dc:type>
+<dc:source>Badner Collection</dc:source>
+<dc:identifier>mfl.00754</dc:identifier>
+<dc:date>2005-10</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/59</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/60</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Marlboro Hose Company</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:description>Firefighters of the Marlboro Hose Company: Back row, standing are Tomm Gregg, Chas. Brown, Doyley Hutchins, Dimmick Bloomer, Ike Kniffer, Frank Richardson, Nattie Morgan, Pete Jackson, Speck White, Frank DuBois, Nat Jackson, Ted Covert, Mike Casey, Sidney McMullen, Lindsey Hutchins, Pat Gallagher, Howard (Toot) Kniffen, Harry McLean; seated, left to right, Link Dewitt, Elmer Yeaple; front row, seated, left to right, George Masten, Bill Newman, Herbert McMullen, Ed Mullnix, Fred Crook, Bert Kniffen.</dc:description>
+<dc:subject>Fire fighters--New York (State)--Marlboro;</dc:subject>
+<dc:coverage>Marlboro - Ulster County - New York;</dc:coverage>
+<dc:subject>Business &amp; Industry; People; Community &amp; Events;</dc:subject>
+<dc:format>photograph</dc:format>
+<dc:type>Still Image</dc:type>
+<dc:identifier>mfl.00975</dc:identifier>
+<dc:date>2005-10</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/60</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/61</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Lemonade at Shady Brook Farm</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:description>Marion Cornell Caywood pouring lemonade at Shady Brook Farm. There are over a dozen people on the lawn.</dc:description>
+<dc:subject>Resorts;</dc:subject>
+<dc:subject>Caywood, Marion Cornell</dc:subject>
+<dc:subject>Shady Brook Farm (Marlboro, N.Y.);</dc:subject>
+<dc:coverage>Marlboro - Ulster County - New York;</dc:coverage>
+<dc:subject>Recreation; Daily Life</dc:subject>
+<dc:format>photograph</dc:format>
+<dc:type>Still Image</dc:type>
+<dc:identifier>mfl.00240</dc:identifier>
+<dc:date>2005-10</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/61</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/62</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Lattintown School</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:description>A color photo of the Lattintown School building in Marlboro, New York.</dc:description>
+<dc:subject>One-room schools</dc:subject>
+<dc:subject>Marlboro (N.Y.) Lattintown School;</dc:subject>
+<dc:coverage>Marlboro - Ulster County - New York;</dc:coverage>
+<dc:subject>Architecture; Education;</dc:subject>
+<dc:format>photograph</dc:format>
+<dc:type>Still Image</dc:type>
+<dc:identifier>mfl.00611</dc:identifier>
+<dc:date>2005-10</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/62</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/63</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Marlboro Advance Lodge Band</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:description>The Advance Lodge band of Marlboro, New York in a photo taken outside. &quot;Ladies entrance&quot; sign is visible.</dc:description>
+<dc:subject>Bands; Band uniforms; Musical instruments</dc:subject>
+<dc:coverage>Marlboro - Ulster County - New York;</dc:coverage>
+<dc:subject>Arts &amp; Entertainment; Community &amp; Events; People;</dc:subject>
+<dc:format>photograph</dc:format>
+<dc:type>Still Image</dc:type>
+<dc:identifier>mfl.00309</dc:identifier>
+<dc:date>2005-10</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/63</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/64</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Hudson River Fruit Exchange</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:description>The abandoned high school building that housed the Hudson River Fruit Exchange in Marlboro, NY.</dc:description>
+<dc:subject>Fruit industry--New York (State)--Marlboro;</dc:subject>
+<dc:subject>Hudson River Fruit Exchange (Marlboro, N.Y.);</dc:subject>
+<dc:coverage>Marlboro - Ulster County - New York;</dc:coverage>
+<dc:subject>Architecture; Business &amp; Industry;</dc:subject>
+<dc:format>photograph</dc:format>
+<dc:type>Still Image</dc:type>
+<dc:identifier>mfl.00502</dc:identifier>
+<dc:date>2005-10</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/64</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/65</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Hallock House</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:description>The Hallock House of Milton, New York as seen in winter.</dc:description>
+<dc:subject>Snow; Historic buildings--New York (State)--Marlboro;</dc:subject>
+<dc:subject>Hallock House (Milton, N.Y.);</dc:subject>
+<dc:coverage>Milton - Ulster County - New York;</dc:coverage>
+<dc:subject>Architecture; Climate &amp; Weather</dc:subject>
+<dc:format>photograph</dc:format>
+<dc:type>Still Image</dc:type>
+<dc:identifier>mfl.00523</dc:identifier>
+<dc:date>2005-10</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/65</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/66</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Hudson River</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:description>A view of the Hudson River in winter.</dc:description>
+<dc:subject>Snow; Winter; Rivers</dc:subject>
+<dc:subject>Hudson River (N.Y. and N.J.);</dc:subject>
+<dc:coverage>New York (State);</dc:coverage>
+<dc:subject>Landscape &amp; Nature; Climate &amp; Weather</dc:subject>
+<dc:format>photograph</dc:format>
+<dc:type>Still Image</dc:type>
+<dc:source>Badner Collection</dc:source>
+<dc:identifier>mfl.00804</dc:identifier>
+<dc:date>2005-10</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/66</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/67</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Iceboats on the Hudson River</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:description>Four iceboats and several people on the iced-over Hudson River in New York.</dc:description>
+<dc:subject>Iceboats--New York (State);</dc:subject>
+<dc:subject>Hudson River (N.Y. and N.J.);</dc:subject>
+<dc:coverage>New York (State);</dc:coverage>
+<dc:subject>Transportation;</dc:subject>
+<dc:format>photograph</dc:format>
+<dc:type>Still Image</dc:type>
+<dc:identifier>mfl.00821</dc:identifier>
+<dc:date>2005-10</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/67</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/68</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Ketcham Post Band No. 495</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:date>1889</dc:date>
+<dc:description>The Kethcam Post Band No. 495 of Marlboro, New York. Ed McCarthy. Photo taken on Decoration Day, May 30, 1889.</dc:description>
+<dc:subject>Bands--New York (State)--Marlboro; Musical instruments; Band uniforms</dc:subject>
+<dc:coverage>Marlboro - Ulster County - New York;</dc:coverage>
+<dc:subject>Arts &amp; Entertainment; Community &amp; Events; People;</dc:subject>
+<dc:format>photograph</dc:format>
+<dc:type>Still Image</dc:type>
+<dc:source>Badner Collection</dc:source>
+<dc:identifier>mfl.00659</dc:identifier>
+<dc:date>2005-10</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/68</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/69</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Ketcham Post Band No. 495</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:description>The Ketcham Post Band No. 495 of Marlboro, New York, standing outside in winter.</dc:description>
+<dc:subject>Bands--New York (State)--Marlboro; Musical instruments; Band uniforms; Snow</dc:subject>
+<dc:coverage>Marlboro - Ulster County - New York;</dc:coverage>
+<dc:subject>Arts &amp; Entertainment; Community &amp; Events; People; Climate &amp; Weather</dc:subject>
+<dc:format>photograph</dc:format>
+<dc:type>Still Image</dc:type>
+<dc:source>Badner Collection</dc:source>
+<dc:identifier>mfl.00663</dc:identifier>
+<dc:date>2005-10</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/69</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/70</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>North Main Street, Marlborough, N.Y.</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:date>1909</dc:date>
+<dc:description>A view of Main Street in Marlboro, New York with the words &quot;North Main Street, Marlborough, N.Y.&quot; imprinted on the photo.</dc:description>
+<dc:subject>Dirt roads; Houses</dc:subject>
+<dc:coverage>Marlboro - Ulster County - New York</dc:coverage>
+<dc:subject>Architecture;</dc:subject>
+<dc:format>photograph</dc:format>
+<dc:type>Still Image</dc:type>
+<dc:identifier>mfl.00311</dc:identifier>
+<dc:date>2005-10</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/70</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/71</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Old Home Week, Marlboro, New York</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:date>1911</dc:date>
+<dc:description>A parade on Main Street in Marlboro, New York. Several women pushing baby carriages and accompanied by children can be seen marching. Automobiles are parked on both sides of the street; one has the license plate number &quot;14562.&quot; A sign hanging on one building reads, &quot;Rubber tire repairs.&quot;</dc:description>
+<dc:subject>Parades &amp; processions; Flags; Automobiles</dc:subject>
+<dc:subject>Old Home Week (Marlboro, N.Y.);</dc:subject>
+<dc:coverage>Marlboro - Ulster County - New York;</dc:coverage>
+<dc:subject>Community &amp; Events;</dc:subject>
+<dc:format>photograph</dc:format>
+<dc:type>Still Image</dc:type>
+<dc:identifier>mfl.00378</dc:identifier>
+<dc:date>2005-10</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/71</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/72</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>West Shore Railroad</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:description>The West Shore Railroad and the Hudson River.</dc:description>
+<dc:subject>Railroads--New York (State); Trees; Rivers</dc:subject>
+<dc:subject>Hudson River (N.Y. and N.J.);</dc:subject>
+<dc:coverage>New York (State);</dc:coverage>
+<dc:subject>Landscape &amp; Nature;</dc:subject>
+<dc:format>photograph</dc:format>
+<dc:type>Still Image</dc:type>
+<dc:source>Badner Collection</dc:source>
+<dc:identifier>mfl.00809</dc:identifier>
+<dc:date>2005-10</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/72</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/73</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Marlboro Public School, Marlboro, N.Y.</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:description>A postcard sent to Rose A. Tighe of Newburgh, New York from her nephew, John, of Marlboro, New York. &quot;Dear Aunt Rose, this is where I go next week. love + kisses your nephew, John.&quot; Sent to &quot;Miss Rose A. Tighe, Newburgh, NY.&quot;</dc:description>
+<dc:subject>Schools</dc:subject>
+<dc:subject>Marlboro Schools (Marlboro, N.Y.). Marlboro School--1888-1937;</dc:subject>
+<dc:coverage>Marlboro - Ulster County - New York;</dc:coverage>
+<dc:subject>Architecture; Education;</dc:subject>
+<dc:format>photograph</dc:format>
+<dc:type>Still Image</dc:type>
+<dc:identifier>mfl.00463</dc:identifier>
+<dc:date>2005-10</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/73</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/117</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Hudson River Day Line: The evolution of a hundred years</dc:title>
+<dc:creator>Hudson River Day Line</dc:creator>
+<dc:date>1907</dc:date>
+<dc:contributor>Hibbard, F. B.</dc:contributor>
+<dc:publisher>Robert L. Stillson Company</dc:publisher>
+<dc:description>Souvenir booklet documenting a hundred years (1807-1907) of the Hudson River Day Line.</dc:description>
+<dc:subject>Viewbooks;</dc:subject>
+<dc:subject>Hudson River (N.Y. and N.J.)--Transportation;</dc:subject>
+<dc:subject>Hudson River Day Line</dc:subject>
+<dc:coverage>New York (State);</dc:coverage>
+<dc:subject>Landscape &amp; Nature; Recreation; Transportation; Community &amp; Events;</dc:subject>
+<dc:language>eng</dc:language>
+<dc:format>booklet, 43 pages</dc:format>
+<dc:type>Text; Image</dc:type>
+<dc:source>Marlboro Free Libray local history collection</dc:source>
+<dc:date>2009-01</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library;</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:relation>Hudson Fulton Collection</dc:relation>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/117</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/148</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Souvenir program and guide Hudson-Fulton Celebration September 25 - October 9, 1909</dc:title>
+<dc:creator>Souvenir Program Co.</dc:creator>
+<dc:date>1909</dc:date>
+<dc:contributor>Hess, E. C.</dc:contributor>
+<dc:publisher>Souvenir Program Co.</dc:publisher>
+<dc:description>Souvenir program and schedule of events for the Hudson-Fulton Celebration in 1909. The events celebrated the discovery of the Hudson River by Henry Hudson in 1609 and the inauguration of steam navigation by Robert Fulton in 1807.</dc:description>
+<dc:subject>Viewbooks</dc:subject>
+<dc:subject>Hudson-Fulton Celebration, 1909</dc:subject>
+<dc:coverage>New York (State);</dc:coverage>
+<dc:subject>Community &amp; Events; People;</dc:subject>
+<dc:language>eng</dc:language>
+<dc:format>booklet, 30 pages</dc:format>
+<dc:type>Text; Image</dc:type>
+<dc:source>Local History Collection</dc:source>
+<dc:date>2009-01</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library;</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:relation>Hudson Fulton Collection</dc:relation>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/148</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/199</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>The Hudson River</dc:title>
+<dc:creator>L. H. Nelson Co.</dc:creator>
+<dc:date>1906</dc:date>
+<dc:publisher>L. H. Nelson Co.</dc:publisher>
+<dc:description>Picture booklet containing images of views along the Hudson River.</dc:description>
+<dc:subject>Viewbooks;</dc:subject>
+<dc:subject>Hudson River (N.Y. and N.J.);</dc:subject>
+<dc:coverage>New York (State);</dc:coverage>
+<dc:subject>Architecture; Community &amp; Events; Landscape &amp; Nature;</dc:subject>
+<dc:language>eng</dc:language>
+<dc:format>booklet, 50 pages</dc:format>
+<dc:type>Image; Text</dc:type>
+<dc:source>Local History Collection</dc:source>
+<dc:date>2009-01</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:relation>Hudson Fulton Collection</dc:relation>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/199</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/221</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Select views of Hudson</dc:title>
+<dc:creator>Jaquins &amp; Rapp</dc:creator>
+<dc:date>unknown</dc:date>
+<dc:contributor>Brandon Printing Company</dc:contributor>
+<dc:publisher>Jaquins &amp; Rapp</dc:publisher>
+<dc:description>Picture booklet containing select views of the Hudson River and surrounding areas.</dc:description>
+<dc:subject>Viewbooks;</dc:subject>
+<dc:subject>Hudson River (N.Y. and N.J.);</dc:subject>
+<dc:coverage>New York (State);</dc:coverage>
+<dc:subject>Community &amp; Events; Landscape &amp; Nature; Architecture;</dc:subject>
+<dc:language>eng</dc:language>
+<dc:format>booklet, 21 pages</dc:format>
+<dc:type>Image</dc:type>
+<dc:source>Local History Collection</dc:source>
+<dc:date>2009-01</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library;</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:relation>Hudson Fulton Collection</dc:relation>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/221</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/222</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Ketcham Post Band no. 495</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:date>1889</dc:date>
+<dc:description>The Ketcham Post Band No. 495 of Marlboro, New York. Ed McCarthy. There is one African American man in the bad. Photo taken on Decoration Day, May 30, 1889. A sign on a building reads: Dry Goods &amp; Fancy Groceries. Samuel Corwin&#x27;s Sons. Branch Office Kingston Freeman.</dc:description>
+<dc:subject>Bands--New York (State)--Marlboro; Musical instruments; Uniforms;</dc:subject>
+<dc:coverage>Marlboro - Ulster County - New York;</dc:coverage>
+<dc:subject>Arts &amp; Entertainment; Community &amp; Events; People; Business &amp; Industry;</dc:subject>
+<dc:format>photograph</dc:format>
+<dc:type>Still Image</dc:type>
+<dc:source>Badner Collection</dc:source>
+<dc:date>2010-04</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library;</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/222</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/223</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Marlborough Railroad Station</dc:title>
+<dc:creator>Unknown</dc:creator>
+<dc:description>Two men stand outside the train station in Marlboro, New York. There is a water tower to the left and a utility pole to the right of the station.</dc:description>
+<dc:subject>Railroads; Railroad stations; Water towers; Utility poles</dc:subject>
+<dc:coverage>Marlboro - Ulster County - New York;</dc:coverage>
+<dc:subject>Transportation;</dc:subject>
+<dc:format>photograph</dc:format>
+<dc:type>Still Image</dc:type>
+<dc:source>Badner Collection</dc:source>
+<dc:identifier>mflrrs</dc:identifier>
+<dc:date>2010-07</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library;</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/223</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/224</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Old Marlboro Dock</dc:title>
+<dc:creator>Unknown</dc:creator>
+<dc:description>This old Marlboro, NY Dock was located where West Shore Marine is now on Dock Road.</dc:description>
+<dc:subject>Loading docks; Flags; Horses; Carts &amp; wagons; Rivers;</dc:subject>
+<dc:subject>Flags--United States; Hudson River (N.Y. and N.J.);</dc:subject>
+<dc:coverage>Marlboro - Ulster County - New York;</dc:coverage>
+<dc:subject>Business &amp; Industry;</dc:subject>
+<dc:format>photograph</dc:format>
+<dc:type>Still Image</dc:type>
+<dc:source>DuBois Collection</dc:source>
+<dc:identifier>Marlboro Dock.jpg</dc:identifier>
+<dc:date>2010-07</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library;</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/224</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:www.hrvh.org:marlboro/225</identifier><datestamp>2014-12-11</datestamp><setSpec>marlboro</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Whitney Basket Factory, Marlboro, New York</dc:title>
+<dc:creator>Unknown</dc:creator>
+<dc:description>Whitney Basket Factory on Dock Road in Marlborough, NY.</dc:description>
+<dc:subject>Factories;</dc:subject>
+<dc:coverage>Marlboro - Ulster County - New York;</dc:coverage>
+<dc:subject>Business &amp; Industry;</dc:subject>
+<dc:format>photograph</dc:format>
+<dc:type>Still Image</dc:type>
+<dc:source>Badner Collection</dc:source>
+<dc:date>2011-03</dc:date>
+<dc:format>image/jpeg</dc:format>
+<dc:source>Marlboro Free Library;</dc:source>
+<dc:rights>This item may be used for educational and research purposes. Please contact the Marlboro Free Library for further information.</dc:rights>
+<dc:identifier>http://www.hrvh.org/cdm/ref/collection/marlboro/id/225</dc:identifier></oai_dc:dc>
+</metadata>
+</record></ListRecords></OAI-PMH>

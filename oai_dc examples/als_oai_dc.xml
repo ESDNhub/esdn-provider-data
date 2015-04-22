@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2014-09-30T18:01:48Z</responseDate><request verb="ListRecords" metadataPrefix="oai_dc" set="als">http://cdm16694.contentdm.oclc.org/oai/oai.php</request><ListRecords><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:als/0</identifier><datestamp>2012-05-16</datestamp><setSpec>als</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:als/1</identifier><datestamp>2012-05-16</datestamp><setSpec>als</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:als/2</identifier><datestamp>2012-05-16</datestamp><setSpec>als</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:als/3</identifier><datestamp>2012-05-24</datestamp><setSpec>als</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Richard Parsons, Group Photo February 2009</dc:title>
+<dc:description>A picture of E. Stewart Jones (the left) Albany Law &#x27;s board chair, the Dean Thomas Guernsey (center), with alum Richard Parsons (the right). The picture was taken in Manhattan where Parsons spoke to a group of Albany Law School alumni about President Obama and the economy.</dc:description>
+<dc:creator>Vericker, Joe</dc:creator>
+<dc:subject>Universities and colleges -- Alumni and alumnae; Speeches, addresses, etc;</dc:subject>
+<dc:subject>Portrait photographs;</dc:subject>
+<dc:subject>Jones, E. Stewart; Guernsey, Thomas; Parsons, Richard D.</dc:subject>
+<dc:subject>Albany Law School</dc:subject>
+<dc:subject>People; Community &amp; Events;</dc:subject>
+<dc:coverage>Manhattan - New York County - New York - US</dc:coverage>
+<dc:publisher>Albany Law School</dc:publisher>
+<dc:date>2009-02</dc:date>
+<dc:source>Original Digital photograph; jpeg, color; 2.28 MB (4368 x 2912)</dc:source>
+<dc:relation>IsPartOf Albany Law Magazine (Spring 2009), p. 30</dc:relation>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>00009</dc:identifier>
+<dc:relation>Albany Law School Alumni</dc:relation>
+<dc:rights>This digital image may be used for educational uses. Please cite Albany Law School. Prior written permission is required for any other use of the images from Albany Law School.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/als/id/3</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:als/4</identifier><datestamp>2012-05-24</datestamp><setSpec>als</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Richard Parsons, Law Review Yearbook Picture from 1970</dc:title>
+<dc:description>The picture of Richard D. Parsons (the left), Richard A. Langer (the center), and Michael P. Shanley (the right) was taken from the 1970 Albany Law School yearbook. The yearbook is called the Verdict. There were two pages dedicated in the yearbook to the members of the Albany Law Review a school publication. Parsons, Shanley, and Langer can be seen standing in front of a library stack. Shanley is holding a book in his right hand in the picture. All three were part of Albany Law Review.</dc:description>
+<dc:creator>The Verdict</dc:creator>
+<dc:subject>College yearbooks; Law reviews; Law students;</dc:subject>
+<dc:subject>Legal education; Law students;</dc:subject>
+<dc:subject>Parsons, Richard D.; Shanley,  Michael P. Jr.; Langer, Richard A.</dc:subject>
+<dc:subject>Albany Law School</dc:subject>
+<dc:subject>Education; People;</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:publisher>Albany Law School</dc:publisher>
+<dc:date>1970</dc:date>
+<dc:source>photograph; b &amp; w; 8.5 x 10.5 in. (21.6 x 26.7 cm.)</dc:source>
+<dc:relation>IsPartOf The Verdict Yearbook (1970), p. 39 upper right hand corner</dc:relation>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>00010</dc:identifier>
+<dc:relation>Albany Law School Alumni</dc:relation>
+<dc:rights>This digital image may be used for educational uses. Please cite Albany Law School. Prior written permission is required for any other use of the images from Albany Law School.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/als/id/4</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:als/5</identifier><datestamp>2012-05-24</datestamp><setSpec>als</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Victoria A. Graffeo,  Yearbook Picture from the Verdict 1977</dc:title>
+<dc:description>A photo of Victoria Graffeo taken for the Albany Law School yearbook called the Verdict. The picture shows the future associate Judge of the New York State Court of Appeals doing her homework.</dc:description>
+<dc:creator>The Verdict</dc:creator>
+<dc:subject>College yearbooks; Law students;</dc:subject>
+<dc:subject>Legal education; Law students; Studying</dc:subject>
+<dc:subject>Graffeo, Victoria A. (Hon.)</dc:subject>
+<dc:subject>Albany Law School</dc:subject>
+<dc:subject>Education; People;</dc:subject>
+<dc:coverage>Albany - Albany County - New York - US</dc:coverage>
+<dc:publisher>Albany Law School</dc:publisher>
+<dc:date>1977</dc:date>
+<dc:source>photograph; b &amp; w; 4.7 x 6.8 in. (12 x 17 1/2 cm.)</dc:source>
+<dc:relation>IsPartOf The Verdict Yearbook (1977), p. 71 bottom of page</dc:relation>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>00011</dc:identifier>
+<dc:relation>Albany Law School Alumni</dc:relation>
+<dc:rights>This digital image may be used for educational uses. Please cite Albany Law School. Prior written permission is required for any other use of the images from Albany Law School.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/als/id/5</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:als/6</identifier><datestamp>2014-01-03</datestamp><setSpec>als</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Lawrence H. Cooke, from Albany Law School Magazine with the caption &quot;The Chief&quot;</dc:title>
+<dc:description>A picture taken of Lawrence H. Cooke for the cover of the Albany Law School Magazine. The caption on the cover of the magazine reads &quot;The Chief&quot; because Lawrence Cooke was the  Chief Judge of the New York Court of Appeals from 1979-1984 . Cooke is pictured seated as he talks. The photo of Cooke is black and white while the text is pale yellow and the background of the cover is red. The picture was taken when Cooke gave his lecture titled &quot;Alumnus in Residence&quot; at Albany Law School in the Dean Alexander Moot Courtroom. He graduated from the law school in 1938.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Universities and colleges -- Alumni and alumnae; Judges; Law; Appellate courts;</dc:subject>
+<dc:subject>Alumni &amp; alumnae; Judges; Magazine covers;</dc:subject>
+<dc:subject>Cooke, Lawrence Henry</dc:subject>
+<dc:subject>Albany Law School</dc:subject>
+<dc:subject>Community &amp; Events; People;</dc:subject>
+<dc:coverage>Albany - Albany County - New York - US</dc:coverage>
+<dc:publisher>Albany Law School</dc:publisher>
+<dc:date>1995</dc:date>
+<dc:source>photograph; cover page, color; 8.25 x 6 .75 in. (21 x 17 cm.)</dc:source>
+<dc:relation>IsPartof The Albany Law School Magazine (Spring 1995), p. cover and page 8</dc:relation>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>00007</dc:identifier>
+<dc:relation>Albany Law School Alumni</dc:relation>
+<dc:rights>This digital image may be used for educational uses. Please cite Albany Law School. Prior written permission is required for any other use of the images from  Albany Law School.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/als/id/6</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:als/7</identifier><datestamp>2012-05-24</datestamp><setSpec>als</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Andrew Cuomo and  Gary R. Eiseman graduates from the class of 1982</dc:title>
+<dc:description>This picture was taken of Andrew Cuomo (on the left) and Gary R. Eiseman (on the right) for the Albany Law School Magazine. The magazine had an article on both Cuomo and Eiseman who both graduated in 1982. Both were working for HUD ( The Department of Housing and Urban Development). Cuomo was Secretary of the Department and Eiseman was the Deputy General Council.</dc:description>
+<dc:creator>Pollard, Don</dc:creator>
+<dc:subject>Universities and colleges -- Alumni and alumnae; United States Dept. of Housing and Urban Development -- Officials and employees</dc:subject>
+<dc:subject>Alumni &amp; alumnae; Portrait photographs;</dc:subject>
+<dc:subject>Cuomo, Andrew; Eiseman, Gary R.</dc:subject>
+<dc:subject>Albany Law School</dc:subject>
+<dc:subject>People; Government, Law &amp; Politics;</dc:subject>
+<dc:publisher>Albany Law School</dc:publisher>
+<dc:date>1997?-1998?</dc:date>
+<dc:source>photograph; b &amp; w; 9.75 x 8 in. (24.8 x 20.3 cm.)</dc:source>
+<dc:relation>IsPartof Albany Law School Magazine (Spring 1998), p. 16</dc:relation>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>00004</dc:identifier>
+<dc:relation>Albany Law School Alumni</dc:relation>
+<dc:rights>This digital image may be used for educational uses. Please cite Albany Law School. Prior written permission is required for any other use of the images from  Albany Law School.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/als/id/7</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:als/8</identifier><datestamp>2014-01-03</datestamp><setSpec>als</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Lawrence Cooke, from the Verdict Yearbook 1937</dc:title>
+<dc:description>The four class officers for 1938 are pictured in the 1937 Albany Law School yearbook called the Verdict. Lawrence Henry Cooke is the President (second from th left), Frank Seymour Higgins the Vice President (the left), Joseph Dormer Stephen the Secretary (second from the right), and Robert Craig Stewart the Treasurer (the right). In the picture all four are sitting on a bench up against a stone wall. Underneath the picture is a list of their names and and the title of their office. Lawrence Cooke was later Chief Judge of the New York State Court of Appeals from 1979-1984.</dc:description>
+<dc:creator>The Verdict</dc:creator>
+<dc:subject>Universities and colleges -- Alumni and alumnae; College yearbooks; Law students; Student government;</dc:subject>
+<dc:subject>Law students; Legal education; Portrait photographs;</dc:subject>
+<dc:subject>Cooke, Lawrence Henry; Higgins, Frank Seymour; Stephen, Joseph Dormer; Stewart, Robert Craig</dc:subject>
+<dc:subject>Albany Law School</dc:subject>
+<dc:subject>Education; People;</dc:subject>
+<dc:coverage>Albany - Albany County - New York - US</dc:coverage>
+<dc:publisher>Albany Law School</dc:publisher>
+<dc:date>1937</dc:date>
+<dc:source>photograph; b &amp; w; 10.5 x 7.5 in. (26.7 x 19 cm.)</dc:source>
+<dc:relation>IsPartOf The Verdict Yearbook (1937), p. 39</dc:relation>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>00006</dc:identifier>
+<dc:relation>Albany Law School Alumni</dc:relation>
+<dc:rights>This digital image may be used for educational uses. Please cite Albany Law School. Prior written permission is required for any other use of the images from Albany Law School.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/als/id/8</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:als/9</identifier><datestamp>2012-05-24</datestamp><setSpec>als</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Albany Law School picture taken circa 1955-56 for school catalog</dc:title>
+<dc:description>A picture taken by the Hague Studio for the 1955-1956 Albany Law School catalog. In the picture one can see two big trees in front of the building on either side with bushes along the building and a few smaller trees on the left. The image of the school was used for subsequent catalogs. Albert W. Fuller was the architect that designed the law school building. The building was built in 1928-1929. The style of the building can be described as  a Gothic stone building.</dc:description>
+<dc:creator>Hague Studio</dc:creator>
+<dc:subject>Law schools; School buildings;</dc:subject>
+<dc:subject>Buildings; Architecture; Schools;</dc:subject>
+<dc:subject>Albany Law School</dc:subject>
+<dc:subject>Architecture; Education;</dc:subject>
+<dc:coverage>Albany - Albany County - New York - US</dc:coverage>
+<dc:publisher>Albany Law School</dc:publisher>
+<dc:date>1955-1956</dc:date>
+<dc:source>photograph; b &amp; w; 8.5 x 10.5 in. (21.6 x 26.7 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>00003</dc:identifier>
+<dc:relation>Albany Law School Architecture Collection</dc:relation>
+<dc:rights>This digital image may be used for educational uses. Please cite Albany Law School. Prior written permission is required for any other use of the images from Albany Law School</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/als/id/9</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:als/10</identifier><datestamp>2012-05-24</datestamp><setSpec>als</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Dedication of the New Moot Courtroom Complex</dc:title>
+<dc:description>The dedication ceremony for the New Moot Courtroom Complex ( the room is now known as the Dean Alexander Moot Courtroom). Members of the Albany Police Fife and Drum Corp opened the ceremony. Two bagpipers can be seen walking across the room as the audience watches the ceremony. Originally the room was the library for the school until a new one was built in 1986. The picture can be found in the Verdict Yearbook 1989 along with other pictures of the dedication  of the new courtroom.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Dedication services; Rites and ceremonies; Pipe (Musical instrument); Bagpipe;</dc:subject>
+<dc:subject>Courtrooms; Celebrations; Dedications;</dc:subject>
+<dc:subject>Albany Law School</dc:subject>
+<dc:subject>Community &amp; Events; People;</dc:subject>
+<dc:coverage>Albany - Albany County - New York - US</dc:coverage>
+<dc:publisher>Albany Law School</dc:publisher>
+<dc:date>1989</dc:date>
+<dc:source>photograph; b &amp; w; 5 x 7 in. (12.7 x 17.8 cm.)</dc:source>
+<dc:relation>IsPartOf The Verdict Yearbook (1989), p.43 bottom left</dc:relation>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>00005</dc:identifier>
+<dc:relation>Albany Law School Architecture Collection</dc:relation>
+<dc:rights>This digital image may be used for educational uses. Please cite Albany Law School. Prior written permission is required for any other use of the images from Albany Law School.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/als/id/10</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:als/11</identifier><datestamp>2012-05-24</datestamp><setSpec>als</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Albany Law School on State Street 1879-1926</dc:title>
+<dc:description>Albany Law School was located on State Street from 1879-1926. This is a picture of the law school when it was located on State Street. Originally the building was a Universalist Church (the steeple was removed between 1890-1907). There are two bigger buidlings on each side of the school. There is a small tree planted in front of the building with a smooth sidewalk.  Although the date is unknown for the picture it is probably a post 1907 picture. An earlier picture showed no tree and the sidewalk was made of stone slabs.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>School buildings; Church buildings; Law schools; Sidewalks;</dc:subject>
+<dc:subject>Buildings; Sidewalks;</dc:subject>
+<dc:subject>Albany Law School</dc:subject>
+<dc:subject>Architecture; Education</dc:subject>
+<dc:coverage>Albany - Albany County - New York - US</dc:coverage>
+<dc:publisher>Albany Law School in association with Mount Ida Press</dc:publisher>
+<dc:date>unknown</dc:date>
+<dc:source>photograph; b &amp; w; 5 x 7 in. (12.7 x 17.8 cm.)</dc:source>
+<dc:relation>IsPartOf Albany Law School a Tradition in Change 1851-2001 (2000), p. 40</dc:relation>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>00002</dc:identifier>
+<dc:relation>Albany Law School Architecture Collection</dc:relation>
+<dc:rights>This digital image may be used for educational uses. Please cite Albany Law School. Prior written permission is required for any other uses of the images from Albany Law School.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/als/id/11</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:als/12</identifier><datestamp>2012-05-24</datestamp><setSpec>als</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Picture of Albany Law School in 1935</dc:title>
+<dc:description>In 1935 the picture of the law school was taken across the street from the top of a building. One can see part of the structure of the roof of the building in the picture. It is unknown as to what this building was at the time. The picture shows several cars on both Holland and New Scotland Avenue.The law school building can be described as a Gothic stone building.  A tennis court can be seen peaking out from behind the school. It looks like the picture was taken on a rainy day. There is writing on the back of the picture indicating it was a new picture of the school and it was taken for a Mr. Spaulding. It is possible that the picture may have been taken for a Fred H. Spaulding who graduated in 1900 from the law school. He is listed in the Albany Law School Alumni Directory for 1949.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>School buildings; Automobiles; Building, Stone; Law schools;</dc:subject>
+<dc:subject>Buildings; Automobiles; Streets;</dc:subject>
+<dc:subject>Albany Law School</dc:subject>
+<dc:subject>Architecture; Transportation; Recreation &amp; Sports;</dc:subject>
+<dc:coverage>Albany - Albany County - New York - US</dc:coverage>
+<dc:publisher>Albany Law School</dc:publisher>
+<dc:date>1935-08-09</dc:date>
+<dc:source>photograph; b &amp; w; 7 x 9.5 in. (17.8 x 24.1 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>00008</dc:identifier>
+<dc:relation>Albany Law School Architecture Collection</dc:relation>
+<dc:rights>This digital image may be used for educational uses. Please cite Albany Law School. Prior written permission is required for any other uses of the images from Albany Law School.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/als/id/12</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:als/13</identifier><datestamp>2012-05-24</datestamp><setSpec>als</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Albany Law School Library from 1954</dc:title>
+<dc:description>A picture of the old library from 1954 that appeared in the Verdict Yearbook. The library consisted of a large main floor with an elevated balcony that surrounded the library space. In the picture are students studying at several desks. All of the students shown are men and are dressed in suits. The library was  moved in 1986 after a  new building was built to specifically house it. What was the old library eventually became the Dean Alexander Moot Courtroom.</dc:description>
+<dc:creator>The Hague Studio</dc:creator>
+<dc:subject>Library architecture; Law students; Study environment;</dc:subject>
+<dc:subject>Libraries (Rooms); Studying; Books; Law students;</dc:subject>
+<dc:subject>Albany Law School</dc:subject>
+<dc:subject>Architecture; Education; People;</dc:subject>
+<dc:coverage>Albany - Albany County - New York - US</dc:coverage>
+<dc:publisher>Albany Law School</dc:publisher>
+<dc:date>1954</dc:date>
+<dc:source>photograph; b &amp; w; 8.5 x 10 in. (21.6 x 25.4 cm.)</dc:source>
+<dc:relation>IsPartOf The Verdict Yearbook (1954), p. 10</dc:relation>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>00001</dc:identifier>
+<dc:relation>Albany Law School Architecture Collection</dc:relation>
+<dc:rights>This digital image may be used for educational uses. Please cite Albany Law School. Prior written permission is required for any other uses of the images from Albany Law School.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/als/id/13</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:als/14</identifier><datestamp>2012-05-24</datestamp><setSpec>als</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Honor Student Fredric N. Rann, Class of 1959</dc:title>
+<dc:description>A picture of Frederic N. Rann (on the right) in his graduation cap and gown holding his daughter Lorraine (on the left). Lorraine is wearing a hat with ribbons and flowers in the back. She is kissing her father on the cheek. Mr. Rann graduated from Albany Law School on June 2, 1959. Lorraine would later attend Albany Law School like her father. She graduated in 1980 from the law school.</dc:description>
+<dc:creator>Albany Law School</dc:creator>
+<dc:subject>Law students; Academic costume;</dc:subject>
+<dc:subject>Graduation ceremonies; Law students; Portrait photographs;</dc:subject>
+<dc:subject>Rann, Fredric N.; Rann, Lorraine</dc:subject>
+<dc:subject>Albany Law School</dc:subject>
+<dc:subject>Education; People; Community &amp; Events;</dc:subject>
+<dc:coverage>Albany - Albany County - New York - US</dc:coverage>
+<dc:date>1959-06-02</dc:date>
+<dc:source>photograph; b &amp; w; 6 x 8.5 in. (15.2 x 21.6 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>00012</dc:identifier>
+<dc:relation>Graduation Photograph Collection</dc:relation>
+<dc:rights>This digital image may be used for educational uses. Please cite Albany Law School. Prior written permission is required for any other uses of the images from Albany Law School.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/als/id/14</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:als/15</identifier><datestamp>2012-05-24</datestamp><setSpec>als</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Walter R. Gelles and Myron Komar, class of 1955</dc:title>
+<dc:description>A picture of Myron Komar (the left) and Walter R. Gelles (the right) in their cap and gown on graduation day June 7, 1955. Mr. Gelles is shaking the hand of someone not pictured except for their hand.Walter Gelles was the class valedictorian and Myron Komar won the Trustees 2nd Prize.</dc:description>
+<dc:creator>Albany Law School</dc:creator>
+<dc:subject>Law students; Academic costume;</dc:subject>
+<dc:subject>Graduation ceremonies; Law students; Portrait photographs;</dc:subject>
+<dc:subject>Komar, Myron; Gelles, Walter R.</dc:subject>
+<dc:subject>Albany Law School</dc:subject>
+<dc:subject>Education; People; Community &amp; Events;</dc:subject>
+<dc:coverage>Albany - Albany County - New York - US</dc:coverage>
+<dc:date>1955-06-07</dc:date>
+<dc:source>photograph; b &amp; w; 5.5 x 4 in. (13.9 x 10.2 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>00013</dc:identifier>
+<dc:relation>Graduation Photograph Collection</dc:relation>
+<dc:rights>This digital image may be used for educational uses. Please cite Albany Law School. Prior written permission is required for any other uses of the images from Albany Law School.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/als/id/15</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:als/16</identifier><datestamp>2012-05-24</datestamp><setSpec>als</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Schaffer Law Library during construction in 1986</dc:title>
+<dc:description>A picture of the Schaffer Law Library during construction in January of 1986. A majority of the stone building is built. The framing of steel support beams for the windows can be seen. The glass had not been put in yet. Fresh snow can be seen on the ground in front of the library. There is a green construction vechicle on the left of the library in the parking lot. On the right are several pallets and trucks in the parking lot. Cars can be seen parked on the street in front of the library. A dedication ceremony for the library was on October 17, 1986. The library is named after Harry Schaffer an alum who graduated in 1921 from Albany Law School. His foundation donated 300,000 for the building of the new library. His picture along with a plaque with his name is located behind the circulation desk of the library.</dc:description>
+<dc:creator>Albany Law School</dc:creator>
+<dc:subject>Law libraries; Building; Architecture;</dc:subject>
+<dc:subject>Construction; Progress photographs; Libraries;</dc:subject>
+<dc:subject>Albany Law School</dc:subject>
+<dc:subject>Architecture; Education;</dc:subject>
+<dc:publisher>Albany Law School</dc:publisher>
+<dc:date>1986-01</dc:date>
+<dc:source>photograph; color; 5 x 8 in. (12.7 x 20.3 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>00014</dc:identifier>
+<dc:relation>Albany Law School Architecture Collection</dc:relation>
+<dc:rights>This digital image may be used for educational uses. Please cite Albany Law School. Prior written permission is required for any other uses of the images from Albany Law School</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/als/id/16</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:als/17</identifier><datestamp>2012-05-24</datestamp><setSpec>als</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Cover of the dedication ceremony program for the Schaffer Law Library</dc:title>
+<dc:description>This is a picture of the cover of the program for the dedication of the Schaffer Law Library. The picture is in color. The library is a stone building with a beautiful picture window with some small trees and bushes planted in front of the building. The cover says &quot; Schaffer Law Library within the New Law Building: Dedication and Celebration October 17, 1986, Albany Law School of Union University.&quot; The library is named after Harry Schaffer an alum who graduated in 1921 from Albany Law School. His foundation donated 300,000 for the building of the new library. His picture along with a plaque with his name is located behind the circulation desk of the library.</dc:description>
+<dc:creator>Albany Law School</dc:creator>
+<dc:subject>Law libraries; Dedication services; Rites and ceremonies;</dc:subject>
+<dc:subject>Libraries; Programs; Building dedications;</dc:subject>
+<dc:subject>Albany Law School</dc:subject>
+<dc:subject>Architecture; Community &amp; Events; Education;</dc:subject>
+<dc:publisher>Albany Law School</dc:publisher>
+<dc:date>1986-10-17</dc:date>
+<dc:source>photograph; cover page, color; 11 x 8.5 in (27.9 x 21.6 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>00015</dc:identifier>
+<dc:relation>Albany Law School Architecture Collection</dc:relation>
+<dc:rights>This digital image may be used for educational uses. Please cite Albany Law School. Prior written permission is required for any other uses of the images from Albany Law School</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/als/id/17</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:als/18</identifier><datestamp>2014-08-18</datestamp><setSpec>als</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Classroom photo from about 1965-1967 with a single female student among a class of men</dc:title>
+<dc:description>A picture of a classroom full of students sitting at desks with books open and taking notes. All of the male students are dressed in suits. There is only one female student in the class sitting in the second row (possibly Ellen G. Donovan class of 1967). She is wearing a dress suit. Two students can be identified in the photo a Robert H. Basso and a David D. Egan both class of 1967. Basso is in the front row on the left and Egan is sitting directly behind him. Egan is sitting next to the female student.</dc:description>
+<dc:creator>Albany Law School</dc:creator>
+<dc:subject>Law students; Classrooms; Men; Women</dc:subject>
+<dc:subject>Law students; Classrooms; Portrait photographs;</dc:subject>
+<dc:subject>Basso, Robert H.; Egan, David D.</dc:subject>
+<dc:subject>Albany Law School</dc:subject>
+<dc:subject>Education; People;</dc:subject>
+<dc:coverage>Albany - Albany County - New York - US</dc:coverage>
+<dc:date>1965?-1967?</dc:date>
+<dc:source>photograph; b &amp; w; 7 x 9.25 in. (17.8 x 23.5 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>00017</dc:identifier>
+<dc:relation>Albany Law School Collection</dc:relation>
+<dc:rights>This digital image may be used for educational uses. Please cite Albany Law School. Prior written permission is required for any other uses of the images from Albany Law School.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/als/id/18</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:als/19</identifier><datestamp>2014-08-18</datestamp><setSpec>als</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Classroom photo from about 1965-1967 with an all male class</dc:title>
+<dc:description>A classroom photo with all male students in it. All of the students are dressed in suits. There are books open and out on the desks with most students taking notes. Some students appear to be looking straight ahead listening to the lecture. One student identified in the photo is a Vincent J. McArdle class of 1967. Mr. McArdle is in the fourth row second from the right.</dc:description>
+<dc:creator>Albany Law School</dc:creator>
+<dc:subject>Law students; Classrooms; Men;</dc:subject>
+<dc:subject>Law students; Classrooms; Portrait photographs;</dc:subject>
+<dc:subject>McArdle, Vincent J.</dc:subject>
+<dc:subject>Albany Law School</dc:subject>
+<dc:subject>Education; People;</dc:subject>
+<dc:coverage>Albany - Albany County - New York - US</dc:coverage>
+<dc:date>1965?-1967?</dc:date>
+<dc:source>photograph; b &amp; w; 7 x 9.25 in. (17.8 x 23.5 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>00016</dc:identifier>
+<dc:relation>Albany Law School Collection</dc:relation>
+<dc:rights>This digital image may be used for educational uses. Please cite Albany Law School. Prior written permission is required for any other uses of the images from Albany Law School.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/als/id/19</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:als/20</identifier><datestamp>2012-05-24</datestamp><setSpec>als</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Albany Law School Centennial Dinner 1951</dc:title>
+<dc:description>Here is a picture taken from the Centennial dinner in 1951 celebrating Albany Law School&#x27;s anniversary. One can see rows of tables lined vertically across the gym with people sitting at the tables. On the tables can be seen the class years being represented at the dinner. Some of the class years that can be seen in the photo include 1951, 1923, 1912, 1909, 1907, and 1902 to name a few. There is a banquet table up on the stage with people sitting facing the crowd. Trellis can be seen hung throughout the gym with vines coming out of it. Stars are used for decoration and are hung from the ceiling. There is a big star hung above the banquet table on the stage.</dc:description>
+<dc:creator>Adams, Floyd</dc:creator>
+<dc:subject>Universities and colleges -- Alumni and alumnae; Anniversaries; Dinners and dining;</dc:subject>
+<dc:subject>Alumni &amp; alumnae; Centennial celebrations; Banquets;</dc:subject>
+<dc:subject>Albany Law School</dc:subject>
+<dc:subject>Community &amp; Events; People;</dc:subject>
+<dc:coverage>Albany - Albany County - New York - US</dc:coverage>
+<dc:publisher>Albany Law School in Association with Mount Ida Press</dc:publisher>
+<dc:date>1951</dc:date>
+<dc:source>Photograph; b &amp; w; 8 x 10 in. (20.3 x 25.4 cm.)</dc:source>
+<dc:relation>IsPartOf Albany Law School a Tradition in Change 1851-2001 (2000), p.104</dc:relation>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>00018</dc:identifier>
+<dc:relation>Albany Law School Alumni</dc:relation>
+<dc:rights>This digital image may be used for educational uses. Please cite Albany Law School. Prior written permission is required for any other uses of the images from Albany Law School.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/als/id/20</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:als/21</identifier><datestamp>2012-05-24</datestamp><setSpec>als</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Letter from President William McKinley to Albany Law School</dc:title>
+<dc:description>In 1901 Albany Law School honored one of its most famous Alumni President William McKinley with the degree of Doctor of Laws. He graduated from Albany Law School in 1867. President McKinley sent the law school a letter in response to the degree expressing his appreciation for the honor. The letter had Executive Mansion Washington letterhead on it and was type written. President McKinley signed the letter which was dated June 14, 1901. The letter was sent to Charles J. Buchanan the Secretary of the Board of Trustees for Albany Law School. President McKinley would be assassinated a few months later in September of 1901 in Buffalo, New York. This is a copy of the letter that appeared in the Albany Law School Annual Circular of Information in 1909. The original letter is framed for posterity.</dc:description>
+<dc:creator>President William Mckinley</dc:creator>
+<dc:subject>Presidents; Letters;</dc:subject>
+<dc:subject>Presidents; Correspondence;</dc:subject>
+<dc:subject>McKinley, William</dc:subject>
+<dc:subject>Albany Law School</dc:subject>
+<dc:subject>Government, Law &amp; Politics;</dc:subject>
+<dc:coverage>Albany - Albany County - New York - US</dc:coverage>
+<dc:publisher>Albany Law School</dc:publisher>
+<dc:date>1901-06-14</dc:date>
+<dc:source>Correspondence; typewritten letter; 8.5 x 5.5 in. (21.6 x 13.9 cm.)</dc:source>
+<dc:relation>HasVersion The original is a tpyewritten letter from President Mckinley that is framed. A reprint exists in the Albany Law School Annual Circular of Information 1909.</dc:relation>
+<dc:type>Text</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>00019</dc:identifier>
+<dc:relation>Albany Law School Alumni</dc:relation>
+<dc:rights>This digital image may be used for educational uses. Please cite Albany Law School. Prior written permission is required for any other uses of the images from Albany Law School.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/als/id/21</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:als/22</identifier><datestamp>2012-05-24</datestamp><setSpec>als</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Albany Law School Journal</dc:title>
+<dc:description>The Albany Law School Journal v. 1 no. 17 was published on April 13, 1876. One sees from the cover of the newspaper several ads for local businesses selling everything from books, stationary, portrait photography, hats, cigars, and shirts. There is a brief review of a book on   English Law that is priced at $13.00 on the upper right side of the newspaper. This is the only issue that survives to this day. Today the original is hanging in the Albany Law Review Office. A photograph of the front page was taken for inclusion in the book &quot;Albany Law School a Tradition of Change 1851-2001&quot; by Elizabeth K Allen and Diana S. Waite. The Albany Law School Journal is given credit by some as being the first student edited legal periodical. This is a photograph of the front page of the Albany Law School Journal.</dc:description>
+<dc:creator>Albany Law School</dc:creator>
+<dc:subject>Student newspapers and periodicals; Journalism, Legal;  Law reviews;</dc:subject>
+<dc:subject>Newspapers;</dc:subject>
+<dc:subject>Albany Law School</dc:subject>
+<dc:subject>Community &amp; Events;</dc:subject>
+<dc:coverage>Albany - Albany County - New York - US</dc:coverage>
+<dc:publisher>Albany Law School</dc:publisher>
+<dc:date>1876-04-13</dc:date>
+<dc:source>Photograph; b &amp; w; 10 x 8 in. (25.4 x 20.3 cm.)</dc:source>
+<dc:relation>HasVersion The original newspaper is framed and hanging in the Albany Law Review Office.</dc:relation>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>00020</dc:identifier>
+<dc:relation>Albany Law School Collection</dc:relation>
+<dc:rights>This digital image may be used for educational uses. Please cite Albany Law School. Prior written permission is required for any other uses of the images from Albany Law School.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/als/id/22</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:als/23</identifier><datestamp>2012-05-24</datestamp><setSpec>als</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Charles Breitel, Mayor Thomas Whalen, Rudolph Guiliani, and Dean Richard Bartlett</dc:title>
+<dc:description>A group photo of Charles Breitel (left), Thomas M. Whalen (second from the left), Rudolph W. Guiliani (second from the right), and Richard J. Bartlett (right) all dressed in academic robes for the Albany Law School Commencement held on May 31, 1986 at Saratoga Performing Arts Center .  Charles Breitel the former Chief Judge of the New York Court of Appeals from 1973-1978, Mayor of Albany Thomas M. Whalen from 1983-1993, and Rudolph W. Guiliani who was the US District Attorney for the Southern District of New York from 1983-1989 were honored with Doctor of Law Degrees from Albany Law School. Rudolph Guiliani gave the address at the commencement. Thomas M. Whalen graduated from Albany Law School in 1958. Richard J. Bartlett was the Dean of Albany Law School from 1979-1986.</dc:description>
+<dc:creator>Albany Law School</dc:creator>
+<dc:subject>Academic costume; Deans (Education); Mayors; Public prosecutors; Judges;</dc:subject>
+<dc:subject>Graduation ceremonies; Group portraits;</dc:subject>
+<dc:subject>Breitel, Charles; Whalen, Thomas M.; Giuliani, Rudolph W.; Bartlett, Richard J.</dc:subject>
+<dc:subject>Albany Law School</dc:subject>
+<dc:subject>Community &amp; Events; Education; People;</dc:subject>
+<dc:coverage>Saratoga - Saratoga County - New York - US</dc:coverage>
+<dc:date>1986-05-31</dc:date>
+<dc:source>Photograph; b &amp; w; 3.5 x 5 in. (8.9 x 12.7 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>00023</dc:identifier>
+<dc:relation>Graduation Photograph Collection</dc:relation>
+<dc:rights>This digital image may be used for educational uses. Please cite Albany Law School. Prior written permission is required for any other uses of the images from Albany Law School.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/als/id/23</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:als/24</identifier><datestamp>2012-05-24</datestamp><setSpec>als</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Chancellor John S. Morris and Dean Richard Bartlett</dc:title>
+<dc:description>A picture of the Dean of Albany Law School Richard J. Bartlett (left) and Chancellor of Union University John S. Morris (right) at the podium during the graduation ceremony of Albany Law School on May 31 1986 at the Saratoga Performing Arts Center. Union University is a nominal affiliation of Albany Law School with Union College, Albany Medical College, and other educational institutions, founded in 1873. The President of Union College serves as the nominal Chancellor of Union University.</dc:description>
+<dc:creator>Albany Law School</dc:creator>
+<dc:subject>Academic costume; Deans (Education); Chancellor College</dc:subject>
+<dc:subject>Graduation ceremonies; Group portraits;</dc:subject>
+<dc:subject>Bartlett, Richard J.; Morris, John S.</dc:subject>
+<dc:subject>Albany Law School</dc:subject>
+<dc:subject>Community &amp; Events; Education; People;</dc:subject>
+<dc:coverage>Saratoga - Saratoga County - New York - US</dc:coverage>
+<dc:date>1986-05-31</dc:date>
+<dc:source>Photograph; b &amp; w; 3.5 x 5 in. (8.9 x 12.7 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>00024</dc:identifier>
+<dc:relation>Graduation Photograph Collection</dc:relation>
+<dc:rights>This digital image may be used for educational uses. Please cite Albany Law School. Prior written permission is required for any other uses of the images from Albany Law School.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/als/id/24</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:als/25</identifier><datestamp>2012-05-24</datestamp><setSpec>als</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Albany Law School Library Reading Room 1968</dc:title>
+<dc:description>In 1968 a photograph was taken of the Albany Law School Library and labeled on the back of the picture &quot;Library Reading Room.&quot; The library consisted of a large main floor with an elevated balcony that surrounded the space. Large tables pushed together on the main floor can be seen in the picture with chairs around them.  Library stacks can be seen on both the main floor and the elevated balcony. The picture was taken when the library was empty of people.</dc:description>
+<dc:creator>Albany Law School</dc:creator>
+<dc:subject>Law libraries; Library architecture; Study environment;</dc:subject>
+<dc:subject>Libraries (Rooms); Libraries; Books;</dc:subject>
+<dc:subject>Albany Law School</dc:subject>
+<dc:subject>Architecture; Education;</dc:subject>
+<dc:coverage>Albany - Albany County - New York - US</dc:coverage>
+<dc:date>1968</dc:date>
+<dc:source>Photograph; b &amp; w;  7 x 9.25 in. (17.8 x 23.5 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>00025</dc:identifier>
+<dc:relation>Albany Law School Architecture Collection</dc:relation>
+<dc:rights>This digital image may be used for educational uses. Please cite Albany Law School. Prior written permission is required for any other uses of the images from Albany Law School.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/als/id/25</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:als/26</identifier><datestamp>2012-05-24</datestamp><setSpec>als</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Black American Law Students Association 1979 Verdict Picture</dc:title>
+<dc:description>The National Black American Law Students Association (BALSA) was founded in 1968. A picture of Albany Law School BALSA members appeared in the 1979 Verdict Yearbook. The five members pictured included Linda Davis (front row left), Karen Cochrane (front row right), Gaspar Castillo (back row left), David Bray (back row center), and Sylvia Ash (back row right). In the 1979 Verdict Yearbook it stated that &quot;BALSA includes within its membership all identifiable minority students who wish to  contribute their unique perspectives to the broader school community in a positive way.&quot; In 1983 to better incorporate students of differing ethnic backgrounds the National organization of BALSA became BLSA (Black Law Students Association). It is unclear exactly what year BLSA was founded at Albany Law School, but it has been established that it was sometime between 1971-1974.</dc:description>
+<dc:creator>The Verdict</dc:creator>
+<dc:subject>College yearbooks; Law students; Portraits, Group; African Americans; Multiculturalism;</dc:subject>
+<dc:subject>Student organizations; Portrait photographs; Ethnic groups;</dc:subject>
+<dc:subject>Davis, Linda; Cochrane, Karen; Castillo, Gaspar; Bray, David; Ash, Sylvia</dc:subject>
+<dc:subject>Albany Law School</dc:subject>
+<dc:subject>Community &amp; Events; Education; People; Ethnic Groups;</dc:subject>
+<dc:coverage>Albany - Albany County - New York - US</dc:coverage>
+<dc:publisher>Albany Law School</dc:publisher>
+<dc:date>1979</dc:date>
+<dc:source>Photograph; b &amp; w; 5 x 3.5 in. (12.7 x 8.9 cm.)</dc:source>
+<dc:relation>IsPartOf The Verdict Yearbook (1979), p. 50</dc:relation>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>00021</dc:identifier>
+<dc:relation>Albany Law School Associations</dc:relation>
+<dc:rights>This digital image may be used for educational uses. Please cite Albany Law School. Prior written permission is required for any other uses of the images from Albany Law School.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/als/id/26</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:als/27</identifier><datestamp>2012-05-24</datestamp><setSpec>als</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Albany Law Student Wives Association</dc:title>
+<dc:description>The Albany Law Students Wives Association was created in 1957. A picture along with some written text about the association appears in the 1957 Verdict Yearbook.  Claire Ruslander is the President, Joan Endres is the Treasurer, and Pat Brown is the Vice-President. Their names are listed above the picture that was taken of the association along with Joan Henry who was making a Decorations Committee report. It is unclear where the women are each sitting in the picture, but it looks like the four women along the wall must be Claire Ruslander, Joan Endres, Pat Brown, and Joan Henry. The rest of the women are sitting at several tables facing the four women sitting along the back wall. Over the years the Law Student Wives Association was also called Law Wives Club or Law Wives. The Student Wives Association was responsible for decorations for various school dances and parties. In the spring the wives held a fashion show. The Student Wives Association lasted from 1957 to about 1972. The demise of the of the Student Wives Association might be the result of changing times as more women started to enter the work force. One could even see a change in the 1972 Verdict Yearbook of an increase of women attending the law school.</dc:description>
+<dc:creator>The Verdict</dc:creator>
+<dc:subject>Associations, institutions, etc; Wives; College yearbooks; Portraits, Group;</dc:subject>
+<dc:subject>Spouses; Organizations; Portrait photographs;</dc:subject>
+<dc:subject>Ruslander, Claire; Endres, Joan; Brown, Pat; Henry, Joan</dc:subject>
+<dc:subject>Albany Law School</dc:subject>
+<dc:subject>Community &amp; Events; People;</dc:subject>
+<dc:coverage>Albany - Albany County - New York - US</dc:coverage>
+<dc:publisher>Albany Law School</dc:publisher>
+<dc:date>1957</dc:date>
+<dc:source>Photograph; b &amp; w; 10.5 x 7.5 in. (26.7 x 19 cm.)</dc:source>
+<dc:relation>IsPartOf The Verdict Yearbook (1957), p. 67</dc:relation>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>00022</dc:identifier>
+<dc:relation>Albany Law School Associations</dc:relation>
+<dc:rights>This digital image may be used for educational uses. Please cite Albany Law School. Prior written permission is required for any other uses of the images from Albany Law School.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/als/id/27</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:als/28</identifier><datestamp>2012-05-24</datestamp><setSpec>als</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>The Men&#x27;s Lounge at Albany Law School</dc:title>
+<dc:description>The Men&#x27;s Lounge was used by both faculty and students at Albany Law School. In the picture one can see leather chairs, tables, water fountain, ashtrays, clock, windows (right side), and pictures on the wall around the room.  There are five men sitting in the room with two on the left side, two on the right, and one on the back wall.  All of the men appear to be reading newspapers or magazines. The faculty and students used the room to read and watch sports on television. This picture does not show a television, but at some point there was one brought in and used. There are other pictures of the men&#x27;s lounge in the various Verdict Yearbooks showing the men watching television or reading. The picture was taken by a commercial photographer from Glen S. Cook and Son.</dc:description>
+<dc:creator>Glen S. Cook and Son</dc:creator>
+<dc:subject>Men; Reading rooms;</dc:subject>
+<dc:subject>Lounges; Men;</dc:subject>
+<dc:subject>Albany Law School</dc:subject>
+<dc:subject>Architecture; Education; People;</dc:subject>
+<dc:coverage>Albany - Albany County - New York - US</dc:coverage>
+<dc:date>1956?-1967?</dc:date>
+<dc:source>Photograph; b &amp; w; 8.25 x 10 in. (20.9 x 25.4 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>00026</dc:identifier>
+<dc:relation>Albany Law School Architecture Collection</dc:relation>
+<dc:rights>This digital image may be used for educational uses. Please cite Albany Law School. Prior written permission is required for any other uses of the images from Albany Law School.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/als/id/28</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:als/29</identifier><datestamp>2012-05-24</datestamp><setSpec>als</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Letter from Supreme Court Justice Robert H. Jackson to Andrew V. Clements the Dean of Albany Law School</dc:title>
+<dc:description>Supreme Court Justice Robert H. Jackson wrote the Dean of Albany Law School Andrew Clements. The letter had the Supreme Court of the United States Washington D.C. at the top and on the left side it had the Chambers of Robert H. Jackson as the letterhead. The letter was typewritten with the hand written signature of Justice Jackson and dated May 7, 1951. Jackson was a member of the class of 1912 at Albany Law School. In the letter Jackson discusses coming to Albany on June 1, 1951, but that he would probably have to return to Washington that day. Jackson was being honored by the law school with the degree of Doctor of Laws at the Albany Law School Graduation Ceremony on June 1st. The law school was also celebrating on June 1-2, 1951 the Centennial of Albany Law&#x27;s founding. Justice Jackson was famous for having been part of the Nuremberg Trials after World War II. He was on the Supreme Court for the landmark decision of Brown v. Board of Education that desegregated schools in 1954.</dc:description>
+<dc:creator>Supreme Court Justice Robert H. Jackson</dc:creator>
+<dc:subject>Letters; Universities and colleges -- Alumni and alumnae;</dc:subject>
+<dc:subject>Correspondence; Supreme Court justices;</dc:subject>
+<dc:subject>Jackon, Robert H.</dc:subject>
+<dc:subject>Albany Law School</dc:subject>
+<dc:subject>People; Government, Law &amp; Politics;</dc:subject>
+<dc:coverage>Albany - Albany County - New York - US</dc:coverage>
+<dc:date>1951-05-07</dc:date>
+<dc:source>Correspondence; typewritten letter; 10.5 x 8 in. (26.7 x 20.3 cm.)</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>00027</dc:identifier>
+<dc:relation>Albany Law School Alumni</dc:relation>
+<dc:rights>This digital image may be used for educational uses. Please cite Albany Law School. Prior written permission is required for any other uses of the images of Albany Law School.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/als/id/29</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:als/30</identifier><datestamp>2012-05-24</datestamp><setSpec>als</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Albany Law School Auditorium</dc:title>
+<dc:description>Here is a picture of the Albany Law School Auditorium that is also a gymnasium. The stage can be seen in the picture with a podium, table, and several chairs on it. An American flag can be seen on the stage on the left side where there are stairs leading up to the stage. A picture of Harold Alexander (Dean of the law school from 1924-1945) can be seen to the left of the stage and another picture to right of the stage of General Thomas H. Hubbard class of 1861 whose family left money for construction of the gym and who is best known for drafting the 1908 ABA canons of legal ethics. Wooden chairs are lined up facing the stage for some unknown event. The auditorium was used for the Albany Law School graduation ceremonies in the past. A basketball net and floor markings indicate the use of the gym for athletic events. Albany Law School had a Basketball team  called the Law Men. In 1920 Albany Law School&#x27;s basketball team beat both Boston University and St John&#x27;s. From the 1920&#x27;s-1930&#x27;s the basketball team was intercollegiate. After the 1930&#x27;s the team participated in  more intramural basketball.</dc:description>
+<dc:creator>Glen S. Cook and Son Commercial Photographers</dc:creator>
+<dc:subject>Auditoriums; Basketball;</dc:subject>
+<dc:subject>Gymnasiums; Basketball; Graduation ceremonies;</dc:subject>
+<dc:subject>Albany Law School</dc:subject>
+<dc:subject>Architecture; Education;</dc:subject>
+<dc:coverage>Albany - Albany County - New York - US</dc:coverage>
+<dc:date>unknown</dc:date>
+<dc:source>Photograph; b &amp; w; 8 x 10 in. (20.3 x 25.4 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>00028</dc:identifier>
+<dc:relation>Albany Law School Architecture Collection</dc:relation>
+<dc:rights>This digital image may be used for educational uses. Please cite Albany Law School. Prior written permission is required for any other uses of the images from Albany Law School.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/als/id/30</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:als/31</identifier><datestamp>2012-05-24</datestamp><setSpec>als</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>1890 Letter from the Dean of Albany Law School George W. Kirchwey to a Mr. Warfield</dc:title>
+<dc:description>George Kirchwey the Dean of Albany Law School wrote a handwritten letter dated August 13, 1890 to a Mr. Warfield. In the letter Dean Kirchwey discusses providing Mr. Warfield a student with a certificate and praises his excellent work. The student was George R. Warfield listed in the catalog of 1889-1890. A student could study law for a year and apply for a certificate that counted toward a clerkship that allowed him to take the bar exam. The New York Court of Appeals revised the rules for admission to the Bar in 1911. The new requirements allowed for four years of study or for those that graduated from college admittance after three years of study. Albany Law School after the court revisions passed a resolution requiring three years of study for a LL. B. degree, and ended the certificate privilege.</dc:description>
+<dc:creator>Kirchwey, George W.</dc:creator>
+<dc:subject>Letters; Deans (Education); Law schools; Law students;</dc:subject>
+<dc:subject>Correspondence; Legal education; Law students;</dc:subject>
+<dc:subject>Warfield, Mr.</dc:subject>
+<dc:subject>Albany Law School</dc:subject>
+<dc:subject>Education; People;</dc:subject>
+<dc:coverage>Albany - Albany County - New York - US</dc:coverage>
+<dc:date>1890-08-13</dc:date>
+<dc:source>Correspondence; handwritten; 11 x 8.5 in (27.9 x 21.6 cm.)</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>00029</dc:identifier>
+<dc:relation>Albany Law School Alumni</dc:relation>
+<dc:rights>This digital image may be used for educational uses. Please cite Albany Law School. Prior written permission is required for any other uses of the images from Albany Law School.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/als/id/31</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:als/32</identifier><datestamp>2012-05-24</datestamp><setSpec>als</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Albany Law School Class of 1915</dc:title>
+<dc:description>Photograph of large group of men and one woman formally posed in front of a doorway with a sign for Albany Law School above it.</dc:description>
+<dc:creator>Schan</dc:creator>
+<dc:subject>Law students; Law schools;</dc:subject>
+<dc:subject>Photographs; Portrait photographs;</dc:subject>
+<dc:subject>Albany Law School</dc:subject>
+<dc:subject>People; Education;</dc:subject>
+<dc:coverage>Albany - Albany County - New York</dc:coverage>
+<dc:date>1915</dc:date>
+<dc:source>photograph; b&amp;w; 8 x 6 in. (20 x 15 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>00030</dc:identifier>
+<dc:relation>Albany Law School Alumni</dc:relation>
+<dc:rights>This digital image may be used for educational uses. Please cite Albany Law School. Prior written permission is required for any other uses of the images from Albany Law School.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/als/id/32</dc:identifier></oai_dc:dc>
+</metadata>
+</record></ListRecords></OAI-PMH>

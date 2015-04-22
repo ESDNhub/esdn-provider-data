@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2014-12-17T20:40:40Z</responseDate><request verb="ListRecords" resumptionToken="sllboces:800:sllboces:0000-00-00:9999-99-99:oai_dc" metadataPrefix="oai_dc" set="sllboces">http://cdm16694.contentdm.oclc.org/oai/oai.php</request><ListRecords><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/800</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/854</identifier><datestamp>2014-12-15</datestamp><setSpec>sllboces</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Centralian 1952</dc:title>
+<dc:subject>Yearbooks</dc:subject>
+<dc:language>English</dc:language>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/sllboces/id/854</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/904</identifier><datestamp>2014-12-15</datestamp><setSpec>sllboces</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Centralian 1951</dc:title>
+<dc:subject>Yearbooks</dc:subject>
+<dc:subject>Education;</dc:subject>
+<dc:description>The 1951 St. Lawrence Central School yearbook, the Centralian</dc:description>
+<dc:coverage>Brasher Falls - St. Lawrence County - New York;</dc:coverage>
+<dc:type>Text (Book)</dc:type>
+<dc:date>1951</dc:date>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:language>English</dc:language>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/sllboces/id/904</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/950</identifier><datestamp>2014-12-15</datestamp><setSpec>sllboces</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Centralian 1953</dc:title>
+<dc:subject>Yearbooks</dc:subject>
+<dc:subject>Education;</dc:subject>
+<dc:description>St. Lawrence Central School Yearbooks Collection Brasher Falls</dc:description>
+<dc:coverage>Brasher Falls - St. Lawrence County - New York;</dc:coverage>
+<dc:type>Text (Book)</dc:type>
+<dc:date>1953</dc:date>
+<dc:rights>See http://history.nnyln.org/copyright.html</dc:rights>
+<dc:relation>St. Lawrence Central School Yearbooks Collection</dc:relation>
+<dc:language>English</dc:language>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/sllboces/id/950</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/1021</identifier><datestamp>2014-12-15</datestamp><setSpec>sllboces</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Algonquin 1951</dc:title>
+<dc:subject>Yearbooks</dc:subject>
+<dc:creator>Canton Central School, Canton, NY</dc:creator>
+<dc:coverage>Canton - St. Lawrence County - New York</dc:coverage>
+<dc:type>Text; (Book)</dc:type>
+<dc:date>1951</dc:date>
+<dc:rights>http://www.nyheritage.org/about#copyright</dc:rights>
+<dc:relation>Canton Central School Yearbooks Collection</dc:relation>
+<dc:language>English</dc:language>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/sllboces/id/1021</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/1090</identifier><datestamp>2013-04-04</datestamp><setSpec>sllboces</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Algonquin 1953</dc:title>
+<dc:subject>Yearbooks</dc:subject>
+<dc:creator>Canton Central School, Canton, NY</dc:creator>
+<dc:coverage>Canton - St. Lawrence County - New York</dc:coverage>
+<dc:type>Text; (Book)</dc:type>
+<dc:date>1953</dc:date>
+<dc:rights>See http://www.nyheritage.org/about/#copyright</dc:rights>
+<dc:relation>Canton Central School Yearbooks Collection</dc:relation>
+<dc:language>English</dc:language>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/sllboces/id/1090</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/1162</identifier><datestamp>2014-06-27</datestamp><setSpec>sllboces</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Algonquin 1954</dc:title>
+<dc:subject>Yearbooks</dc:subject>
+<dc:creator>Canton Central School, Canton, NY</dc:creator>
+<dc:coverage>Canton - St. Lawrence County - New York</dc:coverage>
+<dc:type>Text; (Book)</dc:type>
+<dc:date>1954</dc:date>
+<dc:rights>See http://www.nyheritage.org/about/#copyright</dc:rights>
+<dc:relation>Canton Central School Yearbooks Collection</dc:relation>
+<dc:language>English</dc:language>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/sllboces/id/1162</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/1236</identifier><datestamp>2013-04-04</datestamp><setSpec>sllboces</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Algonquin 1955</dc:title>
+<dc:subject>Yearbooks</dc:subject>
+<dc:creator>Canton Central School, Canton, NY</dc:creator>
+<dc:coverage>Canton - St. Lawrence County - New York</dc:coverage>
+<dc:type>Text; (Book)</dc:type>
+<dc:date>1955</dc:date>
+<dc:rights>See http://www.nyheritage.org/about/#copyright</dc:rights>
+<dc:relation>Canton Central School Yearbooks Collection</dc:relation>
+<dc:language>English</dc:language>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/sllboces/id/1236</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/1307</identifier><datestamp>2013-04-04</datestamp><setSpec>sllboces</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Algonquin 1957</dc:title>
+<dc:subject>Yearbooks</dc:subject>
+<dc:creator>Canton Central School, Canton, NY</dc:creator>
+<dc:coverage>Canton - St. Lawrence County - New York</dc:coverage>
+<dc:type>Text; (Book)</dc:type>
+<dc:date>1957</dc:date>
+<dc:rights>See http://www.nyheritage.org/about/#copyright</dc:rights>
+<dc:relation>Canton Central School Yearbooks Collection</dc:relation>
+<dc:language>English</dc:language>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/sllboces/id/1307</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/1379</identifier><datestamp>2013-04-04</datestamp><setSpec>sllboces</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Algonquin 1958</dc:title>
+<dc:subject>Yearbooks</dc:subject>
+<dc:creator>Canton Central School, Canton, NY</dc:creator>
+<dc:coverage>Canton - St. Lawrence County - New York</dc:coverage>
+<dc:type>Text; (Book)</dc:type>
+<dc:date>1958</dc:date>
+<dc:rights>See http://www.nyheritage.org/about/#copyright</dc:rights>
+<dc:relation>Canton Central School Yearbooks Collection</dc:relation>
+<dc:language>English</dc:language>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/sllboces/id/1379</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/1433</identifier><datestamp>2013-04-04</datestamp><setSpec>sllboces</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Algonquin 1929</dc:title>
+<dc:subject>Yearbooks</dc:subject>
+<dc:creator>Canton Central School, Canton, NY</dc:creator>
+<dc:coverage>Canton - St. Lawrence County - New York</dc:coverage>
+<dc:type>Text; (Book)</dc:type>
+<dc:rights>See http://www.nyheritage.org/about/#copyright</dc:rights>
+<dc:relation>Canton Central School Yearbooks Collection</dc:relation>
+<dc:language>English</dc:language>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/sllboces/id/1433</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/1471</identifier><datestamp>2013-04-04</datestamp><setSpec>sllboces</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Algonquin 1928</dc:title>
+<dc:subject>Yearbooks</dc:subject>
+<dc:creator>Canton Central School, Canton, NY</dc:creator>
+<dc:coverage>Canton - St. Lawrence County - New York</dc:coverage>
+<dc:type>Text; (Book)</dc:type>
+<dc:rights>See http://www.nyheritage.org/about/#copyright</dc:rights>
+<dc:relation>Canton Central School Yearbooks Collection</dc:relation>
+<dc:language>English</dc:language>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/sllboces/id/1471</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/1537</identifier><datestamp>2013-04-04</datestamp><setSpec>sllboces</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Algonquin 1959</dc:title>
+<dc:subject>Yearbooks</dc:subject>
+<dc:creator>Canton Central School, Canton, NY</dc:creator>
+<dc:coverage>Canton - St. Lawrence County - New York</dc:coverage>
+<dc:type>Text; (Book)</dc:type>
+<dc:rights>See http://www.nyheritage.org/about/#copyright</dc:rights>
+<dc:relation>Canton Central School Yearbooks Collection</dc:relation>
+<dc:language>English</dc:language>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/sllboces/id/1537</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/1607</identifier><datestamp>2013-04-04</datestamp><setSpec>sllboces</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Algonquin 1960</dc:title>
+<dc:subject>Yearbooks</dc:subject>
+<dc:creator>Canton Central School, Canton, NY</dc:creator>
+<dc:coverage>Canton - St. Lawrence County - New York</dc:coverage>
+<dc:type>Text; (Book)</dc:type>
+<dc:rights>See http://www.nyheritage.org/about/#copyright</dc:rights>
+<dc:relation>Canton Central School Yearbooks Collection</dc:relation>
+<dc:language>English</dc:language>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/sllboces/id/1607</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/1645</identifier><datestamp>2013-04-04</datestamp><setSpec>sllboces</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Algonquin 1936</dc:title>
+<dc:subject>Yearbooks</dc:subject>
+<dc:creator>Canton Central School, Canton, NY</dc:creator>
+<dc:coverage>Canton - St. Lawrence County - New York</dc:coverage>
+<dc:type>Text; (Book)</dc:type>
+<dc:date>1936</dc:date>
+<dc:rights>See http://www.nyheritage.org/about/#copyright</dc:rights>
+<dc:relation>Canton Central School Yearbooks Collection</dc:relation>
+<dc:language>English</dc:language>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/sllboces/id/1645</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/1687</identifier><datestamp>2013-04-04</datestamp><setSpec>sllboces</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Algonquin 1938</dc:title>
+<dc:subject>Yearbooks</dc:subject>
+<dc:creator>Canton Central School, Canton, NY</dc:creator>
+<dc:coverage>Canton - St. Lawrence County - New York</dc:coverage>
+<dc:type>Text; (Book)</dc:type>
+<dc:date>1938</dc:date>
+<dc:rights>See http://www.nyheritage.org/about/#copyright</dc:rights>
+<dc:relation>Canton Central School Yearbooks Collection</dc:relation>
+<dc:language>English</dc:language>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/sllboces/id/1687</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/1728</identifier><datestamp>2013-04-04</datestamp><setSpec>sllboces</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Algonquin 1940</dc:title>
+<dc:subject>Yearbooks</dc:subject>
+<dc:creator>Canton Central School, Canton, NY</dc:creator>
+<dc:coverage>Canton - St. Lawrence County - New York</dc:coverage>
+<dc:type>Text; (Book)</dc:type>
+<dc:date>1940</dc:date>
+<dc:rights>See http://www.nyheritage.org/about/#copyright</dc:rights>
+<dc:relation>Canton Central School Yearbooks Collection</dc:relation>
+<dc:language>English</dc:language>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/sllboces/id/1728</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/1762</identifier><datestamp>2013-04-04</datestamp><setSpec>sllboces</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Algonquin 1941</dc:title>
+<dc:subject>Yearbooks</dc:subject>
+<dc:creator>Canton Central School, Canton, NY</dc:creator>
+<dc:coverage>Canton - St. Lawrence County - New York</dc:coverage>
+<dc:type>Text; (Book)</dc:type>
+<dc:date>1941</dc:date>
+<dc:rights>See http://www.nyheritage.org/about/#copyright</dc:rights>
+<dc:relation>Canton Central School Yearbooks Collection</dc:relation>
+<dc:language>English</dc:language>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/sllboces/id/1762</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/1796</identifier><datestamp>2013-04-04</datestamp><setSpec>sllboces</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Algonquin 1942</dc:title>
+<dc:subject>Yearbooks</dc:subject>
+<dc:creator>Canton Central School, Canton, NY</dc:creator>
+<dc:coverage>Canton - St. Lawrence County - New York</dc:coverage>
+<dc:type>Text; (Book)</dc:type>
+<dc:date>1942</dc:date>
+<dc:rights>See http://www.nyheritage.org/about/#copyright</dc:rights>
+<dc:relation>Canton Central School Yearbooks Collection</dc:relation>
+<dc:language>English</dc:language>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/sllboces/id/1796</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/1833</identifier><datestamp>2013-04-04</datestamp><setSpec>sllboces</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Algonquin 1943</dc:title>
+<dc:subject>Yearbooks</dc:subject>
+<dc:creator>Canton Central School, Canton, NY</dc:creator>
+<dc:coverage>Canton - St. Lawrence County - New York</dc:coverage>
+<dc:type>Text; (Book)</dc:type>
+<dc:date>1943</dc:date>
+<dc:rights>See http://www.nyheritage.org/about/#copyright</dc:rights>
+<dc:relation>Canton Central School Yearbooks Collection</dc:relation>
+<dc:language>English</dc:language>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/sllboces/id/1833</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/1887</identifier><datestamp>2013-04-04</datestamp><setSpec>sllboces</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Algonquin 1944</dc:title>
+<dc:subject>Yearbooks</dc:subject>
+<dc:creator>Canton Central School, Canton, NY</dc:creator>
+<dc:coverage>Canton - St. Lawrence County - New York</dc:coverage>
+<dc:type>Text; (Book)</dc:type>
+<dc:date>1944</dc:date>
+<dc:rights>See http://www.nyheritage.org/about/#copyright</dc:rights>
+<dc:relation>Canton Central School Yearbooks Collection</dc:relation>
+<dc:language>English</dc:language>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/sllboces/id/1887</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/1939</identifier><datestamp>2013-04-04</datestamp><setSpec>sllboces</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Algonquin 1945</dc:title>
+<dc:subject>Yearbooks</dc:subject>
+<dc:creator>Canton Central School, Canton, NY</dc:creator>
+<dc:coverage>Canton - St. Lawrence County - New York</dc:coverage>
+<dc:type>Text; (Book)</dc:type>
+<dc:date>1945</dc:date>
+<dc:rights>See http://www.nyheritage.org/about/#copyright</dc:rights>
+<dc:relation>Canton Central School Yearbooks Collection</dc:relation>
+<dc:language>English</dc:language>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/sllboces/id/1939</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/1996</identifier><datestamp>2013-04-04</datestamp><setSpec>sllboces</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Algonquin 1946</dc:title>
+<dc:subject>Yearbooks</dc:subject>
+<dc:creator>Canton Central School, Canton, NY</dc:creator>
+<dc:coverage>Canton - St. Lawrence County - New York</dc:coverage>
+<dc:type>Text; (Book)</dc:type>
+<dc:date>1946</dc:date>
+<dc:rights>See http://www.nyheritage.org/about/#copyright</dc:rights>
+<dc:relation>Canton Central School Yearbooks Collection</dc:relation>
+<dc:language>English</dc:language>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/sllboces/id/1996</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/2057</identifier><datestamp>2013-04-04</datestamp><setSpec>sllboces</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Algonquin 1947</dc:title>
+<dc:subject>Yearbooks</dc:subject>
+<dc:creator>Canton Central School, Canton, NY</dc:creator>
+<dc:coverage>Canton - St. Lawrence County - New York</dc:coverage>
+<dc:type>Text; (Book)</dc:type>
+<dc:date>1947</dc:date>
+<dc:rights>See http://www.nyheritage.org/about/#copyright</dc:rights>
+<dc:relation>Canton Central School Yearbooks Collection</dc:relation>
+<dc:language>English</dc:language>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/sllboces/id/2057</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/2123</identifier><datestamp>2013-04-04</datestamp><setSpec>sllboces</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Algonquin 1948</dc:title>
+<dc:subject>Yearbooks</dc:subject>
+<dc:creator>Canton Central School, Canton, NY</dc:creator>
+<dc:coverage>Canton - St. Lawrence County - New York</dc:coverage>
+<dc:type>Text; (Book)</dc:type>
+<dc:date>1948</dc:date>
+<dc:rights>See http://www.nyheritage.org/about/#copyright</dc:rights>
+<dc:relation>Canton Central School Yearbooks Collection</dc:relation>
+<dc:language>English</dc:language>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/sllboces/id/2123</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/2182</identifier><datestamp>2013-04-04</datestamp><setSpec>sllboces</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Algonquin 1930</dc:title>
+<dc:subject>Yearbooks</dc:subject>
+<dc:creator>Canton Central School, Canton, NY</dc:creator>
+<dc:coverage>Canton - St. Lawrence County - New York</dc:coverage>
+<dc:type>Text; (Book)</dc:type>
+<dc:rights>See http://www.nyheritage.org/about/#copyright</dc:rights>
+<dc:relation>Canton Central School Yearbooks Collection</dc:relation>
+<dc:language>English</dc:language>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/sllboces/id/2182</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/2252</identifier><datestamp>2013-04-04</datestamp><setSpec>sllboces</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Algonquin 1931</dc:title>
+<dc:subject>Yearbooks</dc:subject>
+<dc:creator>Canton Central School, Canton, NY</dc:creator>
+<dc:coverage>Canton - St. Lawrence County - New York</dc:coverage>
+<dc:type>Text; (Book)</dc:type>
+<dc:rights>See http://www.nyheritage.org/about/#copyright</dc:rights>
+<dc:relation>Canton Central School Yearbooks Collection</dc:relation>
+<dc:language>English</dc:language>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/sllboces/id/2252</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/2311</identifier><datestamp>2013-04-04</datestamp><setSpec>sllboces</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Algonquin 1932</dc:title>
+<dc:subject>Yearbooks</dc:subject>
+<dc:creator>Canton Central School, Canton, NY</dc:creator>
+<dc:coverage>Canton - St. Lawrence County - New York</dc:coverage>
+<dc:type>Text; (Book)</dc:type>
+<dc:rights>See http://www.nyheritage.org/about/#copyright</dc:rights>
+<dc:relation>Canton Central School Yearbooks Collection</dc:relation>
+<dc:language>English</dc:language>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/sllboces/id/2311</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/2342</identifier><datestamp>2013-04-04</datestamp><setSpec>sllboces</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Algonquin 1933</dc:title>
+<dc:subject>Yearbooks</dc:subject>
+<dc:creator>Canton Central School, Canton, NY</dc:creator>
+<dc:coverage>Canton - St. Lawrence County - New York</dc:coverage>
+<dc:type>Text; (Book)</dc:type>
+<dc:rights>See http://www.nyheritage.org/about/#copyright</dc:rights>
+<dc:relation>Canton Central School Yearbooks Collection</dc:relation>
+<dc:language>English</dc:language>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/sllboces/id/2342</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/2372</identifier><datestamp>2013-04-04</datestamp><setSpec>sllboces</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Algonquin 1934</dc:title>
+<dc:subject>Yearbooks</dc:subject>
+<dc:creator>Canton Central School, Canton, NY</dc:creator>
+<dc:coverage>Canton - St. Lawrence County - New York</dc:coverage>
+<dc:type>Text; (Book)</dc:type>
+<dc:rights>See http://www.nyheritage.org/about/#copyright</dc:rights>
+<dc:relation>Canton Central School Yearbooks Collection</dc:relation>
+<dc:language>English</dc:language>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/sllboces/id/2372</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/2414</identifier><datestamp>2013-04-04</datestamp><setSpec>sllboces</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Algonquin 1935</dc:title>
+<dc:subject>Yearbooks</dc:subject>
+<dc:creator>Canton Central School, Canton, NY</dc:creator>
+<dc:coverage>Canton - St. Lawrence County - New York</dc:coverage>
+<dc:type>Text; (Book)</dc:type>
+<dc:rights>See http://www.nyheritage.org/about/#copyright</dc:rights>
+<dc:relation>Canton Central School Yearbooks Collection</dc:relation>
+<dc:language>English</dc:language>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/sllboces/id/2414</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/2484</identifier><datestamp>2013-04-04</datestamp><setSpec>sllboces</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Algonquin 1949</dc:title>
+<dc:subject>Yearbooks</dc:subject>
+<dc:creator>Canton Central School, Canton, NY</dc:creator>
+<dc:coverage>Canton - St. Lawrence County - New York</dc:coverage>
+<dc:type>Text; (Book)</dc:type>
+<dc:rights>See http://www.nyheritage.org/about/#copyright</dc:rights>
+<dc:relation>Canton Central School Yearbooks Collection</dc:relation>
+<dc:language>English</dc:language>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/sllboces/id/2484</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/2550</identifier><datestamp>2013-04-04</datestamp><setSpec>sllboces</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Algonquin 1950</dc:title>
+<dc:subject>Yearbooks</dc:subject>
+<dc:creator>Canton Central School, Canton, NY</dc:creator>
+<dc:coverage>Canton - St. Lawrence County - New York</dc:coverage>
+<dc:type>Text; (Book)</dc:type>
+<dc:rights>See http://www.nyheritage.org/about/#copyright</dc:rights>
+<dc:relation>Canton Central School Yearbooks Collection</dc:relation>
+<dc:language>English</dc:language>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/sllboces/id/2550</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/2616</identifier><datestamp>2013-04-04</datestamp><setSpec>sllboces</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Algonquin 1952</dc:title>
+<dc:subject>Yearbooks</dc:subject>
+<dc:creator>Canton Central School, Canton, NY</dc:creator>
+<dc:coverage>Canton - St. Lawrence County - New York</dc:coverage>
+<dc:type>Text; (Book)</dc:type>
+<dc:rights>See http://www.nyheritage.org/about/#copyright</dc:rights>
+<dc:relation>Canton Central School Yearbooks Collection</dc:relation>
+<dc:language>English</dc:language>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/sllboces/id/2616</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/2686</identifier><datestamp>2013-04-04</datestamp><setSpec>sllboces</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Algonquin 1956</dc:title>
+<dc:subject>Yearbooks</dc:subject>
+<dc:creator>Canton Central School, Canton, NY</dc:creator>
+<dc:coverage>Canton - St. Lawrence County - New York</dc:coverage>
+<dc:type>Text; (Book)</dc:type>
+<dc:rights>See http://www.nyheritage.org/about/#copyright</dc:rights>
+<dc:relation>Canton Central School Yearbooks Collection</dc:relation>
+<dc:language>English</dc:language>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/sllboces/id/2686</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/2752</identifier><datestamp>2013-04-04</datestamp><setSpec>sllboces</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Algonquin 1961</dc:title>
+<dc:subject>Yearbooks</dc:subject>
+<dc:creator>Canton Central School, Canton, NY</dc:creator>
+<dc:coverage>Canton - St. Lawrence County - New York</dc:coverage>
+<dc:type>Text; (Book)</dc:type>
+<dc:rights>See http://www.nyheritage.org/about/#copyright</dc:rights>
+<dc:relation>Canton Central School Yearbooks Collection</dc:relation>
+<dc:language>English</dc:language>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/sllboces/id/2752</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/2822</identifier><datestamp>2013-04-04</datestamp><setSpec>sllboces</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Algonquin 1963</dc:title>
+<dc:subject>Yearbooks</dc:subject>
+<dc:creator>Canton Central School, Canton, NY</dc:creator>
+<dc:coverage>Canton - St. Lawrence County - New York</dc:coverage>
+<dc:type>Text; (Book)</dc:type>
+<dc:rights>See http://www.nyheritage.org/about/#copyright</dc:rights>
+<dc:relation>Canton Central School Yearbooks Collection</dc:relation>
+<dc:language>English</dc:language>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/sllboces/id/2822</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/2885</identifier><datestamp>2013-04-04</datestamp><setSpec>sllboces</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Algonquin 1964</dc:title>
+<dc:subject>Yearbooks</dc:subject>
+<dc:creator>Canton Central School, Canton, NY</dc:creator>
+<dc:coverage>Canton - St. Lawrence County - New York</dc:coverage>
+<dc:type>Text; (Book)</dc:type>
+<dc:rights>See http://www.nyheritage.org/about/#copyright</dc:rights>
+<dc:relation>Canton Central School Yearbooks Collection</dc:relation>
+<dc:language>English</dc:language>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/sllboces/id/2885</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/2999</identifier><datestamp>2013-04-04</datestamp><setSpec>sllboces</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Algonquin 1965</dc:title>
+<dc:subject>Yearbooks</dc:subject>
+<dc:creator>Canton Central School, Canton, NY</dc:creator>
+<dc:coverage>Canton - St. Lawrence County - New York</dc:coverage>
+<dc:type>Text; (Book)</dc:type>
+<dc:rights>See http://www.nyheritage.org/about/#copyright</dc:rights>
+<dc:relation>Canton Central School Yearbooks Collection</dc:relation>
+<dc:language>English</dc:language>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/sllboces/id/2999</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3114</identifier><datestamp>2013-04-04</datestamp><setSpec>sllboces</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Algonquin 1966</dc:title>
+<dc:subject>Yearbooks</dc:subject>
+<dc:creator>Canton Central School, Canton, NY</dc:creator>
+<dc:coverage>Canton - St. Lawrence County - New York</dc:coverage>
+<dc:type>Text; (Book)</dc:type>
+<dc:rights>See http://www.nyheritage.org/about/#copyright</dc:rights>
+<dc:relation>Canton Central School Yearbooks Collection</dc:relation>
+<dc:language>English</dc:language>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/sllboces/id/3114</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3227</identifier><datestamp>2013-04-04</datestamp><setSpec>sllboces</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Algonquin 1967</dc:title>
+<dc:subject>Yearbooks</dc:subject>
+<dc:creator>Canton Central School, Canton, NY</dc:creator>
+<dc:coverage>Canton - St. Lawrence County - New York</dc:coverage>
+<dc:type>Text; (Book)</dc:type>
+<dc:rights>See http://www.nyheritage.org/about/#copyright</dc:rights>
+<dc:relation>Canton Central School Yearbooks Collection</dc:relation>
+<dc:language>English</dc:language>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/sllboces/id/3227</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3228</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3229</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3230</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3231</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3232</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3233</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3234</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3235</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3236</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3237</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3238</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3239</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3240</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3241</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3242</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3243</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3244</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3245</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3246</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3247</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3248</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3249</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3250</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3251</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3252</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3253</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3254</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3255</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3256</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3257</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3258</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3259</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3260</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3261</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3262</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3263</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3264</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3265</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3266</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3267</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3268</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3269</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3270</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3271</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3272</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3273</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3274</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3275</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3276</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3277</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3278</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3279</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3280</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3281</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3282</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3283</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3284</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3285</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3286</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3287</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3288</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3289</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3290</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3291</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3292</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3293</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3294</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3295</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3296</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3297</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3298</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3299</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3300</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3301</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3302</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3303</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3304</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3305</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3306</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3307</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3308</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3309</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3310</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3311</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3312</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3313</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3314</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3315</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3316</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3317</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3318</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3319</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3320</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3321</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3322</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3323</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3324</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3325</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3326</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3327</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3328</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3329</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3330</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3331</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3332</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3333</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3334</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3335</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3336</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3337</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3338</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3339</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3340</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3341</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3342</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3343</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3344</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3345</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3346</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3347</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3348</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3349</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3350</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3351</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3352</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3353</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3354</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3355</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3356</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3357</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3358</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3359</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3360</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3361</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3362</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3363</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3364</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3365</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3366</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3367</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3368</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3369</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3370</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3371</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3372</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3373</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3374</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3375</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3376</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3377</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3378</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3379</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3380</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3381</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3382</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3383</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3384</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3385</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:sllboces/3386</identifier><datestamp>2012-05-16</datestamp><setSpec>sllboces</setSpec></header>
+</record><resumptionToken>sllboces:3387:sllboces:0000-00-00:9999-99-99:oai_dc</resumptionToken></ListRecords></OAI-PMH>
