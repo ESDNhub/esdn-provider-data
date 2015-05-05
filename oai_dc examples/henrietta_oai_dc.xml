@@ -1,0 +1,1226 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2015-05-05T19:27:47Z</responseDate><request verb="ListRecords" metadataPrefix="oai_dc" set="p15109coll1">http://cdm16694.contentdm.oclc.org/oai/oai.php</request><ListRecords><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/0</identifier><datestamp>2012-05-16</datestamp><setSpec>p15109coll1</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/1</identifier><datestamp>2012-05-16</datestamp><setSpec>p15109coll1</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/2</identifier><datestamp>2012-05-16</datestamp><setSpec>p15109coll1</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/3</identifier><datestamp>2012-05-16</datestamp><setSpec>p15109coll1</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/4</identifier><datestamp>2012-05-16</datestamp><setSpec>p15109coll1</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/5</identifier><datestamp>2012-05-16</datestamp><setSpec>p15109coll1</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/6</identifier><datestamp>2012-05-16</datestamp><setSpec>p15109coll1</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/7</identifier><datestamp>2014-02-13</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Fred Fowler</dc:title>
+<dc:description>Portrait of Fred Fowler</dc:description>
+<dc:creator>Dumble, A.E.</dc:creator>
+<dc:subject>People;</dc:subject>
+<dc:date>1893</dc:date>
+<dc:date>1893</dc:date>
+<dc:type>Still Image;</dc:type>
+<dc:identifier>A012.001</dc:identifier>
+<dc:relation>Henrietta Local History Collection</dc:relation>
+<dc:rights>Courtesy of the Henrietta Public Library</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/7</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/8</identifier><datestamp>2014-02-13</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Frankie Snow</dc:title>
+<dc:description>Portrait of Frankie Snow. Back of photo notes &#x27; Frankie Snow worked at Jones and Buckley&#x27;.</dc:description>
+<dc:subject>People;</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:type>Still Image;</dc:type>
+<dc:identifier>A007.001</dc:identifier>
+<dc:relation>Henrietta Local History Collection</dc:relation>
+<dc:rights>Courtesy of the Henrietta Public Library</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/8</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/9</identifier><datestamp>2014-02-13</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Mrs. Daniel Mason</dc:title>
+<dc:description>Portrait of Mrs. Daniel Mason</dc:description>
+<dc:creator>Taylor</dc:creator>
+<dc:subject>People;</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:type>Still Image;</dc:type>
+<dc:identifier>A008.001</dc:identifier>
+<dc:relation>Henrietta Local History Collection</dc:relation>
+<dc:rights>Courtesy of the Henrietta Public Library</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/9</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/10</identifier><datestamp>2014-02-13</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Bessie Mason</dc:title>
+<dc:description>Standing portrait of Bessie Mason (later Mrs. John Gudley).</dc:description>
+<dc:creator>Curry, Smith</dc:creator>
+<dc:subject>People;</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:type>Still Image;</dc:type>
+<dc:identifier>A009.001</dc:identifier>
+<dc:relation>Henrietta Local History Collection</dc:relation>
+<dc:rights>Courtesy of the Henrietta Public Library</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/10</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/11</identifier><datestamp>2014-02-13</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Mrs. Moon</dc:title>
+<dc:description>Portrait of Mrs. Moon, West Henrietta.</dc:description>
+<dc:subject>People;</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:type>Still Image;</dc:type>
+<dc:identifier>A010.001</dc:identifier>
+<dc:relation>Henrietta Local History Collection</dc:relation>
+<dc:rights>Courtesy of the Henrietta Public Library</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/11</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/12</identifier><datestamp>2014-02-13</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Fred Fowler 2</dc:title>
+<dc:description>Standing portrait of Fred Fowler</dc:description>
+<dc:creator>Dumble, A.E.</dc:creator>
+<dc:subject>People;</dc:subject>
+<dc:date>1893</dc:date>
+<dc:date>1893</dc:date>
+<dc:type>Still Image;</dc:type>
+<dc:identifier>A012.001</dc:identifier>
+<dc:relation>Henrietta Local History Collection</dc:relation>
+<dc:rights>Courtesy of the Henrietta Public Library</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/12</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/13</identifier><datestamp>2014-02-13</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Mae Diefendorfer, Mrs. Roy Hirschman</dc:title>
+<dc:description>Picture Postcard. Back notes two names - Mae Diefendorfer, Mrs. Roy Hirschman</dc:description>
+<dc:subject>People;</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:type>Still Image;</dc:type>
+<dc:identifier>A011.001</dc:identifier>
+<dc:relation>Henrietta Local History Collection</dc:relation>
+<dc:rights>Courtesy of the Henrietta Public Library</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/13</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/14</identifier><datestamp>2014-02-13</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>George M.C. Roberts</dc:title>
+<dc:description>Portrait of George M.C. Roberts</dc:description>
+<dc:creator>Williamson</dc:creator>
+<dc:subject>People;</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:type>Still Image;</dc:type>
+<dc:identifier>A005.001</dc:identifier>
+<dc:relation>Henrietta Local History Collection</dc:relation>
+<dc:rights>Courtesy of the Henrietta Public Library</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/14</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/15</identifier><datestamp>2014-02-13</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Dean Kazmyer</dc:title>
+<dc:description>Sitting Portrait of Dean Kazmyer. Notes on back state &#x27;Used to clerk at Chase&#x27;s Store, Died in Rush, Finally lived at Dora Behnks, Never married, cared for his Mother.&#x27;</dc:description>
+<dc:subject>People;</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:type>Still Image;</dc:type>
+<dc:identifier>A006.001</dc:identifier>
+<dc:relation>Henrietta Local History Collection</dc:relation>
+<dc:rights>Courtesy of the Henrietta Public Library</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/15</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/18</identifier><datestamp>2014-02-13</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Postcard to Mrs. Ida Kazmayer</dc:title>
+<dc:description>Picture postcard of Edna Stryker and a Friend.</dc:description>
+<dc:subject>People;</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:type>Still Image;</dc:type>
+<dc:identifier>A020.001 and A020.002</dc:identifier>
+<dc:relation>Henrietta Local History Collection</dc:relation>
+<dc:rights>Courtesy of the Henrietta Public Library</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/18</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/21</identifier><datestamp>2014-02-13</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Mrs. Kazmayer and Ladies</dc:title>
+<dc:description>Picture of Mrs. Kazmayer and 3 other women.</dc:description>
+<dc:subject>People;</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:type>Still Image;</dc:type>
+<dc:identifier>A017.001 and A017.002</dc:identifier>
+<dc:relation>Henrietta Local History Collection</dc:relation>
+<dc:rights>Courtesy of the Henrietta Public Library</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/21</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/22</identifier><datestamp>2014-02-13</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Chase Family</dc:title>
+<dc:description>Family portrait of Lemuel H. Peets, Helen Peets Chase, Frank Chase and Earl Chase.</dc:description>
+<dc:subject>People;</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:type>Still Image;</dc:type>
+<dc:identifier>A015.001</dc:identifier>
+<dc:relation>Henrietta Local History Collection</dc:relation>
+<dc:rights>Courtesy of the Henrietta Public Library</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/22</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/23</identifier><datestamp>2014-02-13</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Mr. Kazmayer</dc:title>
+<dc:description>Picture of two men in rocking chairs outside in early 19th century clothes, back of pictures has note &#x27;Mr. Kazmayer&#x27;</dc:description>
+<dc:subject>People;</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:type>Still Image;</dc:type>
+<dc:identifier>A016.001</dc:identifier>
+<dc:relation>Henrietta Local History Collection</dc:relation>
+<dc:rights>Courtesy of the Henrietta Public Library</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/23</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/24</identifier><datestamp>2014-02-13</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Two Older Women</dc:title>
+<dc:description>Picture of two older women standing together outside. Back reads &quot;Mrs. Kazmayer (on right)&quot;</dc:description>
+<dc:subject>People;</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:type>Still Image;</dc:type>
+<dc:identifier>A019.001</dc:identifier>
+<dc:relation>Henrietta Local History Collection</dc:relation>
+<dc:rights>Courtesy of the Henrietta Public Library</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/24</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/25</identifier><datestamp>2012-10-30</datestamp><setSpec>p15109coll1</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/26</identifier><datestamp>2014-02-13</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Jones Homestead in 1910</dc:title>
+<dc:description>Jones Homestead in 1910.  E. Henrietta at Lehigh Station File 015</dc:description>
+<dc:creator>Unknown</dc:creator>
+<dc:subject>People;</dc:subject>
+<dc:date>1910</dc:date>
+<dc:date>1910</dc:date>
+<dc:type>Still Image;</dc:type>
+<dc:identifier>File 015</dc:identifier>
+<dc:relation>Henrietta Local History Collection</dc:relation>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/26</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/27</identifier><datestamp>2012-10-30</datestamp><setSpec>p15109coll1</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/28</identifier><datestamp>2014-02-13</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Photograph of Georgie Griffoell</dc:title>
+<dc:description>Picture of Georgie Griffoell  who was born in 1935.  He lived on E. Henrietta Rd.  It is also written on the back of the photograph that he &quot;Moved to around Jamestown&quot;  File 042</dc:description>
+<dc:subject>People;</dc:subject>
+<dc:date>1940-1949</dc:date>
+<dc:date>1940; 1941; 1942; 1943; 1944; 1945; 1946; 1947; 1948; 1949</dc:date>
+<dc:type>Still Image;</dc:type>
+<dc:identifier>File 042</dc:identifier>
+<dc:relation>Henrietta Local History Collection</dc:relation>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/28</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/29</identifier><datestamp>2012-10-30</datestamp><setSpec>p15109coll1</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/30</identifier><datestamp>2012-10-30</datestamp><setSpec>p15109coll1</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/31</identifier><datestamp>2014-02-13</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Photograph of Irene Parker at age 16</dc:title>
+<dc:description>Professional Photograph of Irene Parker at age 16.  File 008</dc:description>
+<dc:creator>Carey, Frank</dc:creator>
+<dc:subject>People;</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:type>Still Image;</dc:type>
+<dc:identifier>File 008</dc:identifier>
+<dc:relation>Henrietta Local History Collection</dc:relation>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/31</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/32</identifier><datestamp>2014-02-13</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Photograph of Eric, Marc, and Ina Smith.  Children of Craig Smith</dc:title>
+<dc:description>Photograph of the Children of Craig Smith.  Eric, Marc and Ina.  This photograph was taken at 3849 E. Henrietta Rd.  on the steps of the Halsbeck house.</dc:description>
+<dc:subject>People;</dc:subject>
+<dc:coverage>3849 East Henrietta Rd - Henrietta- Monroe County - New York</dc:coverage>
+<dc:date>Unknown</dc:date>
+<dc:type>Still Image;</dc:type>
+<dc:identifier>File 043</dc:identifier>
+<dc:relation>Henrietta Local History Collection</dc:relation>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/32</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/33</identifier><datestamp>2012-10-30</datestamp><setSpec>p15109coll1</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/34</identifier><datestamp>2014-02-13</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Photograph of ? Laura</dc:title>
+<dc:description>Photograph of [Unreadable writting] Laura in 1906.  A merry xmas is written on the back of the photo.</dc:description>
+<dc:subject>People;</dc:subject>
+<dc:date>1906</dc:date>
+<dc:date>1906</dc:date>
+<dc:type>Still Image;</dc:type>
+<dc:identifier>File 005</dc:identifier>
+<dc:relation>Henrietta Local History Collection</dc:relation>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/34</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/35</identifier><datestamp>2014-02-13</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Photograph of Irene Parker</dc:title>
+<dc:description>Photograph of Irene Parker at 6 months old.</dc:description>
+<dc:creator>Bacon</dc:creator>
+<dc:subject>People;</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:type>Still Image;</dc:type>
+<dc:identifier>File 007</dc:identifier>
+<dc:relation>Henrietta Local History Collection</dc:relation>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/35</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/36</identifier><datestamp>2012-10-30</datestamp><setSpec>p15109coll1</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/37</identifier><datestamp>2012-10-30</datestamp><setSpec>p15109coll1</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/38</identifier><datestamp>2012-10-30</datestamp><setSpec>p15109coll1</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/39</identifier><datestamp>2012-10-30</datestamp><setSpec>p15109coll1</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/40</identifier><datestamp>2012-10-30</datestamp><setSpec>p15109coll1</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/41</identifier><datestamp>2014-02-13</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Photograph of Students at District #6 in 1923</dc:title>
+<dc:description>Photograph of Students at District #6 in 1923</dc:description>
+<dc:subject>People; Education</dc:subject>
+<dc:coverage>District #6 School - Henrietta - Monroe County- New York</dc:coverage>
+<dc:date>1923</dc:date>
+<dc:date>1923</dc:date>
+<dc:type>Still Image;</dc:type>
+<dc:identifier>File 014</dc:identifier>
+<dc:relation>Henrietta Local History Collection</dc:relation>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/41</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/42</identifier><datestamp>2012-10-30</datestamp><setSpec>p15109coll1</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/43</identifier><datestamp>2012-10-30</datestamp><setSpec>p15109coll1</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/44</identifier><datestamp>2014-02-13</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Photograph of Helen Margaret Farreie</dc:title>
+<dc:description>Professional portrait of Helen Margaret Farreie at 7 months old.  This was given as a gift to Mr. and Mrs. Katzmayer with thanks to their kindness to the aformentioned child.</dc:description>
+<dc:subject>People;</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:type>Still Image;</dc:type>
+<dc:identifier>File 004</dc:identifier>
+<dc:relation>Henrietta Local History Collection</dc:relation>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/44</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/45</identifier><datestamp>2012-10-30</datestamp><setSpec>p15109coll1</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/46</identifier><datestamp>2014-02-13</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Photograph of Marie Elizabeth Karges</dc:title>
+<dc:description>Photograph of Marie Elizabeth Karges from September 14, 1902</dc:description>
+<dc:subject>People;</dc:subject>
+<dc:date>1902-09-14</dc:date>
+<dc:date>1902-09-14</dc:date>
+<dc:type>Still Image;</dc:type>
+<dc:identifier>File 021</dc:identifier>
+<dc:relation>Henrietta Local History Collection</dc:relation>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/46</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/47</identifier><datestamp>2012-10-30</datestamp><setSpec>p15109coll1</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/48</identifier><datestamp>2012-10-30</datestamp><setSpec>p15109coll1</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/49</identifier><datestamp>2014-02-13</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Photograph of School District #2</dc:title>
+<dc:description>A photograph of School District #2 pupils and teacher.   On the back of the photograph, there is a note that reads &quot;About 1/4 mile from 1st school.  The first school burned and the new school was built here.  It is now use as a building on  Pinnacle and Lehigh Station.</dc:description>
+<dc:subject>People; Education</dc:subject>
+<dc:coverage>School District #2 - Henrietta - Monroe County - New York</dc:coverage>
+<dc:date>Unknown</dc:date>
+<dc:type>Still Image;</dc:type>
+<dc:identifier>File 003</dc:identifier>
+<dc:relation>Henrietta Local History Collection</dc:relation>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/49</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/50</identifier><datestamp>2012-10-30</datestamp><setSpec>p15109coll1</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/51</identifier><datestamp>2014-02-13</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Photograph of students at the Monroe Academy</dc:title>
+<dc:description>A photograph of a group of students at the Monroe Academy.  They are standing on the steps of an unidentified building.</dc:description>
+<dc:subject>People; Education</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:type>Still Image;</dc:type>
+<dc:identifier>File 022</dc:identifier>
+<dc:relation>Henrietta Local History Collection</dc:relation>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/51</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/52</identifier><datestamp>2012-10-30</datestamp><setSpec>p15109coll1</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/53</identifier><datestamp>2012-10-30</datestamp><setSpec>p15109coll1</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/54</identifier><datestamp>2012-10-30</datestamp><setSpec>p15109coll1</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/55</identifier><datestamp>2012-10-30</datestamp><setSpec>p15109coll1</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/56</identifier><datestamp>2014-02-13</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Photograph of School #9 classroom</dc:title>
+<dc:description>A photograph of School #9.  Bob Hennessy is seated far left.</dc:description>
+<dc:subject>People; Education</dc:subject>
+<dc:coverage>School District #9 - Henrietta - Monroe County - New York</dc:coverage>
+<dc:date>1901-1914</dc:date>
+<dc:date>1901; 1902; 1903; 1904; 1905; 1906; 1907; 1908; 1909; 1910; 1911; 1912; 1913; 1914</dc:date>
+<dc:type>Still Image;</dc:type>
+<dc:identifier>File 002</dc:identifier>
+<dc:relation>Henrietta Local History Collection</dc:relation>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/56</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/57</identifier><datestamp>2012-10-30</datestamp><setSpec>p15109coll1</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/58</identifier><datestamp>2012-10-30</datestamp><setSpec>p15109coll1</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/59</identifier><datestamp>2014-02-13</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Photograph of Whipple Children</dc:title>
+<dc:description>Photograph of Ward and Ruth Whipple</dc:description>
+<dc:subject>People;</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:type>Still Image;</dc:type>
+<dc:identifier>File 006</dc:identifier>
+<dc:relation>Henrietta Local History Collection</dc:relation>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/59</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/60</identifier><datestamp>2012-10-30</datestamp><setSpec>p15109coll1</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/61</identifier><datestamp>2012-10-30</datestamp><setSpec>p15109coll1</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/62</identifier><datestamp>2012-10-30</datestamp><setSpec>p15109coll1</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/63</identifier><datestamp>2012-10-30</datestamp><setSpec>p15109coll1</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/64</identifier><datestamp>2012-10-30</datestamp><setSpec>p15109coll1</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/65</identifier><datestamp>2012-10-30</datestamp><setSpec>p15109coll1</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/66</identifier><datestamp>2012-10-30</datestamp><setSpec>p15109coll1</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/67</identifier><datestamp>2012-10-30</datestamp><setSpec>p15109coll1</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/68</identifier><datestamp>2012-10-30</datestamp><setSpec>p15109coll1</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/69</identifier><datestamp>2012-10-30</datestamp><setSpec>p15109coll1</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/70</identifier><datestamp>2014-10-31</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Personal Timeline of Abram B. Lincoln pg. 1</dc:title>
+<dc:creator>Lincoln, Abram B.</dc:creator>
+<dc:subject>People;</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:type>Text;</dc:type>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/70</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/71</identifier><datestamp>2014-10-31</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Personal Timeline of Abram B. Lincoln pg. 2</dc:title>
+<dc:creator>Lincoln, Abram B.</dc:creator>
+<dc:subject>People;</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:type>Text;</dc:type>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/71</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/72</identifier><datestamp>2013-05-02</datestamp><setSpec>p15109coll1</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/77</identifier><datestamp>2014-10-31</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Letter from Susan DeWitt (Sister) - Nov. 2, 1850</dc:title>
+<dc:description>Letter from Abram Lincoln&#x27;s sister, Susan DeWitte, November 2, 1850, regarding family</dc:description>
+<dc:creator>Dewitt, Susan L.</dc:creator>
+<dc:subject>Nineteenth century; Correspondence</dc:subject>
+<dc:subject>Daily Life; People</dc:subject>
+<dc:date>1850-11-02</dc:date>
+<dc:date>1850-11-02</dc:date>
+<dc:type>Text;</dc:type>
+<dc:language>Eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ABL001</dc:identifier>
+<dc:publisher>Henrietta Public Library</dc:publisher>
+<dc:relation>Abram Lincoln Letter Collection</dc:relation>
+<dc:rights>This image may be used for research and educational purposes as long as it is not altered. Please obtain written permission from the Henrietta Public Library for all other uses.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/77</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/80</identifier><datestamp>2014-10-31</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Letter from Washington Hunt - Feb. 13, 1848</dc:title>
+<dc:description>Letter from Washington Hunt (possibly the U.S. Representative of New York, and soon-to-be Governor of New York), February 13, 1848, regarding the Ten Regiment Bill.</dc:description>
+<dc:creator>Hunt, Washington</dc:creator>
+<dc:subject>Nineteenth century; Correspondence; Mexican-American War, 1846-1848</dc:subject>
+<dc:subject>Military &amp; War; People;</dc:subject>
+<dc:date>1848-02-13</dc:date>
+<dc:date>1848-02-13</dc:date>
+<dc:type>Text;</dc:type>
+<dc:language>Eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ABL002</dc:identifier>
+<dc:publisher>Henrietta Public Library</dc:publisher>
+<dc:relation>Abram Lincoln Letter Collection</dc:relation>
+<dc:rights>This image may be used for research and educational purposes as long as it is not altered. Please obtain written permission from the Henrietta Public Library for all other uses.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/80</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/83</identifier><datestamp>2014-10-31</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Letter from Ed. Underwood - Aug. 7, 1851</dc:title>
+<dc:description>Letter from Ed. Underwood to Abram Lincoln, August 7, 1851, regarding Company Funds of the Regiments.</dc:description>
+<dc:subject>Nineteenth century; Military Correspondence</dc:subject>
+<dc:subject>Government, Law &amp; Politics;</dc:subject>
+<dc:date>1851-07-11</dc:date>
+<dc:date>1851-07-11</dc:date>
+<dc:type>Text;</dc:type>
+<dc:language>Eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ABL003</dc:identifier>
+<dc:publisher>Henrietta Public Library</dc:publisher>
+<dc:relation>Abram Lincoln Letter Collection</dc:relation>
+<dc:rights>This image may be used for research and educational purposes as long as it is not altered. Please obtain written permission from the Henrietta Public Library for all other uses.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/83</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/88</identifier><datestamp>2014-10-31</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Letter from Bra[?] - Mar. 14, 1851</dc:title>
+<dc:description>Letter from Bra[?], March 14, 1851, regarding being stationed in Dona Ana, New Mexico.</dc:description>
+<dc:subject>Nineteenth century; Correspondence</dc:subject>
+<dc:subject>People; Military &amp; War; Government, Law &amp; Politics;</dc:subject>
+<dc:date>1851-03-14</dc:date>
+<dc:date>1851-03-14</dc:date>
+<dc:type>Text;</dc:type>
+<dc:language>Eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ABL004</dc:identifier>
+<dc:publisher>Henrietta Public Library</dc:publisher>
+<dc:relation>Abram Lincoln Letter Collection</dc:relation>
+<dc:rights>This image may be used for research and educational purposes as long as it is not altered. Please obtain written permission from the Henrietta Public Library for all other uses.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/88</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/93</identifier><datestamp>2014-10-31</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Letter from Unknown (possibly Abram Lincoln) to General - Feb. 14, 1851</dc:title>
+<dc:description>Letter from Unknown (possibly Abram Lincoln) to General, February 14, 1851, regarding request to receive Brevet of Capatin of Molino del Rey</dc:description>
+<dc:subject>Nineteenth century; Military Correspondence; Mexican-American War, 1846-1848</dc:subject>
+<dc:subject>Military &amp; War; People</dc:subject>
+<dc:date>1851-02-14</dc:date>
+<dc:date>1851-02-14</dc:date>
+<dc:type>Text;</dc:type>
+<dc:language>Eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ABL005</dc:identifier>
+<dc:publisher>Henrietta Public Library</dc:publisher>
+<dc:relation>Abram Lincoln Letter Collection</dc:relation>
+<dc:rights>This image may be used for research and educational purposes as long as it is not altered. Please obtain written permission from the Henrietta Public Library for all other uses.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/93</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/98</identifier><datestamp>2014-10-31</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Letter from W.H.[J.?] - Jan. 10, 1837</dc:title>
+<dc:description>Letter from W.H.[J.?], January 10, 1837, regarding an apology for a misunderstanding.</dc:description>
+<dc:subject>Nineteenth century; Military Correspondence</dc:subject>
+<dc:subject>Military &amp; War; People</dc:subject>
+<dc:date>1851-01-10</dc:date>
+<dc:date>1851-01-10</dc:date>
+<dc:type>Text;</dc:type>
+<dc:language>Eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ABL006</dc:identifier>
+<dc:publisher>Henrietta Public Library</dc:publisher>
+<dc:relation>Abram Lincoln Letter Collection</dc:relation>
+<dc:rights>This image may be used for research and educational purposes as long as it is not altered. Please obtain written permission from the Henrietta Public Library for all other uses.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/98</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/103</identifier><datestamp>2014-10-31</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Letter from H.M. Judah - Dec. 4, 1850</dc:title>
+<dc:description>Letter from H.M. Judah (possibly Brig. Gen. Henry Moses Judah), December 4, 1850.</dc:description>
+<dc:creator>Judah, H.M.</dc:creator>
+<dc:subject>Nineteenth century; Military Correspondence</dc:subject>
+<dc:subject>Daily Life; People</dc:subject>
+<dc:date>1850-12-04</dc:date>
+<dc:date>1850-12-04</dc:date>
+<dc:type>Text;</dc:type>
+<dc:language>Eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ABL007</dc:identifier>
+<dc:publisher>Henrietta Public Library</dc:publisher>
+<dc:relation>Abram Lincoln Letter Collection</dc:relation>
+<dc:rights>This image may be used for research and educational purposes as long as it is not altered. Please obtain written permission from the Henrietta Public Library for all other uses.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/103</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/108</identifier><datestamp>2014-10-31</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Letter from W.G. Peck - Aug. 15, 1850</dc:title>
+<dc:description>Letter from W.G. Peck, August 15, 1850</dc:description>
+<dc:creator>Peck, W.G.</dc:creator>
+<dc:subject>Nineteenth century; Correspondence</dc:subject>
+<dc:subject>People; Recreation &amp; Sports; Daily Life;</dc:subject>
+<dc:date>1850-08-15</dc:date>
+<dc:date>1850-08-15</dc:date>
+<dc:type>Text;</dc:type>
+<dc:language>Eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ABL008</dc:identifier>
+<dc:publisher>Henrietta Public Library</dc:publisher>
+<dc:relation>Abram Lincoln Letter Collection</dc:relation>
+<dc:rights>This image may be used for research and educational purposes as long as it is not altered. Please obtain written permission from the Henrietta Public Library for all other uses.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/108</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/111</identifier><datestamp>2014-10-31</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Letter from William Blaisdell - Dec. 6, 1850</dc:title>
+<dc:description>Letter from William Blaisdell, December 6, 1850.</dc:description>
+<dc:creator>Blaisdell, William</dc:creator>
+<dc:subject>Nineteenth century; Military Correspondence; Mexican-American War, 1846-1848</dc:subject>
+<dc:subject>Military &amp; War; People</dc:subject>
+<dc:date>1850-12-06</dc:date>
+<dc:date>1850-12-06</dc:date>
+<dc:type>Text;</dc:type>
+<dc:language>Eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ABL009</dc:identifier>
+<dc:publisher>Henrietta Public Library</dc:publisher>
+<dc:relation>Abram Lincoln Letter Collection</dc:relation>
+<dc:rights>This image may be used for research and educational purposes as long as it is not altered. Please obtain written permission from the Henrietta Public Library for all other uses.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/111</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/116</identifier><datestamp>2014-10-31</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Letter from Alden March (Surgeon) - Sept. 18, 1849</dc:title>
+<dc:description>Letter from Alden March (Surgeon), September 18, 1849, regarding Abram Lincoln&#x27;s arm surgery.</dc:description>
+<dc:creator>March, Alden</dc:creator>
+<dc:subject>Nineteenth century; Medical Diagnosis; Correspondence</dc:subject>
+<dc:subject>People</dc:subject>
+<dc:date>1849-09-18</dc:date>
+<dc:date>1849-09-18</dc:date>
+<dc:type>Text;</dc:type>
+<dc:language>Eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ABL010</dc:identifier>
+<dc:publisher>Henrietta Public Library</dc:publisher>
+<dc:relation>Abram Lincoln Letter Collection</dc:relation>
+<dc:rights>This image may be used for research and educational purposes as long as it is not altered. Please obtain written permission from the Henrietta Public Library for all other uses.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/116</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/121</identifier><datestamp>2014-10-31</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Letter from Marcia (Cousin) - Jan. 18, 1946</dc:title>
+<dc:description>Letter from Abram Lincoln&#x27;s cousin, Marcia &quot;Cia&quot;, January 18, 1946.</dc:description>
+<dc:subject>Nineteenth century; Correspondence</dc:subject>
+<dc:subject>Daily Life; Community &amp; Events; People</dc:subject>
+<dc:date>1846-01-18</dc:date>
+<dc:date>1846-01-18</dc:date>
+<dc:type>Text;</dc:type>
+<dc:language>Eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ABL011</dc:identifier>
+<dc:publisher>Henrietta Public Library</dc:publisher>
+<dc:relation>Abram Lincoln Letter Collection</dc:relation>
+<dc:rights>This image may be used for research and educational purposes as long as it is not altered. Please obtain written permission from the Henrietta Public Library for all other uses.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/121</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/126</identifier><datestamp>2014-10-31</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Letter from Jane A Farrill with Codicil by B. - Oct. 6, 1842</dc:title>
+<dc:description>Letter from Jane A. Farrill, October 6, 1842, includes a codicil from &quot;B-&quot;.</dc:description>
+<dc:subject>Nineteenth century; Correspondence</dc:subject>
+<dc:subject>People; Daily Life</dc:subject>
+<dc:date>1842-10-06</dc:date>
+<dc:date>1842-10-06</dc:date>
+<dc:type>Text;</dc:type>
+<dc:language>Eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ABL012</dc:identifier>
+<dc:publisher>Henrietta Public Library</dc:publisher>
+<dc:relation>Abram Lincoln Letter Collection</dc:relation>
+<dc:rights>This image may be used for research and educational purposes as long as it is not altered. Please obtain written permission from the Henrietta Public Library for all other uses.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/126</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/130</identifier><datestamp>2014-10-31</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Contract between Abram B. Lincoln and George W. Lincoln - Mar. 31, 1851</dc:title>
+<dc:description>Contract between Abram B. Lincoln and George W. Lincoln, March 31, 1851, regarding maintenance of Abram B. Lincoln&#x27;s farm land in Henrietta by George W. Lincoln.</dc:description>
+<dc:subject>Nineteenth century; Contracts, Agricultural</dc:subject>
+<dc:subject>Agriculture; People; Work &amp; Labor</dc:subject>
+<dc:date>1851-03-01</dc:date>
+<dc:date>1851-03-01</dc:date>
+<dc:type>Text;</dc:type>
+<dc:language>Eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ABL013</dc:identifier>
+<dc:publisher>Henrietta Public Library</dc:publisher>
+<dc:relation>Abram Lincoln Letter Collection</dc:relation>
+<dc:rights>This image may be used for research and educational purposes as long as it is not altered. Please obtain written permission from the Henrietta Public Library for all other uses.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/130</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/133</identifier><datestamp>2014-10-31</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>A Gentleman&#x27;s Confession - A Ladies Confession in Red</dc:title>
+<dc:description>A &quot;list&quot; of &quot;Gentleman&#x27;s Confessions&quot; with &quot;A Ladies Confession&quot; penned above each line in red ink. Date unknown.</dc:description>
+<dc:subject>Nineteenth century; Correspondence</dc:subject>
+<dc:subject>Daily Life; People</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:type>Text;</dc:type>
+<dc:language>Eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ABL014</dc:identifier>
+<dc:publisher>Henrietta Public Library</dc:publisher>
+<dc:relation>Abram Lincoln Letter Collection</dc:relation>
+<dc:rights>This image may be used for research and educational purposes as long as it is not altered. Please obtain written permission from the Henrietta Public Library for all other uses.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/133</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/136</identifier><datestamp>2014-10-31</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Letter from H. [?] - Jul. 27, 1850</dc:title>
+<dc:description>Letter from H. [?],  July 27, 1850, regarding foot pain.</dc:description>
+<dc:subject>Nineteenth century; Correspondence</dc:subject>
+<dc:subject>People; Daily Life</dc:subject>
+<dc:date>1850-07-27</dc:date>
+<dc:date>1850-07-27</dc:date>
+<dc:type>Text;</dc:type>
+<dc:language>Eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ABL015</dc:identifier>
+<dc:publisher>Henrietta Public Library</dc:publisher>
+<dc:relation>Abram Lincoln Letter Collection</dc:relation>
+<dc:rights>This image may be used for research and educational purposes as long as it is not altered. Please obtain written permission from the Henrietta Public Library for all other uses.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/136</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/139</identifier><datestamp>2014-10-31</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Letter from H. Carver - Apr. 4, 1852</dc:title>
+<dc:description>Letter from H. Carver (possibly Dr. Hartwell Carver, an early advocate for the Transcontinental Railroad), April 4, 1852, regarding visit to Washington D.C. and Congress.</dc:description>
+<dc:creator>Carver, H.</dc:creator>
+<dc:subject>Nineteenth century; Correspondence</dc:subject>
+<dc:subject>People; Government, Law &amp; Politics</dc:subject>
+<dc:date>1852-04-04</dc:date>
+<dc:date>1852-04-04</dc:date>
+<dc:type>Text;</dc:type>
+<dc:language>Eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ABL016</dc:identifier>
+<dc:publisher>Henrietta Public Library</dc:publisher>
+<dc:relation>Abram Lincoln Letter Collection</dc:relation>
+<dc:rights>This image may be used for research and educational purposes as long as it is not altered. Please obtain written permission from the Henrietta Public Library for all other uses.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/139</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/144</identifier><datestamp>2014-10-31</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Letter from Margaret - April date unknown</dc:title>
+<dc:description>Letter from Margaret, post marked April 1, date unknown, regarding an apology for a previously sent Valentine.</dc:description>
+<dc:subject>Nineteenth century; Correspondence</dc:subject>
+<dc:subject>Daily Life; People</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:type>Text;</dc:type>
+<dc:language>Eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ABL017</dc:identifier>
+<dc:publisher>Henrietta Public Library</dc:publisher>
+<dc:relation>Abram Lincoln Letter Collection</dc:relation>
+<dc:rights>This image may be used for research and educational purposes as long as it is not altered. Please obtain written permission from the Henrietta Public Library for all other uses.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/144</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/148</identifier><datestamp>2014-10-31</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Letter from George W. Lincoln - Feb. 26, 1851</dc:title>
+<dc:description>Letter from George W. Lincoln, Feburary 26, 1851</dc:description>
+<dc:creator>Lincoln, Geo W.</dc:creator>
+<dc:subject>Nineteenth century; Correspondence</dc:subject>
+<dc:subject>Agriculture; Daily Life; People</dc:subject>
+<dc:date>1851-02-26</dc:date>
+<dc:date>1851-02-26</dc:date>
+<dc:type>Text;</dc:type>
+<dc:language>Eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ABL018</dc:identifier>
+<dc:publisher>Henrietta Public Library</dc:publisher>
+<dc:relation>Abram Lincoln Letter Collection</dc:relation>
+<dc:rights>This image may be used for research and educational purposes as long as it is not altered. Please obtain written permission from the Henrietta Public Library for all other uses.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/148</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/153</identifier><datestamp>2014-10-31</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Letter to George W. Lincoln from nephew (DeWitt) - Mar. 24, 1893</dc:title>
+<dc:description>Letter to George &quot;Geo&quot; W. Lincoln by a nephew (possibly Geo DeWitt), March 24, 1893, regarding a trip to Palatka, Florida.</dc:description>
+<dc:subject>Nineteenth century; Correspondence</dc:subject>
+<dc:subject>Daily Life; Recreation &amp; Sports;</dc:subject>
+<dc:date>1893-03-24</dc:date>
+<dc:date>1893-03-24</dc:date>
+<dc:type>Text;</dc:type>
+<dc:language>Eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ABL019</dc:identifier>
+<dc:publisher>Henrietta Public Library</dc:publisher>
+<dc:relation>Abram Lincoln Letter Collection</dc:relation>
+<dc:rights>This image may be used for research and educational purposes as long as it is not altered. Please obtain written permission from the Henrietta Public Library for all other uses.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/153</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/156</identifier><datestamp>2014-10-31</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Letter from B. Works (Cousin) - Jun. 9, 1851</dc:title>
+<dc:description>Letter from B. (possibly Barton) Works, Abram Lincoln&#x27;s cousin, June 9, 1851, requesting employment as a surveyor for railroad construction</dc:description>
+<dc:creator>Works, B.</dc:creator>
+<dc:subject>Nineteenth century; Correspondence</dc:subject>
+<dc:subject>Work &amp; Labor; Transportation; People</dc:subject>
+<dc:date>1851-06-09</dc:date>
+<dc:date>1851-06-09</dc:date>
+<dc:type>Text;</dc:type>
+<dc:language>Eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ABL020</dc:identifier>
+<dc:publisher>Henrietta Public Library</dc:publisher>
+<dc:relation>Abram Lincoln Letter Collection</dc:relation>
+<dc:rights>This image may be used for research and educational purposes as long as it is not altered. Please obtain written permission from the Henrietta Public Library for all other uses.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/156</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/161</identifier><datestamp>2014-10-31</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Letter from Susan L. DeWitt (Sister) - Feb. 8, 1851</dc:title>
+<dc:description>Letter from Susan L. DeWitt, Abram Lincoln&#x27;s sister, February 8, 1851</dc:description>
+<dc:creator>Dewitt, Susan L.</dc:creator>
+<dc:subject>Nineteenth century; Correspondence</dc:subject>
+<dc:subject>Daily Life; People</dc:subject>
+<dc:date>1851-02-08</dc:date>
+<dc:date>1851-02-08</dc:date>
+<dc:type>Text;</dc:type>
+<dc:language>Eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ABL021</dc:identifier>
+<dc:publisher>Henrietta Public Library</dc:publisher>
+<dc:relation>Abram Lincoln Letter Collection</dc:relation>
+<dc:rights>This image may be used for research and educational purposes as long as it is not altered. Please obtain written permission from the Henrietta Public Library for all other uses.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/161</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/166</identifier><datestamp>2014-10-31</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Letter from Susan L. DeWitt (Sister) - Aug. 16, 1850</dc:title>
+<dc:description>Letter from Susan L. DeWitt, Abram Lincoln&#x27;s sister, August 16, 1850.</dc:description>
+<dc:creator>Dewitt, Susan L.</dc:creator>
+<dc:subject>Nineteenth century; Correspondence</dc:subject>
+<dc:subject>Daily Life; People</dc:subject>
+<dc:date>1850-08-16</dc:date>
+<dc:date>1850-08-16</dc:date>
+<dc:type>Text;</dc:type>
+<dc:language>Eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ABL022</dc:identifier>
+<dc:publisher>Henrietta Public Library</dc:publisher>
+<dc:relation>Abram Lincoln Letter Collection</dc:relation>
+<dc:rights>This image may be used for research and educational purposes as long as it is not altered. Please obtain written permission from the Henrietta Public Library for all other uses.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/166</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/170</identifier><datestamp>2014-10-31</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Letter to George W. Lincoln from Chairman Alonzo B. Cornell - Oct. 17, 1873</dc:title>
+<dc:description>Letter to George W. Lincoln from Chairman Alonzo B. Cornell,  October 17, 1873, encouraging him to vote Republican in an upcoming election.</dc:description>
+<dc:creator>Cornell, Alonzo B.</dc:creator>
+<dc:subject>Nineteenth century; Correspondence</dc:subject>
+<dc:subject>Government, Law &amp; Politics;</dc:subject>
+<dc:date>1873-10-17</dc:date>
+<dc:date>1873-10-17</dc:date>
+<dc:type>Text;</dc:type>
+<dc:language>Eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ABL023</dc:identifier>
+<dc:publisher>Henrietta Public Library</dc:publisher>
+<dc:relation>Abram Lincoln Letter Collection</dc:relation>
+<dc:rights>This image may be used for research and educational purposes as long as it is not altered. Please obtain written permission from the Henrietta Public Library for all other uses.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/170</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/173</identifier><datestamp>2014-10-31</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Letter to George W. Lincoln from E. Hodges - Jul. 25, 1874</dc:title>
+<dc:description>Letter to George W. Lincoln from E. Hodges (of the U.S. Treasury Department, Second Auditor&#x27;s Office) July 25, 1874, regarding a recipe for blackberry wine.</dc:description>
+<dc:creator>Hodges, E.</dc:creator>
+<dc:subject>Nineteenth century; Correspondence</dc:subject>
+<dc:subject>Daily Life; People</dc:subject>
+<dc:date>1874-07-25</dc:date>
+<dc:date>1874-07-25</dc:date>
+<dc:type>Text;</dc:type>
+<dc:language>Eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ABL024</dc:identifier>
+<dc:publisher>Henrietta Public Library</dc:publisher>
+<dc:relation>Abram Lincoln Letter Collection</dc:relation>
+<dc:rights>This image may be used for research and educational purposes as long as it is not altered. Please obtain written permission from the Henrietta Public Library for all other uses.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/173</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/176</identifier><datestamp>2014-10-31</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Letter from Susan L. DeWitt (Sister) - Feb. 25, 1851</dc:title>
+<dc:description>Letter from Susan L. DeWitt, Abram Lincoln&#x27;s sister, February 25, 1851.</dc:description>
+<dc:creator>Dewitt, Susan L.</dc:creator>
+<dc:subject>Nineteenth century; Correspondence</dc:subject>
+<dc:subject>People; Daily Life</dc:subject>
+<dc:date>1851-02-25</dc:date>
+<dc:date>1851-02-25</dc:date>
+<dc:type>Text;</dc:type>
+<dc:language>Eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ABL025</dc:identifier>
+<dc:publisher>Henrietta Public Library</dc:publisher>
+<dc:relation>Abram Lincoln Letter Collection</dc:relation>
+<dc:rights>This image may be used for research and educational purposes as long as it is not altered. Please obtain written permission from the Henrietta Public Library for all other uses.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/176</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/181</identifier><datestamp>2014-10-31</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Letter from George W. Lincoln - Jan. 31, 1851</dc:title>
+<dc:description>Letter from George &quot;Geo&quot; W. Lincoln, January 31, 1851</dc:description>
+<dc:creator>Lincoln, Geo W.</dc:creator>
+<dc:subject>Nineteenth century; Correspondence</dc:subject>
+<dc:subject>Community &amp; Events; Daily Life; People</dc:subject>
+<dc:date>1851-01-31</dc:date>
+<dc:date>1851-01-31</dc:date>
+<dc:type>Text;</dc:type>
+<dc:language>Eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ABL026</dc:identifier>
+<dc:publisher>Henrietta Public Library</dc:publisher>
+<dc:relation>Abram Lincoln Letter Collection</dc:relation>
+<dc:rights>This image may be used for research and educational purposes as long as it is not altered. Please obtain written permission from the Henrietta Public Library for all other uses.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/181</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/183</identifier><datestamp>2014-10-31</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Letter from George W. Lincoln - Jan. 9, 1850 pg. 1</dc:title>
+<dc:description>Letter from George &quot;Geo&quot; W. Lincoln, January 9, 1850</dc:description>
+<dc:creator>Lincoln, Geo W.</dc:creator>
+<dc:subject>Nineteenth century; Correspondence</dc:subject>
+<dc:subject>People; Daily Life</dc:subject>
+<dc:date>1850-01-09</dc:date>
+<dc:date>1850-01-09</dc:date>
+<dc:type>Text;</dc:type>
+<dc:language>Eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ABL027</dc:identifier>
+<dc:publisher>Henrietta Public Library</dc:publisher>
+<dc:relation>Abram Lincoln Letter Collection</dc:relation>
+<dc:rights>This image may be used for research and educational purposes as long as it is not altered. Please obtain written permission from the Henrietta Public Library for all other uses.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/183</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/185</identifier><datestamp>2014-10-31</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Letter from George W. Lincoln - Jan. 11, 1851 pg. 1</dc:title>
+<dc:description>Letter from George &quot;Geo&quot; W. Lincoln, January 11, 1851, regarding payments and balance.</dc:description>
+<dc:creator>Lincoln, Geo W.</dc:creator>
+<dc:subject>Nineteenth century; Correspondence; Finance</dc:subject>
+<dc:subject>People; Daily Life</dc:subject>
+<dc:date>1851-01-11</dc:date>
+<dc:date>1851-01-11</dc:date>
+<dc:type>Text;</dc:type>
+<dc:language>Eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ABL028</dc:identifier>
+<dc:publisher>Henrietta Public Library</dc:publisher>
+<dc:relation>Abram Lincoln Letter Collection</dc:relation>
+<dc:rights>This image may be used for research and educational purposes as long as it is not altered. Please obtain written permission from the Henrietta Public Library for all other uses.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/185</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/188</identifier><datestamp>2014-10-31</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Letter from George W. Lincoln - Jan. 27, 1851</dc:title>
+<dc:description>Letter from George &quot;Geo&quot; W. Lincoln, January 27, 1851.</dc:description>
+<dc:creator>Lincoln, Geo W.</dc:creator>
+<dc:subject>Nineteenth century; Correspondence</dc:subject>
+<dc:subject>Daily Life; People</dc:subject>
+<dc:date>1851-01-27</dc:date>
+<dc:date>1851-01-27</dc:date>
+<dc:type>Text;</dc:type>
+<dc:language>Eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ABL029</dc:identifier>
+<dc:publisher>Henrietta Public Library</dc:publisher>
+<dc:relation>Abram Lincoln Letter Collection</dc:relation>
+<dc:rights>This image may be used for research and educational purposes as long as it is not altered. Please obtain written permission from the Henrietta Public Library for all other uses.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/188</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/191</identifier><datestamp>2014-10-31</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Letter from George W. Lincoln - Dec. 26, 1850</dc:title>
+<dc:description>Letter from George W. Lincoln, December 26, 1850, regarding finance.</dc:description>
+<dc:creator>Lincoln, Geo W.</dc:creator>
+<dc:subject>Nineteenth century; Correspondence</dc:subject>
+<dc:subject>Daily Life; People</dc:subject>
+<dc:date>1850-12-26</dc:date>
+<dc:date>1850-12-26</dc:date>
+<dc:type>Text;</dc:type>
+<dc:language>Eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ABL030</dc:identifier>
+<dc:publisher>Henrietta Public Library</dc:publisher>
+<dc:relation>Abram Lincoln Letter Collection</dc:relation>
+<dc:rights>This image may be used for research and educational purposes as long as it is not altered. Please obtain written permission from the Henrietta Public Library for all other uses.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/191</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/197</identifier><datestamp>2014-10-31</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Letter from Christine (Sister) - Apr. 8, Year Unknown</dc:title>
+<dc:description>Letter from Christine, Abram Lincoln&#x27;s sister, April 8, Year Unknown (most likely between 1850-1852).</dc:description>
+<dc:subject>Nineteenth century; Correspondence</dc:subject>
+<dc:subject>Daily Life; People; Recreation &amp; Sports;</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:type>Text;</dc:type>
+<dc:language>Eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ABL031</dc:identifier>
+<dc:publisher>Henrietta Public Library</dc:publisher>
+<dc:relation>Abram Lincoln Letter Collection</dc:relation>
+<dc:rights>This image may be used for research and educational purposes as long as it is not altered. Please obtain written permission from the Henrietta Public Library for all other uses.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/197</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/199</identifier><datestamp>2014-10-31</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Invitation Card to Abram B. Lincoln and George W. Lincoln from Miss Kirby - Date Unknown</dc:title>
+<dc:description>Invitation Card to Abram B. Lincoln and George W. Lincoln from Miss Kirby, Date Unknown</dc:description>
+<dc:subject>Nineteenth century; Invitation Cards</dc:subject>
+<dc:subject>People</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:type>Text;</dc:type>
+<dc:language>Eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ABL032</dc:identifier>
+<dc:publisher>Henrietta Public Library</dc:publisher>
+<dc:relation>Abram Lincoln Letter Collection</dc:relation>
+<dc:rights>This image may be used for research and educational purposes as long as it is not altered. Please obtain written permission from the Henrietta Public Library for all other uses.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/199</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/201</identifier><datestamp>2014-10-31</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Invitation Card to Abram B. Lincoln Miss Kirby - Date Unknown</dc:title>
+<dc:description>Invitation Card to Abram B. Lincoln Miss Kirby, date unknown</dc:description>
+<dc:subject>Nineteenth century; Invitation Cards</dc:subject>
+<dc:subject>People</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:type>Text;</dc:type>
+<dc:language>Eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ABL033</dc:identifier>
+<dc:publisher>Henrietta Public Library</dc:publisher>
+<dc:relation>Abram Lincoln Letter Collection</dc:relation>
+<dc:rights>This image may be used for research and educational purposes as long as it is not altered. Please obtain written permission from the Henrietta Public Library for all other uses.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/201</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/203</identifier><datestamp>2014-10-31</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Invitation Card (unaddressed) from Miss Kirby - Date Unknown</dc:title>
+<dc:description>Invitation Card (unaddressed) from Miss Kirby, Date Unknown</dc:description>
+<dc:subject>Nineteenth century; Invitation Cards</dc:subject>
+<dc:subject>People</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:type>Text;</dc:type>
+<dc:language>Eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ABL034</dc:identifier>
+<dc:publisher>Henrietta Public Library</dc:publisher>
+<dc:relation>Abram Lincoln Letter Collection</dc:relation>
+<dc:rights>This image may be used for research and educational purposes as long as it is not altered. Please obtain written permission from the Henrietta Public Library for all other uses.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/203</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/208</identifier><datestamp>2014-10-31</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Letter to Abram B. Lincoln - Creator and Date Unknown</dc:title>
+<dc:description>Letter to Abram B. Lincoln, creator (possibly Miss Kirby?) and date unknown, regarding Lincoln&#x27;s health.</dc:description>
+<dc:subject>Nineteenth century; Correspondence</dc:subject>
+<dc:subject>Daily Life; People</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:type>Text;</dc:type>
+<dc:language>Eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ABL035</dc:identifier>
+<dc:publisher>Henrietta Public Library</dc:publisher>
+<dc:relation>Abram Lincoln Letter Collection</dc:relation>
+<dc:rights>This image may be used for research and educational purposes as long as it is not altered. Please obtain written permission from the Henrietta Public Library for all other uses.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/208</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/214</identifier><datestamp>2014-10-31</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Letter from Sarah &amp; Mathilda Davis - Sept. 22, Year Unknown</dc:title>
+<dc:description>Letter from Sarah &amp; Mathilda Davis, September 22, year unknown</dc:description>
+<dc:creator>Davis, Sarah ; Davis, Mathilda</dc:creator>
+<dc:subject>Nineteenth century; Correspondence</dc:subject>
+<dc:subject>People; Community &amp; Events; Recreation &amp; Sports;</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:type>Text;</dc:type>
+<dc:language>Eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ABL036</dc:identifier>
+<dc:publisher>Henrietta Public Library</dc:publisher>
+<dc:relation>Abram Lincoln Letter Collection</dc:relation>
+<dc:rights>This image may be used for research and educational purposes as long as it is not altered. Please obtain written permission from the Henrietta Public Library for all other uses.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/214</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/218</identifier><datestamp>2014-10-31</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Valentine&#x27;s Letter from Unknown - Feb. 14, 1850</dc:title>
+<dc:description>Valentine&#x27;s Letter from an unknown sender to Abram B. Lincoln, February 14, 1850.</dc:description>
+<dc:subject>Nineteenth century; Correspondence; Poetry</dc:subject>
+<dc:subject>People</dc:subject>
+<dc:date>1850-02-14</dc:date>
+<dc:date>1850-02-14</dc:date>
+<dc:type>Text;</dc:type>
+<dc:language>Eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ABL037</dc:identifier>
+<dc:publisher>Henrietta Public Library</dc:publisher>
+<dc:relation>Abram Lincoln Letter Collection</dc:relation>
+<dc:rights>This image may be used for research and educational purposes as long as it is not altered. Please obtain written permission from the Henrietta Public Library for all other uses.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/218</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/224</identifier><datestamp>2014-10-31</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Letter Poem from Unknown - Feb. 14, 1851</dc:title>
+<dc:description>Letter containing a poem from an unknown sender to Abram B. Lincoln, February 14, 1851</dc:description>
+<dc:subject>Nineteenth century; Correspondence; Poetry</dc:subject>
+<dc:subject>People</dc:subject>
+<dc:date>1851-02-14</dc:date>
+<dc:date>1851-02-14</dc:date>
+<dc:type>Text;</dc:type>
+<dc:language>Eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ABL038</dc:identifier>
+<dc:publisher>Henrietta Public Library</dc:publisher>
+<dc:relation>Abram Lincoln Letter Collection</dc:relation>
+<dc:rights>This image may be used for research and educational purposes as long as it is not altered. Please obtain written permission from the Henrietta Public Library for all other uses.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/224</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/227</identifier><datestamp>2014-10-31</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Abstract of Articles Purchased at Table Creek by Abram B. Lincoln - Jun. 30, 1846</dc:title>
+<dc:description>Abstract of articles purchased at the new post at Table	Creek on June 30, 1846, by Abram B. Lincoln</dc:description>
+<dc:creator>Lincoln, A. B.</dc:creator>
+<dc:subject>Nineteenth century; Correspondence</dc:subject>
+<dc:date>1846-06-30</dc:date>
+<dc:date>1846-06-30</dc:date>
+<dc:type>Text;</dc:type>
+<dc:language>Eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ABL039</dc:identifier>
+<dc:publisher>Henrietta Public Library</dc:publisher>
+<dc:relation>Abram Lincoln Letter Collection</dc:relation>
+<dc:rights>This image may be used for research and educational purposes as long as it is not altered. Please obtain written permission from the Henrietta Public Library for all other uses.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/227</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/230</identifier><datestamp>2014-10-31</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Return of Clothing and Camp and Garrison Equipage - Jun. 30, 1851</dc:title>
+<dc:description>Return of Clothing and Camp and Garrison Equipage received and issued at Fort Ontario N.Y. by Abram B. Lincoln, June 30, 1846</dc:description>
+<dc:creator>Lincoln, A.B.</dc:creator>
+<dc:subject>Nineteenth century; Correspondence</dc:subject>
+<dc:subject>Military &amp; War;</dc:subject>
+<dc:date>1851-06-30</dc:date>
+<dc:date>1851-06-30</dc:date>
+<dc:type>Text;</dc:type>
+<dc:language>Eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ABL040</dc:identifier>
+<dc:publisher>Henrietta Public Library</dc:publisher>
+<dc:relation>Abram Lincoln Letter Collection</dc:relation>
+<dc:rights>This image may be used for research and educational purposes as long as it is not altered. Please obtain written permission from the Henrietta Public Library for all other uses.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/230</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/234</identifier><datestamp>2014-10-31</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Receipt of Payment from Qr Master (Abram B. Lincoln) - Date Unknown</dc:title>
+<dc:description>Receipt of Payment from Qr Master (Abram B. Lincoln), date unknown</dc:description>
+<dc:creator>Lincoln, A.B.</dc:creator>
+<dc:subject>Nineteenth century; Correspondence</dc:subject>
+<dc:subject>Military &amp; War;</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:type>Text;</dc:type>
+<dc:language>Eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ABL041</dc:identifier>
+<dc:publisher>Henrietta Public Library</dc:publisher>
+<dc:relation>Abram Lincoln Letter Collection</dc:relation>
+<dc:rights>This image may be used for research and educational purposes as long as it is not altered. Please obtain written permission from the Henrietta Public Library for all other uses.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/234</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/238</identifier><datestamp>2014-10-31</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>List of Items and Payments from Abram B. Lincoln to H. Rich - 1846</dc:title>
+<dc:description>List of Items and Payments from Abram B. Lincoln to H. Rich, 1846</dc:description>
+<dc:creator>Lincoln, A.B.</dc:creator>
+<dc:subject>Nineteenth century; Correspondence</dc:subject>
+<dc:subject>Military &amp; War;</dc:subject>
+<dc:date>1846</dc:date>
+<dc:date>1846</dc:date>
+<dc:type>Text;</dc:type>
+<dc:language>Eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ABL042</dc:identifier>
+<dc:publisher>Henrietta Public Library</dc:publisher>
+<dc:relation>Abram Lincoln Letter Collection</dc:relation>
+<dc:rights>This image may be used for research and educational purposes as long as it is not altered. Please obtain written permission from the Henrietta Public Library for all other uses.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/238</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/242</identifier><datestamp>2014-10-31</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Plattsburgh Barracks Payments - Apr. 30, 1849</dc:title>
+<dc:description>Plattsburgh Barracks Payments, Apr. 30, 1849, Abram B. Lincoln, Treasurer, April 30, 1849</dc:description>
+<dc:creator>Lincoln, A.B.</dc:creator>
+<dc:subject>Nineteenth century; Correspondence; Finance</dc:subject>
+<dc:subject>Military &amp; War;</dc:subject>
+<dc:date>1849-04-30</dc:date>
+<dc:date>1849-04-30</dc:date>
+<dc:type>Text;</dc:type>
+<dc:language>Eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ABL043</dc:identifier>
+<dc:publisher>Henrietta Public Library</dc:publisher>
+<dc:relation>Abram Lincoln Letter Collection</dc:relation>
+<dc:rights>This image may be used for research and educational purposes as long as it is not altered. Please obtain written permission from the Henrietta Public Library for all other uses.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/242</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p15109coll1/245</identifier><datestamp>2014-10-31</datestamp><setSpec>p15109coll1</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Invoice of Indian Goods Turned Over by Abram B. Lincoln - 1846</dc:title>
+<dc:description>Invoice of Indian Goods turned over by Abram B. Lincoln, 1846</dc:description>
+<dc:creator>Lincoln, A.B.</dc:creator>
+<dc:subject>Nineteenth century; Correspondence</dc:subject>
+<dc:subject>Military &amp; War;</dc:subject>
+<dc:date>1846</dc:date>
+<dc:type>Text;</dc:type>
+<dc:language>Eng</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>ABL044</dc:identifier>
+<dc:publisher>Henrietta Public Library</dc:publisher>
+<dc:relation>Abram Lincoln Letter Collection</dc:relation>
+<dc:rights>This image may be used for research and educational purposes as long as it is not altered. Please obtain written permission from the Henrietta Public Library for all other uses.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p15109coll1/id/245</dc:identifier></oai_dc:dc>
+</metadata>
+</record></ListRecords></OAI-PMH>
