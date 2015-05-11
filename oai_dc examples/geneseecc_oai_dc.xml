@@ -1,0 +1,913 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2015-05-11T14:19:47Z</responseDate><request verb="ListRecords" metadataPrefix="oai_dc" set="YJA">http://cdm16694.contentdm.oclc.org/oai/oai.php</request><ListRecords><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/0</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/1</identifier><datestamp>2012-08-22</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:YJA/2</identifier><datestamp>2013-12-17</datestamp><setSpec>YJA</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>GCC0029: GCC Yearbook, 1972, excerpt</dc:title>
+<dc:description>An excerpt from the 1972 Genesee Community College yearbook showing the first campus exterior.</dc:description>
+<dc:subject>Community colleges--New York (State)--History</dc:subject>
+<dc:subject>Education; Transportation</dc:subject>
+<dc:subject>New York (State), Western; Genesee County (N.Y.); Batavia (N.Y.)</dc:subject>
+<dc:date>1972</dc:date>
+<dc:source>10cm x 11cm</dc:source>
+<dc:type>Still Image; Text</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>gcc004</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Genesee Community College History</dc:relation>
+<dc:rights>This digital image may be used for educational purposes only, as long as it is not altered in any way and proper credit is given to Genesee Community College Archives, Alfred C. O&#x27;Connell Library. Prior written permission from the Director of Library Services, Alfred C. O&#x27;Connell Library, is required for any other use of the image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/YJA/id/2</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/3</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/4</identifier><datestamp>2012-09-12</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/5</identifier><datestamp>2012-09-12</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/6</identifier><datestamp>2012-09-12</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/7</identifier><datestamp>2012-09-12</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/8</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:YJA/9</identifier><datestamp>2014-06-03</datestamp><setSpec>YJA</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>GCC0001: Citizens Committee for a Genesee County Community College float at Farm-City Parade</dc:title>
+<dc:description>A Batavia Daily News newspaper clipping featuring the Citizens Committee for a Genesee Community College float at the Farm-City Parade in Batavia, NY in July 1965.</dc:description>
+<dc:subject>Batavia (N.Y.)--Newspapers; Community colleges--New York (State)--History</dc:subject>
+<dc:subject>Community &amp; Events; Education; People</dc:subject>
+<dc:subject>New York (State), Western; Genesee County (N.Y.); Batavia (N.Y.)</dc:subject>
+<dc:date>1965-07-16</dc:date>
+<dc:source>12.2cm x 17.cm</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>gcc007</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Genesee Community College History</dc:relation>
+<dc:rights>Courtesy of: The Daily News, Batavia, NY. This digital image may be used for educational purposes only, as long as it is not altered in any way and proper credit is given to Genesee Community College Archives, Alfred C. O&#x27;Connell Library. Prior written permission from the Director of Library Services, Alfred C. O&#x27;Connell Library, is required for any other use of the image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/YJA/id/9</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/10</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:YJA/11</identifier><datestamp>2014-06-03</datestamp><setSpec>YJA</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>GCC0012: Faculty retreat, 1968-09-04</dc:title>
+<dc:description>Photo from a faculty retreat that took place the weekend of September 4, 1968.  First row: Larry Barnes, John Stork, Malcolm Wormley, William Vincent, Angelo Francesca, Dr. Stuart Steiner, William McCleary, Bruce Lindsey, James Perkins, Frank Clark, Robert Trantham. Second row: Almeta George, Marjorie Young Gautieri, Lorraine Fischer, Douglas Evans, David Peters, Donald Ketcham, John “Jerry” VonHold,  Bernard Marcus, Bonnie Burke, William Hauser, Helle Leetmaa, Douglas Cowles, Paul Schulte, Richard Shirey, Michael Stoll. Third row: Robert Fussell, John Carli, George Cruden, Joseph Sullivan, Carl Lewis, Eva Young, Maria Peter, Gloria Nowaczyk, Maxine Long, Francis Semmens,  Dolores Chiocco, Carol Wittlinger, Anthony Cory, Harry Welshofer, Ronald Cole. Fourth row: Dr. Alfred C. O’Connell, Anthony Zambito, Michael Brick, Lawrence Levy, David Gnage, Peter Lindstrom.</dc:description>
+<dc:subject>Community colleges--New York (State)--History</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:subject>New York (State), Western; Genesee County (N.Y.); Batavia (N.Y.)</dc:subject>
+<dc:date>1968-09-04</dc:date>
+<dc:source>20.6cm x 25.5cm</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>gcc002</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Genesee Community College History</dc:relation>
+<dc:rights>This digital image may be used for educational purposes only, as long as it is not altered in any way and proper credit is given to Genesee Community College Archives, Alfred C. O&#x27;Connell Library. Prior written permission from the Director of Library Services, Alfred C. O&#x27;Connell Library, is required for any other use of the image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/YJA/id/11</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/12</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/13</identifier><datestamp>2012-08-22</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/14</identifier><datestamp>2012-09-12</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/15</identifier><datestamp>2012-09-12</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/16</identifier><datestamp>2012-09-12</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/17</identifier><datestamp>2012-09-12</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/18</identifier><datestamp>2012-09-12</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/19</identifier><datestamp>2012-09-12</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/20</identifier><datestamp>2012-09-12</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/21</identifier><datestamp>2012-09-12</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/22</identifier><datestamp>2012-08-22</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/23</identifier><datestamp>2012-09-12</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/24</identifier><datestamp>2012-09-12</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/25</identifier><datestamp>2012-09-12</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/26</identifier><datestamp>2012-09-12</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/27</identifier><datestamp>2012-09-12</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/28</identifier><datestamp>2012-09-12</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/29</identifier><datestamp>2012-09-12</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/30</identifier><datestamp>2012-09-12</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/31</identifier><datestamp>2012-09-12</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/32</identifier><datestamp>2012-09-12</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/33</identifier><datestamp>2012-08-22</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/34</identifier><datestamp>2012-09-12</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/35</identifier><datestamp>2012-09-12</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/36</identifier><datestamp>2012-09-12</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/37</identifier><datestamp>2012-09-12</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/38</identifier><datestamp>2012-09-12</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:YJA/39</identifier><datestamp>2013-10-08</datestamp><setSpec>YJA</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>GCC0037: GCC aerial view</dc:title>
+<dc:description>Aerial view of the College Road Campus.</dc:description>
+<dc:subject>Community colleges--New York (State)--History</dc:subject>
+<dc:subject>Architecture; Education</dc:subject>
+<dc:subject>New York (State), Western; Genesee County (N.Y.); Batavia (N.Y.)</dc:subject>
+<dc:date>1970?-1979?</dc:date>
+<dc:source>21.5cm x 25.5cm</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>gcc012</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Genesee Community College History</dc:relation>
+<dc:rights>This digital image may be used for educational purposes only, as long as it is not altered in any way and proper credit is given to Genesee Community College Archives, Alfred C. O&#x27;Connell Library. Prior written permission from the Director of Library Services, Alfred C. O&#x27;Connell Library, is required for any other use of the image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/YJA/id/39</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/40</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:YJA/41</identifier><datestamp>2014-06-03</datestamp><setSpec>YJA</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>GCC0027: Alfred C. O&#x27;Connell Library construction, 1971-05-04</dc:title>
+<dc:description>This is a picture of the construction of the Alfred C. O&#x27;Connell Library.</dc:description>
+<dc:subject>Community colleges--New York (State)--History</dc:subject>
+<dc:subject>Architecture; Education</dc:subject>
+<dc:subject>New York (State), Western; Genesee County (N.Y.); Batavia (N.Y.)</dc:subject>
+<dc:date>1971-05-04</dc:date>
+<dc:source>20.6cm x 25.5cm</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>gcc014</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Genesee Community College History</dc:relation>
+<dc:rights>This digital image may be used for educational purposes only, as long as it is not altered in any way and proper credit is given to Genesee Community College Archives, Alfred C. O&#x27;Connell Library. Prior written permission from the Director of Library Services, Alfred C. O&#x27;Connell Library, is required for any other use of the image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/YJA/id/41</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/42</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/43</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/44</identifier><datestamp>2012-08-22</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/45</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:YJA/46</identifier><datestamp>2013-11-08</datestamp><setSpec>YJA</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>GCC0010: GCC library, 1967</dc:title>
+<dc:description>Some of the first students in the hallway outside the library on the original West Main Road, Batavia campus</dc:description>
+<dc:subject>Community colleges--New York (State)--History</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:subject>New York (State), Western; Genesee County (N.Y.); Batavia (N.Y.)</dc:subject>
+<dc:date>1967</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>gcc018</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Genesee Community College History</dc:relation>
+<dc:rights>This digital image may be used for educational purposes only, as long as it is not altered in any way and proper credit is given to Genesee Community College Archives, Alfred C. O&#x27;Connell Library. Prior written permission from the Director of Library Services, Alfred C. O&#x27;Connell Library, is required for any other use of the image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/YJA/id/46</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:YJA/47</identifier><datestamp>2014-06-03</datestamp><setSpec>YJA</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>GCC0036: GCC first graduation on College Road campus, 1972-06-04</dc:title>
+<dc:description>A photo showing graduates at the first graduation held on the College Road, Batavia campus.            </dc:description>
+<dc:subject>Commencement ceremonies; Community colleges--New York (State)--History</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:subject>New York (State), Western; Genesee County (N.Y.); Batavia (N.Y.)</dc:subject>
+<dc:date>1972-06-04</dc:date>
+<dc:source>18cm x 24.5cm</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>gcc023</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Genesee Community College History</dc:relation>
+<dc:rights>This digital image may be used for educational purposes only, as long as it is not altered in any way and proper credit is given to Genesee Community College Archives, Alfred C. O&#x27;Connell Library. Prior written permission from the Director of Library Services, Alfred C. O&#x27;Connell Library, is required for any other use of the image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/YJA/id/47</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:YJA/48</identifier><datestamp>2013-12-17</datestamp><setSpec>YJA</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>GCC0020: Batavia Campus groundbreaking, Congressman Barber Conable, 1969-09-26</dc:title>
+<dc:description>This is a photo showing Congressman Barber Conable at the groundbreaking ceremony for the College Road, Batavia campus.</dc:description>
+<dc:subject>Community colleges--New York (State)--History</dc:subject>
+<dc:subject>Education; People; Government, Law &amp; Politics</dc:subject>
+<dc:subject>New York (State), Western; Genesee County (N.Y.); Batavia (N.Y.)</dc:subject>
+<dc:date>1969-09-26</dc:date>
+<dc:source>20.6cm x 25.5cm</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>gcc024</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Genesee Community College History</dc:relation>
+<dc:rights>This digital image may be used for educational purposes only, as long as it is not altered in any way and proper credit is given to Genesee Community College Archives, Alfred C. O&#x27;Connell Library. Prior written permission from the Director of Library Services, Alfred C. O&#x27;Connell Library, is required for any other use of the image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/YJA/id/48</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/49</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/50</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/51</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/52</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/53</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:YJA/54</identifier><datestamp>2013-10-08</datestamp><setSpec>YJA</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>GCC0031: GCC computer area, 1972-01-03</dc:title>
+<dc:description>Early computer area at the GCC library.</dc:description>
+<dc:subject>Community colleges--New York (State)--History</dc:subject>
+<dc:subject>Architecture; Education; Medicine, Science &amp; Technology</dc:subject>
+<dc:subject>New York (State), Western; Genesee County (N.Y.); Batavia (N.Y.)</dc:subject>
+<dc:date>1972-01-03</dc:date>
+<dc:source>20.6cm x 25.5cm</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>gcc019</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Genesee Community College History</dc:relation>
+<dc:rights>This digital image may be used for educational purposes only, as long as it is not altered in any way and proper credit is given to Genesee Community College Archives, Alfred C. O&#x27;Connell Library. Prior written permission from the Director of Library Services, Alfred C. O&#x27;Connell Library, is required for any other use of the image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/YJA/id/54</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/55</identifier><datestamp>2012-08-22</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/56</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/57</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:YJA/58</identifier><datestamp>2014-06-03</datestamp><setSpec>YJA</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>GCC0030: Alfred C. O&#x27;Connell Library construction, 1972-01-03</dc:title>
+<dc:description>A photograph of the Alfred C. O&#x27;Connell Library during construction.</dc:description>
+<dc:subject>Community colleges--New York (State)--History</dc:subject>
+<dc:subject>Architecture; Education</dc:subject>
+<dc:subject>New York (State), Western; Genesee County (N.Y.); Batavia (N.Y.)</dc:subject>
+<dc:date>1972-01-03</dc:date>
+<dc:source>20.6cm x 25.5cm</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>gcc038</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Genesee Community College History</dc:relation>
+<dc:rights>This digital image may be used for educational purposes only, as long as it is not altered in any way and proper credit is given to Genesee Community College Archives, Alfred C. O&#x27;Connell Library. Prior written permission from the Director of Library Services, Alfred C. O&#x27;Connell Library, is required for any other use of the image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/YJA/id/58</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/59</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:YJA/60</identifier><datestamp>2013-12-17</datestamp><setSpec>YJA</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>GCC0015: GCC first graduation, 1969-06-01</dc:title>
+<dc:description>A group of students at the College&#x27;s first graduation.  From left:  (Academic Dean) Dr. Stuart Steiner, John H. DeWitt, Thomas E. Puleo, and Robert G. Knickerbocker.</dc:description>
+<dc:subject>Commencement ceremonies; Community colleges--New York (State)--History</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:subject>New York (State), Western; Genesee County (N.Y.); Batavia (N.Y.)</dc:subject>
+<dc:date>1969-06-01</dc:date>
+<dc:source>20.6cm x 25.5cm</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>gcc040</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Genesee Community College History</dc:relation>
+<dc:rights>This digital image may be used for educational purposes only, as long as it is not altered in any way and proper credit is given to Genesee Community College Archives, Alfred C. O&#x27;Connell Library. Prior written permission from the Director of Library Services, Alfred C. O&#x27;Connell Library, is required for any other use of the image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/YJA/id/60</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:YJA/61</identifier><datestamp>2013-12-17</datestamp><setSpec>YJA</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>GCC0007: Faculty retreat, 1967-08-17</dc:title>
+<dc:description>This is a photograph of the GCC faculty at a retreat in the summer of 1967. First row: David Kingsley, Edward Hammers, Raymond Hubbard, Richard Cavall, Nicholas Goergen, Robert Trantham; Middle row: Clinton Tallman, Frederick Taggart, Joseph Sullivan, Dr. Alfred C. O&#x27;Connell, Hope Hamilton, Sidney Bender, Walter Doehring, Dr. Stuart Steiner, William Collins, Mahlon Hamilton, Bernard Hoerbelt; Last row: Anthony Zambito, Michael Brick, David Brewster, Antonia Dempster, Martha Jenks, Elizabeth Lane, Roy Pipitone, John Buenting, Eva Young, Richard Kelly, Michael Ryan.  </dc:description>
+<dc:subject>Community colleges--New York (State)--History</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:subject>New York (State), Western; Genesee County (N.Y.); Batavia (N.Y.)</dc:subject>
+<dc:date>1967-08-17</dc:date>
+<dc:source>11cm x 13cm</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>gcc041</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Genesee Community College History</dc:relation>
+<dc:rights>This digital image may be used for educational purposes only, as long as it is not altered in any way and proper credit is given to Genesee Community College Archives, Alfred C. O&#x27;Connell Library. Prior written permission from the Director of Library Services, Alfred C. O&#x27;Connell Library, is required for any other use of the image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/YJA/id/61</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/62</identifier><datestamp>2012-09-11</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/63</identifier><datestamp>2012-09-11</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/64</identifier><datestamp>2012-09-11</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:YJA/65</identifier><datestamp>2013-11-08</datestamp><setSpec>YJA</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>GCC0016: GCC original West Main Road, Batavia campus entrance</dc:title>
+<dc:description>Two students in front of the original GCC Campus.</dc:description>
+<dc:subject>Community colleges--New York (State)--History</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:subject>New York (State), Western; Genesee County (N.Y.); Batavia (N.Y.)</dc:subject>
+<dc:date>1970</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>gcc044</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Genesee Community College History</dc:relation>
+<dc:rights>This digital image may be used for educational purposes only, as long as it is not altered in any way and proper credit is given to Genesee Community College Archives, Alfred C. O&#x27;Connell Library. Prior written permission from the Director of Library Services, Alfred C. O&#x27;Connell Library, is required for any other use of the image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/YJA/id/65</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/66</identifier><datestamp>2012-08-22</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/67</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/68</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/69</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/70</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/71</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/72</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:YJA/73</identifier><datestamp>2013-10-08</datestamp><setSpec>YJA</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>GCC0038: Faculty and staff gathering, 1970s</dc:title>
+<dc:description>A photo of faculty and staff with David Peters, Dean of Students and unknown.</dc:description>
+<dc:subject>Community colleges--New York (State)--History</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:subject>New York (State), Western; Genesee County (N.Y.); Batavia (N.Y.)</dc:subject>
+<dc:date>1970?-1979?</dc:date>
+<dc:source>12.5cm x 17.5cm</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>gcc021</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Genesee Community College History</dc:relation>
+<dc:rights>This digital image may be used for educational purposes only, as long as it is not altered in any way and proper credit is given to Genesee Community College Archives, Alfred C. O&#x27;Connell Library. Prior written permission from the Director of Library Services, Alfred C. O&#x27;Connell Library, is required for any other use of the image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/YJA/id/73</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:YJA/74</identifier><datestamp>2013-10-04</datestamp><setSpec>YJA</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>GCC0044: College nature trail, 1976</dc:title>
+<dc:description>A photo showing John Huston (2nd from left), Jim Perkins (3rd from left), and others.</dc:description>
+<dc:subject>Community colleges--New York (State)--History</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:subject>New York (State), Western; Genesee County (N.Y.); Batavia (N.Y.)</dc:subject>
+<dc:date>1976</dc:date>
+<dc:source>12.5cm x 17.5cm</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>gcc022</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Genesee Community College History</dc:relation>
+<dc:rights>This digital image may be used for educational purposes only, as long as it is not altered in any way and proper credit is given to Genesee Community College Archives, Alfred C. O&#x27;Connell Library. Prior written permission from the Director of Library Services, Alfred C. O&#x27;Connell Library, is required for any other use of the image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/YJA/id/74</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/75</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/76</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/77</identifier><datestamp>2012-08-22</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/78</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/79</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/80</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:YJA/81</identifier><datestamp>2013-10-04</datestamp><setSpec>YJA</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>GCC0004: Daily News, 1965-11-03, &quot;College Receives Approval&quot;</dc:title>
+<dc:description>This article from the Daily News shows how the voting for the college was broken down.</dc:description>
+<dc:subject>Batavia (N.Y.)--Newspapers; Community colleges--New York (State)--History</dc:subject>
+<dc:subject>Community &amp; Events; Education</dc:subject>
+<dc:subject>New York (State), Western; Genesee County (N.Y.); Batavia (N.Y.)</dc:subject>
+<dc:date>1965-11-03</dc:date>
+<dc:type>Text</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>gcc050</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Genesee Community College History</dc:relation>
+<dc:rights>This digital image may be used for educational purposes only, as long as it is not altered in any way and proper credit is given to Genesee Community College Archives, Alfred C. O&#x27;Connell Library. Prior written permission from the Director of Library Services, Alfred C. O&#x27;Connell Library, is required for any other use of the image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/YJA/id/81</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/83</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/84</identifier><datestamp>2012-08-22</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:YJA/93</identifier><datestamp>2014-06-10</datestamp><setSpec>YJA</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>GCC0002: Brochure from Citizens Committee for a Genesee County Community College</dc:title>
+<dc:description>Brochure advocating for the approval of the college.</dc:description>
+<dc:subject>Community colleges--New York (State)--History</dc:subject>
+<dc:subject>Education</dc:subject>
+<dc:subject>New York (State), Western; Genesee County (N.Y.); Batavia (N.Y.)</dc:subject>
+<dc:date>1965-10</dc:date>
+<dc:source>14cm x 21.5cm</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Genesee Community College History</dc:relation>
+<dc:rights>This digital image may be used for educational purposes only, as long as it is not altered in any way and proper credit is given to Genesee Community College Archives, Alfred C. O&#x27;Connell Library. Prior written permission from the Director of Library Services, Alfred C. O&#x27;Connell Library, is required for any other use of the image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/YJA/id/93</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/94</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/95</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/96</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/97</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/98</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/99</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/100</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/101</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/102</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/103</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/104</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/105</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/106</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/107</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/108</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/109</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/110</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/111</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/112</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/113</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/114</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/115</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/116</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/117</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/118</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/119</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/120</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/121</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/122</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/123</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/124</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/125</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/126</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/127</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:YJA/128</identifier><datestamp>2013-12-17</datestamp><setSpec>YJA</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>GCC0025: Campus construction, 1970-10-01</dc:title>
+<dc:description>Construction taking place on College Road, Batavia campus</dc:description>
+<dc:subject>Community colleges--New York (State)--History</dc:subject>
+<dc:subject>Architecture; Education</dc:subject>
+<dc:subject>New York (State), Western; Genesee County (N.Y.); Batavia (N.Y.)</dc:subject>
+<dc:date>1970-10-01</dc:date>
+<dc:source>20.6cm x 25.5cm</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>gcc001</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Genesee Community College History</dc:relation>
+<dc:rights>This digital image may be used for educational purposes only, as long as it is not altered in any way and proper credit is given to Genesee Community College Archives, Alfred C. O&#x27;Connell Library. Prior written permission from the Director of Library Services, Alfred C. O&#x27;Connell Library, is required for any other use of the image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/YJA/id/128</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/129</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/130</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/131</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:YJA/132</identifier><datestamp>2013-11-08</datestamp><setSpec>YJA</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>GCC0008: First GCC orientation day,  1967-09-20</dc:title>
+<dc:description>First GCC orientation day on the original West Main Road, Batavia campus.  From left to right: Dr. Stuart Steiner (Dean of Students), Dr. Alfred C. O&#x27;Connell (1st President of the College), William Collins (Business Manager) and Anthony Zambito (Chairman of the Board of Trustees).</dc:description>
+<dc:subject>Community colleges--New York (State)--History</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:subject>New York (State), Western; Genesee County (N.Y.); Batavia (N.Y.)</dc:subject>
+<dc:date>1967-09-20</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>gcc025</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Genesee Community College History</dc:relation>
+<dc:rights>This digital image may be used for educational purposes only, as long as it is not altered in any way and proper credit is given to Genesee Community College Archives, Alfred C. O&#x27;Connell Library. Prior written permission from the Director of Library Services, Alfred C. O&#x27;Connell Library, is required for any other use of the image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/YJA/id/132</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:YJA/133</identifier><datestamp>2013-11-08</datestamp><setSpec>YJA</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>GCC0009: First GCC orientation day, 1967-09-20</dc:title>
+<dc:description>Students gathered in the library on the first GCC orientation day on the original West Main Road, Batavia campus.</dc:description>
+<dc:subject>Community colleges--New York (State)--History</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:subject>New York (State), Western; Genesee County (N.Y.); Batavia (N.Y.)</dc:subject>
+<dc:date>1967-09-20</dc:date>
+<dc:source>20.6cm x 25.5cm</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>gcc026</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Genesee Community College History</dc:relation>
+<dc:rights>This digital image may be used for educational purposes only, as long as it is not altered in any way and proper credit is given to Genesee Community College Archives, Alfred C. O&#x27;Connell Library. Prior written permission from the Director of Library Services, Alfred C. O&#x27;Connell Library, is required for any other use of the image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/YJA/id/133</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:YJA/134</identifier><datestamp>2013-10-04</datestamp><setSpec>YJA</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>GCC0022: GCC presidential inauguration ceremony, 1970-10-25</dc:title>
+<dc:description>Second GCC President, Neil Robbins, addressing the crowd at his inauguration.</dc:description>
+<dc:subject>College presidents; Community colleges--New York (State)--History</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:subject>New York (State), Western; Genesee County (N.Y.); Batavia (N.Y.)</dc:subject>
+<dc:date>1970-10-25</dc:date>
+<dc:source>20.6cm x 25.5cm</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>gcc027</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Genesee Community College History</dc:relation>
+<dc:rights>This digital image may be used for educational purposes only, as long as it is not altered in any way and proper credit is given to Genesee Community College Archives, Alfred C. O&#x27;Connell Library. Prior written permission from the Director of Library Services, Alfred C. O&#x27;Connell Library, is required for any other use of the image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/YJA/id/134</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/135</identifier><datestamp>2013-04-03</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:YJA/136</identifier><datestamp>2013-12-17</datestamp><setSpec>YJA</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>GCC0033: College Road campus dedication, 1972-04-16</dc:title>
+<dc:description>A photo showing the dedication of the College Road Campus in Batavia.</dc:description>
+<dc:subject>Community colleges--New York (State)--History</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:subject>New York (State), Western; Genesee County (N.Y.); Batavia (N.Y.)</dc:subject>
+<dc:date>1972-04-16</dc:date>
+<dc:source>19cm x 21.5cm</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>gcc031</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Genesee Community College History</dc:relation>
+<dc:rights>This digital image may be used for educational purposes only, as long as it is not altered in any way and proper credit is given to Genesee Community College Archives, Alfred C. O&#x27;Connell Library. Prior written permission from the Director of Library Services, Alfred C. O&#x27;Connell Library, is required for any other use of the image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/YJA/id/136</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:YJA/137</identifier><datestamp>2013-12-17</datestamp><setSpec>YJA</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>GCC0041: Dr. Stuart Steiner, 1975</dc:title>
+<dc:description>Dr. Stuart Steiner, GCC&#x27;s third president, with an architectural rendering of the College Road Campus in Batavia.</dc:description>
+<dc:subject>Community colleges--New York (State)--History</dc:subject>
+<dc:subject>Architecture; Education; People</dc:subject>
+<dc:subject>New York (State), Western; Genesee County (N.Y.); Batavia (N.Y.)</dc:subject>
+<dc:date>1975</dc:date>
+<dc:source>12.5cm x 17.5cm</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>gcc032</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Genesee Community College History</dc:relation>
+<dc:rights>This digital image may be used for educational purposes only, as long as it is not altered in any way and proper credit is given to Genesee Community College Archives, Alfred C. O&#x27;Connell Library. Prior written permission from the Director of Library Services, Alfred C. O&#x27;Connell Library, is required for any other use of the image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/YJA/id/137</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/138</identifier><datestamp>2013-12-17</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:YJA/139</identifier><datestamp>2013-11-08</datestamp><setSpec>YJA</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>GCC0011: Students with Christmas tree, 1967-12</dc:title>
+<dc:description>Students decorating a Christmas tree on the original West Main Road, Batavia campus</dc:description>
+<dc:subject>Christmas decorations; Christmas trees; Community colleges--New York (State)--History</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:subject>New York (State), Western; Genesee County (N.Y.); Batavia (N.Y.)</dc:subject>
+<dc:date>1967-12</dc:date>
+<dc:source>20.6cm x 25.5cm</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>gcc036</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Genesee Community College History</dc:relation>
+<dc:rights>This digital image may be used for educational purposes only, as long as it is not altered in any way and proper credit is given to Genesee Community College Archives, Alfred C. O&#x27;Connell Library. Prior written permission from the Director of Library Services, Alfred C. O&#x27;Connell Library, is required for any other use of the image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/YJA/id/139</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/140</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:YJA/141</identifier><datestamp>2013-12-17</datestamp><setSpec>YJA</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>GCC0034: College Road campus dedication, 1972-04-16</dc:title>
+<dc:description>A photograph of the dedication of the College Road campus in Batavia.</dc:description>
+<dc:subject>Community colleges--New York (State)--History</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:subject>New York (State), Western; Genesee County (N.Y.); Batavia (N.Y.)</dc:subject>
+<dc:date>1972-04-16</dc:date>
+<dc:source>20.6cm x 25.5cm</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>gcc039</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Genesee Community College History</dc:relation>
+<dc:rights>This digital image may be used for educational purposes only, as long as it is not altered in any way and proper credit is given to Genesee Community College Archives, Alfred C. O&#x27;Connell Library. Prior written permission from the Director of Library Services, Alfred C. O&#x27;Connell Library, is required for any other use of the image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/YJA/id/141</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/142</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/143</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:YJA/144</identifier><datestamp>2014-06-10</datestamp><setSpec>YJA</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>GCC0035: Architects from Perkins &amp; Will with Almeta George and Martha Jenks, Trustees, 1972</dc:title>
+<dc:description>A group standing in front of a piece of artwork at the new College Road, Batavia campus.</dc:description>
+<dc:subject>Community colleges--New York (State)--History</dc:subject>
+<dc:subject>Architecture; Education; People</dc:subject>
+<dc:subject>New York (State), Western; Genesee County (N.Y.); Batavia (N.Y.)</dc:subject>
+<dc:date>1972</dc:date>
+<dc:source>20.6cm x 25.5cm</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>gcc045</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Genesee Community College History</dc:relation>
+<dc:rights>This digital image may be used for educational purposes only, as long as it is not altered in any way and proper credit is given to Genesee Community College Archives, Alfred C. O&#x27;Connell Library. Prior written permission from the Director of Library Services, Alfred C. O&#x27;Connell Library, is required for any other use of the image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/YJA/id/144</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/145</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:YJA/146</identifier><datestamp>2013-12-17</datestamp><setSpec>YJA</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>GCC0043: Students playing football, 1975</dc:title>
+<dc:description>A group of students playing football in the snow on the College Road, Batavia campus.</dc:description>
+<dc:subject>Community colleges--New York (State)--History</dc:subject>
+<dc:subject>Education; People; Recreation &amp; Sports</dc:subject>
+<dc:subject>New York (State), Western; Genesee County (N.Y.); Batavia (N.Y.)</dc:subject>
+<dc:date>1975</dc:date>
+<dc:source>12.3cm x 20.6cm</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>gcc030</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Genesee Community College History</dc:relation>
+<dc:rights>This digital image may be used for educational purposes only, as long as it is not altered in any way and proper credit is given to Genesee Community College Archives, Alfred C. O&#x27;Connell Library. Prior written permission from the Director of Library Services, Alfred C. O&#x27;Connell Library, is required for any other use of the image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/YJA/id/146</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:YJA/147</identifier><datestamp>2014-06-10</datestamp><setSpec>YJA</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>GCC0018: Batavia Campus groundbreaking, 1969</dc:title>
+<dc:description>A photo from the groundbreaking of the campus on College Road, Batavia. From left to right: Rep. Barber Conable, unidentified, Dr. Alfred C. O&#x27;Connell (College President), Almeta George (Board member), Anthony Zambito (Chairman of the Board of Trustees).</dc:description>
+<dc:subject>Community colleges--New York (State)--History</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:subject>New York (State), Western; Genesee County (N.Y.); Batavia (N.Y.)</dc:subject>
+<dc:date>1969-09-26</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>gcc005</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Genesee Community College History</dc:relation>
+<dc:rights>This digital image may be used for educational purposes only, as long as it is not altered in any way and proper credit is given to Genesee Community College Archives, Alfred C. O&#x27;Connell Library. Prior written permission from the Director of Library Services, Alfred C. O&#x27;Connell Library, is required for any other use of the image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/YJA/id/147</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:YJA/148</identifier><datestamp>2013-12-17</datestamp><setSpec>YJA</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>GCC0019: Batavia Campus groundbreaking, 1969-09-26</dc:title>
+<dc:description>Photo from GCC&#x27;s College Road, Batavia campus groundbreaking. From left to right: Tony Zambito (Chairman of the Board of Trustees), Ed Young (Student Government President), William Stuart (Chairman of Genesee County Legislature), Harry Welshofer (Chairman, Faculty).</dc:description>
+<dc:subject>Community colleges--New York (State)--History</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:subject>New York (State), Western; Genesee County (N.Y.); Batavia (N.Y.)</dc:subject>
+<dc:date>1969-09-26</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>gcc006</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Genesee Community College History</dc:relation>
+<dc:rights>This digital image may be used for educational purposes only, as long as it is not altered in any way and proper credit is given to Genesee Community College Archives, Alfred C. O&#x27;Connell Library. Prior written permission from the Director of Library Services, Alfred C. O&#x27;Connell Library, is required for any other use of the image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/YJA/id/148</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:YJA/149</identifier><datestamp>2014-06-03</datestamp><setSpec>YJA</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>GCC0040: Aerosmith concert advertisement, 1974</dc:title>
+<dc:description>Areosmith had a concert at GCC in 1974 and the tickets were only $1. This was the back page of a Spring 1974 issue of Sur Esprit, the college student newspaper, advertising the concert.</dc:description>
+<dc:subject>Aerosmith (Musical group); Community colleges--New York (State)--History</dc:subject>
+<dc:subject>Arts &amp; Entertainment; Education</dc:subject>
+<dc:subject>New York (State), Western; Genesee County (N.Y.); Batavia (N.Y.)</dc:subject>
+<dc:date>1974</dc:date>
+<dc:source>21.4cm x 27.6cm</dc:source>
+<dc:type>Still Image; Text</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>gcc047</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Genesee Community College History</dc:relation>
+<dc:rights>This digital image may be used for educational purposes only, as long as it is not altered in any way and proper credit is given to Genesee Community College Archives, Alfred C. O&#x27;Connell Library. Prior written permission from the Director of Library Services, Alfred C. O&#x27;Connell Library, is required for any other use of the image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/YJA/id/149</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/150</identifier><datestamp>2013-07-19</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/151</identifier><datestamp>2013-07-19</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/152</identifier><datestamp>2013-07-19</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/153</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/154</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:YJA/155</identifier><datestamp>2013-12-17</datestamp><setSpec>YJA</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>GCC0021: Batavia Campus groundbreaking ceremony</dc:title>
+<dc:description>This is a copy of a page from the 1970 GCC Yearbook showing the groundbreaking ceremony for the College Road, Batavia campus.</dc:description>
+<dc:subject>Community colleges--New York (State)--History</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:subject>New York (State), Western; Genesee County (N.Y.); Batavia (N.Y.)</dc:subject>
+<dc:date>1970</dc:date>
+<dc:source>21.5cm x 28cm</dc:source>
+<dc:type>Still Image; Text</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>gcc048</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Genesee Community College History</dc:relation>
+<dc:rights>This digital image may be used for educational purposes only, as long as it is not altered in any way and proper credit is given to Genesee Community College Archives, Alfred C. O&#x27;Connell Library. Prior written permission from the Director of Library Services, Alfred C. O&#x27;Connell Library, is required for any other use of the image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/YJA/id/155</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/156</identifier><datestamp>2013-10-04</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/157</identifier><datestamp>2013-07-19</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/158</identifier><datestamp>2013-07-19</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/159</identifier><datestamp>2012-08-22</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/160</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:YJA/162</identifier><datestamp>2014-06-03</datestamp><setSpec>YJA</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>GCC0005: First Genesee Community College Board of Trustees, 1966</dc:title>
+<dc:description>In July 1966, the first Genesee Community College Board of Trustees met with Dr. John A. Mears, Assistant Dean for two-year colleges of the State University system to discuss the initial action to be taken for establishment of the college. From  left, front, are Mrs. Robert S. Jenks, Dr. Mears, former Le Roy Supervisor Robert G. Fussell and Mrs. Almeta  George. Standing, from left, are William A. Setchel, Francis M. Robinson of Le Roy, Neil T. Burns, Michael J. Ryan, Principal A. Warren Dayton of Alexander and Anthony T. Zambito of Elba.</dc:description>
+<dc:subject>Community colleges--New York (State)--History</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:subject>New York (State), Western; Genesee County (N.Y.); Batavia (N.Y.)</dc:subject>
+<dc:date>1966-07</dc:date>
+<dc:type>Still Image; Text</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>gcc009</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Genesee Community College History</dc:relation>
+<dc:rights>This digital image may be used for educational purposes only, as long as it is not altered in any way and proper credit is given to Genesee Community College Archives, Alfred C. O&#x27;Connell Library. Prior written permission from the Director of Library Services, Alfred C. O&#x27;Connell Library, is required for any other use of the image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/YJA/id/162</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:YJA/163</identifier><datestamp>2014-06-03</datestamp><setSpec>YJA</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>GCC0039: Early GCC marketing</dc:title>
+<dc:description>A picture of a billboard inviting potential GCC students to call Malcolm Wormley, the director of Admissions.  From the 1974-75 President&#x27;s Annual Report.</dc:description>
+<dc:subject>Community colleges--New York (State)--History</dc:subject>
+<dc:subject>Education</dc:subject>
+<dc:subject>New York (State), Western; Genesee County (N.Y.); Batavia (N.Y.)</dc:subject>
+<dc:date>1974</dc:date>
+<dc:source>7.5cm x 9.7cm</dc:source>
+<dc:type>Still Image; Text</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>gcc010</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Genesee Community College History</dc:relation>
+<dc:rights>This digital image may be used for educational purposes only, as long as it is not altered in any way and proper credit is given to Genesee Community College Archives, Alfred C. O&#x27;Connell Library. Prior written permission from the Director of Library Services, Alfred C. O&#x27;Connell Library, is required for any other use of the image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/YJA/id/163</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/164</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:YJA/165</identifier><datestamp>2013-12-17</datestamp><setSpec>YJA</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>GCC0026: College Forum being built, 1971-03-01</dc:title>
+<dc:description>This is a photo of the Batavia Campus college forum being built.</dc:description>
+<dc:subject>Community colleges--New York (State)--History</dc:subject>
+<dc:subject>Architecture; Education</dc:subject>
+<dc:subject>New York (State), Western; Genesee County (N.Y.); Batavia (N.Y.)</dc:subject>
+<dc:date>1971-03-01</dc:date>
+<dc:source>21.5cm x 25.5cm</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>gcc013</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Genesee Community College History</dc:relation>
+<dc:rights>This digital image may be used for educational purposes only, as long as it is not altered in any way and proper credit is given to Genesee Community College Archives, Alfred C. O&#x27;Connell Library. Prior written permission from the Director of Library Services, Alfred C. O&#x27;Connell Library, is required for any other use of the image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/YJA/id/165</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/166</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:YJA/167</identifier><datestamp>2013-12-17</datestamp><setSpec>YJA</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>GCC0028: College Forum being built, 1971-06-01</dc:title>
+<dc:description>This is an early photo of the College Forum being constructed.</dc:description>
+<dc:subject>Community colleges--New York (State)--History</dc:subject>
+<dc:subject>Architecture; Education</dc:subject>
+<dc:subject>New York (State), Western; Genesee County (N.Y.); Batavia (N.Y.)</dc:subject>
+<dc:date>1971-06-01</dc:date>
+<dc:source>20.6cm x 25.5cm</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>gcc015</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Genesee Community College History</dc:relation>
+<dc:rights>This digital image may be used for educational purposes only, as long as it is not altered in any way and proper credit is given to Genesee Community College Archives, Alfred C. O&#x27;Connell Library. Prior written permission from the Director of Library Services, Alfred C. O&#x27;Connell Library, is required for any other use of the image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/YJA/id/167</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:YJA/168</identifier><datestamp>2013-12-17</datestamp><setSpec>YJA</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>GCC0023: Campus construction, 1970-07-20</dc:title>
+<dc:description>This is a photo of the early construction of the college.</dc:description>
+<dc:subject>Community colleges--New York (State)--History</dc:subject>
+<dc:subject>Architecture; Education</dc:subject>
+<dc:subject>New York (State), Western; Genesee County (N.Y.); Batavia (N.Y.)</dc:subject>
+<dc:date>1970-07-20</dc:date>
+<dc:source>20.6cm x 25.5cm</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>gcc016</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Genesee Community College History</dc:relation>
+<dc:rights>This digital image may be used for educational purposes only, as long as it is not altered in any way and proper credit is given to Genesee Community College Archives, Alfred C. O&#x27;Connell Library. Prior written permission from the Director of Library Services, Alfred C. O&#x27;Connell Library, is required for any other use of the image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/YJA/id/168</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:YJA/169</identifier><datestamp>2013-12-17</datestamp><setSpec>YJA</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>GCC0024: Campus construction, 1970-08-18</dc:title>
+<dc:description>This a photo of the construction of the College Road campus. </dc:description>
+<dc:subject>Community colleges--New York (State)--History</dc:subject>
+<dc:subject>Architecture; Education</dc:subject>
+<dc:subject>New York (State), Western; Genesee County (N.Y.); Batavia (N.Y.)</dc:subject>
+<dc:date>1970-08-18</dc:date>
+<dc:source>20.6cm x 25.5cm</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>gcc017</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Genesee Community College History</dc:relation>
+<dc:rights>This digital image may be used for educational purposes only, as long as it is not altered in any way and proper credit is given to Genesee Community College Archives, Alfred C. O&#x27;Connell Library. Prior written permission from the Director of Library Services, Alfred C. O&#x27;Connell Library, is required for any other use of the image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/YJA/id/169</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/170</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/171</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:YJA/172</identifier><datestamp>2013-10-08</datestamp><setSpec>YJA</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>GCC0032: GCC cafeteria, 1972-01-29</dc:title>
+<dc:description>Students enjoying the cafeteria.</dc:description>
+<dc:subject>Community colleges--New York (State)--History</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:subject>New York (State), Western; Genesee County (N.Y.); Batavia (N.Y.)</dc:subject>
+<dc:date>1972-01-29</dc:date>
+<dc:source>20.6cm x 25.5cm</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>gcc020</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Genesee Community College History</dc:relation>
+<dc:rights>This digital image may be used for educational purposes only, as long as it is not altered in any way and proper credit is given to Genesee Community College Archives, Alfred C. O&#x27;Connell Library. Prior written permission from the Director of Library Services, Alfred C. O&#x27;Connell Library, is required for any other use of the image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/YJA/id/172</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/173</identifier><datestamp>2012-08-26</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/174</identifier><datestamp>2012-09-12</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/175</identifier><datestamp>2012-09-12</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/176</identifier><datestamp>2012-09-11</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/177</identifier><datestamp>2012-09-12</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/178</identifier><datestamp>2012-09-12</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/179</identifier><datestamp>2012-09-12</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/180</identifier><datestamp>2012-09-12</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:YJA/204</identifier><datestamp>2014-06-10</datestamp><setSpec>YJA</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>GCC0013: GCC Yearbook, 1968, excerpts and cover</dc:title>
+<dc:description>Front cover and various pages from the 1968 GCC yearbook.</dc:description>
+<dc:subject>Community colleges--New York (State)--History</dc:subject>
+<dc:subject>Education</dc:subject>
+<dc:subject>New York (State), Western; Genesee County (N.Y.); Batavia (N.Y.)</dc:subject>
+<dc:date>1968</dc:date>
+<dc:source>19.5 cm x 26.5 cm</dc:source>
+<dc:type>Still Image; Text</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Genesee Community College History</dc:relation>
+<dc:rights>This digital image may be used for educational purposes only, as long as it is not altered in any way and proper credit is given to Genesee Community College Archives, Alfred C. O&#x27;Connell Library. Prior written permission from the Director of Library Services, Alfred C. O&#x27;Connell Library, is required for any other use of the image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/YJA/id/204</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:YJA/209</identifier><datestamp>2014-06-10</datestamp><setSpec>YJA</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>GCC0017: Brochure from Batavia campus groundbreaking, 1969-09-26</dc:title>
+<dc:description>A brochure from the groundbreaking ceremony of the College Road campus.</dc:description>
+<dc:subject>Community colleges--New York (State)--History</dc:subject>
+<dc:subject>Education</dc:subject>
+<dc:subject>New York (State), Western; Genesee County (N.Y.); Batavia (N.Y.)</dc:subject>
+<dc:date>1969-09-26</dc:date>
+<dc:type>Text</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Genesee Community College History</dc:relation>
+<dc:rights>This digital image may be used for educational purposes only, as long as it is not altered in any way and proper credit is given to Genesee Community College Archives, Alfred C. O&#x27;Connell Library. Prior written permission from the Director of Library Services, Alfred C. O&#x27;Connell Library, is required for any other use of the image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/YJA/id/209</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/210</identifier><datestamp>2012-09-12</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/211</identifier><datestamp>2012-09-12</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/212</identifier><datestamp>2012-09-12</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/213</identifier><datestamp>2012-09-12</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:YJA/217</identifier><datestamp>2014-06-10</datestamp><setSpec>YJA</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>GCC0006: Brochure from faculty retreat, August 1967</dc:title>
+<dc:description>A brochure from a retreat for Genesee Community College faculty held August 17-18, 1967.</dc:description>
+<dc:subject>Community colleges--New York (State)--History</dc:subject>
+<dc:subject>Education</dc:subject>
+<dc:subject>New York (State), Western; Genesee County (N.Y.); Batavia (N.Y.)</dc:subject>
+<dc:date>1967-08-17</dc:date>
+<dc:type>Text</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Genesee Community College History</dc:relation>
+<dc:rights>This digital image may be used for educational purposes only, as long as it is not altered in any way and proper credit is given to Genesee Community College Archives, Alfred C. O&#x27;Connell Library. Prior written permission from the Director of Library Services, Alfred C. O&#x27;Connell Library, is required for any other use of the image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/YJA/id/217</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:YJA/218</identifier><datestamp>2014-06-10</datestamp><setSpec>YJA</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>GCC0003: Daily News, 1965-10-28, Community College Edition</dc:title>
+<dc:description>Community College insert from the Daily News asking for the people of Genesee County to vote &quot;yes&quot; for the college.</dc:description>
+<dc:subject>Batavia (N.Y.)--Newspapers; Community colleges--New York (State)--History</dc:subject>
+<dc:subject>Community &amp; Events; Education</dc:subject>
+<dc:subject>New York (State), Western; Genesee County (N.Y.); Batavia (N.Y.)</dc:subject>
+<dc:date>1965-10-28</dc:date>
+<dc:type>Text</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Genesee Community College History</dc:relation>
+<dc:rights>This digital image may be used for educational purposes only, as long as it is not altered in any way and proper credit is given to Genesee Community College Archives, Alfred C. O&#x27;Connell Library. Prior written permission from the Director of Library Services, Alfred C. O&#x27;Connell Library, is required for any other use of the image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/YJA/id/218</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJA/219</identifier><datestamp>2013-07-19</datestamp><setSpec>YJA</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:YJA/225</identifier><datestamp>2013-10-08</datestamp><setSpec>YJA</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>GCC0042: Cartoons promoting GCC</dc:title>
+<dc:description>Cartoon advertisement proofs to promote college.  Content conceived by Charlie Claar, Assistant Dean of Continuing Education &amp; Ken Witt, Director of Special Programming.</dc:description>
+<dc:subject>Community colleges--New York (State)--History</dc:subject>
+<dc:subject>Education; Arts &amp; Entertainment; Community &amp; Events</dc:subject>
+<dc:subject>New York (State), Western; Genesee County (N.Y.); Batavia (N.Y.)</dc:subject>
+<dc:contributor>Claar, Charlie (Concept Creator); Witt, Ken (Concept Creator)</dc:contributor>
+<dc:date>1975-1978</dc:date>
+<dc:source>original 5 1/2 x 14 proofs in archives collection</dc:source>
+<dc:type>Image</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>gcc049</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Genesee Community College History</dc:relation>
+<dc:rights>This digital image may be used for educational purposes only, as long as it is not altered in any way and proper credit is given to Genesee Community College Archives, Alfred C. O&#x27;Connell Library. Prior written permission from the Director of Library Services, Alfred C. O&#x27;Connell Library, is required for any other use of the image.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/YJA/id/225</dc:identifier></oai_dc:dc>
+</metadata>
+</record></ListRecords></OAI-PMH>
