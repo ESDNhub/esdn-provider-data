@@ -1,0 +1,826 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2015-05-11T18:34:09Z</responseDate><request verb="ListRecords" metadataPrefix="oai_dc" set="p16694coll23">http://cdm16694.contentdm.oclc.org/oai/oai.php</request><ListRecords><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll23/0</identifier><datestamp>2014-03-21</datestamp><setSpec>p16694coll23</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll23/1</identifier><datestamp>2014-05-12</datestamp><setSpec>p16694coll23</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>The Family</dc:title>
+<dc:description>Photograph of a sculpture by Dale Drulis.  The sculpture was dedicated to the Corning Community College campus on September 11, 1972.</dc:description>
+<dc:creator>Drulis, Dale</dc:creator>
+<dc:subject>Metal sculpture</dc:subject>
+<dc:subject>Arts &amp; Entertainment; Education; Architecture</dc:subject>
+<dc:coverage>Corning Community College - Spencer Hill Campus - Corning - Steuben County - New York</dc:coverage>
+<dc:date>1971</dc:date>
+<dc:source>original digital photograph; JPEG; 1421 KB</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>family11</dc:identifier>
+<dc:relation>The Family</dc:relation>
+<dc:rights>This digital image may be used for educational uses, as long as it is not altered in any way.  Please cite as: Corning Community College.  Prior written permission is required for any other use of the images from the Corning Community College Archives.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll23/id/1</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll23/2</identifier><datestamp>2014-05-12</datestamp><setSpec>p16694coll23</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>The Family</dc:title>
+<dc:description>Photograph of a sculpture by Dale Drulis.  The sculpture was dedicated to the Corning Community College campus on September 11, 1972.</dc:description>
+<dc:creator>Drulis, Dale</dc:creator>
+<dc:subject>Metal sculpture</dc:subject>
+<dc:subject>Arts &amp; Entertainment; Education; Architecture</dc:subject>
+<dc:coverage>Corning Community College - Spencer Hill Campus - Corning - Steuben County - New York</dc:coverage>
+<dc:date>1971</dc:date>
+<dc:source>original digital photograph; JPEG</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>family02</dc:identifier>
+<dc:relation>The Family</dc:relation>
+<dc:rights>This digital image may be used for educational uses, as long as it is not altered in any way.  Please cite as: Corning Community College.  Prior written permission is required for any other use of the images from the Corning Community College Archives.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll23/id/2</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll23/3</identifier><datestamp>2014-02-27</datestamp><setSpec>p16694coll23</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll23/4</identifier><datestamp>2014-05-12</datestamp><setSpec>p16694coll23</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>The Family</dc:title>
+<dc:description>Photograph of a sculpture by Dale Drulis.  The sculpture was dedicated to the Corning Community College campus on September 11, 1972.</dc:description>
+<dc:creator>Drulis, Dale</dc:creator>
+<dc:subject>Metal sculpture</dc:subject>
+<dc:subject>Arts &amp; Entertainment; Education; Architecture</dc:subject>
+<dc:coverage>Corning Community College - Spencer Hill Campus - Corning - Steuben County - New York</dc:coverage>
+<dc:date>1971</dc:date>
+<dc:source>original digital photograph; JPEG</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>family03</dc:identifier>
+<dc:relation>The Family</dc:relation>
+<dc:rights>This digital image may be used for educational uses, as long as it is not altered in any way.  Please cite as: Corning Community College.  Prior written permission is required for any other use of the images from the Corning Community College Archives.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll23/id/4</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll23/5</identifier><datestamp>2014-05-12</datestamp><setSpec>p16694coll23</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>The Family</dc:title>
+<dc:description>Photograph of a sculpture by Dale Drulis. The sculpture was created in 1971 and dedicated on September 11, 1972.</dc:description>
+<dc:creator>Drulis, Dale</dc:creator>
+<dc:subject>Metal sculpture</dc:subject>
+<dc:subject>Arts &amp; Entertainment; Education; Architecture</dc:subject>
+<dc:coverage>Corning Community College - Spencer Hill Campus - Corning - Steuben County - New York</dc:coverage>
+<dc:date>1971</dc:date>
+<dc:source>photograph; color</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>family04</dc:identifier>
+<dc:relation>The Family</dc:relation>
+<dc:rights>This digital image may be used for educational uses, as long as it is not altered in any way. Please cite: Corning Community College Archives. Prior written permission is required for any other use of the images from Corning Community  College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll23/id/5</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll23/6</identifier><datestamp>2014-05-12</datestamp><setSpec>p16694coll23</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>The Family</dc:title>
+<dc:description>Photograph of a sculpture by Dale Drulis. The sculpture was created in 1971 and dedicated on September 11, 1972. Parsons Administration Building in background.</dc:description>
+<dc:creator>Drulis, Dale</dc:creator>
+<dc:subject>Metal sculpture</dc:subject>
+<dc:subject>Arts &amp; Entertainment; Education; Architecture</dc:subject>
+<dc:coverage>Corning Community College - Spencer Hill Campus - Corning - Steuben County - New York</dc:coverage>
+<dc:date>1971</dc:date>
+<dc:source>photograph; b&amp;w</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>family05</dc:identifier>
+<dc:relation>The Family</dc:relation>
+<dc:rights>This digital image may be used for educational uses, as long as it is not altered in any way. Please cite: Corning Community College Archives. Prior written permission is required for any other use of the images from Corning Community  College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll23/id/6</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll23/7</identifier><datestamp>2014-05-12</datestamp><setSpec>p16694coll23</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>The Family - Sketch</dc:title>
+<dc:description>Sketch of a sculpture by Dale Drulis. The sculpture was created in 1971 and dedicated on September 11, 1972.</dc:description>
+<dc:creator>Drulis, Dale</dc:creator>
+<dc:subject>Metal sculpture</dc:subject>
+<dc:subject>Arts &amp; Entertainment; Education; Architecture</dc:subject>
+<dc:coverage>Corning Community College - Spencer Hill Campus - Corning - Steuben County - New York</dc:coverage>
+<dc:date>1971</dc:date>
+<dc:source>pencil on paper</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>family07</dc:identifier>
+<dc:relation>The Family</dc:relation>
+<dc:rights>This digital image may be used for educational uses, as long as it is not altered in any way. Please cite: Corning Community College Archives. Prior written permission is required for any other use of the images from Corning Community  College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll23/id/7</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll23/8</identifier><datestamp>2014-05-12</datestamp><setSpec>p16694coll23</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>The Family - Signing</dc:title>
+<dc:description>Photograph of a sculpture being signed by Dale Drulis. The sculpture was created in 1971 and dedicated on September 11, 1972.</dc:description>
+<dc:creator>Drulis, Dale</dc:creator>
+<dc:subject>Metal sculpture</dc:subject>
+<dc:subject>Arts &amp; Entertainment; Education; Architecture</dc:subject>
+<dc:coverage>Corning Community College - Spencer Hill Campus - Corning - Steuben County - New York</dc:coverage>
+<dc:date>1971</dc:date>
+<dc:source>photograph; b&amp;w</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>family06</dc:identifier>
+<dc:relation>The Family</dc:relation>
+<dc:rights>This digital image may be used for educational uses, as long as it is not altered in any way. Please cite: Corning Community College Archives. Prior written permission is required for any other use of the images from Corning Community  College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll23/id/8</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll23/9</identifier><datestamp>2014-05-12</datestamp><setSpec>p16694coll23</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>The Family - Vertical column construction</dc:title>
+<dc:description>Photograph of a sculpture by Dale Drulis in progess. The sculpture was created in 1971 and dedicated on September 11, 1972.</dc:description>
+<dc:creator>Drulis, Dale</dc:creator>
+<dc:subject>Metal sculpture</dc:subject>
+<dc:subject>Arts &amp; Entertainment; Education; Architecture</dc:subject>
+<dc:coverage>Corning Community College - Spencer Hill Campus - Corning - Steuben County - New York</dc:coverage>
+<dc:date>1971</dc:date>
+<dc:source>photograph; b&amp;w</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>family09</dc:identifier>
+<dc:relation>The Family</dc:relation>
+<dc:rights>This digital image may be used for educational uses, as long as it is not altered in any way. Please cite: Corning Community College Archives. Prior written permission is required for any other use of the images from Corning Community  College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll23/id/9</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll23/10</identifier><datestamp>2014-05-12</datestamp><setSpec>p16694coll23</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>The Family Creation</dc:title>
+<dc:description>Photograph of Dale Drulis welding the Family sculpture. The sculpture was created in 1971 and dedicated on September 11, 1972.</dc:description>
+<dc:creator>Drulis, Dale</dc:creator>
+<dc:subject>Metal sculpture</dc:subject>
+<dc:subject>Arts &amp; Entertainment; Education; Architecture</dc:subject>
+<dc:coverage>Corning Community College - Spencer Hill Campus - Corning - Steuben County - New York</dc:coverage>
+<dc:date>1971</dc:date>
+<dc:source>photograph; b&amp;w</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>family10</dc:identifier>
+<dc:relation>The Family</dc:relation>
+<dc:rights>This digital image may be used for educational uses, as long as it is not altered in any way. Please cite: Corning Community College Archives. Prior written permission is required for any other use of the images from Corning Community  College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll23/id/10</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll23/11</identifier><datestamp>2014-05-12</datestamp><setSpec>p16694coll23</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>The Family - the beginning of construction</dc:title>
+<dc:description>Photograph of a sculpture by Dale Drulis - in progress. The sculpture was created in 1971 and dedicated on September 11, 1972.</dc:description>
+<dc:creator>Drulis, Dale</dc:creator>
+<dc:subject>Metal sculpture</dc:subject>
+<dc:subject>Arts &amp; Entertainment; Education; Architecture</dc:subject>
+<dc:coverage>Corning Community College - Spencer Hill Campus - Corning - Steuben County - New York</dc:coverage>
+<dc:date>1971</dc:date>
+<dc:source>photograph; b&amp;w</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>family08</dc:identifier>
+<dc:relation>The Family</dc:relation>
+<dc:rights>This digital image may be used for educational uses, as long as it is not altered in any way. Please cite: Corning Community College Archives. Prior written permission is required for any other use of the images form Corning Community  College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll23/id/11</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll23/12</identifier><datestamp>2014-05-12</datestamp><setSpec>p16694coll23</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>The Family Description</dc:title>
+<dc:description>Description of a sculpture by Dale Drulis. The sculpture was created in 1971 and dedicated on September 11, 1972.</dc:description>
+<dc:creator>Drulis, Dale</dc:creator>
+<dc:subject>Metal sculpture</dc:subject>
+<dc:subject>Arts &amp; Entertainment; Education; Architecture</dc:subject>
+<dc:coverage>Corning Community College - Spencer Hill Campus - Corning - Steuben County - New York</dc:coverage>
+<dc:date>1971</dc:date>
+<dc:source>typed on paper</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>family01</dc:identifier>
+<dc:relation>The Family</dc:relation>
+<dc:rights>This digital image may be used for educational uses, as long as it is not altered in any way. Please cite: Corning Community College Archives. Prior written permission is required for any other use of the images from Corning Community  College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll23/id/12</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll23/17</identifier><datestamp>2014-11-13</datestamp><setSpec>p16694coll23</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Jules Verne</dc:title>
+<dc:description>1) Introductory letter about autograph from John F. Fleming 2) Letter from Jules Verne to McCall Baraur(?) 3) Envelope containing letter with post mark 4) Translation of letter to English</dc:description>
+<dc:creator>Verne, Jules</dc:creator>
+<dc:subject>Verne, Jules</dc:subject>
+<dc:subject>People;  Arts &amp; Entertainment</dc:subject>
+<dc:coverage>Special Collections - Arthur A. Houghton, Jr. Library - Corning Community College - Spencer Hill Campus - Corning - Steuben County - New York</dc:coverage>
+<dc:date>1893-09-29</dc:date>
+<dc:source>Correspondence</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>autograph001</dc:identifier>
+<dc:relation>Autographs</dc:relation>
+<dc:rights>This digital image may be used for educational uses, as long as it is not altered in any way. Please cite: Corning Community College Archives. Prior written permission is required for any other use of the images from Corning Community  College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll23/id/17</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll23/18</identifier><datestamp>2014-05-12</datestamp><setSpec>p16694coll23</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>The Family</dc:title>
+<dc:description>Arial photograph of a sculpture by Dale Drulis. The sculpture was created in 1971 and dedicated on September 11, 1972.</dc:description>
+<dc:creator>Drulis, Dale</dc:creator>
+<dc:subject>Metal sculpture</dc:subject>
+<dc:subject>Arts &amp; Entertainment; Education; Architecture</dc:subject>
+<dc:coverage>Corning Community College - Spencer Hill Campus - Corning - Steuben County - New York</dc:coverage>
+<dc:date>1971</dc:date>
+<dc:source>	photograph; color</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>family11</dc:identifier>
+<dc:relation>The Family</dc:relation>
+<dc:rights>This digital image may be used for educational uses, as long as it is not altered in any way. Please cite: Corning Community College Archives. Prior written permission is required for any other use of the images from Corning Community  College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll23/id/18</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll23/19</identifier><datestamp>2014-05-12</datestamp><setSpec>p16694coll23</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>The Family</dc:title>
+<dc:description>Photograph of a sculpture by Dale Drulis. The sculpture was created in 1971 and dedicated on September 11, 1972. Picture also show Commons porch.</dc:description>
+<dc:creator>Drulis, Dale</dc:creator>
+<dc:subject>Metal sculpture</dc:subject>
+<dc:subject>Arts &amp; Entertainment; Education; Architecture</dc:subject>
+<dc:coverage>Corning Community College - Spencer Hill Campus - Corning - Steuben County - New York</dc:coverage>
+<dc:date>1971</dc:date>
+<dc:source>photograph; color</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>family12</dc:identifier>
+<dc:relation>The Family</dc:relation>
+<dc:rights>This digital image may be used for educational uses, as long as it is not altered in any way. Please cite: Corning Community College Archives. Prior written permission is required for any other use of the images from Corning Community  College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll23/id/19</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll23/20</identifier><datestamp>2014-05-12</datestamp><setSpec>p16694coll23</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>The Family</dc:title>
+<dc:description>Photograph of a sculpture by Dale Drulis. The sculpture was created in 1971 and dedicated on September 11, 1972. Dale Drulis is welding.</dc:description>
+<dc:creator>Drulis, Dale</dc:creator>
+<dc:subject>Metal sculpture</dc:subject>
+<dc:subject>Arts &amp; Entertainment; Education; Architecture</dc:subject>
+<dc:coverage>Corning Community College - Spencer Hill Campus - Corning - Steuben County - New York</dc:coverage>
+<dc:date>1971</dc:date>
+<dc:source>photograph; color</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>family13</dc:identifier>
+<dc:relation>The Family</dc:relation>
+<dc:rights>This digital image may be used for educational uses, as long as it is not altered in any way. Please cite: Corning Community College Archives. Prior written permission is required for any other use of the images from Corning Community  College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll23/id/20</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll23/21</identifier><datestamp>2014-05-12</datestamp><setSpec>p16694coll23</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>The Family</dc:title>
+<dc:description>Photograph taken in spring of a sculpture by Dale Drulis. The sculpture was created in 1971 and dedicated on September 11, 1972.</dc:description>
+<dc:creator>Drulis, Dale</dc:creator>
+<dc:subject>Metal sculpture</dc:subject>
+<dc:subject>Arts &amp; Entertainment; Education; Architecture</dc:subject>
+<dc:coverage>Corning Community College - Spencer Hill Campus - Corning - Steuben County - New York</dc:coverage>
+<dc:date>1971</dc:date>
+<dc:source>photograph; color</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>family14</dc:identifier>
+<dc:relation>The Family</dc:relation>
+<dc:rights>This digital image may be used for educational uses, as long as it is not altered in any way. Please cite: Corning Community College Archives. Prior written permission is required for any other use of the images from Corning Community  College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll23/id/21</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll23/22</identifier><datestamp>2014-05-12</datestamp><setSpec>p16694coll23</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>The Family</dc:title>
+<dc:description>Photograph of a sculpture by Dale Drulis and Commons Building The sculpture was created in 1971 and dedicated on September 11, 1972.</dc:description>
+<dc:creator>Drulis, Dale</dc:creator>
+<dc:subject>Metal sculpture</dc:subject>
+<dc:subject>Arts &amp; Entertainment; Education; Architecture</dc:subject>
+<dc:coverage>Corning Community College - Spencer Hill Campus - Corning - Steuben County - New York</dc:coverage>
+<dc:date>1971</dc:date>
+<dc:source>photograph; color</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>family15</dc:identifier>
+<dc:relation>The Family</dc:relation>
+<dc:rights>This digital image may be used for educational uses, as long as it is not altered in any way. Please cite: Corning Community College Archives. Prior written permission is required for any other use of the images from Corning Community  College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll23/id/22</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll23/23</identifier><datestamp>2014-05-12</datestamp><setSpec>p16694coll23</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>The Family</dc:title>
+<dc:description>Photograph of a sculpture by Dale Drulis. The Nursing and Science Buildings are in background. The sculpture was created in 1971 and dedicated on September 11, 1972.</dc:description>
+<dc:creator>Drulis, Dale</dc:creator>
+<dc:subject>Metal sculpture</dc:subject>
+<dc:subject>Arts &amp; Entertainment; Education; Architecture</dc:subject>
+<dc:coverage>Corning Community College - Spencer Hill Campus - Corning - Steuben County - New York</dc:coverage>
+<dc:date>1971</dc:date>
+<dc:source>photograph; color</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>family16</dc:identifier>
+<dc:relation>The Family</dc:relation>
+<dc:rights>This digital image may be used for educational uses, as long as it is not altered in any way. Please cite: Corning Community College Archives. Prior written permission is required for any other use of the images from Corning Community  College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll23/id/23</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll23/24</identifier><datestamp>2014-05-12</datestamp><setSpec>p16694coll23</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>The Family</dc:title>
+<dc:description>Photograph of a sculpture by Dale Drulis. Picture taken in winter. The sculpture was created in 1971 and dedicated on September 11, 1972.</dc:description>
+<dc:creator>Drulis, Dale</dc:creator>
+<dc:subject>Metal sculpture</dc:subject>
+<dc:subject>Arts &amp; Entertainment; Education; Architecture</dc:subject>
+<dc:coverage>Corning Community College - Spencer Hill Campus - Corning - Steuben County - New York</dc:coverage>
+<dc:date>1971</dc:date>
+<dc:source>photograph; color</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>family17</dc:identifier>
+<dc:relation>The Family</dc:relation>
+<dc:rights>This digital image may be used for educational uses, as long as it is not altered in any way. Please cite: Corning Community College Archives. Prior written permission is required for any other use of the images from Corning Community  College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll23/id/24</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll23/25</identifier><datestamp>2014-05-12</datestamp><setSpec>p16694coll23</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>The Family</dc:title>
+<dc:description>Photograph of a sculpture by Dale Drulis. Picture taken in winter.  The sculpture was created in 1971 and dedicated on September 11, 1972.</dc:description>
+<dc:creator>Drulis, Dale</dc:creator>
+<dc:subject>Metal sculpture</dc:subject>
+<dc:subject>Arts &amp; Entertainment; Education; Architecture</dc:subject>
+<dc:coverage>Corning Community College - Spencer Hill Campus - Corning - Steuben County - New York</dc:coverage>
+<dc:date>1971</dc:date>
+<dc:source>photograph; color</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>family18</dc:identifier>
+<dc:relation>The Family</dc:relation>
+<dc:rights>This digital image may be used for educational uses, as long as it is not altered in any way. Please cite: Corning Community College Archives. Prior written permission is required for any other use of the images from Corning Community  College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll23/id/25</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll23/26</identifier><datestamp>2014-05-12</datestamp><setSpec>p16694coll23</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>The Family</dc:title>
+<dc:description>Photograph of a sculpture by Dale Drulis taken from the Commons porch. The sculpture was created in 1971 and dedicated on September 11, 1972.</dc:description>
+<dc:creator>Drulis, Dale</dc:creator>
+<dc:subject>Metal sculpture</dc:subject>
+<dc:subject>Arts &amp; Entertainment; Education; Architecture</dc:subject>
+<dc:coverage>Corning Community College - Spencer Hill Campus - Corning - Steuben County - New York</dc:coverage>
+<dc:date>1971</dc:date>
+<dc:source>photograph; color</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>family19</dc:identifier>
+<dc:relation>The Family</dc:relation>
+<dc:rights>This digital image may be used for educational uses, as long as it is not altered in any way. Please cite: Corning Community College Archives. Prior written permission is required for any other use of the images from Corning Community  College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll23/id/26</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll23/27</identifier><datestamp>2014-05-12</datestamp><setSpec>p16694coll23</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>The Family</dc:title>
+<dc:description>Photograph of the top of a sculpture by Dale Drulis. The sculpture was created in 1971 and dedicated on September 11, 1972.</dc:description>
+<dc:creator>Drulis, Dale</dc:creator>
+<dc:subject>Metal sculpture</dc:subject>
+<dc:subject>Arts &amp; Entertainment; Education; Architecture</dc:subject>
+<dc:coverage>Corning Community College - Spencer Hill Campus - Corning - Steuben County - New York</dc:coverage>
+<dc:date>1971</dc:date>
+<dc:source>photograph; color</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>family20</dc:identifier>
+<dc:relation>The Family</dc:relation>
+<dc:rights>This digital image may be used for educational uses, as long as it is not altered in any way. Please cite: Corning Community College Archives. Prior written permission is required for any other use of the images from Corning Community  College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll23/id/27</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll23/28</identifier><datestamp>2014-05-12</datestamp><setSpec>p16694coll23</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>The Family</dc:title>
+<dc:description>Photograph of a sculpture by Dale Drulis. Picture taken in winter. The sculpture was created in 1971 and dedicated on September 11, 1972.</dc:description>
+<dc:creator>Drulis, Dale</dc:creator>
+<dc:subject>Metal sculpture</dc:subject>
+<dc:subject>Arts &amp; Entertainment; Education; Architecture</dc:subject>
+<dc:coverage>Corning Community College - Spencer Hill Campus - Corning - Steuben County - New York</dc:coverage>
+<dc:date>1971</dc:date>
+<dc:source>photograph; color</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>family21</dc:identifier>
+<dc:relation>The Family</dc:relation>
+<dc:rights>This digital image may be used for educational uses, as long as it is not altered in any way. Please cite: Corning Community College Archives. Prior written permission is required for any other use of the images from Corning Community  College.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll23/id/28</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll23/34</identifier><datestamp>2015-01-22</datestamp><setSpec>p16694coll23</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Bismarck autograph introduction</dc:title>
+<dc:description>Introduction to Bismarck autograph.</dc:description>
+<dc:subject>Money; Family; Military service; Politicians;</dc:subject>
+<dc:subject>Daily Life; Military &amp; War; Government, Law &amp; Politics;</dc:subject>
+<dc:type>Text;</dc:type>
+<dc:language>eng;</dc:language>
+<dc:format>image/jpeg;</dc:format>
+<dc:relation>Autographs;</dc:relation>
+<dc:rights> 	This digital image may be used for educational uses, as long as it is not altered in any way. Please cite: Corning Community College Archives. Prior written permission is required for any other use of the images from Corning Community College. </dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll23/id/34</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll23/35</identifier><datestamp>2015-01-22</datestamp><setSpec>p16694coll23</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Bismarck letter page 1</dc:title>
+<dc:description>Handwritten Otto von Bismarck letter-first page.</dc:description>
+<dc:creator>Bismarck, Otto von</dc:creator>
+<dc:subject>Money; Military service; Military personnel; Political elections;</dc:subject>
+<dc:subject>Daily Life; Military &amp; War; Government, Law &amp; Politics;</dc:subject>
+<dc:source>Correspondence</dc:source>
+<dc:type>Text;</dc:type>
+<dc:language>ger;</dc:language>
+<dc:format>image/jpeg;</dc:format>
+<dc:relation>Autographs;</dc:relation>
+<dc:rights>This digital image may be used for educational uses, as long as it is not altered in any way. Please cite: Corning Community College Archives. Prior written permission is required for any other use of the images from Corning Community College. </dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll23/id/35</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll23/36</identifier><datestamp>2015-01-22</datestamp><setSpec>p16694coll23</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Bismarck letter page 2</dc:title>
+<dc:description>Handwritten Otto von Bismarck letter-second page.</dc:description>
+<dc:creator>Bismarck, Otto von</dc:creator>
+<dc:subject>Money; Military service; Military personnel; Political elections;</dc:subject>
+<dc:subject>Daily Life; Military &amp; War; Government, Law &amp; Politics;</dc:subject>
+<dc:source>Correspondence</dc:source>
+<dc:type>Text;</dc:type>
+<dc:language>ger;</dc:language>
+<dc:format>image/jpeg;</dc:format>
+<dc:relation>Autographs;</dc:relation>
+<dc:rights>This digital image may be used for educational uses, as long as it is not altered in any way. Please cite: Corning Community College Archives. Prior written permission is required for any other use of the images from Corning Community College. </dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll23/id/36</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll23/37</identifier><datestamp>2015-01-22</datestamp><setSpec>p16694coll23</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Bismarck transcript</dc:title>
+<dc:description>Typed and translated transcript of Otto von Bismarck letter.</dc:description>
+<dc:creator>Bismarck, Otto von</dc:creator>
+<dc:subject>Military service; Military personnel; Money; Family; Political elections;</dc:subject>
+<dc:subject>Daily Life; Government, Law &amp; Politics; Military &amp; War;</dc:subject>
+<dc:source>Correspondence</dc:source>
+<dc:type>Text;</dc:type>
+<dc:language>eng;</dc:language>
+<dc:format>image/jpeg;</dc:format>
+<dc:relation>Autographs;</dc:relation>
+<dc:rights>This digital image may be used for educational uses, as long as it is not altered in any way. Please cite: Corning Community College Archives. Prior written permission is required for any other use of the images from Corning Community College. </dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll23/id/37</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll23/38</identifier><datestamp>2015-01-22</datestamp><setSpec>p16694coll23</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Thomas Bailey Aldrich autograph introduction</dc:title>
+<dc:description>Introductory letter for Thomas Bailey Aldrich&#x27;s Two Poems</dc:description>
+<dc:subject>Aldrich, Thomas Bailey</dc:subject>
+<dc:subject>Arts &amp; Entertainment;</dc:subject>
+<dc:source>Correspondence</dc:source>
+<dc:type>Text;</dc:type>
+<dc:language>eng;</dc:language>
+<dc:format>image/jpeg;</dc:format>
+<dc:relation>Autographs;</dc:relation>
+<dc:rights>This digital image may be used for educational uses, as long as it is not altered in any way. Please cite: Corning Community College Archives. Prior written permission is required for any other use of the images from Corning Community College. </dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll23/id/38</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll23/39</identifier><datestamp>2015-01-22</datestamp><setSpec>p16694coll23</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Thomas Bailey Aldrich Two Poems</dc:title>
+<dc:description>Thomas Bailey Aldrich handwritten copies of poems &quot;Maple Leaves&quot; and &quot;Grace and Strength&quot;, along with signature.</dc:description>
+<dc:creator>Thomas Bailey Aldrich</dc:creator>
+<dc:subject>Poetry; Poets;</dc:subject>
+<dc:subject>Arts &amp; Entertainment;</dc:subject>
+<dc:source>Manuscripts</dc:source>
+<dc:type>Text;</dc:type>
+<dc:language>eng;</dc:language>
+<dc:format>image/jpeg;</dc:format>
+<dc:relation>Autographs;</dc:relation>
+<dc:rights> 	This digital image may be used for educational uses, as long as it is not altered in any way. Please cite: Corning Community College Archives. Prior written permission is required for any other use of the images from Corning Community College. </dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll23/id/39</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll23/40</identifier><datestamp>2015-01-29</datestamp><setSpec>p16694coll23</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Robert Browning Letter</dc:title>
+<dc:description>Robert Browning thank you letter.</dc:description>
+<dc:creator>Robert Browning</dc:creator>
+<dc:subject>Correspondence;</dc:subject>
+<dc:subject>Daily Life;</dc:subject>
+<dc:source>Correspondence</dc:source>
+<dc:type>Text;</dc:type>
+<dc:language>eng;</dc:language>
+<dc:format>image/jpeg;</dc:format>
+<dc:relation>Autographs;</dc:relation>
+<dc:rights>This digital image may be used for educational uses, as long as it is not altered in any way. Please cite: Corning Community College Archives. Prior written permission is required for any other use of the images from Corning Community College. </dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll23/id/40</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll23/41</identifier><datestamp>2015-01-29</datestamp><setSpec>p16694coll23</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Robert Browning Autograph Introduction</dc:title>
+<dc:description>Introduction to Robert Browning letter.</dc:description>
+<dc:creator>Robert Browning</dc:creator>
+<dc:subject>Correspondence;</dc:subject>
+<dc:subject>Daily Life;</dc:subject>
+<dc:source>Correspondence</dc:source>
+<dc:type>Text;</dc:type>
+<dc:language>eng;</dc:language>
+<dc:format>image/jpeg;</dc:format>
+<dc:relation>Autographs;</dc:relation>
+<dc:rights>This digital image may be used for educational uses, as long as it is not altered in any way. Please cite: Corning Community College Archives. Prior written permission is required for any other use of the images from Corning Community College. </dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll23/id/41</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll23/42</identifier><datestamp>2015-01-29</datestamp><setSpec>p16694coll23</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>John Q Adams Iinvitation Letter</dc:title>
+<dc:description>Invitation letter from John Q Adams to Joel R. Poinsett</dc:description>
+<dc:creator>John Q Adams</dc:creator>
+<dc:subject>Correspondence;</dc:subject>
+<dc:subject>Daily Life;</dc:subject>
+<dc:source>Correspondence</dc:source>
+<dc:type>Text;</dc:type>
+<dc:language>eng;</dc:language>
+<dc:format>image/jpeg;</dc:format>
+<dc:relation>Autographs;</dc:relation>
+<dc:rights> 	This digital image may be used for educational uses, as long as it is not altered in any way. Please cite: Corning Community College Archives. Prior written permission is required for any other use of the images from Corning Community College. </dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll23/id/42</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll23/43</identifier><datestamp>2015-01-29</datestamp><setSpec>p16694coll23</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>John Q Adams Autograph Introduction</dc:title>
+<dc:description>Introduction to John Q Adams letter.</dc:description>
+<dc:subject>Correspondence;</dc:subject>
+<dc:subject>Daily Life;</dc:subject>
+<dc:source>Correspondance</dc:source>
+<dc:type>Text;</dc:type>
+<dc:language>eng;</dc:language>
+<dc:format>image/jpeg;</dc:format>
+<dc:relation>Autographs;</dc:relation>
+<dc:rights> 	This digital image may be used for educational uses, as long as it is not altered in any way. Please cite: Corning Community College Archives. Prior written permission is required for any other use of the images from Corning Community College. </dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll23/id/43</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll23/44</identifier><datestamp>2015-02-05</datestamp><setSpec>p16694coll23</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Baron von Steuben Letter, English Translation</dc:title>
+<dc:description>English translation of Baron von Steuben letter.</dc:description>
+<dc:creator>Baron von Steuben</dc:creator>
+<dc:subject>Travel; Military service;</dc:subject>
+<dc:subject>Military &amp; War; Daily Life;</dc:subject>
+<dc:source>Correspondence</dc:source>
+<dc:type>Text;</dc:type>
+<dc:language>eng;</dc:language>
+<dc:format>image/jpeg;</dc:format>
+<dc:relation>Autographs;</dc:relation>
+<dc:rights> 	This digital image may be used for educational uses, as long as it is not altered in any way. Please cite: Corning Community College Archives. Prior written permission is required for any other use of the images from Corning Community College. </dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll23/id/44</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll23/45</identifier><datestamp>2015-02-05</datestamp><setSpec>p16694coll23</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Baron von Steuben Letter</dc:title>
+<dc:description>Letter from Baron von Steuben in French to an adjudant.</dc:description>
+<dc:creator>Baron von Steuben</dc:creator>
+<dc:subject>Travel; Military service;</dc:subject>
+<dc:subject>Military &amp; War; Daily Life;</dc:subject>
+<dc:source>Correspondence</dc:source>
+<dc:type>Text;</dc:type>
+<dc:language>fre;</dc:language>
+<dc:format>image/jpeg;</dc:format>
+<dc:relation>Autographs;</dc:relation>
+<dc:rights>This digital image may be used for educational uses, as long as it is not altered in any way. Please cite: Corning Community College Archives. Prior written permission is required for any other use of the images from Corning Community College. </dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll23/id/45</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll23/46</identifier><datestamp>2015-02-26</datestamp><setSpec>p16694coll23</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Alexander von Humboldt Partial Translation</dc:title>
+<dc:description>Partial translation of Alexander von Humboldt letter in French.</dc:description>
+<dc:creator>Alexander von Humboldt</dc:creator>
+<dc:subject>Nature; Travel; Research;</dc:subject>
+<dc:subject>Environment &amp; Nature; Medicine, Science &amp; Technology;</dc:subject>
+<dc:source>Correspondence</dc:source>
+<dc:type>Text;</dc:type>
+<dc:language>eng;</dc:language>
+<dc:format>image/jpeg;</dc:format>
+<dc:relation>Autographs;</dc:relation>
+<dc:rights> 	This digital image may be used for educational uses, as long as it is not altered in any way. Please cite: Corning Community College Archives. Prior written permission is required for any other use of the images from Corning Community College. </dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll23/id/46</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll23/47</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll23</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Alexander von Humboldt Note</dc:title>
+<dc:description>Alexander von Humboldt note in French.</dc:description>
+<dc:creator>Alexander von Humboldt</dc:creator>
+<dc:subject>Nature; Travel; Research;</dc:subject>
+<dc:subject>Environment &amp; Nature; Medicine, Science &amp; Technology;</dc:subject>
+<dc:source>Correspondence</dc:source>
+<dc:type>Text;</dc:type>
+<dc:language>fre;</dc:language>
+<dc:format>image/jpeg;</dc:format>
+<dc:relation>Autographs;</dc:relation>
+<dc:rights> 	This digital image may be used for educational uses, as long as it is not altered in any way. Please cite: Corning Community College Archives. Prior written permission is required for any other use of the images from Corning Community College. </dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll23/id/47</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll23/48</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll23</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Alexander von Humboldt Note Introduction</dc:title>
+<dc:description>Introduction to note by Alexander von Humboldt.</dc:description>
+<dc:subject>Nature; Travel; Research;</dc:subject>
+<dc:subject>Environment &amp; Nature; Medicine, Science &amp; Technology;</dc:subject>
+<dc:source>Correspondence</dc:source>
+<dc:type>Text;</dc:type>
+<dc:language>eng;</dc:language>
+<dc:format>image/jpeg;</dc:format>
+<dc:relation>Autographs;</dc:relation>
+<dc:rights> 	This digital image may be used for educational uses, as long as it is not altered in any way. Please cite: Corning Community College Archives. Prior written permission is required for any other use of the images from Corning Community College. </dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll23/id/48</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll23/49</identifier><datestamp>2015-02-26</datestamp><setSpec>p16694coll23</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Henry Clay Letter Transcript</dc:title>
+<dc:description>Typed transcript of letter from Henry Clay.</dc:description>
+<dc:creator>Henry Clay</dc:creator>
+<dc:subject>Political activity; Political issues;</dc:subject>
+<dc:subject>Government, Law &amp; Politics;</dc:subject>
+<dc:source>Correspondence</dc:source>
+<dc:type>Text;</dc:type>
+<dc:language>eng;</dc:language>
+<dc:format>image/jpeg;</dc:format>
+<dc:relation>Autographs;</dc:relation>
+<dc:rights>This digital image may be used for educational uses, as long as it is not altered in any way. Please cite: Corning Community College Archives. Prior written permission is required for any other use of the images from Corning Community College. </dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll23/id/49</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll23/50</identifier><datestamp>2015-02-26</datestamp><setSpec>p16694coll23</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Henry Clay Letter Envelope</dc:title>
+<dc:description>Envelope of Henry Clay letter.</dc:description>
+<dc:creator>Henry Clay</dc:creator>
+<dc:subject>Political issues; Political activity;</dc:subject>
+<dc:subject>Government, Law &amp; Politics;</dc:subject>
+<dc:source>Correspondence</dc:source>
+<dc:type>Text;</dc:type>
+<dc:language>eng;</dc:language>
+<dc:format>image/jpeg;</dc:format>
+<dc:relation>Autographs;</dc:relation>
+<dc:rights>This digital image may be used for educational uses, as long as it is not altered in any way. Please cite: Corning Community College Archives. Prior written permission is required for any other use of the images from Corning Community College. </dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll23/id/50</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll23/51</identifier><datestamp>2015-02-26</datestamp><setSpec>p16694coll23</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Henry Clay Letter</dc:title>
+<dc:description>Letter from Henry Clay to J. R. Poinsett discussing injustice done to Poinsett by Congress.</dc:description>
+<dc:creator>Henry Clay</dc:creator>
+<dc:subject>Political issues; Political activity;</dc:subject>
+<dc:subject>Government, Law &amp; Politics;</dc:subject>
+<dc:source>Correspondence</dc:source>
+<dc:type>Text;</dc:type>
+<dc:language>eng;</dc:language>
+<dc:format>image/jpeg;</dc:format>
+<dc:relation>Autographs;</dc:relation>
+<dc:rights>This digital image may be used for educational uses, as long as it is not altered in any way. Please cite: Corning Community College Archives. Prior written permission is required for any other use of the images from Corning Community College. </dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll23/id/51</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll23/52</identifier><datestamp>2015-02-26</datestamp><setSpec>p16694coll23</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Henry Clay Letter Introduction</dc:title>
+<dc:description>Introduction to Henry Clay Envelope, Letter, and Transcript</dc:description>
+<dc:subject>Political activity; Political issues;</dc:subject>
+<dc:subject>Government, Law &amp; Politics;</dc:subject>
+<dc:source>Correspondence</dc:source>
+<dc:type>Text;</dc:type>
+<dc:language>eng;</dc:language>
+<dc:format>image/jpeg;</dc:format>
+<dc:relation>Autographs;</dc:relation>
+<dc:rights>This digital image may be used for educational uses, as long as it is not altered in any way. Please cite: Corning Community College Archives. Prior written permission is required for any other use of the images from Corning Community College. </dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll23/id/52</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll23/53</identifier><datestamp>2015-02-26</datestamp><setSpec>p16694coll23</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Anthony Hope Hawkins Letter Transcript Part 2</dc:title>
+<dc:description>Second page of typed transcript of letter from Anthony Hope Hawkins.</dc:description>
+<dc:creator>Anthony Hope Hawkins</dc:creator>
+<dc:subject>Clubs; Literature; War; Writing;</dc:subject>
+<dc:subject>Arts &amp; Entertainment; Military &amp; War; Work &amp; Labor;</dc:subject>
+<dc:source>Correspondence</dc:source>
+<dc:type>Text;</dc:type>
+<dc:language>eng;</dc:language>
+<dc:format>image/jpeg;</dc:format>
+<dc:relation>Autographs;</dc:relation>
+<dc:rights>This digital image may be used for educational uses, as long as it is not altered in any way. Please cite: Corning Community College Archives. Prior written permission is required for any other use of the images from Corning Community College. </dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll23/id/53</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll23/54</identifier><datestamp>2015-02-26</datestamp><setSpec>p16694coll23</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Anthony Hope Hawkins Letter Transcript Part 3</dc:title>
+<dc:description>Third page of typed transcript of letter from Anthony Hope Hawkins.</dc:description>
+<dc:creator>Anthony Hope Hawkins</dc:creator>
+<dc:subject>Clubs; Literature; War; Writing;</dc:subject>
+<dc:subject>Arts &amp; Entertainment; Military &amp; War; Work &amp; Labor;</dc:subject>
+<dc:source>Correspondence</dc:source>
+<dc:type>Text;</dc:type>
+<dc:language>eng;</dc:language>
+<dc:format>image/jpeg;</dc:format>
+<dc:relation>Autographs;</dc:relation>
+<dc:rights>This digital image may be used for educational uses, as long as it is not altered in any way. Please cite: Corning Community College Archives. Prior written permission is required for any other use of the images from Corning Community College. </dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll23/id/54</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll23/55</identifier><datestamp>2015-02-26</datestamp><setSpec>p16694coll23</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Anthony Hope Hawkins Letter Transcript Part 1</dc:title>
+<dc:description>First page of typed transcript of letter from Anthony Hope Hawkins.</dc:description>
+<dc:creator>Anthony Hope Hawkins</dc:creator>
+<dc:subject>Clubs; Literature; War; Writing;</dc:subject>
+<dc:subject>Arts &amp; Entertainment; Military &amp; War; Work &amp; Labor;</dc:subject>
+<dc:source>Correspondence</dc:source>
+<dc:type>Text;</dc:type>
+<dc:language>eng;</dc:language>
+<dc:format>image/jpeg;</dc:format>
+<dc:relation>Autographs;</dc:relation>
+<dc:rights>This digital image may be used for educational uses, as long as it is not altered in any way. Please cite: Corning Community College Archives. Prior written permission is required for any other use of the images from Corning Community College. </dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll23/id/55</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll23/56</identifier><datestamp>2015-02-26</datestamp><setSpec>p16694coll23</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Anthony Hope Hawkins Letter Part 2</dc:title>
+<dc:description>Second page of Anthony Hope Hawkins handwritten letter discussing his fan club and World War I.</dc:description>
+<dc:creator>Anthony Hope Hawkins</dc:creator>
+<dc:subject>Clubs; Literature; War; Writing;</dc:subject>
+<dc:subject>Arts &amp; Entertainment; Military &amp; War; Work &amp; Labor;</dc:subject>
+<dc:source>Correspondence</dc:source>
+<dc:type>Text;</dc:type>
+<dc:language>eng;</dc:language>
+<dc:format>image/jpeg;</dc:format>
+<dc:relation>Autographs;</dc:relation>
+<dc:rights>This digital image may be used for educational uses, as long as it is not altered in any way. Please cite: Corning Community College Archives. Prior written permission is required for any other use of the images from Corning Community College. </dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll23/id/56</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll23/57</identifier><datestamp>2015-02-26</datestamp><setSpec>p16694coll23</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Anthony Hope Hawkins Letter Part 1</dc:title>
+<dc:description>First page of Anthony Hope Hawkins handwritten letter discussing his fan club and World War I.</dc:description>
+<dc:creator>Anthony Hope Hawkins</dc:creator>
+<dc:subject>Literature; Clubs; War; Writing;</dc:subject>
+<dc:subject>Arts &amp; Entertainment; Military &amp; War; Work &amp; Labor;</dc:subject>
+<dc:source>Correspondence</dc:source>
+<dc:type>Text;</dc:type>
+<dc:language>eng;</dc:language>
+<dc:format>image/jpeg;</dc:format>
+<dc:relation>Autographs;</dc:relation>
+<dc:rights>This digital image may be used for educational uses, as long as it is not altered in any way. Please cite: Corning Community College Archives. Prior written permission is required for any other use of the images from Corning Community College. </dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll23/id/57</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll23/58</identifier><datestamp>2015-02-26</datestamp><setSpec>p16694coll23</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Anthony Hope Hawkins Letter Introduction</dc:title>
+<dc:description>Introduction to Anthony Hope Hawkins letter and transcript.</dc:description>
+<dc:subject>Literature; Writing; Clubs; War work;</dc:subject>
+<dc:subject>Arts &amp; Entertainment; Military &amp; War; Work &amp; Labor;</dc:subject>
+<dc:source>Correspondence</dc:source>
+<dc:type>Text;</dc:type>
+<dc:language>eng;</dc:language>
+<dc:format>image/jpeg;</dc:format>
+<dc:relation>Autographs;</dc:relation>
+<dc:rights>This digital image may be used for educational uses, as long as it is not altered in any way. Please cite: Corning Community College Archives. Prior written permission is required for any other use of the images from Corning Community College. </dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll23/id/58</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll23/59</identifier><datestamp>2015-03-05</datestamp><setSpec>p16694coll23</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Eleanor Roosevelt &quot;My Day&quot;</dc:title>
+<dc:description>&quot;My Day&quot; article by Eleanor Roosevelt.</dc:description>
+<dc:creator>Eleanor Roosevelt</dc:creator>
+<dc:subject>Travel; Press; Presidents&#x27; spouses</dc:subject>
+<dc:subject>Government, Law and Politics</dc:subject>
+<dc:source>Correspondence</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:relation>Autographs</dc:relation>
+<dc:rights>This digital image may be used for educational uses, as long as it is not altered in any way. Please cite: Corning Community College Archives. Prior written permission is required for any other use of the images from Corning Community College. </dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll23/id/59</dc:identifier></oai_dc:dc>
+</metadata>
+</record></ListRecords></OAI-PMH>
