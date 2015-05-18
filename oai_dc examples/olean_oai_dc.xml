@@ -1,0 +1,919 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2015-05-18T15:14:55Z</responseDate><request verb="ListRecords" resumptionToken="VXU:332:VXU:0000-00-00:9999-99-99:oai_dc" metadataPrefix="oai_dc" set="VXU">http://cdm16694.contentdm.oclc.org/oai/oai.php</request><ListRecords><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VXU/393</identifier><datestamp>2012-05-15</datestamp><setSpec>VXU</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Sand Pumpings, 1978-09 (Fall)</dc:title>
+<dc:description>Sand Pumpings was a literary magazine published by the students of Olean High School that featured interviews and articles of local, historical interest in addition to literary pieces.</dc:description>
+<dc:creator>Olean High School</dc:creator>
+<dc:subject>New York (State)--History; Southern Tier Region (N.Y.)--History; Olean (N.Y.)--History; Student newspapers and periodicals; Little magazines</dc:subject>
+<dc:subject>Arts &amp; Entertainment; Community &amp; Events; Education</dc:subject>
+<dc:subject>New York (State), Western; Cattaraugus County (N.Y.); Olean (N.Y.)</dc:subject>
+<dc:publisher>Olean High School</dc:publisher>
+<dc:date>1978-09-01</dc:date>
+<dc:type>Text</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>VXU006_19780901</dc:identifier>
+<dc:publisher>Olean Public Library</dc:publisher>
+<dc:relation>Sand Pumpings</dc:relation>
+<dc:rights>Property of the Olean Public Library. This digital image may be used for educational uses, as long as it is not altered in any way and proper credit is given to the Sand Pumpings publication, Olean Public Library. Prior written permission of the Olean Public Library is required for any other use of the images: genealogy@oleanlibrary.org</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VXU/id/393</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VXU/447</identifier><datestamp>2012-05-15</datestamp><setSpec>VXU</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Sand Pumpings, 1979-06 (June)</dc:title>
+<dc:description>Sand Pumpings was a literary magazine published by the students of Olean High School that featured interviews and articles of local, historical interest in addition to literary pieces.</dc:description>
+<dc:creator>Olean High School</dc:creator>
+<dc:subject>New York (State)--History; Southern Tier Region (N.Y.)--History; Olean (N.Y.)--History; Student newspapers and periodicals; Little magazines</dc:subject>
+<dc:subject>Arts &amp; Entertainment; Community &amp; Events; Education</dc:subject>
+<dc:subject>New York (State), Western; Cattaraugus County (N.Y.); Olean (N.Y.)</dc:subject>
+<dc:publisher>Olean High School</dc:publisher>
+<dc:date>1979-06-01</dc:date>
+<dc:type>Text</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>VXU006_19790601</dc:identifier>
+<dc:publisher>Olean Public Library</dc:publisher>
+<dc:relation>Sand Pumpings</dc:relation>
+<dc:rights>Property of the Olean Public Library. This digital image may be used for educational uses, as long as it is not altered in any way and proper credit is given to the Sand Pumpings publication, Olean Public Library. Prior written permission of the Olean Public Library is required for any other use of the images: genealogy@oleanlibrary.org</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VXU/id/447</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VXU/499</identifier><datestamp>2012-05-15</datestamp><setSpec>VXU</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Sand Pumpings, 1980-03 (Spring)</dc:title>
+<dc:description>Sand Pumpings was a literary magazine published by the students of Olean High School that featured interviews and articles of local, historical interest in addition to literary pieces.</dc:description>
+<dc:creator>Olean High School</dc:creator>
+<dc:subject>New York (State)--History; Southern Tier Region (N.Y.)--History; Olean (N.Y.)--History; Student newspapers and periodicals; Little magazines</dc:subject>
+<dc:subject>Arts &amp; Entertainment; Community &amp; Events; Education</dc:subject>
+<dc:subject>New York (State), Western; Cattaraugus County (N.Y.); Olean (N.Y.)</dc:subject>
+<dc:publisher>Olean High School</dc:publisher>
+<dc:date>1980-03-01</dc:date>
+<dc:type>Text</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>VXU006_19800301</dc:identifier>
+<dc:publisher>Olean Public Library</dc:publisher>
+<dc:relation>Sand Pumpings</dc:relation>
+<dc:rights>Property of the Olean Public Library. This digital image may be used for educational uses, as long as it is not altered in any way and proper credit is given to the Sand Pumpings publication, Olean Public Library. Prior written permission of the Olean Public Library is required for any other use of the images: genealogy@oleanlibrary.org</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VXU/id/499</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VXU/550</identifier><datestamp>2012-05-15</datestamp><setSpec>VXU</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Sand Pumpings, 1981-03 (Spring)</dc:title>
+<dc:description>Sand Pumpings was a literary magazine published by the students of Olean High School that featured interviews and articles of local, historical interest in addition to literary pieces.</dc:description>
+<dc:creator>Olean High School</dc:creator>
+<dc:subject>New York (State)--History; Southern Tier Region (N.Y.)--History; Olean (N.Y.)--History; Student newspapers and periodicals; Little magazines</dc:subject>
+<dc:subject>Arts &amp; Entertainment; Community &amp; Events; Education</dc:subject>
+<dc:subject>New York (State), Western; Cattaraugus County (N.Y.); Olean (N.Y.)</dc:subject>
+<dc:publisher>Olean High School</dc:publisher>
+<dc:date>1981-03-01</dc:date>
+<dc:type>Text</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>VXU006_19810301</dc:identifier>
+<dc:publisher>Olean Public Library</dc:publisher>
+<dc:relation>Sand Pumpings</dc:relation>
+<dc:rights>Property of the Olean Public Library. This digital image may be used for educational uses, as long as it is not altered in any way and proper credit is given to the Sand Pumpings publication, Olean Public Library. Prior written permission of the Olean Public Library is required for any other use of the images: genealogy@oleanlibrary.org</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VXU/id/550</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VXU/601</identifier><datestamp>2012-05-15</datestamp><setSpec>VXU</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Sand Pumpings, 1983-06 (Summer)</dc:title>
+<dc:description>Sand Pumpings was a literary magazine published by the students of Olean High School that featured interviews and articles of local, historical interest in addition to literary pieces.</dc:description>
+<dc:creator>Olean High School</dc:creator>
+<dc:subject>New York (State)--History; Southern Tier Region (N.Y.)--History; Olean (N.Y.)--History; Student newspapers and periodicals; Little magazines</dc:subject>
+<dc:subject>Arts &amp; Entertainment; Community &amp; Events; Education</dc:subject>
+<dc:subject>New York (State), Western; Cattaraugus County (N.Y.); Olean (N.Y.)</dc:subject>
+<dc:publisher>Olean High School</dc:publisher>
+<dc:date>1983-06-01</dc:date>
+<dc:type>Text</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>VXU1983_19830601</dc:identifier>
+<dc:publisher>Olean Public Library</dc:publisher>
+<dc:relation>Sand Pumpings</dc:relation>
+<dc:rights>Property of the Olean Public Library. This digital image may be used for educational uses, as long as it is not altered in any way and proper credit is given to the Sand Pumpings publication, Olean Public Library. Prior written permission of the Olean Public Library is required for any other use of the images: genealogy@oleanlibrary.org</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VXU/id/601</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VXU/657</identifier><datestamp>2012-05-15</datestamp><setSpec>VXU</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Sand Pumpings, 1976-12</dc:title>
+<dc:description>Sand Pumpings was a literary magazine published by the students of Olean High School that featured interviews and articles of local, historical interest in addition to literary pieces.</dc:description>
+<dc:creator>Olean High School</dc:creator>
+<dc:subject>New York (State)--History; Southern Tier Region (N.Y.)--History; Olean (N.Y.)--History; Student newspapers and periodicals; Little magazines</dc:subject>
+<dc:subject>Arts &amp; Entertainment; Community &amp; Events; Education</dc:subject>
+<dc:subject>New York (State), Western; Cattaraugus County (N.Y.); Olean (N.Y.)</dc:subject>
+<dc:publisher>Olean High School</dc:publisher>
+<dc:date>1976-12-01</dc:date>
+<dc:type>Text</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>VXU006_19761201</dc:identifier>
+<dc:publisher>Olean Public Library</dc:publisher>
+<dc:relation>Sand Pumpings</dc:relation>
+<dc:rights>Property of the Olean Public Library. This digital image may be used for educational uses, as long as it is not altered in any way and proper credit is given to the Sand Pumpings publication, Olean Public Library. Prior written permission of the Olean Public Library is required for any other use of the images: genealogy@oleanlibrary.org</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VXU/id/657</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VXU/716</identifier><datestamp>2012-05-15</datestamp><setSpec>VXU</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Sand Pumpings, 1978-03 (Spring)</dc:title>
+<dc:description>Sand Pumpings was a literary magazine published by the students of Olean High School that featured interviews and articles of local, historical interest in addition to literary pieces.</dc:description>
+<dc:creator>Olean High School</dc:creator>
+<dc:subject>New York (State)--History; Southern Tier Region (N.Y.)--History; Olean (N.Y.)--History; Student newspapers and periodicals; Little magazines</dc:subject>
+<dc:subject>Arts &amp; Entertainment; Community &amp; Events; Education</dc:subject>
+<dc:subject>New York (State), Western; Cattaraugus County (N.Y.); Olean (N.Y.)</dc:subject>
+<dc:publisher>Olean High School</dc:publisher>
+<dc:date>1978-03-01</dc:date>
+<dc:type>Text</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>VXU006_19780301</dc:identifier>
+<dc:publisher>Olean Public Library</dc:publisher>
+<dc:relation>Sand Pumpings</dc:relation>
+<dc:rights>Property of the Olean Public Library. This digital image may be used for educational uses, as long as it is not altered in any way and proper credit is given to the Sand Pumpings publication, Olean Public Library. Prior written permission of the Olean Public Library is required for any other use of the images: genealogy@oleanlibrary.org</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VXU/id/716</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VXU/787</identifier><datestamp>2012-05-15</datestamp><setSpec>VXU</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Sand Pumpings, 1982-03 (Spring)</dc:title>
+<dc:description>Sand Pumpings was a literary magazine published by the students of Olean High School that featured interviews and articles of local, historical interest in addition to literary pieces.</dc:description>
+<dc:creator>Olean High School</dc:creator>
+<dc:subject>New York (State)--History; Southern Tier Region (N.Y.)--History; Olean (N.Y.)--History; Student newspapers and periodicals; Little magazines</dc:subject>
+<dc:subject>Arts &amp; Entertainment; Community &amp; Events; Education</dc:subject>
+<dc:subject>New York (State), Western; Cattaraugus County (N.Y.); Olean (N.Y.)</dc:subject>
+<dc:publisher>Olean High School</dc:publisher>
+<dc:date>1982-03-01</dc:date>
+<dc:type>Text</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>VXU006_19820301</dc:identifier>
+<dc:publisher>Olean Public Library</dc:publisher>
+<dc:relation>Sand Pumpings</dc:relation>
+<dc:rights>Property of the Olean Public Library. This digital image may be used for educational uses, as long as it is not altered in any way and proper credit is given to the Sand Pumpings publication, Olean Public Library. Prior written permission of the Olean Public Library is required for any other use of the images: genealogy@oleanlibrary.org</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VXU/id/787</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VXU/788</identifier><datestamp>2013-02-15</datestamp><setSpec>VXU</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>New Servant, The</dc:title>
+<dc:description>This is a 17 x 14&quot; oil painting on panel, depicting an interior scene of a young man, who has just arrived at his new job, and a black and white bird.</dc:description>
+<dc:creator>Vibert, Jehan Georges</dc:creator>
+<dc:subject>Oil painting; Household employees</dc:subject>
+<dc:subject>Arts &amp; Entertainment</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:source>Oil on panel, 17 x 14&quot;</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>jplpaint008</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Historic Paintings at James Prendergast Library</dc:relation>
+<dc:rights>This digital object is the intellectual property of the James Prendergast Library. It may be used for educational and non-commercial purposes, so long as it is cited and not altered. The James Prendergast Library reserves the right to decide what constitutes educational and commercial use. To obtain a copy of this image contact the James Prendergast Library Association, 509 Cherry St, Jamestown, NY 14701, (716)484-7135.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VXU/id/788</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VXU/789</identifier><datestamp>2013-02-15</datestamp><setSpec>VXU</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Near Tangiers</dc:title>
+<dc:description>This is a 39 x 24 3/4&quot; oil painting on fabric, depicting a landscape with a river or stream.</dc:description>
+<dc:creator>Sanchez Perrier, Emilio</dc:creator>
+<dc:subject>Oil painting; Landscape painting</dc:subject>
+<dc:subject>Arts &amp; Entertainment</dc:subject>
+<dc:date>1887</dc:date>
+<dc:source>Oil on fabric, 39 x 24 3/4&quot;</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>jplpaint003</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Historic Paintings at James Prendergast Library</dc:relation>
+<dc:rights>This digital object is the intellectual property of the James Prendergast Library. It may be used for educational and non-commercial purposes, so long as it is cited and not altered. The James Prendergast Library reserves the right to decide what constitutes educational and commercial use. To obtain a copy of this image contact the James Prendergast Library Association, 509 Cherry St, Jamestown, NY 14701, (716)484-7135.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VXU/id/789</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VXU/790</identifier><datestamp>2013-02-15</datestamp><setSpec>VXU</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Portrait of a Painter</dc:title>
+<dc:description>This is a 25 1/2 x 21 1/2&quot; oil painting on fabric, depicting a man who is believed to be Vincent van Gogh</dc:description>
+<dc:creator>Toulouse-Lautrec, Henri de (Attributed)</dc:creator>
+<dc:subject>Oil painting; Gogh, Vincent van, 1853-1890</dc:subject>
+<dc:subject>Arts &amp; Entertainment</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:source>Oil on fabric, 25 1/2 x 21 1/2&quot;</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>jplpaint012</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Historic Paintings at James Prendergast Library</dc:relation>
+<dc:rights>This digital object is the intellectual property of the James Prendergast Library. It may be used for educational and non-commercial purposes, so long as it is cited and not altered. The James Prendergast Library reserves the right to decide what constitutes educational and commercial use. To obtain a copy of this image contact the James Prendergast Library Association, 509 Cherry St, Jamestown, NY 14701, (716)484-7135.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VXU/id/790</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VXU/791</identifier><datestamp>2013-02-15</datestamp><setSpec>VXU</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Sunrise on the Isle of Mull</dc:title>
+<dc:description>This is a 17 7/8 x 31 3/4&quot; oil painting on fabric, depicting a sunrise on the isle of Mull.</dc:description>
+<dc:creator>Macneil, Ambrose</dc:creator>
+<dc:subject>Oil painting; Marine painting</dc:subject>
+<dc:subject>Arts &amp; Entertainment</dc:subject>
+<dc:date>1894</dc:date>
+<dc:source>Oil on fabric, 17 7/8 x 31 3/4&quot;</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>jplpaint013</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Historic Paintings at James Prendergast Library</dc:relation>
+<dc:rights>This digital object is the intellectual property of the James Prendergast Library. It may be used for educational and non-commercial purposes, so long as it is cited and not altered. The James Prendergast Library reserves the right to decide what constitutes educational and commercial use. To obtain a copy of this image contact the James Prendergast Library Association, 509 Cherry St, Jamestown, NY 14701, (716)484-7135.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VXU/id/791</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VXU/792</identifier><datestamp>2013-02-15</datestamp><setSpec>VXU</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Garden, In the</dc:title>
+<dc:description>This is a 21 1/2 x 17 1/4&quot; oil painting on panel, depicting a woman feeding chickens in a garden landscape.</dc:description>
+<dc:creator>Boldini, Giovanni</dc:creator>
+<dc:subject>Oil painting; Gardens</dc:subject>
+<dc:subject>Arts &amp; Entertainment</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:source>Oil on panel, 21 1/2 x 17 1/4&quot;</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>jplpaint015</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Historic Paintings at James Prendergast Library</dc:relation>
+<dc:rights>This digital object is the intellectual property of the James Prendergast Library. It may be used for educational and non-commercial purposes, so long as it is cited and not altered. The James Prendergast Library reserves the right to decide what constitutes educational and commercial use. To obtain a copy of this image contact the James Prendergast Library Association, 509 Cherry St, Jamestown, NY 14701, (716)484-7135.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VXU/id/792</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VXU/793</identifier><datestamp>2013-02-15</datestamp><setSpec>VXU</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Ebbing Tide, The</dc:title>
+<dc:description>This is a 20 3/16 x 40 1/4&quot; oil painting on fabric, depicting an open seascape.</dc:description>
+<dc:creator>Richards, William Trost</dc:creator>
+<dc:subject>Oil painting; Marine painting</dc:subject>
+<dc:subject>Arts &amp; Entertainment</dc:subject>
+<dc:date>1891</dc:date>
+<dc:source>Oil on fabric, 20 3/16 x 40 1/4&quot;</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>jplpaint016</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Historic Paintings at James Prendergast Library</dc:relation>
+<dc:rights>This digital object is the intellectual property of the James Prendergast Library. It may be used for educational and non-commercial purposes, so long as it is cited and not altered. The James Prendergast Library reserves the right to decide what constitutes educational and commercial use. To obtain a copy of this image contact the James Prendergast Library Association, 509 Cherry St, Jamestown, NY 14701, (716)484-7135.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VXU/id/793</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VXU/794</identifier><datestamp>2013-02-15</datestamp><setSpec>VXU</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Angel&#x27;s Bridge, Venice, The</dc:title>
+<dc:description>This is a 28 x 18 1/2&quot; oil painting on fabric, depicting a cityscape of the waterways in Venice.</dc:description>
+<dc:creator>Rico y Ortega, Martin</dc:creator>
+<dc:subject>Oil painting</dc:subject>
+<dc:subject>Arts &amp; Entertainment</dc:subject>
+<dc:subject>Venice (Italy)</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:source>Oil on fabric, 28 x 18 1/2&quot;</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>jplpaint017</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Historic Paintings at James Prendergast Library</dc:relation>
+<dc:rights>This digital object is the intellectual property of the James Prendergast Library. It may be used for educational and non-commercial purposes, so long as it is cited and not altered. The James Prendergast Library reserves the right to decide what constitutes educational and commercial use. To obtain a copy of this image contact the James Prendergast Library Association, 509 Cherry St, Jamestown, NY 14701, (716)484-7135.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VXU/id/794</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VXU/795</identifier><datestamp>2013-02-15</datestamp><setSpec>VXU</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>German Forest Interior</dc:title>
+<dc:description>This is a 23 5/8 x 34&quot; oil painting on fabric, depicting a forest interior.</dc:description>
+<dc:creator>Oeder, Georg</dc:creator>
+<dc:subject>Oil painting; Landscape painting</dc:subject>
+<dc:subject>Arts &amp; Entertainment</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:source>Oil on fabric, 23 5/8 x 34&quot;</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>jplpaint018</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Historic Paintings at James Prendergast Library</dc:relation>
+<dc:rights>This digital object is the intellectual property of the James Prendergast Library. It may be used for educational and non-commercial purposes, so long as it is cited and not altered. The James Prendergast Library reserves the right to decide what constitutes educational and commercial use. To obtain a copy of this image contact the James Prendergast Library Association, 509 Cherry St, Jamestown, NY 14701, (716)484-7135.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VXU/id/795</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VXU/796</identifier><datestamp>2013-02-15</datestamp><setSpec>VXU</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Painting a Madonna</dc:title>
+<dc:description>This is a 8 1/2  x  5&quot; oil painting on fabric, depicting a Cardinal at his easel, working on a portrait of the Madonna and Child.</dc:description>
+<dc:creator>Hermann, Leo</dc:creator>
+<dc:subject>Oil painting; Clergy</dc:subject>
+<dc:subject>Arts &amp; Entertainment</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:source>Oil on fabric, 8 1/2  x  5&quot;</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>jplpaint004</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Historic Paintings at James Prendergast Library</dc:relation>
+<dc:rights>This digital object is the intellectual property of the James Prendergast Library. It may be used for educational and non-commercial purposes, so long as it is cited and not altered. The James Prendergast Library reserves the right to decide what constitutes educational and commercial use. To obtain a copy of this image contact the James Prendergast Library Association, 509 Cherry St, Jamestown, NY 14701, (716)484-7135.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VXU/id/796</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VXU/797</identifier><datestamp>2013-02-15</datestamp><setSpec>VXU</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Log Cart, The</dc:title>
+<dc:description>This is an 11 1/2 x 18 1/4&quot; oil painting on fabric, depicting men dragging a log with a horse-drawn carriage.</dc:description>
+<dc:creator>Mauve, Anton</dc:creator>
+<dc:subject>Oil painting; Logging</dc:subject>
+<dc:subject>Arts &amp; Entertainment</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:source>Oil on fabric, 11 1/2 x 18 1/4&quot;</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>jplpaint019</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Historic Paintings at James Prendergast Library</dc:relation>
+<dc:rights>This digital object is the intellectual property of the James Prendergast Library. It may be used for educational and non-commercial purposes, so long as it is cited and not altered. The James Prendergast Library reserves the right to decide what constitutes educational and commercial use. To obtain a copy of this image contact the James Prendergast Library Association, 509 Cherry St, Jamestown, NY 14701, (716)484-7135.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VXU/id/797</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VXU/798</identifier><datestamp>2013-02-15</datestamp><setSpec>VXU</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Ostende</dc:title>
+<dc:description>This is a 20 1/4 x 14 1/2&quot; oil painting on panel, depicting a seascape with fishing vessels.</dc:description>
+<dc:creator>Clays, Jean Paul</dc:creator>
+<dc:subject>Oil painting; Ships</dc:subject>
+<dc:subject>Arts &amp; Entertainment</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:source>Oil on wood panel, 20 1/4 x 14 1/2&quot;</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>jplpaint022</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Historic Paintings at James Prendergast Library</dc:relation>
+<dc:rights>This digital object is the intellectual property of the James Prendergast Library. It may be used for educational and non-commercial purposes, so long as it is cited and not altered. The James Prendergast Library reserves the right to decide what constitutes educational and commercial use. To obtain a copy of this image contact the James Prendergast Library Association, 509 Cherry St, Jamestown, NY 14701, (716)484-7135.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VXU/id/798</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VXU/799</identifier><datestamp>2013-02-15</datestamp><setSpec>VXU</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Industry</dc:title>
+<dc:description>This is a 51 1/4 x 33 3/4&quot; oil painting on fabric, depicting an allegorical image of a woman working with a spindle and wool thread to represent the virtues of labor and industry.</dc:description>
+<dc:creator>Thirion, Eugene Romain</dc:creator>
+<dc:subject>Oil painting; Women</dc:subject>
+<dc:subject>Arts &amp; Entertainment</dc:subject>
+<dc:date>1874</dc:date>
+<dc:source>Oil on fabric, 51 1/4 x 33 3/4&quot;</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>jplpaint002</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Historic Paintings at James Prendergast Library</dc:relation>
+<dc:rights>This digital object is the intellectual property of the James Prendergast Library. It may be used for educational and non-commercial purposes, so long as it is cited and not altered. The James Prendergast Library reserves the right to decide what constitutes educational and commercial use. To obtain a copy of this image contact the James Prendergast Library Association, 509 Cherry St, Jamestown, NY 14701, (716)484-7135.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VXU/id/799</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VXU/800</identifier><datestamp>2013-02-15</datestamp><setSpec>VXU</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Washday on the Seine</dc:title>
+<dc:description>This is a 20 1/4 x 14 1/2&quot; oil painting on wood panel, depicting a laundress with a wheelbarrow of clothing while other women wash clothes in the background.</dc:description>
+<dc:creator>Jimenez Aranda, Luis</dc:creator>
+<dc:subject>Oil painting; Laundresses</dc:subject>
+<dc:subject>Arts &amp; Entertainment</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:source>Oil on panel, 23 1/2 x 17 1/8&quot;</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>jplpaint023</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Historic Paintings at James Prendergast Library</dc:relation>
+<dc:rights>This digital object is the intellectual property of the James Prendergast Library. It may be used for educational and non-commercial purposes, so long as it is cited and not altered. The James Prendergast Library reserves the right to decide what constitutes educational and commercial use. To obtain a copy of this image contact the James Prendergast Library Association, 509 Cherry St, Jamestown, NY 14701, (716)484-7135.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VXU/id/800</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VXU/801</identifier><datestamp>2013-02-15</datestamp><setSpec>VXU</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Mountain Road, A</dc:title>
+<dc:description>This is a 29 3/4 x 49 3/4&quot; oil painting on fabric, depicting a farmer and his sheep crossing a bridge.</dc:description>
+<dc:creator>Wall, A. Bryan</dc:creator>
+<dc:subject>Oil painting; Shepherds</dc:subject>
+<dc:subject>Arts &amp; Entertainment</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:source>Oil on fabric, 29 3/4 x 49 3/4&quot;</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>jplpaint024</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Historic Paintings at James Prendergast Library</dc:relation>
+<dc:rights>This digital object is the intellectual property of the James Prendergast Library. It may be used for educational and non-commercial purposes, so long as it is cited and not altered. The James Prendergast Library reserves the right to decide what constitutes educational and commercial use. To obtain a copy of this image contact the James Prendergast Library Association, 509 Cherry St, Jamestown, NY 14701, (716)484-7135.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VXU/id/801</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VXU/802</identifier><datestamp>2013-02-15</datestamp><setSpec>VXU</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Lake George</dc:title>
+<dc:description>This is a 19 1/2 x 32 1/2&quot; oil painting on fabric, depicting Lake George (Upstate New York) at either dawn or dusk.</dc:description>
+<dc:creator>Cropsey, Jasper Francis</dc:creator>
+<dc:subject>Oil painting; Landscape painting</dc:subject>
+<dc:subject>Arts &amp; Entertainment</dc:subject>
+<dc:date>1866</dc:date>
+<dc:source>Oil on fabric, 19 1/2 x 32 1/2&quot;</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>jplpaint025</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Historic Paintings at James Prendergast Library</dc:relation>
+<dc:rights>This digital object is the intellectual property of the James Prendergast Library. It may be used for educational and non-commercial purposes, so long as it is cited and not altered. The James Prendergast Library reserves the right to decide what constitutes educational and commercial use. To obtain a copy of this image contact the James Prendergast Library Association, 509 Cherry St, Jamestown, NY 14701, (716)484-7135.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VXU/id/802</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VXU/803</identifier><datestamp>2013-02-15</datestamp><setSpec>VXU</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Waiting, Scene in Cairo</dc:title>
+<dc:description>This is a 9 x 6 3/4&quot; oil painting on fabric, depicting a horse outside a building in Cairo.</dc:description>
+<dc:creator>Pasini, Alberto</dc:creator>
+<dc:subject>Oil painting</dc:subject>
+<dc:subject>Arts &amp; Entertainment</dc:subject>
+<dc:subject>Cairo (Egypt)</dc:subject>
+<dc:date>1886</dc:date>
+<dc:source>Oil on fabric, 9 x 6 3/4&quot;</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>jplpaint026</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Historic Paintings at James Prendergast Library</dc:relation>
+<dc:rights>This digital object is the intellectual property of the James Prendergast Library. It may be used for educational and non-commercial purposes, so long as it is cited and not altered. The James Prendergast Library reserves the right to decide what constitutes educational and commercial use. To obtain a copy of this image contact the James Prendergast Library Association, 509 Cherry St, Jamestown, NY 14701, (716)484-7135.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VXU/id/803</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VXU/804</identifier><datestamp>2013-02-15</datestamp><setSpec>VXU</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Sharpening</dc:title>
+<dc:description>This is a 11 1/8 x 8&quot; oil painting on fabric, depicting a French infantry soldier sharpening his knife.</dc:description>
+<dc:creator>Grolleron, Paul Louis Narcisse</dc:creator>
+<dc:subject>Oil painting; Soldiers</dc:subject>
+<dc:subject>Arts &amp; Entertainment</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:source>Oil on fabric, 11 1/8 x 8&quot;</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>jplpaint027</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Historic Paintings at James Prendergast Library</dc:relation>
+<dc:rights>This digital object is the intellectual property of the James Prendergast Library. It may be used for educational and non-commercial purposes, so long as it is cited and not altered. The James Prendergast Library reserves the right to decide what constitutes educational and commercial use. To obtain a copy of this image contact the James Prendergast Library Association, 509 Cherry St, Jamestown, NY 14701, (716)484-7135.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VXU/id/804</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VXU/805</identifier><datestamp>2013-02-15</datestamp><setSpec>VXU</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>La Retama</dc:title>
+<dc:description>This is a 10 x 13 1/2&quot; oil painting on wood panel, depicting river landscape.</dc:description>
+<dc:creator>Sanchez Perrier, Emilio</dc:creator>
+<dc:subject>Oil painting; Landscape painting</dc:subject>
+<dc:subject>Arts &amp; Entertainment</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:source>Oil on wood panel, 10 x 13 1/2&quot;</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>jplpaint028</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Historic Paintings at James Prendergast Library</dc:relation>
+<dc:rights>This digital object is the intellectual property of the James Prendergast Library. It may be used for educational and non-commercial purposes, so long as it is cited and not altered. The James Prendergast Library reserves the right to decide what constitutes educational and commercial use. To obtain a copy of this image contact the James Prendergast Library Association, 509 Cherry St, Jamestown, NY 14701, (716)484-7135.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VXU/id/805</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VXU/806</identifier><datestamp>2013-02-15</datestamp><setSpec>VXU</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Relay of the Horses, The</dc:title>
+<dc:description>This is a 31 x 57 1/4&quot; oil painting on fabric, depicting a team of horses hitched to a wagon and additional horses gathered by a farmhouse.</dc:description>
+<dc:creator>Thoren, Otto  von</dc:creator>
+<dc:subject>Oil painting; Horses</dc:subject>
+<dc:subject>Arts &amp; Entertainment</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:source>Oil on fabric, 31 x 57 1/4&quot;</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>jplpaint020</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Historic Paintings at James Prendergast Library</dc:relation>
+<dc:rights>This digital object is the intellectual property of the James Prendergast Library. It may be used for educational and non-commercial purposes, so long as it is cited and not altered. The James Prendergast Library reserves the right to decide what constitutes educational and commercial use. To obtain a copy of this image contact the James Prendergast Library Association, 509 Cherry St, Jamestown, NY 14701, (716)484-7135.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VXU/id/806</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VXU/807</identifier><datestamp>2013-02-15</datestamp><setSpec>VXU</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>After the Hunt</dc:title>
+<dc:description>This is a 34 x 24 1/4&quot; oil painting on fabric, depicting two men seated by the fireplace and their dead game on the floor in the foreground.</dc:description>
+<dc:creator>Gay, Walter</dc:creator>
+<dc:subject>Oil painting; Hunters</dc:subject>
+<dc:subject>Arts &amp; Entertainment</dc:subject>
+<dc:date>1885</dc:date>
+<dc:source>Oil on fabric, 34 x 24 1/4&quot;</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>jplpaint021</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Historic Paintings at James Prendergast Library</dc:relation>
+<dc:rights>This digital object is the intellectual property of the James Prendergast Library. It may be used for educational and non-commercial purposes, so long as it is cited and not altered. The James Prendergast Library reserves the right to decide what constitutes educational and commercial use. To obtain a copy of this image contact the James Prendergast Library Association, 509 Cherry St, Jamestown, NY 14701, (716)484-7135.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VXU/id/807</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VXU/808</identifier><datestamp>2013-02-15</datestamp><setSpec>VXU</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Roses</dc:title>
+<dc:description>This is a 15 x 18 3/4&quot; oil painting on fabric, depicting a still life of flowers.</dc:description>
+<dc:creator>Robie, Jean-Baptiste</dc:creator>
+<dc:subject>Oil painting; Roses</dc:subject>
+<dc:subject>Arts &amp; Entertainment</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:source>Oil on fabric, 15 x 18 3/4&quot;</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>jplpaint014</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Historic Paintings at James Prendergast Library</dc:relation>
+<dc:rights>This digital object is the intellectual property of the James Prendergast Library. It may be used for educational and non-commercial purposes, so long as it is cited and not altered. The James Prendergast Library reserves the right to decide what constitutes educational and commercial use. To obtain a copy of this image contact the James Prendergast Library Association, 509 Cherry St, Jamestown, NY 14701, (716)484-7135.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VXU/id/808</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VXU/809</identifier><datestamp>2013-02-15</datestamp><setSpec>VXU</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Awaiting the Master</dc:title>
+<dc:description>This is a 15 1/2 x 12 3/8&quot; oil painting on panel, depicting three or four dogs awaiting  their master, under a tree where the hunter&#x27;s game is hanging.</dc:description>
+<dc:creator>Penne, Oliver</dc:creator>
+<dc:subject>Oil paintings; Dogs</dc:subject>
+<dc:subject>Arts &amp; Entertainment</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:source>Oil on panel, 15 1/2 x 12 3/8&quot;</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>jplpaint029</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Historic Paintings at James Prendergast Library</dc:relation>
+<dc:rights>This digital object is the intellectual property of the James Prendergast Library. It may be used for educational and non-commercial purposes, so long as it is cited and not altered. The James Prendergast Library reserves the right to decide what constitutes educational and commercial use. To obtain a copy of this image contact the James Prendergast Library Association, 509 Cherry St, Jamestown, NY 14701, (716)484-7135.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VXU/id/809</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VXU/810</identifier><datestamp>2013-02-15</datestamp><setSpec>VXU</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Attributed German at School (The School Master)</dc:title>
+<dc:description>This is a  44 x 39&quot; oil painting on fabric, depicting a classroom scene with mischievous students and a patient teacher.</dc:description>
+<dc:creator>Schutze, Wilhelm</dc:creator>
+<dc:subject>Oil painting; School children</dc:subject>
+<dc:subject>Arts &amp; Entertainment</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:source>Oil on fabric, 44 x 39&quot;</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>jplpaint001</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Historic Paintings at James Prendergast Library</dc:relation>
+<dc:rights>This digital object is the intellectual property of the James Prendergast Library. It may be used for educational and non-commercial purposes, so long as it is cited and not altered. The James Prendergast Library reserves the right to decide what constitutes educational and commercial use. To obtain a copy of this image contact the James Prendergast Library Association, 509 Cherry St, Jamestown, NY 14701, (716)484-7135.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VXU/id/810</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VXU/811</identifier><datestamp>2013-02-15</datestamp><setSpec>VXU</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>On Guard</dc:title>
+<dc:description>This is a 22 1/2 x 28 1/4&quot; oil painting on panel, depicting a mounted officer in the Franco-Prussian War (1870-1871).</dc:description>
+<dc:creator>Brown, John Lewis</dc:creator>
+<dc:subject>Oil painting; Soldiers</dc:subject>
+<dc:subject>Arts &amp; Entertainment</dc:subject>
+<dc:date>1875</dc:date>
+<dc:source>Oil on panel, 22 1/2 x 28 1/4&quot;</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>jplpaint030</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Historic Paintings at James Prendergast Library</dc:relation>
+<dc:rights>This digital object is the intellectual property of the James Prendergast Library. It may be used for educational and non-commercial purposes, so long as it is cited and not altered. The James Prendergast Library reserves the right to decide what constitutes educational and commercial use. To obtain a copy of this image contact the James Prendergast Library Association, 509 Cherry St, Jamestown, NY 14701, (716)484-7135.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VXU/id/811</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VXU/812</identifier><datestamp>2013-02-15</datestamp><setSpec>VXU</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Fisherman&#x27;s Wife, The</dc:title>
+<dc:description>This is a 51 x 37&quot; oil painting on fabric, depicting a mother and child out in a boat at sea.</dc:description>
+<dc:creator>Haquette, Georges-Jean-Marie</dc:creator>
+<dc:subject>Oil painting; Fishers&#x27; spouses</dc:subject>
+<dc:subject>Arts &amp; Entertainment</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:source>Oil on fabric, 51 x 37&quot;</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>jplpaint031</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Historic Paintings at James Prendergast Library</dc:relation>
+<dc:rights>This digital object is the intellectual property of the James Prendergast Library. It may be used for educational and non-commercial purposes, so long as it is cited and not altered. The James Prendergast Library reserves the right to decide what constitutes educational and commercial use. To obtain a copy of this image contact the James Prendergast Library Association, 509 Cherry St, Jamestown, NY 14701, (716)484-7135.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VXU/id/812</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VXU/813</identifier><datestamp>2013-02-15</datestamp><setSpec>VXU</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Cattle</dc:title>
+<dc:description>This is a 23 x 29&quot; oil painting on fabric, depicting cows in various positions.</dc:description>
+<dc:creator>Dieterle, Marie</dc:creator>
+<dc:subject>Oil painting; Cattle</dc:subject>
+<dc:subject>Arts &amp; Entertainment</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:source>Oil on fabric, 23 x 29&quot;</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>jplpaint032</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Historic Paintings at James Prendergast Library</dc:relation>
+<dc:rights>This digital object is the intellectual property of the James Prendergast Library. It may be used for educational and non-commercial purposes, so long as it is cited and not altered. The James Prendergast Library reserves the right to decide what constitutes educational and commercial use. To obtain a copy of this image contact the James Prendergast Library Association, 509 Cherry St, Jamestown, NY 14701, (716)484-7135.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VXU/id/813</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VXU/814</identifier><datestamp>2013-02-15</datestamp><setSpec>VXU</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Sleep, Baby, Sleep</dc:title>
+<dc:description>This is a 39 1/2 x 41 1/8&quot; oil painting on fabric, depicting an allegorical image of a mother watching her sleeping baby, which represents innocence and love.</dc:description>
+<dc:creator>Perrault, Leon Bazile</dc:creator>
+<dc:subject>Oil painting; Motherhood</dc:subject>
+<dc:subject>Arts &amp; Entertainment</dc:subject>
+<dc:date>1884</dc:date>
+<dc:source>Oil on fabric, 39 1/2 x 41 1/8&quot;</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>jplpaint033</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Historic Paintings at James Prendergast Library</dc:relation>
+<dc:rights>This digital object is the intellectual property of the James Prendergast Library. It may be used for educational and non-commercial purposes, so long as it is cited and not altered. The James Prendergast Library reserves the right to decide what constitutes educational and commercial use. To obtain a copy of this image contact the James Prendergast Library Association, 509 Cherry St, Jamestown, NY 14701, (716)484-7135.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VXU/id/814</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VXU/815</identifier><datestamp>2013-02-15</datestamp><setSpec>VXU</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Alexander Thompson Prendergast</dc:title>
+<dc:description>This is a 29 1/2 x 24 1/2&quot; oil painting on fabric, depicting  Alexander Thompson Prendergast (Father of James Prendergast Library Founder).</dc:description>
+<dc:creator>Huntington, Daniel</dc:creator>
+<dc:subject>Oil painting; Prendergast, Alexander Thompson</dc:subject>
+<dc:subject>Arts &amp; Entertainment</dc:subject>
+<dc:date>1887</dc:date>
+<dc:source>Oil on fabric, 29 1/2 x 24 1/2&quot;</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>jplpaint034</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Historic Paintings at James Prendergast Library</dc:relation>
+<dc:rights>This digital object is the intellectual property of the James Prendergast Library. It may be used for educational and non-commercial purposes, so long as it is cited and not altered. The James Prendergast Library reserves the right to decide what constitutes educational and commercial use. To obtain a copy of this image contact the James Prendergast Library Association, 509 Cherry St, Jamestown, NY 14701, (716)484-7135.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VXU/id/815</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VXU/816</identifier><datestamp>2013-02-15</datestamp><setSpec>VXU</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Mary Norton Prendergast</dc:title>
+<dc:description>This is a 29 1/2 x 24 1/2&quot; oil painting on fabric, depicting  Mary Norton Prendergast (Mother of James Prendergast Library Founder).</dc:description>
+<dc:creator>Huntington, Daniel</dc:creator>
+<dc:subject>Oil painting; Prendergast, Mary Norton</dc:subject>
+<dc:subject>Arts &amp; Entertainment</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:source>Oil on fabric, 29 1/2 x 24 1/2&quot;</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>jplpaint035</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Historic Paintings at James Prendergast Library</dc:relation>
+<dc:rights>This digital object is the intellectual property of the James Prendergast Library. It may be used for educational and non-commercial purposes, so long as it is cited and not altered. The James Prendergast Library reserves the right to decide what constitutes educational and commercial use. To obtain a copy of this image contact the James Prendergast Library Association, 509 Cherry St, Jamestown, NY 14701, (716)484-7135.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VXU/id/816</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VXU/817</identifier><datestamp>2013-02-15</datestamp><setSpec>VXU</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Portrait of James Prendergast at Eight</dc:title>
+<dc:description>This is a 35 x 45&quot; oil painting on fabric, depicting James Prendergast at  age eight.</dc:description>
+<dc:creator>Anonymous</dc:creator>
+<dc:subject>Oil painting; Prendergast, James, 1848-1879</dc:subject>
+<dc:subject>Arts &amp; Entertainment</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:source>Oil on fabric, 35 x 45&quot;</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>jplpaint036</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Historic Paintings at James Prendergast Library</dc:relation>
+<dc:rights>This digital object is the intellectual property of the James Prendergast Library. It may be used for educational and non-commercial purposes, so long as it is cited and not altered. The James Prendergast Library reserves the right to decide what constitutes educational and commercial use. To obtain a copy of this image contact the James Prendergast Library Association, 509 Cherry St, Jamestown, NY 14701, (716)484-7135.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VXU/id/817</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VXU/818</identifier><datestamp>2013-02-15</datestamp><setSpec>VXU</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Catherine Merritt Prendergast</dc:title>
+<dc:description>This is a 29 1/2 x 24 1/2&quot; oil painting on fabric, depicting  Catherine Merritt Prendergast (Sister of James Prendergast Library Founder).</dc:description>
+<dc:creator>Huntington, Daniel</dc:creator>
+<dc:subject>Oil painting; Prendergast, Catherine Merritt</dc:subject>
+<dc:subject>Arts &amp; Entertainment</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:source>Oil on fabric, 29 1/2 x 24 1/2&quot;</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>jplpaint037</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Historic Paintings at James Prendergast Library</dc:relation>
+<dc:rights>This digital object is the intellectual property of the James Prendergast Library. It may be used for educational and non-commercial purposes, so long as it is cited and not altered. The James Prendergast Library reserves the right to decide what constitutes educational and commercial use. To obtain a copy of this image contact the James Prendergast Library Association, 509 Cherry St, Jamestown, NY 14701, (716)484-7135.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VXU/id/818</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VXU/819</identifier><datestamp>2013-02-15</datestamp><setSpec>VXU</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Heirlooms and Relics of the Prendergast Family</dc:title>
+<dc:description>This is a 16 1/2 x 22 1/2&quot; oil painting on fabric, depicting a room filled with Prendergast Family artifacts.</dc:description>
+<dc:creator>Winsor, Helen A.</dc:creator>
+<dc:subject>Oil paintings; Visual arts--interior perspectives</dc:subject>
+<dc:subject>Arts &amp; Entertainment</dc:subject>
+<dc:date>1891</dc:date>
+<dc:source>Oil on fabric, 16 1/2 x 22 1/2&quot;&quot;</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>jplpaint039</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Historic Paintings at James Prendergast Library</dc:relation>
+<dc:rights>This digital object is the intellectual property of the James Prendergast Library. It may be used for educational and non-commercial purposes, so long as it is cited and not altered. The James Prendergast Library reserves the right to decide what constitutes educational and commercial use. To obtain a copy of this image contact the James Prendergast Library Association, 509 Cherry St, Jamestown, NY 14701, (716)484-7135.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VXU/id/819</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VXU/820</identifier><datestamp>2013-02-15</datestamp><setSpec>VXU</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>James Prendergast, Founder of Jamestown</dc:title>
+<dc:description>This is a 29 1/2 x 24 1/2&quot; oil painting on fabric, depicting  James Prendergast (Grandfather of James Prendergast Library Founder).</dc:description>
+<dc:creator>Huntington, Daniel</dc:creator>
+<dc:subject>Oil painting; Prendergast, James</dc:subject>
+<dc:subject>Arts &amp; Entertainment</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:source>Oil on fabric, 29 1/2 x 24 1/2&quot;</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>jplpaint040</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Historic Paintings at James Prendergast Library</dc:relation>
+<dc:rights>This digital object is the intellectual property of the James Prendergast Library. It may be used for educational and non-commercial purposes, so long as it is cited and not altered. The James Prendergast Library reserves the right to decide what constitutes educational and commercial use. To obtain a copy of this image contact the James Prendergast Library Association, 509 Cherry St, Jamestown, NY 14701, (716)484-7135.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VXU/id/820</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VXU/821</identifier><datestamp>2013-02-15</datestamp><setSpec>VXU</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Fruit</dc:title>
+<dc:description>This is a 8 3/4  x 11 3/8&quot; oil painting on fabric, depicting a still life of cut peaches, plums and filbert nuts.</dc:description>
+<dc:creator>Preyer, Emilie</dc:creator>
+<dc:subject>Oil painting; Fruit</dc:subject>
+<dc:subject>Arts &amp; Entertainment</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:source>Oil on fabric, 8 3/4  x 11 3/8&quot;</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>jplpaint005</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Historic Paintings at James Prendergast Library</dc:relation>
+<dc:rights>This digital object is the intellectual property of the James Prendergast Library. It may be used for educational and non-commercial purposes, so long as it is cited and not altered. The James Prendergast Library reserves the right to decide what constitutes educational and commercial use. To obtain a copy of this image contact the James Prendergast Library Association, 509 Cherry St, Jamestown, NY 14701, (716)484-7135.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VXU/id/821</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VXU/822</identifier><datestamp>2013-02-15</datestamp><setSpec>VXU</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>James Prendergast, Founder of the Library</dc:title>
+<dc:description>This is a 90 1/2 x 54 1/2&quot; oil painting on fabric, depicting James Prendergast.</dc:description>
+<dc:creator>Huntington, Daniel</dc:creator>
+<dc:subject>Oil painting; Prendergast, James, 1848-1879</dc:subject>
+<dc:subject>Arts &amp; Entertainment</dc:subject>
+<dc:date>1881</dc:date>
+<dc:source>Oil on fabric, 90 1/2 x 54 1/2&quot;</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>jplpaint041</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Historic Paintings at James Prendergast Library</dc:relation>
+<dc:rights>This digital object is the intellectual property of the James Prendergast Library. It may be used for educational and non-commercial purposes, so long as it is cited and not altered. The James Prendergast Library reserves the right to decide what constitutes educational and commercial use. To obtain a copy of this image contact the James Prendergast Library Association, 509 Cherry St, Jamestown, NY 14701, (716)484-7135.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VXU/id/822</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VXU/823</identifier><datestamp>2013-02-15</datestamp><setSpec>VXU</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Reminiscences of the Late War</dc:title>
+<dc:description>This is a 17 3/4 x 23 3/4&quot; oil painting on wood panel, depicting soldiers in the Franco-Prussian War (1870-1871) resting by a campfire.</dc:description>
+<dc:creator>Berne-Bellecour, Etienne Prosper</dc:creator>
+<dc:subject>Oil painting; Soldiers</dc:subject>
+<dc:subject>Arts &amp; Entertainment</dc:subject>
+<dc:date>1885</dc:date>
+<dc:source>Oil on wood panel, 17 3/4 x 23 3/4&quot;</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>jplpaint042</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Historic Paintings at James Prendergast Library</dc:relation>
+<dc:rights>This digital object is the intellectual property of the James Prendergast Library. It may be used for educational and non-commercial purposes, so long as it is cited and not altered. The James Prendergast Library reserves the right to decide what constitutes educational and commercial use. To obtain a copy of this image contact the James Prendergast Library Association, 509 Cherry St, Jamestown, NY 14701, (716)484-7135.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VXU/id/823</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VXU/824</identifier><datestamp>2013-02-15</datestamp><setSpec>VXU</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Evening Star, The</dc:title>
+<dc:description>This is a 20 1/4 x 40 3/8&quot; oil painting on fabric, depicting an open ocean seascape.</dc:description>
+<dc:creator>Richards, William Trost</dc:creator>
+<dc:subject>Oil painting; Marine painting</dc:subject>
+<dc:subject>Arts &amp; Entertainment</dc:subject>
+<dc:date>1891</dc:date>
+<dc:source>Oil on fabric, 20 1/4 x 40 3/8&quot;&quot;</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>jplpaint038</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Historic Paintings at James Prendergast Library</dc:relation>
+<dc:rights>This digital object is the intellectual property of the James Prendergast Library. It may be used for educational and non-commercial purposes, so long as it is cited and not altered. The James Prendergast Library reserves the right to decide what constitutes educational and commercial use. To obtain a copy of this image contact the James Prendergast Library Association, 509 Cherry St, Jamestown, NY 14701, (716)484-7135.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VXU/id/824</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VXU/825</identifier><datestamp>2013-02-15</datestamp><setSpec>VXU</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Amusing News</dc:title>
+<dc:description>This is a 9 1/8 x 5 1/2&quot; oil painting on wood panel, depicting  a monk chuckling at the contents of a newspaper.</dc:description>
+<dc:creator>Humborg, Adolf</dc:creator>
+<dc:subject>Oil painting; Clergy</dc:subject>
+<dc:subject>Arts &amp; Entertainment</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:source>Oil on wood panel, 9 1/8 x 5 1/2&quot;</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>jplpaint006</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Historic Paintings at James Prendergast Library</dc:relation>
+<dc:rights>This digital object is the intellectual property of the James Prendergast Library. It may be used for educational and non-commercial purposes, so long as it is cited and not altered. The James Prendergast Library reserves the right to decide what constitutes educational and commercial use. To obtain a copy of this image contact the James Prendergast Library Association, 509 Cherry St, Jamestown, NY 14701, (716)484-7135.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VXU/id/825</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VXU/826</identifier><datestamp>2013-02-15</datestamp><setSpec>VXU</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Winter</dc:title>
+<dc:description>This is a 23 3/4 x 19 1/4&quot; oil painting on wood panel, depicting a woman looking out the window.</dc:description>
+<dc:creator>Stevens, Alfred</dc:creator>
+<dc:subject>Oil painting; Women</dc:subject>
+<dc:subject>Arts &amp; Entertainment</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:source>Oil on wood panel,  23 3/4 x 19 1/4&quot;</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>jplpaint007</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Historic Paintings at James Prendergast Library</dc:relation>
+<dc:rights>This digital object is the intellectual property of the James Prendergast Library. It may be used for educational and non-commercial purposes, so long as it is cited and not altered. The James Prendergast Library reserves the right to decide what constitutes educational and commercial use. To obtain a copy of this image contact the James Prendergast Library Association, 509 Cherry St, Jamestown, NY 14701, (716)484-7135.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VXU/id/826</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VXU/827</identifier><datestamp>2013-02-15</datestamp><setSpec>VXU</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Behind the Ramparts</dc:title>
+<dc:description>This is a 32 1/4 x 45 3/4&quot; oil painting on fabric, depicting children hiding behind their umbrella (rampart) from a snowball attack.</dc:description>
+<dc:creator>Kate, Johann Mari Henri ten</dc:creator>
+<dc:subject>Oil painting; Children</dc:subject>
+<dc:subject>Arts &amp; Entertainment</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:source>Oil on fabric, 32 1/4 x 45 3/4&quot;</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>jplpaint009</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Historic Paintings at James Prendergast Library</dc:relation>
+<dc:rights>This digital object is the intellectual property of the James Prendergast Library. It may be used for educational and non-commercial purposes, so long as it is cited and not altered. The James Prendergast Library reserves the right to decide what constitutes educational and commercial use. To obtain a copy of this image contact the James Prendergast Library Association, 509 Cherry St, Jamestown, NY 14701, (716)484-7135.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VXU/id/827</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VXU/828</identifier><datestamp>2013-02-15</datestamp><setSpec>VXU</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Unidentified</dc:title>
+<dc:description>This is a 31 1/2 x 37 1/4&quot; oil painting depicting children and angels, reminiscent of Jesus carrying the cross.</dc:description>
+<dc:creator>Anonymous</dc:creator>
+<dc:subject>Oil painting; Children</dc:subject>
+<dc:subject>Arts &amp; Entertainment</dc:subject>
+<dc:date>Unknown</dc:date>
+<dc:source>Oil, 31 1/2 x 37 1/4&quot;</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>jplpaint010</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Historic Paintings at James Prendergast Library</dc:relation>
+<dc:rights>This digital object is the intellectual property of the James Prendergast Library. It may be used for educational and non-commercial purposes, so long as it is cited and not altered. The James Prendergast Library reserves the right to decide what constitutes educational and commercial use. To obtain a copy of this image contact the James Prendergast Library Association, 509 Cherry St, Jamestown, NY 14701, (716)484-7135.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VXU/id/828</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VXU/829</identifier><datestamp>2013-02-15</datestamp><setSpec>VXU</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Fatima</dc:title>
+<dc:description>This is a 21 3/4 x 18&quot; oil painting on fabric, depicting an exotically dressed female.</dc:description>
+<dc:creator>Lefebvre, Jules Joseph</dc:creator>
+<dc:subject>Oil painting; Women</dc:subject>
+<dc:subject>Arts &amp; Entertainment</dc:subject>
+<dc:date>1883</dc:date>
+<dc:source>Oil on fabric, 21 3/4 x 18&quot;</dc:source>
+<dc:type>Image</dc:type>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>jplpaint011</dc:identifier>
+<dc:publisher>UB LIS563 Digital Libraries Class</dc:publisher>
+<dc:relation>Historic Paintings at James Prendergast Library</dc:relation>
+<dc:rights>This digital object is the intellectual property of the James Prendergast Library. It may be used for educational and non-commercial purposes, so long as it is cited and not altered. The James Prendergast Library reserves the right to decide what constitutes educational and commercial use. To obtain a copy of this image contact the James Prendergast Library Association, 509 Cherry St, Jamestown, NY 14701, (716)484-7135.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VXU/id/829</dc:identifier></oai_dc:dc>
+</metadata>
+</record><resumptionToken /></ListRecords></OAI-PMH>
