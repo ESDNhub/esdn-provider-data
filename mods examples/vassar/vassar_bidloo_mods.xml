@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2015-06-16T19:32:24Z</responseDate><request>http://digitallibrary.vassar.edu/oai2</request><ListRecords><record><header><identifier>oai:vassar:vassar_25503</identifier><datestamp>2015-06-01T14:29:18Z</datestamp><setSpec>vassar_bidloo</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Vassar's Millionth Volume</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>Anatomia humani corporis, centum &amp; quinque tabulis</title>
+    <subTitle>per artificiosiss. G. de Lairesse ad vivum delineatis, demonstrata, veterum recentiorumque inventis ex</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Bidloo, Govard, 1649-1713</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Lairesse, Gérard de, 1640-1711</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">illustrator</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Blooteling, Abraham, 1640-1690</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">engraver</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Rieux, Gabriel Bernard, comte de.</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">former owner</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Beekman, Fenwick, 1882-1962</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">former owner</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Rutkow, Ira M.</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">former owner</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text, mixed material</typeOfResource>
+  <genre authority="marcgt">book</genre>
+  <originInfo>
+    <publisher>Sumptibus viduae Joannis à Someren, haeredum Joannis à Dyk, Henrici &amp; viduae Theodori Boom </publisher>
+    <dateOther>MDCLXXXV [1685] </dateOther>
+    <dateCreated authority="w3cdtf" point="start">1685-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1685-12-31T23:59:59Z</dateCreated>
+    <place>
+      <placeTerm type="text">Amstelodami</placeTerm>
+    </place>
+  </originInfo>
+  <abstract>Grille copy: bound in contemporary maroon morocco gilt with gilt coat-of-arms of Gabriel Bernard De Rieux, with decorated endpapers; damage to leaf Gg resulting in loss of signature mark; Bookplate (motto: Mens conscia recti): Ex libris Fenwick Beekman; two signatures in pencil on back flyleaf: Rutkow, DJ [?] Edell</abstract>
+  <identifier>Flat Folio QM25 .B47</identifier>
+  <physicalDescription>
+    <extent>[136] p., [1], 105 leaves of plates (1 folded) : ill. (engravings), port. ; 64 cm</extent>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <note>Added engraved title page: Godefridi Bidloo medicinae doctoris et chirurgi Anatomia humani corporis centum et quinque tabulis illustrata Includes engraved portrait of Bidloo, signed "G. Lairesse pinx. A. Blooteling sculp." Armillary sphere printer's device with motto "Indefessus agendo" on title page Descriptive letterpress facing each plate Signatures: *⁶ A-3Q1 Woodcut title vignette, initials, and tail-pieces.
+&lt;br /&gt;Note: in some cases, the blank verso of the plates are not images of
+the actual pages; instead, standard blank images were inserted in the
+digital copy to keep its pagination consistent with the physical
+volume.
+&lt;br /&gt;Note: Digitized images reflect the physical volume to the greatest extent possible, but in some cases may be adjusted briefly to provide the best digital copy possible (e.g., cropping).</note>
+  <subject>
+    <topic>Bidloo, Govard, 1649-1713. Anatomia humani corporis</topic>
+    <topic>Human anatomy -- Atlases</topic>
+    <topic>Human anatomy -- Early works to 1800 </topic>
+    <topic>Anatomy -- Early works to 1800</topic>
+  </subject>
+  <classification authority="lcc">QM25 .B47</classification>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A25503</identifier></mods></metadata></record></ListRecords></OAI-PMH>

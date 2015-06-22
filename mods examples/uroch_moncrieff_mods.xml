@@ -1,0 +1,920 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2015-06-10T15:28:32Z</responseDate><request>http://digitalcollections.lib.rochester.edu/oai2</request><ListRecords><record><header><identifier>oai:digital.collection.lib.rochester.edu:islandora_2378</identifier><datestamp>2015-04-21T21:06:38Z</datestamp><setSpec>islandora_2377</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <identifier type="job">16</identifier>
+          <location>
+            <physicalLocation>University of Rochester, Rare Books, Special Collections &amp;amp; Preservation Department</physicalLocation>
+            <shelfLocator>D.15</shelfLocator>
+          </location>
+          <titleInfo>
+            <title>Letter from Moncrieff to Elliston, 1824</title>
+          </titleInfo>
+          <relatedItem type="host">
+            <titleInfo>
+              <title>William Thomas Moncrieff Papers</title>
+            </titleInfo>
+          </relatedItem>
+          <originInfo>
+            <dateCreated encoding="w3cdtf" keyDate="yes">1824</dateCreated>
+            <dateIssued encoding="w3cdtf" keyDate="yes">1824</dateIssued>
+          </originInfo>
+          <name type="personal">
+            <namePart>Moncrieff, W. T. (William Thomas), 1794-1857</namePart>
+            <role>
+              <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+            </role>
+          </name>
+          <language>
+            <languageTerm type="text">English</languageTerm>
+          </language>
+          <name>
+            <namePart>Elliston, R. W. (Robert William), 1774-1831</namePart>
+            <role>
+              <roleTerm authority="marcrelator" type="text">Addressee</roleTerm>
+            </role>
+          </name>
+          <genre authority="gmgpc">Correspondence</genre>
+          <physicalDescription>
+            <form authority="marcform">electronic</form>
+            <internetMediaType>image/tiff</internetMediaType>
+            <extent>4 pages</extent>
+          </physicalDescription>
+          <typeOfResource>text</typeOfResource>
+          <recordInfo>
+            <recordContentSource>University of Rochester, River Campus Libraries</recordContentSource>
+            <languageOfCataloging>
+              <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            </languageOfCataloging>
+          </recordInfo>
+          <accessCondition>For reproduction and permission information, see http://www.library.rochester.edu/copyright</accessCondition>
+        <identifier>http://digitalcollections.lib.rochester.edu/islandora/object/islandora%3A2378</identifier></mods></metadata></record><record><header><identifier>oai:digital.collection.lib.rochester.edu:islandora_2383</identifier><datestamp>2015-04-21T21:08:07Z</datestamp><setSpec>islandora_2377</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <identifier type="job">16</identifier>
+          <location>
+            <physicalLocation>University of Rochester, Rare Books, Special Collections &amp;amp; Preservation Department</physicalLocation>
+            <shelfLocator>D.15</shelfLocator>
+          </location>
+          <titleInfo>
+            <title>Letter from Moncrieff to Winston, 1842</title>
+          </titleInfo>
+          <relatedItem type="host">
+            <titleInfo>
+              <title>William Thomas Moncrieff Papers</title>
+            </titleInfo>
+          </relatedItem>
+          <originInfo>
+            <dateCreated encoding="w3cdtf" keyDate="yes">1842-07-04</dateCreated>
+            <dateIssued encoding="w3cdtf" keyDate="yes">1842-07-04</dateIssued>
+          </originInfo>
+          <name type="personal">
+            <namePart>Moncrieff, W. T. (William Thomas), 1794-1857</namePart>
+            <role>
+              <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+            </role>
+          </name>
+          <language>
+            <languageTerm type="text">English</languageTerm>
+          </language>
+          <name>
+            <namePart>Winston, James, 1773-1843</namePart>
+            <role>
+              <roleTerm authority="marcrelator" type="text">Addressee</roleTerm>
+            </role>
+          </name>
+          <genre authority="gmgpc">Correspondence</genre>
+          <physicalDescription>
+            <form authority="marcform">electronic</form>
+            <internetMediaType>image/tiff</internetMediaType>
+            <extent>4 pages</extent>
+          </physicalDescription>
+          <typeOfResource>text</typeOfResource>
+          <recordInfo>
+            <recordContentSource>University of Rochester, River Campus Libraries</recordContentSource>
+            <languageOfCataloging>
+              <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            </languageOfCataloging>
+          </recordInfo>
+          <accessCondition>For reproduction and permission information, see http://www.library.rochester.edu/copyright</accessCondition>
+        <identifier>http://digitalcollections.lib.rochester.edu/islandora/object/islandora%3A2383</identifier></mods></metadata></record><record><header><identifier>oai:digital.collection.lib.rochester.edu:islandora_2388</identifier><datestamp>2015-04-21T21:09:11Z</datestamp><setSpec>islandora_2377</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <identifier type="job">16</identifier>
+          <location>
+            <physicalLocation>University of Rochester, Rare Books, Special Collections &amp;amp; Preservation Department</physicalLocation>
+            <shelfLocator>D.15</shelfLocator>
+          </location>
+          <titleInfo>
+            <title>Letter from Moncrieff, 1850</title>
+          </titleInfo>
+          <relatedItem type="host">
+            <titleInfo>
+              <title>William Thomas Moncrieff Papers</title>
+            </titleInfo>
+          </relatedItem>
+          <originInfo>
+            <dateCreated encoding="w3cdtf" keyDate="yes">1850-08-21</dateCreated>
+            <dateIssued encoding="w3cdtf" keyDate="yes">1850-08-21</dateIssued>
+          </originInfo>
+          <name type="personal">
+            <namePart>Moncrieff, W. T. (William Thomas), 1794-1857</namePart>
+            <role>
+              <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+            </role>
+          </name>
+          <language>
+            <languageTerm type="text">English</languageTerm>
+          </language>
+          <genre authority="gmgpc">Correspondence</genre>
+          <physicalDescription>
+            <form authority="marcform">electronic</form>
+            <internetMediaType>image/tiff</internetMediaType>
+            <extent>4 pages</extent>
+          </physicalDescription>
+          <typeOfResource>text</typeOfResource>
+          <recordInfo>
+            <recordContentSource>University of Rochester, River Campus Libraries</recordContentSource>
+            <languageOfCataloging>
+              <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            </languageOfCataloging>
+          </recordInfo>
+          <accessCondition>For reproduction and permission information, see http://www.library.rochester.edu/copyright</accessCondition>
+        <identifier>http://digitalcollections.lib.rochester.edu/islandora/object/islandora%3A2388</identifier></mods></metadata></record><record><header><identifier>oai:digital.collection.lib.rochester.edu:islandora_2393</identifier><datestamp>2015-04-21T21:10:07Z</datestamp><setSpec>islandora_2377</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <identifier type="job">16</identifier>
+          <location>
+            <physicalLocation>University of Rochester, Rare Books, Special Collections &amp;amp; Preservation Department</physicalLocation>
+            <shelfLocator>D.15</shelfLocator>
+          </location>
+          <titleInfo>
+            <title>Letter from Moncrieff to Moore, 1829</title>
+          </titleInfo>
+          <relatedItem type="host">
+            <titleInfo>
+              <title>William Thomas Moncrieff Papers</title>
+            </titleInfo>
+          </relatedItem>
+          <originInfo>
+            <dateCreated encoding="w3cdtf" keyDate="yes">1829-12-18</dateCreated>
+            <dateIssued encoding="w3cdtf" keyDate="yes">1829-12-18</dateIssued>
+          </originInfo>
+          <name type="personal">
+            <namePart>Moncrieff, W. T. (William Thomas), 1794-1857</namePart>
+            <role>
+              <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+            </role>
+          </name>
+          <language>
+            <languageTerm type="text">English</languageTerm>
+          </language>
+          <name>
+            <namePart>Moore</namePart>
+            <role>
+              <roleTerm authority="marcrelator" type="text">Addressee</roleTerm>
+            </role>
+          </name>
+          <genre authority="gmgpc">Correspondence</genre>
+          <physicalDescription>
+            <form authority="marcform">electronic</form>
+            <internetMediaType>image/tiff</internetMediaType>
+            <extent>4 pages</extent>
+          </physicalDescription>
+          <typeOfResource>text</typeOfResource>
+          <recordInfo>
+            <recordContentSource>University of Rochester, River Campus Libraries</recordContentSource>
+            <languageOfCataloging>
+              <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            </languageOfCataloging>
+          </recordInfo>
+          <accessCondition>For reproduction and permission information, see http://www.library.rochester.edu/copyright</accessCondition>
+        <identifier>http://digitalcollections.lib.rochester.edu/islandora/object/islandora%3A2393</identifier></mods></metadata></record><record><header><identifier>oai:digital.collection.lib.rochester.edu:islandora_2398</identifier><datestamp>2015-04-21T21:11:16Z</datestamp><setSpec>islandora_2377</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <identifier type="job">16</identifier>
+          <location>
+            <physicalLocation>University of Rochester, Rare Books, Special Collections &amp;amp; Preservation Department</physicalLocation>
+            <shelfLocator>D.15</shelfLocator>
+          </location>
+          <titleInfo>
+            <title>Letter from Moncrieff to Elliston, 1821</title>
+          </titleInfo>
+          <relatedItem type="host">
+            <titleInfo>
+              <title>William Thomas Moncrieff Papers</title>
+            </titleInfo>
+          </relatedItem>
+          <originInfo>
+            <dateCreated encoding="w3cdtf" keyDate="yes">1821-01</dateCreated>
+            <dateIssued encoding="w3cdtf" keyDate="yes">1821-01</dateIssued>
+          </originInfo>
+          <name type="personal">
+            <namePart>Moncrieff, W. T. (William Thomas), 1794-1857</namePart>
+            <role>
+              <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+            </role>
+          </name>
+          <language>
+            <languageTerm type="text">English</languageTerm>
+          </language>
+          <name>
+            <namePart>Elliston, R. W. (Robert William), 1774-1831</namePart>
+            <role>
+              <roleTerm authority="marcrelator" type="text">Addressee</roleTerm>
+            </role>
+          </name>
+          <genre authority="gmgpc">Correspondence</genre>
+          <physicalDescription>
+            <form authority="marcform">electronic</form>
+            <internetMediaType>image/tiff</internetMediaType>
+            <extent>4 pages</extent>
+          </physicalDescription>
+          <typeOfResource>text</typeOfResource>
+          <recordInfo>
+            <recordContentSource>University of Rochester, River Campus Libraries</recordContentSource>
+            <languageOfCataloging>
+              <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            </languageOfCataloging>
+          </recordInfo>
+          <accessCondition>For reproduction and permission information, see http://www.library.rochester.edu/copyright</accessCondition>
+        <identifier>http://digitalcollections.lib.rochester.edu/islandora/object/islandora%3A2398</identifier></mods></metadata></record><record><header><identifier>oai:digital.collection.lib.rochester.edu:islandora_2403</identifier><datestamp>2015-04-21T21:12:18Z</datestamp><setSpec>islandora_2377</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <identifier type="job">16</identifier>
+          <location>
+            <physicalLocation>University of Rochester, Rare Books, Special Collections &amp;amp; Preservation Department</physicalLocation>
+            <shelfLocator>D.15</shelfLocator>
+          </location>
+          <titleInfo>
+            <title>Letter from Moncrieff, 1842</title>
+          </titleInfo>
+          <relatedItem type="host">
+            <titleInfo>
+              <title>William Thomas Moncrieff Papers</title>
+            </titleInfo>
+          </relatedItem>
+          <originInfo>
+            <dateCreated encoding="w3cdtf" keyDate="yes">1842-06-20</dateCreated>
+            <dateIssued encoding="w3cdtf" keyDate="yes">1842-06-20</dateIssued>
+          </originInfo>
+          <name type="personal">
+            <namePart>Moncrieff, W. T. (William Thomas), 1794-1857</namePart>
+            <role>
+              <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+            </role>
+          </name>
+          <language>
+            <languageTerm type="text">English</languageTerm>
+          </language>
+          <genre authority="gmgpc">Correspondence</genre>
+          <physicalDescription>
+            <form authority="marcform">electronic</form>
+            <internetMediaType>image/tiff</internetMediaType>
+            <extent>4 pages</extent>
+          </physicalDescription>
+          <typeOfResource>text</typeOfResource>
+          <recordInfo>
+            <recordContentSource>University of Rochester, River Campus Libraries</recordContentSource>
+            <languageOfCataloging>
+              <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            </languageOfCataloging>
+          </recordInfo>
+          <accessCondition>For reproduction and permission information, see http://www.library.rochester.edu/copyright</accessCondition>
+        <identifier>http://digitalcollections.lib.rochester.edu/islandora/object/islandora%3A2403</identifier></mods></metadata></record><record><header><identifier>oai:digital.collection.lib.rochester.edu:islandora_2408</identifier><datestamp>2015-04-21T21:13:54Z</datestamp><setSpec>islandora_2377</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <identifier type="job">16</identifier>
+          <location>
+            <physicalLocation>University of Rochester, Rare Books, Special Collections &amp;amp; Preservation Department</physicalLocation>
+            <shelfLocator>D.15</shelfLocator>
+          </location>
+          <titleInfo>
+            <title>Letter from Moncrieff to Elliston, 1821</title>
+          </titleInfo>
+          <relatedItem type="host">
+            <titleInfo>
+              <title>William Thomas Moncrieff Papers</title>
+            </titleInfo>
+          </relatedItem>
+          <originInfo>
+            <dateCreated encoding="w3cdtf" keyDate="yes">1821-01-08</dateCreated>
+            <dateIssued encoding="w3cdtf" keyDate="yes">1821-01-08</dateIssued>
+          </originInfo>
+          <name type="personal">
+            <namePart>Moncrieff, W. T. (William Thomas), 1794-1857</namePart>
+            <role>
+              <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+            </role>
+          </name>
+          <language>
+            <languageTerm type="text">English</languageTerm>
+          </language>
+          <name>
+            <namePart>Elliston, R. W. (Robert William), 1774-1831</namePart>
+            <role>
+              <roleTerm authority="marcrelator" type="text">Addressee</roleTerm>
+            </role>
+          </name>
+          <genre authority="gmgpc">Correspondence</genre>
+          <physicalDescription>
+            <form authority="marcform">electronic</form>
+            <internetMediaType>image/tiff</internetMediaType>
+            <extent>4 pages</extent>
+          </physicalDescription>
+          <typeOfResource>text</typeOfResource>
+          <recordInfo>
+            <recordContentSource>University of Rochester, River Campus Libraries</recordContentSource>
+            <languageOfCataloging>
+              <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            </languageOfCataloging>
+          </recordInfo>
+          <accessCondition>For reproduction and permission information, see http://www.library.rochester.edu/copyright</accessCondition>
+        <identifier>http://digitalcollections.lib.rochester.edu/islandora/object/islandora%3A2408</identifier></mods></metadata></record><record><header><identifier>oai:digital.collection.lib.rochester.edu:islandora_2413</identifier><datestamp>2015-04-21T21:14:42Z</datestamp><setSpec>islandora_2377</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <identifier type="job">16</identifier>
+          <location>
+            <physicalLocation>University of Rochester, Rare Books, Special Collections &amp;amp; Preservation Department</physicalLocation>
+            <shelfLocator>D.15</shelfLocator>
+          </location>
+          <titleInfo>
+            <title>Letter from Moncrieff to Westmacott, 1832</title>
+          </titleInfo>
+          <relatedItem type="host">
+            <titleInfo>
+              <title>William Thomas Moncrieff Papers</title>
+            </titleInfo>
+          </relatedItem>
+          <originInfo>
+            <dateCreated encoding="w3cdtf" keyDate="yes">1832-01-25</dateCreated>
+            <dateIssued encoding="w3cdtf" keyDate="yes">1832-01-25</dateIssued>
+          </originInfo>
+          <name type="personal">
+            <namePart>Moncrieff, W. T. (William Thomas), 1794-1857</namePart>
+            <role>
+              <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+            </role>
+          </name>
+          <language>
+            <languageTerm type="text">English</languageTerm>
+          </language>
+          <name>
+            <namePart>Westmacott, C. M. (Charles Molloy), 1787 or 1788-1868</namePart>
+            <role>
+              <roleTerm authority="marcrelator" type="text">Addressee</roleTerm>
+            </role>
+          </name>
+          <genre authority="gmgpc">Correspondence</genre>
+          <physicalDescription>
+            <form authority="marcform">electronic</form>
+            <internetMediaType>image/tiff</internetMediaType>
+            <extent>2 pages</extent>
+          </physicalDescription>
+          <typeOfResource>text</typeOfResource>
+          <recordInfo>
+            <recordContentSource>University of Rochester, River Campus Libraries</recordContentSource>
+            <languageOfCataloging>
+              <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            </languageOfCataloging>
+          </recordInfo>
+          <accessCondition>For reproduction and permission information, see http://www.library.rochester.edu/copyright</accessCondition>
+        <identifier>http://digitalcollections.lib.rochester.edu/islandora/object/islandora%3A2413</identifier></mods></metadata></record><record><header><identifier>oai:digital.collection.lib.rochester.edu:islandora_2416</identifier><datestamp>2015-04-21T21:15:17Z</datestamp><setSpec>islandora_2377</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <identifier type="job">16</identifier>
+          <location>
+            <physicalLocation>University of Rochester, Rare Books, Special Collections &amp;amp; Preservation Department</physicalLocation>
+            <shelfLocator>D.15</shelfLocator>
+          </location>
+          <titleInfo>
+            <title>Letter from Moncrieff, 1839</title>
+          </titleInfo>
+          <relatedItem type="host">
+            <titleInfo>
+              <title>William Thomas Moncrieff Papers</title>
+            </titleInfo>
+          </relatedItem>
+          <originInfo>
+            <dateCreated encoding="w3cdtf" keyDate="yes">1839-05-06</dateCreated>
+            <dateIssued encoding="w3cdtf" keyDate="yes">1839-05-06</dateIssued>
+          </originInfo>
+          <name type="personal">
+            <namePart>Moncrieff, W. T. (William Thomas), 1794-1857</namePart>
+            <role>
+              <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+            </role>
+          </name>
+          <language>
+            <languageTerm type="text">English</languageTerm>
+          </language>
+          <genre authority="gmgpc">Correspondence</genre>
+          <physicalDescription>
+            <form authority="marcform">electronic</form>
+            <internetMediaType>image/tiff</internetMediaType>
+            <extent>2 pages</extent>
+          </physicalDescription>
+          <typeOfResource>text</typeOfResource>
+          <recordInfo>
+            <recordContentSource>University of Rochester, River Campus Libraries</recordContentSource>
+            <languageOfCataloging>
+              <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            </languageOfCataloging>
+          </recordInfo>
+          <accessCondition>For reproduction and permission information, see http://www.library.rochester.edu/copyright</accessCondition>
+        <identifier>http://digitalcollections.lib.rochester.edu/islandora/object/islandora%3A2416</identifier></mods></metadata></record><record><header><identifier>oai:digital.collection.lib.rochester.edu:islandora_2419</identifier><datestamp>2015-04-21T21:15:58Z</datestamp><setSpec>islandora_2377</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <identifier type="job">16</identifier>
+          <location>
+            <physicalLocation>University of Rochester, Rare Books, Special Collections &amp;amp; Preservation Department</physicalLocation>
+            <shelfLocator>D.15</shelfLocator>
+          </location>
+          <titleInfo>
+            <title>Letter from Moncrieff to Davidge</title>
+          </titleInfo>
+          <relatedItem type="host">
+            <titleInfo>
+              <title>William Thomas Moncrieff Papers</title>
+            </titleInfo>
+          </relatedItem>
+          <name type="personal">
+            <namePart>Moncrieff, W. T. (William Thomas), 1794-1857</namePart>
+            <role>
+              <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+            </role>
+          </name>
+          <language>
+            <languageTerm type="text">English</languageTerm>
+          </language>
+          <name>
+            <namePart>Davidge, George B., 1793-1842</namePart>
+            <role>
+              <roleTerm authority="marcrelator" type="text">Addressee</roleTerm>
+            </role>
+          </name>
+          <genre authority="gmgpc">Correspondence</genre>
+          <physicalDescription>
+            <form authority="marcform">electronic</form>
+            <internetMediaType>image/tiff</internetMediaType>
+            <extent>2 pages</extent>
+          </physicalDescription>
+          <typeOfResource>text</typeOfResource>
+          <recordInfo>
+            <recordContentSource>University of Rochester, River Campus Libraries</recordContentSource>
+            <languageOfCataloging>
+              <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            </languageOfCataloging>
+          </recordInfo>
+          <accessCondition>For reproduction and permission information, see http://www.library.rochester.edu/copyright</accessCondition>
+        <identifier>http://digitalcollections.lib.rochester.edu/islandora/object/islandora%3A2419</identifier></mods></metadata></record><record><header><identifier>oai:digital.collection.lib.rochester.edu:islandora_2422</identifier><datestamp>2015-04-21T21:16:44Z</datestamp><setSpec>islandora_2377</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <identifier type="job">16</identifier>
+          <location>
+            <physicalLocation>University of Rochester, Rare Books, Special Collections &amp;amp; Preservation Department</physicalLocation>
+            <shelfLocator>D.15</shelfLocator>
+          </location>
+          <titleInfo>
+            <title>Letter from Moncrieff to Elliston, 1820</title>
+          </titleInfo>
+          <relatedItem type="host">
+            <titleInfo>
+              <title>William Thomas Moncrieff Papers</title>
+            </titleInfo>
+          </relatedItem>
+          <originInfo>
+            <dateCreated encoding="w3cdtf" keyDate="yes">1820-06-06</dateCreated>
+            <dateIssued encoding="w3cdtf" keyDate="yes">1820-06-06</dateIssued>
+          </originInfo>
+          <name type="personal">
+            <namePart>Moncrieff, W. T. (William Thomas), 1794-1857</namePart>
+            <role>
+              <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+            </role>
+          </name>
+          <language>
+            <languageTerm type="text">English</languageTerm>
+          </language>
+          <name>
+            <namePart>Elliston, R. W. (Robert William), 1774-1831</namePart>
+            <role>
+              <roleTerm authority="marcrelator" type="text">Addressee</roleTerm>
+            </role>
+          </name>
+          <genre authority="gmgpc">Correspondence</genre>
+          <physicalDescription>
+            <form authority="marcform">electronic</form>
+            <internetMediaType>image/tiff</internetMediaType>
+            <extent>3 pages</extent>
+          </physicalDescription>
+          <typeOfResource>text</typeOfResource>
+          <recordInfo>
+            <recordContentSource>University of Rochester, River Campus Libraries</recordContentSource>
+            <languageOfCataloging>
+              <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            </languageOfCataloging>
+          </recordInfo>
+          <accessCondition>For reproduction and permission information, see http://www.library.rochester.edu/copyright</accessCondition>
+        <identifier>http://digitalcollections.lib.rochester.edu/islandora/object/islandora%3A2422</identifier></mods></metadata></record><record><header><identifier>oai:digital.collection.lib.rochester.edu:islandora_2426</identifier><datestamp>2015-04-21T21:18:22Z</datestamp><setSpec>islandora_2377</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <identifier type="job">16</identifier>
+          <location>
+            <physicalLocation>University of Rochester, Rare Books, Special Collections &amp;amp; Preservation Department</physicalLocation>
+            <shelfLocator>D.15</shelfLocator>
+          </location>
+          <titleInfo>
+            <title>Letter from Moncrieff to Elliston, 1818</title>
+          </titleInfo>
+          <relatedItem type="host">
+            <titleInfo>
+              <title>William Thomas Moncrieff Papers</title>
+            </titleInfo>
+          </relatedItem>
+          <originInfo>
+            <dateCreated encoding="w3cdtf" keyDate="yes">1818</dateCreated>
+            <dateIssued encoding="w3cdtf" keyDate="yes">1818</dateIssued>
+          </originInfo>
+          <name type="personal">
+            <namePart>Moncrieff, W. T. (William Thomas), 1794-1857</namePart>
+            <role>
+              <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+            </role>
+          </name>
+          <language>
+            <languageTerm type="text">English</languageTerm>
+          </language>
+          <name>
+            <namePart>Elliston, R. W. (Robert William), 1774-1831</namePart>
+            <role>
+              <roleTerm authority="marcrelator" type="text">Addressee</roleTerm>
+            </role>
+          </name>
+          <genre authority="gmgpc">Correspondence</genre>
+          <physicalDescription>
+            <form authority="marcform">electronic</form>
+            <internetMediaType>image/tiff</internetMediaType>
+            <extent>4 pages</extent>
+          </physicalDescription>
+          <typeOfResource>text</typeOfResource>
+          <recordInfo>
+            <recordContentSource>University of Rochester, River Campus Libraries</recordContentSource>
+            <languageOfCataloging>
+              <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            </languageOfCataloging>
+          </recordInfo>
+          <accessCondition>For reproduction and permission information, see http://www.library.rochester.edu/copyright</accessCondition>
+        <identifier>http://digitalcollections.lib.rochester.edu/islandora/object/islandora%3A2426</identifier></mods></metadata></record><record><header><identifier>oai:digital.collection.lib.rochester.edu:islandora_2431</identifier><datestamp>2015-04-21T21:19:44Z</datestamp><setSpec>islandora_2377</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <identifier type="job">16</identifier>
+          <location>
+            <physicalLocation>University of Rochester, Rare Books, Special Collections &amp;amp; Preservation Department</physicalLocation>
+            <shelfLocator>D.15</shelfLocator>
+          </location>
+          <titleInfo>
+            <title>Letter from Moncrieff to Elliston, 1819</title>
+          </titleInfo>
+          <relatedItem type="host">
+            <titleInfo>
+              <title>William Thomas Moncrieff Papers</title>
+            </titleInfo>
+          </relatedItem>
+          <originInfo>
+            <dateCreated encoding="w3cdtf" keyDate="yes">1819-11-19</dateCreated>
+            <dateIssued encoding="w3cdtf" keyDate="yes">1819-11-19</dateIssued>
+          </originInfo>
+          <name type="personal">
+            <namePart>Moncrieff, W. T. (William Thomas), 1794-1857</namePart>
+            <role>
+              <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+            </role>
+          </name>
+          <language>
+            <languageTerm type="text">English</languageTerm>
+          </language>
+          <name>
+            <namePart>Elliston, R. W. (Robert William), 1774-1831</namePart>
+            <role>
+              <roleTerm authority="marcrelator" type="text">Addressee</roleTerm>
+            </role>
+          </name>
+          <genre authority="gmgpc">Correspondence</genre>
+          <physicalDescription>
+            <form authority="marcform">electronic</form>
+            <internetMediaType>image/tiff</internetMediaType>
+            <extent>4 pages</extent>
+          </physicalDescription>
+          <typeOfResource>text</typeOfResource>
+          <recordInfo>
+            <recordContentSource>University of Rochester, River Campus Libraries</recordContentSource>
+            <languageOfCataloging>
+              <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            </languageOfCataloging>
+          </recordInfo>
+          <accessCondition>For reproduction and permission information, see http://www.library.rochester.edu/copyright</accessCondition>
+        <identifier>http://digitalcollections.lib.rochester.edu/islandora/object/islandora%3A2431</identifier></mods></metadata></record><record><header><identifier>oai:digital.collection.lib.rochester.edu:islandora_2436</identifier><datestamp>2015-04-21T21:20:58Z</datestamp><setSpec>islandora_2377</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <identifier type="job">16</identifier>
+          <location>
+            <physicalLocation>University of Rochester, Rare Books, Special Collections &amp;amp; Preservation Department</physicalLocation>
+            <shelfLocator>D.15</shelfLocator>
+          </location>
+          <titleInfo>
+            <title>Letter from Moncrieff to Winston, 1825</title>
+          </titleInfo>
+          <relatedItem type="host">
+            <titleInfo>
+              <title>William Thomas Moncrieff Papers</title>
+            </titleInfo>
+          </relatedItem>
+          <originInfo>
+            <dateCreated encoding="w3cdtf" keyDate="yes">1825</dateCreated>
+            <dateIssued encoding="w3cdtf" keyDate="yes">1825</dateIssued>
+          </originInfo>
+          <name type="personal">
+            <namePart>Moncrieff, W. T. (William Thomas), 1794-1857</namePart>
+            <role>
+              <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+            </role>
+          </name>
+          <language>
+            <languageTerm type="text">English</languageTerm>
+          </language>
+          <name>
+            <namePart>Winston, James, 1773-1843</namePart>
+            <role>
+              <roleTerm authority="marcrelator" type="text">Addressee</roleTerm>
+            </role>
+          </name>
+          <genre authority="gmgpc">Correspondence</genre>
+          <physicalDescription>
+            <form authority="marcform">electronic</form>
+            <internetMediaType>image/tiff</internetMediaType>
+            <extent>4 pages</extent>
+          </physicalDescription>
+          <typeOfResource>text</typeOfResource>
+          <recordInfo>
+            <recordContentSource>University of Rochester, River Campus Libraries</recordContentSource>
+            <languageOfCataloging>
+              <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            </languageOfCataloging>
+          </recordInfo>
+          <accessCondition>For reproduction and permission information, see http://www.library.rochester.edu/copyright</accessCondition>
+        <identifier>http://digitalcollections.lib.rochester.edu/islandora/object/islandora%3A2436</identifier></mods></metadata></record><record><header><identifier>oai:digital.collection.lib.rochester.edu:islandora_2441</identifier><datestamp>2015-04-21T21:22:25Z</datestamp><setSpec>islandora_2377</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <identifier type="job">16</identifier>
+          <location>
+            <physicalLocation>University of Rochester, Rare Books, Special Collections &amp;amp; Preservation Department</physicalLocation>
+            <shelfLocator>D.15</shelfLocator>
+          </location>
+          <titleInfo>
+            <title>Letter from Moncrieff to Elliston, 1820</title>
+          </titleInfo>
+          <relatedItem type="host">
+            <titleInfo>
+              <title>William Thomas Moncrieff Papers</title>
+            </titleInfo>
+          </relatedItem>
+          <originInfo>
+            <dateCreated encoding="w3cdtf" keyDate="yes">1820-05</dateCreated>
+            <dateIssued encoding="w3cdtf" keyDate="yes">1820-05</dateIssued>
+          </originInfo>
+          <name type="personal">
+            <namePart>Moncrieff, W. T. (William Thomas), 1794-1857</namePart>
+            <role>
+              <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+            </role>
+          </name>
+          <language>
+            <languageTerm type="text">English</languageTerm>
+          </language>
+          <name>
+            <namePart>Elliston, R. W. (Robert William), 1774-1831</namePart>
+            <role>
+              <roleTerm authority="marcrelator" type="text">Addressee</roleTerm>
+            </role>
+          </name>
+          <genre authority="gmgpc">Correspondence</genre>
+          <physicalDescription>
+            <form authority="marcform">electronic</form>
+            <internetMediaType>image/tiff</internetMediaType>
+            <extent>4 pages</extent>
+          </physicalDescription>
+          <typeOfResource>text</typeOfResource>
+          <recordInfo>
+            <recordContentSource>University of Rochester, River Campus Libraries</recordContentSource>
+            <languageOfCataloging>
+              <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            </languageOfCataloging>
+          </recordInfo>
+          <accessCondition>For reproduction and permission information, see http://www.library.rochester.edu/copyright</accessCondition>
+        <identifier>http://digitalcollections.lib.rochester.edu/islandora/object/islandora%3A2441</identifier></mods></metadata></record><record><header><identifier>oai:digital.collection.lib.rochester.edu:islandora_2446</identifier><datestamp>2015-04-21T21:23:05Z</datestamp><setSpec>islandora_2377</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <identifier type="job">16</identifier>
+          <location>
+            <physicalLocation>University of Rochester, Rare Books, Special Collections &amp;amp; Preservation Department</physicalLocation>
+            <shelfLocator>D.15</shelfLocator>
+          </location>
+          <titleInfo>
+            <title>Letter from Moncrieff to Winston, 1824</title>
+          </titleInfo>
+          <relatedItem type="host">
+            <titleInfo>
+              <title>William Thomas Moncrieff Papers</title>
+            </titleInfo>
+          </relatedItem>
+          <originInfo>
+            <dateCreated encoding="w3cdtf" keyDate="yes">1824-06-08</dateCreated>
+            <dateIssued encoding="w3cdtf" keyDate="yes">1824-06-08</dateIssued>
+          </originInfo>
+          <name type="personal">
+            <namePart>Moncrieff, W. T. (William Thomas), 1794-1857</namePart>
+            <role>
+              <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+            </role>
+          </name>
+          <language>
+            <languageTerm type="text">English</languageTerm>
+          </language>
+          <name>
+            <namePart>Winston, James, 1773-1843</namePart>
+            <role>
+              <roleTerm authority="marcrelator" type="text">Addressee</roleTerm>
+            </role>
+          </name>
+          <genre authority="gmgpc">Correspondence</genre>
+          <physicalDescription>
+            <form authority="marcform">electronic</form>
+            <internetMediaType>image/tiff</internetMediaType>
+            <extent>2 pages</extent>
+          </physicalDescription>
+          <typeOfResource>text</typeOfResource>
+          <recordInfo>
+            <recordContentSource>University of Rochester, River Campus Libraries</recordContentSource>
+            <languageOfCataloging>
+              <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            </languageOfCataloging>
+          </recordInfo>
+          <accessCondition>For reproduction and permission information, see http://www.library.rochester.edu/copyright</accessCondition>
+        <identifier>http://digitalcollections.lib.rochester.edu/islandora/object/islandora%3A2446</identifier></mods></metadata></record><record><header><identifier>oai:digital.collection.lib.rochester.edu:islandora_2449</identifier><datestamp>2015-04-21T21:24:16Z</datestamp><setSpec>islandora_2377</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <identifier type="job">16</identifier>
+          <location>
+            <physicalLocation>University of Rochester, Rare Books, Special Collections &amp;amp; Preservation Department</physicalLocation>
+            <shelfLocator>D.15</shelfLocator>
+          </location>
+          <titleInfo>
+            <title>Letter from Moncrieff to Winston, 1825</title>
+          </titleInfo>
+          <relatedItem type="host">
+            <titleInfo>
+              <title>William Thomas Moncrieff Papers</title>
+            </titleInfo>
+          </relatedItem>
+          <originInfo>
+            <dateCreated encoding="w3cdtf" keyDate="yes">1825-10-21</dateCreated>
+            <dateIssued encoding="w3cdtf" keyDate="yes">1825-10-21</dateIssued>
+          </originInfo>
+          <name type="personal">
+            <namePart>Moncrieff, W. T. (William Thomas), 1794-1857</namePart>
+            <role>
+              <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+            </role>
+          </name>
+          <language>
+            <languageTerm type="text">English</languageTerm>
+          </language>
+          <name>
+            <namePart>Winston, James, 1773-1843</namePart>
+            <role>
+              <roleTerm authority="marcrelator" type="text">Addressee</roleTerm>
+            </role>
+          </name>
+          <genre authority="gmgpc">Correspondence</genre>
+          <physicalDescription>
+            <form authority="marcform">electronic</form>
+            <internetMediaType>image/tiff</internetMediaType>
+            <extent>4 pages</extent>
+          </physicalDescription>
+          <typeOfResource>text</typeOfResource>
+          <recordInfo>
+            <recordContentSource>University of Rochester, River Campus Libraries</recordContentSource>
+            <languageOfCataloging>
+              <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            </languageOfCataloging>
+          </recordInfo>
+          <accessCondition>For reproduction and permission information, see http://www.library.rochester.edu/copyright</accessCondition>
+        <identifier>http://digitalcollections.lib.rochester.edu/islandora/object/islandora%3A2449</identifier></mods></metadata></record><record><header><identifier>oai:digital.collection.lib.rochester.edu:islandora_2454</identifier><datestamp>2015-04-21T21:26:04Z</datestamp><setSpec>islandora_2377</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <identifier type="job">16</identifier>
+          <location>
+            <physicalLocation>University of Rochester, Rare Books, Special Collections &amp;amp; Preservation Department</physicalLocation>
+            <shelfLocator>D.15</shelfLocator>
+          </location>
+          <titleInfo>
+            <title>Letter from Moncrieff to Elliston, 1821</title>
+          </titleInfo>
+          <relatedItem type="host">
+            <titleInfo>
+              <title>William Thomas Moncrieff Papers</title>
+            </titleInfo>
+          </relatedItem>
+          <originInfo>
+            <dateCreated encoding="w3cdtf" keyDate="yes">1821-11-07</dateCreated>
+            <dateIssued encoding="w3cdtf" keyDate="yes">1821-11-07</dateIssued>
+          </originInfo>
+          <name type="personal">
+            <namePart>Moncrieff, W. T. (William Thomas), 1794-1857</namePart>
+            <role>
+              <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+            </role>
+          </name>
+          <language>
+            <languageTerm type="text">English</languageTerm>
+          </language>
+          <name>
+            <namePart>Elliston, R. W. (Robert William), 1774-1831</namePart>
+            <role>
+              <roleTerm authority="marcrelator" type="text">Addressee</roleTerm>
+            </role>
+          </name>
+          <genre authority="gmgpc">Correspondence</genre>
+          <physicalDescription>
+            <form authority="marcform">electronic</form>
+            <internetMediaType>image/tiff</internetMediaType>
+            <extent>6 pages</extent>
+          </physicalDescription>
+          <typeOfResource>text</typeOfResource>
+          <recordInfo>
+            <recordContentSource>University of Rochester, River Campus Libraries</recordContentSource>
+            <languageOfCataloging>
+              <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            </languageOfCataloging>
+          </recordInfo>
+          <accessCondition>For reproduction and permission information, see http://www.library.rochester.edu/copyright</accessCondition>
+        <identifier>http://digitalcollections.lib.rochester.edu/islandora/object/islandora%3A2454</identifier></mods></metadata></record><record><header><identifier>oai:digital.collection.lib.rochester.edu:islandora_2461</identifier><datestamp>2015-04-21T21:27:05Z</datestamp><setSpec>islandora_2377</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <identifier type="job">16</identifier>
+          <location>
+            <physicalLocation>University of Rochester, Rare Books, Special Collections &amp;amp; Preservation Department</physicalLocation>
+            <shelfLocator>D.15</shelfLocator>
+          </location>
+          <titleInfo>
+            <title>Letter from Moncrieff to Winston, 1825</title>
+          </titleInfo>
+          <relatedItem type="host">
+            <titleInfo>
+              <title>William Thomas Moncrieff Papers</title>
+            </titleInfo>
+          </relatedItem>
+          <originInfo>
+            <dateCreated encoding="w3cdtf" keyDate="yes">1825-10</dateCreated>
+            <dateIssued encoding="w3cdtf" keyDate="yes">1825-10</dateIssued>
+          </originInfo>
+          <name type="personal">
+            <namePart>Moncrieff, W. T. (William Thomas), 1794-1857</namePart>
+            <role>
+              <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+            </role>
+          </name>
+          <language>
+            <languageTerm type="text">English</languageTerm>
+          </language>
+          <name>
+            <namePart>Winston, James, 1773-1843</namePart>
+            <role>
+              <roleTerm authority="marcrelator" type="text">Addressee</roleTerm>
+            </role>
+          </name>
+          <genre authority="gmgpc">Correspondence</genre>
+          <physicalDescription>
+            <form authority="marcform">electronic</form>
+            <internetMediaType>image/tiff</internetMediaType>
+            <extent>4 pages</extent>
+          </physicalDescription>
+          <typeOfResource>text</typeOfResource>
+          <recordInfo>
+            <recordContentSource>University of Rochester, River Campus Libraries</recordContentSource>
+            <languageOfCataloging>
+              <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            </languageOfCataloging>
+          </recordInfo>
+          <accessCondition>For reproduction and permission information, see http://www.library.rochester.edu/copyright</accessCondition>
+        <identifier>http://digitalcollections.lib.rochester.edu/islandora/object/islandora%3A2461</identifier></mods></metadata></record><record><header><identifier>oai:digital.collection.lib.rochester.edu:islandora_2466</identifier><datestamp>2015-04-21T21:28:01Z</datestamp><setSpec>islandora_2377</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <identifier type="job">16</identifier>
+          <location>
+            <physicalLocation>University of Rochester, Rare Books, Special Collections &amp;amp; Preservation Department</physicalLocation>
+            <shelfLocator>D.15</shelfLocator>
+          </location>
+          <titleInfo>
+            <title>Letter from Moncrieff to Moore, 1829</title>
+          </titleInfo>
+          <relatedItem type="host">
+            <titleInfo>
+              <title>William Thomas Moncrieff Papers</title>
+            </titleInfo>
+          </relatedItem>
+          <originInfo>
+            <dateCreated encoding="w3cdtf" keyDate="yes">1829</dateCreated>
+            <dateIssued encoding="w3cdtf" keyDate="yes">1829</dateIssued>
+          </originInfo>
+          <name type="personal">
+            <namePart>Moncrieff, W. T. (William Thomas), 1794-1857</namePart>
+            <role>
+              <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+            </role>
+          </name>
+          <language>
+            <languageTerm type="text">English</languageTerm>
+          </language>
+          <name>
+            <namePart>Moore</namePart>
+            <role>
+              <roleTerm authority="marcrelator" type="text">Addressee</roleTerm>
+            </role>
+          </name>
+          <genre authority="gmgpc">Correspondence</genre>
+          <physicalDescription>
+            <form authority="marcform">electronic</form>
+            <internetMediaType>image/tiff</internetMediaType>
+            <extent>4 pages</extent>
+          </physicalDescription>
+          <typeOfResource>text</typeOfResource>
+          <recordInfo>
+            <recordContentSource>University of Rochester, River Campus Libraries</recordContentSource>
+            <languageOfCataloging>
+              <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            </languageOfCataloging>
+          </recordInfo>
+          <accessCondition>For reproduction and permission information, see http://www.library.rochester.edu/copyright</accessCondition>
+        <identifier>http://digitalcollections.lib.rochester.edu/islandora/object/islandora%3A2466</identifier></mods></metadata></record><resumptionToken expirationDate="2015-06-11T15:28:32Z" completeListSize="47" cursor="0">1770078661</resumptionToken></ListRecords></OAI-PMH>

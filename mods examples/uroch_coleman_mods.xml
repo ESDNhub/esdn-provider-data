@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2015-06-09T17:09:26Z</responseDate><request>http://digitalcollections.lib.rochester.edu/oai2</request><ListRecords><record><header><identifier>oai:digital.collection.lib.rochester.edu:islandora_2600</identifier><datestamp>2015-04-30T16:09:22Z</datestamp><setSpec>islandora_2599</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <identifier type="job">20</identifier>
+          <location>
+            <physicalLocation>University of Rochester, Rare Books, Special Collections &amp;amp; Preservation Department</physicalLocation>
+            <shelfLocator>A.H42 Box 2: Volume V</shelfLocator>
+          </location>
+          <titleInfo>
+            <title>Journal of Augustus G. Coleman, Volume V</title>
+          </titleInfo>
+          <relatedItem type="host">
+            <titleInfo>
+              <title>Hayes-Coleman Family Papers</title>
+            </titleInfo>
+          </relatedItem>
+          <originInfo>
+            <dateCreated encoding="marc" point="start">1856</dateCreated>
+          </originInfo>
+          <originInfo>
+            <dateCreated encoding="marc" point="end">1857</dateCreated>
+          </originInfo>
+          <name type="personal">
+            <namePart>Coleman, Augustus Graham</namePart>
+            <role>
+              <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+            </role>
+          </name>
+          <originInfo>
+            <place>
+              <placeTerm type="text">Canandaigua (N.Y.)</placeTerm>
+            </place>
+          </originInfo>
+          <language>
+            <languageTerm type="text">English</languageTerm>
+          </language>
+          <genre authority="gmgpc">Diaries</genre>
+          <subject>
+            <name type="personal">
+              <namePart>Coleman, Augustus Graham</namePart>
+            </name>
+          </subject>
+          <physicalDescription>
+            <form authority="marcform">electronic</form>
+            <internetMediaType>image/tiff</internetMediaType>
+            <extent>150 pages</extent>
+          </physicalDescription>
+          <typeOfResource>text</typeOfResource>
+          <recordInfo>
+            <recordContentSource>University of Rochester, River Campus Libraries</recordContentSource>
+            <languageOfCataloging>
+              <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            </languageOfCataloging>
+          </recordInfo>
+          <accessCondition>For reproduction and permission information, see http://www.library.rochester.edu/copyright</accessCondition>
+        <identifier>http://digitalcollections.lib.rochester.edu/islandora/object/islandora%3A2600</identifier></mods></metadata></record><record><header><identifier>oai:digital.collection.lib.rochester.edu:islandora_2988</identifier><datestamp>2015-04-30T18:42:25Z</datestamp><setSpec>islandora_2599</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+          <identifier type="job">20</identifier>
+          <location>
+            <physicalLocation>University of Rochester, Rare Books, Special Collections &amp;amp; Preservation Department</physicalLocation>
+            <shelfLocator>A.H42 Box 2: Volume I</shelfLocator>
+          </location>
+          <titleInfo>
+            <title>Journal of Augustus G. Coleman, Volume I</title>
+          </titleInfo>
+          <relatedItem type="host">
+            <titleInfo>
+              <title>Hayes-Coleman Family Papers</title>
+            </titleInfo>
+          </relatedItem>
+          <originInfo>
+            <dateCreated encoding="w3cdtf" keyDate="yes">1856</dateCreated>
+            <dateIssued encoding="w3cdtf" keyDate="yes">1856</dateIssued>
+          </originInfo>
+          <name type="personal">
+            <namePart>Coleman, Augustus Graham</namePart>
+            <role>
+              <roleTerm authority="marcrelator" type="text">Author</roleTerm>
+            </role>
+          </name>
+          <originInfo>
+            <place>
+              <placeTerm type="text">Canandaigua (N.Y.)</placeTerm>
+            </place>
+          </originInfo>
+          <language>
+            <languageTerm type="text">English</languageTerm>
+          </language>
+          <genre authority="gmgpc">Diaries</genre>
+          <subject>
+            <name type="personal">
+              <namePart>Coleman, Augustus Graham</namePart>
+            </name>
+          </subject>
+          <physicalDescription>
+            <form authority="marcform">electronic</form>
+            <internetMediaType>image/tiff</internetMediaType>
+            <extent>236 pages</extent>
+          </physicalDescription>
+          <typeOfResource>text</typeOfResource>
+          <recordInfo>
+            <recordContentSource>University of Rochester, River Campus Libraries</recordContentSource>
+            <languageOfCataloging>
+              <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+            </languageOfCataloging>
+          </recordInfo>
+          <accessCondition>For reproduction and permission information, see http://www.library.rochester.edu/copyright</accessCondition>
+        <identifier>http://digitalcollections.lib.rochester.edu/islandora/object/islandora%3A2988</identifier></mods></metadata></record></ListRecords></OAI-PMH>
