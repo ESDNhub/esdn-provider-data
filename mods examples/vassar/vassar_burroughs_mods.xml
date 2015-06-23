@@ -1,0 +1,1038 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2015-06-23T13:13:06Z</responseDate><request>http://digitallibrary.vassar.edu/oai2</request><ListRecords><record><header><identifier>oai:vassar:vassar_19779</identifier><datestamp>2015-06-01T14:27:55Z</datestamp><setSpec>vassar_burroughs</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>John Burroughs Journals</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>John Burroughs Journal, 1883</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Burroughs, John, 1837-1921</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <publisher>Vassar College Libraries</publisher>
+    <dateOther>January-October 1883</dateOther>
+    <dateCreated authority="w3cdtf" point="start">1883-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1883-10-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>Subjects of particular note in this journal include Burroughs' visit with Walt Whitman on the New Jersey shore at Ocean Grove; as well as his thoughts about the writings of Charles Darwin, Thomas Carlyle, and Ralph Waldo Emerson</abstract>
+  <identifier>vc.burroughs.02-03</identifier>
+  <physicalDescription>
+    <extent>1 volume, 20 x 14 cm.</extent>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <note>The transcripts, originally made by Clara Barrus and Elizabeth Burroughs Kelley, should be viewed as a map to the original. Due to the difficulty of interpreting handwriting, complete accuracy of the transcripts cannot be ensured. </note>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>John Burroughs Papers (http://specialcollections.vassar.edu/findingaids/burroughs_john.html)</title>
+    </titleInfo>
+  </relatedItem>
+  <subject>
+    <topic>Whitman, Walt, 1819-1892</topic>
+    <topic>Literature</topic>
+    <topic>Natural history</topic>
+    <topic>Philosophy</topic>
+    <topic>Burroughs, John, 1837-1921</topic>
+    <topic>Burroughs, Ursula North</topic>
+    <topic>Burroughs, Julian, 1897-</topic>
+  </subject>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A19779</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_31297</identifier><datestamp>2015-06-01T14:27:56Z</datestamp><setSpec>vassar_burroughs</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>John Burroughs Journals</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>John Burroughs Journal, 1896-1897</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Burroughs, John, 1837-1921</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <publisher>Vassar College Libraries</publisher>
+    <dateOther>September 9, 1896 - May 27, 1897</dateOther>
+    <dateCreated authority="w3cdtf" point="start">1896-09-09T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1897-05-27T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier>burroughs_03-09</identifier>
+  <physicalDescription>
+    <extent>1 volume; 68 p.</extent>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <note>The transcripts should be viewed as a map to the original. Due to the difficulty of interpreting handwriting, complete accuracy of the transcripts cannot be ensured. </note>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>John Burroughs Papers (http://specialcollections.vassar.edu/findingaids/burroughs_john.html)</title>
+    </titleInfo>
+  </relatedItem>
+  <subject>
+    <topic>Burroughs, John, 1837-1921</topic>
+    <topic>Literature</topic>
+    <topic>Natural history</topic>
+    <topic>Philosophy</topic>
+  </subject>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A31297</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_19788</identifier><datestamp>2015-06-01T14:27:56Z</datestamp><setSpec>vassar_burroughs</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>John Burroughs Journals</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>John Burroughs Journal, 1883-1884</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Burroughs, John, 1837-1921</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <publisher>Vassar College Libraries</publisher>
+    <dateOther>1884</dateOther>
+    <dateCreated authority="w3cdtf" point="start">1883-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1884-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>This journal includes Burroughs' usual musings on nature as well as notes on authors he was reading, particularly Thomas Carlyle and Ralph Waldo Emerson. There are also long passages about his father, who died in January 1884, accompanied by a brief family history. </abstract>
+  <identifier>vc.burroughs.02-04</identifier>
+  <physicalDescription>
+    <extent>1 volume, 20 x 12.5 cm. </extent>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>John Burroughs Papers (http://specialcollections.vassar.edu/findingaids/burroughs_john.html)</title>
+    </titleInfo>
+  </relatedItem>
+  <subject>
+    <topic>Burroughs, Julian, 1897-</topic>
+    <topic>Literature</topic>
+    <topic>Natural history</topic>
+    <topic>Philosophy</topic>
+    <topic>Burroughs, John, 1837-1921</topic>
+    <topic>Burroughs, Ursula North</topic>
+  </subject>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A19788</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_31296</identifier><datestamp>2015-06-01T14:27:56Z</datestamp><setSpec>vassar_burroughs</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>John Burroughs Journals</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>John Burroughs Journal, 1894 (January - July)</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Burroughs, John, 1837-1921</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <publisher>Vassar College Libraries</publisher>
+    <dateOther>January 17, 1894 - July 24, 1894</dateOther>
+    <dateCreated authority="w3cdtf" point="start">1894-01-17T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1894-07-24T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier>burroughs_03-05</identifier>
+  <physicalDescription>
+    <extent>1 volume; 82 p.</extent>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <note>The transcripts should be viewed as a map to the original. Due to the difficulty of interpreting handwriting, complete accuracy of the transcripts cannot be ensured. </note>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>John Burroughs Papers (http://specialcollections.vassar.edu/findingaids/burroughs_john.html)</title>
+    </titleInfo>
+  </relatedItem>
+  <subject>
+    <topic>Burroughs, John, 1837-1921</topic>
+    <topic>Literature</topic>
+    <topic>Natural history</topic>
+    <topic>Philosophy</topic>
+  </subject>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A31296</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_21051</identifier><datestamp>2015-06-01T14:27:56Z</datestamp><setSpec>vassar_burroughs</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>John Burroughs Journals</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>John Burroughs Journal, 1894-1895</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Burroughs, John, 1837-1921</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <publisher>Vassar College Libraries</publisher>
+    <dateOther>July 25, 1894 - May 9, 1895</dateOther>
+    <dateCreated authority="w3cdtf" point="start">1894-07-25T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1894-05-09T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier>Burroughs_03-06</identifier>
+  <physicalDescription>
+    <extent>1 volume: 84 p.</extent>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>John Burroughs Papers (http://specialcollections.vassar.edu/findingaids/burroughs_john.html)</title>
+    </titleInfo>
+  </relatedItem>
+  <subject>
+    <topic>Burroughs, Julian, 1897-</topic>
+    <topic>Literature</topic>
+    <topic>Natural history</topic>
+    <topic>Philosophy</topic>
+    <topic>Burroughs, John, 1837-1921</topic>
+    <topic>Burroughs, Ursula North</topic>
+  </subject>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A21051</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_21052</identifier><datestamp>2015-06-01T14:27:57Z</datestamp><setSpec>vassar_burroughs</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>John Burroughs Journals</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>John Burroughs Journal, 1895-1896</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Burroughs, John, 1837-1921</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <publisher>Vassar College Libraries</publisher>
+    <dateOther>May 10, 1895 - May 27, 1896</dateOther>
+    <dateCreated authority="w3cdtf" point="start">1895-05-10T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1896-05-27T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier>Burroughs_03-07</identifier>
+  <physicalDescription>
+    <extent>1 volume: 97 p.</extent>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>John Burroughs Papers (http://specialcollections.vassar.edu/findingaids/burroughs_john.html)</title>
+    </titleInfo>
+  </relatedItem>
+  <subject>
+    <topic>Burroughs, Julian, 1897-</topic>
+    <topic>Literature</topic>
+    <topic>Natural history</topic>
+    <topic>Philosophy</topic>
+    <topic>Burroughs, John, 1837-1921</topic>
+    <topic>Burroughs, Ursula North</topic>
+  </subject>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A21052</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_22548</identifier><datestamp>2015-06-01T14:27:57Z</datestamp><setSpec>vassar_burroughs</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>John Burroughs Journals</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>John Burroughs Journal, 1893 (January - May)</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Burroughs, John, 1837-1921</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <publisher>Vassar College Archives and Special Collections</publisher>
+    <dateOther>1893 (January - May)</dateOther>
+    <dateCreated authority="w3cdtf" point="start">1893-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1893-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier>vc.burroughs.03-03</identifier>
+  <physicalDescription>
+    <extent>1 volume: 56 p. </extent>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>John Burroughs Papers (http://specialcollections.vassar.edu/findingaids/burroughs_john.html)</title>
+    </titleInfo>
+  </relatedItem>
+  <subject>
+    <topic>Burroughs, John, 1837-1921</topic>
+    <topic>Literature</topic>
+    <topic>Natural history</topic>
+    <topic>Philosophy</topic>
+  </subject>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A22548</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_19787</identifier><datestamp>2015-06-01T14:27:57Z</datestamp><setSpec>vassar_burroughs</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>John Burroughs Journals</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>John Burroughs Journal, 1884</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Burroughs, John, 1837-1921</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <publisher>Vassar College Libraries</publisher>
+    <dateOther>1884</dateOther>
+    <dateCreated authority="w3cdtf" point="start">1884-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1884-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>The time period covered in this journal was a fairly quiet period for Burroughs. He makes frequent reference to the death of his father, and later in the journal discusses faith and his thoughts on prayer and the Bible. </abstract>
+  <identifier>vc.burroughs.02-05</identifier>
+  <physicalDescription>
+    <extent>1 volume, 19.5 x 12 cm. </extent>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>John Burroughs Papers (http://specialcollections.vassar.edu/findingaids/burroughs_john.html)</title>
+    </titleInfo>
+  </relatedItem>
+  <subject>
+    <topic>Burroughs, Julian, 1897-</topic>
+    <topic>Literature</topic>
+    <topic>Natural history</topic>
+    <topic>Philosophy</topic>
+    <topic>Burroughs, John, 1837-1921</topic>
+    <topic>Burroughs, Ursula North</topic>
+  </subject>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A19787</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_19804</identifier><datestamp>2015-06-01T14:27:57Z</datestamp><setSpec>vassar_burroughs</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>John Burroughs Journals</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>John Burroughs Journal, 1891 (April-December)</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Burroughs, John, 1837-1921</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <publisher>Vassar College Libraries</publisher>
+    <dateOther>April 8, 1891 - December 29, 1891</dateOther>
+    <dateCreated authority="w3cdtf" point="start">1891-04-08T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1891-12-29T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier>vc.burroughs.02-17</identifier>
+  <physicalDescription>
+    <extent>1 volume, 63 p.</extent>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>John Burroughs Papers (http://specialcollections.vassar.edu/findingaids/burroughs_john.html)</title>
+    </titleInfo>
+  </relatedItem>
+  <subject>
+    <topic>Literature</topic>
+    <topic>Natural history</topic>
+    <topic>Philosophy</topic>
+    <topic>Burroughs, John, 1837-1921</topic>
+    <topic>Burroughs, Ursula North</topic>
+    <topic>Burroughs, Julian, 1897-</topic>
+  </subject>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A19804</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_19803</identifier><datestamp>2015-06-01T14:27:57Z</datestamp><setSpec>vassar_burroughs</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>John Burroughs Journals</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>John Burroughs Journal, 1885-1886</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Burroughs, John, 1837-1921</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <publisher>Vassar College Libraries</publisher>
+    <dateOther>1885-1886</dateOther>
+    <dateCreated authority="w3cdtf" point="start">1885-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1886-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>During the period covered in this journal, Burroughs published Fresh Fields (1885) and much of the journal relates to his writing and research. There is also a description of his visit with Walt Whitman in Philadelphia in December 1885. </abstract>
+  <identifier>vc.burroughs.02-07</identifier>
+  <physicalDescription>
+    <extent>1 volume, 20 x 12.5 cm. </extent>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <note>The transcripts, originally made by Clara Barrus and Elizabeth Burroughs Kelley, should be viewed as a map to the original. Due to the difficulty of interpreting handwriting, complete accuracy of the transcripts cannot be ensured. </note>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>John Burroughs Papers (http://specialcollections.vassar.edu/findingaids/burroughs_john.html)</title>
+    </titleInfo>
+  </relatedItem>
+  <subject>
+    <topic>Whitman, Walt, 1819-1892</topic>
+    <topic>Literature</topic>
+    <topic>Natural history</topic>
+    <topic>Philosophy</topic>
+    <topic>Burroughs, John, 1837-1921</topic>
+    <topic>Burroughs, Ursula North</topic>
+    <topic>Burroughs, Julian, 1897-</topic>
+  </subject>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A19803</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_19778</identifier><datestamp>2015-06-01T14:27:57Z</datestamp><setSpec>vassar_burroughs</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>John Burroughs Journals</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>John Burroughs Journal, 1880-1882</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Burroughs, John, 1837-1921</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <publisher>Vassar College Libraries</publisher>
+    <dateOther>1880-1882</dateOther>
+    <dateCreated authority="w3cdtf" point="start">1880-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1882-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>The period in Burrough' s life covered in this journal includes the death of his mother, the assassination of President Garfield, the passing of Ralph Waldo Emerson and the death of his favorite dog. He includes his usual reports on weather and nature, but also muses frequently on life and death. </abstract>
+  <identifier>vc.burroughs.02-02</identifier>
+  <physicalDescription>
+    <extent>1 volume, 17 x 12 cm. </extent>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <note>The transcripts, originally made by Clara Barrus and Elizabeth Burroughs Kelley, should be viewed as a map to the original. Due to the difficulty of interpreting handwriting, complete accuracy of the transcripts cannot be ensured. </note>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>John Burroughs Papers (http://specialcollections.vassar.edu/findingaids/burroughs_john.html)</title>
+    </titleInfo>
+  </relatedItem>
+  <subject>
+    <topic>Literature</topic>
+    <topic>Natural history</topic>
+    <topic>Philosophy</topic>
+    <topic>Burroughs, John, 1837-1921</topic>
+    <topic>Burroughs, Ursula North</topic>
+    <topic>Burroughs, Julian, 1897-</topic>
+  </subject>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A19778</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_19800</identifier><datestamp>2015-06-01T14:27:57Z</datestamp><setSpec>vassar_burroughs</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>John Burroughs Journals</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>John Burroughs Journal, 1887 (June - October)</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Burroughs, John, 1837-1921</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <publisher>Vassar College Libraries</publisher>
+    <dateOther>1887 (June-October)</dateOther>
+    <dateCreated authority="w3cdtf" point="start">1887-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1887-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>In this brief journal, Burroughs describes a summer visit with Walt Whitman. He also reminisces about his first experiences away from home. </abstract>
+  <identifier>vc.burroughs.02-11</identifier>
+  <physicalDescription>
+    <extent>1 volume, 20 x 12.5 cm. </extent>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <note>The transcripts, originally made by Clara Barrus and Elizabeth Burroughs Kelley, should be viewed as a map to the original. Due to the difficulty of interpreting handwriting, complete accuracy of the transcripts cannot be ensured. </note>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>John Burroughs Papers (http://specialcollections.vassar.edu/findingaids/burroughs_john.html)</title>
+    </titleInfo>
+  </relatedItem>
+  <subject>
+    <topic>Whitman, Walt, 1819-1892</topic>
+    <topic>Literature</topic>
+    <topic>Natural history</topic>
+    <topic>Philosophy</topic>
+    <topic>Burroughs, John, 1837-1921</topic>
+    <topic>Burroughs, Ursula North</topic>
+    <topic>Burroughs, Julian, 1897-</topic>
+  </subject>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A19800</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_19777</identifier><datestamp>2015-06-01T14:27:57Z</datestamp><setSpec>vassar_burroughs</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>John Burroughs Journals</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>John Burroughs Journal, 1876-1880</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Burroughs, John, 1837-1921</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <publisher>Vassar College Libraries</publisher>
+    <dateOther>1876-1880</dateOther>
+    <dateCreated authority="w3cdtf" point="start">1876-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1880-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>During the time period covered in this journal, Julian Burroughs was born (1878); Birds and Poets (1877) was published, as was Locusts and Wild Honey (1879). In addition to his regular comments on flora, fauna and weather, Burroughs also describes several visits with Walt Whitman and makes frequent mention of his concerns about his parent's health.</abstract>
+  <identifier>vc.burroughs.02-01</identifier>
+  <physicalDescription>
+    <extent>1 volume: 19 x 11.5 cm., 176 pages</extent>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <note>The transcripts, originally made by Clara Barrus and Elizabeth Burroughs Kelley, should be viewed as a map to the original. Due to the difficulty of interpreting handwriting, complete accuracy of the transcripts cannot be ensured.</note>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>John Burroughs Papers (http://specialcollections.vassar.edu/findingaids/burroughs_john.html)</title>
+    </titleInfo>
+  </relatedItem>
+  <subject>
+    <topic>Literature</topic>
+    <topic>Natural history</topic>
+    <topic>Philosophy</topic>
+    <topic>Burroughs, John, 1837-1921</topic>
+    <topic>Burroughs, Ursula North</topic>
+    <topic>Burroughs, Julian, 1897-</topic>
+    <topic>Whitman, Walt, 1819-1892</topic>
+  </subject>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A19777</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_22214</identifier><datestamp>2015-06-01T14:27:57Z</datestamp><setSpec>vassar_burroughs</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>John Burroughs Journals</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>John Burroughs Journal, 1888-1889</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Burroughs, John, 1837-1921</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <publisher>Vassar College Archives and Special Collections</publisher>
+    <dateOther>April 13, 1888 - March 4, 1889</dateOther>
+    <dateCreated authority="w3cdtf" point="start">1888-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1889-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier>vc.burroughs.02-13</identifier>
+  <physicalDescription>
+    <extent>1 volume: 65 p. </extent>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>John Burroughs Papers (http://specialcollections.vassar.edu/findingaids/burroughs_john.html)</title>
+    </titleInfo>
+  </relatedItem>
+  <subject>
+    <topic>Burroughs, John, 1837-1921</topic>
+    <topic>Literature</topic>
+    <topic>Natural history</topic>
+    <topic>Philosophy</topic>
+  </subject>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A22214</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_22547</identifier><datestamp>2015-06-01T14:27:57Z</datestamp><setSpec>vassar_burroughs</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>John Burroughs Journals</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>John Burroughs Journal, 1892 (August - December)</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Burroughs, John, 1837-1921</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <publisher>Vassar College Archives and Special Collections</publisher>
+    <dateOther>August 9, 1892 - December 31, 1892</dateOther>
+    <dateCreated authority="w3cdtf" point="start">1892-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1892-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier>vc.burroughs.03-02</identifier>
+  <physicalDescription>
+    <extent>1 volume: 42 p. </extent>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>John Burroughs Papers (http://specialcollections.vassar.edu/findingaids/burroughs_john.html)</title>
+    </titleInfo>
+  </relatedItem>
+  <subject>
+    <topic>Burroughs, John, 1837-1921</topic>
+    <topic>Literature</topic>
+    <topic>Natural history</topic>
+    <topic>Philosophy</topic>
+  </subject>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A22547</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_31797</identifier><datestamp>2015-06-01T14:27:58Z</datestamp><setSpec>vassar_burroughs</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>John Burroughs Journals</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>John Burroughs Journal, 1898 (April - October)</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Burroughs, John, 1837-1921</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <publisher>Vassar College Archives and Special Collections</publisher>
+    <dateOther>April 4, 1898 - October 31, 1898</dateOther>
+    <dateCreated authority="w3cdtf" point="start">1898-04-04T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1898-10-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier>burroughs_03-12</identifier>
+  <physicalDescription>
+    <extent>1 volume ; 48 p.</extent>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <note>The transcripts should be viewed as a map to the original. Due to the difficulty of interpreting handwriting, complete accuracy of the transcripts cannot be ensured. </note>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>John Burroughs Papers (http://specialcollections.vassar.edu/findingaids/burroughs_john.html)</title>
+    </titleInfo>
+  </relatedItem>
+  <subject>
+    <topic>Philosophy</topic>
+    <topic>Burroughs, John, 1837-1921</topic>
+    <topic>Literature</topic>
+    <topic>Natural history</topic>
+  </subject>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A31797</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_22549</identifier><datestamp>2015-06-01T14:27:58Z</datestamp><setSpec>vassar_burroughs</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>John Burroughs Journals</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>John Burroughs Journal, 1893-1894</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Burroughs, John, 1837-1921</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <publisher>Vassar College Archives and Special Collections</publisher>
+    <dateOther>May 11, 1893 - January 16, 1894</dateOther>
+    <dateCreated authority="w3cdtf" point="start">1893-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1894-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier>vc.burroughs.03-04</identifier>
+  <physicalDescription>
+    <extent>1 volume: 58 p. </extent>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>John Burroughs Papers (http://specialcollections.vassar.edu/findingaids/burroughs_john.html)</title>
+    </titleInfo>
+  </relatedItem>
+  <subject>
+    <topic>Burroughs, John, 1837-1921</topic>
+    <topic>Literature</topic>
+    <topic>Natural history</topic>
+    <topic>Philosophy</topic>
+  </subject>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A22549</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_22550</identifier><datestamp>2015-06-01T14:27:58Z</datestamp><setSpec>vassar_burroughs</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>John Burroughs Journals</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>John Burroughs Journal, 1892 (January - August)</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Burroughs, John, 1837-1921</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <publisher>Vassar College Archives and Special Collections</publisher>
+    <dateOther>1892 (January - October)</dateOther>
+    <dateCreated authority="w3cdtf" point="start">1892-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1892-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier>vc.burroughs.03-01</identifier>
+  <physicalDescription>
+    <extent>1 volume: 58 p. </extent>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>John Burroughs Papers (http://specialcollections.vassar.edu/findingaids/burroughs_john.html)</title>
+    </titleInfo>
+  </relatedItem>
+  <subject>
+    <topic>Burroughs, John, 1837-1921</topic>
+    <topic>Literature</topic>
+    <topic>Natural history</topic>
+    <topic>Philosophy</topic>
+  </subject>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A22550</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_19801</identifier><datestamp>2015-06-01T14:27:58Z</datestamp><setSpec>vassar_burroughs</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>John Burroughs Journals</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>John Burroughs Journal, 1886</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Burroughs, John, 1837-1921</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <publisher>Vassar College Libraries</publisher>
+    <dateOther>1886</dateOther>
+    <dateCreated authority="w3cdtf" point="start">1886-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1886-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>During the period covered in this journal, Burroughs published Fresh Fields (1885) and much of the journal relates to his writing and research. There is also a description of his visit with Walt Whitman in Philadelphia in December 1885. </abstract>
+  <identifier>vc.burroughs.02-08</identifier>
+  <physicalDescription>
+    <extent>1 volume, 20 x 12.5 cm. </extent>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <note>The transcripts, originally made by Clara Barrus and Elizabeth Burroughs Kelley, should be viewed as a map to the original. Due to the difficulty of interpreting handwriting, complete accuracy of the transcripts cannot be ensured. </note>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>John Burroughs Papers (http://specialcollections.vassar.edu/findingaids/burroughs_john.html)</title>
+    </titleInfo>
+  </relatedItem>
+  <subject>
+    <topic>Whitman, Walt, 1819-1892</topic>
+    <topic>Literature</topic>
+    <topic>Natural history</topic>
+    <topic>Philosophy</topic>
+    <topic>Burroughs, John, 1837-1921</topic>
+    <topic>Burroughs, Ursula North</topic>
+    <topic>Burroughs, Julian, 1897-</topic>
+  </subject>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A19801</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_22213</identifier><datestamp>2015-06-01T14:27:58Z</datestamp><setSpec>vassar_burroughs</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>John Burroughs Journals</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>John Burroughs Journal, 1889 (March - July)</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Burroughs, John, 1837-1921</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <publisher>Vassar College Archives and Special Collections</publisher>
+    <dateOther>March 5, 1889 - July 1, 1889</dateOther>
+    <dateCreated authority="w3cdtf" point="start">1889-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1889-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier>vc.burroughs.02-14</identifier>
+  <physicalDescription>
+    <extent>1 volume: 32 p.</extent>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <subject>
+    <topic>Burroughs, John, 1837-1921</topic>
+    <topic>Literature</topic>
+    <topic>Natural history</topic>
+    <topic>Philosophy</topic>
+  </subject>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A22213</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_22380</identifier><datestamp>2015-06-01T14:27:58Z</datestamp><setSpec>vassar_burroughs</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>John Burroughs Journals</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>John Burroughs Journal, 1890-1891</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Burroughs, John, 1837-1921</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <publisher>Vassar College Archives and Special Collections</publisher>
+    <dateOther>July 1, 1890 - April 6, 1891</dateOther>
+    <dateCreated authority="w3cdtf" point="start">1890-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1891-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier>vc.burroughs.02-16</identifier>
+  <physicalDescription>
+    <extent>1 volume: 66 p.</extent>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>John Burroughs Papers (http://specialcollections.vassar.edu/findingaids/burroughs_john.html)</title>
+    </titleInfo>
+  </relatedItem>
+  <subject>
+    <topic>Burroughs, John, 1837-1921</topic>
+    <topic>Literature</topic>
+    <topic>Natural history</topic>
+    <topic>Philosophy</topic>
+  </subject>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A22380</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_31299</identifier><datestamp>2015-06-01T14:27:58Z</datestamp><setSpec>vassar_burroughs</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>John Burroughs Journals</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>John Burroughs Journal, 1897-1898</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Burroughs, John, 1837-1921</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <publisher>Online collection published by Vassar College Libraries, Poughkeepsie, N.Y.</publisher>
+    <dateOther>October 1, 1897 - April 4, 1898</dateOther>
+    <dateCreated authority="w3cdtf" point="start">1897-10-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1898-04-04T23:59:59Z</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <extent>1 volume; 60 p.</extent>
+  </physicalDescription>
+  <identifier type="local">burroughs_03-11</identifier>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <subject>
+    <topic>Burroughs, John, 1837-1921</topic>
+    <topic>Literature</topic>
+    <topic>Natural history</topic>
+    <topic>Philosophy</topic>
+  </subject>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A31299</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_19799</identifier><datestamp>2015-06-01T14:27:58Z</datestamp><setSpec>vassar_burroughs</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>John Burroughs Journals</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>John Burroughs Journal, 1884-1885</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Burroughs, John, 1837-1921</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <publisher>Vassar College Libraries</publisher>
+    <dateOther>1884-1885</dateOther>
+    <dateCreated authority="w3cdtf" point="start">1884-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1885-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>During the period covered in this journal, Burroughs published Fresh Fields (1885) and much of the journal relates to his writing and research. There is also a description of his visit with Walt Whitman in Philadelphia in December 1885. </abstract>
+  <identifier>vc.burroughs.02-06</identifier>
+  <physicalDescription>
+    <extent>1 volume, 20 x 12.5 cm. </extent>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <note>The transcripts, originally made by Clara Barrus and Elizabeth Burroughs Kelley, should be viewed as a map to the original. Due to the difficulty of interpreting handwriting, complete accuracy of the transcripts cannot be ensured. </note>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>John Burroughs Papers (http://specialcollections.vassar.edu/findingaids/burroughs_john.html)</title>
+    </titleInfo>
+  </relatedItem>
+  <subject>
+    <topic>Whitman, Walt, 1819-1892</topic>
+    <topic>Literature</topic>
+    <topic>Natural history</topic>
+    <topic>Philosophy</topic>
+    <topic>Burroughs, John, 1837-1921</topic>
+    <topic>Burroughs, Ursula North</topic>
+    <topic>Burroughs, Julian, 1897-</topic>
+  </subject>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A19799</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_19798</identifier><datestamp>2015-06-01T14:27:58Z</datestamp><setSpec>vassar_burroughs</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>John Burroughs Journals</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>John Burroughs Journal, 1887 (January - June)</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Burroughs, John, 1837-1921</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <publisher>Vassar College Libraries</publisher>
+    <dateOther>January 11, 1887 - June 23, 1887</dateOther>
+    <dateCreated authority="w3cdtf" point="start">1887-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1887-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier>vc.burroughs.02-10</identifier>
+  <physicalDescription>
+    <extent>1 volume: 66 p.</extent>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <note>The transcripts, originally made by Clara Barrus and Elizabeth Burroughs Kelley, should be viewed as a map to the original. Due to the difficulty of interpreting handwriting, complete accuracy of the transcripts cannot be ensured. </note>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>John Burroughs Papers (http://specialcollections.vassar.edu/findingaids/burroughs_john.html)</title>
+    </titleInfo>
+  </relatedItem>
+  <subject>
+    <topic>Whitman, Walt, 1819-1892</topic>
+    <topic>Literature</topic>
+    <topic>Natural history</topic>
+    <topic>Philosophy</topic>
+    <topic>Burroughs, John, 1837-1921</topic>
+    <topic>Burroughs, Ursula North</topic>
+    <topic>Burroughs, Julian, 1897-</topic>
+  </subject>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A19798</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_32973</identifier><datestamp>2015-06-01T14:27:58Z</datestamp><setSpec>vassar_burroughs</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>John Burroughs Journals</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>John Burroughs Journal, 1898 Nov - 1899 Apr</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Burroughs, John, 1837-1921</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <publisher>Vassar College Libraries</publisher>
+    <dateOther>1 Nov 1898 - 2 Apr 1899</dateOther>
+    <dateCreated authority="w3cdtf" point="start">1898-11-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1899-04-01T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier>vc.burroughs.02-13</identifier>
+  <physicalDescription>
+    <extent>1 volume, 42 p.</extent>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <relatedItem>
+    <titleInfo>
+      <title>John Burroughs Papers</title>
+    </titleInfo>
+    <location>
+      <url>http://specialcollections.vassar.edu/findingaids/burroughs_john.html</url>
+    </location>
+  </relatedItem>
+  <subject>
+    <topic>Philosophy</topic>
+    <topic>Burroughs, John, 1837-1921</topic>
+    <topic>Burroughs, Ursula North</topic>
+    <topic>Burroughs, Julian</topic>
+    <topic>Literature</topic>
+    <topic>Natural history</topic>
+  </subject>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A32973</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_22379</identifier><datestamp>2015-06-01T14:27:58Z</datestamp><setSpec>vassar_burroughs</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>John Burroughs Journals</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>John Burroughs Journal, 1889-1890</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Burroughs, John, 1837-1921</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <publisher>Vassar College Archives and Special Collections</publisher>
+    <dateOther>July 1, 1889 - July 1, 1890</dateOther>
+    <dateCreated authority="w3cdtf" point="start">1889-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1890-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier>vc.burroughs.02-15</identifier>
+  <physicalDescription>
+    <extent>1 volume: 87 p.</extent>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>John Burroughs Papers (http://specialcollections.vassar.edu/findingaids/burroughs_john.html)</title>
+    </titleInfo>
+  </relatedItem>
+  <subject>
+    <topic>Burroughs, John, 1837-1921</topic>
+    <topic>Literature</topic>
+    <topic>Natural history</topic>
+    <topic>Philosophy</topic>
+  </subject>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A22379</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_21053</identifier><datestamp>2015-06-01T14:27:59Z</datestamp><setSpec>vassar_burroughs</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>John Burroughs Journals</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>John Burroughs Journal, 1896</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Burroughs, John, 1837-1921</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <publisher>Vassar College Libraries</publisher>
+    <dateOther>May 28, 1896 - September 6, 1896</dateOther>
+    <dateCreated authority="w3cdtf" point="start">1896-05-28T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1896-09-06T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier>Burroughs_03-08</identifier>
+  <physicalDescription>
+    <extent>1 volume: 31 p.</extent>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>John Burroughs Papers (http://specialcollections.vassar.edu/findingaids/burroughs_john.html)</title>
+    </titleInfo>
+  </relatedItem>
+  <subject>
+    <topic>Burroughs, Julian, 1897-</topic>
+    <topic>Literature</topic>
+    <topic>Natural history</topic>
+    <topic>Philosophy</topic>
+    <topic>Burroughs, John, 1837-1921</topic>
+    <topic>Burroughs, Ursula North</topic>
+  </subject>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A21053</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_22215</identifier><datestamp>2015-06-01T14:27:59Z</datestamp><setSpec>vassar_burroughs</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>John Burroughs Journals</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>John Burroughs Journal, 1887-1888</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Burroughs, John, 1837-1921</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <publisher>Vassar College Archives and Special Collections</publisher>
+    <dateOther>1887-1888</dateOther>
+    <dateCreated authority="w3cdtf" point="start">1887-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1888-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier>vc.burroughs.02-12</identifier>
+  <physicalDescription>
+    <extent>1 volume: 58 p. </extent>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>John Burroughs Papers (http://specialcollections.vassar.edu/findingaids/burroughs_john.html)</title>
+    </titleInfo>
+  </relatedItem>
+  <subject>
+    <topic>Burroughs, John, 1837-1921</topic>
+    <topic>Literature</topic>
+    <topic>Natural history</topic>
+    <topic>Philosophy</topic>
+  </subject>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A22215</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_19802</identifier><datestamp>2015-06-01T14:27:59Z</datestamp><setSpec>vassar_burroughs</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>John Burroughs Journals</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>John Burroughs Journal, 1886-1887</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Burroughs, John, 1837-1921</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <publisher>Vassar College Libraries</publisher>
+    <dateOther>1886-1887</dateOther>
+    <dateCreated authority="w3cdtf" point="start">1886-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1887-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>Burroughs focuses most of his musings on religion in this journal. </abstract>
+  <identifier>vc.burroughs.02-09</identifier>
+  <physicalDescription>
+    <extent>1 volume, 20 x 12.5 cm. </extent>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <note>The transcripts, originally made by Clara Barrus and Elizabeth Burroughs Kelley, should be viewed as a map to the original. Due to the difficulty of interpreting handwriting, complete accuracy of the transcripts cannot be ensured. </note>
+  <relatedItem type="original">
+    <titleInfo>
+      <title>John Burroughs Papers (http://specialcollections.vassar.edu/findingaids/burroughs_john.html)</title>
+    </titleInfo>
+  </relatedItem>
+  <subject>
+    <topic>Literature</topic>
+    <topic>Natural history</topic>
+    <topic>Philosophy</topic>
+    <topic>Burroughs, John, 1837-1921</topic>
+    <topic>Burroughs, Ursula North</topic>
+    <topic>Burroughs, Julian, 1897-</topic>
+  </subject>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A19802</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_31298</identifier><datestamp>2015-06-01T14:27:59Z</datestamp><setSpec>vassar_burroughs</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>John Burroughs Journals</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>John Burroughs Journal, 1897 (June - September)</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Burroughs, John, 1837-1921</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <publisher>Online collection published by Vassar College Libraries, Poughkeepsie, N.Y.</publisher>
+    <dateOther>June 1, 1897 - September 27, 1897</dateOther>
+    <dateCreated authority="w3cdtf" point="start">1897-06-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1897-09-27T23:59:59Z</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <extent>1 volume; 21 p.</extent>
+  </physicalDescription>
+  <identifier type="local">burroughs_03-10</identifier>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <subject>
+    <topic>Burroughs, John, 1837-1921</topic>
+    <topic>Literature</topic>
+    <topic>Natural history</topic>
+    <topic>Philosophy</topic>
+  </subject>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A31298</identifier></mods></metadata></record></ListRecords></OAI-PMH>

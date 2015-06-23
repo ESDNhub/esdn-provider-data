@@ -1,0 +1,1640 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2015-06-23T14:01:55Z</responseDate><request>http://digitallibrary.vassar.edu/oai2</request><ListRecords><record><header><identifier>oai:vassar:vassar_2771</identifier><datestamp>2015-06-01T14:28:09Z</datestamp><setSpec>vassar_diaries</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Student Diaries</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Raymond, Cornelia M.  Diary, 1903</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Raymond, Cornelia M.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <note>VC 1883</note>
+  <originInfo>
+    <publisher>Vassar College Archives and Special Collections </publisher>
+    <dateOther>1903</dateOther>
+    <dateCreated>1903</dateCreated>
+    <dateCreated authority="w3cdtf" point="start">1903-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1903-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier type="local">Box 127</identifier>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <physicalDescription>
+    <extent>Bound volume; aprox 396p; 6.75 x 4.25  inches; Iron gall ink on aged paper</extent>
+  </physicalDescription>
+  <subject>
+    <topic>Women college students--New York (State)--Poughkeepsie. </topic>
+    <topic>Women--Diaries. </topic>
+  </subject>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A2771</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_2796</identifier><datestamp>2015-06-01T14:28:09Z</datestamp><setSpec>vassar_diaries</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Student Diaries</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Elder, Lilla (Thomas).  Diary, 1866-1873</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Elder, Lilla (Thomas)</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <note>VC 1873</note>
+  <originInfo>
+    <publisher>Vassar College Archives and Special Collections</publisher>
+    <dateOther>1866-1873</dateOther>
+    <dateCreated>1866</dateCreated>
+    <dateCreated authority="w3cdtf" point="start">1866-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1873-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier type="local">Box 127</identifier>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <abstract>Lilla Thomas Elder's diary documents the years 1866-1873; however, the narrative does not develop chronologically on consecutive pages. An index is available below. The content of the diary includes Vassar events such as Matthew Vassar's death and how it changed Founder's Day celebrations, as well as routine activities, such as fluctuating relationships with classmates, room decoration, in-room eating "sprees", trips to the infirmary, and interactions with Dr. Alida Avery, Hannah Lyman, and her teachers. She wrote detailed descriptions of time at home in Hastings, N.Y., trips to New York City, and a summer in Shandaken in the Catskills. Vacations involved parlor games, rowing, riding, hiking, picnicking, and flirtations with young men. The diary ends with her thoughts on how her Vassar education developed her character but had a negative effect her romantic relationships with men. Index: May 1866 - May 1867 (p 6-36); Oct 1867 - Sep 1869 (p 49-56); Nov 1869 - Aug 1870 (p 60-81); Aug 1870 - June 1871 (p 86-115); May 1871 - May 1872 (p 155-186); Oct 1872 (p 44-45); Oct 1873 (p 46-48); poetry, correspondence, pressed flowers and other items can be found on the unlisted pages.</abstract>
+  <physicalDescription>
+    <extent>Bound volume; approx 189p; 9.25 x 7.75  inches; Iron gall ink on aged paper</extent>
+  </physicalDescription>
+  <subject>
+    <topic>Women college students--New York (State)--Poughkeepsie.</topic>
+    <topic>Women--Diaries.</topic>
+    <topic>Vassar College. Class of 1873.</topic>
+    <topic>Vassar College--Students.</topic>
+    <topic>Man-woman relationships.</topic>
+    <topic>Female friendship.</topic>
+    <geographic>Shandaken (N.Y. : Town)--History--Sources.</geographic>
+    <geographic>Hastings on Hudson (N.Y.)--History--Sources.</geographic>
+    <geographic>Catskill Mountains (N.Y.)--Description and travel.</geographic>
+  </subject>
+  <accessCondition type="use and reproduction">Prior written permission required to use any photograph from the Vassar College Libraries collections, http://specialcollections.vassar.edu.</accessCondition>
+  <subject authority="local">
+    <topic authority="local">Rites and ceremonies</topic>
+    <topic authority="local">Recreation.</topic>
+    <topic authority="local">Celebrations.</topic>
+    <topic authority="local">Dormitories.</topic>
+    <topic authority="local">Events.</topic>
+    <topic authority="local">Student activities.</topic>
+  </subject>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A2796</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_2783</identifier><datestamp>2015-06-01T14:28:09Z</datestamp><setSpec>vassar_diaries</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Student Diaries</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Raymond, Cornelia M.  Diary, 1905</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Raymond, Cornelia M.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <note>VC 1883</note>
+  <originInfo>
+    <publisher>Vassar College Archives and Special Collections </publisher>
+    <dateCreated>1905</dateCreated>
+    <dateOther>1905</dateOther>
+    <dateCreated authority="w3cdtf" point="start">1905-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1905-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier type="local">Box 127</identifier>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <physicalDescription>
+    <extent>Bound volume; aprox 451p; 6 x 3.25  inches; Iron gall ink on aged paper</extent>
+  </physicalDescription>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+    </hierarchicalGeographic>
+    <topic>Women college students--New York (State)--Poughkeepsie.</topic>
+    <topic>Women--Diaries.</topic>
+  </subject>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A2783</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_2773</identifier><datestamp>2015-06-01T14:28:09Z</datestamp><setSpec>vassar_diaries</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Student Diaries</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Bromley, Frances M.  Diary, 1874</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Bromley, Frances M.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <note>VC ex-1879</note>
+  <originInfo>
+    <publisher>Vassar College Archives and Special Collections</publisher>
+    <dateOther>1874</dateOther>
+    <dateCreated>1874</dateCreated>
+    <dateCreated authority="w3cdtf" point="start">1874-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1874-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier type="local">Box 122</identifier>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <abstract>Frances Bromley (VC ex-1879) was a prolific diarist, contributing seven diaries to Vassar College spanning 1872-1877. In 1874, her diary details her time living with her family in Castleton, Vermont.  Bromley's diaries contain reflections on her day-to-day activities, literature and biblical quotes, and observations about those around her, whether with her family in Castleton, Vermont, at Vassar College (1876-1877), or during her teaching experiences in Cohoes, NY (1875). Bromley also writes extensively of illnesses throughout her diaries. After her departure from Vassar in 1877, she returns to classroom teaching and private tutoring.</abstract>
+  <physicalDescription>
+    <extent>Bound volume; aprox 403p; 3.75 x 2.75  inches; Iron gall ink on aged paper</extent>
+  </physicalDescription>
+  <subject>
+    <geographic>Castleton (Vt. : Town)</geographic>
+    <topic>Women college students--New York (State)--Poughkeepsie.</topic>
+    <topic>Women--Diaries.</topic>
+  </subject>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A2773</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_2794</identifier><datestamp>2015-06-01T14:28:09Z</datestamp><setSpec>vassar_diaries</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Student Diaries</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Bromley, Frances M.  Diary, 1872</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Bromley, Frances M.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <note>VC ex-1879</note>
+  <originInfo>
+    <publisher>Vassar College Archives and Special Collections</publisher>
+    <dateOther>1872</dateOther>
+    <dateCreated>1872</dateCreated>
+    <dateCreated authority="w3cdtf" point="start">1872-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1872-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier type="local">Box 122</identifier>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <abstract>Frances Bromley (VC ex-1879) was a prolific diarist, contributing seven diaries to Vassar College spanning 1872-1877. In 1872, her diary details her time living with her family in Castleton, Vermont.  Bromley's diaries contain reflections on her day-to-day activities, literature and biblical quotes, and observations about those around her, whether with her family in Castleton, Vermont, at Vassar College (1876-1877), or during her teaching experiences in Cohoes, NY (1875). Bromley also writes extensively of illnesses throughout her diaries. After her departure from Vassar in 1877, she returns to classroom teaching and private tutoring.</abstract>
+  <physicalDescription>
+    <extent>Bound volume; aprox 413p; 3.75 x 2.5  inches; Iron gall ink on aged paper</extent>
+  </physicalDescription>
+  <subject>
+    <geographic>Castleton (Vt. : Town)</geographic>
+    <topic>Women college students--New York (State)--Poughkeepsie.</topic>
+    <topic>Women--Diaries.</topic>
+  </subject>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A2794</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_2180</identifier><datestamp>2015-06-01T14:28:09Z</datestamp><setSpec>vassar_diaries</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Student Diaries</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>Wyman, Anne (Southworth).  Diary, 1878-1880</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Wyman, Anne (Southworth)</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateCreated>1878</dateCreated>
+    <dateOther>1878-1880</dateOther>
+    <publisher>Vassar College Libraries</publisher>
+    <dateCreated authority="w3cdtf" point="start">1878-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1880-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier type="local">Box 123</identifier>
+  <physicalDescription>
+    <extent>Bound volume; aprox 258p; 8.5 x 7  inches; Iron gall ink on aged paper</extent>
+  </physicalDescription>
+  <note>VC 1882</note>
+  <subject>
+    <topic>Women college students--New York (State)--Poughkeepsie.</topic>
+    <topic>Women--Diaries.</topic>
+  </subject>
+  <name type="personal">
+    <namePart>James, Evan</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">transcriber</roleTerm>
+    </role>
+  </name>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A2180</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_2763</identifier><datestamp>2015-06-01T14:28:10Z</datestamp><setSpec>vassar_diaries</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Student Diaries</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Raymond, Cornelia M.  Diary, 1896</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Raymond, Cornelia M.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <note>VC 1883</note>
+  <originInfo>
+    <publisher>Vassar College Archives and Special Collections </publisher>
+    <dateOther>1896</dateOther>
+    <dateCreated>1896</dateCreated>
+    <dateCreated authority="w3cdtf" point="start">1896-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1896-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier type="local">Box 125</identifier>
+  <physicalDescription>
+    <extent>Bound volume; aprox 264p; 6 x 3.5  inches; Iron gall ink on aged paper</extent>
+  </physicalDescription>
+  <subject>
+    <topic>Women--Diaries. </topic>
+    <topic>Women college students--New York (State)--Poughkeepsie. </topic>
+  </subject>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A2763</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_1547</identifier><datestamp>2015-06-01T14:28:10Z</datestamp><setSpec>vassar_diaries</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Student Diaries</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>Brydon, Anne Page.  Diary, 1923</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Brydon, Anne Page</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <publisher>Vassar College Archives and Special Collections</publisher>
+    <dateOther>1923</dateOther>
+    <dateCreated>1923</dateCreated>
+    <dateCreated authority="w3cdtf" point="start">1923-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1923-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>This volume covers September - December 1923, the start of Brydon's sophomore year at Vassar. In 1923 she vowed to be more reflective in her diary than she was in 1922, but she did cover some of the same topics. She wrote about her relationships with classmates, academics, music lessons, volunteer work at Lincoln Center, and other ways she spent her free time. She enjoyed walking, hiking, bike riding, and tennis. She attended plays, lectures, sporting events, and "Dark Music" (music played without lights in the Chapel after Sunday Vespers). She took part in Vassar traditions, such as the yearly trip to Mohonk and the Junior Dance. She also went to Arlington and Poughkeepsie regularly to shop, eat, and attend events.</abstract>
+  <identifier>Box 128</identifier>
+  <physicalDescription>
+    <extent>Loose pages; aprox 88p; 7.75 x 5.25  inches; Iron gall ink on aged paper</extent>
+  </physicalDescription>
+  <note>VC 1925</note>
+  <subject>
+    <topic>Women--Diaries.</topic>
+    <topic>Women college students--New York (State)--Poughkeepsie.</topic>
+    <topic>Vassar College. Class of 1925.</topic>
+    <topic>Vassar College--Students.</topic>
+    <geographic>Richmond, Virginia--History--Sources.</geographic>
+  </subject>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <subject authority="local">
+    <topic authority="local">Academics.</topic>
+    <topic authority="local">Recreation.</topic>
+    <topic authority="local">Student activities.</topic>
+    <topic authority="local">Events.</topic>
+  </subject>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A1547</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_2776</identifier><datestamp>2015-06-01T14:28:10Z</datestamp><setSpec>vassar_diaries</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Student Diaries</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Raymond, Cornelia M.  Diary, 1899</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Raymond, Cornelia M.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <note>VC 1883</note>
+  <originInfo>
+    <publisher>Vassar College Archives and Special Collections </publisher>
+    <dateOther>1899</dateOther>
+    <dateCreated>1899</dateCreated>
+    <dateCreated authority="w3cdtf" point="start">1899-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1899-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier type="local">Box 126</identifier>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <physicalDescription>
+    <extent>Bound volume; aprox 451p; 6 x 3.25  inches; Iron gall ink on aged paper</extent>
+  </physicalDescription>
+  <subject>
+    <topic>Women college students--New York (State)--Poughkeepsie.</topic>
+    <topic>Women--Diaries.</topic>
+  </subject>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A2776</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_2800</identifier><datestamp>2015-06-01T14:28:10Z</datestamp><setSpec>vassar_diaries</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Student Diaries</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>[Unidentified], Frances.  Diary, 1870-1877</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>[Unidentified], Frances</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <originInfo>
+    <publisher>Vassar College Archives and Special Collections </publisher>
+    <dateOther>1870-1877</dateOther>
+    <dateCreated authority="w3cdtf" point="start">1870-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1877-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier type="local">Box 130</identifier>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <physicalDescription>
+    <extent>Bound volume; aprox 159p; 5 x 3  inches; Iron gall ink on aged paper</extent>
+  </physicalDescription>
+  <subject>
+    <topic>Women college students--New York (State)--Poughkeepsie.</topic>
+    <topic>Women--Diaries.</topic>
+  </subject>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A2800</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_2779</identifier><datestamp>2015-06-01T14:28:10Z</datestamp><setSpec>vassar_diaries</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Student Diaries</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Raymond, Cornelia M.  Diary, 1893</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Raymond, Cornelia M.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <note>VC 1883</note>
+  <originInfo>
+    <publisher>Vassar College Archives and Special Collections </publisher>
+    <dateOther>1893</dateOther>
+    <dateCreated>1893</dateCreated>
+    <dateCreated authority="w3cdtf" point="start">1893-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1893-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier type="local">Box 125</identifier>
+  <physicalDescription>
+    <extent>Bound volume; aprox 211p; 6 x 3  inches; Iron gall ink on aged paper</extent>
+  </physicalDescription>
+  <subject>
+    <topic>Women college students--New York (State)--Poughkeepsie. </topic>
+    <topic>Women--Diaries. </topic>
+  </subject>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A2779</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_2795</identifier><datestamp>2015-06-01T14:28:10Z</datestamp><setSpec>vassar_diaries</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Student Diaries</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Raymond, Cornelia M.  Diary, 1901</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Raymond, Cornelia M.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <note>VC 1883</note>
+  <originInfo>
+    <publisher>Vassar College Archives and Special Collections </publisher>
+    <dateOther>1901</dateOther>
+    <dateCreated>1901</dateCreated>
+    <dateCreated authority="w3cdtf" point="start">1901-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1901-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier type="local">Box 126</identifier>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <physicalDescription>
+    <extent>Bound volume; aprox 385p; 6.75 x 4.25  inches; Iron gall ink on aged paper</extent>
+  </physicalDescription>
+  <subject>
+    <topic>Women college students--New York (State)--Poughkeepsie. </topic>
+    <topic>Women--Diaries. </topic>
+  </subject>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A2795</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_2768</identifier><datestamp>2015-06-01T14:28:11Z</datestamp><setSpec>vassar_diaries</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Student Diaries</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Brydon, Anne Page.  Diary, 1922</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Brydon, Anne Page</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <note>VC 1925</note>
+  <originInfo>
+    <publisher>Vassar College Archives and Special Collections</publisher>
+    <dateOther>1922</dateOther>
+    <dateCreated>1922</dateCreated>
+    <dateCreated authority="w3cdtf" point="start">1922-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1922-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier type="local">Box 128</identifier>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <abstract>This volume does not yet have a transcript. The diary begins in January 1922, which was the end of the first semester of Brydon's freshman year. She wrote about her daily academic routine, as well as how she spent her free time. She enjoyed socializing with classmates, playing bridge, walking, skating, sledding (coasting), bike riding, tennis, knitting, and cutting class. She attended plays, lectures, sporting events, and "Dark Music" (music played without lights in the Chapel after Sunday Vespers). She also went to Arlington and Poughkeepsie regularly to shop, eat, and attend events. She spent vacations at home in Richmond, Virginia, swimming in the James River, picnicking, and playing tennis and parlor games. She also attended a religious conference in the Blue Ridge Mountains of North Carolina with her family mid-summer. Her father, George MacLaren Brydon, was an Episcopalian priest.</abstract>
+  <physicalDescription>
+    <extent>Bound volume; aprox 400p; 6.75 x 4.25  inches; Iron gall ink on aged paper</extent>
+  </physicalDescription>
+  <subject>
+    <topic>Women college students--New York (State)--Poughkeepsie.</topic>
+    <topic>Women--Diaries.</topic>
+    <topic>Vassar College--Students.</topic>
+    <topic>Vassar College. Class of 1925.</topic>
+    <geographic>Richmond, Virginia--History--Sources.</geographic>
+  </subject>
+  <subject authority="local">
+    <topic authority="local">Academics.</topic>
+    <topic authority="local">Recreation.</topic>
+    <topic authority="local">Student activities.</topic>
+    <topic authority="local">Events.</topic>
+    <topic authority="local">Athletics.</topic>
+  </subject>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A2768</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_2769</identifier><datestamp>2015-06-01T14:28:11Z</datestamp><setSpec>vassar_diaries</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Student Diaries</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Raymond, Cornelia M.  Diary, 1894</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Raymond, Cornelia M.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <note>VC 1883</note>
+  <originInfo>
+    <publisher>Vassar College Archives and Special Collections </publisher>
+    <dateOther>1894</dateOther>
+    <dateCreated>1894</dateCreated>
+    <dateCreated authority="w3cdtf" point="start">1894-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1894-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier type="local">Box 125</identifier>
+  <physicalDescription>
+    <extent>Bound volume; aprox 442p; 5 x 3.25  inches; Iron gall ink on aged paper</extent>
+  </physicalDescription>
+  <subject>
+    <topic>Women--Diaries. </topic>
+    <topic>Women college students--New York (State)--Poughkeepsie. </topic>
+  </subject>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A2769</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_2792</identifier><datestamp>2015-06-01T14:28:11Z</datestamp><setSpec>vassar_diaries</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Student Diaries</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Bromley, Frances M.  Diary, 1875</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Bromley, Frances M.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <note>VC ex-1879</note>
+  <originInfo>
+    <publisher>Vassar College Archives and Special Collections</publisher>
+    <dateOther>1875</dateOther>
+    <dateCreated>1875</dateCreated>
+    <dateCreated authority="w3cdtf" point="start">1875-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1875-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier type="local">Box 122</identifier>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <abstract>Frances Bromley (VC ex-1879) was a prolific diarist, contributing seven diaries to Vassar College spanning 1872-1877. In 1875, her diary details her time teaching in Cohoes, New York.  Bromley's diaries contain reflections on her day-to-day activities, literature and biblical quotes, and observations about those around her, whether with her family in Castleton, Vermont, at Vassar College (1876-1877), or during her teaching experiences in Cohoes, NY (1875). Bromley also writes extensively of illnesses throughout her diaries. After her departure from Vassar in 1877, she returns to classroom teaching and private tutoring.</abstract>
+  <physicalDescription>
+    <extent>Bound volume; aprox 390p; 4 x 2.75  inches; Iron gall ink on aged paper</extent>
+  </physicalDescription>
+  <subject>
+    <topic>Vassar College. Class of 1879.</topic>
+    <geographic>Cohoes (N.Y.)</geographic>
+    <topic>Women--Diaries.</topic>
+    <topic>Women college students--New York (State)--Poughkeepsie.</topic>
+  </subject>
+  <accessCondition type="use and reproduction">Prior written permission required to use any photograph from the Vassar College Libraries collections, http://specialcollections.vassar.edu</accessCondition>
+  <subject authority="local">
+    <topic>Teachers</topic>
+    <topic authority="local">Student activities.</topic>
+    <topic authority="local">Religion.</topic>
+  </subject>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A2792</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_2772</identifier><datestamp>2015-06-01T14:28:11Z</datestamp><setSpec>vassar_diaries</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Student Diaries</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Raymond, Cornelia M.  Diary, 1898</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Raymond, Cornelia M.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <note>VC 1883</note>
+  <originInfo>
+    <publisher>Vassar College Archives and Special Collections </publisher>
+    <dateOther>1898</dateOther>
+    <dateCreated>1898</dateCreated>
+    <dateCreated authority="w3cdtf" point="start">1898-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1898-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier type="local">Box 125</identifier>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <physicalDescription>
+    <extent>Bound volume; aprox 448p; 7 x 3.5  inches; Iron gall ink on aged paper</extent>
+  </physicalDescription>
+  <subject>
+    <topic>Women college students--New York (State)--Poughkeepsie.</topic>
+    <topic>Women--Diaries.</topic>
+  </subject>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A2772</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_2767</identifier><datestamp>2015-06-01T14:28:11Z</datestamp><setSpec>vassar_diaries</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Student Diaries</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Bromley, Frances M.  Diary, 1877</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Bromley, Frances M.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <note>VC ex-1879</note>
+  <originInfo>
+    <publisher>Vassar College Archives and Special Collections</publisher>
+    <dateOther>1877</dateOther>
+    <dateCreated authority="w3cdtf" point="start">1877-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1877-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier type="local">Box 122</identifier>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <abstract>Frances Bromley (VC ex-1879) was a prolific diarist, contributing seven diaries to Vassar College spanning 1872-1877. The year 1877 was Bromley's last year at Vassar; she realizes that "maybe I won't need any room there next year" (p. 176), foreshadowing her departure with the College. By the end of the year, she living at home again in Castleton, Vermont, excited for the student literary periodical, The Miscellany, to arrive.  Bromley's diaries contain reflections on her day-to-day activities, literature and biblical quotes, and observations about those around her, whether with her family in Castleton, at Vassar College (1876-1877), or during her teaching experiences in Cohoes, NY (1875). Bromley also writes extensively of illnesses throughout her diaries. After her departure from Vassar in 1877, she returns to classroom teaching and private tutoring.</abstract>
+  <physicalDescription>
+    <extent>Bound volume; aprox 42p; 4 x 2.75  inches; Iron gall ink on aged paper</extent>
+  </physicalDescription>
+  <subject>
+    <geographic>Castleton (Vt. : Town)</geographic>
+    <topic>Women--Diaries.</topic>
+    <topic>Women college students--New York (State)--Poughkeepsie.</topic>
+    <geographic>Poughkeepsie (N.Y.)</geographic>
+  </subject>
+  <accessCondition type="use and reproduction">Prior written permission required to use any photograph from the Vassar College Libraries collections, http://specialcollections.vassar.edu</accessCondition>
+  <subject authority="local">
+    <topic authority="local">Student activities</topic>
+    <topic authority="local">Dormitories.</topic>
+    <topic authority="local">Religion.</topic>
+  </subject>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A2767</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_2786</identifier><datestamp>2015-06-01T14:28:11Z</datestamp><setSpec>vassar_diaries</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Student Diaries</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Raymond, Cornelia M.  Diary, 1897</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Raymond, Cornelia M.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <note>VC 1883</note>
+  <originInfo>
+    <publisher>Vassar College Archives and Special Collections </publisher>
+    <dateOther>1897</dateOther>
+    <dateCreated>1897</dateCreated>
+    <dateCreated authority="w3cdtf" point="start">1897-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1897-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier type="local">Box 125</identifier>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <physicalDescription>
+    <extent>Bound volume; aprox 285p; 6 x 3.5  inches; Iron gall ink on aged paper</extent>
+  </physicalDescription>
+  <subject>
+    <topic>Women college students--New York (State)--Poughkeepsie. </topic>
+    <topic>Women--Diaries. </topic>
+  </subject>
+  <accessCondition type="use and reproduction">Prior written permission required to use any photograph from the Vassar College Libraries collections, http://specialcollections.vassar.edu</accessCondition>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A2786</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_2782</identifier><datestamp>2015-06-01T14:28:11Z</datestamp><setSpec>vassar_diaries</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Student Diaries</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Guttman, Ida (Frank).  Diary, 1883</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Guttman, Ida (Frank)</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <note>VC 1887</note>
+  <originInfo>
+    <publisher>Vassar College Archives and Special Collections</publisher>
+    <dateOther>1883</dateOther>
+    <dateCreated>1883</dateCreated>
+    <dateCreated authority="w3cdtf" point="start">1883-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1883-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier type="local">Box 124</identifier>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <abstract>A very detailed daily account of Ida Frank's first semester at Vassar. She must have entered the college as a Preparatory Student, because he was a member of the Exoteric Society, which was a social club specifically for the "Preps". She remarked early in the book that she was disappointed in the diary because it contained mostly facts without comment. Still, the volume does give a clear picture of the daily routine of a Vassar student at that time. Frank was Jewish, but she didn't mention her faith or any response to it, except to note that she fasted for Yom Kippur and went to temple while in New York City for winter vacation.</abstract>
+  <physicalDescription>
+    <extent>Bound volume; aprox 132p; 5.25 x 3.75  inches; Iron gall ink on aged paper</extent>
+  </physicalDescription>
+  <subject>
+    <topic>Women--Diaries</topic>
+    <topic>Women college students--New York (State)--Poughkeepsie.</topic>
+    <topic>Vassar College--Students.</topic>
+    <topic>Vassar College. Class of 1887.</topic>
+  </subject>
+  <accessCondition type="use and reproduction">Prior written permission required to use any photograph from the Vassar College 
+Libraries collections, http://specialcollections.vassar.edu</accessCondition>
+  <subject authority="local">
+    <topic authority="local">Religion.</topic>
+    <topic authority="local">Academics.</topic>
+    <topic authority="local">Societies.</topic>
+    <topic authority="local">Events.</topic>
+  </subject>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A2782</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_2777</identifier><datestamp>2015-06-01T14:28:11Z</datestamp><setSpec>vassar_diaries</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Student Diaries</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Pollock, Mary.  Diary, 1913-1917</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Pollock-Calver, Mary </namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <note>VC 1917</note>
+  <originInfo>
+    <publisher>Vassar College Archives and Special Collections </publisher>
+    <dateCreated>1913 1917</dateCreated>
+    <dateOther>1913-1917</dateOther>
+    <dateCreated authority="w3cdtf" point="start">1913-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1917-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier type="local">Box 131</identifier>
+  <physicalDescription>
+    <extent>Bound volume; aprox 396p; 6 x 3.5  inches; Iron gall ink on aged paper</extent>
+  </physicalDescription>
+  <subject>
+    <topic>Women--Diaries.</topic>
+    <topic>Women college students--New York (State)--Poughkeepsie. </topic>
+  </subject>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A2777</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_2173</identifier><datestamp>2015-06-01T14:28:11Z</datestamp><setSpec>vassar_diaries</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Student Diaries</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>Slade, Abigail L.  Diary, 1866</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Slade, Abigail</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateCreated>1866</dateCreated>
+    <dateOther>1866</dateOther>
+    <publisher>Vassar College Libraries</publisher>
+    <dateCreated authority="w3cdtf" point="start">1866-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1866-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier>Box 120</identifier>
+  <physicalDescription>
+    <extent>Bound volume; aprox 179p; 4 x 2.75  inches; Iron gall ink on aged paper</extent>
+  </physicalDescription>
+  <note>VC Spec. 1865-1866</note>
+  <subject>
+    <topic>Women college students--New York (State)--Poughkeepsie.</topic>
+    <topic>Women--Diaries.</topic>
+  </subject>
+  <name type="personal">
+    <namePart>Pulver, Bonnie</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">transcriber</roleTerm>
+    </role>
+  </name>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A2173</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_2778</identifier><datestamp>2015-06-01T14:28:12Z</datestamp><setSpec>vassar_diaries</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Student Diaries</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Raymond, Cornelia M.  Diary, 1902</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Raymond, Cornelia M.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <note>VC 1883</note>
+  <originInfo>
+    <publisher>Vassar College Archives and Special Collections </publisher>
+    <dateOther>1902</dateOther>
+    <dateCreated>1902</dateCreated>
+    <dateCreated authority="w3cdtf" point="start">1902-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1902-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier type="local">Box 126</identifier>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <physicalDescription>
+    <extent>Bound volume; aprox 396p; 7 x 4.25  inches; Iron gall ink on aged paper</extent>
+  </physicalDescription>
+  <subject>
+    <topic>Women college students--New York (State)--Poughkeepsie. </topic>
+    <topic>Women--Diaries. </topic>
+  </subject>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A2778</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_2762</identifier><datestamp>2015-06-01T14:28:12Z</datestamp><setSpec>vassar_diaries</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Student Diaries</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Raymond, Cornelia M.  Diary, 1895</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Raymond, Cornelia M.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <note>VC 1883</note>
+  <originInfo>
+    <publisher>Vassar College Archives and Special Collections </publisher>
+    <dateOther>1895</dateOther>
+    <dateCreated>1895</dateCreated>
+    <dateCreated authority="w3cdtf" point="start">1895-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1895-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier type="local">Box 125</identifier>
+  <physicalDescription>
+    <extent>Bound volume; aprox 445p; 6 x 3  inches; Iron gall ink on aged paper</extent>
+  </physicalDescription>
+  <subject>
+    <topic>Women college students--New York (State)--Poughkeepsie. </topic>
+    <topic>Women--Diaries. </topic>
+  </subject>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A2762</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_1918</identifier><datestamp>2015-06-01T14:28:12Z</datestamp><setSpec>vassar_diaries</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Student Diaries</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>Keffer, Bertha.  Diary, Jan-Jun 1871</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Keffer, Bertha</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Davies, Eleanor</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Transcriber</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateOther>January-June 1871</dateOther>
+    <publisher>Vassar College Libraries</publisher>
+    <dateCreated>1871</dateCreated>
+    <dateCreated authority="w3cdtf" point="start">1871-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1871-06-30T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier type="isbn">Box 121</identifier>
+  <physicalDescription>
+    <extent>Loose pages; aprox 21p; 10.5 x 7.75  inches; Iron gall ink on aged paper</extent>
+  </physicalDescription>
+  <note>VC 1876.  Diary was printed in 1854, but year is 1871.  Additional notes from Keffer relating to this diary can be found at http://digitallibrary.vassar.edu/fedora/repository/vassar:1921.</note>
+  <subject>
+    <topic>Women college students--New York (State)--Poughkeepsie.</topic>
+    <topic>Women--Diaries</topic>
+  </subject>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A1918</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_2785</identifier><datestamp>2015-06-01T14:28:12Z</datestamp><setSpec>vassar_diaries</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Student Diaries</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Earl, Mary (Reed).  Diary, 1891-1895</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Earl-Reed, Mary</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <note>VC 1895. Diary consists of loose photocopied pages, found in the order represented by this digital reproduction.</note>
+  <originInfo>
+    <publisher>Vassar College Archives and Special Collections</publisher>
+    <dateOther>1891-1895</dateOther>
+    <dateCreated>1891</dateCreated>
+    <dateCreated authority="w3cdtf" point="start">1891-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1895-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier type="local">Box 132</identifier>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <abstract>The Mary (Reed) Earl diary covers the full four years she spent at Vassar, beginning with entrance exams in September 1891 and ending with commencement in 1895 and thoughts about what she might do with her Vassar education. She didn’t usually go into much detail about college events, but she did dutifully record them, including Halloween, Washington’s Birthday, Trig Ceremonies, as well as lectures, plays, and music events both on campus and in Poughkeepsie. She also mentioned her involvement with the Vassar chapter of the Y.W.C.A., the Glee Club, and the Sunday choir. She did go into some detail about the Chicago World’s Fair, which she attended with her family in July 1893; and a June 1894 Y.W.C.A. conference at the Northfield School for Girls. She also described people and events in her hometown,  Sharon, NY, where she spent her vacations.</abstract>
+  <physicalDescription>
+    <extent>Loose pages; aprox 76p; 14 x 8.5  inches; photocopy</extent>
+  </physicalDescription>
+  <subject>
+    <topic>Women college students--New York (State)--Poughkeepsie.</topic>
+    <topic>Women--Diaries.</topic>
+    <topic>Vassar College. Class of 1895.</topic>
+    <topic>Vassar College. YWCA.</topic>
+    <geographic>Sharon (N.Y. : Town)--History--Sources.</geographic>
+    <topic>Vassar College--Students.</topic>
+    <topic>World's Columbian Exposition (1893 : Chicago, Ill.)--History--Sources.</topic>
+  </subject>
+  <accessCondition type="use and reproduction">Prior written permission required to use any photograph from the Vassar College Libraries collections, http://specialcollections.vassar.edu</accessCondition>
+  <subject authority="local">
+    <topic authority="local">Traditions.</topic>
+    <topic authority="local">Academics.</topic>
+    <topic authority="local">Commencement.</topic>
+    <topic authority="local">Student activities.</topic>
+    <topic authority="local">Celebrations.</topic>
+  </subject>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A2785</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_8360</identifier><datestamp>2015-06-01T14:28:12Z</datestamp><setSpec>vassar_diaries</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Student Diaries</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>Markwick, Marjorie.  Diary, 1914</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Markwick-Anthony, Marjorie</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateOther>1914</dateOther>
+    <publisher>Vassar College Archives and Special Collections</publisher>
+    <dateCreated>1914</dateCreated>
+    <dateCreated authority="w3cdtf" point="start">1914-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1914-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier type="isbn">Box 131</identifier>
+  <physicalDescription>
+    <extent>Bound volume; aprox 143p; 9 x 6  inches; Iron gall ink on aged paper</extent>
+  </physicalDescription>
+  <note>VC 1916</note>
+  <subject>
+    <topic>Women college students--New York (State)--Poughkeepsie. </topic>
+    <topic>Women--Diaries. </topic>
+  </subject>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A8360</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_2764</identifier><datestamp>2015-06-01T14:28:12Z</datestamp><setSpec>vassar_diaries</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Student Diaries</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Ladd-Franklin, Christine.  Diary, 1860-1866</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Ladd-Franklin, Christine, 1847-1930</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <note>VC 1868</note>
+  <originInfo>
+    <publisher>Vassar College Archives and Special Collections</publisher>
+    <dateOther>1860-1873</dateOther>
+    <dateCreated>1860 1866</dateCreated>
+    <dateCreated authority="w3cdtf" point="start">1860-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1866-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier type="local">Box 135</identifier>
+  <abstract>This volume begins with 56 pages of handwriting exercises. The narrative starts with Christine Ladd's adolescent years during the Civil War. The diary is more than a daily chronicle, it's a serious journal of self-examination, expressing despondency over the death of her mother, hopes for her future, and the normal anxieties of a young woman. She does mention family, studies, and friends, but also includes French, philosophy, and prayers.  She occasionally mentions the war, but it is not the focus of her thoughts. She does discuss her hopes to attend Vassar, and how the difficult family circumstances had to be overcome to achieve her goal.</abstract>
+  <physicalDescription>
+    <extent>Bound volume; aprox 400p; 7.5 x 6.25  inches;graphite on aged paper</extent>
+  </physicalDescription>
+  <subject>
+    <topic>Women college students--New York (State)--Poughkeepsie.</topic>
+    <topic>Women--Diaries.</topic>
+    <topic>Vassar College. Class of 1869.</topic>
+  </subject>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <subject authority="local">
+    <topic authority="local">Academics.</topic>
+  </subject>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A2764</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_2761</identifier><datestamp>2015-06-01T14:28:12Z</datestamp><setSpec>vassar_diaries</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Student Diaries</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Haight, Helen I.  Diary, circa 1928</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Haight, Helen I.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <note>VC 1898</note>
+  <originInfo>
+    <publisher>Vassar College Archives and Special Collections</publisher>
+    <dateOther>unknown</dateOther>
+    <dateCreated authority="w3cdtf" point="start">1928-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1928-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier type="local">Box 124</identifier>
+  <abstract>Travel journal post-dating Haight's time at Vassar.</abstract>
+  <physicalDescription>
+    <extent>Bound volume; aprox 208p; 7 x 4.75  inches; Iron gall ink on aged paper</extent>
+  </physicalDescription>
+  <subject>
+    <topic>Women--Diaries.</topic>
+    <topic>Vassar College--Alumnae and Alumni.</topic>
+    <topic>Vassar College. Class of 1898.</topic>
+  </subject>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A2761</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_2789</identifier><datestamp>2015-06-01T14:28:12Z</datestamp><setSpec>vassar_diaries</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Student Diaries</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Raymond, Cornelia M.  Diary, 1900</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Raymond, Cornelia M.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <note>VC 1883</note>
+  <originInfo>
+    <publisher>Vassar College Archives and Special Collections </publisher>
+    <dateOther>1900</dateOther>
+    <dateCreated>1900</dateCreated>
+    <dateCreated authority="w3cdtf" point="start">1900-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1900-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier type="local">Box 126</identifier>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <physicalDescription>
+    <extent>Bound volume; aprox 440p; 5.75 x 3  inches; Iron gall ink on aged paper</extent>
+  </physicalDescription>
+  <subject>
+    <topic>Women college students--New York (State)--Poughkeepsie. </topic>
+    <topic>Women--Diaries. </topic>
+  </subject>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A2789</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_2797</identifier><datestamp>2015-06-01T14:28:12Z</datestamp><setSpec>vassar_diaries</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Student Diaries</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Wyman, Anne (Southworth).  Diary, 1880-1882</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Wyman-Southworth, Anne  </namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <note>VC 1882</note>
+  <originInfo>
+    <publisher>Vassar College Archives and Special Collections </publisher>
+    <dateOther>1880-1882</dateOther>
+    <dateCreated>1880 1882</dateCreated>
+    <dateCreated authority="w3cdtf" point="start">1880-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1882-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier type="local">Box 123</identifier>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <physicalDescription>
+    <extent>Bound volume; aprox 326p; 8.5 x 7  inches; Iron gall ink on aged paper</extent>
+  </physicalDescription>
+  <subject>
+    <topic>Women--Diaries.</topic>
+    <topic>Women college students--New York (State)--Poughkeepsie.</topic>
+  </subject>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A2797</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_1125</identifier><datestamp>2015-06-01T14:28:12Z</datestamp><setSpec>vassar_diaries</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Student Diaries</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>Bromley, Frances M.  Diary, 1873</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Bromley, Frances M.</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateOther>1873</dateOther>
+    <dateCreated>1873</dateCreated>
+    <publisher>Vassar College Libraries</publisher>
+    <dateCreated authority="w3cdtf" point="start">1873-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1873-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>Frances Bromley (VC ex-1879) was a prolific diarist, contributing seven diaries to Vassar College spanning 1872-1877. In 1873, her diary details her time living with her family in Castleton, Vermont.  Bromley's diaries contain reflections on her day-to-day activities, literature and biblical quotes, and observations about those around her, whether with her family in Castleton, Vermont, at Vassar College (1876-1877), or during her teaching experiences in Cohoes, NY (1875). Bromley also writes extensively of illnesses throughout her diaries. After her departure from Vassar in 1877, she returns to classroom teaching and private tutoring.</abstract>
+  <identifier type="isbn">Box 122</identifier>
+  <physicalDescription>
+    <extent>Bound volume; aprox 414p; 4 x 2.75  inches; Iron gall ink on aged paper</extent>
+  </physicalDescription>
+  <note>VC Ex-1879</note>
+  <subject>
+    <geographic>Castleton (Vt. : Town)</geographic>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+    </hierarchicalGeographic>
+    <topic>Women college students--New York (State)--Poughkeepsie.</topic>
+    <topic>Women--Diaries.</topic>
+  </subject>
+  <name type="personal">
+    <namePart>Pulver, Bonnie</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Transcriber</roleTerm>
+    </role>
+  </name>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A1125</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_1010</identifier><datestamp>2015-06-01T14:28:12Z</datestamp><setSpec>vassar_diaries</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Student Diaries</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>James, Fannie (Shouse).  Diary, ca. 1860s-1870s</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>James, Fanny (Shouse)</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <publisher>Vassar College Archives and Special Collections</publisher>
+    <dateOther>ca. 1860s-1870s</dateOther>
+    <dateCreated>1860 1879</dateCreated>
+    <dateCreated authority="w3cdtf" point="start">1860-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1870-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier type="isbn">Box 133</identifier>
+  <physicalDescription>
+    <extent>Loose pages; aprox 3p; 11 x 8.5  inches; typescript on aged paper</extent>
+  </physicalDescription>
+  <note>VC Ex 1874</note>
+  <subject>
+    <topic>Women--Diaries.</topic>
+    <topic>Women college students--New York (State)--Poughkeepsie.</topic>
+  </subject>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A1010</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_1006</identifier><datestamp>2015-06-01T14:28:13Z</datestamp><setSpec>vassar_diaries</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Student Diaries</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>Adee, Ellen (Skeel). Diary, 1869-1870</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Adee, Ellen (Skeel)</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateOther>1869-1870</dateOther>
+    <publisher>Vassar College Archives and Special Collections</publisher>
+    <dateCreated>1869 1870</dateCreated>
+    <dateCreated authority="w3cdtf" point="start">1869-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1870-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>The bulk of this volume deals with Adee’s year-long absence from Vassar College due to sickness, presumably typhoid fever. Adee contracted the disease at the college in the the first semester of her senior year (October 1868), began her recovery in the school’s infirmary, but was soon taken home to her family in Balmville, a hamlet of Newburgh, N.Y. She returned to the college in 1869 and graduated with the Class of 1870, although she felt a stronger affiliation with the Class of 1869. Subjects covered include religion and her membership in St. Georges Episcopal Church in Newburgh; her academic challenges, especially oration/elocution; and her feelings about her time at Vassar, Commencement,  and her Vassar degree.</abstract>
+  <identifier>Box 120</identifier>
+  <physicalDescription>
+    <extent>Bound volume; approx 100p; 8.5 x 7  inches; Iron gall ink on aged paper</extent>
+  </physicalDescription>
+  <note>VC 1870</note>
+  <subject>
+    <geographic>Newburgh (N.Y.)—History—Sources.</geographic>
+    <topic>Women college students--New York (State)--Poughkeepsie.</topic>
+    <topic>Women--Diaries.</topic>
+    <topic>Typhoid fever--New York (State).</topic>
+    <topic>Vassar College. Class of 1869.</topic>
+    <topic>Vassar College. Class of 1870.</topic>
+    <topic>Vassar College--Students.</topic>
+  </subject>
+  <name type="personal">
+    <namePart>Davies, Eleanor</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">Transcriber</roleTerm>
+    </role>
+  </name>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <subject authority="local">
+    <topic authority="local">Religion.</topic>
+    <topic authority="local">Academics.</topic>
+    <topic authority="local">Commencement.</topic>
+  </subject>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A1006</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_1947</identifier><datestamp>2015-06-01T14:28:13Z</datestamp><setSpec>vassar_diaries</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Student Diaries</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>Keffer, Bertha.  Diary, 1876</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Keffer, Bertha</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Davies, Eleanor</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">transcriber</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateOther>1876</dateOther>
+    <publisher>Vassar College Libraries</publisher>
+    <dateCreated>1876</dateCreated>
+    <dateCreated authority="w3cdtf" point="start">1876-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1876-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier>Box 121</identifier>
+  <physicalDescription>
+    <extent>Bound volume; aprox 179p; 6.75 x 4.25  inches; Iron gall ink on aged paper</extent>
+  </physicalDescription>
+  <note>VC 1876</note>
+  <subject>
+    <topic>Women college students--New York (State)--Poughkeepsie.</topic>
+    <topic>Women--Diaries.</topic>
+  </subject>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A1947</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_2802</identifier><datestamp>2015-06-01T14:28:13Z</datestamp><setSpec>vassar_diaries</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Student Diaries</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Martin, Elma G.  Diary, 1892</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Martin, Elma G.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <note>VC Spec 1892-93</note>
+  <originInfo>
+    <publisher>Vassar College Archives and Special Collections </publisher>
+    <dateOther>1892-1907</dateOther>
+    <dateCreated>1892 1907</dateCreated>
+    <dateCreated authority="w3cdtf" point="start">1892-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1907-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier type="local">Box 124</identifier>
+  <physicalDescription>
+    <extent>Bound volume; aprox 143p; 10 x 7  inches; Iron gall ink on aged paper</extent>
+  </physicalDescription>
+  <subject>
+    <topic>Women college students--New York (State)--Poughkeepsie. </topic>
+    <topic>Women--Diaries. </topic>
+  </subject>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <name type="personal">
+    <namePart>Pulver, Bonnie</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">transcriber</roleTerm>
+    </role>
+  </name>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A2802</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_2781</identifier><datestamp>2015-06-01T14:28:13Z</datestamp><setSpec>vassar_diaries</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Student Diaries</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Ordway, Katherine Gretta.  Diary, 1913-1914</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Ordway, Katherine Gretta</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <note>VC 1913</note>
+  <originInfo>
+    <publisher>Vassar College Archives and Special Collections </publisher>
+    <dateOther>1913-1914</dateOther>
+    <dateCreated>1913 1914</dateCreated>
+    <dateCreated authority="w3cdtf" point="start">1913-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1914-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier type="local">Box 130</identifier>
+  <physicalDescription>
+    <extent>Bound volume; aprox 167p; 9.75 x 8  inches; Iron gall ink on aged paper</extent>
+  </physicalDescription>
+  <subject>
+    <topic>Women college students--New York (State)--Poughkeepsie. </topic>
+    <topic>Women--Diaries. </topic>
+  </subject>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A2781</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_2787</identifier><datestamp>2015-06-01T14:28:13Z</datestamp><setSpec>vassar_diaries</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Student Diaries</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Anthony, Constance E.  Diary, 1915</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Anthony, Constance E.</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <note>VC 1917</note>
+  <originInfo>
+    <publisher>Vassar College Archives and Special Collections </publisher>
+    <dateOther>1915</dateOther>
+    <dateCreated authority="w3cdtf" point="start">1915-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1915-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier type="local">Box 131</identifier>
+  <physicalDescription>
+    <extent>Bound volume; aprox 447p; 8 x 5.25  inches; Iron gall ink on aged paper</extent>
+  </physicalDescription>
+  <subject>
+    <topic>Women college students--New York (State)--Poughkeepsie.</topic>
+    <topic>Women--Diaries.</topic>
+  </subject>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A2787</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_687</identifier><datestamp>2015-06-01T14:28:13Z</datestamp><setSpec>vassar_diaries</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Student Diaries</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>Slade, Caroline.  Diary, 1866</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Slade, Caroline</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateCreated>1866</dateCreated>
+    <publisher>Vassar College Archives and Special Collections</publisher>
+    <dateOther>1866</dateOther>
+    <dateCreated authority="w3cdtf" point="start">1866-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1866-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier type="local">Box 120</identifier>
+  <physicalDescription>
+    <extent>Bound volume; aprox 102p; 4 x 2.5  inches; Iron gall ink on aged paper</extent>
+  </physicalDescription>
+  <subject>
+    <topic>Women college students--New York (State)--Poughkeepsie.</topic>
+    <topic>Women--Diaries.</topic>
+  </subject>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <name type="personal">
+    <namePart>Davies, Eleanor</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">transcriber</roleTerm>
+    </role>
+  </name>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A687</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_2793</identifier><datestamp>2015-06-01T14:28:13Z</datestamp><setSpec>vassar_diaries</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Student Diaries</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Ordway, Katherine Gretta.  Diary, 1910-1911</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Ordway, Katherine Gretta</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <note>VC 1913</note>
+  <originInfo>
+    <publisher>Vassar College Archives and Special Collections </publisher>
+    <dateOther>1910-1911</dateOther>
+    <dateCreated>1910 1911</dateCreated>
+    <dateCreated authority="w3cdtf" point="start">1910-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1911-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier type="local">Box 129</identifier>
+  <physicalDescription>
+    <extent>Bound volume; aprox 229p; 10 x 8  inches; Iron gall ink on aged paper</extent>
+  </physicalDescription>
+  <subject>
+    <topic>Women college students--New York (State)--Poughkeepsie.</topic>
+    <topic>Women--Diaries.</topic>
+  </subject>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A2793</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_2760</identifier><datestamp>2015-06-01T14:28:13Z</datestamp><setSpec>vassar_diaries</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Student Diaries</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Pease, Helen Hartley.  Diary, 1915-1919</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Pease, Helen Hartley</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <note>VC 1918</note>
+  <originInfo>
+    <publisher>Vassar College Archives and Special Collections</publisher>
+    <dateOther>1915-1919</dateOther>
+    <dateCreated>1914 1918</dateCreated>
+    <dateCreated authority="w3cdtf" point="start">1915-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1919-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier type="local">Box 128</identifier>
+  <abstract>This "line a day", five year memory book chronicles most of Helen Pease's four years at Vassar, beginning in January of her freshman year. She chronicled her daily academic routine, but also included notes on her free time, which she filled with mandolin playing, piano playing, singing, dancing, basketball, ice skating, sledding (coasting), knitting, bike-riding, hiking, going to the movies, and a lot of socializing with classmates. She also mentions either making or obtaining candy, cookies, cake, or ice cream with some frequency. She wrote about time at home in Boston, vacations on the coast of Maine, and teaching at Bradford Academy after graduation.</abstract>
+  <physicalDescription>
+    <extent>Bound volume; aprox 391p; 6.75 x 4  inches; Iron gall ink on aged paper</extent>
+  </physicalDescription>
+  <subject>
+    <hierarchicalGeographic>
+      <continent>North America</continent>
+    </hierarchicalGeographic>
+    <topic>Women college students--New York (State)--Poughkeepsie.</topic>
+    <topic>Women--Diaries.</topic>
+    <topic>Vassar College. Class of 1918.</topic>
+    <topic>Vassar College--Students.</topic>
+  </subject>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <subject authority="local">
+    <topic authority="local">Recreation.</topic>
+    <topic authority="local">Athletics.</topic>
+    <topic authority="local">Student activities.</topic>
+  </subject>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A2760</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_2798</identifier><datestamp>2015-06-01T14:28:13Z</datestamp><setSpec>vassar_diaries</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Student Diaries</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Gay, Mary.  Diary, 1878</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Gay, Mary</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <note>VC Ex 1881. Diary consists of all loose pages, found in the order represented by this digital reproduction.</note>
+  <originInfo>
+    <publisher>Vassar College Archives and Special Collections</publisher>
+    <dateCreated>1876 1878</dateCreated>
+    <dateOther>1878</dateOther>
+    <dateCreated authority="w3cdtf" point="start">1878-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1878-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier type="local">Box 124</identifier>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <abstract>This short volume is dated February 1878, the second semester of Mary Gay’s second year as a Preparatory Student at Vassar; however, the book not about 1878, it is a look back at her first year at college, 1876-1877. Included are memories of her roommates, friends, teachers, regular class work, as well as her entrance exams.</abstract>
+  <physicalDescription>
+    <extent>Loose pages; aprox 10p; 9.75 x 7.75  inches; Iron gall ink on aged paper</extent>
+  </physicalDescription>
+  <subject>
+    <topic>Women college students--New York (State)--Poughkeepsie.</topic>
+    <topic>Women--Diaries.</topic>
+    <topic>Vassar College--Students.</topic>
+    <topic>Vassar College. Class of 1881.</topic>
+  </subject>
+  <accessCondition type="use and reproduction">Prior written permission required to use any photograph from the Vassar College Libraries collections, http://specialcollections.vassar.edu</accessCondition>
+  <subject authority="local">
+    <topic authority="local">Academics.</topic>
+    <topic authority="local">Student activities.</topic>
+  </subject>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A2798</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_2759</identifier><datestamp>2015-06-01T14:28:13Z</datestamp><setSpec>vassar_diaries</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Student Diaries</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Wislocki, Florence.  Diary, 1922</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Wislocki, Florence (Clothier)</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <note>VC 1926</note>
+  <originInfo>
+    <publisher>Vassar College Archives and Special Collections </publisher>
+    <dateCreated>1922</dateCreated>
+    <dateOther>1922</dateOther>
+    <dateCreated authority="w3cdtf" point="start">1922-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1922-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier type="local">Box 130</identifier>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <physicalDescription>
+    <extent>Loose pages; aprox 22p; 11 x 8.5  inches; typescript on aged paper</extent>
+  </physicalDescription>
+  <subject>
+    <topic>Women--Diaries. </topic>
+    <topic>Women college students--New York (State)--Poughkeepsie.</topic>
+  </subject>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A2759</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_2765</identifier><datestamp>2015-06-01T14:28:13Z</datestamp><setSpec>vassar_diaries</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Student Diaries</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Pidgeon, Mary.  Diary, 1871</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Pidgeon-Kiersted, Mary </namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <note>VC ex-1875</note>
+  <originInfo>
+    <publisher>Vassar College Archives and Special Collections </publisher>
+    <dateOther>1871</dateOther>
+    <dateCreated>1871</dateCreated>
+    <dateCreated authority="w3cdtf" point="start">1871-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1871-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier type="local">Box 120</identifier>
+  <physicalDescription>
+    <extent>Bound volume; aprox 148p; 5 x 3.5  inches; Iron gall ink on aged paper</extent>
+  </physicalDescription>
+  <subject>
+    <topic>Women college students--New York (State)--Poughkeepsie. </topic>
+    <topic>Women--Diaries. </topic>
+  </subject>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A2765</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_2177</identifier><datestamp>2015-06-01T14:28:14Z</datestamp><setSpec>vassar_diaries</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Student Diaries</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>Stilson, Sarah L.  Diary, 1865-1869</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Stilson, Sarah L.</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Hacket, Susan</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">transcriber</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateOther>1865-1869</dateOther>
+    <publisher>Vassar College Libraries</publisher>
+    <dateCreated authority="w3cdtf" point="start">1865-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1869-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier type="local">Box 120</identifier>
+  <physicalDescription>
+    <extent>Bound volume; aprox 36p; 9.75 x 8  inches; Iron gall ink on aged paper</extent>
+  </physicalDescription>
+  <note>VC 1869</note>
+  <subject>
+    <topic>Women--Diaries. </topic>
+    <topic>Women college students--New York (State)--Poughkeepsie.</topic>
+  </subject>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A2177</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_2801</identifier><datestamp>2015-06-01T14:28:14Z</datestamp><setSpec>vassar_diaries</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Student Diaries</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Holden, Abby (Rankin).  Diary, 1871-1872</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Holden, Abby (Rankin)</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <note>VC 1876</note>
+  <originInfo>
+    <publisher>Vassar College Archives and Special Collections</publisher>
+    <dateOther>1871-1872</dateOther>
+    <dateCreated>1871 1872</dateCreated>
+    <dateCreated authority="w3cdtf" point="start">1871-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1872-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier type="local">Box 121</identifier>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <abstract>This volume covers Abbie Rankin Holden's first year at Vassar College. She wrote mostly about relationships with friends, family and class mates; however she devoted the bulk of the diary to her great love for the Mental and Moral Philosophy teacher, Miss Lepha N. Clarke. Her friends said she was "smashed on" Miss Clarke, but she didn't describe her adoration in those terms. She also mentioned "Ned" Holden, who may have been the Horace Holden she married in 1879.</abstract>
+  <physicalDescription>
+    <extent>Bound volume; aprox 56p; 7.75 x 4.75  inches; Iron gall ink on aged paper</extent>
+  </physicalDescription>
+  <subject>
+    <topic>Women college students--New York (State)--Poughkeepsie.</topic>
+    <topic>Women--Diaries.</topic>
+    <topic>Vassar College--Students.</topic>
+    <topic>Vassar College. Class of 1876.</topic>
+    <topic>Female friendship--New York (State).</topic>
+  </subject>
+  <accessCondition type="use and reproduction">Prior written permission required to use any photograph from the Vassar College 
+Libraries collections, http://specialcollections.vassar.edu</accessCondition>
+  <name type="personal">
+    <namePart>Yu, Julia</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">transcriber</roleTerm>
+    </role>
+  </name>
+  <subject authority="local">
+    <topic authority="local">Student activities.</topic>
+    <topic authority="local">Female love and friendship.</topic>
+  </subject>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A2801</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_2788</identifier><datestamp>2015-06-01T14:28:14Z</datestamp><setSpec>vassar_diaries</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Student Diaries</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Ordway, Katherine Gretta.  Diary, 1909-1910</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Ordway, Katherine Gretta</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <note>VC 1913</note>
+  <originInfo>
+    <publisher>Vassar College Archives and Special Collections </publisher>
+    <dateOther>1909-1910</dateOther>
+    <dateCreated>1909</dateCreated>
+    <dateCreated authority="w3cdtf" point="start">1909-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1910-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier type="local">Box 129</identifier>
+  <physicalDescription>
+    <extent>Bound volume; aprox 160p; 9.75 x 7.75  inches; Iron gall ink on aged paper</extent>
+  </physicalDescription>
+  <subject>
+    <topic>Women college students--New York (State)--Poughkeepsie. </topic>
+    <topic>Women--Diaries. </topic>
+  </subject>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A2788</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_2791</identifier><datestamp>2015-06-01T14:28:14Z</datestamp><setSpec>vassar_diaries</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Student Diaries</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Raymond, Susan.  Diary, 1864</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Raymond, Susan</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <note>VC 1871</note>
+  <originInfo>
+    <publisher>Vassar College Archives and Special Collections </publisher>
+    <dateCreated>1871</dateCreated>
+    <dateOther>1864</dateOther>
+    <dateCreated authority="w3cdtf" point="start">1864-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1864-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier type="local">Box 120</identifier>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <physicalDescription>
+    <extent>Bound volume; aprox 126p; 7.25 x 4.75  inches; Iron gall ink on aged paper</extent>
+  </physicalDescription>
+  <subject>
+    <topic>Women college students--New York (State)--Poughkeepsie.</topic>
+    <topic>Women--Diaries.</topic>
+  </subject>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A2791</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_2799</identifier><datestamp>2015-06-01T14:28:14Z</datestamp><setSpec>vassar_diaries</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Student Diaries</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Ordway, Katherine Gretta.  Diary, 1911-1912</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Ordway, Katherine Gretta</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <note>VC 1913</note>
+  <originInfo>
+    <publisher>Vassar College Archives and Special Collections </publisher>
+    <dateOther>1911-1912</dateOther>
+    <dateCreated>1911 1912</dateCreated>
+    <dateCreated authority="w3cdtf" point="start">1911-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1914-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier type="local">Box 130</identifier>
+  <physicalDescription>
+    <extent>Bound volume; aprox 212p; 10 x 8  inches; Iron gall ink on aged paper</extent>
+  </physicalDescription>
+  <subject>
+    <topic>Women college students--New York (State)--Poughkeepsie. </topic>
+    <topic>Women--Diaries. </topic>
+  </subject>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A2799</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_2766</identifier><datestamp>2015-06-01T14:28:14Z</datestamp><setSpec>vassar_diaries</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Student Diaries</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>[Unidentified] Frances. Diary; to Edith, 1880-1882</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>[unidentified] Frances</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="dct">text</genre>
+  <originInfo>
+    <publisher>Vassar College Archives and Special Collections </publisher>
+    <dateOther>1880-1882</dateOther>
+    <dateCreated authority="w3cdtf" point="start">1880-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1882-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <identifier type="local">Box 130</identifier>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <physicalDescription>
+    <extent>Bound volume; aprox 35p; 6 x 3.75  inches; Iron gall ink on aged paper</extent>
+  </physicalDescription>
+  <subject>
+    <topic>Women college students--New York (State)--Poughkeepsie.</topic>
+    <topic>Women--Diaries.</topic>
+  </subject>
+  <accessCondition type="use and reproduction">Prior written permission required to use any photograph from the Vassar College Libraries collections, http://specialcollections.vassar.edu</accessCondition>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A2766</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_2708</identifier><datestamp>2015-06-01T14:28:14Z</datestamp><setSpec>vassar_diaries</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Student Diaries</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>Ladd-Franklin, Christine.  Diary, 1866-1873</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Ladd-Franklin, Christine, 1847-1930</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateOther>1866-1873</dateOther>
+    <publisher>Vassar College Archives and Special Collections</publisher>
+    <dateCreated>1866 1873</dateCreated>
+    <dateCreated authority="w3cdtf" point="start">1866-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1873-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>Diary of Christine Ladd-Franklin, Vassar College Class of 1869. Describes her experience as a Vassar student, the challenges of financing her education, and her early years of teaching before beginning her graduate work in mathematics.</abstract>
+  <identifier type="isbn">Box 135</identifier>
+  <physicalDescription>
+    <extent>Bound volume; aprox 400p; 7.5 x 6.25  inches;graphite on aged paper</extent>
+  </physicalDescription>
+  <note>VC 1869</note>
+  <subject>
+    <topic>Ladd-Franklin, Christine, 1847-1930</topic>
+    <topic>Women college students--New York (State)--Poughkeepsie.</topic>
+    <topic>Women--Diaries.</topic>
+    <topic>Vassar College. Class of 1869.</topic>
+    <topic>Vassar College--Students.</topic>
+  </subject>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <subject authority="local">
+    <topic authority="local">Academics.</topic>
+    <topic authority="local">Student activities.</topic>
+  </subject>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A2708</identifier></mods></metadata></record><resumptionToken expirationDate="2015-06-24T14:01:55Z" completeListSize="57" cursor="0">1592894873</resumptionToken></ListRecords></OAI-PMH>

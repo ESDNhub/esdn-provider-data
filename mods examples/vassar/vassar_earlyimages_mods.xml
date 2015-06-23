@@ -1,0 +1,1557 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2015-06-23T12:08:14Z</responseDate><request>http://digitallibrary.vassar.edu/oai2</request><ListRecords><record><header><identifier>oai:vassar:vassar_10447</identifier><datestamp>2015-06-01T14:27:08Z</datestamp><setSpec>vassar_earlyimages</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Images of Early Vassar</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Maria Mitchell: Vassar College astronomy professor, 1865-1888</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Sarony's (Broadway, N.Y.)</namePart>
+    <role>
+      <roleTerm type="text">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateOther>not after 1874</dateOther>
+    <publisher>Online collection published by Vassar College Archives and Special Collections, Poughkeepsie, N.Y.</publisher>
+    <dateCreated authority="w3cdtf" point="start">1874-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1874-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>Half-length picture of Maria Mitchell wearing a dark hat, white ruffled blouse and dark suit. She is seated.</abstract>
+  <subject authority="lcsh">
+    <topic>Mitchell, Maria, 1818-1889 -- Portraits.</topic>
+    <topic>Vassar College -- Faculty -- Portraits.</topic>
+    <topic>Women astronomers -- New York (State) -- Poughkeepsie -- Portraits.</topic>
+    <topic>College teachers -- New York (State) -- Poughkeepsie.</topic>
+  </subject>
+  <physicalDescription>
+    <extent>1 photograph : albumen, b&amp;w ; 10 x 6 cm.</extent>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form authority="marcform">nonprojected graphic</form>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <location>
+    <physicalLocation>Archives and Special Collections &lt;br /&gt; Box 20, 124 Raymond Ave. &lt;br /&gt; Poughkeepsie, NY 12604-0020 &lt;br /&gt; 845.437.5799 &lt;br /&gt; http://specialcollections.vassar.edu</physicalLocation>
+  </location>
+  <identifier type="local">08.13.04</identifier>
+  <typeOfResource>still image</typeOfResource>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A10447</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_10451</identifier><datestamp>2015-06-01T14:27:08Z</datestamp><setSpec>vassar_earlyimages</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Images of Early Vassar</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Edward Wiebe, 1865: Vassar College music professor, 1865-1867</title>
+  </titleInfo>
+  <originInfo>
+    <dateOther>1865</dateOther>
+    <publisher>Online collection published by Vassar College Archives and Special Collections, Poughkeepsie, N.Y.</publisher>
+    <dateCreated authority="w3cdtf" point="start">1865-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1865-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>Head and shoulders picture of Edward Wiebe with mustache and beard. He is wearing glasses, dark tie, white shirt and dark suit.</abstract>
+  <subject authority="lcsh">
+    <topic>Wiebe, Edward -- Portraits.</topic>
+    <topic>Vassar College -- Faculty -- Portraits.</topic>
+    <topic>College teachers -- New York (State) -- Poughkeepsie.</topic>
+  </subject>
+  <physicalDescription>
+    <extent>1 picture : b&amp;w ; 9 x 6 cm.</extent>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form authority="marcform">nonprojected graphic</form>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <location>
+    <physicalLocation>Archives and Special Collections &lt;br /&gt; Box 20, 124 Raymond Ave. &lt;br /&gt; Poughkeepsie, NY 12604-0020 &lt;br /&gt; 845.437.5799 &lt;br /&gt; http://specialcollections.vassar.edu</physicalLocation>
+  </location>
+  <identifier type="local">08.13.27</identifier>
+  <typeOfResource>still image</typeOfResource>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A10451</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_10559</identifier><datestamp>2015-06-01T14:27:09Z</datestamp><setSpec>vassar_earlyimages</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Images of Early Vassar</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Matthew Vassar, 1861</title>
+  </titleInfo>
+  <originInfo>
+    <dateOther>1916</dateOther>
+    <publisher>Online collection published by Vassar College Archives and Special Collections, Poughkeepsie, N.Y.</publisher>
+    <dateCreated authority="w3cdtf" point="start">1916-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1916-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>Full-length picture of Matthew Vassar as an older man wearing glasses, black tie, white shirt and black suit. He is standing, holding a top hat in his left hand and curved-top cane in his right hand. His dog, Tip, and potted greenery are in the foreground. His home, Springside, and trees are in the background.</abstract>
+  <subject authority="lcsh">
+    <topic>Vassar, Matthew, 1792-1868 -- Portraits.</topic>
+    <topic>Vassar, Matthew, 1792-1868 -- Homes and haunts</topic>
+    <topic>Springside (Poughkeepsie, N.Y.)</topic>
+  </subject>
+  <physicalDescription>
+    <extent>1 picture : b&amp;w ; 16 x 11 cm.</extent>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form authority="marcform">nonprojected graphic</form>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <location>
+    <physicalLocation>Archives and Special Collections &lt;br /&gt; Box 20, 124 Raymond Ave. &lt;br /&gt; Poughkeepsie, NY 12604-0020 &lt;br /&gt; 845.437.5799 &lt;br /&gt; http://specialcollections.vassar.edu</physicalLocation>
+  </location>
+  <identifier type="local">08.32.02</identifier>
+  <typeOfResource>still image</typeOfResource>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A10559</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_10344</identifier><datestamp>2015-06-01T14:27:09Z</datestamp><setSpec>vassar_earlyimages</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Images of Early Vassar</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Vassar College Astronomical Observatory</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Gullmann, C.</namePart>
+    <role>
+      <roleTerm type="text">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateOther>187-?</dateOther>
+    <publisher>Online collection published by Vassar College Archives and Special Collections, Poughkeepsie, N.Y.</publisher>
+    <dateCreated authority="w3cdtf" point="start">1870-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1879-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>Observatory at Vassar College with path, lawn, and trees. Several buildings are in the background.</abstract>
+  <subject authority="lcsh">
+    <topic>Vassar College Observatory (Poughkeepsie, N.Y.)</topic>
+    <topic>Vassar College -- Buildings.</topic>
+    <topic>College buildings -- New York (State) -- Poughkeepsie.</topic>
+    <topic>Astronomical observatories -- New York (State) -- Poughkeepsie.</topic>
+    <topic>Poughkeepsie (N.Y.) -- Buildings, structures, etc.</topic>
+  </subject>
+  <physicalDescription>
+    <extent>1 photograph : albumen, b&amp;w ; 6 x 10 cm.</extent>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form authority="marcform">nonprojected graphic</form>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <location>
+    <physicalLocation>Archives and Special Collections &lt;br /&gt; Box 20, 124 Raymond Ave. &lt;br /&gt; Poughkeepsie, NY 12604-0020 &lt;br /&gt; 845.437.5799 &lt;br /&gt; http://specialcollections.vassar.edu</physicalLocation>
+  </location>
+  <identifier type="local">08.06.09</identifier>
+  <typeOfResource>still image</typeOfResource>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A10344</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_10520</identifier><datestamp>2015-06-01T14:27:09Z</datestamp><setSpec>vassar_earlyimages</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Images of Early Vassar</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Matthew Vassar, ca. 1832-42</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>De M. Brown, Margaret</namePart>
+    <role>
+      <roleTerm type="text">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateOther>1938</dateOther>
+    <publisher>Online collection published by Vassar College Archives and Special Collections, Poughkeepsie, N.Y.</publisher>
+    <dateCreated authority="w3cdtf" point="start">1938-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1938-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>Half-length picture of Matthew Vassar wearing glasses, top hat, striped tie, white shirt and dark suit with black collar. He is seated, holding a cane in his gloved, right hand and holding a glove in his left hand. His left hand is inserted into the front of his suit.</abstract>
+  <subject authority="lcsh">
+    <topic>Vassar, Matthew, 1792-1868 -- Portraits.</topic>
+  </subject>
+  <physicalDescription>
+    <extent>1 photograph : gelatin, b&amp;w ; 18 x 12 cm.</extent>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form authority="marcform">nonprojected graphic</form>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <location>
+    <physicalLocation>Archives and Special Collections &lt;br /&gt; Box 20, 124 Raymond Ave. &lt;br /&gt; Poughkeepsie, NY 12604-0020 &lt;br /&gt; 845.437.5799 &lt;br /&gt; http://specialcollections.vassar.edu</physicalLocation>
+  </location>
+  <identifier type="local">08.34.03</identifier>
+  <typeOfResource>still image</typeOfResource>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A10520</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_10413</identifier><datestamp>2015-06-01T14:27:09Z</datestamp><setSpec>vassar_earlyimages</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Images of Early Vassar</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Maria Mitchell: Vassar College astronomy professor, 1865-1888, and her father</title>
+  </titleInfo>
+  <originInfo>
+    <dateOther>187-?</dateOther>
+    <publisher>Online collection published by Vassar College Archives and Special Collections, Poughkeepsie, N.Y.</publisher>
+    <dateCreated authority="w3cdtf" point="start">1870-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1879-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>Full-length picture of Maria Mitchell and her father, William. She is wearing a dark headpiece, white collar and long, dark button-down dress. She is seated on the right of a small, round table, her cheek is resting on her right hand and her left hand is pointing to papers on the table. Her father is wearing a white shirt and dark suit. He is seated on the left of the table with his right leg crossed over his left leg.</abstract>
+  <subject authority="lcsh">
+    <topic>Mitchell, Maria, 1818-1889 -- Portraits.</topic>
+    <topic>Mitchell, William -- Portraits.</topic>
+    <topic>Vassar College -- Faculty -- Portraits.</topic>
+    <topic>Women astronomers -- New York (State) -- Poughkeepsie -- Portraits.</topic>
+    <topic>College teachers -- New York (State) -- Poughkeepsie.</topic>
+  </subject>
+  <physicalDescription>
+    <extent>1 photograph : albumen, b&amp;w ; 15 x 21 cm.</extent>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form authority="marcform">nonprojected graphic</form>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <location>
+    <physicalLocation>Archives and Special Collections &lt;br /&gt; Box 20, 124 Raymond Ave. &lt;br /&gt; Poughkeepsie, NY 12604-0020 &lt;br /&gt; 845.437.5799 &lt;br /&gt; http://specialcollections.vassar.edu</physicalLocation>
+  </location>
+  <identifier type="local">08.13.07</identifier>
+  <typeOfResource>still image</typeOfResource>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A10413</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_10527</identifier><datestamp>2015-06-01T14:27:10Z</datestamp><setSpec>vassar_earlyimages</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Images of Early Vassar</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Matthew Vassar, ca. 1865</title>
+  </titleInfo>
+  <originInfo>
+    <dateOther>ca. 1865</dateOther>
+    <publisher>Online collection published by Vassar College Archives and Special Collections, Poughkeepsie, N.Y.</publisher>
+    <dateCreated authority="w3cdtf" point="start">1865-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1865-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>Three-quarter length picture of Matthew Vassar as an elderly man wearing glasses, black tie, white shirt and dark suit with black collar. He is seated, holding gloves in his right hand and resting his left arm on the chair.</abstract>
+  <subject authority="lcsh">
+    <topic>Vassar, Matthew, 1792-1868 -- Portraits.</topic>
+  </subject>
+  <physicalDescription>
+    <extent>1 photograph : albumen, b&amp;w ; 9 x 6 cm.</extent>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form authority="marcform">nonprojected graphic</form>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <location>
+    <physicalLocation>Archives and Special Collections &lt;br /&gt; Box 20, 124 Raymond Ave. &lt;br /&gt; Poughkeepsie, NY 12604-0020 &lt;br /&gt; 845.437.5799 &lt;br /&gt; http://specialcollections.vassar.edu</physicalLocation>
+  </location>
+  <identifier type="local">08.43.01</identifier>
+  <typeOfResource>still image</typeOfResource>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A10527</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_10367</identifier><datestamp>2015-06-01T14:27:10Z</datestamp><setSpec>vassar_earlyimages</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Images of Early Vassar</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Vassar College, the Lodge, ca. 1865-1870</title>
+  </titleInfo>
+  <originInfo>
+    <dateOther>18--?</dateOther>
+    <publisher>Online collection published by Vassar College Archives and Special Collections, Poughkeepsie, N.Y.</publisher>
+    <dateCreated authority="w3cdtf" point="start">1800-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1899-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>The Lodge of Vassar College consisting of two identical towers with a large, round clock and arch between them. Large trees in leaf are in the background. A long drive lined by very small trees is in the foreground.</abstract>
+  <subject authority="lcsh">
+    <topic>Vassar College Lodge (Poughkeepsie, N.Y.)</topic>
+    <topic>Vassar College -- Buildings.</topic>
+    <topic>College buildings -- New York (State) -- Poughkeepsie.</topic>
+    <topic>Gatehouses -- New York (State) -- Poughkeepsie.</topic>
+    <topic>Poughkeepsie (N.Y.) -- Buildings, structures, etc.</topic>
+  </subject>
+  <physicalDescription>
+    <extent>1 photograph : albumen, b&amp;w ; 10 x 17 cm.</extent>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form authority="marcform">nonprojected graphic</form>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <location>
+    <physicalLocation>Archives and Special Collections &lt;br /&gt; Box 20, 124 Raymond Ave. &lt;br /&gt; Poughkeepsie, NY 12604-0020 &lt;br /&gt; 845.437.5799 &lt;br /&gt; http://specialcollections.vassar.edu</physicalLocation>
+  </location>
+  <identifier type="local">08.04.01</identifier>
+  <typeOfResource>still image</typeOfResource>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A10367</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_10383</identifier><datestamp>2015-06-01T14:27:10Z</datestamp><setSpec>vassar_earlyimages</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Images of Early Vassar</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Vassar College, the Lodge, 1873</title>
+  </titleInfo>
+  <originInfo>
+    <dateOther>18--?</dateOther>
+    <publisher>Online collection published by Vassar College Archives and Special Collections, Poughkeepsie, N.Y.</publisher>
+    <dateCreated authority="w3cdtf" point="start">1800-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1899-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>The Lodge of Vassar College consisting of two identical towers with a large, round clock and arch between them. A brick wall is on each side. Trees are in the background. An unpaved road is in the foreground. Main Building is seen through the arch. Also shows the gatekeeper and two children (one behind grille)</abstract>
+  <subject authority="lcsh">
+    <topic>Vassar College Lodge (Poughkeepsie, N.Y.)</topic>
+    <topic>Vassar College -- Buildings.</topic>
+    <topic>College buildings -- New York (State) -- Poughkeepsie.</topic>
+    <topic>Gatehouses -- New York (State) -- Poughkeepsie.</topic>
+    <topic>Poughkeepsie (N.Y.) -- Buildings, structures, etc.</topic>
+  </subject>
+  <physicalDescription>
+    <extent>1 photograph : albumen, b&amp;w ; 15 x 20 cm.</extent>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form authority="marcform">nonprojected graphic</form>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <location>
+    <physicalLocation>Archives and Special Collections &lt;br /&gt; Box 20, 124 Raymond Ave. &lt;br /&gt; Poughkeepsie, NY 12604-0020 &lt;br /&gt; 845.437.5799 &lt;br /&gt; http://specialcollections.vassar.edu</physicalLocation>
+  </location>
+  <identifier type="local">08.04.06</identifier>
+  <typeOfResource>still image</typeOfResource>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A10383</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_10387</identifier><datestamp>2015-06-01T14:27:10Z</datestamp><setSpec>vassar_earlyimages</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Images of Early Vassar</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Laying Vassar College Chapel cornerstone</title>
+  </titleInfo>
+  <originInfo>
+    <dateOther>1902</dateOther>
+    <publisher>Online collection published by Vassar College Archives and Special Collections, Poughkeepsie, N.Y.</publisher>
+    <dateCreated authority="w3cdtf" point="start">1902-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1902-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>A crowd of mostly women are watching men use a hoist to set the cornerstone upon the brick foundation of the Vassar College Chapel. Large trees in leaf are in the background.</abstract>
+  <subject authority="lcsh">
+    <topic>Vassar College Chapel (Poughkeepsie, N.Y.)</topic>
+    <topic>Vassar College -- Buildings.</topic>
+    <topic>College buildings -- New York (State) -- Poughkeepsie.</topic>
+    <topic>Chapels -- New York (State) -- Poughkeepsie.</topic>
+    <topic>Poughkeepsie (N.Y.) -- Buildings, structures, etc.</topic>
+  </subject>
+  <physicalDescription>
+    <extent>1 photograph : gelatin, b&amp;w ; 12 x 17 cm.</extent>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form authority="marcform">nonprojected graphic</form>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <location>
+    <physicalLocation>Archives and Special Collections &lt;br /&gt; Box 20, 124 Raymond Ave. &lt;br /&gt; Poughkeepsie, NY 12604-0020 &lt;br /&gt; 845.437.5799 &lt;br /&gt; http://specialcollections.vassar.edu</physicalLocation>
+  </location>
+  <identifier type="local">08.03</identifier>
+  <typeOfResource>still image</typeOfResource>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A10387</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_10350</identifier><datestamp>2015-06-01T14:27:10Z</datestamp><setSpec>vassar_earlyimages</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Images of Early Vassar</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Vassar College Main Building, ca. 1894</title>
+  </titleInfo>
+  <originInfo>
+    <dateOther>ca. 1894</dateOther>
+    <publisher>Online collection published by Vassar College Archives and Special Collections, Poughkeepsie, N.Y.</publisher>
+    <dateCreated authority="w3cdtf" point="start">1894-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1894-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>Center part of Main Building of Vassar College with evergreens on each side, horse-drawn sled and snow.</abstract>
+  <subject authority="lcsh">
+    <topic>Main Building (Poughkeepsie, N.Y.)</topic>
+    <topic>Vassar College -- Buildings.</topic>
+    <topic>College buildings -- New York (State) -- Poughkeepsie.</topic>
+    <topic>Horse-drawn vehicles.</topic>
+    <topic>Poughkeepsie (N.Y.) -- Buildings, structures, etc.</topic>
+  </subject>
+  <physicalDescription>
+    <extent>1 photograph : cyanotype, blue and white ; 13 x 11 cm.</extent>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form authority="marcform">nonprojected graphic</form>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <location>
+    <physicalLocation>Archives and Special Collections &lt;br /&gt; Box 20, 124 Raymond Ave. &lt;br /&gt; Poughkeepsie, NY 12604-0020 &lt;br /&gt; 845.437.5799 &lt;br /&gt; http://specialcollections.vassar.edu</physicalLocation>
+  </location>
+  <identifier type="local">08.05.17</identifier>
+  <typeOfResource>still image</typeOfResource>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A10350</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_10354</identifier><datestamp>2015-06-01T14:27:10Z</datestamp><setSpec>vassar_earlyimages</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Images of Early Vassar</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Vassar College Astronomical Observatory with classes of 1871-1874</title>
+  </titleInfo>
+  <originInfo>
+    <dateOther>19--?</dateOther>
+    <publisher>Online collection published by Vassar College Archives and Special Collections, Poughkeepsie, N.Y.</publisher>
+    <dateCreated authority="w3cdtf" point="start">1900-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1999-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>Observatory of Vassar College with path, lawn, trees and lamp post. Also shows Maria Mitchell, members of the classes of 1871-1874 using astronomical instruments and a boy seated on the steps. Woman halfway up the steps is Abby Farwell Ferry, VC 1872.</abstract>
+  <subject authority="lcsh">
+    <topic>Mitchell, Maria, 1818-1889.</topic>
+    <topic>Vassar College Observatory (Poughkeepsie, N.Y.)</topic>
+    <topic>Vassar College -- Buildings.</topic>
+    <topic>Vassar College -- Faculty.</topic>
+    <topic>Vassar College -- Students.</topic>
+    <topic>College buildings -- New York (State) -- Poughkeepsie.</topic>
+    <topic>Astronomical observatories -- New York (State) -- Poughkeepsie.</topic>
+    <topic>College teachers -- New York (State) -- Poughkeepsie.</topic>
+    <topic>Poughkeepsie (N.Y.) -- Buildings, structures, etc.</topic>
+    <topic> Ferry, Abby (Farwell) 1851-</topic>
+  </subject>
+  <physicalDescription>
+    <extent>1 photograph : gelatin, b&amp;w ; 18 x 24 cm.</extent>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form authority="marcform">nonprojected graphic</form>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <location>
+    <physicalLocation>Archives and Special Collections &lt;br /&gt; Box 20, 124 Raymond Ave. &lt;br /&gt; Poughkeepsie, NY 12604-0020 &lt;br /&gt; 845.437.5799 &lt;br /&gt; http://specialcollections.vassar.edu</physicalLocation>
+  </location>
+  <identifier type="local">08.06.03</identifier>
+  <typeOfResource>still image</typeOfResource>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A10354</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_10325</identifier><datestamp>2015-06-01T14:27:11Z</datestamp><setSpec>vassar_earlyimages</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Images of Early Vassar</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Vassar College astronomy class, 1878</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Merritt &amp; Myers (Poughkeepsie, N.Y.)</namePart>
+    <role>
+      <roleTerm type="text">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateOther>1878</dateOther>
+    <publisher>Online collection published by Vassar College Archives and Special Collections, Poughkeepsie, N.Y.</publisher>
+    <dateCreated authority="w3cdtf" point="start">1878-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1878-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>Five female students wearing long dresses, seated or standing around a telescope. Some of the students have hats. One of them is looking through the telescope. Also shows other apparatus and books on shelves in the background.</abstract>
+  <subject authority="lcsh">
+    <topic>Vassar College -- Students.</topic>
+    <topic>Telescopes -- New York (State) -- Poughkeepsie.</topic>
+  </subject>
+  <physicalDescription>
+    <extent>1 photograph : albumen, b&amp;w ; 15 x 11 cm.</extent>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form authority="marcform">nonprojected graphic</form>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <location>
+    <physicalLocation>Archives and Special Collections &lt;br /&gt; Box 20, 124 Raymond Ave. &lt;br /&gt; Poughkeepsie, NY 12604-0020 &lt;br /&gt; 845.437.5799 &lt;br /&gt; http://specialcollections.vassar.edu</physicalLocation>
+  </location>
+  <identifier type="local">08.09.07</identifier>
+  <typeOfResource>still image</typeOfResource>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A10325</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_10374</identifier><datestamp>2015-06-01T14:27:11Z</datestamp><setSpec>vassar_earlyimages</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Images of Early Vassar</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Vassar College, the Lodge, ca. 1871</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Brown and Flewelling (Poughkeepsie, N.Y.)</namePart>
+    <role>
+      <roleTerm type="text">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateOther>1940</dateOther>
+    <publisher>Online collection published by Vassar College Archives and Special Collections, Poughkeepsie, N.Y.</publisher>
+    <dateCreated authority="w3cdtf" point="start">1940-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1940-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>The Lodge of Vassar College consisting of two identical towers with a large, round clock and arch between them. Large trees are in the background. A drive lined by evergreens is in the snow-covered foreground.</abstract>
+  <subject authority="lcsh">
+    <topic>Vassar College Lodge (Poughkeepsie, N.Y.)</topic>
+    <topic>Vassar College -- Buildings.</topic>
+    <topic>College buildings -- New York (State) -- Poughkeepsie.</topic>
+    <topic>Gatehouses -- New York (State) -- Poughkeepsie.</topic>
+    <topic>Poughkeepsie (N.Y.) -- Buildings, structures, etc.</topic>
+  </subject>
+  <physicalDescription>
+    <extent>1 photograph : gelatin, b&amp;w ; 11 x 17 cm.</extent>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form authority="marcform">nonprojected graphic</form>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <location>
+    <physicalLocation>Archives and Special Collections &lt;br /&gt; Box 20, 124 Raymond Ave. &lt;br /&gt; Poughkeepsie, NY 12604-0020 &lt;br /&gt; 845.437.5799 &lt;br /&gt; http://specialcollections.vassar.edu</physicalLocation>
+  </location>
+  <identifier type="local">08.04.02</identifier>
+  <typeOfResource>still image</typeOfResource>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A10374</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_10450</identifier><datestamp>2015-06-01T14:27:11Z</datestamp><setSpec>vassar_earlyimages</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Images of Early Vassar</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Truman J. Backus: Vassar College English professor, 1867-1883</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Slee Bros. (Poughkeepsie, N.Y.)</namePart>
+    <role>
+      <roleTerm type="text">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateOther>187-?</dateOther>
+    <publisher>Online collection published by Vassar College Archives and Special Collections, Poughkeepsie, N.Y.</publisher>
+    <dateCreated authority="w3cdtf" point="start">1870-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1879-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>Half-length picture of Truman J. Backus with beard. He is wearing a black tie, white shirt and dark suit.</abstract>
+  <subject authority="lcsh">
+    <topic>Backus, Truman J. 1842-1908 -- Portraits.</topic>
+    <topic>Vassar College -- Faculty -- Portraits.</topic>
+    <topic>College teachers -- New York (State) -- Poughkeepsie.</topic>
+  </subject>
+  <physicalDescription>
+    <extent>1 photograph : albumen, b&amp;w ; 16 x 11 cm.</extent>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form authority="marcform">nonprojected graphic</form>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <location>
+    <physicalLocation>Archives and Special Collections &lt;br /&gt; Box 20, 124 Raymond Ave. &lt;br /&gt; Poughkeepsie, NY 12604-0020 &lt;br /&gt; 845.437.5799 &lt;br /&gt; http://specialcollections.vassar.edu</physicalLocation>
+  </location>
+  <identifier type="local">08.12.11</identifier>
+  <typeOfResource>still image</typeOfResource>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A10450</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_10466</identifier><datestamp>2015-06-01T14:27:11Z</datestamp><setSpec>vassar_earlyimages</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Images of Early Vassar</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Vassar College student room, ca. 1878</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Pach, G. W.</namePart>
+    <role>
+      <roleTerm type="text">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateOther>ca. 1878</dateOther>
+    <publisher>Online collection published by Vassar College Archives and Special Collections, Poughkeepsie, N.Y.</publisher>
+    <dateCreated authority="w3cdtf" point="start">1878-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1878-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>Room with curtained window, gas lamps, tables, desk, chairs, pictures, books, plants and guitar. One student wearing a hat and long, dark dress is writing at a desk on the left. The other student wearing a long, dark dress is seated on the right.</abstract>
+  <subject authority="lcsh">
+    <topic>Vassar College -- Student housing.</topic>
+    <topic>Vassar College -- Students.</topic>
+  </subject>
+  <physicalDescription>
+    <extent>1 photograph : albumen, b&amp;w ; 19 x 24 cm.</extent>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form authority="marcform">nonprojected graphic</form>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <location>
+    <physicalLocation>Archives and Special Collections &lt;br /&gt; Box 20, 124 Raymond Ave. &lt;br /&gt; Poughkeepsie, NY 12604-0020 &lt;br /&gt; 845.437.5799 &lt;br /&gt; http://specialcollections.vassar.edu</physicalLocation>
+  </location>
+  <identifier type="local">08.15.03</identifier>
+  <typeOfResource>still image</typeOfResource>
+  <subject authority="local">
+    <topic authority="local">Dormitories.</topic>
+  </subject>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A10466</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_10448</identifier><datestamp>2015-06-01T14:27:11Z</datestamp><setSpec>vassar_earlyimages</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Images of Early Vassar</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Group of six Vassar College students, 1873-1874</title>
+  </titleInfo>
+  <originInfo>
+    <dateOther>1873 or 1874</dateOther>
+    <publisher>Online collection published by Vassar College Archives and Special Collections, Poughkeepsie, N.Y.</publisher>
+    <dateCreated authority="w3cdtf" point="start">1873-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1874-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>Full-length oval picture of six female students. Some are wearing hats or holding books. Two are seated in the grass, one is lying on her side propped on her left arm and two are behind them, leaning against trees. Large trees with a few leaves are in the background.</abstract>
+  <subject authority="lcsh">
+    <topic>Vassar College -- Students.</topic>
+  </subject>
+  <physicalDescription>
+    <extent>1 photograph : tintype, b&amp;w ; 17 x 12 cm.</extent>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form authority="marcform">nonprojected graphic</form>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <location>
+    <physicalLocation>Archives and Special Collections &lt;br /&gt; Box 20, 124 Raymond Ave. &lt;br /&gt; Poughkeepsie, NY 12604-0020 &lt;br /&gt; 845.437.5799 &lt;br /&gt; http://specialcollections.vassar.edu</physicalLocation>
+  </location>
+  <identifier type="local">08.16.04</identifier>
+  <typeOfResource>still image</typeOfResource>
+  <subject authority="local">
+    <topic authority="local">Dress.</topic>
+    <topic authority="local">Portrait.</topic>
+  </subject>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A10448</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_10392</identifier><datestamp>2015-06-01T14:27:11Z</datestamp><setSpec>vassar_earlyimages</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Images of Early Vassar</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>First astronomy class at Vassar College, 1866</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Gullmann, C.</namePart>
+    <role>
+      <roleTerm type="text">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateOther>1866</dateOther>
+    <publisher>Online collection published by Vassar College Archives and Special Collections, Poughkeepsie, N.Y.</publisher>
+    <dateCreated authority="w3cdtf" point="start">1866-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1866-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>Professor Maria Mitchell and fifteen female students wearing long dresses, seated or standing behind a telescope. Some are holding hats or an open book.</abstract>
+  <subject authority="lcsh">
+    <topic>Mitchell, Maria, 1818-1889.</topic>
+    <topic>Vassar College -- Faculty.</topic>
+    <topic>Vassar College -- Students.</topic>
+    <topic>College teachers -- New York (State) -- Poughkeepsie.</topic>
+    <topic>Telescopes -- New York (State) -- Poughkeepsie.</topic>
+  </subject>
+  <physicalDescription>
+    <extent>1 photograph : albumen, b&amp;w ; 6 x 9 cm.</extent>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form authority="marcform">nonprojected graphic</form>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <location>
+    <physicalLocation>Archives and Special Collections &lt;br /&gt; Box 20, 124 Raymond Ave. &lt;br /&gt; Poughkeepsie, NY 12604-0020 &lt;br /&gt; 845.437.5799 &lt;br /&gt; http://specialcollections.vassar.edu</physicalLocation>
+  </location>
+  <identifier type="local">08.09.01</identifier>
+  <typeOfResource>still image</typeOfResource>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A10392</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_10516</identifier><datestamp>2015-06-01T14:27:11Z</datestamp><setSpec>vassar_earlyimages</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Images of Early Vassar</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Matthew Vassar: ca. 1862</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Slee Bros. (Poughkeepsie, N.Y.)</namePart>
+    <role>
+      <roleTerm type="text">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateOther>186-?</dateOther>
+    <publisher>Online collection published by Vassar College Archives and Special Collections, Poughkeepsie, N.Y.</publisher>
+    <dateCreated authority="w3cdtf" point="start">1860-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1869-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>Head and shoulders picture of Matthew Vassar as an elderly man wearing glasses, black tie, white shirt, and dark suit with black collar.</abstract>
+  <subject authority="lcsh">
+    <topic>Vassar, Matthew, 1792-1868 -- Portraits.</topic>
+  </subject>
+  <physicalDescription>
+    <extent>1 photograph : albumen, b&amp;w ; 10 x 6 cm.</extent>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form authority="marcform">nonprojected graphic</form>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <location>
+    <physicalLocation>Archives and Special Collections &lt;br /&gt; Box 20, 124 Raymond Ave. &lt;br /&gt; Poughkeepsie, NY 12604-0020 &lt;br /&gt; 845.437.5799 &lt;br /&gt; http://specialcollections.vassar.edu</physicalLocation>
+  </location>
+  <identifier type="local">08.24.03</identifier>
+  <typeOfResource>still image</typeOfResource>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A10516</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_10473</identifier><datestamp>2015-06-01T14:27:11Z</datestamp><setSpec>vassar_earlyimages</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Images of Early Vassar</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Priscilla H. Braislin: Vassar College mathematics professor, 1865-1887</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Notman, William</namePart>
+    <role>
+      <roleTerm type="text">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateOther>187-?</dateOther>
+    <publisher>Online collection published by Vassar College Archives and Special Collections, Poughkeepsie, N.Y.</publisher>
+    <dateCreated authority="w3cdtf" point="start">1870-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1879-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>Three-quarter length picture of Priscilla H. Braislin wearing a black choker, white lace collar and long, dark dress. She is seated, holding an object on a table on the right.</abstract>
+  <subject authority="lcsh">
+    <topic>Braislin, Priscilla H. -- Portraits.</topic>
+    <topic>Vassar College -- Faculty -- Portraits.</topic>
+    <topic>College teachers -- New York (State) -- Poughkeepsie.</topic>
+  </subject>
+  <physicalDescription>
+    <extent>1 photograph : albumen, b&amp;w ; 9 x 6 cm.</extent>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form authority="marcform">nonprojected graphic</form>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <location>
+    <physicalLocation>Archives and Special Collections &lt;br /&gt; Box 20, 124 Raymond Ave. &lt;br /&gt; Poughkeepsie, NY 12604-0020 &lt;br /&gt; 845.437.5799 &lt;br /&gt; http://specialcollections.vassar.edu</physicalLocation>
+  </location>
+  <identifier type="local">08.12.16</identifier>
+  <typeOfResource>still image</typeOfResource>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A10473</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_10509</identifier><datestamp>2015-06-01T14:27:11Z</datestamp><setSpec>vassar_earlyimages</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Images of Early Vassar</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Elias L. Magoon, 1853: Vassar College trustee, 1861-1886</title>
+  </titleInfo>
+  <originInfo>
+    <dateOther>19--?</dateOther>
+    <publisher>Online collection published by Vassar College Archives and Special Collections, Poughkeepsie, N.Y.</publisher>
+    <dateCreated authority="w3cdtf" point="start">1900-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1999-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>Half-length picture of oil painting of Elias L. Magoon as a mature man wearing a ring, black bow tie, white shirt and black suit with watch chain. He is holding a handkerchief in his right hand and eyelasses in his left hand. The painting was done by Samuel F.B. Morse.</abstract>
+  <subject authority="lcsh">
+    <topic>Magoon, Elias Lyman -- Portraits.</topic>
+    <topic>College trustees -- New York (State) -- Poughkeepsie -- Portraits.</topic>
+  </subject>
+  <physicalDescription>
+    <extent>1 photograph : gelatin, b&amp;w ; 18 x 13 cm.</extent>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form authority="marcform">nonprojected graphic</form>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <location>
+    <physicalLocation>Archives and Special Collections &lt;br /&gt; Box 20, 124 Raymond Ave. &lt;br /&gt; Poughkeepsie, NY 12604-0020 &lt;br /&gt; 845.437.5799 &lt;br /&gt; http://specialcollections.vassar.edu</physicalLocation>
+  </location>
+  <identifier type="local">08.18.05</identifier>
+  <typeOfResource>still image</typeOfResource>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A10509</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_10475</identifier><datestamp>2015-06-01T14:27:11Z</datestamp><setSpec>vassar_earlyimages</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Images of Early Vassar</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Charles Hinkel: Vassar College Greek &amp; Latin professor, 1869-1890</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Pach, G. W.</namePart>
+    <role>
+      <roleTerm type="text">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateOther>18--</dateOther>
+    <publisher>Online collection published by Vassar College Archives and Special Collections, Poughkeepsie, N.Y.</publisher>
+    <dateCreated authority="w3cdtf" point="start">1800-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1899-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>Head and shoulders picture of Charles Hinkel with mustache and beard. He is wearing glasses, black bow tie, white shirt, and dark suit with black collar.</abstract>
+  <subject authority="lcsh">
+    <topic>Hinkel, Charles -- Portraits.</topic>
+    <topic>Vassar College -- Faculty -- Portraits.</topic>
+    <topic>College teachers -- New York (State) -- Poughkeepsie.</topic>
+  </subject>
+  <physicalDescription>
+    <extent>1 photograph : albumen, b&amp;w ; 10 x 6 cm.</extent>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form authority="marcform">nonprojected graphic</form>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <location>
+    <physicalLocation>Archives and Special Collections &lt;br /&gt; Box 20, 124 Raymond Ave. &lt;br /&gt; Poughkeepsie, NY 12604-0020 &lt;br /&gt; 845.437.5799 &lt;br /&gt; http://specialcollections.vassar.edu</physicalLocation>
+  </location>
+  <identifier type="local">08.12.25</identifier>
+  <typeOfResource>still image</typeOfResource>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A10475</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_10353</identifier><datestamp>2015-06-01T14:27:11Z</datestamp><setSpec>vassar_earlyimages</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Images of Early Vassar</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Early Vassar College</title>
+  </titleInfo>
+  <originInfo>
+    <dateOther>19--</dateOther>
+    <publisher>Online collection published by Vassar College Archives and Special Collections, Poughkeepsie, N.Y.</publisher>
+    <dateCreated authority="w3cdtf" point="start">1900-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1999-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>Northwest view of Main Building, Calisthenium and Riding Academy, Lodge, and Gas and Boiler House of Vassar College with paths, lawn and trees.</abstract>
+  <subject authority="lcsh">
+    <topic>Vassar College -- Buildings.</topic>
+    <topic>College buildings -- New York (State) -- Poughkeepsie.</topic>
+    <topic>Poughkeepsie (N.Y.) -- Buildings, structures, etc.</topic>
+  </subject>
+  <physicalDescription>
+    <extent>1 photograph : gelatin, b&amp;w ; 10 x 15 cm.</extent>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form authority="marcform">nonprojected graphic</form>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <location>
+    <physicalLocation>Archives and Special Collections &lt;br /&gt; Box 20, 124 Raymond Ave. &lt;br /&gt; Poughkeepsie, NY 12604-0020 &lt;br /&gt; 845.437.5799 &lt;br /&gt; http://specialcollections.vassar.edu</physicalLocation>
+  </location>
+  <identifier type="local">08.05.08</identifier>
+  <typeOfResource>still image</typeOfResource>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A10353</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_10455</identifier><datestamp>2015-06-01T14:27:12Z</datestamp><setSpec>vassar_earlyimages</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Images of Early Vassar</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Vassar College physician's parlor, 1877</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Pach, G. W.</namePart>
+    <role>
+      <roleTerm type="text">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateOther>1877</dateOther>
+    <publisher>Online collection published by Vassar College Archives and Special Collections, Poughkeepsie, N.Y.</publisher>
+    <dateCreated authority="w3cdtf" point="start">1877-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1877-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>Room with window, desk, cot, chairs, pictures, and accessories. Dr. Helen Northing Webster wearing a long dress is seated in front of the desk, her right arm propped on top of it.</abstract>
+  <subject authority="lcsh">
+    <topic>Webster, Helen Northing.</topic>
+    <topic>Vassar College -- Faculty housing.</topic>
+    <topic>School physicians -- New York (State) -- Poughkeepsie.</topic>
+  </subject>
+  <physicalDescription>
+    <extent>1 photograph : albumen, b&amp;w ; 15 x 11 cm.</extent>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form authority="marcform">nonprojected graphic</form>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <location>
+    <physicalLocation>Archives and Special Collections &lt;br /&gt; Box 20, 124 Raymond Ave. &lt;br /&gt; Poughkeepsie, NY 12604-0020 &lt;br /&gt; 845.437.5799 &lt;br /&gt; http://specialcollections.vassar.edu</physicalLocation>
+  </location>
+  <identifier type="local">08.15.05</identifier>
+  <typeOfResource>still image</typeOfResource>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A10455</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_10507</identifier><datestamp>2015-06-01T14:27:12Z</datestamp><setSpec>vassar_earlyimages</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Images of Early Vassar</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>M. Vassar &amp; Co's Brewery</title>
+  </titleInfo>
+  <originInfo>
+    <dateOther>19--?</dateOther>
+    <publisher>Online collection published by Vassar College Archives and Special Collections, Poughkeepsie, N.Y.</publisher>
+    <dateCreated authority="w3cdtf" point="start">1900-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1999-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>Waterfront buildings with sign labelled """"M. Vassar &amp; Co's Brewery"""". Also shows boats, train and people.</abstract>
+  <subject authority="lcsh">
+    <topic>M. Vassar &amp; Co's Brewery (Poughkeepsie, N.Y.)</topic>
+    <topic>Breweries -- New York (State) -- Poughkeepsie.</topic>
+    <topic>Poughkeepsie (N.Y.) -- Buildings, structures, etc.</topic>
+  </subject>
+  <physicalDescription>
+    <extent>1 photograph : gelatin, b&amp;w ; 20 x 25 cm.</extent>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form authority="marcform">nonprojected graphic</form>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <location>
+    <physicalLocation>Archives and Special Collections &lt;br /&gt; Box 20, 124 Raymond Ave. &lt;br /&gt; Poughkeepsie, NY 12604-0020 &lt;br /&gt; 845.437.5799 &lt;br /&gt; http://specialcollections.vassar.edu</physicalLocation>
+  </location>
+  <identifier type="local">08.20.03b</identifier>
+  <typeOfResource>still image</typeOfResource>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A10507</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_10517</identifier><datestamp>2015-06-01T14:27:12Z</datestamp><setSpec>vassar_earlyimages</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Images of Early Vassar</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Vassar College in 1865</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Slee Bros. (Poughkeepsie, N.Y.)</namePart>
+    <role>
+      <roleTerm type="text">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateOther>1865</dateOther>
+    <publisher>Online collection published by Vassar College Archives and Special Collections, Poughkeepsie, N.Y.</publisher>
+    <dateCreated authority="w3cdtf" point="start">1865-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1865-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>Main Building of Vassar College with lawn and young trees.</abstract>
+  <subject authority="lcsh">
+    <topic>Main Building (Poughkeepsie, N.Y.)</topic>
+    <topic>Vassar College -- Buildings.</topic>
+    <topic>College buildings -- New York (State) -- Poughkeepsie.</topic>
+    <topic>Poughkeepsie (N.Y.) -- Buildings, structures, etc.</topic>
+  </subject>
+  <physicalDescription>
+    <extent>1 photograph : albumen, b&amp;w ; 9 x 6 cm.</extent>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form authority="marcform">nonprojected graphic</form>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <location>
+    <physicalLocation>Archives and Special Collections &lt;br /&gt; Box 20, 124 Raymond Ave. &lt;br /&gt; Poughkeepsie, NY 12604-0020 &lt;br /&gt; 845.437.5799 &lt;br /&gt; http://specialcollections.vassar.edu</physicalLocation>
+  </location>
+  <identifier type="local">08.24.04</identifier>
+  <typeOfResource>still image</typeOfResource>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A10517</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_10432</identifier><datestamp>2015-06-01T14:27:12Z</datestamp><setSpec>vassar_earlyimages</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Images of Early Vassar</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Alida C. Avery, 1873: Vassar College physician, 1865-1874</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Slee Bros. (Poughkeepsie, N.Y.)</namePart>
+    <role>
+      <roleTerm type="text">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateOther>1873</dateOther>
+    <publisher>Online collection published by Vassar College Archives and Special Collections, Poughkeepsie, N.Y.</publisher>
+    <dateCreated authority="w3cdtf" point="start">1873-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1873-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>Head and shoulders picture of Alida C. Avery as a mature woman wearing a dark cross, white lace and dark, ruffled, button-down clothing.</abstract>
+  <subject authority="lcsh">
+    <topic>Avery, Alida C. -- Portraits.</topic>
+    <topic>School physicians -- New York (State) -- Poughkeepsie -- Portraits.</topic>
+    <topic>Women physicians -- New York (State) -- Poughkeepsie -- Portraits.</topic>
+  </subject>
+  <physicalDescription>
+    <extent>1 photograph : albumen, b&amp;w ; 10 x 6 cm.</extent>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form authority="marcform">nonprojected graphic</form>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <location>
+    <physicalLocation>Archives and Special Collections &lt;br /&gt; Box 20, 124 Raymond Ave. &lt;br /&gt; Poughkeepsie, NY 12604-0020 &lt;br /&gt; 845.437.5799 &lt;br /&gt; http://specialcollections.vassar.edu</physicalLocation>
+  </location>
+  <identifier type="local">08.12.08</identifier>
+  <typeOfResource>still image</typeOfResource>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A10432</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_10551</identifier><datestamp>2015-06-01T14:27:12Z</datestamp><setSpec>vassar_earlyimages</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Images of Early Vassar</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Matthew Vassar, ca. 1867-1868</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Slee Bros. (Poughkeepsie, N.Y.)</namePart>
+    <role>
+      <roleTerm type="text">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateOther>ca. 1867</dateOther>
+    <publisher>Online collection published by Vassar College Archives and Special Collections, Poughkeepsie, N.Y.</publisher>
+    <dateCreated authority="w3cdtf" point="start">1867-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1867-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>Half-length picture of Matthew Vassar as an elderly man wearing glasses, blackk tie with white spots, white shirt and dark suit.</abstract>
+  <subject authority="lcsh">
+    <topic>Vassar, Matthew, 1792-1868 -- Portraits.</topic>
+  </subject>
+  <physicalDescription>
+    <extent>1 photograph : albumen, b&amp;w ; 9 x 6 cm.</extent>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form authority="marcform">nonprojected graphic</form>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <location>
+    <physicalLocation>Archives and Special Collections &lt;br /&gt; Box 20, 124 Raymond Ave. &lt;br /&gt; Poughkeepsie, NY 12604-0020 &lt;br /&gt; 845.437.5799 &lt;br /&gt; http://specialcollections.vassar.edu</physicalLocation>
+  </location>
+  <identifier type="local">08.43.03e</identifier>
+  <typeOfResource>still image</typeOfResource>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A10551</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_30580</identifier><datestamp>2015-06-01T14:27:12Z</datestamp><setSpec>vassar_earlyimages</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Images of Early Vassar</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Lucy Hall, Vassar College physician [1883]</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Vail Brothers</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <originInfo>
+    <publisher>Online collection published by Vassar College Libraries, Poughkeepsie, N.Y.</publisher>
+    <dateOther>n.d.</dateOther>
+  </originInfo>
+  <abstract>Head and shoulders picture of Lucy Hall.</abstract>
+  <identifier type="local">8.13</identifier>
+  <physicalDescription>
+    <form authority="marcform">nonprojected graphic</form>
+    <extent>1 photograph</extent>
+  </physicalDescription>
+  <subject>
+    <topic>Women physicians -- New York (State) -- Poughkeepsie -- Portraits.</topic>
+    <topic>School physicians -- New York (State) -- Poughkeepsie -- Portraits.</topic>
+  </subject>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <location>
+    <physicalLocation>Archives and Special Collections
+Box 20, 124 Raymond Ave.
+Poughkeepsie, NY 12604-0020
+845.437.5799
+http://specialcollections.vassar.edu</physicalLocation>
+  </location>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A30580</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_10411</identifier><datestamp>2015-06-01T14:27:12Z</datestamp><setSpec>vassar_earlyimages</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Images of Early Vassar</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Milo P. Jewett: president of Vassar College 1861-1864</title>
+  </titleInfo>
+  <originInfo>
+    <dateOther>19--?</dateOther>
+    <publisher>Online collection published by Vassar College Archives and Special Collections, Poughkeepsie, N.Y.</publisher>
+    <dateCreated authority="w3cdtf" point="start">1900-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1999-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>Head and shoulders picture of Milo P. Jewett as an elderly man with long, white beard. He is wearing glasses, white shirt and black suit.</abstract>
+  <subject authority="lcsh">
+    <topic>Jewett, Milo Parker, 1808-1882 -- Portraits.</topic>
+    <topic>Vassar College -- Presidents -- Portraits.</topic>
+    <topic>College presidents -- New York (State) -- Poughkeepsie -- Portraits.</topic>
+  </subject>
+  <physicalDescription>
+    <extent>1 photograph : gelatin, b&amp;w ; 17 x 13 cm.</extent>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form authority="marcform">nonprojected graphic</form>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <location>
+    <physicalLocation>Archives and Special Collections &lt;br /&gt; Box 20, 124 Raymond Ave. &lt;br /&gt; Poughkeepsie, NY 12604-0020 &lt;br /&gt; 845.437.5799 &lt;br /&gt; http://specialcollections.vassar.edu</physicalLocation>
+  </location>
+  <identifier type="local">08.12.01</identifier>
+  <typeOfResource>still image</typeOfResource>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A10411</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_10351</identifier><datestamp>2015-06-01T14:27:12Z</datestamp><setSpec>vassar_earlyimages</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Images of Early Vassar</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Vassar College, Main Building</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Slee Bros. (Poughkeepsie, N.Y.)</namePart>
+    <role>
+      <roleTerm type="text">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateOther>186-?</dateOther>
+    <publisher>Online collection published by Vassar College Archives and Special Collections, Poughkeepsie, N.Y.</publisher>
+    <dateCreated authority="w3cdtf" point="start">1860-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1869-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>Southeast view of Main Building of Vassar College with lawn and trees.</abstract>
+  <subject authority="lcsh">
+    <topic>Main Building (Poughkeepsie, N.Y.)</topic>
+    <topic>Vassar College -- Buildings.</topic>
+    <topic>College buildings -- New York (State) -- Poughkeepsie.</topic>
+    <topic>Poughkeepsie (N.Y.) -- Buildings, structures, etc.</topic>
+  </subject>
+  <physicalDescription>
+    <extent>1 stereograph : albumen, b&amp;w ; 9 x 17 cm.</extent>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form authority="marcform">nonprojected graphic</form>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <location>
+    <physicalLocation>Archives and Special Collections &lt;br /&gt; Box 20, 124 Raymond Ave. &lt;br /&gt; Poughkeepsie, NY 12604-0020 &lt;br /&gt; 845.437.5799 &lt;br /&gt; http://specialcollections.vassar.edu</physicalLocation>
+  </location>
+  <identifier type="local">08.05.09</identifier>
+  <typeOfResource>still image</typeOfResource>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A10351</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_10342</identifier><datestamp>2015-06-01T14:27:12Z</datestamp><setSpec>vassar_earlyimages</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Images of Early Vassar</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Vassar College, ca. 1881</title>
+  </titleInfo>
+  <originInfo>
+    <dateOther>ca. 1881</dateOther>
+    <publisher>Online collection published by Vassar College Archives and Special Collections, Poughkeepsie, N.Y.</publisher>
+    <dateCreated authority="w3cdtf" point="start">1881-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1881-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>View of Main Building, Calisthenium and Riding Academy, Physics Building and Gas and Boiler House of Vassar College from Sunset Hill with path, lawn and trees.</abstract>
+  <subject authority="lcsh">
+    <topic>Vassar College -- Buildings.</topic>
+    <topic>College buildings -- New York (State) -- Poughkeepsie.</topic>
+    <topic>Poughkeepsie (N.Y.) -- Buildings, structures, etc.</topic>
+  </subject>
+  <physicalDescription>
+    <extent>1 photograph : albumen, b&amp;w ; 11 x 16 cm.</extent>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form authority="marcform">nonprojected graphic</form>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <location>
+    <physicalLocation>Archives and Special Collections &lt;br /&gt; Box 20, 124 Raymond Ave. &lt;br /&gt; Poughkeepsie, NY 12604-0020 &lt;br /&gt; 845.437.5799 &lt;br /&gt; http://specialcollections.vassar.edu</physicalLocation>
+  </location>
+  <identifier type="local">08.05.18</identifier>
+  <typeOfResource>still image</typeOfResource>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A10342</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_10401</identifier><datestamp>2015-06-01T14:27:12Z</datestamp><setSpec>vassar_earlyimages</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Images of Early Vassar</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Minerva Swayze: Vassar College elocution teacher, 1869-1871</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Notman, William</namePart>
+    <role>
+      <roleTerm type="text">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateOther>between 1869 and 1871</dateOther>
+    <publisher>Online collection published by Vassar College Archives and Special Collections, Poughkeepsie, N.Y.</publisher>
+    <dateIssued>1869 1871</dateIssued>
+    <dateCreated authority="w3cdtf" point="start">1869-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1871-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>Head and shoulders oval picture of Minerva Swayze wearing earrings, broach, white lace collar and button-down clothing.</abstract>
+  <subject authority="lcsh">
+    <topic>Swayze, Minerva -- Portraits.</topic>
+    <topic>Vassar College -- Faculty -- Portraits.</topic>
+    <topic>College teachers -- New York (State) -- Poughkeepsie.</topic>
+  </subject>
+  <physicalDescription>
+    <extent>1 photograph : albumen, b&amp;w ; 9 x 6 cm.</extent>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form authority="marcform">nonprojected graphic</form>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <location>
+    <physicalLocation>Archives and Special Collections &lt;br /&gt; Box 20, 124 Raymond Ave. &lt;br /&gt; Poughkeepsie, NY 12604-0020 &lt;br /&gt; 845.437.5799 &lt;br /&gt; http://specialcollections.vassar.edu</physicalLocation>
+  </location>
+  <identifier type="local">08.13.16</identifier>
+  <typeOfResource>still image</typeOfResource>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A10401</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_10545</identifier><datestamp>2015-06-01T14:27:13Z</datestamp><setSpec>vassar_earlyimages</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Images of Early Vassar</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Matthew Vassar, ca. 1862</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Slee Bros. (Poughkeepsie, N.Y.)</namePart>
+    <role>
+      <roleTerm type="text">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateOther>186-?</dateOther>
+    <publisher>Online collection published by Vassar College Archives and Special Collections, Poughkeepsie, N.Y.</publisher>
+    <dateCreated authority="w3cdtf" point="start">1860-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1869-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>Half-length picture of Matthew Vassar as an elderly man wearing glasses, black tie, white shirt, and dark suit with black collar.</abstract>
+  <subject authority="lcsh">
+    <topic>Vassar, Matthew, 1792-1868 -- Portraits.</topic>
+  </subject>
+  <physicalDescription>
+    <extent>1 photograph : albumen, b&amp;w ; 14 x 11 cm.</extent>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form authority="marcform">nonprojected graphic</form>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <location>
+    <physicalLocation>Archives and Special Collections &lt;br /&gt; Box 20, 124 Raymond Ave. &lt;br /&gt; Poughkeepsie, NY 12604-0020 &lt;br /&gt; 845.437.5799 &lt;br /&gt; http://specialcollections.vassar.edu</physicalLocation>
+  </location>
+  <identifier type="local">08.24.02</identifier>
+  <typeOfResource>still image</typeOfResource>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A10545</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_10378</identifier><datestamp>2015-06-01T14:27:13Z</datestamp><setSpec>vassar_earlyimages</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Images of Early Vassar</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Vassar College Main Building</title>
+  </titleInfo>
+  <originInfo>
+    <dateOther>18--?</dateOther>
+    <publisher>Online collection published by Vassar College Archives and Special Collections, Poughkeepsie, N.Y.</publisher>
+    <dateCreated authority="w3cdtf" point="start">1800-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1899-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>Main Building of Vassar College with Vassar Lake. Trees, row boats and people are in the foreground.</abstract>
+  <subject authority="lcsh">
+    <topic>Main Building (Poughkeepsie, N.Y.)</topic>
+    <topic>Vassar College -- Buildings.</topic>
+    <topic>College buildings -- New York (State) -- Poughkeepsie.</topic>
+    <topic>Poughkeepsie (N.Y.) -- Buildings, structures, etc.</topic>
+    <topic>Vassar Lake (Poughkeepsie, N.Y.)</topic>
+  </subject>
+  <physicalDescription>
+    <extent>1 photograph : albumen, b&amp;w ; 11 x 26 cm.</extent>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form authority="marcform">nonprojected graphic</form>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <location>
+    <physicalLocation>Archives and Special Collections &lt;br /&gt; Box 20, 124 Raymond Ave. &lt;br /&gt; Poughkeepsie, NY 12604-0020 &lt;br /&gt; 845.437.5799 &lt;br /&gt; http://specialcollections.vassar.edu</physicalLocation>
+  </location>
+  <identifier type="local">08.05.04</identifier>
+  <typeOfResource>still image</typeOfResource>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A10378</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_10444</identifier><datestamp>2015-06-01T14:27:13Z</datestamp><setSpec>vassar_earlyimages</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Images of Early Vassar</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Mary Fletcher Mackie: Vassar College mathematics professor, 1869-1871</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Notman, William</namePart>
+    <role>
+      <roleTerm type="text">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateOther>between 1869 and 1871</dateOther>
+    <publisher>Online collection published by Vassar College Archives and Special Collections, Poughkeepsie, N.Y.</publisher>
+    <dateCreated authority="w3cdtf" point="start">1869-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1871-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>Head and shoulders oval picture of Mary Fletcher Mackie wearing earrings, black choker, necklace, white lace collar and dark, button-down clothing.</abstract>
+  <subject authority="lcsh">
+    <topic>Mackie, Mary Fletcher -- Portraits.</topic>
+    <topic>Vassar College -- Faculty -- Portraits.</topic>
+    <topic>College teachers -- New York (State) -- Poughkeepsie.</topic>
+  </subject>
+  <physicalDescription>
+    <extent>1 photograph : albumen, b&amp;w ; 9 x 6 cm.</extent>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form authority="marcform">nonprojected graphic</form>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <location>
+    <physicalLocation>Archives and Special Collections &lt;br /&gt; Box 20, 124 Raymond Ave. &lt;br /&gt; Poughkeepsie, NY 12604-0020 &lt;br /&gt; 845.437.5799 &lt;br /&gt; http://specialcollections.vassar.edu</physicalLocation>
+  </location>
+  <identifier type="local">08.13.01</identifier>
+  <typeOfResource>still image</typeOfResource>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A10444</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_30582</identifier><datestamp>2015-06-01T14:27:13Z</datestamp><setSpec>vassar_earlyimages</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Images of Early Vassar</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <titleInfo>
+    <title>Helen Northing Webster, Vassar College physician</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Vail Brothers</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <originInfo>
+    <publisher>Online collection published by Vassar College Archives and Special Collections, Poughkeepsie, N.Y.</publisher>
+    <dateOther>n.d.</dateOther>
+  </originInfo>
+  <abstract>Head and shoulders picture of Helen Northing Webster as a young woman.</abstract>
+  <identifier type="local">8.13</identifier>
+  <physicalDescription>
+    <form authority="marcform">nonprojected graphic</form>
+    <extent>1 photograph</extent>
+  </physicalDescription>
+  <subject>
+    <topic>Women physicians -- New York (State) -- Poughkeepsie -- Portraits.</topic>
+    <topic>School physicians -- New York (State) -- Poughkeepsie -- Portraits.</topic>
+  </subject>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <location>
+    <physicalLocation>Archives and Special Collections
+Box 20, 124 Raymond Ave.
+Poughkeepsie, NY 12604-0020
+845.437.5799
+http://specialcollections.vassar.edu</physicalLocation>
+  </location>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A30582</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_10421</identifier><datestamp>2015-06-01T14:27:13Z</datestamp><setSpec>vassar_earlyimages</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Images of Early Vassar</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>J. Ryland Kendrick: acting Vassar College president, 1885-1886</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Vail Brothers (Poughkeepsie, N.Y.)</namePart>
+    <role>
+      <roleTerm type="text">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateOther>1885 or 1886</dateOther>
+    <publisher>Online collection published by Vassar College Archives and Special Collections, Poughkeepsie, N.Y.</publisher>
+    <dateCreated authority="w3cdtf" point="start">1885-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1886-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>Head and shoulders picture of J. Ryland Kendrick as a mature man wearing a black bow tie, white shirt and dark suit.</abstract>
+  <subject authority="lcsh">
+    <topic>Kendrick, J. R. -- Portraits.</topic>
+    <topic>College presidents -- New York (State) -- Poughkeepsie -- Portraits.</topic>
+  </subject>
+  <physicalDescription>
+    <extent>1 photograph : albumen, b&amp;w ; 16 x 11 cm.</extent>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form authority="marcform">nonprojected graphic</form>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <location>
+    <physicalLocation>Archives and Special Collections &lt;br /&gt; Box 20, 124 Raymond Ave. &lt;br /&gt; Poughkeepsie, NY 12604-0020 &lt;br /&gt; 845.437.5799 &lt;br /&gt; http://specialcollections.vassar.edu</physicalLocation>
+  </location>
+  <identifier type="local">08.14.03</identifier>
+  <typeOfResource>still image</typeOfResource>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A10421</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_10470</identifier><datestamp>2015-06-01T14:27:13Z</datestamp><setSpec>vassar_earlyimages</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Images of Early Vassar</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Augusta Reichel: Vassar College music professor, 1867-1869</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Slee Bros. (Poughkeepsie, N.Y.)</namePart>
+    <role>
+      <roleTerm type="text">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateOther>between 1867 and 1869</dateOther>
+    <publisher>Online collection published by Vassar College Archives and Special Collections, Poughkeepsie, N.Y.</publisher>
+    <dateCreated authority="w3cdtf" point="start">1867-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1869-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>Three-quarter length picture of Augusta Reichel wearing a broach, necklace, and long, button-down dress.</abstract>
+  <subject authority="lcsh">
+    <topic>Reichel, Augusta -- Portraits.</topic>
+    <topic>Vassar College -- Faculty -- Portraits.</topic>
+    <topic>College teachers -- New York (State) -- Poughkeepsie.</topic>
+  </subject>
+  <physicalDescription>
+    <extent>1 photograph : albumen, b&amp;w ; 9 x 6 cm.</extent>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form authority="marcform">nonprojected graphic</form>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <location>
+    <physicalLocation>Archives and Special Collections &lt;br /&gt; Box 20, 124 Raymond Ave. &lt;br /&gt; Poughkeepsie, NY 12604-0020 &lt;br /&gt; 845.437.5799 &lt;br /&gt; http://specialcollections.vassar.edu</physicalLocation>
+  </location>
+  <identifier type="local">08.13.10</identifier>
+  <typeOfResource>still image</typeOfResource>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A10470</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_10348</identifier><datestamp>2015-06-01T14:27:14Z</datestamp><setSpec>vassar_earlyimages</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Images of Early Vassar</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Vassar College Astronomical Observatory interior</title>
+  </titleInfo>
+  <originInfo>
+    <dateOther>18--?</dateOther>
+    <publisher>Online collection published by Vassar College Archives and Special Collections, Poughkeepsie, N.Y.</publisher>
+    <dateCreated authority="w3cdtf" point="start">1880-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1889-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>Interior of Observatory of Vassar College with a door, telescope on tripod, chart, desks, table, chairs, blackboard, globe and basket.</abstract>
+  <subject authority="lcsh">
+    <topic>Vassar College Observatory (Poughkeepsie, N.Y.)</topic>
+    <topic>Vassar College -- Buildings.</topic>
+    <topic>College buildings -- New York (State) -- Poughkeepsie.</topic>
+    <topic>Astronomical observatories -- New York (State) -- Poughkeepsie.</topic>
+    <topic>Poughkeepsie (N.Y.) -- Buildings, structures, etc.</topic>
+  </subject>
+  <physicalDescription>
+    <extent>1 photograph : albumen, b&amp;w ; 12 x 20 cm.</extent>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form authority="marcform">nonprojected graphic</form>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <location>
+    <physicalLocation>Archives and Special Collections &lt;br /&gt; Box 20, 124 Raymond Ave. &lt;br /&gt; Poughkeepsie, NY 12604-0020 &lt;br /&gt; 845.437.5799 &lt;br /&gt; http://specialcollections.vassar.edu</physicalLocation>
+  </location>
+  <identifier type="local">08.07.04</identifier>
+  <typeOfResource>still image</typeOfResource>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A10348</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_10328</identifier><datestamp>2015-06-01T14:27:14Z</datestamp><setSpec>vassar_earlyimages</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Images of Early Vassar</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Vassar College, the Lodge, ca. 1890-1894</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Bogardus, A. (Abraham), 1822-1908</namePart>
+    <role>
+      <roleTerm type="text">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateOther>ca. 1890-1894</dateOther>
+    <publisher>Online collection published by Vassar College Archives and Special Collections, Poughkeepsie, N.Y.</publisher>
+    <dateCreated authority="w3cdtf" point="start">1890-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1894-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>The Lodge of Vassar College consisting of two identical towers with a large, round clock and arch between them. Large trees are in the background. A long, unpaved drive lined by evergreens is in the foreground. A horsecar is seen through the arch.</abstract>
+  <subject authority="lcsh">
+    <topic>Vassar College Lodge (Poughkeepsie, N.Y.)</topic>
+    <topic>Vassar College -- Buildings.</topic>
+    <topic>College buildings -- New York (State) -- Poughkeepsie.</topic>
+    <topic>Gatehouses -- New York (State) -- Poughkeepsie.</topic>
+    <topic>Horse-drawn vehicles.</topic>
+    <topic>Poughkeepsie (N.Y.) -- Buildings, structures, etc.</topic>
+  </subject>
+  <physicalDescription>
+    <extent>1 photograph : albumen, b&amp;w ; 11 x 16 cm.</extent>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form authority="marcform">nonprojected graphic</form>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <location>
+    <physicalLocation>Archives and Special Collections &lt;br /&gt; Box 20, 124 Raymond Ave. &lt;br /&gt; Poughkeepsie, NY 12604-0020 &lt;br /&gt; 845.437.5799 &lt;br /&gt; http://specialcollections.vassar.edu</physicalLocation>
+  </location>
+  <identifier type="local">08.04.09</identifier>
+  <typeOfResource>still image</typeOfResource>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A10328</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_10462</identifier><datestamp>2015-06-01T14:27:14Z</datestamp><setSpec>vassar_earlyimages</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Images of Early Vassar</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Eliza M. Wiley: Vassar College music teacher, 1865-1882</title>
+  </titleInfo>
+  <originInfo>
+    <dateOther>between 1865 and 1882</dateOther>
+    <publisher>Online collection published by Vassar College Archives and Special Collections, Poughkeepsie, N.Y.</publisher>
+    <dateCreated authority="w3cdtf" point="start">1865-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1882-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>Head and shoulders picture of Eliza M. Wiley wearing a broach, white lace collar and button-down clothing with black ribbon on left side.</abstract>
+  <subject authority="lcsh">
+    <topic>Wiley, Eliza M. -- Portraits.</topic>
+    <topic>Vassar College -- Faculty -- Portraits.</topic>
+    <topic>College teachers -- New York (State) -- Poughkeepsie.</topic>
+  </subject>
+  <physicalDescription>
+    <extent>1 photograph : albumen, b&amp;w ; 16 x 11 cm.</extent>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form authority="marcform">nonprojected graphic</form>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <location>
+    <physicalLocation>Archives and Special Collections &lt;br /&gt; Box 20, 124 Raymond Ave. &lt;br /&gt; Poughkeepsie, NY 12604-0020 &lt;br /&gt; 845.437.5799 &lt;br /&gt; http://specialcollections.vassar.edu</physicalLocation>
+  </location>
+  <identifier type="local">08.13.28</identifier>
+  <typeOfResource>still image</typeOfResource>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A10462</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_10539</identifier><datestamp>2015-06-01T14:27:14Z</datestamp><setSpec>vassar_earlyimages</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Images of Early Vassar</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Matthew Vassar as a young man</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Wolven, Edmund L.</namePart>
+    <role>
+      <roleTerm type="text">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateOther>19--?</dateOther>
+    <publisher>Online collection published by Vassar College Archives and Special Collections, Poughkeepsie, N.Y.</publisher>
+    <dateCreated authority="w3cdtf" point="start">1900-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1999-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>Half-length picture of Matthew Vassar as a young man wearing a white shirt and dark suit. He is seated, holding a newspaper.</abstract>
+  <subject authority="lcsh">
+    <topic>Vassar, Matthew, 1792-1868 -- Portraits.</topic>
+  </subject>
+  <physicalDescription>
+    <extent>1 photograph : platinotype, b&amp;w ; 23 x 18 cm.</extent>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form authority="marcform">nonprojected graphic</form>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <location>
+    <physicalLocation>Archives and Special Collections &lt;br /&gt; Box 20, 124 Raymond Ave. &lt;br /&gt; Poughkeepsie, NY 12604-0020 &lt;br /&gt; 845.437.5799 &lt;br /&gt; http://specialcollections.vassar.edu</physicalLocation>
+  </location>
+  <identifier type="local">08.28</identifier>
+  <typeOfResource>still image</typeOfResource>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A10539</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_10319</identifier><datestamp>2015-06-01T14:27:14Z</datestamp><setSpec>vassar_earlyimages</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Images of Early Vassar</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Vassar College Astronomical Observatory</title>
+  </titleInfo>
+  <originInfo>
+    <dateOther>187-?</dateOther>
+    <publisher>Online collection published by Vassar College Archives and Special Collections, Poughkeepsie, N.Y.</publisher>
+    <dateCreated authority="w3cdtf" point="start">1870-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1879-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>Observatory of Vassar College with path, lawn, trees and lamp post. Building is partially covered by vines.</abstract>
+  <subject authority="lcsh">
+    <topic>Vassar College Observatory (Poughkeepsie, N.Y.)</topic>
+    <topic>Vassar College -- Buildings.</topic>
+    <topic>College buildings -- New York (State) -- Poughkeepsie.</topic>
+    <topic>Astronomical observatories -- New York (State) -- Poughkeepsie.</topic>
+    <topic>Poughkeepsie (N.Y.) -- Buildings, structures, etc.</topic>
+  </subject>
+  <physicalDescription>
+    <extent>1 photograph : albumen, b&amp;w ; 18 x 24 cm.</extent>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form authority="marcform">nonprojected graphic</form>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <location>
+    <physicalLocation>Archives and Special Collections &lt;br /&gt; Box 20, 124 Raymond Ave. &lt;br /&gt; Poughkeepsie, NY 12604-0020 &lt;br /&gt; 845.437.5799 &lt;br /&gt; http://specialcollections.vassar.edu</physicalLocation>
+  </location>
+  <identifier type="local">08.06.07</identifier>
+  <typeOfResource>still image</typeOfResource>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A10319</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_10402</identifier><datestamp>2015-06-01T14:27:14Z</datestamp><setSpec>vassar_earlyimages</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Images of Early Vassar</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Group of eight Vassar College students, ca. 1878</title>
+  </titleInfo>
+  <originInfo>
+    <dateOther>ca. 1878</dateOther>
+    <publisher>Online collection published by Vassar College Archives and Special Collections, Poughkeepsie, N.Y.</publisher>
+    <dateCreated authority="w3cdtf" point="start">1878-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1878-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>Full-length picture of eight female students wearing long dresses. Two are kneeling, four are seated and two are standing behind them.</abstract>
+  <subject authority="lcsh">
+    <topic>Vassar College -- Students.</topic>
+  </subject>
+  <physicalDescription>
+    <extent>1 photograph : albumen, b&amp;w ; 18 x 22 cm.</extent>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form authority="marcform">nonprojected graphic</form>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <location>
+    <physicalLocation>Archives and Special Collections &lt;br /&gt; Box 20, 124 Raymond Ave. &lt;br /&gt; Poughkeepsie, NY 12604-0020 &lt;br /&gt; 845.437.5799 &lt;br /&gt; http://specialcollections.vassar.edu</physicalLocation>
+  </location>
+  <identifier type="local">08.16.10</identifier>
+  <typeOfResource>still image</typeOfResource>
+  <subject authority="local">
+    <topic authority="local">Portrait.</topic>
+    <topic authority="local">Dress.</topic>
+  </subject>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A10402</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_10528</identifier><datestamp>2015-06-01T14:27:15Z</datestamp><setSpec>vassar_earlyimages</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Images of Early Vassar</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Vassar College, 1867</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Slee Bros. (Poughkeepsie, N.Y.)</namePart>
+    <role>
+      <roleTerm type="text">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateOther>1867</dateOther>
+    <publisher>Online collection published by Vassar College Archives and Special Collections, Poughkeepsie, N.Y.</publisher>
+    <dateCreated authority="w3cdtf" point="start">1867-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1867-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>View of Main Building, Calisthenium and Riding Academy and surrounding grounds of Vassar College from a hill by Sunset Lake.</abstract>
+  <subject authority="lcsh">
+    <topic>Vassar College -- Buildings.</topic>
+    <topic>Universities and colleges -- New York (State) -- Poughkeepsie.</topic>
+  </subject>
+  <physicalDescription>
+    <extent>1 photograph : albumen, b&amp;w ; 11 x 7 cm.</extent>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form authority="marcform">nonprojected graphic</form>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <location>
+    <physicalLocation>Archives and Special Collections &lt;br /&gt; Box 20, 124 Raymond Ave. &lt;br /&gt; Poughkeepsie, NY 12604-0020 &lt;br /&gt; 845.437.5799 &lt;br /&gt; http://specialcollections.vassar.edu</physicalLocation>
+  </location>
+  <identifier type="local">08.24.06</identifier>
+  <typeOfResource>still image</typeOfResource>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A10528</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_10461</identifier><datestamp>2015-06-01T14:27:15Z</datestamp><setSpec>vassar_earlyimages</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Images of Early Vassar</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>James N. Schou: Vassar College registrar and assistant treasurer, 1865-1871</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Slee Bros. (Poughkeepsie, N.Y.)</namePart>
+    <role>
+      <roleTerm type="text">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateOther>between 1865 and 1871</dateOther>
+    <publisher>Online collection published by Vassar College Archives and Special Collections, Poughkeepsie, N.Y.</publisher>
+    <dateCreated authority="w3cdtf" point="start">1865-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1871-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>Head and shoulders picture of James N. Schou wearing a black tie, white shirt and dark suit.</abstract>
+  <subject authority="lcsh">
+    <topic>Schou, James N. -- Portraits.</topic>
+    <topic>College registrars -- New York (State) -- Poughkeepsie -- Portraits.</topic>
+  </subject>
+  <physicalDescription>
+    <extent>1 photograph : albumen, b&amp;w ; 10 x 6 cm.</extent>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form authority="marcform">nonprojected graphic</form>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <location>
+    <physicalLocation>Archives and Special Collections &lt;br /&gt; Box 20, 124 Raymond Ave. &lt;br /&gt; Poughkeepsie, NY 12604-0020 &lt;br /&gt; 845.437.5799 &lt;br /&gt; http://specialcollections.vassar.edu</physicalLocation>
+  </location>
+  <identifier type="local">08.13.13</identifier>
+  <typeOfResource>still image</typeOfResource>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A10461</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_10457</identifier><datestamp>2015-06-01T14:27:15Z</datestamp><setSpec>vassar_earlyimages</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Images of Early Vassar</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Emma Hopkins: Vassar College professor of music, 1865-1866</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Vail, J. G.</namePart>
+    <role>
+      <roleTerm type="text">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateOther>1865 or 1866</dateOther>
+    <publisher>Online collection published by Vassar College Archives and Special Collections, Poughkeepsie, N.Y.</publisher>
+    <dateCreated authority="w3cdtf" point="start">1865-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1866-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>Full-length picture of two women (Emma Hopkins on the right) wearing long dresses. They are seated, each of them resting an arm on the back of her chair.</abstract>
+  <subject authority="lcsh">
+    <topic>Hopkins, Emma -- Portraits.</topic>
+    <topic>Vassar College -- Faculty -- Portraits.</topic>
+    <topic>College teachers -- New York (State) -- Poughkeepsie.</topic>
+  </subject>
+  <physicalDescription>
+    <extent>1 photograph : albumen, b&amp;w ; 10 x 6 cm.</extent>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form authority="marcform">nonprojected graphic</form>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <location>
+    <physicalLocation>Archives and Special Collections &lt;br /&gt; Box 20, 124 Raymond Ave. &lt;br /&gt; Poughkeepsie, NY 12604-0020 &lt;br /&gt; 845.437.5799 &lt;br /&gt; http://specialcollections.vassar.edu</physicalLocation>
+  </location>
+  <identifier type="local">08.12.29</identifier>
+  <typeOfResource>still image</typeOfResource>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A10457</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_10341</identifier><datestamp>2015-06-01T14:27:15Z</datestamp><setSpec>vassar_earlyimages</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Images of Early Vassar</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>Vassar College Astronomical Observatory</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Thompson, F. F.</namePart>
+    <role>
+      <roleTerm type="text">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateOther>187-?</dateOther>
+    <publisher>Online collection published by Vassar College Archives and Special Collections, Poughkeepsie, N.Y.</publisher>
+    <dateCreated authority="w3cdtf" point="start">1870-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1879-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>Observatory of Vassar College with path, lawn, evergreens and bare trees.</abstract>
+  <subject authority="lcsh">
+    <topic>Vassar College Observatory (Poughkeepsie, N.Y.)</topic>
+    <topic>Vassar College -- Buildings.</topic>
+    <topic>College buildings -- New York (State) -- Poughkeepsie.</topic>
+    <topic>Astronomical observatories -- New York (State) -- Poughkeepsie.</topic>
+    <topic>Poughkeepsie (N.Y.) -- Buildings, structures, etc.</topic>
+  </subject>
+  <physicalDescription>
+    <extent>1 stereograph : albumen, b&amp;w ; 9 x 18 cm.</extent>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form authority="marcform">nonprojected graphic</form>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <location>
+    <physicalLocation>Archives and Special Collections &lt;br /&gt; Box 20, 124 Raymond Ave. &lt;br /&gt; Poughkeepsie, NY 12604-0020 &lt;br /&gt; 845.437.5799 &lt;br /&gt; http://specialcollections.vassar.edu</physicalLocation>
+  </location>
+  <identifier type="local">08.06.01</identifier>
+  <typeOfResource>still image</typeOfResource>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A10341</identifier></mods></metadata></record><record><header><identifier>oai:vassar:vassar_10552</identifier><datestamp>2015-06-01T14:27:15Z</datestamp><setSpec>vassar_earlyimages</setSpec><setSpec>vassar_root</setSpec><setSpec>islandora_root</setSpec><setSpec>Images of Early Vassar</setSpec><setSpec>Vassar Digital Collections</setSpec><setSpec>Digital Collections</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
+    <title>The founder: Matthew Vassar, ca. 1861</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Peter A. Juley &amp; Son (New York City)</namePart>
+    <role>
+      <roleTerm type="text">Creator</roleTerm>
+    </role>
+  </name>
+  <originInfo>
+    <dateOther>19--</dateOther>
+    <publisher>Online collection published by Vassar College Archives and Special Collections, Poughkeepsie, N.Y.</publisher>
+    <dateCreated authority="w3cdtf" point="start">1900-01-01T01:00:01Z</dateCreated>
+    <dateCreated authority="w3cdtf" point="end">1999-12-31T23:59:59Z</dateCreated>
+  </originInfo>
+  <abstract>Full-length picture of Matthew Vassar as an older man wearing a black tie, white shirt and black suit. He is holding a cane in his left hand, standing on a tiled balcony, and pointing to the Main Building of Vassar College. A black hat and white gloves are on the left. A large urn on a pedestal is on the right. Picture of a life-sized painting done by Charles Elliott in 1861.</abstract>
+  <subject authority="lcsh">
+    <topic>Vassar, Matthew, 1792-1868 -- Portraits.</topic>
+  </subject>
+  <physicalDescription>
+    <extent>1 photograph : collotype, b&amp;w ; 25 x 16 cm.</extent>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <form authority="marcform">nonprojected graphic</form>
+  </physicalDescription>
+  <accessCondition type="use and reproduction">For more information about rights and reproduction, visit http://specialcollections.vassar.edu/policies/permissionto.html</accessCondition>
+  <location>
+    <physicalLocation>Archives and Special Collections &lt;br /&gt; Box 20, 124 Raymond Ave. &lt;br /&gt; Poughkeepsie, NY 12604-0020 &lt;br /&gt; 845.437.5799 &lt;br /&gt; http://specialcollections.vassar.edu</physicalLocation>
+  </location>
+  <identifier type="local">08.29</identifier>
+  <typeOfResource>still image</typeOfResource>
+<identifier>http://digitallibrary.vassar.edu/islandora/object/vassar%3A10552</identifier></mods></metadata></record><resumptionToken expirationDate="2015-06-24T12:08:14Z" completeListSize="247" cursor="0">2032486412</resumptionToken></ListRecords></OAI-PMH>
