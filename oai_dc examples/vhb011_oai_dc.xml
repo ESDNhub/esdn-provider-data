@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2015-08-10T16:21:08Z</responseDate><request verb="ListRecords" resumptionToken="VHB011:200:VHB011:0000-00-00:9999-99-99:oai_dc" metadataPrefix="oai_dc" set="VHB011">http://cdm16694.contentdm.oclc.org/oai/oai.php</request><ListRecords><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/200</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/201</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/566</identifier><datestamp>2012-04-10</datestamp><setSpec>VHB011</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Buffalo City Directory, 1857</dc:title>
+<dc:description>City directories for Buffalo, NY, dated 1832-1868.</dc:description>
+<dc:subject>Buffalo (N.Y.)--Directories</dc:subject>
+<dc:subject>Community &amp; Events; People</dc:subject>
+<dc:subject>New York (State), Western; Erie County (N.Y.); Buffalo (N.Y.)</dc:subject>
+<dc:date>1857</dc:date>
+<dc:type>Text</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1857</dc:identifier>
+<dc:relation>Buffalo City Directories</dc:relation>
+<dc:rights>Digital image copyright 2012 by the Buffalo &amp; Erie County Public Library. Images in this collection are not to be used for any commercial purposes without the expressed written permission of the Buffalo &amp; Erie County Public Library. Users of this web site are free to utilize material from this collection for non-commercial and educational purposes.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VHB011/id/566</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/957</identifier><datestamp>2012-04-10</datestamp><setSpec>VHB011</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Buffalo City Directory, 1863</dc:title>
+<dc:description>City directories for Buffalo, NY, dated 1832-1868.</dc:description>
+<dc:subject>Buffalo (N.Y.)--Directories</dc:subject>
+<dc:subject>Community &amp; Events; People</dc:subject>
+<dc:subject>New York (State), Western; Erie County (N.Y.); Buffalo (N.Y.)</dc:subject>
+<dc:date>1863</dc:date>
+<dc:type>Text</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1863</dc:identifier>
+<dc:relation>Buffalo City Directories</dc:relation>
+<dc:rights>Digital image copyright 2012 by the Buffalo &amp; Erie County Public Library. Images in this collection are not to be used for any commercial purposes without the expressed written permission of the Buffalo &amp; Erie County Public Library. Users of this web site are free to utilize material from this collection for non-commercial and educational purposes.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VHB011/id/957</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/1179</identifier><datestamp>2012-04-10</datestamp><setSpec>VHB011</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Buffalo City Directory, 1842</dc:title>
+<dc:description>City directories for Buffalo, NY, dated 1832-1868.</dc:description>
+<dc:subject>Buffalo (N.Y.)--Directories</dc:subject>
+<dc:subject>Community &amp; Events; People</dc:subject>
+<dc:subject>New York (State), Western; Erie County (N.Y.); Buffalo (N.Y.)</dc:subject>
+<dc:date>1842</dc:date>
+<dc:type>Text</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1842</dc:identifier>
+<dc:relation>Buffalo City Directories</dc:relation>
+<dc:rights>Digital image copyright 2012 by the Buffalo &amp; Erie County Public Library. Images in this collection are not to be used for any commercial purposes without the expressed written permission of the Buffalo &amp; Erie County Public Library. Users of this web site are free to utilize material from this collection for non-commercial and educational purposes.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VHB011/id/1179</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/1553</identifier><datestamp>2012-04-10</datestamp><setSpec>VHB011</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Buffalo City Directory, 1862</dc:title>
+<dc:description>City directories for Buffalo, NY, dated 1832-1868.</dc:description>
+<dc:subject>Buffalo (N.Y.)--Directories</dc:subject>
+<dc:subject>Community &amp; Events; People</dc:subject>
+<dc:subject>New York (State), Western; Erie County (N.Y.); Buffalo (N.Y.)</dc:subject>
+<dc:date>1862</dc:date>
+<dc:type>Text</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1862</dc:identifier>
+<dc:relation>Buffalo City Directories</dc:relation>
+<dc:rights>Digital image copyright 2012 by the Buffalo &amp; Erie County Public Library. Images in this collection are not to be used for any commercial purposes without the expressed written permission of the Buffalo &amp; Erie County Public Library. Users of this web site are free to utilize material from this collection for non-commercial and educational purposes.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VHB011/id/1553</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/1941</identifier><datestamp>2012-05-04</datestamp><setSpec>VHB011</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Buffalo City Directory, 1850-51</dc:title>
+<dc:description>City directories for Buffalo, NY, dated 1832-1868.</dc:description>
+<dc:subject>Buffalo (N.Y.)--Directories</dc:subject>
+<dc:subject>Community &amp; Events; People</dc:subject>
+<dc:subject>New York (State), Western; Erie County (N.Y.); Buffalo (N.Y.)</dc:subject>
+<dc:date>1850-51</dc:date>
+<dc:type>Text</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1850-51</dc:identifier>
+<dc:relation>Buffalo City Directories</dc:relation>
+<dc:rights>Digital image copyright 2012 by the Buffalo &amp; Erie County Public Library. Images in this collection are not to be used for any commercial purposes without the expressed written permission of the Buffalo &amp; Erie County Public Library. Users of this web site are free to utilize material from this collection for non-commercial and educational purposes.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VHB011/id/1941</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/2264</identifier><datestamp>2012-04-10</datestamp><setSpec>VHB011</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Buffalo City Directory, 1861</dc:title>
+<dc:description>City directories for Buffalo, NY, dated 1832-1868.</dc:description>
+<dc:subject>Buffalo (N.Y.)--Directories</dc:subject>
+<dc:subject>Community &amp; Events; People</dc:subject>
+<dc:subject>New York (State), Western; Erie County (N.Y.); Buffalo (N.Y.)</dc:subject>
+<dc:date>1861</dc:date>
+<dc:type>Text</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1861</dc:identifier>
+<dc:relation>Buffalo City Directories</dc:relation>
+<dc:rights>Digital image copyright 2012 by the Buffalo &amp; Erie County Public Library. Images in this collection are not to be used for any commercial purposes without the expressed written permission of the Buffalo &amp; Erie County Public Library. Users of this web site are free to utilize material from this collection for non-commercial and educational purposes.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VHB011/id/2264</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/2643</identifier><datestamp>2012-04-10</datestamp><setSpec>VHB011</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Buffalo City Directory, 1865</dc:title>
+<dc:description>City directories for Buffalo, NY, dated 1832-1868.</dc:description>
+<dc:subject>Buffalo (N.Y.)--Directories</dc:subject>
+<dc:subject>Community &amp; Events; People</dc:subject>
+<dc:subject>New York (State), Western; Erie County (N.Y.); Buffalo (N.Y.)</dc:subject>
+<dc:date>1865</dc:date>
+<dc:type>Text</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1865</dc:identifier>
+<dc:relation>Buffalo City Directories</dc:relation>
+<dc:rights>Digital image copyright 2012 by the Buffalo &amp; Erie County Public Library. Images in this collection are not to be used for any commercial purposes without the expressed written permission of the Buffalo &amp; Erie County Public Library. Users of this web site are free to utilize material from this collection for non-commercial and educational purposes.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VHB011/id/2643</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/3028</identifier><datestamp>2012-04-10</datestamp><setSpec>VHB011</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Buffalo City Directory, 1864</dc:title>
+<dc:description>City directories for Buffalo, NY, dated 1832-1868.</dc:description>
+<dc:subject>Buffalo (N.Y.)--Directories</dc:subject>
+<dc:subject>Community &amp; Events; People</dc:subject>
+<dc:subject>New York (State), Western; Erie County (N.Y.); Buffalo (N.Y.)</dc:subject>
+<dc:date>1864</dc:date>
+<dc:type>Text</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1864</dc:identifier>
+<dc:relation>Buffalo City Directories</dc:relation>
+<dc:rights>Digital image copyright 2012 by the Buffalo &amp; Erie County Public Library. Images in this collection are not to be used for any commercial purposes without the expressed written permission of the Buffalo &amp; Erie County Public Library. Users of this web site are free to utilize material from this collection for non-commercial and educational purposes.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VHB011/id/3028</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/3404</identifier><datestamp>2012-04-10</datestamp><setSpec>VHB011</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Buffalo City Directory, 1852</dc:title>
+<dc:description>City directories for Buffalo, NY, dated 1832-1868.</dc:description>
+<dc:subject>Buffalo (N.Y.)--Directories</dc:subject>
+<dc:subject>Community &amp; Events; People</dc:subject>
+<dc:subject>New York (State), Western; Erie County (N.Y.); Buffalo (N.Y.)</dc:subject>
+<dc:date>1852</dc:date>
+<dc:type>Text</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1852</dc:identifier>
+<dc:relation>Buffalo City Directories</dc:relation>
+<dc:rights>Digital image copyright 2012 by the Buffalo &amp; Erie County Public Library. Images in this collection are not to be used for any commercial purposes without the expressed written permission of the Buffalo &amp; Erie County Public Library. Users of this web site are free to utilize material from this collection for non-commercial and educational purposes.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VHB011/id/3404</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/3829</identifier><datestamp>2012-04-10</datestamp><setSpec>VHB011</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Buffalo City Directory, 1860</dc:title>
+<dc:description>City directories for Buffalo, NY, dated 1832-1868.</dc:description>
+<dc:subject>Buffalo (N.Y.)--Directories</dc:subject>
+<dc:subject>Community &amp; Events; People</dc:subject>
+<dc:subject>New York (State), Western; Erie County (N.Y.); Buffalo (N.Y.)</dc:subject>
+<dc:date>1860</dc:date>
+<dc:type>Text</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1860</dc:identifier>
+<dc:relation>Buffalo City Directories</dc:relation>
+<dc:rights>Digital image copyright 2012 by the Buffalo &amp; Erie County Public Library. Images in this collection are not to be used for any commercial purposes without the expressed written permission of the Buffalo &amp; Erie County Public Library. Users of this web site are free to utilize material from this collection for non-commercial and educational purposes.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VHB011/id/3829</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/4166</identifier><datestamp>2012-04-10</datestamp><setSpec>VHB011</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Buffalo City Directory, 1856</dc:title>
+<dc:description>City directories for Buffalo, NY, dated 1832-1868.</dc:description>
+<dc:subject>Buffalo (N.Y.)--Directories</dc:subject>
+<dc:subject>Community &amp; Events; People</dc:subject>
+<dc:subject>New York (State), Western; Erie County (N.Y.); Buffalo (N.Y.)</dc:subject>
+<dc:date>1856</dc:date>
+<dc:type>Text</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1856</dc:identifier>
+<dc:relation>Buffalo City Directories</dc:relation>
+<dc:rights>Digital image copyright 2012 by the Buffalo &amp; Erie County Public Library. Images in this collection are not to be used for any commercial purposes without the expressed written permission of the Buffalo &amp; Erie County Public Library. Users of this web site are free to utilize material from this collection for non-commercial and educational purposes.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VHB011/id/4166</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/4563</identifier><datestamp>2012-04-10</datestamp><setSpec>VHB011</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Buffalo City Directory, 1848-49</dc:title>
+<dc:description>City directories for Buffalo, NY, dated 1832-1868.</dc:description>
+<dc:subject>Buffalo (N.Y.)--Directories</dc:subject>
+<dc:subject>Community &amp; Events; People</dc:subject>
+<dc:subject>New York (State), Western; Erie County (N.Y.); Buffalo (N.Y.)</dc:subject>
+<dc:date>1848-49</dc:date>
+<dc:type>Text</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1848-49</dc:identifier>
+<dc:relation>Buffalo City Directories</dc:relation>
+<dc:rights>Digital image copyright 2012 by the Buffalo &amp; Erie County Public Library. Images in this collection are not to be used for any commercial purposes without the expressed written permission of the Buffalo &amp; Erie County Public Library. Users of this web site are free to utilize material from this collection for non-commercial and educational purposes.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VHB011/id/4563</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/4910</identifier><datestamp>2012-04-10</datestamp><setSpec>VHB011</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Buffalo City Directory, 1859</dc:title>
+<dc:description>City directories for Buffalo, NY, dated 1832-1868.</dc:description>
+<dc:subject>Buffalo (N.Y.)--Directories</dc:subject>
+<dc:subject>Community &amp; Events; People</dc:subject>
+<dc:subject>New York (State), Western; Erie County (N.Y.); Buffalo (N.Y.)</dc:subject>
+<dc:date>1859</dc:date>
+<dc:type>Text</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1859</dc:identifier>
+<dc:relation>Buffalo City Directories</dc:relation>
+<dc:rights>Digital image copyright 2012 by the Buffalo &amp; Erie County Public Library. Images in this collection are not to be used for any commercial purposes without the expressed written permission of the Buffalo &amp; Erie County Public Library. Users of this web site are free to utilize material from this collection for non-commercial and educational purposes.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VHB011/id/4910</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/5034</identifier><datestamp>2012-04-10</datestamp><setSpec>VHB011</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Buffalo City Directory, 1832</dc:title>
+<dc:description>City directories for Buffalo, NY, dated 1832-1868.</dc:description>
+<dc:subject>Buffalo (N.Y.)--Directories</dc:subject>
+<dc:subject>Community &amp; Events; People</dc:subject>
+<dc:subject>New York (State), Western; Erie County (N.Y.); Buffalo (N.Y.)</dc:subject>
+<dc:date>1832</dc:date>
+<dc:type>Text</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1832</dc:identifier>
+<dc:relation>Buffalo City Directories</dc:relation>
+<dc:rights>Digital image copyright 2012 by the Buffalo &amp; Erie County Public Library. Images in this collection are not to be used for any commercial purposes without the expressed written permission of the Buffalo &amp; Erie County Public Library. Users of this web site are free to utilize material from this collection for non-commercial and educational purposes.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VHB011/id/5034</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/5441</identifier><datestamp>2012-04-10</datestamp><setSpec>VHB011</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Buffalo City Directory, 1866</dc:title>
+<dc:description>City directories for Buffalo, NY, dated 1832-1868.</dc:description>
+<dc:subject>Buffalo (N.Y.)--Directories</dc:subject>
+<dc:subject>Community &amp; Events; People</dc:subject>
+<dc:subject>New York (State), Western; Erie County (N.Y.); Buffalo (N.Y.)</dc:subject>
+<dc:date>1866</dc:date>
+<dc:type>Text</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1866</dc:identifier>
+<dc:relation>Buffalo City Directories</dc:relation>
+<dc:rights>Digital image copyright 2012 by the Buffalo &amp; Erie County Public Library. Images in this collection are not to be used for any commercial purposes without the expressed written permission of the Buffalo &amp; Erie County Public Library. Users of this web site are free to utilize material from this collection for non-commercial and educational purposes.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VHB011/id/5441</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/5768</identifier><datestamp>2012-04-10</datestamp><setSpec>VHB011</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Buffalo City Directory, 1858</dc:title>
+<dc:description>City directories for Buffalo, NY, dated 1832-1868.</dc:description>
+<dc:subject>Buffalo (N.Y.)--Directories</dc:subject>
+<dc:subject>Community &amp; Events; People</dc:subject>
+<dc:subject>New York (State), Western; Erie County (N.Y.); Buffalo (N.Y.)</dc:subject>
+<dc:date>1858</dc:date>
+<dc:type>Text</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1858</dc:identifier>
+<dc:relation>Buffalo City Directories</dc:relation>
+<dc:rights>Digital image copyright 2012 by the Buffalo &amp; Erie County Public Library. Images in this collection are not to be used for any commercial purposes without the expressed written permission of the Buffalo &amp; Erie County Public Library. Users of this web site are free to utilize material from this collection for non-commercial and educational purposes.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VHB011/id/5768</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/6077</identifier><datestamp>2012-04-10</datestamp><setSpec>VHB011</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Buffalo City Directory, 1847-48</dc:title>
+<dc:description>City directories for Buffalo, NY, dated 1832-1868.</dc:description>
+<dc:subject>Buffalo (N.Y.)--Directories</dc:subject>
+<dc:subject>Community &amp; Events; People</dc:subject>
+<dc:subject>New York (State), Western; Erie County (N.Y.); Buffalo (N.Y.)</dc:subject>
+<dc:date>1847-48</dc:date>
+<dc:type>Text</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1847-48</dc:identifier>
+<dc:relation>Buffalo City Directories</dc:relation>
+<dc:rights>Digital image copyright 2012 by the Buffalo &amp; Erie County Public Library. Images in this collection are not to be used for any commercial purposes without the expressed written permission of the Buffalo &amp; Erie County Public Library. Users of this web site are free to utilize material from this collection for non-commercial and educational purposes.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VHB011/id/6077</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/6220</identifier><datestamp>2012-04-10</datestamp><setSpec>VHB011</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Buffalo City Directory, 1839</dc:title>
+<dc:description>City directories for Buffalo, NY, dated 1832-1868.</dc:description>
+<dc:subject>Buffalo (N.Y.)--Directories</dc:subject>
+<dc:subject>Community &amp; Events; People</dc:subject>
+<dc:subject>New York (State), Western; Erie County (N.Y.); Buffalo (N.Y.)</dc:subject>
+<dc:date>1839</dc:date>
+<dc:type>Text</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1839</dc:identifier>
+<dc:relation>Buffalo City Directories</dc:relation>
+<dc:rights>Digital image copyright 2012 by the Buffalo &amp; Erie County Public Library. Images in this collection are not to be used for any commercial purposes without the expressed written permission of the Buffalo &amp; Erie County Public Library. Users of this web site are free to utilize material from this collection for non-commercial and educational purposes.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VHB011/id/6220</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/6524</identifier><datestamp>2012-04-10</datestamp><setSpec>VHB011</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Buffalo City Directory, 1855</dc:title>
+<dc:description>City directories for Buffalo, NY, dated 1832-1868.</dc:description>
+<dc:subject>Buffalo (N.Y.)--Directories</dc:subject>
+<dc:subject>Community &amp; Events; People</dc:subject>
+<dc:subject>New York (State), Western; Erie County (N.Y.); Buffalo (N.Y.)</dc:subject>
+<dc:date>1855</dc:date>
+<dc:type>Text</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1855</dc:identifier>
+<dc:relation>Buffalo City Directories</dc:relation>
+<dc:rights>Digital image copyright 2012 by the Buffalo &amp; Erie County Public Library. Images in this collection are not to be used for any commercial purposes without the expressed written permission of the Buffalo &amp; Erie County Public Library. Users of this web site are free to utilize material from this collection for non-commercial and educational purposes.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VHB011/id/6524</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7007</identifier><datestamp>2012-04-10</datestamp><setSpec>VHB011</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Buffalo City Directory, 1854</dc:title>
+<dc:description>City directories for Buffalo, NY, dated 1832-1868.</dc:description>
+<dc:subject>Buffalo (N.Y.)--Directories</dc:subject>
+<dc:subject>Community &amp; Events; People</dc:subject>
+<dc:subject>New York (State), Western; Erie County (N.Y.); Buffalo (N.Y.)</dc:subject>
+<dc:date>1854</dc:date>
+<dc:type>Text</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1854</dc:identifier>
+<dc:relation>Buffalo City Directories</dc:relation>
+<dc:rights>Digital image copyright 2012 by the Buffalo &amp; Erie County Public Library. Images in this collection are not to be used for any commercial purposes without the expressed written permission of the Buffalo &amp; Erie County Public Library. Users of this web site are free to utilize material from this collection for non-commercial and educational purposes.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VHB011/id/7007</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7202</identifier><datestamp>2012-04-10</datestamp><setSpec>VHB011</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Buffalo City Directory, 1840</dc:title>
+<dc:description>City directories for Buffalo, NY, dated 1832-1868.</dc:description>
+<dc:subject>Buffalo (N.Y.)--Directories</dc:subject>
+<dc:subject>Community &amp; Events; People</dc:subject>
+<dc:subject>New York (State), Western; Erie County (N.Y.); Buffalo (N.Y.)</dc:subject>
+<dc:date>1840</dc:date>
+<dc:type>Text</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1840</dc:identifier>
+<dc:relation>Buffalo City Directories</dc:relation>
+<dc:rights>Digital image copyright 2012 by the Buffalo &amp; Erie County Public Library. Images in this collection are not to be used for any commercial purposes without the expressed written permission of the Buffalo &amp; Erie County Public Library. Users of this web site are free to utilize material from this collection for non-commercial and educational purposes.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VHB011/id/7202</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7353</identifier><datestamp>2012-05-04</datestamp><setSpec>VHB011</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Buffalo City Directory, 1838</dc:title>
+<dc:description>City directories for Buffalo, NY, dated 1832-1868.</dc:description>
+<dc:subject>Buffalo (N.Y.)--Directories</dc:subject>
+<dc:subject>Community &amp; Events; People</dc:subject>
+<dc:subject>New York (State), Western; Erie County (N.Y.); Buffalo (N.Y.)</dc:subject>
+<dc:date>1838</dc:date>
+<dc:type>Text</dc:type>
+<dc:language>English</dc:language>
+<dc:format>image/tiff</dc:format>
+<dc:identifier>1838</dc:identifier>
+<dc:relation>Buffalo City Directories</dc:relation>
+<dc:rights>Digital image copyright 2012 by the Buffalo &amp; Erie County Public Library. Images in this collection are not to be used for any commercial purposes without the expressed written permission of the Buffalo &amp; Erie County Public Library. Users of this web site are free to utilize material from this collection for non-commercial and educational purposes.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/VHB011/id/7353</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7354</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7355</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7356</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7357</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7358</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7359</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7360</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7361</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7362</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7363</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7364</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7365</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7366</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7367</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7368</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7369</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7370</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7371</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7372</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7373</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7374</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7375</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7376</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7377</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7378</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7379</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7380</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7381</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7382</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7383</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7384</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7385</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7386</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7387</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7388</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7389</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7390</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7391</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7392</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7393</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7394</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7395</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7396</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7397</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7398</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7399</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7400</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7401</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7402</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7403</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7404</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7405</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7406</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7407</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7408</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7409</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7410</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7411</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7412</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7413</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7414</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7415</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7416</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7417</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7418</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7419</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7420</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7421</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7422</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7423</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7424</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7425</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7426</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7427</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7428</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7429</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7430</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7431</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7432</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7433</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7434</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7435</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7436</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7437</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7438</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7439</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7440</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7441</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7442</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7443</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7444</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7445</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7446</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7447</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7448</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7449</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7450</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7451</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7452</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7453</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7454</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7455</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7456</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7457</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7458</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7459</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7460</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7461</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7462</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7463</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7464</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7465</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7466</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7467</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7468</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7469</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7470</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7471</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7472</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7473</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7474</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7475</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7476</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7477</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7478</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7479</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7480</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7481</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7482</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7483</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7484</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7485</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7486</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7487</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7488</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7489</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7490</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7491</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7492</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7493</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7494</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7495</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7496</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7497</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7498</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7499</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7500</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7501</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7502</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7503</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7504</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7505</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7506</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7507</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7508</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7509</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7510</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7511</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7512</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7513</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7514</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7515</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7516</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7517</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7518</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7519</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7520</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7521</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7522</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7523</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7524</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7525</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7526</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7527</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7528</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:VHB011/7529</identifier><datestamp>2012-05-16</datestamp><setSpec>VHB011</setSpec></header>
+</record><resumptionToken>VHB011:7530:VHB011:0000-00-00:9999-99-99:oai_dc</resumptionToken></ListRecords></OAI-PMH>

@@ -1,0 +1,1137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2015-08-11T14:37:21Z</responseDate><request>http://dcmny.org/oai2</request><ListRecords><record><header><identifier>oai:dcmny.org:fulton_535</identifier><datestamp>2014-10-10T13:28:47Z</datestamp><setSpec>fulton_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Brooklyn Advertising Agency, Authorized Agency for all Leading Newspapers</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Brooklyn Advertising Agency</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <geographic>United States--New York (State)--New York--Brooklyn</geographic>
+  </subject>
+  <abstract>Text, Authorized agency for all leading newspapers, German advertising a specialty, translation free of charge. Verso side: annotations in ink,"Latham  Death Notice. 2 times World $2.50, 2 times [Herald?$3.60, 2 times Sun $2.00, 2 times Eagle $2.00. Stamped with received payment notice.</abstract>
+  <identifier type="local">FC-0103</identifier>
+  <accessCondition type="use and reproduction">While many images in the Brooklyn Collection are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The end user assumes all responsibility for copyright questions.</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Fulton Street Trade Card Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>Brooklyn Public Library, Brooklyn Collection</physicalLocation>
+  </location>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <note displayLabel="Business Address">397 Fulton Street, opposite City Hall,  Brooklyn, NY.</note>
+  <subject>
+    <topic>Newspapers</topic>
+  </subject>
+  <subject>
+    <topic>Advertising agencies</topic>
+  </subject>
+  <subject>
+    <topic>Advertising, Newspaper</topic>
+  </subject>
+  <subject>
+    <topic>Advertisers</topic>
+  </subject>
+  <subject>
+    <topic>Obituaries</topic>
+  </subject>
+  <subject>
+    <topic>Death Notices</topic>
+  </subject>
+  <genre>receipts</genre>
+  <genre>trade cards</genre>
+  <genre>business cards</genre>
+  <genre>advertisements</genre>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/fulton%3A535</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:fulton_702</identifier><datestamp>2014-10-10T13:30:33Z</datestamp><setSpec>fulton_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Teale  Morro, Wholesale and Retail Dealers in Every Description of Goodyear's Rubber Goods</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Teale &amp; Morro</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <geographic>United States--New York (State)--New York--Brooklyn</geographic>
+  </subject>
+  <abstract>Illustration of snow covered landscape with sheep in foreground and houses and windmill in background. Verso side: text,"Teale  Morro, Wholesale and Retail Dealers in Every Description of Goodyear's Rubber Goods.."</abstract>
+  <identifier type="local">FC-0183</identifier>
+  <accessCondition type="use and reproduction">While many images in the Brooklyn Collection are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The end user assumes all responsibility for copyright questions.</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Fulton Street Trade Card Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>Brooklyn Public Library, Brooklyn Collection</physicalLocation>
+  </location>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <note displayLabel="Business Address">597 Fulton Street, opposite Flatbush Avenue, Brooklyn, NY.</note>
+  <subject>
+    <topic>Winter scenes</topic>
+  </subject>
+  <subject>
+    <topic>Stores, Retail</topic>
+  </subject>
+  <subject>
+    <topic>Windmills</topic>
+  </subject>
+  <subject>
+    <topic>Farms</topic>
+  </subject>
+  <subject>
+    <topic>Rubber goods</topic>
+  </subject>
+  <subject>
+    <topic>Rubber industry and trade</topic>
+  </subject>
+  <genre>trade cards</genre>
+  <genre>business cards</genre>
+  <genre>advertisements</genre>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/fulton%3A702</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:fulton_503</identifier><datestamp>2014-10-10T13:28:25Z</datestamp><setSpec>fulton_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Cosmopolitan Emporium of Fashions Mme. Demorest Maison De Patrons, Haute Nouveaute. Paris. London. New York.</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Samuel Joseph</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <geographic>United States--New York (State)--New York--Brooklyn</geographic>
+  </subject>
+  <abstract>Illustration of flowers surrounding text with black background. Verso side: text,"Important to Ladies. Side platting done by the latest improved machines, with and without space.."</abstract>
+  <identifier type="local">FC-0045</identifier>
+  <accessCondition type="use and reproduction">While many images in the Brooklyn Collection are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The end user assumes all responsibility for copyright questions.</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Fulton Street Trade Card Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>Brooklyn Public Library, Brooklyn Collection</physicalLocation>
+  </location>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <note displayLabel="Business Address">202 Fulton Street, Brooklyn, NY.</note>
+  <subject>
+    <topic>Flowers</topic>
+  </subject>
+  <subject>
+    <topic>Stores, Retail</topic>
+  </subject>
+  <subject>
+    <topic>Dressmaking - Patterns</topic>
+  </subject>
+  <subject>
+    <topic>Women</topic>
+  </subject>
+  <subject>
+    <topic>Sewing machines</topic>
+  </subject>
+  <subject>
+    <topic>Clothing and dress</topic>
+  </subject>
+  <genre>trade cards</genre>
+  <genre>business cards</genre>
+  <genre>advertisements</genre>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/fulton%3A503</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:fulton_513</identifier><datestamp>2014-10-10T13:28:32Z</datestamp><setSpec>fulton_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>E.J. Seaman, Anatomical Boot  Shoe Maker</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>E.J. Seaman [Seaman, Edw'd J.]</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <geographic>United States--New York (State)--New York--Brooklyn</geographic>
+  </subject>
+  <abstract>Illustration of a woman's hand holding flowers including a yellow rose.</abstract>
+  <identifier type="local">FC-0233</identifier>
+  <accessCondition type="use and reproduction">While many images in the Brooklyn Collection are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The end user assumes all responsibility for copyright questions.</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Fulton Street Trade Card Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>Brooklyn Public Library, Brooklyn Collection</physicalLocation>
+  </location>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <note displayLabel="Business Address">1465 Fulton Street, Brooklyn, NY.</note>
+  <subject>
+    <topic>Women</topic>
+  </subject>
+  <subject>
+    <topic>Shoemakers</topic>
+  </subject>
+  <subject>
+    <topic>Flowers</topic>
+  </subject>
+  <subject>
+    <topic>Boots</topic>
+  </subject>
+  <subject>
+    <topic>Shoes</topic>
+  </subject>
+  <subject>
+    <topic>Clothing and dress</topic>
+  </subject>
+  <genre>trade cards</genre>
+  <genre>business cards</genre>
+  <genre>advertisements</genre>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/fulton%3A513</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:fulton_688</identifier><datestamp>2014-10-10T13:30:39Z</datestamp><setSpec>fulton_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Cowperthwait Furniture and Carpets, Established 1807</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>B. M. Cowperthwait Co.</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <geographic>United States--New York (State)--New York--Brooklyn</geographic>
+  </subject>
+  <abstract>Illustration of a man standing and feeding a donkey while woman and child are sitting on the ground near him holding flowers. The woman is holding a crown of flowers and her hat is sitting next to her in the grass. Verso side: text,"Established over three score and ten years. B. M. Cowperthwait Co. wholesale and retail dealers in furniture and carpets, 153, 155 &amp;157 Chatham Street, New York. Parlor, chamber, and dining-room suits.."</abstract>
+  <identifier type="local">FC-0111</identifier>
+  <accessCondition type="use and reproduction">While many images in the Brooklyn Collection are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The end user assumes all responsibility for copyright questions.</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Fulton Street Trade Card Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>Brooklyn Public Library, Brooklyn Collection</physicalLocation>
+  </location>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <note displayLabel="Business Address">408, 410, and 412 Fulton Street, Brooklyn, NY. 153, 155 &amp;157 Chatham Street, New York.</note>
+  <subject>
+    <topic>Furniture</topic>
+  </subject>
+  <subject>
+    <topic>Stores, Retail</topic>
+  </subject>
+  <subject>
+    <topic>Carpets</topic>
+  </subject>
+  <subject>
+    <topic>Children</topic>
+  </subject>
+  <subject>
+    <topic>Animals</topic>
+  </subject>
+  <subject>
+    <topic>House furnishings</topic>
+  </subject>
+  <genre>trade cards</genre>
+  <genre>business cards</genre>
+  <genre>advertisements</genre>
+  <originInfo>
+    <dateIssued encoding="iso8601">1882</dateIssued>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/fulton%3A688</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:fulton_532</identifier><datestamp>2014-10-10T13:28:46Z</datestamp><setSpec>fulton_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Merry Christmas "Chatterbox"</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>T.M. James &amp; Co.</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <geographic>United States--New York (State)--New York--Brooklyn</geographic>
+  </subject>
+  <abstract>Illustration of oak leaves and acorns on dark background. Oak leaves have turned fall colors. Verso side: text, "100 Doz. Thomson's spoon busk, corsets at 49 cents, worth $1.00.." "Dress goods, silks, shawls, silk handkerchiefs, hosiery and fancy goods, for holiday presents.."</abstract>
+  <identifier type="local">FC-0088</identifier>
+  <accessCondition type="use and reproduction">While many images in the Brooklyn Collection are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The end user assumes all responsibility for copyright questions.</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Fulton Street Trade Card Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>Brooklyn Public Library, Brooklyn Collection</physicalLocation>
+  </location>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <note displayLabel="Business Address">372 and 374 Fulton Street, Brooklyn, NY.</note>
+  <subject>
+    <topic>Leaves</topic>
+  </subject>
+  <subject>
+    <topic>Stores, Retail</topic>
+  </subject>
+  <subject>
+    <topic>Acorns</topic>
+  </subject>
+  <subject>
+    <topic>Clothing and dress</topic>
+  </subject>
+  <subject>
+    <topic>Cosmetics</topic>
+  </subject>
+  <subject>
+    <topic>Women's clothing</topic>
+  </subject>
+  <genre>trade cards</genre>
+  <genre>business cards</genre>
+  <genre>advertisements</genre>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/fulton%3A532</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:fulton_599</identifier><datestamp>2014-10-10T13:29:31Z</datestamp><setSpec>fulton_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>For Prime Fitting Genteel and Durable Boots and Shoes, go to B.L. Cornell's</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>B.L. Cornell's</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <geographic>United States--New York (State)--New York--Brooklyn</geographic>
+  </subject>
+  <abstract>Boot shaped card. Text,"For prime fitting genteel and durable boots and shoes, go to B.L. Cornell's. Boots and shoes made to order."</abstract>
+  <identifier type="local">FC-0127</identifier>
+  <accessCondition type="use and reproduction">While many images in the Brooklyn Collection are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The end user assumes all responsibility for copyright questions.</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Fulton Street Trade Card Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>Brooklyn Public Library, Brooklyn Collection</physicalLocation>
+  </location>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <note displayLabel="Business Address">463 Fulton Street, near Jay Street, Brooklyn, NY.</note>
+  <subject>
+    <topic>Shoes</topic>
+  </subject>
+  <subject>
+    <topic>Shoe stores</topic>
+  </subject>
+  <subject>
+    <topic>Boots</topic>
+  </subject>
+  <subject>
+    <topic>Clothing and dress</topic>
+  </subject>
+  <genre>trade cards</genre>
+  <genre>business cards</genre>
+  <genre>irregular shape</genre>
+  <genre>advertisements</genre>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/fulton%3A599</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:fulton_562</identifier><datestamp>2014-10-10T13:29:05Z</datestamp><setSpec>fulton_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Brooklyn Crockery Co.</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Brooklyn Crockery Co.</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <geographic>United States--New York (State)--New York--Brooklyn</geographic>
+  </subject>
+  <abstract>Illustration of female child in dress and flower shaped hood and holding a leaf  She looks as if she were inside a lily. Text,"The cheapest crockery store in the city. Don't fail to examine our stock."</abstract>
+  <identifier type="local">FC-0175</identifier>
+  <accessCondition type="use and reproduction">While many images in the Brooklyn Collection are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The end user assumes all responsibility for copyright questions.</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Fulton Street Trade Card Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>Brooklyn Public Library, Brooklyn Collection</physicalLocation>
+  </location>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <note displayLabel="Business Address">589 Fulton Street, Brooklyn, NY.</note>
+  <subject>
+    <topic>Girls</topic>
+  </subject>
+  <subject>
+    <topic>Stores, Retail</topic>
+  </subject>
+  <subject>
+    <topic>Flowers</topic>
+  </subject>
+  <subject>
+    <topic>Pottery</topic>
+  </subject>
+  <subject>
+    <topic>Ceramic tableware</topic>
+  </subject>
+  <subject>
+    <topic>Clay pot cookery</topic>
+  </subject>
+  <genre>trade cards</genre>
+  <genre>business cards</genre>
+  <genre>advertisements</genre>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/fulton%3A562</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:fulton_555</identifier><datestamp>2014-10-10T13:29:01Z</datestamp><setSpec>fulton_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>What's the Matter with that ere' Dog? Buy Your Clothing of Smith  Pressinger.</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Smith &amp; Pressinger</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <geographic>United States--New York (State)--New York--Brooklyn</geographic>
+  </subject>
+  <abstract>Illustration of a man sitting watching a dog run off into the background. Behind the man sits a large bear holding a rifle. The bears asks the man,"What's the Matter with that ere' Dog? Verso side: text,"Look at our prices: men's pants 85c.$1.00, 1.25, 1.50 and 2.00. Men's suits,$7.00. Boy's suits $4.00. Boy's pants 75c.$1.00 and $1.25.."</abstract>
+  <identifier type="local">FC-0174</identifier>
+  <accessCondition type="use and reproduction">While many images in the Brooklyn Collection are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The end user assumes all responsibility for copyright questions.</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Fulton Street Trade Card Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>Brooklyn Public Library, Brooklyn Collection</physicalLocation>
+  </location>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <note displayLabel="Business Address">565 &amp; 567 Fulton Street, opposite Hanover Place, Brooklyn, NY.</note>
+  <subject>
+    <topic>Men</topic>
+  </subject>
+  <subject>
+    <topic>Stores, Retail</topic>
+  </subject>
+  <subject>
+    <topic>Dogs</topic>
+  </subject>
+  <subject>
+    <topic>Bears</topic>
+  </subject>
+  <subject>
+    <topic>Hunting</topic>
+  </subject>
+  <subject>
+    <topic>Clothing and dress</topic>
+  </subject>
+  <genre>trade cards</genre>
+  <genre>business cards</genre>
+  <genre>advertisements</genre>
+  <originInfo>
+    <publisher>Bufford</publisher>
+    <place>
+      <placeTerm type="text">Boston</placeTerm>
+    </place>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/fulton%3A555</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:fulton_556</identifier><datestamp>2014-10-10T13:29:01Z</datestamp><setSpec>fulton_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Buy the Celebrated "Butterfly Chop"</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Columbia Tea &amp; Coffee Store</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <geographic>United States--New York (State)--New York--Brooklyn</geographic>
+  </subject>
+  <abstract>Illustration of a rose and a flower wreath around text,"Buy the Celebrated "Butterfly Chop, The Best Tea! The Cheapest! The Only Genuine! Sold at the Columbia Tea  Coffee Store."</abstract>
+  <identifier type="local">FC-0160</identifier>
+  <accessCondition type="use and reproduction">While many images in the Brooklyn Collection are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The end user assumes all responsibility for copyright questions.</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Fulton Street Trade Card Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>Brooklyn Public Library, Brooklyn Collection</physicalLocation>
+  </location>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <note displayLabel="Business Address">549 Fulton Street, Brooklyn, NY.</note>
+  <subject>
+    <topic>Flowers</topic>
+  </subject>
+  <subject>
+    <topic>Stores, Retail</topic>
+  </subject>
+  <subject>
+    <topic>Food</topic>
+  </subject>
+  <subject>
+    <topic>Groceries</topic>
+  </subject>
+  <subject>
+    <topic>Coffee roasting industry</topic>
+  </subject>
+  <subject>
+    <topic>Teas</topic>
+  </subject>
+  <genre>trade cards</genre>
+  <genre>business cards</genre>
+  <genre>advertisements</genre>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/fulton%3A556</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:fulton_709</identifier><datestamp>2014-10-10T13:30:19Z</datestamp><setSpec>fulton_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>G. Gowan, Boots  Shoes</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>G. Gowan</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <geographic>United States--New York (State)--New York--Brooklyn</geographic>
+  </subject>
+  <abstract>Illustration of flowers surrounding a sign with name and address. Verso side: text,"Where do you get your boots  shoes? At the gold boot upside down. Ladies, gents, children's boots  shoes..Made to Order. Repairing neatly done. Illustration of upside down boot.</abstract>
+  <genre>trade cards, business cards, advertisements</genre>
+  <identifier type="local">FC-0209</identifier>
+  <accessCondition type="use and reproduction">While many images in the Brooklyn Collection are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The end user assumes all responsibility for copyright questions.</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Fulton Street Trade Card Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>Brooklyn Public Library, Brooklyn Collection</physicalLocation>
+  </location>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <note displayLabel="Business Address">828 Fulton Street, Brooklyn, NY.</note>
+  <subject>
+    <topic>Flowers</topic>
+  </subject>
+  <subject>
+    <topic>Shoe stores</topic>
+  </subject>
+  <subject>
+    <topic>Shoes</topic>
+  </subject>
+  <subject>
+    <topic>Boots</topic>
+  </subject>
+  <subject>
+    <topic>Clothing and dress</topic>
+  </subject>
+  <subject>
+    <topic>Shoemakers</topic>
+  </subject>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/fulton%3A709</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:fulton_524</identifier><datestamp>2014-10-10T13:28:39Z</datestamp><setSpec>fulton_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>A.H. King, Carpets</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>A.H. King</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <geographic>United States--New York (State)--New York--Brooklyn</geographic>
+  </subject>
+  <abstract>Illustration of child dressed in hat and costume playing lute sitting on ledge of stairway with column and possibly a lake in background. Gold background.</abstract>
+  <identifier type="local">FC-0074</identifier>
+  <accessCondition type="use and reproduction">While many images in the Brooklyn Collection are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The end user assumes all responsibility for copyright questions.</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Fulton Street Trade Card Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>Brooklyn Public Library, Brooklyn Collection</physicalLocation>
+  </location>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <note displayLabel="Business Address">294 Fulton Street, Brooklyn, NY.</note>
+  <subject>
+    <topic>Children</topic>
+  </subject>
+  <subject>
+    <topic>Stores, Retail</topic>
+  </subject>
+  <subject>
+    <topic>Clothing and dress</topic>
+  </subject>
+  <subject>
+    <topic>Musical instruments</topic>
+  </subject>
+  <subject>
+    <topic>Carpets</topic>
+  </subject>
+  <subject>
+    <topic>Home furnishings</topic>
+  </subject>
+  <genre>trade cards</genre>
+  <genre>business cards</genre>
+  <genre>advertisements</genre>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/fulton%3A524</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:fulton_610</identifier><datestamp>2014-10-10T13:29:39Z</datestamp><setSpec>fulton_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>C. Wm. Stentzel  Son, Diamonds, Watches, Jewelry and Silverware, Watchmakers and Manufacturing Jewelers</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>C. Wm. Stentzel &amp; Son</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <geographic>United States--New York (State)--New York--Brooklyn</geographic>
+  </subject>
+  <abstract>Text,"Telephone connection. Fine watch repairing and re-mounting of diamonds a specialty."</abstract>
+  <identifier type="local">FC-0038</identifier>
+  <accessCondition type="use and reproduction">While many images in the Brooklyn Collection are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The end user assumes all responsibility for copyright questions.</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Fulton Street Trade Card Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>Brooklyn Public Library, Brooklyn Collection</physicalLocation>
+  </location>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <note displayLabel="Business Address">169 Fulton Street, opposite Cranberry Street, near bridge entrance, Brooklyn, NY.</note>
+  <subject>
+    <topic>Jewelry</topic>
+  </subject>
+  <subject>
+    <topic>Jewelry stores</topic>
+  </subject>
+  <subject>
+    <topic>Clocks and watches</topic>
+  </subject>
+  <subject>
+    <topic>Silverware</topic>
+  </subject>
+  <subject>
+    <topic>Gems</topic>
+  </subject>
+  <subject>
+    <topic>Precious stones</topic>
+  </subject>
+  <genre>trade cards</genre>
+  <genre>business cards</genre>
+  <genre>advertisements</genre>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/fulton%3A610</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:fulton_581</identifier><datestamp>2014-10-10T13:29:18Z</datestamp><setSpec>fulton_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>L.D. Fleming  Son's Superior Ice Cream Soda 5c.</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>L.D. Fleming &amp; Son's</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <geographic>United States--New York (State)--New York--Brooklyn</geographic>
+  </subject>
+  <abstract>Illustration of three roses. Text,"L.D. Fleming  Son's Superior Ice Cream Soda 5c. Drawn from the handsomest draught stand in the state."</abstract>
+  <identifier type="local">FC-0156</identifier>
+  <accessCondition type="use and reproduction">While many images in the Brooklyn Collection are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The end user assumes all responsibility for copyright questions.</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Fulton Street Trade Card Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>Brooklyn Public Library, Brooklyn Collection</physicalLocation>
+  </location>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <note displayLabel="Business Address">539 Fulton Street, Brooklyn, NY.</note>
+  <subject>
+    <topic>Flowers</topic>
+  </subject>
+  <subject>
+    <topic>Confectioners</topic>
+  </subject>
+  <subject>
+    <topic>Food</topic>
+  </subject>
+  <subject>
+    <topic>Soda fountains</topic>
+  </subject>
+  <subject>
+    <topic>Ice cream, ices, etc.</topic>
+  </subject>
+  <subject>
+    <topic>Desserts</topic>
+  </subject>
+  <genre>trade cards</genre>
+  <genre>business cards</genre>
+  <genre>advertisements</genre>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/fulton%3A581</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:fulton_645</identifier><datestamp>2014-10-10T13:30:00Z</datestamp><setSpec>fulton_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Miss Lee Fuller, Men's Furnishing Goods</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Miss Lee Fuller</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <geographic>United States--New York (State)--New York--Brooklyn</geographic>
+  </subject>
+  <abstract>Illustration of ship on water with light house and full moon in background. Verso side: text,"Miss Lee Fuller, Men's Furnishing Goods. Order's filled promptly. Reliable goods. Low figures."</abstract>
+  <identifier type="local">FC-0199</identifier>
+  <accessCondition type="use and reproduction">While many images in the Brooklyn Collection are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The end user assumes all responsibility for copyright questions.</accessCondition>
+  <note type="dateuncontrolled">c.1882</note>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Fulton Street Trade Card Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>Brooklyn Public Library, Brooklyn Collection</physicalLocation>
+  </location>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <note displayLabel="Business Address">687 Fulton Avenue, near Raymond Street, Brooklyn, NY.</note>
+  <subject>
+    <topic>Boats and boating</topic>
+  </subject>
+  <subject>
+    <topic>Stores, Retail</topic>
+  </subject>
+  <subject>
+    <topic>Lighthouses</topic>
+  </subject>
+  <subject>
+    <topic>Ships</topic>
+  </subject>
+  <subject>
+    <topic>Men's clothing</topic>
+  </subject>
+  <subject>
+    <topic>Clothing and dress</topic>
+  </subject>
+  <genre>trade cards</genre>
+  <genre>business cards</genre>
+  <genre>advertisements</genre>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/fulton%3A645</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:fulton_587</identifier><datestamp>2014-10-10T13:29:24Z</datestamp><setSpec>fulton_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Swan's. Hosiery, Underwear, Laces, and Notions, the Latest Styles in Children's Dresses and Caps.</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Swan's</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <geographic>United States--New York (State)--New York--Brooklyn</geographic>
+  </subject>
+  <abstract>Illustration of a poppy and other flowers surrounding a card with name and addresses.</abstract>
+  <identifier type="local">FC-0094</identifier>
+  <accessCondition type="use and reproduction">While many images in the Brooklyn Collection are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The end user assumes all responsibility for copyright questions.</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Fulton Street Trade Card Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>Brooklyn Public Library, Brooklyn Collection</physicalLocation>
+  </location>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <note displayLabel="Business Address">319  Fulton Street, Brooklyn, NY. 294 Washington Street, Brooklyn, NY.</note>
+  <subject>
+    <topic>Flowers</topic>
+  </subject>
+  <subject>
+    <topic>Stores, Retail</topic>
+  </subject>
+  <subject>
+    <topic>Clothing and dress</topic>
+  </subject>
+  <subject>
+    <topic>Women's clothing</topic>
+  </subject>
+  <subject>
+    <topic>Children's clothing</topic>
+  </subject>
+  <subject>
+    <topic>Notions (Merchandise)</topic>
+  </subject>
+  <genre>trade cards</genre>
+  <genre>business cards</genre>
+  <genre>advertisements</genre>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/fulton%3A587</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:fulton_525</identifier><datestamp>2014-10-10T13:28:40Z</datestamp><setSpec>fulton_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Good Luck, 1880. Holiday Greeting. 1881, B and B Bazar, Fine Stationery and Music</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Breytspraak &amp; Bierach</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <geographic>United States--New York (State)--New York--Brooklyn</geographic>
+  </subject>
+  <abstract>Card in shape and illustrated as a horseshoe. Illustration of a portrait of a horse's head with wings. Text,"Toys, dolls, Christmas and New Year Cards, novelties and holiday goods a specialty. .</abstract>
+  <identifier type="local">FC-0195</identifier>
+  <accessCondition type="use and reproduction">While many images in the Brooklyn Collection are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The end user assumes all responsibility for copyright questions.</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Fulton Street Trade Card Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>Brooklyn Public Library, Brooklyn Collection</physicalLocation>
+  </location>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <note displayLabel="Business Address">677 &amp; 679 Fulton Street, near Raymond Street, Brooklyn, NY.</note>
+  <subject>
+    <topic>Horse shoes</topic>
+  </subject>
+  <subject>
+    <topic>Stores, Retail</topic>
+  </subject>
+  <subject>
+    <topic>Sheet music</topic>
+  </subject>
+  <subject>
+    <topic>Holidays</topic>
+  </subject>
+  <subject>
+    <topic>Stationery</topic>
+  </subject>
+  <subject>
+    <topic>Paper products industry</topic>
+  </subject>
+  <genre>trade cards</genre>
+  <genre>business cards</genre>
+  <genre>irregular shape</genre>
+  <genre>advertisements</genre>
+  <originInfo>
+    <publisher>P &amp; B</publisher>
+    <place>
+      <placeTerm type="text">New York</placeTerm>
+    </place>
+    <dateIssued encoding="iso8601">1880</dateIssued>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/fulton%3A525</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:fulton_681</identifier><datestamp>2014-10-10T13:30:19Z</datestamp><setSpec>fulton_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Industrial Insurance, Branch Office</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Metropolitan Life Insurance</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <geographic>United States--New York (State)--New York--Brooklyn</geographic>
+  </subject>
+  <abstract>Illustration of two children in Greek or Roman costume. One child is holding a spear and a shield with words Metropolitan Life Insurance and a face on it. The other child is seated and holding a fan. Verso side: text,"Industrial or burial fund insurance, by the Metropolitan Life Insurance Company of New York. Joseph F. Knapp, President. John R. Hegmen, Vice-Prest. Stewart L. Woodford, Counsel.."</abstract>
+  <identifier type="local">FC-0092</identifier>
+  <accessCondition type="use and reproduction">While many images in the Brooklyn Collection are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The end user assumes all responsibility for copyright questions.</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Fulton Street Trade Card Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>Brooklyn Public Library, Brooklyn Collection</physicalLocation>
+  </location>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <note displayLabel="Business Address">371 Fulton Street, Brooklyn, NY.</note>
+  <subject>
+    <topic>Children</topic>
+  </subject>
+  <subject>
+    <topic>Insurance companies</topic>
+  </subject>
+  <subject>
+    <topic>Costumes</topic>
+  </subject>
+  <subject>
+    <topic>Insurance agents</topic>
+  </subject>
+  <subject>
+    <topic>Insurance, Life</topic>
+  </subject>
+  <genre>trade cards</genre>
+  <genre>business cards</genre>
+  <genre>advertisements</genre>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/fulton%3A681</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:fulton_605</identifier><datestamp>2014-10-10T13:29:33Z</datestamp><setSpec>fulton_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>John Bene, Importer and Manufacturer of Human Hair Goods.</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>John Bene</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <geographic>United States--New York (State)--New York--Brooklyn</geographic>
+  </subject>
+  <abstract>Illustration of parrot sitting on branches with flowers and leaves surrounding name and address.</abstract>
+  <identifier type="local">FC-0052</identifier>
+  <accessCondition type="use and reproduction">While many images in the Brooklyn Collection are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The end user assumes all responsibility for copyright questions.</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Fulton Street Trade Card Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>Brooklyn Public Library, Brooklyn Collection</physicalLocation>
+  </location>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <note displayLabel="Business Address">279 Fulton Street, corner of Tillary, Brooklyn, NY.</note>
+  <subject>
+    <topic>Flowers</topic>
+  </subject>
+  <subject>
+    <topic>Stores, Retail</topic>
+  </subject>
+  <subject>
+    <topic>Birds</topic>
+  </subject>
+  <subject>
+    <topic>Wigs</topic>
+  </subject>
+  <subject>
+    <topic>Sale of human hair</topic>
+  </subject>
+  <subject>
+    <topic>Beauty, Personal</topic>
+  </subject>
+  <genre>trade cards</genre>
+  <genre>business cards</genre>
+  <genre>advertisements</genre>
+  <originInfo>
+    <publisher>J.H. Bufford's Sons</publisher>
+    <place>
+      <placeTerm type="text">Boston</placeTerm>
+    </place>
+  </originInfo>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/fulton%3A605</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:fulton_558</identifier><datestamp>2014-10-10T13:29:04Z</datestamp><setSpec>fulton_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>"All-Rail Coal. Bacon  Company, Wholesale and Retail Coal Dealers</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Bacon &amp; Company</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+    </role>
+  </name>
+  <subject>
+    <geographic>United States--New York (State)--New York--Brooklyn</geographic>
+  </subject>
+  <abstract>Address of main office and yards. Telephone, 1000 Bushwick and Flatbush Yard, 534 Flatbush.</abstract>
+  <identifier type="local">FC-0220</identifier>
+  <accessCondition type="use and reproduction">While many images in the Brooklyn Collection are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The end user assumes all responsibility for copyright questions.</accessCondition>
+  <typeOfResource>still image</typeOfResource>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Fulton Street Trade Card Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>Brooklyn Public Library, Brooklyn Collection</physicalLocation>
+  </location>
+  <language>
+    <languageTerm type="text">English</languageTerm>
+  </language>
+  <note displayLabel="Business Address">1178 to 1182 Fulton Street, Brooklyn, NY.</note>
+  <subject>
+    <topic>Coal</topic>
+  </subject>
+  <subject>
+    <topic>Coal trade</topic>
+  </subject>
+  <subject>
+    <topic>Fuel</topic>
+  </subject>
+  <subject>
+    <topic>Fossil fuels</topic>
+  </subject>
+  <subject>
+    <topic>Steam</topic>
+  </subject>
+  <subject>
+    <topic>Railroads</topic>
+  </subject>
+  <genre>trade cards</genre>
+  <genre>business cards</genre>
+  <genre>advertisements</genre>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/fulton%3A558</identifier>
+</mods>
+</metadata></record><resumptionToken expirationDate="2015-08-12T14:37:21Z" completeListSize="251" cursor="0">2113107808</resumptionToken></ListRecords></OAI-PMH>

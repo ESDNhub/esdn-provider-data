@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2015-08-10T19:40:12Z</responseDate><request verb="ListRecords" resumptionToken="dudleyo:246:dudleyo:0000-00-00:9999-99-99:oai_dc" metadataPrefix="oai_dc" set="dudleyo">http://cdm16694.contentdm.oclc.org/oai/oai.php</request><ListRecords><record><header><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/249</identifier><datestamp>2014-04-02</datestamp><setSpec>dudleyo</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>San Luis Observatory, Argentina: Correspondence 1910-08-03. Boss</dc:title>
+<dc:description>Boss eagerly awaits new right ascension (R.A.), declination (decl.), and transit sheets.  He has been working up double transits of circumpolar stars, but needs the personal error of each observer above and below pole to be ascertained.  Differences between Tucker, Varnum, and Roy are mentioned.  It is necessary to take a lot of double transits of stars ranging from -77 to -89 trying to get 4 or 5 of them each day for a week when possible; each observer should get them.  It is very important to get Octantis as often as possible in September and October in order to determine the periodic error of the A stars.  In order to carry out all of the needed work, it will be necessary to observe until May instead of February.  Boss never said the photometric work was optional and is surprised by Tucker&#x27;s view that it is.  He thought Varnum was doing the work since he asked to do it.  The whole trouble has come from the effort to crowd three years observing into less than two years, which is why Boss wrote a year ago to let up on the speed.   It appears Tucker and Varnum&#x27;s double transits are remarkably accurate.  Absorption of screen must be gotten, and instructions for doing so are provided.  He is sending one statement of Tucker&#x27;s double-transits, as well as, Roy&#x27;s and Varnum&#x27;s.  These points are vital and Boss depends on Tucker to execute the necessary work.  It is important to find the true meridian.</dc:description>
+<dc:creator>Boss, Lewis, 1846-1912</dc:creator>
+<dc:subject>Astronomical observatories; Stars--Observations; Astronomical photometry</dc:subject>
+<dc:subject>Tucker, R. H. (Richard Hawley), 1859-1952; Varnum, William B. (William Bentley), 1868-1936; Roy, Arthur J. (Arthur Jay), 1869-</dc:subject>
+<dc:subject>San Luis Observatory; Dudley’s Southern Field Station at San Luis; The San Luis Observatory of the Carnegie Intuition; Southern Observatory of the Carnegie Institution of Washington</dc:subject>
+<dc:subject>Medicine, Science &amp; Technology</dc:subject>
+<dc:date>1910-08-03</dc:date>
+<dc:source>correspondence; typed; ink on paper; 3 p.</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>RB05F004.056-058</dc:identifier>
+<dc:relation>San Luis Observatory</dc:relation>
+<dc:rights>This digital image may be used for educational uses.  Prior written permission is required for any other use of the images from the Dudley Observatory Elkind Digital Archives.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/dudleyo/id/249</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/253</identifier><datestamp>2014-04-02</datestamp><setSpec>dudleyo</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>San Luis Observatory, Argentina: Correspondence 1910-10-14. Boss</dc:title>
+<dc:description>Boss is delighted to hear that Davis is aboard the &quot;President Lincoln&quot; and plans to visit.  He will try to meet him at the train station, otherwise, directions to the observatory are provided.  He recalls Davis&#x27; kindness and help when in Buenos Aires.  The men in San Luis made over 78,000 observations in the first 16 months.  Two of the men had to come home due to failing eyesight, and two others are in nearly as bad condition.  The quality of the observations looks good.  It looks as if most of them will be home in April or May 1911, while two may possibly remain to do  the photometry for a year or so.  Regarding disposal of the buildings, he would like to talk to Davis to see if he has a preference as their future use.  Work has been very strenuous since returning home from San Luis in July 1910.  Despite this, his nervous condition is apt to be better when working hard than when taking it more easily.  He looks forward to seeing Davis next week and hopes he stays as long  he can spare.</dc:description>
+<dc:creator>Boss, Lewis, 1846-1912</dc:creator>
+<dc:subject>Astronomical observatories; Stars--Observations; Astronomical photometry; Eyestrain; Right of property</dc:subject>
+<dc:subject>Davis, Walter G.</dc:subject>
+<dc:subject>San Luis Observatory; Dudley’s Southern Field Station at San Luis; The San Luis Observatory of the Carnegie Intuition; Southern Observatory of the Carnegie Institution of Washington</dc:subject>
+<dc:subject>Medicine, Science &amp; Technology</dc:subject>
+<dc:date>1910-10-14</dc:date>
+<dc:source>correspondence; handwritten; ink on paper; 3 p.</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>RB05F004.089-091</dc:identifier>
+<dc:relation>San Luis Observatory</dc:relation>
+<dc:rights>This digital image may be used for educational uses.  Prior written permission is required for any other use of the images from the Dudley Observatory Elkind Digital Archives.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/dudleyo/id/253</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/257</identifier><datestamp>2014-04-02</datestamp><setSpec>dudleyo</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>San Luis Observatory, Argentina: Correspondence 1910-10-03. Boss (Letter 3)</dc:title>
+<dc:description>Boss states photometry would be best done in San Luis; they must have it some form.  Zimmer might be able to do the work if he would take interest in it.  Boss estimates it will take two men one year to do the photometry work and provides details on that estimate.  At Tucker&#x27;s discretion, he can talk to Zimmer about doing the photometry work after the meridian circle (M.C.), magnitude equations, and N-S work are complete.  No definitive arrangement will be made until Zimmer has used the photometer, measured some stars, verified that it works, and knows how to work it.  He thinks Zimmer would save a lot of money by having his fiance meet him in Buenos Aires and be married there.  While Zimmer probably works hard enough, Boss does not think  he&#x27;s shown the responsible interest in the work that a man receiving $150/month should show.  However, he may take to the photometry in a different light.  Sanford would be too high priced to be his helper.  It remains to be seen if Mearns or Jenkins would be willing to help for $125/month.  How to use the photometer is discussed, and Harvard Photometry Volume 46 is referenced.  He is writing Burns, but will give Zimmer first chance.  He has someone in mind to help if Mearns and Jenkins refuse.  Even though Varnum could not do the work, Boss thinks he will give Zimmer as many points as he knows.  The Harvard General Catalogue and Gould&#x27;s General Catalogue are mentioned.  A porter or janitor would be employed as general utility man.  Tucker is to let Zimmer read this letter and cable Boss his decision, while Zimmer is to write Boss if he is interested.</dc:description>
+<dc:creator>Boss, Lewis, 1846-1912</dc:creator>
+<dc:subject>Astronomical observatories; Stars--Observations; Astronomical photometry; Wages; Employees--Recruiting</dc:subject>
+<dc:subject>Tucker, R. H. (Richard Hawley), 1859-1952; Zimmer, Meade Lafayette, 1880-; Burns, Keivin; Sanford, Roscoe F. (Roscoe Frank), 1883-1958; Mearns, Louis di Zerega, 1886-1912; Jenkins, Heroy, 1886-; Varnum, William B. (William Bentley), 1868-1936</dc:subject>
+<dc:subject>San Luis Observatory; Dudley’s Southern Field Station at San Luis; The San Luis Observatory of the Carnegie Intuition; Southern Observatory of the Carnegie Institution of Washington</dc:subject>
+<dc:subject>Medicine, Science &amp; Technology</dc:subject>
+<dc:date>1910-10-03</dc:date>
+<dc:source>correspondence; typed; ink on paper; 3 p.</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>RB05F004.086-088</dc:identifier>
+<dc:relation>San Luis Observatory</dc:relation>
+<dc:rights>This digital image may be used for educational uses.  Prior written permission is required for any other use of the images from the Dudley Observatory Elkind Digital Archives.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/dudleyo/id/257</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/262</identifier><datestamp>2014-04-02</datestamp><setSpec>dudleyo</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>San Luis Observatory, Argentina: Correspondence 1910-10-03.  Boss (Letter 2)</dc:title>
+<dc:description>Boss acknowledges transits, right ascensions (R.A.), declinations, levels, mires, and refraction record.  Zenith distance (Z.D.) books can be sent in installments.  The Annual Report was sent to The Carnegie Institution.  He thinks Tucker will find that it treats the force very well and expresses wonder at the tremendous rate of observation, in addition, he expressed the opinion that the quality of observations is probably very good.  Extra care should be exercised to ensure accuracy of the records.  Boss is anxious to have the values of N-S braced up, especially by Sanford and Zimmer, and outlines the reasons why it so important.  The instrument must remain standing until these determinations of constants are thoroughly complete.  A solid determination of the absorption of the screen is also needed and discussed.  Boss calls attention to the dependence of polar-points in right ascension (R.A.) upon declination of star from which polar-point (azimuth) is derived.  It is necessary to refer all azimuths to one standard in every month of the year.  Tucker and Varnum have  considerable material, but it is scanty for Roy.  Boss thinks this work will keep them busy for several months to come.  Reasons for not wanting the instrument in Albany until May are also outlined.  Tucker misinterpreted his remark about the voyage being part of the men&#x27;s vacation.  He meant the men will get their full vacation and the voyage would be more vacation.  Boss wants to see if Tucker can remain working there and taking care of the buildings until someone arrives to do the photometry work.  He is writing to Burns about the photometry work but is not hopeful it will work out.  Sanford is too heedless to do the work.  Zimmer may do, so Tucker is to show the  separate letter Boss wrote to him to Zimmer.  He understands  the troubles Tucker has experienced with the staff.  He will talk to Davis about transferring the buildings back to the Argentine government when everything is complete and arranging for reentry of the instruments into the country.</dc:description>
+<dc:creator>Boss, Lewis, 1846-1912</dc:creator>
+<dc:subject>Astronomical observatories; Stars--Observations; Astronomical photometry; Shipping; Right of property; Building management; Employees--Recruiting</dc:subject>
+<dc:subject>Tucker, R. H. (Richard Hawley), 1859-1952; Roy, Arthur J. (Arthur Jay), 1869-; Sanford, Roscoe F. (Roscoe Frank), 1883-1958; Zimmer, Meade Lafayette, 1880-; Varnum, William B. (William Bentley), 1868-1936; Davis, Walter G.; Burns, Keivin</dc:subject>
+<dc:subject>Carnegie Institution of Washington; San Luis Observatory; Dudley’s Southern Field Station at San Luis; The San Luis Observatory of the Carnegie Intuition; Southern Observatory of the Carnegie Institution of Washington</dc:subject>
+<dc:subject>Medicine, Science &amp; Technology</dc:subject>
+<dc:date>1910-10-03</dc:date>
+<dc:source>correspondence; typed; ink on paper; 4 p.</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>RB05F004.082-085</dc:identifier>
+<dc:relation>San Luis Observatory</dc:relation>
+<dc:rights>This digital image may be used for educational uses.  Prior written permission is required for any other use of the images from the Dudley Observatory Elkind Digital Archives.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/dudleyo/id/262</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/265</identifier><datestamp>2014-04-02</datestamp><setSpec>dudleyo</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>San Luis Observatory, Argentina: Correspondence 1910-10-03.  Boss (Letter 1)</dc:title>
+<dc:description>Handwritten letter draft from Prof. Lewis Boss to R.H. Tucker discussing Boss&#x27; desire for M.L Zimmer or W.B. Varnum to do photometric work at the San Luis Observatory.</dc:description>
+<dc:creator>Boss, Lewis, 1846-1912</dc:creator>
+<dc:subject>Astronomical observatories; Stars--Observations; Astronomical photometry; Wages; Shipping</dc:subject>
+<dc:subject>Tucker, R. H. (Richard Hawley), 1859-1952; Zimmer, Meade Lafayette, 1880-; Burns, Keivin; Sanford, Roscoe F. (Roscoe Frank), 1883-1958</dc:subject>
+<dc:subject>San Luis Observatory; Dudley’s Southern Field Station at San Luis; The San Luis Observatory of the Carnegie Intuition; Southern Observatory of the Carnegie Institution of Washington</dc:subject>
+<dc:subject>Medicine, Science &amp; Technology</dc:subject>
+<dc:date>1910-10-03</dc:date>
+<dc:source>correspondence; handwritten; ink on paper; 2 p.</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>RB05F004.080-081</dc:identifier>
+<dc:relation>San Luis Observatory</dc:relation>
+<dc:rights>This digital image may be used for educational uses.  Prior written permission is required for any other use of the images from the Dudley Observatory Elkind Digital Archives.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/dudleyo/id/265</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/268</identifier><datestamp>2014-04-02</datestamp><setSpec>dudleyo</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>San Luis Observatory, Argentina: Correspondence 1910-10-16. Boss</dc:title>
+<dc:description>Boss agrees that N-S taken under circumstances Roy described would be worse than useless.  However, they may get some material improvements in individual results when magnitude equations are put in.  He would like to know what proportion of magnitude equations have been taken south of the zenith.  He believes the difference in magnitude, north and south, may materially affect N-S.  Boss is sorry to hear Roy&#x27;s general health has been so bad.  If Roy needs to take some recreation for a week or two in order to hold out, it will not be taken from his vacation accumulation.  This only applies to Roy, and if causes trouble with others, he may have to take a different view.  While vacations are not cumulative in Albany, he made them so in San Luis as he thought the men would value vacations more after leaving Argentina.  Boss advises not to arrive in Europe before middle of April for reasons of health.  The weather is harsh, heating at most hotels is poor, and there is no heat in railroad (R.R.) trains.  Since receiving Roy and Tucker&#x27;s last letters, he is more inclined to think it is possible to take the instrument down in the latter part of February as it is unlikely they will get enough sets of double transits to make it worthwhile after that.  Roy needs these most, but Boss does not wish him to do anything dangerous to his health or eyesight.  He is anxious to have Roy and Varnum&#x27;s mechanical skill in taking down and packing the instrument.</dc:description>
+<dc:creator>Boss, Lewis, 1846-1912</dc:creator>
+<dc:subject>Astronomical observatories; Stars--Observations; Eyestrain; Packing for shipment</dc:subject>
+<dc:subject>Roy, Arthur J. (Arthur Jay), 1869-; Tucker, R. H. (Richard Hawley), 1859-1952; Varnum, William B. (William Bentley), 1868-1936</dc:subject>
+<dc:subject>San Luis Observatory; Dudley’s Southern Field Station at San Luis; The San Luis Observatory of the Carnegie Intuition; Southern Observatory of the Carnegie Institution of Washington</dc:subject>
+<dc:subject>Medicine, Science &amp; Technology</dc:subject>
+<dc:date>1910-10-16</dc:date>
+<dc:source>correspondence; typed; ink on paper; 2 p.</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>RB05F004.092-093</dc:identifier>
+<dc:relation>San Luis Observatory</dc:relation>
+<dc:rights>This digital image may be used for educational uses.  Prior written permission is required for any other use of the images from the Dudley Observatory Elkind Digital Archives.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/dudleyo/id/268</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/273</identifier><datestamp>2014-04-02</datestamp><setSpec>dudleyo</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>San Luis Observatory, Argentina: Correspondence 1910-10-18. Boss</dc:title>
+<dc:description>Boss acknowledges receipt of right ascensions (R.A.), declinations, transits, mires, levels, and refraction records.  From Tucker and Roy&#x27;s letters, it is apparent that Roy and Varnum are run down in health especially as to eyesight -- a consequence of the rush of observations.  Not having the required number of N-S and magnitude equation determinations will be a weak point of the work.  He is hoping Varnum and Roy&#x27;s eyes will get better so they can mend up these determinations in December or later, but this cannot be done unless their eyes get in far better shape.  Further observations, particularly magnitude equations north of zenith, are most necessary for Zimmer and Sanford.  Boss explains he is not looking for &quot;identical results&quot; in two successive observations of the same star.  But when it comes to systematic error, he is anxious to know the large errors relating to magnitude equations and absorption of screen.  Boss was aware it would be difficult to get sets of double transits, but he sees it would be risky for Varnum and Roy to strain their eyesight to get these faint objects in the glare of day.  The staff have half-killed themselves by the rush for observations, but yet neglected these extremely important constants.  Boss warned Tucker a year ago that the force would break down and begged him to finish in 1912 rather than early 1911.  He is now resigned to get was is practical.  He heard that Zimmer was going to do the photometry work.  A big error made by Zimmer was discussed; it seems he has little feeling of responsibility and doesn&#x27;t seem to care.  Burns is going to Lick Observatory; practical reasons he would not have worked out include his poor health and being a stranger there.  Zimmer must experiment with the photometer to prove he is able to do the work and understand he would have to take an interest in it.  Davis arrived on the President Lincoln of the Hamburg Line last week and is to visit this week; they will discuss the San Luis buildings.  Hopefully Roy will stay until the instrument is taken down as he helped pack it.  Extreme care must be used in handling and packing the instrument parts, and it is most important that no dust, lint, or particles be allowed to get into the tubes, tail-piece, or anywhere inside the telescope.  Details regarding packing are provided.  Boss is inclined to think the meridian circle might be taken down at the end of February as it is unlikely Roy and Varnum will be able to observe constants effectively due to their eyesight.  Roy&#x27;s health and the checking of records is discussed; it should not be rushed.  The men&#x27;s health may suffer if they arrive in winter or even March due to the abrupt change of climate.</dc:description>
+<dc:creator>Boss, Lewis, 1846-1912</dc:creator>
+<dc:subject>Astronomical observatories; Stars--Observations; Eyestrain; Packing for shipment; Astronomical photometry; Right of property</dc:subject>
+<dc:subject>Tucker, R. H. (Richard Hawley), 1859-1952; Roy, Arthur J. (Arthur Jay), 1869-; Varnum, William B. (William Bentley), 1868-1936; Zimmer, Meade Lafayette, 1880-; Sanford, Roscoe F. (Roscoe Frank), 1883-1958; Burns, Keivin; Davis, Walter G.</dc:subject>
+<dc:subject>Lick Observatory; Hamburg-American Line; San Luis Observatory; Dudley’s Southern Field Station at San Luis; The San Luis Observatory of the Carnegie Intuition; Southern Observatory of the Carnegie Institution of Washington</dc:subject>
+<dc:subject>Medicine, Science &amp; Technology</dc:subject>
+<dc:date>1910-10-18</dc:date>
+<dc:source>correspondence; typed; ink on paper; 4 p.</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>RB05F004.094-097</dc:identifier>
+<dc:relation>San Luis Observatory</dc:relation>
+<dc:rights>This digital image may be used for educational uses.  Prior written permission is required for any other use of the images from the Dudley Observatory Elkind Digital Archives.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/dudleyo/id/273</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/277</identifier><datestamp>2014-04-02</datestamp><setSpec>dudleyo</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>San Luis Observatory, Argentina: Correspondence 1910-11-03. Boss</dc:title>
+<dc:description>Boss acknowledges receipt of right ascensions (R.A.), zenith distances (Z.D.), and transits.  Tucker&#x27;s address at the International Congress was also received; it reads very well.  He is pleased with Tucker&#x27;s work and wants the same from each observer.  When Boss gets the details as to magnitude equation, he thinks he can investigate the dependence of equation on magnitude.  Due to Roy&#x27;s eyes and general health, he should be relieved from part of the strain of verifying records.  They are now producing records faster than what Boss needs it, so the work does not need to be forced and could be let up.  The apparent-place computers are doing about 6000 apparent places per month.  Boss still hopes Roy and Varnum&#x27;s eyes recover enough to put in some effective N-S and magnitude equations later.  The anomaly  in Roy&#x27;s equation is talked about, which Boss attributes to excessive use of his eyes and loss of sensitivity.  They will probably get a fair result in the end, but it will require laborious investigations.  Photometric work is discussed, and Chandler&#x27;s photometry is mentioned.  He is not confident in Zimmer doing the work until he practices with the instrument.  Absorption of screen is also discussed.  They are putting in quite a bit of time on the systematic motions of the Preliminary General Catalog (P.G.C.).  Tucker is to send collimations as far back as December 11, 1909.  How to measure collimation without reversal is outlined; this is needed to determine if collimation follows the temperature.  Boss is glad Tucker plans to send a copy of the zenith distance (Z.D.) records.  He will prepare a photometry manual as soon as there is fair prospect that it will be undertaken.  Davis has been in the  United States (U.S.) about three weeks, but a relative in Vermont and Josiah P. Quincy (his father-in-law) died, so he has not been to Albany yet.</dc:description>
+<dc:creator>Boss, Lewis, 1846-1912</dc:creator>
+<dc:subject>Astronomical observatories; Stars--Observations; Eyestrain; Astronomical photometry</dc:subject>
+<dc:subject>Tucker, R. H. (Richard Hawley), 1859-1952; Roy, Arthur J. (Arthur Jay), 1869-; Varnum, William B. (William Bentley), 1868-1936; Davis, Walter G.; Quincy, Josiah P.; Chandler, Seth Carlo, 1846-1913</dc:subject>
+<dc:subject>International Scientific Congress; International American Scientific Congress; International Scientific Congress  America; American International Scientific Congress; San Luis Observatory; Dudley’s Southern Field Station at San Luis; The San Luis Observatory of the Carnegie Intuition; Southern Observatory of the Carnegie Institution of Washington</dc:subject>
+<dc:subject>Medicine, Science &amp; Technology</dc:subject>
+<dc:date>1910-11-03</dc:date>
+<dc:source>correspondence; typed; ink on paper; 3 p.</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>RB05F004.099-101</dc:identifier>
+<dc:relation>San Luis Observatory</dc:relation>
+<dc:rights>This digital image may be used for educational uses.  Prior written permission is required for any other use of the images from the Dudley Observatory Elkind Digital Archives.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/dudleyo/id/277</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/281</identifier><datestamp>2014-04-02</datestamp><setSpec>dudleyo</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>San Luis Observatory, Argentina: Correspondence 1910-11-17. Boss (Letter 2)</dc:title>
+<dc:description>Boss acknowledges receipt of transits, right ascensions (R.A.), zenith distance (Z.D.), collimations, mires, and levels.  The magnitude equations they are most interested in applies to starts south of -30.  Boss had always assumed that magnitude equation (M.E.) would be the same, but based on Tucker and Roy&#x27;s results, it is evident that  the difference may be very sensible.  While it is necessary for Zimmer and Sanford to observe for a larger number of equations south of the zenith, they should also observe some north of the zenith at the same time to get the contrast.  They need not press for groups of azimuth stars by double transit as Boss can probably dig out something with what they have and there may be some from 1910.  If Zimmer does the photometry work, it will be necessary for Tucker to stay until April 1 or so to see him started on the work.  He doesn&#x27;t understand why Jenkins or Mearns would not stay to help as they will not be there 3 years until September 1912.  He will not write about turning over the observatory to the Argentine government until the photometry plans are definitive.  Eventually he will notify the minister of Justice and Public Instruction that they have no further use for the observatory and turn it over to them.  He will suggest it be reserved for scientific expeditions and that Carnegie Institution might like to resume use within 3-4 years.  Do not rush the dispatch of records until they are carefully checked by responsible persons.  Davis was in Albany ten days ago and had the impression that Tucker expected to finish this year.  Davis&#x27; wife&#x27;s father, Quincy, died two weeks ago, so they are now expecting to sail December 5 by the &quot;Tennyson&quot;.  Roy suggested he would be willing to stay until May to get more double transits even if Tucker went home before.  However, Boss wants Tucker, Varnum, and Zimmer there when the instruments are taken down, and one of them to go with the instruments when they are shipped.  If the instrument is taken down in March, and the record is in Albany by then, all might as well go then except those who remain for photometry.  If Tucker has special and personal reasons for returning home before the middle of March, it might be arranged to leave Roy in charge, providing two or three men remain to take down and pack the instruments, until he can make observations in April and May.  If Zimmer does not take up the photometry, this arrangement would not work.</dc:description>
+<dc:creator>Boss, Lewis, 1846-1912</dc:creator>
+<dc:subject>Astronomical observatories; Stars--Observations; Packing for shipment; Shipping; Astronomical photometry; Right of property; Building management</dc:subject>
+<dc:subject>Tucker, R. H. (Richard Hawley), 1859-1952; Roy, Arthur J. (Arthur Jay), 1869-; Zimmer, Meade Lafayette, 1880-; Sanford, Roscoe F. (Roscoe Frank), 1883-1958; Mearns, Louis di Zerega, 1886-1912; Jenkins, Heroy, 1886-; Davis, Walter G.; Quincy, Josiah P.; Varnum, William B. (William Bentley), 1868-1936</dc:subject>
+<dc:subject>Carnegie Institution of Washington; San Luis Observatory; Dudley’s Southern Field Station at San Luis; The San Luis Observatory of the Carnegie Intuition; Southern Observatory of the Carnegie Institution of Washington</dc:subject>
+<dc:subject>Medicine, Science &amp; Technology</dc:subject>
+<dc:date>1910-11-17</dc:date>
+<dc:source>correspondence; typed; ink on paper; 3 p.</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>RB05F004.102-104</dc:identifier>
+<dc:relation>San Luis Observatory</dc:relation>
+<dc:rights>This digital image may be used for educational uses.  Prior written permission is required for any other use of the images from the Dudley Observatory Elkind Digital Archives.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/dudleyo/id/281</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/286</identifier><datestamp>2014-04-05</datestamp><setSpec>dudleyo</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>San Luis Observatory, Argentina: Correspondence 1910-12-03. Boss</dc:title>
+<dc:description>Boss acknowledges receipt of right ascensions (R.A.), declinations, transits, mires, refractions, and copies of six zenith distance (Z.D.) books.  The only requirements of observations is that they not neglect anything important that is necessary to enable them to reduce the observations as fundamental.  He never knew of an important series of observations to be rigidly planned at the beginning and carried through without amendments.  Boss is still hoping Zimmer and Sanford can brace up their constants, especially magnitude equations south of the zenith.  If Varnum&#x27;s eyes are so bad still, any observations by him would be worse than useless.  His observations can probably be treated as semi-fundamental.  More fundamental observations have been completed than Boss even planned.  If Tucker thinks he has everything needed in terms of magnitude equation and N-S that is practicable to get, the instruments can be taken down any time after February 1.  The hope of starting photometry in the spring is growing dim, so he will ask the Argentine Department of Public Instruction for the chance to send men after a year.  He is not inclined to risk Zimmer since no one wants to stay there and help him as a recorder.  Instructions for wrapping the circles, tail-piece, pivots of axis, observing books, and records are provided.  Tucker is responsible for seeing that nothing is lost and that accurate lists of the contents of each box are kept.  It is very important no dust or litter get inside the tubes or central cube.  Tucker is not notify Boss how long monthly payments should be sent.  Each man&#x27;s salary is to be paid up-to-date or one month in advance.  A large advance can be made to Roy and Sanford.  Zimmer can leave in February after the clocks are packed; Mearns and Jenkins can go when there is no further work for them to do.  Boss wants shipments and deliveries to be watched by one man at every point through to Albany.  Goods should be sent express from New York to Albany.  Tucker is responsible for overall packing and transportation of the instruments to Albany, but Roy and Varnum will help.  Tucker is to write the head of the schools about their departure and turning over the buildings.  Boss does not want to abandon the buildings without due notice in order to prevent damage being done in the interval between them leaving and the installation of a care-taker.  He will notify the Customs house and State Department about the instruments returning.  The men should not bring anything in without declaring it on arrival as inspections and penalties are severe now.  The Van Benthuysens are mentioned.  Lantern slides that belong to Dudley Observatory should also be packed.</dc:description>
+<dc:creator>Boss, Lewis, 1846-1912</dc:creator>
+<dc:subject>Astronomical observatories; Stars--Observations; Packing for shipment; Shipping; Astronomical photometry; Right of property; Building management; Wages; Eyestrain</dc:subject>
+<dc:subject>Tucker, R. H. (Richard Hawley), 1859-1952; Zimmer, Meade Lafayette, 1880-; Sanford, Roscoe F. (Roscoe Frank), 1883-1958; Varnum, William B. (William Bentley), 1868-1936; Roy, Arthur J. (Arthur Jay), 1869-; Mearns, Louis di Zerega, 1886-1912; Jenkins, Heroy, 1886-</dc:subject>
+<dc:subject>Albany Custom House; Dudley Observatory; Charles Van Benthuysen &amp; Sons; San Luis Observatory; Dudley’s Southern Field Station at San Luis; The San Luis Observatory of the Carnegie Intuition; Southern Observatory of the Carnegie Institution of Washington</dc:subject>
+<dc:subject>Medicine, Science &amp; Technology</dc:subject>
+<dc:date>1910-12-03</dc:date>
+<dc:source>correspondence; typed; ink on paper; 4 p.</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>RB05F005.106-109</dc:identifier>
+<dc:relation>San Luis Observatory</dc:relation>
+<dc:rights>This digital image may be used for educational uses.  Prior written permission is required for any other use of the images from the Dudley Observatory Elkind Digital Archives.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/dudleyo/id/286</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/287</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/288</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/289</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/290</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/291</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/292</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/293</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/294</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/295</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/296</identifier><datestamp>2013-11-30</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/297</identifier><datestamp>2013-11-30</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/298</identifier><datestamp>2013-11-30</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/299</identifier><datestamp>2013-11-30</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/300</identifier><datestamp>2013-11-30</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/301</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/302</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/303</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/304</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/305</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/306</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/307</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/308</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/309</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/310</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/311</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/312</identifier><datestamp>2014-04-05</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/313</identifier><datestamp>2014-04-05</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/314</identifier><datestamp>2014-04-05</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/315</identifier><datestamp>2014-04-05</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/316</identifier><datestamp>2014-04-05</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/317</identifier><datestamp>2014-03-05</datestamp><setSpec>dudleyo</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>San Luis Observatory, Argentina: Correspondence 1910-05-18. Boss (Letter 3)</dc:title>
+<dc:description>Boss received Zimmer&#x27;s letter asking for his salary to be paid by Tucker in San Luis beginning with payment of June 1.  Regarding a raise, Boss states that Zimmer received his promotion before leaving for San Luis.  Per Zimmer&#x27;s request, his pay was increased from $1500 to $1800 per year before starting.  Boss did not promise a raise and considers the salary liberal.  He has no doubt that Zimmer&#x27;s work has improved and is especially pleased at his skill and efficiency in mechanical repairs.  Zimmer&#x27;s services are very much appreciated, and Boss hopes he will not consider his time in San Luis a mistake.</dc:description>
+<dc:creator>Boss, Lewis, 1846-1912</dc:creator>
+<dc:subject>Astronomical observatories; Stars--Observations; Wages</dc:subject>
+<dc:subject>Zimmer, Meade Lafayette, 1880-; Tucker, R. H. (Richard Hawley), 1859-1952</dc:subject>
+<dc:subject>San Luis Observatory; Dudley’s Southern Field Station at San Luis; The San Luis Observatory of the Carnegie Intuition; Southern Observatory of the Carnegie Institution of Washington</dc:subject>
+<dc:subject>Medicine, Science &amp; Technology</dc:subject>
+<dc:date>1910-05-18</dc:date>
+<dc:source>correspondence; typed; ink on paper; 1 p.</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>RB05F004.015</dc:identifier>
+<dc:relation>San Luis Observatory</dc:relation>
+<dc:rights>This digital image may be used for educational uses. Please cite as Dudley Observatory. Prior written permission is required for any other use of the images from the Dudley Observatory.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/dudleyo/id/317</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/318</identifier><datestamp>2014-01-26</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/319</identifier><datestamp>2014-03-05</datestamp><setSpec>dudleyo</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>San Luis Observatory, Argentina: Correspondence 1910-08-04. Boss</dc:title>
+<dc:description>Boss acknowledges receipt of zenith distance (Z.D.) and right ascension (R.A.) records, as well as, duplicates which he does not need.  Instructions are provided for obtaining absorption of screen using the Potsdam General Catalogue.  Varnum wrote Boss a letter in which he is working hard for a discharge, but Boss will be as patient as he can be.  He is thankful for the information regarding various constants, N-S, etc. and is wanting more magnitude equations and N-S.</dc:description>
+<dc:creator>Boss, Lewis, 1846-1912</dc:creator>
+<dc:subject>Astronomical observatories; Stars--Observations</dc:subject>
+<dc:subject>Tucker, R. H. (Richard Hawley), 1859-1952; Varnum, William B. (William Bentley), 1868-1936</dc:subject>
+<dc:subject>San Luis Observatory; Dudley’s Southern Field Station at San Luis; The San Luis Observatory of the Carnegie Intuition; Southern Observatory of the Carnegie Institution of Washington</dc:subject>
+<dc:subject>Medicine, Science &amp; Technology</dc:subject>
+<dc:date>1910-08-04</dc:date>
+<dc:source>correspondence; typed; ink on paper; 1 p.</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>RB05F004.035</dc:identifier>
+<dc:relation>San Luis Observatory</dc:relation>
+<dc:rights>This digital image may be used for educational uses. Please cite as Dudley Observatory. Prior written permission is required for any other use of the images from the Dudley Observatory.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/dudleyo/id/319</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/320</identifier><datestamp>2014-03-06</datestamp><setSpec>dudleyo</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>San Luis Observatory, Argentina: Correspondence 1910-10-31. Boss</dc:title>
+<dc:description>Boss has not heard from Davis since writing him two weeks ago.  In case the letter was misdirected, he&#x27;s writing once more.  Boss will be there up to November 20 at least and would be delighted to see Davis whenever he can come to Albany.</dc:description>
+<dc:creator>Boss, Lewis, 1846-1912</dc:creator>
+<dc:subject>Astronomical observatories</dc:subject>
+<dc:subject>Davis, Walter G.; Quincy, Josiah P.</dc:subject>
+<dc:subject>San Luis Observatory; Dudley’s Southern Field Station at San Luis; The San Luis Observatory of the Carnegie Intuition; Southern Observatory of the Carnegie Institution of Washington</dc:subject>
+<dc:subject>Medicine, Science &amp; Technology</dc:subject>
+<dc:date>1910-10-31</dc:date>
+<dc:source>correspondence; handwritten; ink on paper; 1 p.</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>RB05F004.098</dc:identifier>
+<dc:relation>San Luis Observatory</dc:relation>
+<dc:rights>This digital image may be used for educational uses. Please cite as Dudley Observatory. Prior written permission is required for any other use of the images from the Dudley Observatory.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/dudleyo/id/320</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/321</identifier><datestamp>2014-03-06</datestamp><setSpec>dudleyo</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>San Luis Observatory, Argentina: Correspondence 1910-11-17. Boss (Letter 1)</dc:title>
+<dc:description>Boss talks about Roy&#x27;s magnitude equation difference.  He hopes Roy&#x27;s eyesight is in fairly good shape to get more equations south and north of the zenith for evidence on the difference of the two.  More N-S is needed by everyone except Tucker.  Boss appreciates Roy&#x27;s offer to work until April or May, but they should probably give up on observing later than mid-March.  Varnum and/or Zimmer are needed to help pack the instrument and Riefler Clock.  It would be useful to have more groups of double transits by Roy and Varnum.  At present Boss has no great confidence in the fixity of the Mire.  Three points he is most interested in now include:  getting magnitude equations south and north of zenith, getting more N-S, and getting an accurate record.  Boss&#x27; time is mostly consumed in studies upon the proper motions of Preliminary General Catalog (P.G.C.) as to what they indicate by types of spectrum, etc.</dc:description>
+<dc:creator>Boss, Lewis, 1846-1912</dc:creator>
+<dc:subject>Astronomical observatories; Stars--Observations; Eyestrain; Packing for shipment</dc:subject>
+<dc:subject>Roy, Arthur J. (Arthur Jay), 1869-; Tucker, R. H. (Richard Hawley), 1859-1952; Varnum, William B. (William Bentley), 1868-1936; Zimmer, Meade Lafayette, 1880-</dc:subject>
+<dc:subject>San Luis Observatory; Dudley’s Southern Field Station at San Luis; The San Luis Observatory of the Carnegie Intuition; Southern Observatory of the Carnegie Institution of Washington</dc:subject>
+<dc:subject>Medicine, Science &amp; Technology</dc:subject>
+<dc:date>1910-11-17</dc:date>
+<dc:source>correspondence; typed; ink on paper; 1 p.</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>RB05F004.105</dc:identifier>
+<dc:relation>San Luis Observatory</dc:relation>
+<dc:rights>This digital image may be used for educational uses. Please cite as Dudley Observatory. Prior written permission is required for any other use of the images from the Dudley Observatory.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/dudleyo/id/321</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/322</identifier><datestamp>2013-11-05</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/323</identifier><datestamp>2013-11-05</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/324</identifier><datestamp>2013-11-05</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/325</identifier><datestamp>2013-11-05</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/326</identifier><datestamp>2013-11-05</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/327</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/328</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/329</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/330</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/331</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/332</identifier><datestamp>2013-11-05</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/333</identifier><datestamp>2013-11-05</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/334</identifier><datestamp>2013-11-05</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/335</identifier><datestamp>2013-11-05</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/336</identifier><datestamp>2013-11-05</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/337</identifier><datestamp>2013-11-05</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/338</identifier><datestamp>2013-11-19</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/339</identifier><datestamp>2013-11-19</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/340</identifier><datestamp>2013-11-19</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/341</identifier><datestamp>2013-11-20</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/342</identifier><datestamp>2013-11-20</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/343</identifier><datestamp>2013-11-20</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/344</identifier><datestamp>2013-11-05</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/345</identifier><datestamp>2013-11-05</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/346</identifier><datestamp>2013-11-05</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/347</identifier><datestamp>2013-11-22</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/348</identifier><datestamp>2013-11-22</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/349</identifier><datestamp>2013-11-22</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/350</identifier><datestamp>2013-11-22</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/351</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/352</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/353</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/354</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/355</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/356</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/357</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/358</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/359</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/360</identifier><datestamp>2013-11-05</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/361</identifier><datestamp>2013-11-05</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/362</identifier><datestamp>2013-11-05</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/363</identifier><datestamp>2013-11-05</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/364</identifier><datestamp>2013-11-05</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/365</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/366</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/367</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/368</identifier><datestamp>2013-11-19</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/369</identifier><datestamp>2013-11-19</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/370</identifier><datestamp>2013-11-19</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/371</identifier><datestamp>2013-11-19</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/372</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/373</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/374</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/375</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/376</identifier><datestamp>2013-11-23</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/377</identifier><datestamp>2013-11-23</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/378</identifier><datestamp>2013-11-23</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/379</identifier><datestamp>2014-03-18</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/380</identifier><datestamp>2014-03-18</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/381</identifier><datestamp>2014-03-18</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/382</identifier><datestamp>2014-03-18</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/383</identifier><datestamp>2014-03-18</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/384</identifier><datestamp>2014-03-18</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/385</identifier><datestamp>2014-03-18</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/386</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/387</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/388</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/389</identifier><datestamp>2013-11-22</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/390</identifier><datestamp>2013-11-22</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/391</identifier><datestamp>2013-11-22</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/392</identifier><datestamp>2013-11-22</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/393</identifier><datestamp>2014-03-18</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/394</identifier><datestamp>2014-03-18</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/395</identifier><datestamp>2014-03-18</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/396</identifier><datestamp>2014-03-18</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/397</identifier><datestamp>2014-03-18</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/398</identifier><datestamp>2014-03-18</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/399</identifier><datestamp>2014-03-18</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/400</identifier><datestamp>2013-11-05</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/401</identifier><datestamp>2014-04-04</datestamp><setSpec>dudleyo</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>San Luis Observatory, Argentina: Correspondence 1911-02-23. Boss</dc:title>
+<dc:description>Boss responds to a handwritten transcription of a telegraph from Campbell of the Lick Observatory.  Campbell inquires whether Sanford is still in San Luis and his availability to work in Chili.  Boss responds that Sanford is leaving his employ, and that he might have already set sail or possibly leaving March 10.</dc:description>
+<dc:creator>Boss, Lewis, 1846-1912</dc:creator>
+<dc:subject>Astronomical observatories; Employees--Recruiting</dc:subject>
+<dc:subject>Campbell, William Wallace, 1862-1938; Sanford, Roscoe F. (Roscoe Frank), 1883-1958</dc:subject>
+<dc:subject>Lick Observatory; San Luis Observatory; Dudley’s Southern Field Station at San Luis; The San Luis Observatory of the Carnegie Intuition; Southern Observatory of the Carnegie Institution of Washington</dc:subject>
+<dc:subject>Medicine, Science &amp; Technology</dc:subject>
+<dc:date>1911-02-23</dc:date>
+<dc:source>correspondence; handwritten; ink on paper; 1 p.</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>RB05F005.049</dc:identifier>
+<dc:relation>San Luis Observatory</dc:relation>
+<dc:rights>This digital image may be used for educational uses.  Prior written permission is required for any other use of the images from the Dudley Observatory Elkind Digital Archives.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/dudleyo/id/401</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/402</identifier><datestamp>2013-11-05</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/403</identifier><datestamp>2013-11-20</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/404</identifier><datestamp>2013-11-22</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/405</identifier><datestamp>2013-11-22</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/406</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/407</identifier><datestamp>2013-11-23</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/408</identifier><datestamp>2014-04-05</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/409</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/410</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/411</identifier><datestamp>2013-11-30</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/412</identifier><datestamp>2013-11-30</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/413</identifier><datestamp>2014-04-05</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/414</identifier><datestamp>2014-04-05</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/415</identifier><datestamp>2014-04-05</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/416</identifier><datestamp>2013-11-30</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/417</identifier><datestamp>2013-11-30</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/418</identifier><datestamp>2013-11-30</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/419</identifier><datestamp>2013-11-30</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/420</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/421</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/422</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/423</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/424</identifier><datestamp>2014-04-05</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/425</identifier><datestamp>2014-04-05</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/426</identifier><datestamp>2014-06-04</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/427</identifier><datestamp>2014-06-04</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/428</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/429</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/430</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/431</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/432</identifier><datestamp>2013-11-30</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/433</identifier><datestamp>2013-11-30</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/434</identifier><datestamp>2013-11-30</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/435</identifier><datestamp>2013-11-30</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/436</identifier><datestamp>2014-06-16</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/437</identifier><datestamp>2014-06-16</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/438</identifier><datestamp>2014-06-16</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/439</identifier><datestamp>2013-11-30</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/440</identifier><datestamp>2013-11-30</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/441</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/442</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/443</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/444</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/445</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/446</identifier><datestamp>2014-01-25</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/447</identifier><datestamp>2014-04-05</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/448</identifier><datestamp>2014-04-05</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/449</identifier><datestamp>2014-04-04</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/450</identifier><datestamp>2014-04-04</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/451</identifier><datestamp>2014-01-26</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/452</identifier><datestamp>2014-01-26</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/453</identifier><datestamp>2014-01-26</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/454</identifier><datestamp>2014-01-26</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/455</identifier><datestamp>2014-01-26</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/456</identifier><datestamp>2014-01-26</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/457</identifier><datestamp>2014-01-26</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/458</identifier><datestamp>2014-01-26</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/459</identifier><datestamp>2014-01-26</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/460</identifier><datestamp>2014-01-26</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/461</identifier><datestamp>2013-12-21</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/462</identifier><datestamp>2013-12-21</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/463</identifier><datestamp>2013-12-21</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/464</identifier><datestamp>2013-12-21</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/465</identifier><datestamp>2013-12-21</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/466</identifier><datestamp>2014-01-26</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/467</identifier><datestamp>2014-01-26</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/468</identifier><datestamp>2014-01-26</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/469</identifier><datestamp>2014-01-26</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/470</identifier><datestamp>2014-01-26</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/471</identifier><datestamp>2014-01-26</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/472</identifier><datestamp>2014-01-26</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/473</identifier><datestamp>2013-12-21</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/474</identifier><datestamp>2013-12-21</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/475</identifier><datestamp>2013-12-21</datestamp><setSpec>dudleyo</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:dudleyo/476</identifier><datestamp>2013-12-21</datestamp><setSpec>dudleyo</setSpec></header>
+</record><resumptionToken>dudleyo:477:dudleyo:0000-00-00:9999-99-99:oai_dc</resumptionToken></ListRecords></OAI-PMH>

@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2015-08-10T16:57:07Z</responseDate><request verb="ListRecords" metadataPrefix="oai_dc" set="tobcl">http://cdm16694.contentdm.oclc.org/oai/oai.php</request><ListRecords><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/0</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/1</identifier><datestamp>2015-03-31</datestamp><setSpec>tobcl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Forest Park Amusement Park Railroad Stop, Ballston Lake, Saratoga County, NY</dc:title>
+<dc:description>B&amp;W Photograph of Schenectady Railway Company railroad stop for Forest Park Amusement Park, Ballston Lake, Saratoga County, NY.  This photograph was used in Around Burnt Hills, by Katharine Q. Briaddy,  Arcadia Publishing Charleston, SC, 1998. ISBN: 0-7524-1248-5</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Railroad companies; Railroad stations; Railroads; Railroads -- Buildings and structures; Railroads -- Cars; Railroads -- Passenger traffic; Amusement parks; Amusement rides; Nineteen tens; Nineteen twenties; Twentieth century;</dc:subject>
+<dc:subject>Photographs</dc:subject>
+<dc:subject>Schenectady Railway Company</dc:subject>
+<dc:subject>Transportation; People; Community &amp; Events;</dc:subject>
+<dc:subject>Ballston Lake- Saratoga County- New York</dc:subject>
+<dc:date>1902-1927</dc:date>
+<dc:date>1902</dc:date>
+<dc:source>Photograph : b&amp;w ; 5 x 7 in.(12.5 x 17.5 cm.)</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>BL02</dc:identifier>
+<dc:relation>Town of Ballston Digital Collection</dc:relation>
+<dc:rights>Fair use copy permitted for research, study, or investigational purposes citing the Town of Ballston, Saratoga County, New York. Any other use requires written permission. Cite: Town of Ballston, NY</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/tobcl/id/1</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/2</identifier><datestamp>2015-03-31</datestamp><setSpec>tobcl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Burnt Hills, New York, corner of Route 50 and Lakehill Road, 1950s</dc:title>
+<dc:description>b&amp;w aerial photograph of the corner of Route 50 and Lakehill Roads, Burnt Hills, Town of Ballston, Saratoga County, NY. Includes fire pond, cars, businesses. Photograph used in Around Burnt Hills by Katherine Q. Briaddy, Charleston, SC, Arcadia Publishing, 1998. ISBN: 0-7524-1248-5</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Roads -- Location; Business; Aerial photographs; Ponds; Fire management; Nineteen fifties;</dc:subject>
+<dc:subject>Photographs</dc:subject>
+<dc:subject>Burnt Hills Diner; Veeder &amp;  Yelverton Pharmacy; Endicott Johnson Shoes;</dc:subject>
+<dc:subject>Business &amp; Industry; Transportation; Geography &amp; Maps</dc:subject>
+<dc:subject>Burnt Hills- Town of Ballston- Saratoga County- New York</dc:subject>
+<dc:date>1950-1959</dc:date>
+<dc:date>1950</dc:date>
+<dc:source>B &amp; W aerial photograph; 8.5 x 11 in. (21.5 x 28 cm.)</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>BH01</dc:identifier>
+<dc:relation>Town of Ballston Digital Collection</dc:relation>
+<dc:rights>Fair use copy permitted for research, study, or investigational purposes. All other uses require permission. Cite: The Town of Ballston.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/tobcl/id/2</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/3</identifier><datestamp>2015-03-31</datestamp><setSpec>tobcl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Map of Burnt Hills, Town of Ballston, Saratoga County c. 1920-1930</dc:title>
+<dc:description>b &amp; w map of Village of Burnt Hills, c, 1920-1930, based on 1920 census, shows names of residents and businesses. Included in Around Burnt Hills, by Katherine Q. Briaddy, Charleston, SC, Arcadia Publishing, 1998, ISBN: 0-7524-1248-5</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Village communities; Nineteen twenties; Charts, diagrams, etc; Maps; Historical geography -- Maps;</dc:subject>
+<dc:subject>Drawings; Maps</dc:subject>
+<dc:subject>Robson, L.; Rider, Howard; Rider, Beulah; Davis, Robert O.; Davis, Abigail; VanVechton; Abbs, Ira; Coons, Frank; Coons, Ira; Coons, Louisa; Townley, Earl; Townley, Jessie; Upham, Charles; VanVorst; Cotton, John; Seelye, Mary; Bubb, Valentine; Bubb, Pearl; Sharpley, Isaac; Sharpley, Mary; Bayliss, Dave; Bayliss, Martha; Bathwick, Arthur; Wetzel, Harry; Wetzel, Clara; Whitbeck-Needham, Sophie; Quivey, Porter; Tooper; West, John; Weatherwax (house); Stickles, Sarah; Filkins, B.; Hall, Frank; Cunningham, Roy; Ward; Sharpley, Turpit; Crouse; Odell; Cunningham; Johnson, Abbs; Sharpley, Henry; Beckwith; Ketchum; Gately; Nears; West; Lansing, Levinus; Higgins, Fred; Bailey, Lt. Claude; Bailey, Claude; Bailey, Emily; Baker, Benjamen; Baker, Hariett; Sitterley, Dr. Augustus; Sitterly, Augustus; Sitterly, Nettie; Bates, Albert; Bates, Betsy; Abbs, Ira; Abbs, Elizabeth; Yates; Bates, Ezra; Westcott, Lymon; Baker, Ashley; Baker (Humphrey), Ashley; Bates, Albert; Bates; Wait; Jackson, Arthur; Jackson, Anna; Finger; Palmer; Weiss, Albert; Weiss, Eveline; Smith, Earl; Crouse, Emmanuel; Parker; Wait; Sprague; Kline, Elmer; Burrus</dc:subject>
+<dc:subject>Calvary Episcopal Church; Dr. John Cotton; Seely&#x27;s Cider Mill; Kingsley Inn; Odd Fellows Hall; Burnt Hills Methodist Church; Wheeler Funeral; Westcott Garage; Johnson&#x27;s Store; Smith&#x27;s Market; Neptune Fire Department; Burnt Hills Hardware; Burnt Hills Baptist Church; Hillside Cemetery; Focastle Farm; Fo&#x27;castle Farm; Westcott Car Shop; Natt Seelye Store</dc:subject>
+<dc:subject>Geography &amp; Maps</dc:subject>
+<dc:subject>Burnt Hills- Town of Ballston- Saratoga County- New York</dc:subject>
+<dc:contributor>Lacy, Bob</dc:contributor>
+<dc:date>unknown</dc:date>
+<dc:date>9999</dc:date>
+<dc:source>b &amp; w drawing; 8.5 x 11 in. (21.5 x 28 cm)</dc:source>
+<dc:type>Text;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>BH02</dc:identifier>
+<dc:relation>Town of Ballston Digital Collection</dc:relation>
+<dc:rights>Fair use copy permitted for research, study, or investigational purposes. All other uses require permission. Cite: The Town of Ballston.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/tobcl/id/3</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/4</identifier><datestamp>2015-03-31</datestamp><setSpec>tobcl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Merry-go-Round, Forest Park Amusement Park, Ballston Lake, Saratoga County, New York, c. 1902-1925</dc:title>
+<dc:description>Color photograph, Merry-go-Round (Carousel), Forest Park Amusement Park, Ballston Lake, Saratoga County, NY, c. 1902-1927</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Merry-go-round; Amusement parks; Twentieth century;</dc:subject>
+<dc:subject>Photographs</dc:subject>
+<dc:subject>Forest Park Amusement Park</dc:subject>
+<dc:subject>Community &amp; Events; Recreation &amp; Sports;</dc:subject>
+<dc:subject>Ballston Lake - Town of Ballston - Saratoga County - New York</dc:subject>
+<dc:date>1902-1927</dc:date>
+<dc:date>1902</dc:date>
+<dc:source>color photograph; 8.5 x 11 in. (21.5 x 28 cm.)</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>BL03</dc:identifier>
+<dc:relation>Town of Ballston Digital Collection</dc:relation>
+<dc:rights>Fair use copy permitted for research, study, or investigational purposes. All other uses require permission. Cite: The Town of Ballston.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/tobcl/id/4</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/5</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/6</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/7</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/8</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/9</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/10</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/11</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/12</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/13</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/14</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/15</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/16</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/17</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/18</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/19</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/20</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/21</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/22</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/23</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/24</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/25</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/26</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/27</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/28</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/29</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/30</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/31</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/32</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/33</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/34</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/35</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/36</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/37</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/38</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/39</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/40</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/41</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/42</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/43</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/44</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/45</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/46</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/47</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/48</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/49</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/50</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/51</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/52</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/53</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/54</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/55</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/56</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/57</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/58</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/59</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/60</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/61</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/62</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/63</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/64</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/65</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/66</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/67</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/68</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/69</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/70</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/71</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/72</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/73</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/74</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/75</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/76</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/77</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/78</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/79</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/80</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/81</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/82</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/83</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/84</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/85</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/86</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/87</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/88</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/89</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/90</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/91</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/92</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/93</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/94</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/95</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/96</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/97</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/98</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/99</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/100</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/101</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/102</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/103</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/104</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/105</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/106</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/107</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/108</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/109</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/110</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/111</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/112</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/113</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/114</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/115</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/116</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/117</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/118</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/119</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/120</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/121</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/122</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/123</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/124</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/125</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/126</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/127</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/128</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/129</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/130</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/131</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/132</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/133</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/134</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/135</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/136</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/137</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/138</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/139</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/140</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/141</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/142</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/143</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/144</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/145</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/146</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/147</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/148</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/174</identifier><datestamp>2015-03-31</datestamp><setSpec>tobcl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>&quot;The Little Library That Could&quot; by Kathy Briaddy, Historian, Town of Ballston, NY. 2000.</dc:title>
+<dc:description>History of the Town of Ballston Community Library. Spiral bound pamphlet, 25 pp. b&amp;w with color cover page. 
+
+
+
+
+Library sites
+Library trustees
+Libraries and community
+Public libraries
+Library buildings
+Library moving
+Women -- Societies and clubs
+City and town life
+City planning
+Libraries
+Library fund raising
+
+Librarians
+Libraries
+City &amp; town life
+
+Town of Ballston Community Library; Burnt Hills-Ballston Lake Community Library 
+
+Burnt Hills-Town of Ballston-Saratoga County-New York 
+
+Community &amp; Events
+
+eng 
+1951-2000 
+
+spiral bound pamphlet with mylar front cover and card stock back cover; 25p. 8.5 x 11 in. (22 x 28.5 cm) 
+Text 
+
+Town of Ballston Community Library 
+TOBCL1 
+
+Town of Ballston Community Library 
+2008-11-30 
+image/jpeg; ASCII/txt 
+Town of Ballston Community Library Digital Collection 
+
+Town of Ballston Community Library 
+
+2 Lawmar Lane
+Burnt Hills, NY 12027
+(518-399-8174) 
+Fair use copy permitted for research, study, or investigational purposes citing the Town of Ballston Community Library, Saratoga County, New York. Any other use requires written permission. 
+archival TIFF; 300 DPI</dc:description>
+<dc:creator>Briaddy, Kathy</dc:creator>
+<dc:subject>Library sites; Library trustees; Library fund raising</dc:subject>
+<dc:subject>Pamphlets</dc:subject>
+<dc:subject>Town of Ballston Community Library; Burnt Hills-Ballston Lake Community Library</dc:subject>
+<dc:subject>Community &amp; Events</dc:subject>
+<dc:subject>Burnt Hills - Town of Ballston - Saratoga County - New York</dc:subject>
+<dc:date>2000</dc:date>
+<dc:date>2000</dc:date>
+<dc:source>spiral bound pamphlet b&amp;w with color cardstock cover 8-1/2 x 11 in. (21.5 x 28cm.)</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>BL20</dc:identifier>
+<dc:relation>Town of Ballston Digital Collection</dc:relation>
+<dc:rights>Fair use copy permitted for research, study, or investigational purposes citing the Town of Ballston Community Library, Saratoga County, New York. Any other use requires written permission.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/tobcl/id/174</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/175</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/176</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/177</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/179</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/181</identifier><datestamp>2015-03-31</datestamp><setSpec>tobcl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Prohibition Prescription form for medicinal liquor</dc:title>
+<dc:description>Handwritten prescription for whiskey from Dayton L. Katham, a physician in Schenectady, NY, dispensed by Henry A. Kerste, a pharmacist in Schenectady to Henry L. Sickler, a Ballston Lake, (Town of Clifton Park) NY resident, Duplicate of prescription torn from a printed prescription pad issued by the U. S. Treasury Department.</dc:description>
+<dc:creator>Katham, Dayton L.; Kerste, Henry A.</dc:creator>
+<dc:subject>Prohibition; Prescription writing; Whiskey; Alcohol;</dc:subject>
+<dc:subject>Forms (Documents)</dc:subject>
+<dc:subject>Sickler, Henry L.</dc:subject>
+<dc:subject>Bureau of Prohibition; U.S. Treasury Department</dc:subject>
+<dc:subject>Daily Life; Work &amp; Labor; Government, Law &amp; Politics;</dc:subject>
+<dc:subject>Schenectady - Schenectady County - New York</dc:subject>
+<dc:date>1930-04-17</dc:date>
+<dc:date>1930-04-17</dc:date>
+<dc:source>prescription form; pink &amp; grey; 4.5 x 5.5 in. (11.43 x 13.97 cm.)</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>BL01</dc:identifier>
+<dc:relation>Town of Ballston Digital Collection</dc:relation>
+<dc:rights>Fair use copy permitted for research, study, or investigational purposes. All other uses require permission. Cite: The Town of Ballston.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/tobcl/id/181</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/182</identifier><datestamp>2015-03-31</datestamp><setSpec>tobcl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Photograph of a Portrait of Eliphalet Ball</dc:title>
+<dc:description>Photograph of a Portrait of Eliphalet Ball, founder of the town of Ballston (circa 1773).</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Clergy;</dc:subject>
+<dc:subject>Photographs</dc:subject>
+<dc:subject>Ball, Eliphalet</dc:subject>
+<dc:subject>People; Community &amp; Events;</dc:subject>
+<dc:date>unknown</dc:date>
+<dc:date>1773</dc:date>
+<dc:source>Photograph of portrait; sepia; 3.25 x 5 in. (8.3 x 12.7 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>BH03</dc:identifier>
+<dc:relation>Town of Ballston Digital Collection</dc:relation>
+<dc:rights>Fair use copy permitted for research, study, or investigational purposes. All other uses require permission. Cite: The Town of Ballston.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/tobcl/id/182</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/183</identifier><datestamp>2015-03-31</datestamp><setSpec>tobcl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Photograph of Kingsley Inn, Burnt Hills, New York</dc:title>
+<dc:description>Photograph of Kingsley Inn, corner of Kingsley Road and Lakehill Road, Burnt Hills, New York; also adjoining horse sheds and Bayliss&#x27; Barber Shop (under tree): date unknown</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Hotels;</dc:subject>
+<dc:subject>Photographs</dc:subject>
+<dc:subject>Architecture; Daily Life; Work &amp; Labor;</dc:subject>
+<dc:subject>Burnt Hills - Saratoga County - New York</dc:subject>
+<dc:date>unknown</dc:date>
+<dc:date>9999</dc:date>
+<dc:source>Photograph</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>BH04</dc:identifier>
+<dc:relation>Town of Ballston Digital Collection</dc:relation>
+<dc:rights>Fair use copy permitted for research, study, or investigational purposes. All other uses require permission. Cite: The Town of Ballston.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/tobcl/id/183</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/184</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/185</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/186</identifier><datestamp>2012-05-16</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/187</identifier><datestamp>2015-03-31</datestamp><setSpec>tobcl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Postcard advertising April Art Exhibition of Paintings by Marjorie and Richard Hobday</dc:title>
+<dc:description>Front of postcard advertising April Art Exhibition of Paintings by Marjorie and Richard Hobday held on April 24th, 2004, at the Burnt Hills Community Library, Burnt Hills, New York.  Shorey artist&#x27;s studio, Lake Hill Road, Burnt Hills, New York is depicted.</dc:description>
+<dc:creator>Hobday, Marjorie</dc:creator>
+<dc:subject>Art -- Exhibitions; Painting; Postcards;</dc:subject>
+<dc:subject>Drawings</dc:subject>
+<dc:subject>Shorey, George H.</dc:subject>
+<dc:subject>Arts &amp; Entertainment; Work &amp; Labor; Community &amp; Events</dc:subject>
+<dc:subject>Ballston - Saratoga County - New York</dc:subject>
+<dc:publisher>Hobday, Marjorie</dc:publisher>
+<dc:date>unknown</dc:date>
+<dc:date>9999</dc:date>
+<dc:source>Postcard; col.; 4 x 5.25 in. (10.5 x 14 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>BL04</dc:identifier>
+<dc:relation>Town of Ballston Digital Collection</dc:relation>
+<dc:rights>Fair use copy permitted for research, study, or investigational purposes. All other uses require permission. Cite: The Town of Ballston.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/tobcl/id/187</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/188</identifier><datestamp>2015-03-31</datestamp><setSpec>tobcl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Note card depicting inside of Shorey Cabin Ballston Lake NY</dc:title>
+<dc:description>Notecard of a painting of the inside of the Shorey Art Cottage (circa 1914) on Lake Hill Road in Ballston Lake, N.Y.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Art -- Reproduction; Artists&#x27; studios;</dc:subject>
+<dc:subject>Drawings</dc:subject>
+<dc:subject>Shorey, George H.</dc:subject>
+<dc:subject>Arts &amp; Entertainment; Community &amp; Events; Work &amp; Labor;</dc:subject>
+<dc:subject>Ballston - Saratoga County - New York</dc:subject>
+<dc:date>unknown</dc:date>
+<dc:date>1914</dc:date>
+<dc:source>notecard; col.; 4 x 5.25 in. (10.5 x 14 cm.)</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>BL05</dc:identifier>
+<dc:relation>Town of Ballston Digital Collection</dc:relation>
+<dc:rights>Fair use copy permitted for research, study, or investigational purposes. All other uses require permission. Cite: The Town of Ballston.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/tobcl/id/188</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/189</identifier><datestamp>2015-03-31</datestamp><setSpec>tobcl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>White Beach Menu Ballston Lake NY</dc:title>
+<dc:description>Menu from White Beach, Ballston Lake, N.Y., circa 1930-1950, owned by Harold Spoonogle in the 1950&#x27;s and previously owned by J. B. White.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Restaurants; Menus; Beaches; Boats and boating; Amusements;</dc:subject>
+<dc:subject>Menus</dc:subject>
+<dc:subject>Spoonogle, Harold; White, JB</dc:subject>
+<dc:subject>White Beach</dc:subject>
+<dc:subject>Business &amp; Industry; Recreation &amp; Sports; Work &amp; Labor;</dc:subject>
+<dc:subject>Ballston - Saratoga County - New York</dc:subject>
+<dc:date>unknown</dc:date>
+<dc:date>1930</dc:date>
+<dc:source>paper; col.; 8.5 x 11 in. (22.5 x 29 cm.)</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>BL06</dc:identifier>
+<dc:relation>Town of Ballston Digital Collection</dc:relation>
+<dc:rights>Fair use copy permitted for research, study, or investigational purposes. All other uses require permission. Cite: The Town of Ballston.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/tobcl/id/189</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/190</identifier><datestamp>2015-03-31</datestamp><setSpec>tobcl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Ballston Lake Train Station</dc:title>
+<dc:description>Photograph of the Ballston Lake Railway Station with woman standing in the doorway. The date is written in blue ink on the top of the photograph. There is a Camel advertisement next to the station. Portions of a wagon and outbuildings are visible. Railroad caution sign on left side of photograph.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Railroad stations; Railroad terminals;</dc:subject>
+<dc:subject>Photographs</dc:subject>
+<dc:subject>Community &amp; Events; Transportation;</dc:subject>
+<dc:subject>Ballston - Saratoga County - New York</dc:subject>
+<dc:date>1932-10-05</dc:date>
+<dc:date>1932-10-05</dc:date>
+<dc:source>photograph; b &amp; w; 2.75 x 4.5 in. (7.4 x 12 cm.)</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>BL07</dc:identifier>
+<dc:relation>Town of Ballston Digital Collection</dc:relation>
+<dc:rights>Fair use copy permitted for research, study, or investigational purposes citing the Town of Ballston, Saratoga County, New York.  Any other use requires written permission. Cite: Town of Ballston</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/tobcl/id/190</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/191</identifier><datestamp>2015-03-31</datestamp><setSpec>tobcl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Financial Report 1937-1938 Central School District No. 1</dc:title>
+<dc:description>Financial Report 1937-1938 Central School District No. 1. Receipts and expenditures. Presumed to be from Burnt Hills-Ballston Lake Central Schools.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>School budgets; Schools -- Accounting; Public schools;</dc:subject>
+<dc:subject>Documents</dc:subject>
+<dc:subject>Education;</dc:subject>
+<dc:subject>Ballston - Saratoga County - New York</dc:subject>
+<dc:date>1938</dc:date>
+<dc:date>1938</dc:date>
+<dc:source>paper; 5.5 x 13.75 in. (14.4 x 36 cm.)</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>BL08</dc:identifier>
+<dc:relation>Town of Ballston Digital Collection</dc:relation>
+<dc:rights>Fair use copy permitted for research, study, or investigational purposes citing the Town of Ballston, Saratoga County, New York.  Any other use requires written permission. Cite: Town of Ballston, NY</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/tobcl/id/191</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/196</identifier><datestamp>2015-03-31</datestamp><setSpec>tobcl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Town of Ballston Community Library Bank Ledger</dc:title>
+<dc:description>Citizens Trust Company Bank Ledger for Town of Ballston Community Library Building Fund of 1957-1960&lt;br&gt; Front and back cover, 24 pages, 22 of which are blank.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Public Libraries; Public libraries -- Finance; Bank deposits; Bank accounts</dc:subject>
+<dc:subject>Public Libraries; Banking</dc:subject>
+<dc:subject>Town of Ballston Community Library; Citizens Trust Company Schenectady</dc:subject>
+<dc:subject>Community &amp; Events</dc:subject>
+<dc:subject>Ballston - Saratoga County - New York</dc:subject>
+<dc:date>1957-08-06</dc:date>
+<dc:date>1957-08-06</dc:date>
+<dc:source>Registries &lt;br&gt; 2.25 in. x 4 in. (6 cm. x 10 cm.)</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>TOBL02</dc:identifier>
+<dc:relation>Town of Ballston Digital Collection</dc:relation>
+<dc:rights>Fair use copy permitted for research, study, or investigational purposes citing the Town of Ballston, Saratoga County, New York.  Any other use requires written permission. &lt;BR&gt; Cite: Town of Ballston Community Library</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/tobcl/id/196</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/201</identifier><datestamp>2015-03-31</datestamp><setSpec>tobcl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Book of the Month</dc:title>
+<dc:description>Program describing the Seventh Annual Book of the Month Club Library Award in Memory of Dorothy Canfield Fisher presented to the Town of Ballston Community Library on April 25, 1965.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Libraries; Awards;</dc:subject>
+<dc:subject>Programs</dc:subject>
+<dc:subject>Fisher, Dorothy Canfield</dc:subject>
+<dc:subject>Town of Ballston Community Library</dc:subject>
+<dc:subject>Community &amp; Events</dc:subject>
+<dc:subject>Burnt Hill- Town of Ballston- Saratoga County- New York</dc:subject>
+<dc:date>1965-04-25</dc:date>
+<dc:date>1965-04-25</dc:date>
+<dc:source>B &amp; W Program; 4.5 x 6 in. (11.5 x 15.5 cm.)</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>TOBL03</dc:identifier>
+<dc:relation>Town of Ballston Digital Collection</dc:relation>
+<dc:rights>Fair use copy permitted for research, study, or investigational purposes citing the Town of Ballston, Saratoga County, New York.  Any other use requires written permission. Cite: Town of Ballston Community Library</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/tobcl/id/201</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/202</identifier><datestamp>2015-03-31</datestamp><setSpec>tobcl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Approximate transcription of Claude Bailey&#x27;s inscription in Pilgrim Feet. by author Margaret Sherwood describing her life. Inscription written in February 1959.</dc:title>
+<dc:description>Transcript of inscription written by Lieutenant Commander Claude Bailey in 1959 describing Margaret Sherwood, who was born  and spent her childhood in Ballston, NY. Margaret Sherwood was the author of over 17 books, at least one of which takes place in Ballston.  She is buried in Briggs Cemetery west of Ballston Spa, NY. Original inscription is in Pilgrim Feet, a mostly autobiographical book located in the Town of Ballston Community Library Historical Collection</dc:description>
+<dc:creator>Bailey, Claude</dc:creator>
+<dc:subject>Authors; Letters; Biography;</dc:subject>
+<dc:subject>Inscriptions</dc:subject>
+<dc:subject>Daily Life; Community &amp; Events; People;</dc:subject>
+<dc:subject>Ballston - Saratoga County - New York</dc:subject>
+<dc:date>1959</dc:date>
+<dc:date>1959</dc:date>
+<dc:source>transcript; 8.5 x 11 in. (21.5 x 28 cm.)</dc:source>
+<dc:type>Text;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>TOBL05</dc:identifier>
+<dc:relation>Town of Ballston Digital Collection</dc:relation>
+<dc:rights>Fair use copy permitted for research, study, or investigational purposes citing the Town of Ballston, Saratoga County, New York.  Any other use requires written permission. &lt;BR&gt; Cite:Town of Ballston Community Library</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/tobcl/id/202</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/203</identifier><datestamp>2015-03-31</datestamp><setSpec>tobcl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Letter from school Business Manager to Library about use of school building.</dc:title>
+<dc:description>Letter from John A. Morley, Business Manager, Burnt Hills-Ballston Lake Central Schools about the use of the school building from June 9-14. Has cost and salary for one person.</dc:description>
+<dc:creator>Morley, John  A.</dc:creator>
+<dc:subject>Libraries; Libraries and community; Fund raising; School facilities -- Extended use;</dc:subject>
+<dc:subject>Libraries; correspondence</dc:subject>
+<dc:subject>Furman, John</dc:subject>
+<dc:subject>Town of Ballston Community Library; Burnt Hills-Ballston Lake Central Schools</dc:subject>
+<dc:subject>Community &amp; Events;</dc:subject>
+<dc:subject>Burnt Hills - Saratoga County - New York</dc:subject>
+<dc:date>1958-06-18</dc:date>
+<dc:date>1958-06-18</dc:date>
+<dc:source>Letter; 8.5 x 11 in. (21.5 x 28 cm.)</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>TOBL04</dc:identifier>
+<dc:relation>Town of Ballston Digital Collection</dc:relation>
+<dc:rights>Fair use copy permitted for research, study, or investigational purposes citing the Town of Ballston, Saratoga County, New York.  Any other use requires written permission. &lt;br&gt; Cite: Town of Ballston Community Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/tobcl/id/203</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/204</identifier><datestamp>2015-03-31</datestamp><setSpec>tobcl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Underground Tunnel in the basement of the Buell Mansion Ballston Lake</dc:title>
+<dc:description>This is the entrance to the underground tunnel in the basement of the Buell Mansion on Midline Road in Ballston Lake, New York. This originally led to a tunnel which went southwest to the barn. It may have been used as part of the Underground Railroad prior to and during the Civil War.</dc:description>
+<dc:creator>Richard Reynolds</dc:creator>
+<dc:subject>Underground Railroad; Civil war; antislavery movements; Fugitive slaves;</dc:subject>
+<dc:subject>Slavery; Slaves; Civil wars; Underground railroad system;</dc:subject>
+<dc:subject>Community &amp; Events; Ethnic Groups;</dc:subject>
+<dc:subject>Ballston Lake - Saratoga County - New York</dc:subject>
+<dc:date>2005-06-11</dc:date>
+<dc:date>2005-06-11</dc:date>
+<dc:source>photograph: col.; 4 x 6 in. (10 x 15 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>BL09</dc:identifier>
+<dc:relation>Town of Ballston Digital Collection;</dc:relation>
+<dc:rights>Fair use copy permitted for research, study, or investigational purposes. All other uses require permission. Cite: The Town of Ballston.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/tobcl/id/204</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/205</identifier><datestamp>2015-03-31</datestamp><setSpec>tobcl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Doorway entrance to the underground tunnel in the basement of the Buell Mansion, Midline Road, Ballston Lake, New York.</dc:title>
+<dc:description>This is the doorway entrance to the underground tunnel in the basement of the Buell Mansion, Midline Road, Ballston Lake, New York. It may have been used as part of the Underground Railroad prior to and during the Civil War.</dc:description>
+<dc:creator>Richard Reynolds</dc:creator>
+<dc:subject>Civil war; Slavery; Antislavery movements; Fugitive slaves;</dc:subject>
+<dc:subject>Civil wars; Slavery; Slaves; Underground railroad system;</dc:subject>
+<dc:subject>Community &amp; Events; Ethnic Groups;</dc:subject>
+<dc:subject>Ballston Lake - Saratoga County - New York</dc:subject>
+<dc:date>2005-06-11</dc:date>
+<dc:date>2005-06-11</dc:date>
+<dc:source>Photograph; col.; 4 x 6 in. (10 x 15 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>BL10</dc:identifier>
+<dc:relation>Town of Ballston Digital Collection</dc:relation>
+<dc:rights>Fair use copy permitted for research, study, or investigational purposes. All other uses require permission. Cite: The Town of Ballston.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/tobcl/id/205</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/206</identifier><datestamp>2015-03-31</datestamp><setSpec>tobcl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>McKain Feed and Grain in Ballston Lake, New York</dc:title>
+<dc:description>Reproduced photograph of the McKain Feed and grain store in Ballston Lake in 1905</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Commercial buildings; Post office buildings; Telegraph; Post office stations and branches; Letter carriers; Western Union Telegraph Company Strike, 1883;</dc:subject>
+<dc:subject>Post offices; Buildings; Telegraph offices</dc:subject>
+<dc:subject>McKain Feed and Grain; United States Postal Service; Western Union Telegraph and Cable Office</dc:subject>
+<dc:subject>Community &amp; Events; Transportation; Work &amp; Labor;</dc:subject>
+<dc:subject>Ballston Lake - Saratoga County - New York</dc:subject>
+<dc:date>1905</dc:date>
+<dc:date>1905</dc:date>
+<dc:source>Photograph; sepia; 7.75 x 8.5 in. (19.5 x 24 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>BL11</dc:identifier>
+<dc:relation>Town of Ballston Digital Collection</dc:relation>
+<dc:rights>Fair use copy permitted for research, study, or investigational purposes. All other uses require permission. Cite: The Town of Ballston.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/tobcl/id/206</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/207</identifier><datestamp>2015-03-31</datestamp><setSpec>tobcl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Bill of Sale from the Linn Manufacturing Corporation of Morris, New York to the Town of Ballston, 1926</dc:title>
+<dc:description>Bill of Sale from the Linn Manufacturing Corporation of Morris, New York to the Town of Ballston for equipment and parts for a car.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Invoices; Manufactures; Industrialists; Finance, Public -- Accounting;</dc:subject>
+<dc:subject>Industry</dc:subject>
+<dc:subject>Mallory, Jas. (James)</dc:subject>
+<dc:subject>The Linn Manufacturing Corporation; Town of Ballston</dc:subject>
+<dc:subject>Government, Law &amp; Politics; Business &amp; Industry;</dc:subject>
+<dc:subject>Ballston - Saratoga County - New York</dc:subject>
+<dc:publisher>Linn Manufacturing Corporation</dc:publisher>
+<dc:date>1926-11-15</dc:date>
+<dc:date>1926-11-15</dc:date>
+<dc:source>paper; color; 5 x 8 in. (12.5 x 20 cm.)</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>BL12</dc:identifier>
+<dc:relation>Town of Ballston Digital Collection</dc:relation>
+<dc:rights>Fair use copy permitted for research, study, or investigational purposes. All other uses require permission. Cite: The Town of Ballston.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/tobcl/id/207</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/208</identifier><datestamp>2015-03-31</datestamp><setSpec>tobcl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Bill from Buell Heights Oil Co. to the Town of Ballston, New York</dc:title>
+<dc:description>Bill for gasoline for $42.80 from Buell Heights Oil Co. to the Town of Ballston, New York</dc:description>
+<dc:creator>Buell Heights Oil Co.</dc:creator>
+<dc:subject>Invoices; Government purchasing; Gas as fuel</dc:subject>
+<dc:subject>Fuel; Fuel prices; Gasoline prices; Gasoline;</dc:subject>
+<dc:subject>Buell Heights Oil Co.; Town of Ballston</dc:subject>
+<dc:subject>Business &amp; Industry; Government, Law &amp; Politics</dc:subject>
+<dc:subject>Ballston - Saratoga County - New York</dc:subject>
+<dc:publisher>Buell Heights Oil Co.</dc:publisher>
+<dc:date>1926</dc:date>
+<dc:date>1926</dc:date>
+<dc:source>paper; 8.5 x 5.5 in. (21.5 x 14 cm.)</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>BL14</dc:identifier>
+<dc:relation>Town of Ballston Digital Collection</dc:relation>
+<dc:rights>Fair use copy permitted for research, study, or investigational purposes. All other uses require permission. Cite: The Town of Ballston.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/tobcl/id/208</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/209</identifier><datestamp>2015-03-31</datestamp><setSpec>tobcl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Ballston Lake before development in what is today known as Buell Heights, Ballston Lake, New York</dc:title>
+<dc:description>Picture taken from Lakehill Road, Burnt Hills, of the area that would become Buell Heights. Picture taken from a Lakehill residence backyard looking northeast.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Images, Photographic; Neighborhood</dc:subject>
+<dc:subject>Photographs; Neighborhoods</dc:subject>
+<dc:subject>Community &amp; Events</dc:subject>
+<dc:subject>Ballston - Saratoga County - New York</dc:subject>
+<dc:date>unknown</dc:date>
+<dc:date>9999</dc:date>
+<dc:source>B &amp; W photograph; 2.75 x 4.25 in. (7 x 11 cm.)</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>BL13</dc:identifier>
+<dc:relation>Town of Ballston Digital Collection</dc:relation>
+<dc:rights>Fair use copy permitted for research, study, or investigational purposes. All other uses require permission. Cite: The Town of Ballston.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/tobcl/id/209</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/210</identifier><datestamp>2015-03-31</datestamp><setSpec>tobcl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Fallen Monarchs, painting by William Bliss Baker</dc:title>
+<dc:description>Photograph of reproduction of Fallen Monarchs, an oil painting by William Bliss Baker who owned property in Burnt Hills and Ballston Lake, New York.</dc:description>
+<dc:creator>Baker, William Bliss</dc:creator>
+<dc:subject>Artists; Art, Modern -- 19th century; Art, American; Nature (Aesthetics)</dc:subject>
+<dc:subject>Art; Art reproductions; Artists; Nature</dc:subject>
+<dc:subject>Environment &amp; Nature; Arts &amp; Entertainment</dc:subject>
+<dc:subject>Ballston Lake - Saratoga County - New York</dc:subject>
+<dc:date>1886</dc:date>
+<dc:date>1886</dc:date>
+<dc:source>photograph: col. 4 x 3 in. (10 x 8 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>BL15</dc:identifier>
+<dc:relation>Town of Ballston Digital Collection</dc:relation>
+<dc:rights>Fair use copy permitted for research, study, or investigational purposes. All other uses require permission. Cite: The Town of Ballston.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/tobcl/id/210</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/211</identifier><datestamp>2015-03-31</datestamp><setSpec>tobcl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Free Canine License for WWII Army Dogs</dc:title>
+<dc:description>K-9 Bill - State of New York letter to town clerks about a free license for army dogs subsequent to WWII</dc:description>
+<dc:creator>Pease, R.W.</dc:creator>
+<dc:subject>Dogs; Licenses</dc:subject>
+<dc:subject>Dog licenses; Correspondence;</dc:subject>
+<dc:subject>Pearse, Rodney W.</dc:subject>
+<dc:subject>State of New York Department of Agriculture and Markets</dc:subject>
+<dc:subject>Government, Law &amp; Politics; Community &amp; Events; Military &amp; War</dc:subject>
+<dc:contributor>Du Mond, C. Chester (Commissioner of Agriculture and Markets)</dc:contributor>
+<dc:date>1946-05-01</dc:date>
+<dc:date>1946-05-01</dc:date>
+<dc:source>letter; b&amp;w; 8 x 10.5 in. (20 x 26.5 cm.)</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>XHZ000100</dc:identifier>
+<dc:relation>Town of Ballston Digital Collection;</dc:relation>
+<dc:rights>Fair use copy permitted for research, study, or investigational purposes. All other uses require permission. Cite: The Town of Ballston.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/tobcl/id/211</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/212</identifier><datestamp>2015-03-31</datestamp><setSpec>tobcl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Ballston Police Car</dc:title>
+<dc:description>Undated photograph of Supervisor Willliam Sewell and an unidentified police officer standing next to a Town of Ballston police car parked outside the Town of Ballston Town Hall.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Automobiles; Police; Municipal officials and employees;</dc:subject>
+<dc:subject>Photographs; Police; Government employees;</dc:subject>
+<dc:subject>Sewell, William</dc:subject>
+<dc:subject>Ballston, Town of</dc:subject>
+<dc:subject>Transportation; Government, Law &amp; Politics;</dc:subject>
+<dc:subject>Ballston - Saratoga County - New York</dc:subject>
+<dc:date>unknown</dc:date>
+<dc:date>9999</dc:date>
+<dc:source>photograph; b&amp;w; 8 x 10 in. (20.5 x 25.25 cm.)</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>XHZ000200</dc:identifier>
+<dc:relation>Town of Ballston Digital Collection;</dc:relation>
+<dc:rights>Fair use copy permitted for research, study, or investigational purposes. All other uses require permission. Cite: The Town of Ballston.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/tobcl/id/212</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/213</identifier><datestamp>2015-03-31</datestamp><setSpec>tobcl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Letter of Marian C. Lewis to Senator Robert F. Kennedy</dc:title>
+<dc:description>Letter from Town of Ballston Community Library Board of Trustees President to Senator Robert F. Kennedy inviting him to the award presentation for the Dorothy Canfield Fisher Memorial Award, dated February 25, 1965.</dc:description>
+<dc:creator>Lewis, Marian C.</dc:creator>
+<dc:subject>Libraries; Awards; Public officers; Letters;</dc:subject>
+<dc:subject>Correspondence; Libraries; Awards; Government officials;</dc:subject>
+<dc:subject>Kennedy, Robert F.; Lewis, Marian C. (Lewis, Mrs. Frederick M.); Fisher, Dorothy Canfield</dc:subject>
+<dc:subject>Town of Ballston Community Library</dc:subject>
+<dc:subject>Community &amp; Events; Government, Law &amp; Politics;</dc:subject>
+<dc:subject>Burnt Hills - Saratoga County - New York</dc:subject>
+<dc:publisher>Town of Ballston Community Library</dc:publisher>
+<dc:date>1965-02-25</dc:date>
+<dc:date>1965-02-25</dc:date>
+<dc:source>letter; onion skin paper; b&amp;w; 8.5 x 11 in. (21.5 x 27.5 cm.)</dc:source>
+<dc:type>Text;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>XHZ000500</dc:identifier>
+<dc:relation>Town of Ballston Digital Collection;</dc:relation>
+<dc:rights>Fair use copy permitted for research, study, or investigational purposes. All other uses require permission. &lt;BR&gt; Cite: The Town of Ballston Community.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/tobcl/id/213</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/217</identifier><datestamp>2015-03-31</datestamp><setSpec>tobcl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>&quot;The Castle&quot; Ballston Lake, New York</dc:title>
+<dc:description>Built in 1885, the lake side summer home and studio of William Bliss Baker, Hudson River School Painter, Ballston Lake, New York</dc:description>
+<dc:creator>Whetten, Gini; Whetten, Rey</dc:creator>
+<dc:subject>Art, Modern -- 19th century; Artists; Painters; Artists&#x27; studios; Dwellings; Lakes;</dc:subject>
+<dc:subject>art; Artists; Dwellings; Studios; Lakes &amp; ponds;</dc:subject>
+<dc:subject>Whetten, Gini; Whetten, Rey; Baker, William Bliss; Briaddy, Katherine Q.</dc:subject>
+<dc:subject>Arts &amp; Entertainment; People;</dc:subject>
+<dc:subject>Ballston - Saratoga County, New York</dc:subject>
+<dc:publisher>Whetten, Gini; Whetten, Rey</dc:publisher>
+<dc:date>2000-07-27</dc:date>
+<dc:date>2000-07-27</dc:date>
+<dc:source>Greeting Card - 11 x 8.5 in.(21.5 x 27.5 cm.)</dc:source>
+<dc:type>Still Image;</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>XHZ000400</dc:identifier>
+<dc:relation>Town of Ballston Digital Collection</dc:relation>
+<dc:rights>Fair use copy permitted for research, study, or investigational purposes. All other uses require permission. Cite: The Town of Ballston.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/tobcl/id/217</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/218</identifier><datestamp>2013-11-13</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/219</identifier><datestamp>2013-11-13</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/220</identifier><datestamp>2013-11-13</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/221</identifier><datestamp>2013-11-13</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/222</identifier><datestamp>2013-11-13</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/223</identifier><datestamp>2013-11-13</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/224</identifier><datestamp>2013-11-13</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/225</identifier><datestamp>2013-11-13</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/226</identifier><datestamp>2013-11-13</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/227</identifier><datestamp>2013-11-13</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/228</identifier><datestamp>2013-11-13</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/229</identifier><datestamp>2013-11-13</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/230</identifier><datestamp>2013-11-13</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/231</identifier><datestamp>2013-11-13</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/232</identifier><datestamp>2013-11-13</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/233</identifier><datestamp>2013-11-13</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/234</identifier><datestamp>2013-11-13</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/235</identifier><datestamp>2013-11-13</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/236</identifier><datestamp>2013-11-13</datestamp><setSpec>tobcl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:tobcl/237</identifier><datestamp>2013-11-13</datestamp><setSpec>tobcl</setSpec></header>
+</record><resumptionToken>tobcl:238:tobcl:0000-00-00:9999-99-99:oai_dc</resumptionToken></ListRecords></OAI-PMH>

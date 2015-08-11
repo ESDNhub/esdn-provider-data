@@ -1,0 +1,1146 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2015-08-10T21:21:29Z</responseDate><request verb="ListRecords" resumptionToken="p16694coll43:200:p16694coll43:0000-00-00:9999-99-99:oai_dc" metadataPrefix="oai_dc" set="p16694coll43">http://cdm16694.contentdm.oclc.org/oai/oai.php</request><ListRecords><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/200</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/201</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/202</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/203</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/204</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/205</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/206</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/207</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/208</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/209</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/210</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/211</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/212</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/213</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/214</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/215</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/216</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/217</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/218</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/219</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/220</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/221</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/222</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/223</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/224</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/225</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/226</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/227</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/228</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/229</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/230</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/231</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/232</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/233</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/234</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/235</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/236</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/237</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/238</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/239</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/240</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/241</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/242</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/243</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/244</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/245</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/246</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/247</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/248</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/249</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/250</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/251</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/252</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/253</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/254</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/255</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/256</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/257</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/258</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/259</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/260</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/261</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/262</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/263</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/264</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/265</identifier><datestamp>2015-01-20</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/289</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Honeoye Falls Central School - The Hornet 1954</dc:title>
+<dc:description>Residents of Mendon, Lima, and Honeoye Falls; yearbook from 1954; contains grades K-12</dc:description>
+<dc:creator>Honeoye Falls Central School - Honeoye Falls - New York</dc:creator>
+<dc:subject>Yearbook; Education</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:coverage>Honeoye Falls - Monroe County - New York</dc:coverage>
+<dc:contributor>Editor Kim De Martinis; Production Editor: Susan Sprague; Assistant Editor: Mildred Yorks; Art Editor: Ted Smith; Photography Editor: Joe Belle-Isle; Girls&#x27; Athletics: Marlene Holfoth; Boys&#x27; Athletics: Ed Bachmann</dc:contributor>
+<dc:publisher>Honeoye Falls-Lima Central School District</dc:publisher>
+<dc:date>1954</dc:date>
+<dc:source>Bound text; b&amp;w; 10 3/4 x 7 7/8 x 1/2 in.; 27 x 20 x 1 cm; 40 pages</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>application/pdf</dc:format>
+<dc:identifier>HORNET 1954</dc:identifier>
+<dc:publisher>Mendon Public Library</dc:publisher>
+<dc:relation>Honeoye Falls Lima Yearbook Collection</dc:relation>
+<dc:rights>http://www.newyorkheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll43/id/289</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/318</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Honeoye Falls Central School - The Hornet 1955</dc:title>
+<dc:description>Residents of Mendon, Lima, and Honeoye Falls; yearbook from 1955; contains grades K-12</dc:description>
+<dc:creator>Honeoye Falls Central School - Honeoye Falls - New York</dc:creator>
+<dc:subject>Yearbook; Education</dc:subject>
+<dc:subject>Education; People;</dc:subject>
+<dc:coverage>Honeoye Falls - Monroe County - New York</dc:coverage>
+<dc:contributor>Editor-in-Chief: Helene Kay Shetler; Advertising Editor: Brent Lester; Assistante Editor: Barbara Ann Ainsworth; Yearbook Advisor: William T. Farrell; Art Editor: Marilyn Ann Kamb; Photo Editor: Kenneth Smith Wilber; Girls&#x27; Sports: Florence Mary Rappl; Boys&#x27; Sports Editor: Terry Francis Williams</dc:contributor>
+<dc:publisher>Honeoye Falls-Lima Central School District</dc:publisher>
+<dc:date>1955</dc:date>
+<dc:source>Bound text; b&amp;w; 10 3/4 x 7 7/8 x 1/2 in.; 27 x 20 x 1 cm; 52 pages</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>application/pdf</dc:format>
+<dc:identifier>HORNET 1955</dc:identifier>
+<dc:publisher>Mendon Public Library</dc:publisher>
+<dc:relation>Honeoye Falls Lima Yearbook Collection</dc:relation>
+<dc:rights>http://www.newyorkheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll43/id/318</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/348</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Honeoye Falls Central School - The Hornet 1957</dc:title>
+<dc:description>Residents of Mendon, Lima, and Honeoye Falls; yearbook from 1957; contains grades 7-12</dc:description>
+<dc:creator>Honeoye Falls Central School - Honeoye Falls - New York</dc:creator>
+<dc:subject>Yearbook; Education</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:coverage>Honeoye Falls - Monroe County - New York</dc:coverage>
+<dc:contributor>Editor-in-Chief: Johanna Hally; Advertising Editor: Jerry Guild; Production Manager: Phyllis Habecker; Assistant Editor: Sue Coakley; Journalists: Ann Wacker, Judy Hollister; Photography Editors: George Norris, Beverly Sutton; Girls&#x27; Sports: Joan Williams; Boys&#x27; Sports: Sidney Burton, David Kill; Sales Managers: Sheila Wilber, Sharon Morris</dc:contributor>
+<dc:publisher>Honeoye Falls-Lima Central School District</dc:publisher>
+<dc:date>1957</dc:date>
+<dc:source>Bound text; b&amp;w; 10 3/4 x 7 7/8 x 1/2 in.; 27 x 20 x 1 cm; 55 pages</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>application/pdf</dc:format>
+<dc:identifier>HORNET 1957</dc:identifier>
+<dc:publisher>Mendon Public Library</dc:publisher>
+<dc:relation>Honeoye Falls Lima Yearbook Collection</dc:relation>
+<dc:rights>http://www.newyorkheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll43/id/348</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/379</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Honeoye Falls Central School - The Hornet 1958</dc:title>
+<dc:description>Residents of Mendon, Lima, and Honeoye Falls; yearbook from 1958; contains grades 7-12</dc:description>
+<dc:creator>Honeoye Falls Central School - Honeoye Falls - New York</dc:creator>
+<dc:subject>Yearbook; Education</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:coverage>Honeoye Falls - Monroe County - New York</dc:coverage>
+<dc:contributor>Editor-in-Chief: Doris M. Belcher; Advertising Editor: E. Perry Hicks, Jr.; Production Manager: Ronald R. Moldram; Yearbook Advisor: Miss Forthun;  Advertising Manager: Richard S. Clarke; Art Editor: Beverly A. Joint; Photo Editors: M. Douglas Buckland; Douglas F. Mantegna; Girls&#x27; Sports Editor: Judith D. Strapp; Boys&#x27; Sports Editors: Stephen R. Harrington, Thomas Mamoone; Journalists: Barbara G. Ayers; Gerard M. D&#x27;Hont</dc:contributor>
+<dc:publisher>Honeoye Falls-Lima Central School District</dc:publisher>
+<dc:date>1958</dc:date>
+<dc:source>Bound text; b&amp;w; 10 3/4 x 7 7/8 x 1/2 in.; 27 x 20 x 1 cm; 56 pages; Plaid weave boards</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>application/pdf</dc:format>
+<dc:identifier>HORNET 1958</dc:identifier>
+<dc:publisher>Mendon Public Library</dc:publisher>
+<dc:relation>Honeoye Falls Lima Yearbook Collection</dc:relation>
+<dc:rights>http://www.newyorkheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll43/id/379</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/410</identifier><datestamp>2015-01-27</datestamp><setSpec>p16694coll43</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Honeoye Falls Central School - The Hornet 1959</dc:title>
+<dc:description>Residents of Mendon, Lima, and Honeoye Falls; yearbook from 1959; contains grades 7-12</dc:description>
+<dc:creator>Honeoye Falls Central School - Honeoye Falls - New York</dc:creator>
+<dc:subject>Yearbook; Education</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:coverage>Honeoye Falls - Monroe County - New York</dc:coverage>
+<dc:contributor>Editors: Sylvia Miller, Maria Morris, Virginia Burton; Photo Editor: Lari Whiting; Girls&#x27; Sports Editor: Mary Simcox; Boys Sports Editor: Edward Broomfield; Additional Staff Members: Florence Chermside, Bob Shellman, Nicky Gerard, Bob Havens, Peter Maloney, Jane Jonas</dc:contributor>
+<dc:publisher>Honeoye Falls-Lima Central School District</dc:publisher>
+<dc:date>1959</dc:date>
+<dc:source>Bound text; b&amp;w, green; 10 3/4 x 7 7/8 x 1/2 in.; 27 x 20 x 1 cm; Photo Boards</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>application/pdf</dc:format>
+<dc:identifier>HORNET 1959</dc:identifier>
+<dc:publisher>Mendon Public Library</dc:publisher>
+<dc:relation>Honeoye Falls Lima Yearbook Collection</dc:relation>
+<dc:rights>http://www.newyorkheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll43/id/410</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/451</identifier><datestamp>2015-01-28</datestamp><setSpec>p16694coll43</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Honeoye Falls Central School - The Hornet 1966</dc:title>
+<dc:description>Residents of Mendon, Lima, and Honeoye Falls; yearbook from 1966; contains grades 7-12</dc:description>
+<dc:creator>Honeoye Falls Central School - Honeoye Falls - New York</dc:creator>
+<dc:subject>Yearbook; Education</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:coverage>Honeoye Falls - Monroe County - New York</dc:coverage>
+<dc:contributor>Editor: Bill Masterman; Assistant Editor: Kathy Ray; Journalists: Fay Buckman, Barbe Prime, Harriet Kimball; Art Editor: Martha Doolittle,Deborah Hoh; Photo Editor: Paul Lewis; Business Managers: Linda Lake, Dave McNeil; Boys&#x27; Sports Editor: Brian Ainsworth; Girls&#x27; Sports Editor: Michele Fallon; Typists: Elsie Jennejahn, Barbara Bortle; Junior Representatives: Kathy Zinke, Jim DeNardo</dc:contributor>
+<dc:publisher>Honeoye Falls-Lima Central School District</dc:publisher>
+<dc:date>1966</dc:date>
+<dc:source>Bound text; b&amp;w; 11 1/4 x 8 5/8 x 9/16 in.; 28 1/2 x 22 x 1 1/2 cm; 76 pages</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>application/pdf</dc:format>
+<dc:identifier>HORNET 1966</dc:identifier>
+<dc:publisher>Mendon Public Library</dc:publisher>
+<dc:relation>Honeoye Falls Lima Yearbook Collection</dc:relation>
+<dc:rights>http://www.newyorkheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll43/id/451</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/492</identifier><datestamp>2015-01-28</datestamp><setSpec>p16694coll43</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Honeoye Falls Central School - The Hornet 1961</dc:title>
+<dc:description>Residents of Mendon, Lima, and Honeoye Falls; yearbook from 1961; contains grades 7-12 </dc:description>
+<dc:creator>Honeoye Falls Central School - Honeoye Falls - NewYork</dc:creator>
+<dc:subject>Yearbook; Education</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:coverage>Honeoye Falls - Monroe County - New York</dc:coverage>
+<dc:contributor>Editor: Jean Kleinhans; Assistant Editor: Willian Banser; Journalists: Barbara Clarke, Stanley Worboys, Sandra Gundlach; Art Editor: Sylvia Lotspeich; Business Manager: Susannah Lewis, Sidney Schubert; Sports Editor: Dennis Kimbel; Special Assistant: Brita Borchers; Junior Representative: Linda Rapp</dc:contributor>
+<dc:publisher>Honeoye Falls-Lima Central School District</dc:publisher>
+<dc:date>1961</dc:date>
+<dc:source>Bound text; b&amp;w, 10 3/4 x 7 7/8 x 1/2 in.; 27 x 20 x 1 cm; 63 pages</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>application/pdf</dc:format>
+<dc:identifier>HORNET 1961</dc:identifier>
+<dc:publisher>Mendon Public Library</dc:publisher>
+<dc:relation>Honeoye Falls Lima Yearbook Collection</dc:relation>
+<dc:rights>http://www.newyorkheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll43/id/492</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/531</identifier><datestamp>2015-01-28</datestamp><setSpec>p16694coll43</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Honeoye Falls Central School - The Hornet 1962</dc:title>
+<dc:description>Residents of Mendon, Lima, and Honeoye Falls; yearbook from 1962; contains grades 7-12</dc:description>
+<dc:creator>Honeoye Falls Central School - Honeoye Falls - New York</dc:creator>
+<dc:subject>Yearbook; Education</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:coverage>Honeoye Falls - Monroe County - New York</dc:coverage>
+<dc:contributor>Editor-in-Chief: Linda Rapp; Assistant Editor: Sue Buckman; Journalists: Caris Milne, Fred Norter; Art Editor: Barb Sheeler, Mary Dorau; Photo Editor: Bill McIntee, John Harnish; Business Manager: Jack Carter, Curt Rumsey; Boys&#x27; Sports Editor: Fred Hicks; Girls&#x27; Sports Editor: Judy Birchenough; Special Assistants: Silvia Araneda, Carol Kennedy; Junior Representative: Margie Burton</dc:contributor>
+<dc:publisher>Honeoye Falls-Lima Central School District</dc:publisher>
+<dc:date>1962</dc:date>
+<dc:source>Bound text; b&amp;w, green; 10 3/4 x 7 7/8 x 5/8 in.; 27 x 20 x 1 1/2 cm; 64 pages</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>application/pdf</dc:format>
+<dc:identifier>HORNET 1962</dc:identifier>
+<dc:publisher>Mendon Public Library</dc:publisher>
+<dc:relation>Honeoye Falls Lima Yearbook Collection</dc:relation>
+<dc:rights>http://www.newyorkheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll43/id/531</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/600</identifier><datestamp>2015-01-28</datestamp><setSpec>p16694coll43</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Honeoye Falls Central School - The Hornet 1963</dc:title>
+<dc:description>Residents of Mendon, Lima, and Honeoye Falls; yearbook from 1963; contains grades 7-12</dc:description>
+<dc:creator>Honeoye Falls Central School - Honeoye Falls - New York</dc:creator>
+<dc:subject>Yearbook; Education</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:coverage>Honeoye Falls - Monroe County - New York</dc:coverage>
+<dc:contributor>Editor in Chief: Marjorie Burton; Assistant Editor: Jackie Voelker; Journalists: Rebecca Maloney, Leland Corey; Art Editors: Alfreda saltzer, Leslie Drojak; Photo Editors: Beverly Cole, Bradely Closs, Business Managers: Jill Crane, Terry Butwid; Boys&#x27; Sports Editor: Dwight Powel; Girls&#x27; Sports Editor: Carole Abbott; Special Assistants: Elfi Stamminger, Teresa Jurado; Typists: Freda Boldt, Nancy Dresser, Marleah Hopkins; Junior Representative: Susan Birchenough</dc:contributor>
+<dc:publisher>Honeoye Falls-Lima Central School District</dc:publisher>
+<dc:date>1963</dc:date>
+<dc:source>Bound text; b&amp;w; 8 3/4 x 11 3/16 x 11/16 in.; 22 3/10 x 28 x 1 7/10 cm; 64 pages</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>application/pdf</dc:format>
+<dc:identifier>HORNET 1963</dc:identifier>
+<dc:publisher>Mendon Public Library</dc:publisher>
+<dc:relation>Honeoye Falls Lima Yearbook Collection</dc:relation>
+<dc:rights>http://www.newyorkheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll43/id/600</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/641</identifier><datestamp>2015-01-28</datestamp><setSpec>p16694coll43</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Honeoye Falls Central School - The Hornet 1964</dc:title>
+<dc:description>Residents of Mendon, Lima, and Honeoye Falls; yearbook from 1964; contains grades 7-12</dc:description>
+<dc:creator>Honeoye Falls Central School - Honeoye Falls - New York</dc:creator>
+<dc:subject>Yearbook; Education</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:coverage>Honeoye Falls - Monroe County - New York</dc:coverage>
+<dc:contributor>Editor: Susan Birchenough; Assistant Editor: Margaret Carrol; Journalists: Diane Hanna, Lisa Ulrich; Art Editor: Dianne Barben; Photo Editor: James Schmidt; Buisness Managers: Cheryl Greif, Donald Oppedisano; Boys&#x27; Sports Editor: Russell Matthews; Girls&#x27; Sports Editor: Susan Case; Special Assistant: Elsa Cervantes; Junior Representative: Diane Schumacher</dc:contributor>
+<dc:publisher>Honeoye Falls-Lima Central School District</dc:publisher>
+<dc:date>1964</dc:date>
+<dc:source>Bound text; b&amp;w; 11 1/4 x 8 1/2 x 5/8 in.; 28 1/2 x 21 7/10 x 1 6/10 cm; 72 pages</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>application/pdf</dc:format>
+<dc:identifier>HORNET 1964</dc:identifier>
+<dc:publisher>Mendon Public Library</dc:publisher>
+<dc:relation>Honeoye Falls Lima Yearbook Collection</dc:relation>
+<dc:rights>http://www.newyorkheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll43/id/641</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/682</identifier><datestamp>2015-01-28</datestamp><setSpec>p16694coll43</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Honeoye Falls Central School - The Hornet 1965</dc:title>
+<dc:description>Residents of Mendon, Lima, and Honeoye Falls; yearbook from 1965; contains grades 7-12</dc:description>
+<dc:creator>Honeoye Falls Central School - Honeoye Falls - New York</dc:creator>
+<dc:subject>Yearbook; Education</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:coverage>Honeoye Falls - Monroe County - New York</dc:coverage>
+<dc:contributor>Editor: Diane Schumacher; Assistant Editor: Sally Hanna; Journalists: Lauren Smith, Patty-Jo Hetzler; Art Editor: Mary Chermside; Junior Reps: Kathy Ray, William Masterman; Photo Editors: James Butts, Leslie Spohr; Business Managers: Dale Schumacher, Thomas Hickey; Boys&#x27; Sports Editor: John Meisenzahl; Girls&#x27; Sports Editor: Nancy Carrol; Special Assistants: Ricardo Escoriaza, Berthier Velasquez</dc:contributor>
+<dc:publisher>Honeoye Falls-Lima Central School District</dc:publisher>
+<dc:date>1965</dc:date>
+<dc:source>Bound text; b&amp;w, green; 11 1/2 x 8 9/16 x 9/16 in.; 28 1/2 x 21 3/10 x 1 4/10 cm; 76 pages</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>application/pdf</dc:format>
+<dc:identifier>HORNET 1965</dc:identifier>
+<dc:publisher>Mendon Public Library</dc:publisher>
+<dc:relation>Honeoye Falls Lima Yearbook Collection</dc:relation>
+<dc:rights>http://www.newyorkheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll43/id/682</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/723</identifier><datestamp>2015-01-28</datestamp><setSpec>p16694coll43</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Honeoye Falls Central School - The Hornet 1967</dc:title>
+<dc:description>Residents of Mendon, Lima, and Honeoye Falls; yearbook from 1967; contains grades 7-12</dc:description>
+<dc:creator>Honeoye Falls Central School - Honeoye Falls - New York</dc:creator>
+<dc:subject>Yearbook; Education</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:coverage>Honeoye Falls - Monroe County - New York</dc:coverage>
+<dc:contributor>Editors: Jim DeNardo, Kathy Zinke, Jay Thorp; Additional Staff Members: L. Boyd, G. Lord, L. Ripely, B. Butler, G. Conrad, M. Gitchell, S. Clough, F. Allen, S. Carter, A. Williams, C. Schultz, B. Jobe, B. Benham, K. Armer, G. Barber, W. Staats, K. Fallon, D. Staats, M. Hickey, M. DeAngulo, L. Bauchle </dc:contributor>
+<dc:publisher>Honeoye Falls-Lima Central School District</dc:publisher>
+<dc:date>1967</dc:date>
+<dc:source>Bound text; b&amp;w; 11 1/4 x 8 5/8 x 5/8 in.; 28 1/2 x 22 x 1 1/2 cm; 76 pages</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>application/pdf</dc:format>
+<dc:identifier>HORNET 1967</dc:identifier>
+<dc:publisher>Mendon Public Library</dc:publisher>
+<dc:relation>Honeoye Falls Lima Yearbook Collection</dc:relation>
+<dc:rights>http://www.newyorkheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll43/id/723</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/762</identifier><datestamp>2015-01-28</datestamp><setSpec>p16694coll43</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Honeoye Falls Central School - The Hornet 1968</dc:title>
+<dc:description>Residents of Mendon, Lima, and Honeoye Falls; yearbook from 1968; contains grades 7-12</dc:description>
+<dc:creator>Honeoye Falls Central School - Honeoye Falls - New York</dc:creator>
+<dc:subject>Yearbook; Education</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:coverage>Honeoye Falls - Monroe County - New York</dc:coverage>
+<dc:contributor>Editors: Jay Thorpe, Rod Jobe; Layout Editors: Dale Collins, Eileen Sullivan; Journalist: John Allen; Art Editor: Anne Sabey; Photo Editors: Larry Boyd, Tom Ochsenhirt; Feature Editor: Joyce Pluta; Business Managers: Kathy Gilbert, Pete Judd; Boys Sports: Tom Meisenzahl; Girls Sports: Peggy Matthews; Typists: Mary Northrup, Nancy Otteman; Junior Representatives: Sue O&#x27;Toole, Mary Laemlein</dc:contributor>
+<dc:publisher>Honeoye Falls-Lima Central School District</dc:publisher>
+<dc:date>1968</dc:date>
+<dc:source>Bound text; b&amp;w, 11 1/4 x 8 5/8 x 1/2 in.; 28 1/2 x 22 x 1 3/10 cm; 72 pages</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>application/pdf</dc:format>
+<dc:identifier>HORNET 1968</dc:identifier>
+<dc:publisher>Mendon Public Library</dc:publisher>
+<dc:relation>Honeoye Falls Lima Yearbook Collection</dc:relation>
+<dc:rights>http://www.newyorkheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll43/id/762</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/809</identifier><datestamp>2015-01-28</datestamp><setSpec>p16694coll43</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Honeoye Falls Central School - The Hornet 1969</dc:title>
+<dc:description>Residents of Mendon, Lima, and Honeoye Falls; yearbook from 1969; contains grades 7-12</dc:description>
+<dc:creator>Honeoye Falls Central School - Honeoye Falls - New York</dc:creator>
+<dc:subject>Yearbook; Education</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:coverage>Honeoye Falls - Monroe County - New York</dc:coverage>
+<dc:contributor>Editors: Sue O&#x27;Toole, Mary Laemlein; Lay-Out Editor: Jackie Smith; Journalists: Nancy Miller, Nancy Redmond, Ilse Ulrich; Art Editor: Ken Dardenne; Business Managers: Carla Greif, Pat O&#x27;Connor; Boys&#x27; Sports Editor: Rich O&#x27;Connell; Girls&#x27; Sports Editor: Sandy Porter; Typist: Becky DeClerck; Junior Representatives: Muffy Meisenzahl, Rich Meisenzahl</dc:contributor>
+<dc:publisher>Honeoye Falls-Lima Central School District</dc:publisher>
+<dc:date>1969</dc:date>
+<dc:source>Bound text; b&amp;w; 11 1/4 x 8 3/4 x 9 /16 in.; 28 1/2 x 22 1/5 x 1 1/2 cm; 88 pages</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>application/pdf</dc:format>
+<dc:identifier>HORNET 1969</dc:identifier>
+<dc:publisher>Mendon Public Library</dc:publisher>
+<dc:relation>Honeoye Falls Lima Yearbook Collection</dc:relation>
+<dc:rights>http://www.newyorkheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll43/id/809</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/855</identifier><datestamp>2015-01-28</datestamp><setSpec>p16694coll43</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Honeoye Falls Central School - The Liaison 1970</dc:title>
+<dc:description>Residents of Mendon, Lima, and Honeoye Falls; yearbook from 1970; contains grades 9-12</dc:description>
+<dc:creator>Honeoye Falls Central School - Honeoye Falls - New York</dc:creator>
+<dc:subject>Yearbook; Education</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:coverage>Honeoye Falls - Monroe County - New York</dc:coverage>
+<dc:contributor>Co-Editors: Elaine Lakis, Richard Meisenzahl; Journalists: Jerry Arena, Cindy Marasco, Jane Harrison, Sharon Moulton; Business Manager: Kathy O&#x27;Connor; Layout and Art: Nancy Laemlein, Cyndie Roeser, Debbie Collins, Tim Burton; Photography: Dale Sheeler, Asa Burton; Girls&#x27; Sports: Joyce Bennett; Boys&#x27; Sports: Jim Connell; Typists: Fae Burt, Lynn Gitchell, Barb Palmer, Kathy Overslaugh</dc:contributor>
+<dc:publisher>Honeoye Falls-Lima Central School District</dc:publisher>
+<dc:date>1970</dc:date>
+<dc:source>Bound text; b&amp;w, yellow; 11 1/4 x 8 5/8 x 5/8 in.; 30 x 22 x 1 1/2 cm; 84 pages; Yellow Boards</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>application/pdf</dc:format>
+<dc:identifier>LIAISON 1970</dc:identifier>
+<dc:publisher>Mendon Public Library</dc:publisher>
+<dc:relation>Honeoye Falls Lima Yearbook Collection</dc:relation>
+<dc:rights>http://www.newyorkheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll43/id/855</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/914</identifier><datestamp>2015-01-28</datestamp><setSpec>p16694coll43</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Honeoye Falls Central School - The Liaison 1972</dc:title>
+<dc:description>Residents of Mendon, Lima, and Honeoye Falls; yearbook from 1972; contains grades 9-12</dc:description>
+<dc:creator>Honeoye Falls Central School - Honeoye Falls - New York</dc:creator>
+<dc:subject>Yearbook; Education</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:coverage>Honeoye Falls - Monroe County - New York</dc:coverage>
+<dc:contributor>Co-Editors: Kathy Rouse, Jon Falk; Advisor: Thomas Rees; Additional Yearbook Staff: Peter Marasco, Sue Sullivan, Marietta Lloyd, Phil Osterling, Nancy Leonard, Debbie Pritchard, Sue Payne, Jane Woolston, Alison Sabel, Sharon Morrissey, Mary Anne Magee, Marilyn Conway, Jean Jennings, Marilyn Kennedy, Cindy Arner, Jeanine Hilbert, Cathie Comerford, Debbie Allison, Donna Jobe, Pam Straight</dc:contributor>
+<dc:publisher>Honeoye Falls-Lima Central School District</dc:publisher>
+<dc:date>1972</dc:date>
+<dc:source>Bound text; b&amp;w, yellow; 11 1/4 x 8 5/8 x 3/4 in.; 30 x 22 x 2 cm; 107 pages; orange boards</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>application/pdf</dc:format>
+<dc:identifier>LIAISON 1972</dc:identifier>
+<dc:publisher>Mendon Public Library</dc:publisher>
+<dc:relation>Honeoye Falls Lima Yearbook Collection</dc:relation>
+<dc:rights>http://www.newyorkheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll43/id/914</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/979</identifier><datestamp>2015-01-28</datestamp><setSpec>p16694coll43</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Honeoye Falls Central School - The Liaison 1973</dc:title>
+<dc:description>Residents of Mendon, Lima, and Honeoye Falls; yearbook from 1973; contains grades 7-12</dc:description>
+<dc:creator>Honeoye Falls Central School - Honeoye Falls - New York</dc:creator>
+<dc:subject>Yearbook; Education</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:coverage>Honeoye Falls - Monroe County - New York</dc:coverage>
+<dc:contributor>Editor: Sally Smith; Business Editor: Amy Young; Copy Editor: Mery Dardenne; Art Staff: Diane Arena, Jon Nemitz, Deirdre Buckett, Nancy Jennejohn, Nancy Wilcox; Photographers: Mary Appleton, Peter Garbacik, Dave Rosier; Additional Yearbook Staff: Elaine Gillette, Sandy Wagner, Sue Mann, Wendy Shraeder, Carrie Pleuthner, Elsa Sauer, Tom Alfieri; Advisor: Thomas Rees</dc:contributor>
+<dc:publisher>Honeoye Falls-Lima Central School District</dc:publisher>
+<dc:date>1973</dc:date>
+<dc:source>Bound text, b&amp;w, blue; 11 1/4 x 8 5/8 x 5/8 in., 30 x 22 x 1 1/2 cm, 115 pages, photo boards</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>application/pdf</dc:format>
+<dc:identifier>LIAISON 1973</dc:identifier>
+<dc:publisher>Mendon Public Library</dc:publisher>
+<dc:relation>Honeoye Falls Lima Yearbook Collection</dc:relation>
+<dc:rights>http://www.newyorkheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll43/id/979</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/1052</identifier><datestamp>2015-01-28</datestamp><setSpec>p16694coll43</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Honeoye Falls Central School - The Liaison 1974</dc:title>
+<dc:description>Residents of Mendon, Lima, and Honeoye Falls; yearbook from 1974; contains grades 9-12</dc:description>
+<dc:creator>Honeoye Falls Central School - Honeoye Falls - New York</dc:creator>
+<dc:subject>Yearbook; Education</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:coverage>Honeoye Falls - Monroe County - New York</dc:coverage>
+<dc:contributor>Editor: Linda Farron; Advisor: Thomas Rees; Photgraphers: Dave Rosier, Tanya Harvey, Bob Jones, Linda Farron; Business Managers: Laura Breitbeck, Carol Petrie; Class Editors: Roxanne Brule, Steve Parker; Publicity: Bob Jones, Sue Culbertson; Layout Staff: Rosemary Hastings, Jim Hill; Additional Yearbook Staff: Kim Yorks, Tom Porazzo, Jeff Hapke, Pat Hansen, Steve Bullock; Copy Editors: Sue Schiefen, Shelley Reeves; Sports Editors: Dan Merzke, Megan Conway, Shelly Smith</dc:contributor>
+<dc:publisher>Honeoye Falls-Lima Central School District</dc:publisher>
+<dc:date>1974</dc:date>
+<dc:source>Bound text; b&amp;w; 11 1/4 x 8 5/8 x 5/8 in.; 30 x 22 x 1 1/2 cm; 136 pages; photo boards</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>application/pdf</dc:format>
+<dc:identifier>LIAISON 1974</dc:identifier>
+<dc:publisher>Mendon Public Library</dc:publisher>
+<dc:relation>Honeoye Falls Lima Yearbook Collection</dc:relation>
+<dc:rights>http://www.newyorkheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll43/id/1052</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/1128</identifier><datestamp>2015-01-28</datestamp><setSpec>p16694coll43</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Honeoye Falls Central School - The Liaison 1975</dc:title>
+<dc:description>Residents of Mendon, Lima, and Honeoye Falls; yearbook from 1975; contains grades 9-12</dc:description>
+<dc:creator>Honeoye Falls Central School - Honeoye Falls - New York</dc:creator>
+<dc:subject>Yearbook; Education</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:coverage>Honeoye Falls - Monroe County - New York</dc:coverage>
+<dc:contributor>Yearbook Staff: Phyllis Merkel, Marilyn Parmelee, JoAnn Michel, Wendy Sackett, Tom Cessna, Chris Rapp, Brad Lins, Becky Lloyd, Ann O&#x27;Connor, Betsy Eddy, June Balistere, Phil Rapp, Kelli Knapp, Lorie Brentlinger, Carol Snoddy, Amy Arena, Tanya Harvey, Cindy Spadone, Martha Leckie, Greg Mantegna</dc:contributor>
+<dc:publisher>Honeoye Falls-Lima Central School District</dc:publisher>
+<dc:date>1975</dc:date>
+<dc:source>Bound text; b&amp;w; 11 1/4 x 8 5/8 x 5/8 in.; 30 x 22 x 1 1/2 cm; 136 pages, photo boards</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>application/pdf</dc:format>
+<dc:identifier>LIAISON 1975</dc:identifier>
+<dc:publisher>Mendon Public Library</dc:publisher>
+<dc:relation>Honeoye Falls Lima Yearbook Collection</dc:relation>
+<dc:rights>http://www.newyorkheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll43/id/1128</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/1205</identifier><datestamp>2015-01-28</datestamp><setSpec>p16694coll43</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Honeoye Falls Central School - The Liaison 1980</dc:title>
+<dc:description>Residents of Mendon, Lima, and Honeoye Falls; yearbook from 1980; contains grades 9-12</dc:description>
+<dc:creator>Honeoye Falls Central School - Honeoye Falls - New York</dc:creator>
+<dc:subject>Yearbook; Education</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:coverage>Honeoye Falls - Monroe County - New York</dc:coverage>
+<dc:contributor>Editor: Scott May; Associate Editor: Allan Dombrowski; Photography Editor: Rob Scott; Senior Selection Editors: Robin deKramer, Gary Tremer; Underclassmen Editor: Mary Beth Oppedisano; Faculty and Staff Editor: Sue Pennington; Sports Editor: Tom Laemlein; Advertising Manager: Karen Scott; Business Manager: Chris Stefanou; Dividers: Julie Edwards; Art: Julie Hoff, Jacqui Shelly; Advisors: Mrs. Marjorie Menz, Miss Sue Nevinskas</dc:contributor>
+<dc:publisher>Honeoye Falls-Lima Central School District</dc:publisher>
+<dc:date>1980</dc:date>
+<dc:source>Bound text; b&amp;w, color; 11 1/4 x 8 5/8 x 5/8 in.; 30 x 22 x 1 1/2 cm; 144 pages; Black Boards - Gold Cougar Embossed On Front Cover</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>application/pdf</dc:format>
+<dc:identifier>LIAISON 1980</dc:identifier>
+<dc:publisher>Mendon Public Library</dc:publisher>
+<dc:relation>Honeoye Falls Lima Yearbook Collection</dc:relation>
+<dc:rights>http://www.newyorkheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll43/id/1205</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/1283</identifier><datestamp>2015-01-28</datestamp><setSpec>p16694coll43</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Honeoye Falls Central School - The Liaison 1983</dc:title>
+<dc:description>Residents of Mendon, Lima, and Honeoye Falls; yearbook from 1983; contains grades 9-12</dc:description>
+<dc:creator>Honeoye Falls Central School - Honeoye Falls - New York</dc:creator>
+<dc:subject>Yearbook; Education</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:coverage>Honeoye Falls - Monroe County - New York</dc:coverage>
+<dc:contributor>Editor-in-Chief: Ellen Mahaffy; Senior Section: Jackie LaBreck, Carin Wightman; Directory: Jackie LaBreck, Mary Beth Garvey; Activities: Tracy Cox; Underclassmen: Laurie Everling, Kevin Riant; Sports: Amy Shone, Jenny Williams, Laurie Batte; Faculty: Kevin Riant, Laurie Everling; Sales Campaign: Tracy Cox; Business Managers: Julie Joint, Cindy Jud; Photographers: Chris Coffey, Scott Hume, Mike Riley; Artwork: Chris Coffey, Karen Vendeville; Advertising Editors: Katie Tobin, Carin Wightman; Advertising: Laurie Batte, Lisa Garrett, Stephanie Stefanou; Typists: Mary Beth Garvey, Julie Joint, Jackie LaBreck, Katie Tobin, Carin Wightman; Advisor: Dolores Seagren</dc:contributor>
+<dc:publisher>Honeoye Falls-Lima Central School District</dc:publisher>
+<dc:date>1983</dc:date>
+<dc:source>Bound text; b&amp;w, color; 11 1/4 x 8 5/8 x 5/8 in.; 30 x 22 x 1 1/2 cm; 144 pages; Illustrated Boards</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>application/pdf</dc:format>
+<dc:identifier>LIAISON 1983</dc:identifier>
+<dc:publisher>Mendon Public Library</dc:publisher>
+<dc:relation>Honeoye Falls Lima Yearbook Collection</dc:relation>
+<dc:rights>http://www.newyorkheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll43/id/1283</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/1361</identifier><datestamp>2015-01-28</datestamp><setSpec>p16694coll43</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Honeoye Falls Central School - The Liaison 1984</dc:title>
+<dc:description>Residents of Mendon, Lima, and Honeoye Falls; yearbook from 1984; contains grades 9-12</dc:description>
+<dc:creator>Honeoye Falls Central School - Honeoye Falls - New York</dc:creator>
+<dc:subject>Yearbook; Education</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:coverage>Honeoye Falls - Monroe County - New York</dc:coverage>
+<dc:contributor>Editor-in-Chief: Christopher Coffey; Typing/Proofing Coordinator: Dawn Ryan; Financial Management: Stephanie Stefanou; Sports: Lori Everling; Photography Manager: Scott Hume; Advisors: Dolores Seagren, Lois Brown; Additional Yearbook Staff: Cathy Otocka, Jay Wolber Melissa Sullivan, Durinda Underwood, Beth Hansen, Carrie DaRin, Dawn Ryan, Patty Helm, Chris Hoh, Debbie Shapiro, Kathy Moffatt, Mike Sessler, Roin LaBreck, Sarah Frank, Mark Pierce, Mike Riley, Lisa Garrett, Robin Sharpe, Debbie Gibbs, Mary Prato, Michelle Hanna, Michelle Desmann, Leslie Le Masters, Laurie Cosentino, Jennifer Galvin, Erica Kissack</dc:contributor>
+<dc:publisher>Honeoye Falls-Lima Central School District</dc:publisher>
+<dc:date>1984</dc:date>
+<dc:source>Bound text; b&amp;w, color; 11 1/4 x 8 5/8 x 5/8 in.; 30 x 22 x 1 1/2 cm; 144 pages; Illustrated Boards</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>application/pdf</dc:format>
+<dc:identifier>LIAISON 1984</dc:identifier>
+<dc:publisher>Mendon Public Library</dc:publisher>
+<dc:relation>Honeoye Falls Lima Yearbook Collection</dc:relation>
+<dc:rights>http://www.newyorkheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll43/id/1361</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/1438</identifier><datestamp>2015-01-28</datestamp><setSpec>p16694coll43</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Honeoye Falls Central School - The Liaison 1985</dc:title>
+<dc:description>Residents of Mendon, Lima, and Honeoye Falls; yearbook from 1985; contains grades 9-12</dc:description>
+<dc:creator>Honeoye Falls Central School - Honeoye Falls - New York</dc:creator>
+<dc:subject>Yearbook; Education</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:coverage>Honeoye Falls - Monroe County - New York</dc:coverage>
+<dc:contributor>Editor: Marty Daly; Financial Editor: Jackie Wright; Multi-Media Production: Marty Daly, David Haviland, Ed Macomber, David McArthur, Cammy Nilsson; Typing/Proofreading: Kathy Allen, Beth Appler, Bonnie Arner, Regina Brown, Michelle Desmann, Donna Laraway, Deanna Plavcan, Michelle rose, Amy Streeter, Jackie Wright; Directory/Index: Nancy Freedman; End Sheet: Nancy Galvin; Photo Credits: Ed Macomber, Randy Yale, Amy Olipant, Chris Chard, Liz Tietgen; Advisors: Lois Brown, Dolores Seagren; Additional Yearbook Staff: Karen Nelson, Jennifer Welch, Jenny Conti, Wendy Oplinger, Dosha Naylor, Kristin Seablom, Sarah Mayberry, Wendy Matthews, Tracy Walker, Dan Beinetti, Mike Miller, Rob Vanpamelen, Colleen Krenzer, Barb Barnes, Patty Jordan, Dawn Phillips, Nicole Sheehan, Chris Lougher, Peggy Teitgen, Sarah Ingle, Marc Berlove, Jackie Keller, Jolie Sasso, Ann Connor, Betsy Hauber, Missy Meyers, Loni Woodson, Michelle Hanna, Regina Brown, Dave Brown, Marcia Conti, Kim Iak, Julie Wightman, Meg White, Sue Abelein, Sarah Frank, Rhonda Steffen, Leslie Corby, Erika Kissack, Jennifer Hollenbeck</dc:contributor>
+<dc:publisher>Honeoye Falls-Lima Central School District</dc:publisher>
+<dc:date>1985</dc:date>
+<dc:source>Bound text; b&amp;w, color; 11 1/4 x 8 5/8 x 5/8 in.; 30 x 22 x 1 1/2 cm; 144 pages; Photo Boards</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>application/pdf</dc:format>
+<dc:identifier>LIAISON 1985</dc:identifier>
+<dc:publisher>Mendon Public Library</dc:publisher>
+<dc:relation>Honeoye Falls Lima Yearbook Collection</dc:relation>
+<dc:rights>http://www.newyorkheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll43/id/1438</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/1515</identifier><datestamp>2015-01-28</datestamp><setSpec>p16694coll43</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Honeoye Falls Central School - The Liaison 1986</dc:title>
+<dc:description>Residents of Mendon, Lima, and Honeoye Falls; yearbook from 1986; contains grades 9-12</dc:description>
+<dc:creator>Honeoye Falls Central School - Honeoye Falls - New York</dc:creator>
+<dc:subject>Yearbook; Education</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:coverage>Honeoye Falls - Monroe County - New York</dc:coverage>
+<dc:contributor>Core Crew: Karen Dzenis, Kim Iak, Chris Lougher, Wendy Oplinger, Becky Perry, Amy Riant, Jolie Sasso; Advisors: Lois Brown, Dolores Seagren</dc:contributor>
+<dc:publisher>Honeoye Falls-Lima Central School District</dc:publisher>
+<dc:date>1986</dc:date>
+<dc:source>Bound text; b&amp;w, color; 11 1/4 x 8 5/8 x 5/8 in.; 30 x 22 x 1 1/2 cm; 144 pages; white boards</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>application/pdf</dc:format>
+<dc:identifier>LIAISON 1986</dc:identifier>
+<dc:publisher>Mendon Public Library</dc:publisher>
+<dc:relation>Honeoye Falls Lima Yearbook Collection</dc:relation>
+<dc:rights>http://www.newyorkheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll43/id/1515</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/1597</identifier><datestamp>2015-01-28</datestamp><setSpec>p16694coll43</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Honeoye Falls Central School - The Liaison 1987</dc:title>
+<dc:description>Residents of Mendon, Lima, and Honeoye Falls; yearbook from 1987; contains grades 9-12</dc:description>
+<dc:creator>Honeoye Falls Central School - Honeoye Falls - New York</dc:creator>
+<dc:subject>Yearbook; Education</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:coverage>Honeoye Falls - Monroe County - New York</dc:coverage>
+<dc:contributor>Co-Editors: Leslie Corby, Carla Shust; Advisors: Lois Brown, Dolores Seagren; Assistant To Editors: Sarah Christiano; Advertising Manager: Julie Wightman; Sales and Business Manager: Katie Tietgen; Index: Kristine Klink, Stacy Marchaesi; Senior Directory: Kris Sisson, Karen Shaner; Cover Design: Jeff Holdsworth; End Sheet: Tracy Hochedel; Multi-Media Production: Sarah Christiano, Jeff Holdsworth, Darren Fontaine, Craig Smith, Jolin Behan; Photographers: Sarah Christiano, Jeff Holdsworth, Darren Fontaine, Pete Allen; Advertising: Heidi Vantassell, Annette Wells, Charlie Talmadge, Jeff Holdsworth, Kathy Speers, Wendy Matthews; Additional Yearbook Staff: Erin Craig, Shawna Hart, Meg Conklin, Stacy Stefanou, Wendy Knunert, Becky Mayer, Chris Van Dusen, Wendy Stohl, Amy Marsters, Marsha Plavcan, Stephanie Baker, Patti Dugovic, Jolin Behan, Kristi Neal, Tracy Walker, Craig Gaffin, Karen Shaner</dc:contributor>
+<dc:publisher>Honeoye Falls-Lima Central School District</dc:publisher>
+<dc:date>1987</dc:date>
+<dc:source>Bound text; b&amp;w, color; 11 1/4 x 8 5/8 x 5/8 in.; 30 x 22 x 1 1/2 cm; 152 pages; photo boards</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>application/pdf</dc:format>
+<dc:identifier>LIAISON 1987</dc:identifier>
+<dc:publisher>Mendon Public Library</dc:publisher>
+<dc:relation>Honeoye Falls Lima Yearbook Collection</dc:relation>
+<dc:rights>http://www.newyorkheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll43/id/1597</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/1678</identifier><datestamp>2015-01-28</datestamp><setSpec>p16694coll43</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Honeoye Falls Central School - The Liaison 1988</dc:title>
+<dc:description>Residents of Mendon, Lima, and Honeoye Falls; yearbook from 1988; contains grades 9-12</dc:description>
+<dc:creator>Honeoye Falls Central School - Honeoye Falls - New York</dc:creator>
+<dc:subject>Yearbook; Education</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:coverage>Honeoye Falls - Monroe County - New York</dc:coverage>
+<dc:contributor>Editors-in-Chief: Sarah Christiano, Jeff Holdsworth; Advisors: Dolores Seagren, Lois Brown; Assistants To Editors: Nancy Burslem, Chris Shust; Business Editor: Michelle Cole; Business Assistant: Barbie Cochrane; Advertising Editor: Tammy Swartz; Advertising Assistant: Michelle Tomaino; Photography Editor: Pete Allen; Index: Kris Klink, Wendy Nelson; Additional Yearbook Staff: Kathy Speers, Michelle Plavcan, Wendy Nelson, Kim Heider, Scott Collins, Colleen Batte, Julie West, Jenny Thompson, Kristin Olyowski, Darren Fontaine, Tricia Guerin, Betsy Schmits, Katie Farnam, Karen Beach, Phil Mayberry, Tracy Oplinger, Amy Parham, Amy Walters</dc:contributor>
+<dc:publisher>Honeoye Falls-Lima Central School District</dc:publisher>
+<dc:date>1988</dc:date>
+<dc:source>Bound text; b&amp;w, color; 11 1/4 x 8 5/8 x 5/8 in.; 30 x 22 x 1 1/2 cm; 152 pages; black boards</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>application/pdf</dc:format>
+<dc:identifier>LIAISON 1988</dc:identifier>
+<dc:publisher>Mendon Public Library</dc:publisher>
+<dc:relation>Honeoye Falls Lima Yearbook Collection</dc:relation>
+<dc:rights>http://www.newyorkheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll43/id/1678</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/1759</identifier><datestamp>2015-01-28</datestamp><setSpec>p16694coll43</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Honeoye Falls Central School - The Liaison 1989</dc:title>
+<dc:description>Residents of Mendon, Lima, and Honeoye Falls; yearbook from 1989; contains grades 9-12</dc:description>
+<dc:creator>Honeoye Falls Central School - Honeoye Falls - New York</dc:creator>
+<dc:subject>Yearbook; Education</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:coverage>Honeoye Falls - Monroe County - New York</dc:coverage>
+<dc:contributor>Yearbook Staff: Jeff Holdsworth, Tiffany Wagner, Dave Cotteleer, Julie West, Darren Fontaine, Sue Comstock, Dave Spayde, Chris Shust, Scott Brunstetter, Pete Allen, Robyn Rinken</dc:contributor>
+<dc:publisher>Honeoye Falls-Lima Central School District</dc:publisher>
+<dc:date>1989</dc:date>
+<dc:source>Bound text; b&amp;w, color; 11 1/4 x 8 5/8 x 5/8 in.; 30 x 22 x 1 1/2 cm; 156 pages; Graphics Boards</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>application/pdf</dc:format>
+<dc:identifier>LIAISON 1989</dc:identifier>
+<dc:publisher>Mendon Public Library</dc:publisher>
+<dc:relation>Honeoye Falls Lima Yearbook Collection</dc:relation>
+<dc:rights>http://www.newyorkheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll43/id/1759</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/1834</identifier><datestamp>2015-01-30</datestamp><setSpec>p16694coll43</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Honeoye Falls Central School - The Liaison 1994</dc:title>
+<dc:description>Residents of Mendon, Lima, and Honeoye Falls; yearbook from 1994; contains grades 9-12</dc:description>
+<dc:creator>Honeoye Falls Central School - Honeoye Falls - New York</dc:creator>
+<dc:subject>Yearbook; Education</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:coverage>Honeoye Falls - Monroe Country - New York</dc:coverage>
+<dc:contributor>Associate Editors-in-Chief: Cindy Frachel, Lynette Cook; Underclass Editor: Brenda Gonzalez; Advertising and Faculty Editor: Terri Colyer; Business Editor: Tevis Maurer; Business Assistant: Nicole Hatch; Photographers: Craig Troskosky, Carina Hart, Herb Dwyer, Adam Plante, Rachel Pickering, Leslie Kumler, Mark Richeson; Additional Yearbook Staff: Erin Bennett, Leslie Kumler, Karen Somerville, Kelly Somerville, Emily Bertram, Wendy Altonberg, Erin Markum, Kim Oldfield, Cristina Bahr, Jessica Reissig, Heather Lane, Sara Treible, Jessica Nash, Amy Walpole; Advisors: Merry Seablom, Ann Brown, Barbara Altonberg</dc:contributor>
+<dc:publisher>Honeoye Falls-Lima Central School District</dc:publisher>
+<dc:date>1994</dc:date>
+<dc:source>Bound text; b&amp;w, color; 11 1/4 x 8 5/8 x 5/8 in.; 30 x 22 x 1 1/2 cm; 144 pages; White Boards</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>application/pdf</dc:format>
+<dc:identifier>LIAISON 1994</dc:identifier>
+<dc:publisher>Mendon Public Library</dc:publisher>
+<dc:relation>Honeoye Falls Lima Yearbook Collection</dc:relation>
+<dc:rights>http://www.newyorkheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll43/id/1834</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/1908</identifier><datestamp>2015-01-30</datestamp><setSpec>p16694coll43</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Honeoye Falls Central School - The Liaison 1993</dc:title>
+<dc:description>Residents of Mendon, Lima, and Honeoye Falls; yearbook from 1993; contains grades 9-12</dc:description>
+<dc:creator>Honeoye Falls Central School - Honeoye Falls - New York</dc:creator>
+<dc:subject>Yearbook; Education</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:coverage>Honeoye Falls - Monroe County - New York</dc:coverage>
+<dc:contributor>Associate Editors-in-Chief: Cindy Frachel, Lynette Cook; Underclass Editor: Brenda Gonzalez; Advertising and Faculty Editor: Terri Colyer; Business Editor: Tevis Maurer; Business Assistant: Nicole Hatch; Photographers: Craig Troskosky, Carina Hart, Herb Dwyer, Adam Plante, Rachel Pickering, Leslie Kumler, Mark Richeson; Additional Yearbook Staff: Erin Bennett, Leslie Kumler, Karen Somerville, Kelly Somerville, Emily Bertram, Wendy Altonberg, Erin Markum, Kim Oldfield, Cristina Bahr, Jessica Reissig, Heather Lane, Sara Treible, Jessica Nash, Amy Walpole; Advisors: Merry Seablom, Ann Brown, Barbara Altonberg</dc:contributor>
+<dc:publisher>Honeoye Falls-Lima Central School District</dc:publisher>
+<dc:date>1993</dc:date>
+<dc:source>Bound text; b&amp;w, color; 11 1/4 x 8 5/8 x 5/8 in.; 30 x 22 x 1 1/2 cm; 144 pages; White Boards</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>application/pdf</dc:format>
+<dc:identifier>LIAISON 1993</dc:identifier>
+<dc:publisher>Mendon Public Library</dc:publisher>
+<dc:relation>Honeoye Falls Lima Yearbook Collection</dc:relation>
+<dc:rights>http://www.newyorkheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll43/id/1908</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/1983</identifier><datestamp>2015-01-30</datestamp><setSpec>p16694coll43</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Honeoye Falls Central School - The Liaison 1992</dc:title>
+<dc:description>Residents of Mendon, Lima, and Honeoye Falls; yearbook from 1992; contains grades 9-12</dc:description>
+<dc:creator>Honeoye Falls Central School - Honeoye Falls - New York</dc:creator>
+<dc:subject>Yearbook; Education</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:coverage>Honeoye Falls - Monroe County - New York</dc:coverage>
+<dc:contributor>Editor: Chad Walters; Advisors: Merry Seablom, Ann Brown, Barbara Altonberg; Underclass Editor: Brenda Gonzalez; Additional Yearbook Staff: Becca Terpstra, Jessica Tompkins, Ellie Kerns, Sarah Treible, Michelle Walluk, Shannon Pierson, Dorie Graves, Sara Gilbert, Adam Plante, Allison Johnson, Sonja Kaminski, Kristyn Dattilo, Becca DeLap, Jenny Preston, Shelley McLean, Kris Culp, Lynette Cook, Vincent Richard, Erin Markum, Karin Logstrup, Kim Young-Jin, Matt Niemi, Tim Chatterton, Nick Mahood, Cornelius Schmid</dc:contributor>
+<dc:publisher>Honeoye Falls-Lima Central School District</dc:publisher>
+<dc:date>1992</dc:date>
+<dc:source>Bound text; 11 1/4 x 8 5/8 x 5/8 in.; 30 x 22 x 1 1/2 cm; 144 pages; Black Boards</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>application/pdf</dc:format>
+<dc:identifier>LIAISON 1992</dc:identifier>
+<dc:publisher>Mendon Public Library</dc:publisher>
+<dc:relation>Honeoye Falls Lima Yearbook Collection</dc:relation>
+<dc:rights>http://www.newyorkheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll43/id/1983</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/2058</identifier><datestamp>2015-01-30</datestamp><setSpec>p16694coll43</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Honeoye Falls Central School - The Liaison 1991</dc:title>
+<dc:description>Residents of Mendon, Lima, and Honeoye Falls; yearbook from 1991; contains grades 9-12</dc:description>
+<dc:creator>Honeoye Falls Central School - Honeoye Falls - New York</dc:creator>
+<dc:subject>Yearbook; Education</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:coverage>Honeoye Falls - Monroe County - New York</dc:coverage>
+<dc:contributor>Yearbook Staff: Todd Albrecht, Lori Bartoo, Christy Bent, Bill Burslem, Tim Chatterton, Matt Farrell, Todd Gould, Tracey Hans, Maggie Henry, Kim Hewson, Wendy Krest, Christie Lacourse, Nick Mahood, Rachel Naber, Danielle Ondike, Betsy Payne, Dawn Schnell, Melanie Sperry, Chad Walters</dc:contributor>
+<dc:publisher>Honeoye Falls-Lima Central School District</dc:publisher>
+<dc:date>1991</dc:date>
+<dc:source>Bound text; b&amp;w, color; 11 1/4 x 8 5/8 x 5/8 in.; 30 x 22 x 1 1/2 cm; 160 pages; Illustrated Boards</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>application/pdf</dc:format>
+<dc:identifier>LIAISON 1991</dc:identifier>
+<dc:publisher>Mendon Public Library</dc:publisher>
+<dc:relation>Honeoye Falls Lima Yearbook Collection</dc:relation>
+<dc:rights>http://www.newyorkheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll43/id/2058</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/2142</identifier><datestamp>2015-01-30</datestamp><setSpec>p16694coll43</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Honeoye Falls Central School - The Liaison 1990</dc:title>
+<dc:description>Residents of Mendon, Lima, and Honeoye Falls; yearbook of 1990; contains grades 9-12</dc:description>
+<dc:creator>Honeoye Falls Central School - Honeoye Falls - New York</dc:creator>
+<dc:subject>Yearbook; Education</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:coverage>Honeoye Falls - Monroe County - New York</dc:coverage>
+<dc:contributor>Yearbook Staff: Julie West, Rachel Naber, Laura Ramme, Alison Keller, Aimee Irizarry, Chuck Walters, Dennis Meyer; Additional Yearbook Staff: C. LaCourse, B. Pevear, M. Fritz, A. Cole, J. Rose, A. Rosenberg, C. Holland, B. McGee, A. Wells, J. Luft, P. Flansburg, B. Gilbert, P. Srodawa, J. West, D. Hiller, T. Schoch</dc:contributor>
+<dc:publisher>Honeoye Falls-Lima Central School District</dc:publisher>
+<dc:date>1990</dc:date>
+<dc:source>Bound text; b&amp;w, color; 11 1/4 x 8 5/8 x 5/8 in.; 30 x 22 x 1 1/2 cm; 160 pages; illustrated boards</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>application/pdf</dc:format>
+<dc:identifier>LIAISON 1990</dc:identifier>
+<dc:publisher>Mendon Public Library</dc:publisher>
+<dc:relation>Honeoye Falls Lima Yearbook Collection</dc:relation>
+<dc:rights>http://www.newyorkheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll43/id/2142</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/2221</identifier><datestamp>2015-01-30</datestamp><setSpec>p16694coll43</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Honeoye Falls Central School - The Liaison 1995</dc:title>
+<dc:description>Residents of Mendon, Lima, and Honeoye Falls; yearbook from 1995; contains grades 9-12</dc:description>
+<dc:creator>Honeoye Falls Central School - Honeoye Falls - New York</dc:creator>
+<dc:subject>Yearbook; Education</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:coverage>Honeoye Falls - Monroe County - New York</dc:coverage>
+<dc:contributor>Editor-in-Chief &amp; Sports Editor: Brenda Gonzalez; Advisors: Mrs. Roberts, Barbara Altonberg; Photographers: Milton Irizarry, Carina Hart, Rachel Pickering, David Rea, Jericho Barcomb, Joy Schwing, Sara Treible, Sarah Flint, Brenda Gonzalez; Underclass Co-Editors: Terri Colyer, Lauren Ernst; Academics Editor: Terri Colyer; Seniors Editor: Leslie Kumler; Student Life Co-Editors: Joy Schwing, Sara K. Treible; Business Staff: Jericho Barcomb, Sarah Flint, Julie Bliss, Cassie Junot, Chris Sperry, Tevis Maurer, David Rea, Nicole Hatch; Additional Yearbook Staff: Buddy Uner, Meghan Carroll, Jenni Lloyd, Jericho Barcomb, Julie Bliss, David Rea, Sarah Flint, Cheryl Mamoone, Cassie Junot</dc:contributor>
+<dc:publisher>Honeoye Falls-Lima Central School District</dc:publisher>
+<dc:date>1995</dc:date>
+<dc:source>Bound text; b&amp;w, color; 11 1/4 x 8 5/8 x 5/8 in.; 30 x 22 x 1 1/2 cm; 155 pages; beige &amp; blue boards</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>application/pdf</dc:format>
+<dc:identifier>LIAISON 1995</dc:identifier>
+<dc:publisher>Mendon Public Library</dc:publisher>
+<dc:relation>Honeoye Falls Lima Yearbook Collection</dc:relation>
+<dc:rights>http://www.newyorkheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll43/id/2221</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/2312</identifier><datestamp>2015-01-30</datestamp><setSpec>p16694coll43</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Honeoye Falls Central School - The Liaison 1996</dc:title>
+<dc:description>Residents of Mendon, Lima, and Honeoye Falls; yearbook from 1996; contains grades 9-12</dc:description>
+<dc:creator>Honeoye Falls Central School - Honeoye Falls - New York</dc:creator>
+<dc:subject>Yearbook; Education</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:coverage>Honeoye Falls - Monroe County - New York</dc:coverage>
+<dc:contributor>Editor-in-Chief: Leslie Kumler; Academics Editor: Krista Carroll; Sports Editor: Lauren Ernst; Underclass Editor: Kristin Guenther; Student Life Editor: Terri Colyer; Advisors: Mrs. Joint, Barbara Altonberg; Additional Yearbook Staff: S. Greer, K. Russ, E. Charboneau, M. Mandak, R. Stone, D. Bassette,  J. Kelley, S. Foe, D. Schaeffer, J. Junot, D. Reasoner, A. Reinhardt, L. Raymondjack, Julie Bliss, B. Raymondjack, K. Guenther, J. Lloyd, S. Briggs, A. Colyer, A. Jacob-Zysman, K. Guenther, C. Houston</dc:contributor>
+<dc:publisher>Honeoye Falls-Lima Central School District</dc:publisher>
+<dc:date>1996</dc:date>
+<dc:source>Bound text; b&amp;w, color; 11 1/4 x 8 5/8 x 5/8 in.; 30 x 22 x 1 1/2 cm; 176 pages; graphics boards</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>application/pdf</dc:format>
+<dc:identifier>LIAISON 1996</dc:identifier>
+<dc:publisher>Mendon Public Library</dc:publisher>
+<dc:relation>Honeoye Falls Lima Yearbook Collection</dc:relation>
+<dc:rights>http://www.newyorkheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll43/id/2312</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/2403</identifier><datestamp>2015-01-30</datestamp><setSpec>p16694coll43</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Honeoye Falls Central School - The Liaison 1997</dc:title>
+<dc:description>Residents of Mendon, Lima, and Honeoye Falls; yearbook from 1997; contains grades 9-12</dc:description>
+<dc:creator>Honeoye Falls Central School - Honeoye Falls - New York</dc:creator>
+<dc:subject>Yearbook; Education</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:coverage>Honeoye Falls - Monroe County - New York</dc:coverage>
+<dc:contributor>Advisors: Mrs. Joint, Barbara Altonberg; Editors: K. Carroll, C. Lane, B. Raymondjack, C. Garvey, B. Barnhart, K. Russ, L. Raymondjack, A. Jacob-Zysman, J. Junot; Additional Yearbook Staff: K. Hodgens, C. Przysinda, J. Donner, A. Larkin, R. Tomaselli, J. Schofield, S. Mack, J. Groff, J. Rosati, L. Horn, E. Edwards, S. Domville, L. Ochsenhirt, E. Jacob-Zysman, A. Jacob-Zysman, J. Batcheller, A. Morrison, E. Denslow, J. Grey, A. Streb, J. Paquin, C. Clarke, A. Briggs, S. Greer, A. Arem, M. Mandak, L. Shingleton, P. Mansfield, A. Porter, D. Schaeffer</dc:contributor>
+<dc:publisher>Honeoye Falls-Lima Central School District</dc:publisher>
+<dc:date>1997</dc:date>
+<dc:source>Bound text; b&amp;w, color; 11 1/4 x 8 5/8 x 5/8 in.; 30 x 22 x 1 1/2 cm; 174 pages; graphics grey boards</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>application/pdf</dc:format>
+<dc:identifier>LIAISON 1997</dc:identifier>
+<dc:publisher>Mendon Public Library</dc:publisher>
+<dc:relation>Honeoye Falls Lima Yearbook Collection</dc:relation>
+<dc:rights>http://www.newyorkheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll43/id/2403</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/2494</identifier><datestamp>2015-01-30</datestamp><setSpec>p16694coll43</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Honeoye Falls Central School - The Liaison 1998</dc:title>
+<dc:description>Residents of Medon, Lima, and Honeoye Falls; yearbook from 1998; contains grades 9-12</dc:description>
+<dc:creator>Honeoye Falls Central School - Honeoye Falls - New York</dc:creator>
+<dc:subject>Yearbook; Education</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:coverage>Honeoye Falls - Monroe County - New York</dc:coverage>
+<dc:contributor>Editor-in-Chief: Ben Raymondjack; Organizations Editor: Alicia Jacob-Zysman; Sports Editor: Kim Guenther, Erin Denslow; Photography Editor: Bethany Barnhart; Underclass Editor: Sarah Domville; Academics Editor: Rebecca Bloom; Student Life Editor: Carrie Garvey; Senior Editor: Aaron Porter; Ads Editor: Lynn Ochsenhirt; Additional Yearbook Staff: Courtney Lane, Julia Groff, Emily Jacob-Zysman, Katie Kumler, Jen Rasmussen, Melissa Metz, Jen Graney, Shannon Mack, Cathy Clarke, Stacy Alexander, Trisha Wendel, Emily DeHond, Andy Demers, Dan Bennett</dc:contributor>
+<dc:publisher>Honeoye Falls-Lima Central School District</dc:publisher>
+<dc:date>1998</dc:date>
+<dc:source>Bound text; b&amp;w, color; 11 1/4 x 8 5/8 x 5/8 in.; 30 x 22 x 1 1/2 cm; 176 pages; graphics boards</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>application/pdf</dc:format>
+<dc:identifier>LIAISON 1998</dc:identifier>
+<dc:publisher>Mendon Public Library</dc:publisher>
+<dc:relation>Honeoye Falls Lima Yearbook Collection</dc:relation>
+<dc:rights>http://www.newyorkheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll43/id/2494</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/2588</identifier><datestamp>2015-01-30</datestamp><setSpec>p16694coll43</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Honeoye Falls Central School - The Liaison 1999</dc:title>
+<dc:description>Residents of Mendon, Lima, and Honeoye Falls; yearbook from 1999; contains grades 9-12</dc:description>
+<dc:creator>Honeoye Falls Central School - Honeoye Falls - New York</dc:creator>
+<dc:subject>Yearbook; Education</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:coverage>Honeoye Falls - Monroe County - New York</dc:coverage>
+<dc:contributor>Senior Editor: Alicia Jacob-Zysman; Academics Editor: Kim Guenther; Underclassmen Editor: Rebecca Bloom; Advertisement Editor: Lynn Ochsenhirt; Organizations Editor: Sarah Domville; Student Life Editor: Erin Denslow; Photography Editor: Bethany Barnhart; Layout Editor: Carrie Garvey; Additional Yearbook Staff: Sarah Gilbert, Rachel Patall-David, Sadie Mueller, Nate Marion, Chad Read, AJ Arem, Tyler Balentine, Derek Romig, Melissa Metz, Kristen Meyers, Jillian Gregory, Katie Kohler, Stacey VanBlarcom, Liz Werner, Amy Briggs, Jennifer Rasmussen, Alicia Malley, Kathy DeStefano, Jason Ford, Katie Kumler, Marlena Rinken, Jeana Miller, Jessica Welsh, Sarah Hyde, Bethany Barnhart, Sarah Bickweat, Matt DeTurk, Meghan Cardillo, David Dow, Ashley Bastow, Emily Riordan, Christina Battle; Advisors: Kelly Craig, Barbara Altonberg</dc:contributor>
+<dc:publisher>Honeoye Falls-Lima Central School District</dc:publisher>
+<dc:date>1999</dc:date>
+<dc:source>Bound text; b&amp;w, color; 11 1/4 x 8 5/8 x 5/8 in.; 30 x 22 1 1/2 cm; 180 pages; black boards</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>application/pdf</dc:format>
+<dc:identifier>LIAISON 1999</dc:identifier>
+<dc:publisher>Mendon Public Library</dc:publisher>
+<dc:relation>Honeoye Falls Lima Yearbook Collection</dc:relation>
+<dc:rights>http://www.newyorkheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll43/id/2588</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/2687</identifier><datestamp>2015-01-31</datestamp><setSpec>p16694coll43</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Honeoye Falls Central School - The Liaison 2001</dc:title>
+<dc:description>Residents of Mendon, Lima, and Honeoye Falls; yearbook from 2001; contains grades 9-12</dc:description>
+<dc:creator>Honeoye Falls Central School - Honeoye Falls - New York</dc:creator>
+<dc:subject>Yearbook; Education</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:coverage>Honeoye Falls - Monroe County - New York</dc:coverage>
+<dc:contributor>Yearbook Staff: Gabrielle Inglis, Dan Kingsley, Matt DeTurck, Rochelle Goins, Allison Forstrom, Christi Marriott, Megan Davit, Claire Jacob-Zysman, Katie Kumler; Advisors: Erin Quintero, Barbara Altonberg</dc:contributor>
+<dc:publisher>Honeoye Falls-Lima Central School District</dc:publisher>
+<dc:date>2001</dc:date>
+<dc:source>Bound text; b&amp;w, color; 11 1/4 x 8 5/8 x 5/8 in.; 28 1/2 x 22 1 1/2 cm; 190 pages; photo boards</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>application/pdf</dc:format>
+<dc:identifier>LIAISON 2001</dc:identifier>
+<dc:publisher>Mendon Public Library</dc:publisher>
+<dc:relation>Honeoye Falls Lima Yearbook Collection</dc:relation>
+<dc:rights>http://www.newyorkheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll43/id/2687</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/2790</identifier><datestamp>2015-01-31</datestamp><setSpec>p16694coll43</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Honeoye Falls Central School - The Liaison 2002</dc:title>
+<dc:description>Residents of Mendon, Lima, and Honeoye Falls; yearbook from 2002; contains grades 9-12</dc:description>
+<dc:creator>Honeoye Falls Central School - Honeoye Falls - New York</dc:creator>
+<dc:subject>Yearbook; Education</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:coverage>Honeoye Falls - Monroe County - New York</dc:coverage>
+<dc:contributor>Editor: Allison Hoose; Yearbook Staff: John Byrns, Katie Regan, Rochelle Goins, Danielle Gillespie, Megan Davitt, Elyse Anderson, Laura Winterberger, Whitney Baumgartner, Jessica Colwell, Megan Bowen, Caragh Dooley, Carissa Nickel, Ashonte Stills, Claire Jacob-Zysman, Natalie Sinisgalli, Megan Alexander, Jessica DeMinco; Advisors: Mr. Faulkner, Mrs. Altonberg, Mrs. Quintero</dc:contributor>
+<dc:publisher>Honeoye Falls-Lima Central School District</dc:publisher>
+<dc:date>2002</dc:date>
+<dc:source>Bound text; b&amp;w, color; 11 1/4 x 8 5/8 x 3/4 in.; 28 1/2 x 22 x 1 9/10 cm; 179 pages</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>appliction/pdf</dc:format>
+<dc:identifier>LIAISON 2002</dc:identifier>
+<dc:publisher>Mendon Public Library</dc:publisher>
+<dc:relation>Honeoye Falls Lima Yearbook Collection</dc:relation>
+<dc:rights>http://www.newyorkheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll43/id/2790</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/2892</identifier><datestamp>2015-01-31</datestamp><setSpec>p16694coll43</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Honeoye Falls Central School - The Liaison 2003</dc:title>
+<dc:description>Residents of Mendon, Lima, and Honeoye Falls; yearbook from 2003; contains grades 9-12</dc:description>
+<dc:creator>Honeoye Falls Central School - Honeoye Falls - New York</dc:creator>
+<dc:subject>Yearbook; Education</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:coverage>Honeoye Falls - Monroe County - New York</dc:coverage>
+<dc:contributor>Editor: Allison Hoose; Yearbook Staff: Danielle Wiemer, Peggy Griffin, Whitney Baumgartner, Carissa Nickel, Laura Winterberger, Jessica Colwell, Katie Gray, Caragh Dooley, Megan Bowen, Rachel Tubbs, Kelly Powell, Krystine Benson, Kelly Burke, Grace McQueeny-Penamonte, Valerie Scafetta, Matt Burrows, Erin Tartaglia, Anna Micoli, Elyse Anderson, Katie Conroy, Danielle Gillespie, Amber Wing; Advisors: Mrs. Quintero, Mr. Faulkner, Mrs. Altonberg</dc:contributor>
+<dc:publisher>Honeoye Falls-Lima Central School District</dc:publisher>
+<dc:date>2003</dc:date>
+<dc:source>Bound text; b&amp;w, color; 11 1/4 x 8 11/16 x 3/4 in.; 28 1/2 x 22 1/10 x 1 8/10 cm; 182 pages</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>application/pdf</dc:format>
+<dc:identifier>LIAISON 2003</dc:identifier>
+<dc:publisher>Mendon Public Library</dc:publisher>
+<dc:relation>Honeoye Falls Lima Yearbook Collection</dc:relation>
+<dc:rights>http://www.newyorkheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll43/id/2892</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3001</identifier><datestamp>2015-01-31</datestamp><setSpec>p16694coll43</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Honeoye Falls Central School - The Liaison 2005</dc:title>
+<dc:description>Residents of Mendon, Lima, and Honeoye Falls; yearbook from 2005; contains grades 9-12</dc:description>
+<dc:creator>Honeoye Falls Central School - Honeoye Falls - New York</dc:creator>
+<dc:subject>Yearbook; Education</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:coverage>Honeoye Falls - Monroe County - New York</dc:coverage>
+<dc:contributor>Editor: Shauna Kime; Yearbook Staff: Kelly Halligan, Brianna Banford, Sarah Robinson, Cherie Conrad, Renee Weissend, Stephanie Crecco, Michael Radi, Bryan Krause, Neil Taras, Stephanie Fisher, Danielle Shaublin, Victoria Liu, Liz Ganley, Shauna Kime, Ericka Gruschow, Rachel Segrue, Diana Graham, Kelsey Bauchanan, Amanda Bradstreet, Melinda Bailey, Brittany Percy, Amy Floeser, Rachel Wadach, Erica Call, Katie Gray, Meaghan McGory, Kelly Powell, Danielle Wiemer, Megan Ferries; Advisors: Mrs. Altonberg, Mr. Luxemberg, Mr. Rizzo</dc:contributor>
+<dc:publisher>Honeoye Falls - Monroe County - New York</dc:publisher>
+<dc:date>2005</dc:date>
+<dc:source>Bound text; b&amp;w, color; 11 1/4 x 8 11/16 x 11/16 in.; 28 1/2 x 22 1/10 x 1 8/10 cm; 212 pages</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>application/pdf</dc:format>
+<dc:identifier>LIAISON 2005</dc:identifier>
+<dc:publisher>Mendon Public Library</dc:publisher>
+<dc:relation>Honeoye Falls Lima Yearbook Collection</dc:relation>
+<dc:rights>http://www.newyorkheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll43/id/3001</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3110</identifier><datestamp>2015-01-31</datestamp><setSpec>p16694coll43</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Honeoye Falls Central School - The Liaison 2006</dc:title>
+<dc:description>Residents of Mendon, Lima, and Honeoye Falls; yearbook from 2006; contains grades 9-12</dc:description>
+<dc:creator>Honeoye Falls Central School - Honeoye Falls - New York</dc:creator>
+<dc:subject>Yearbook; Education</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:coverage>Honeoye Falls - Monroe County - New York</dc:coverage>
+<dc:contributor>Editor: Cherie Conrad; Yearbook Staff: Mindi Lewis, Laura Martone, Tyler Somes, Christina Hoffman, Jessica Gray, Emily Werner, Stephanie Magee, Michelle Budreau, Devin McDermott, Laura Bryan, Meryl Robinson, Kadee Molz, Heather Tubbs, Kaitlyn White, Amanda Raines, Renee Weissend, Ericka Gruschow, Becky Miller, Liz Martone, Justine Armes, Breanna Banford, Christoph Napp, Christie Sepp, Mindi Tubbs, Rachel Segrue, Chelsea Nashburn, Rachel Wadach, Shannon Sanford, Kara Haydanek, Brittany Percy; Advisors: Mr. Rizzo, Mrs. Altonberg, Mr. Luxemberg</dc:contributor>
+<dc:publisher>Honeoye Falls-Lima Central School District</dc:publisher>
+<dc:date>2006</dc:date>
+<dc:source>Bound text; b&amp;w, color; 11 1/4 x 8 11/16 x 11/16 in.; 28 1/2 x 22 1/10 x 1 8/10 cm; 212 pages</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>application/pdf</dc:format>
+<dc:identifier>LIAISON 2006</dc:identifier>
+<dc:publisher>Mendon Public Library</dc:publisher>
+<dc:relation>Honeoye Falls Lima Yearbook Collection</dc:relation>
+<dc:rights>http://www.newyorkheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll43/id/3110</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3202</identifier><datestamp>2015-01-31</datestamp><setSpec>p16694coll43</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Honeoye Falls Central School - The Liaison 2007</dc:title>
+<dc:description>Residents of Mendon, Lima, and Honeoye Falls; yearbook from 2007; contains grades 9-12</dc:description>
+<dc:creator>Honeoye Falls Central School - Honeoye Falls - New York</dc:creator>
+<dc:subject>Yearbook; Education</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:coverage>Honeoye Falls - Monroe County - New York</dc:coverage>
+<dc:contributor>Editor: Jess Gray; Yearbook Staff: Erin York, Corri Levine, Erica Call, Alissa Coates, Mary Gorden, Erica Weissend, Stephanie Magee, Megan Mannix, Emily Werner, Alexandra Genova, Brittany Lewis, Brittany Lillie, Julie Ghostlaw; Advisors: Mr. Ghidiu, Mrs. Altonberg, Mrs. Talbott</dc:contributor>
+<dc:publisher>Honeoye Falls-Lima Central School District</dc:publisher>
+<dc:date>2007</dc:date>
+<dc:source>Bound text; color; 11 1/4 x 8 11/16 x 3/4 in.; 28 1/2 x 22 x 2 cm; 176 pages</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>application/pdf</dc:format>
+<dc:identifier>LIAISON 2007</dc:identifier>
+<dc:publisher>Mendon Public Library</dc:publisher>
+<dc:relation>Honeoye Falls Lima Yearbook Collection</dc:relation>
+<dc:rights>http://www.newyorkheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll43/id/3202</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3294</identifier><datestamp>2015-01-31</datestamp><setSpec>p16694coll43</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Honeoye Falls Central School - The Liaison 2008</dc:title>
+<dc:description>Residents of Mendon, Lima, and Honeoye Falls; yearbook from 2008; contains grades 2008</dc:description>
+<dc:creator>Honeoye Falls Central School - Honeoye Falls - New York</dc:creator>
+<dc:subject>Yearbook; Education</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:coverage>Honeoye Falls - Monroe County - New York</dc:coverage>
+<dc:contributor>Senior Editor: Katie Kaz; Junior Editor: Erin York; Yearbook Staff: Sharon Rogers, Veronica Toeper, Libby Rooney, Chloe Farmer, Alexandra Genova, Liza Queeno, Victoria VanMarren, Chelsea Spain; Advisors: Mr. Ghidiu, Mrs. Talbott, Mrs. Altonberg</dc:contributor>
+<dc:publisher>Honeoye Falls-Lima Central School District</dc:publisher>
+<dc:date>2008</dc:date>
+<dc:source>Bound text; color; 11 1/4 x 8 5/8 x 3/4 in.; 28 1/2 x 22 x 2 cm; 176 pages</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>application/pdf</dc:format>
+<dc:identifier>LIAISON 2008</dc:identifier>
+<dc:publisher>Mendon Public Library</dc:publisher>
+<dc:relation>Honeoye Falls Lima Yearbook Collection</dc:relation>
+<dc:rights>http://www.newyorkheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll43/id/3294</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3375</identifier><datestamp>2015-02-09</datestamp><setSpec>p16694coll43</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Honeoye Falls Central School - The Liaison 2009</dc:title>
+<dc:description>Residents of Mendon, Lima, and Honeoye Falls; yearbook from 2009; contains grades 9-12</dc:description>
+<dc:creator>Honeoye Falls Central School - Honeoye Falls - New York</dc:creator>
+<dc:subject>Yearbook; Education</dc:subject>
+<dc:subject>Education; People</dc:subject>
+<dc:coverage>Honeoye Falls - Monroe County - New York</dc:coverage>
+<dc:contributor>Yearbook Staff: Erin York, Kerstin Abreau, Kylie Shaffer, Jessi Frederick, Kelly Burgart, Billy Mitchell, Emily Roth, Shanna Mansouri, Sara Weirdein, Abby Morabito, Robin Willick, Victoria VanMarren; Advisors: Dave Ghidiu, Barbara Altonberg, Lori Talbott</dc:contributor>
+<dc:publisher>Honeoye Falls-Lima Central School District</dc:publisher>
+<dc:date>2009</dc:date>
+<dc:source>Bound text; color; 11 1/4 x 8 11/16 x 3/4 in.; 28 1/2 x 22 x 2 cm; 156 pages</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:language>eng</dc:language>
+<dc:format>application/pdf</dc:format>
+<dc:identifier>LIAISON 2009</dc:identifier>
+<dc:publisher>Mendon Public Library</dc:publisher>
+<dc:relation>Honeoye Falls Lima Yearbook Collection</dc:relation>
+<dc:rights>http://www.newyorkheritage.org/about#copyright</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/p16694coll43/id/3375</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3376</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3377</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3378</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3379</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3380</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3381</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3382</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3383</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3384</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3385</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3386</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3387</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3388</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3389</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3390</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3391</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3392</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3393</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3394</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3395</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3396</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3397</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3398</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3399</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3400</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3401</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3402</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3403</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3404</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3405</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3406</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3407</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3408</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3409</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3410</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3411</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3412</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3413</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3414</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3415</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3416</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3417</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3418</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3419</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3420</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3421</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3422</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3423</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3424</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3425</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3426</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3427</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3428</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3429</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3430</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3431</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3432</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3433</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3434</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3435</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3436</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3437</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3438</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3439</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3440</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3441</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3442</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3443</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3444</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3445</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3446</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3447</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3448</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3449</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3450</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3451</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3452</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3453</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3454</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3455</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3456</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3457</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3458</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3459</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3460</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3461</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3462</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3463</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:p16694coll43/3464</identifier><datestamp>2015-02-12</datestamp><setSpec>p16694coll43</setSpec></header>
+</record><resumptionToken>p16694coll43:3465:p16694coll43:0000-00-00:9999-99-99:oai_dc</resumptionToken></ListRecords></OAI-PMH>
