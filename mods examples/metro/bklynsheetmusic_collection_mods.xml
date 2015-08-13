@@ -1,0 +1,1126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2015-08-12T13:05:10Z</responseDate><request>http://dcmny.org/oai2</request><ListRecords><record><header><identifier>oai:dcmny.org:bklynsheetmusic_39</identifier><datestamp>2014-10-10T12:40:27Z</datestamp><setSpec>bklynsheetmusic_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>We, are the Martineers [advertisement]</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Martin's</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Back cover of Martin's Silver Dress Parade. A poem/slogan is printed with the lines, " We, are the Martineers; Here, five and twenty years; Like, other pioneers; We have led..."</abstract>
+  <identifier type="local">sm0030</identifier>
+  <accessCondition type="use and reproduction">While many images in the Brooklyn Collection are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The end user assumes all responsibility for copyright questions.</accessCondition>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Brooklyn Sheet Music Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>Brooklyn Public Library, Brooklyn Collection</physicalLocation>
+  </location>
+  <note>Publisher street address: Fulton Street</note>
+  <note>Back cover of the jingle for Martin's, a women's fashion store.</note>
+  <genre authority="lctgm">Sheet music covers</genre>
+  <genre authority="lctgm">Advertisements</genre>
+  <subject authority="lcsh">
+    <topic>United States--New York (State)--New York--Brooklyn</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Music publishing industry</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Advertising</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Jingles (Advertising songs)</topic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <typeOfResource>text</typeOfResource>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <originInfo>
+    <publisher>Martin's</publisher>
+    <place>
+      <placeTerm type="text">Brooklyn</placeTerm>
+    </place>
+    <dateIssued encoding="iso8601">1903</dateIssued>
+  </originInfo>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/bklynsheetmusic%3A39</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:bklynsheetmusic_74</identifier><datestamp>2014-10-10T12:40:50Z</datestamp><setSpec>bklynsheetmusic_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Born and Bred in Brooklyn (Over the Bridge)</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>M. Witmark &amp; Sons</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Color illustration of a woman (wearing pearls and a hat) standing in front of city skyline and the Brooklyn Bridge. Photograph of George M. Cohan. List of songs from the show and their prices listed on cover. Operatic edition emblem in lower left corner.</abstract>
+  <genre authority="lctgm">Sheet music covers</genre>
+  <identifier type="local">sm0050</identifier>
+  <accessCondition type="use and reproduction">While many images in the Brooklyn Collection are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The end user assumes all responsibility for copyright questions.</accessCondition>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Brooklyn Sheet Music Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>Brooklyn Public Library, Brooklyn Collection</physicalLocation>
+  </location>
+  <note>George M. Cohan's Comedians in the New American Song and Dance Show, "The Rise of Rosie O'Reilly." For voice and piano.</note>
+  <note>Composer: Cohan, George M. (George Michael), 1878-1942</note>
+  <note>Lyricist: Cohan, George M. (George Michael), 1878-1942</note>
+  <subject authority="lcsh">
+    <topic>United States--New York (State)--New York--Brooklyn</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Music publishing industry</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Musical theater--Excerpts--Vocal scores with piano</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Waltzes</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Songs with piano</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Popular music--1921-1930</topic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <typeOfResource>text</typeOfResource>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <originInfo>
+    <publisher>M. Witmark &amp; Sons</publisher>
+    <place>
+      <placeTerm type="text">New York</placeTerm>
+    </place>
+    <dateIssued encoding="iso8601">1923</dateIssued>
+  </originInfo>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/bklynsheetmusic%3A74</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:bklynsheetmusic_47</identifier><datestamp>2014-10-10T12:40:33Z</datestamp><setSpec>bklynsheetmusic_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>The Sterling March and Two-Step</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Sterling Piano Co.</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Stylized text, "Founder of the Sterling Co. in 1860" underneath a black and white portrait of Chas A. Sterling. Illustrations of wreaths with ribbons amongst a faded pale purple background.</abstract>
+  <genre authority="lctgm">Sheet music covers</genre>
+  <identifier type="local">sm0035</identifier>
+  <accessCondition type="use and reproduction">While many images in the Brooklyn Collection are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The end user assumes all responsibility for copyright questions.</accessCondition>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Brooklyn Sheet Music Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>Brooklyn Public Library, Brooklyn Collection</physicalLocation>
+  </location>
+  <note>Publisher street address: 518-520 Fulton Street</note>
+  <note>Two-step.</note>
+  <note>Composer: Fry, William H.</note>
+  <relatedItem xlink:href="http://eagle.brooklynpubliclibrary.org/Repository/ml.asp?Ref=QkVHLzE5MDAvMDMvMjUjQXIwMTIwNg==&amp;Mode=Gif&amp;Locale=english-skin-custom"/>
+  <relatedItem xlink:href="http://eagle.brooklynpubliclibrary.org/Repository/ml.asp?Issue=BEG/1902/10/12&amp;ID=Ad02211&amp;Mode=Gif"/>
+  <subject authority="lcsh">
+    <topic>United States--New York (State)--New York--Brooklyn</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Music publishing industry</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Marches (Piano)</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Piano music</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Dance music</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Popular music--1901-1910</topic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <typeOfResource>text</typeOfResource>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <originInfo>
+    <publisher>Sterling Piano Co.</publisher>
+    <place>
+      <placeTerm type="text">Brooklyn</placeTerm>
+    </place>
+    <dateIssued encoding="iso8601">1909</dateIssued>
+  </originInfo>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/bklynsheetmusic%3A47</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:bklynsheetmusic_5</identifier><datestamp>2014-10-10T12:40:05Z</datestamp><setSpec>bklynsheetmusic_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Peeking thro' the Bars</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Anderson, Frank P.</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Illustration of farm with animals and a woman drawing water from a well.  An elegantly dressed young woman is standing by a fence in the foreground. Stylized text resembles tree branches.</abstract>
+  <genre authority="lctgm">Sheet music covers</genre>
+  <identifier type="local">sm0009</identifier>
+  <accessCondition type="use and reproduction">While many images in the Brooklyn Collection are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The end user assumes all responsibility for copyright questions.</accessCondition>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Brooklyn Sheet Music Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>Brooklyn Public Library, Brooklyn Collection</physicalLocation>
+  </location>
+  <note>Publisher street address: 298 Fulton Street</note>
+  <note>Respectfully Dedicated to the Williamsburgh Athletic Club, Brooklyn, N.Y. Song and chorus. For voice and piano. Composer is also author of "Swinging in the Lane."</note>
+  <note>Composer: Sawyer, Charles Carroll</note>
+  <note>Lyricist: Sawyer, Charles Carroll</note>
+  <relatedItem xlink:href="http://eagle.brooklynpubliclibrary.org/Repository/ml.asp?Issue=BEG/1884/11/26&amp;ID=Ar00302&amp;Mode=Gif"/>
+  <subject authority="lcsh">
+    <topic>United States--New York (State)--New York--Brooklyn</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Music publishing industry</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Popular music--To 1901</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Songs with piano</topic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <typeOfResource>text</typeOfResource>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <originInfo>
+    <publisher>Frank P. Anderson</publisher>
+    <place>
+      <placeTerm type="text">Brooklyn</placeTerm>
+    </place>
+    <dateIssued encoding="iso8601">1884</dateIssued>
+  </originInfo>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/bklynsheetmusic%3A5</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:bklynsheetmusic_28</identifier><datestamp>2014-10-10T12:40:21Z</datestamp><setSpec>bklynsheetmusic_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Second Battalion March</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>National Music Company</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Stylized dark pink text, "The Battalion photographed at Sands Point, L.I. Sunday duty 25.97." Illustrations of a rope and anchor surround a black and white photograph of the 2nd Naval Battalion in full uniform on the beach at Sands Point.</abstract>
+  <genre authority="lctgm">Sheet music covers</genre>
+  <identifier type="local">sm0024</identifier>
+  <accessCondition type="use and reproduction">While many images in the Brooklyn Collection are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The end user assumes all responsibility for copyright questions.</accessCondition>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Brooklyn Sheet Music Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>Brooklyn Public Library, Brooklyn Collection</physicalLocation>
+  </location>
+  <note>Publisher street address: 266-268 Wabash Avenue</note>
+  <note>Dedicated to the Officers' and Seamen of the 2nd Naval Battalion of Brooklyn, NY. Additional publisher: London, Chas Sheard &amp; Co.</note>
+  <note>Composer: Gillis, Frank R.</note>
+  <relatedItem xlink:href="http://eagle.brooklynpubliclibrary.org/Repository/ml.asp?Ref=QkVHLzE4OTcvMDYvMTUjQXIwMDMwMA==&amp;Mode=Gif&amp;Locale=english-skin-custom"/>
+  <subject authority="lcsh">
+    <topic>United States--New York (State)--New York--Brooklyn</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Music publishing industry</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Marches (Piano)</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Piano music</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Popular music--To 1901</topic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <typeOfResource>text</typeOfResource>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <originInfo>
+    <publisher>National Music Company</publisher>
+    <place>
+      <placeTerm type="text">Chicago</placeTerm>
+    </place>
+    <dateIssued encoding="iso8601">1897</dateIssued>
+  </originInfo>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/bklynsheetmusic%3A28</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:bklynsheetmusic_30</identifier><datestamp>2014-10-10T12:40:22Z</datestamp><setSpec>bklynsheetmusic_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Brooklyn's March [Opus 79]</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Luciano Conterno &amp; Sons</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Dark red decorative flourishes and stylized text, " As performed by Conterno's Famous Concert Band." Signed purple-toned photograph featuring G. E. Conterno in uniform holding a conductor's baton.</abstract>
+  <genre authority="lctgm">Sheet music covers</genre>
+  <identifier type="local">sm0025</identifier>
+  <accessCondition type="use and reproduction">While many images in the Brooklyn Collection are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The end user assumes all responsibility for copyright questions.</accessCondition>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Brooklyn Sheet Music Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>Brooklyn Public Library, Brooklyn Collection</physicalLocation>
+  </location>
+  <note>Publisher street address: 2 West 14th Street</note>
+  <note>Cordially inscribed to the citizens of Brooklyn. For voice and piano.</note>
+  <note>Composer: Conterno, G. E.</note>
+  <note>Lyricist: Irving, Minnie</note>
+  <relatedItem xlink:href="http://eagle.brooklynpubliclibrary.org/Repository/ml.asp?Ref=QkVHLzE4ODcvMTAvMjMjQXIwMTM1OA==&amp;Mode=Gif&amp;Locale=english-skin-custom"/>
+  <subject authority="lcsh">
+    <topic>United States--New York (State)--New York--Brooklyn</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Music publishing industry</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Marches (Voice with piano)</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Songs with piano</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Popular music--To 1901</topic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <typeOfResource>text</typeOfResource>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <originInfo>
+    <publisher>Luciano Conterno &amp; Sons</publisher>
+    <place>
+      <placeTerm type="text">New York</placeTerm>
+    </place>
+    <dateIssued encoding="iso8601">1898</dateIssued>
+  </originInfo>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/bklynsheetmusic%3A30</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:bklynsheetmusic_20</identifier><datestamp>2014-10-10T12:40:16Z</datestamp><setSpec>bklynsheetmusic_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>The Brooklyn Society Two-Step</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Raasch, H.</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Photograph of James Pringle, in formal wear, standing in front of a chair with his hand on a book. Photo is signed, "Yours truly, James Pringle." Stylized text with decorative drawings in purple font. Stamped with a number 5.</abstract>
+  <genre authority="lctgm">Sheet music covers</genre>
+  <identifier type="local">sm0019</identifier>
+  <accessCondition type="use and reproduction">While many images in the Brooklyn Collection are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The end user assumes all responsibility for copyright questions.</accessCondition>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Brooklyn Sheet Music Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>Brooklyn Public Library, Brooklyn Collection</physicalLocation>
+  </location>
+  <note>Publisher street address: 105 East 14th Street</note>
+  <note>Two step. Dedicated to Mr. James Pringle - The great master of ceremonies. Photo by Richards' Studio, N.Y.</note>
+  <note>Composer: Fitzsimons, W. A.</note>
+  <relatedItem xlink:href="http://eagle.brooklynpubliclibrary.org/Repository/ml.asp?Ref=QkVHLzE4OTUvMTEvMDEjQXIwMDYwMA==&amp;Mode=Gif&amp;Locale=english-skin-custom"/>
+  <subject authority="lcsh">
+    <topic>United States--New York (State)--New York--Brooklyn</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Music publishing industry</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Piano music</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Dance music</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Popular music--To 1901</topic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <typeOfResource>text</typeOfResource>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <originInfo>
+    <publisher>H. Raasch</publisher>
+    <place>
+      <placeTerm type="text">New York</placeTerm>
+    </place>
+    <dateIssued encoding="iso8601">1895</dateIssued>
+  </originInfo>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/bklynsheetmusic%3A20</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:bklynsheetmusic_25</identifier><datestamp>2014-10-10T12:40:18Z</datestamp><setSpec>bklynsheetmusic_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Try These on Your Piano [advertisement]</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Kiesling, S. G.</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Back cover of Bergen Beach Schottisch. Advertisement featuring sample sheet music in blue including the songs: Hindoo Polka Brillante, Oxford Berlin, The Black Diamond Yorke and Cyclone Echoes.</abstract>
+  <identifier type="local">sm0022</identifier>
+  <accessCondition type="use and reproduction">While many images in the Brooklyn Collection are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The end user assumes all responsibility for copyright questions.</accessCondition>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Brooklyn Sheet Music Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>Brooklyn Public Library, Brooklyn Collection</physicalLocation>
+  </location>
+  <note>Publisher street address: 1035 Gates Avenue</note>
+  <note>Back cover advertisement.</note>
+  <relatedItem xlink:href="http://eagle.brooklynpubliclibrary.org/Repository/ml.asp?Ref=QkVHLzE4NTAvMDkvMTMjQXIwMDIxNA==&amp;Mode=Gif&amp;Locale=english-skin-custom"/>
+  <genre authority="lctgm">Sheet music covers</genre>
+  <genre authority="lctgm">Advertisements</genre>
+  <subject authority="lcsh">
+    <topic>United States--New York (State)--New York--Brooklyn</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Music publishing industry</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Advertising</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Sheet music</topic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <typeOfResource>text</typeOfResource>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <originInfo>
+    <publisher>S. G. Kiesling</publisher>
+    <place>
+      <placeTerm type="text">Brooklyn</placeTerm>
+    </place>
+    <dateIssued encoding="iso8601">1896</dateIssued>
+  </originInfo>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/bklynsheetmusic%3A25</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:bklynsheetmusic_19</identifier><datestamp>2014-10-10T12:40:15Z</datestamp><setSpec>bklynsheetmusic_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Read The Brooklyn Citizen [advertisement]</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Brooklyn Citizen</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Back cover of Brooklyn Citizen March advertising the newspaper, The Brooklyn Citizen. Sample text, "Read The Brooklyn Citizen today, tomorrow and all the time if you wish to keep in touch with the news of the day. Daily, 2 Cents. Sunday 3 Cents."</abstract>
+  <identifier type="local">sm0018</identifier>
+  <accessCondition type="use and reproduction">While many images in the Brooklyn Collection are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The end user assumes all responsibility for copyright questions.</accessCondition>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Brooklyn Sheet Music Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>Brooklyn Public Library, Brooklyn Collection</physicalLocation>
+  </location>
+  <note>Back cover advertisement</note>
+  <genre authority="lctgm">Sheet music covers</genre>
+  <genre authority="lctgm">Advertisements</genre>
+  <subject authority="lcsh">
+    <topic>United States--New York (State)--New York--Brooklyn</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Music publishing industry</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Advertising</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Newspapers</topic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <typeOfResource>text</typeOfResource>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <originInfo>
+    <publisher>Brooklyn Citizen</publisher>
+    <place>
+      <placeTerm type="text">Brooklyn</placeTerm>
+    </place>
+    <dateIssued encoding="iso8601">1894</dateIssued>
+  </originInfo>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/bklynsheetmusic%3A19</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:bklynsheetmusic_33</identifier><datestamp>2014-10-10T12:40:23Z</datestamp><setSpec>bklynsheetmusic_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Alphonzo Smith Offers His Large and Extensive Assortment of Piano-Fortes and Organs of All the Leading Makers [advertisement]</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Smith, Alphonzo</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Back cover of Shew Fly Polka Redowa. Illustration of piano on green paper with text, "..the celebrated "Wheelock" piano-fortes and world renowned "Estey" organs. Extremely low for cash or from $5 to $10 monthly until fully paid.."</abstract>
+  <note type="dateuncontrolled">1869 [1888]</note>
+  <identifier type="local">sm0002</identifier>
+  <accessCondition type="use and reproduction">While many images in the Brooklyn Collection are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The end user assumes all responsibility for copyright questions.</accessCondition>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Brooklyn Sheet Music Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>Brooklyn Public Library, Brooklyn Collection</physicalLocation>
+  </location>
+  <note>Publisher street address: 298 and 300 Washington Street</note>
+  <note>Back cover featuring advertisement of Alphonzo Smith music store, 569 Fulton Street, Brooklyn, NY.</note>
+  <genre authority="lctgm">Sheet music covers</genre>
+  <genre authority="lctgm">Advertisements</genre>
+  <relatedItem xlink:href="http://fulton.brooklynpubliclibrary.org/detail.asp?card=fc-0243"/>
+  <relatedItem xlink:href="http://eagle.brooklynpubliclibrary.org/Repository/ml.asp?Issue=BEG/1892/10/01&amp;ID=Ar01230&amp;Mode=Gif"/>
+  <subject authority="lcsh">
+    <topic>United States--New York (State)--New York--Brooklyn</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Music publishing industry</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Musical instruments</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Organ (Musical instrument)</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Piano</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Music stores</topic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <typeOfResource>text</typeOfResource>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <originInfo>
+    <publisher>White, Smith &amp; Perry</publisher>
+    <place>
+      <placeTerm type="text">Boston</placeTerm>
+    </place>
+  </originInfo>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/bklynsheetmusic%3A33</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:bklynsheetmusic_53</identifier><datestamp>2014-10-10T12:40:36Z</datestamp><setSpec>bklynsheetmusic_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Put Your Arms Around Me, Honey</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Broadway Music Corporation</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Pink cover with photographs of George Montgomery, Cesar Romero and Betty Grable. Text, "In the 20th Century-Fox picture Coney Island. In Technicolor. Decca Record #4337 by Dick Kuhn and his Orchestra. Buy United States War Savings Bonds and Stamps."</abstract>
+  <genre authority="lctgm">Sheet music covers</genre>
+  <identifier type="local">sm0038</identifier>
+  <accessCondition type="use and reproduction">While many images in the Brooklyn Collection are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The end user assumes all responsibility for copyright questions.</accessCondition>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Brooklyn Sheet Music Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>Brooklyn Public Library, Brooklyn Collection</physicalLocation>
+  </location>
+  <note>Publisher street address: 1619 Broadway</note>
+  <note>From the motion picture, Coney Island, With Charles Winninger, Phil Silvers. Directed by Walter Lang, produced by William Perlberg. Original screenplay by George Seaton.. Sung by Betty Grable. For voice and piano, also includes guitar chord diagrams.</note>
+  <note>Composer: Von Tilzer, Albert</note>
+  <note>Lyricist: McCree, Junie</note>
+  <subject authority="lcsh">
+    <topic>United States--New York (State)--New York--Brooklyn</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Music publishing industry</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Motion picture music--Excerpts--Vocal scores with piano</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Popular music--1901-1910</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Songs with piano</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Love--Songs and music</topic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <typeOfResource>text</typeOfResource>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <originInfo>
+    <publisher>Broadway Music Corporation</publisher>
+    <place>
+      <placeTerm type="text">New York</placeTerm>
+    </place>
+    <dateIssued encoding="iso8601">1910</dateIssued>
+  </originInfo>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/bklynsheetmusic%3A53</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:bklynsheetmusic_61</identifier><datestamp>2014-10-10T12:40:41Z</datestamp><setSpec>bklynsheetmusic_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>The New Arcadia Waltz</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Waillant, Louis</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Purple-toned interior photograph of the Arcadia Ballroom surrounded by purple decorative border. Text, "The sensational hit as played by the Arcadia Orchestra. Price 50 Cents."</abstract>
+  <genre authority="lctgm">Sheet music covers</genre>
+  <identifier type="local">sm0042</identifier>
+  <accessCondition type="use and reproduction">While many images in the Brooklyn Collection are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The end user assumes all responsibility for copyright questions.</accessCondition>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Brooklyn Sheet Music Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>Brooklyn Public Library, Brooklyn Collection</physicalLocation>
+  </location>
+  <note>Publisher street address: 212 Ten Eyck Street</note>
+  <note>Dedicated to Sidney S. Cohen, Esq. Composer: "G.S."</note>
+  <relatedItem xlink:href="http://eagle.brooklynpubliclibrary.org/Repository/ml.asp?Ref=QkVHLzE4OTkvMTAvMjMjQXIwMDEwOQ==&amp;Mode=Gif&amp;Locale=english-skin-custom"/>
+  <subject authority="lcsh">
+    <topic>United States--New York (State)--New York--Brooklyn</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Music publishing industry</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Waltzes</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Piano music</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Dance music</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Popular music--1911-1920</topic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <typeOfResource>text</typeOfResource>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <originInfo>
+    <publisher>Louis Waillant</publisher>
+    <place>
+      <placeTerm type="text">Brooklyn</placeTerm>
+    </place>
+    <dateIssued encoding="iso8601">1913</dateIssued>
+  </originInfo>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/bklynsheetmusic%3A61</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:bklynsheetmusic_10</identifier><datestamp>2014-10-10T12:40:09Z</datestamp><setSpec>bklynsheetmusic_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Sheepshead Bay</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Woodward, Willis &amp; Co.</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Stylized text with decorative details.</abstract>
+  <genre authority="lctgm">Sheet music covers</genre>
+  <identifier type="local">sm0013</identifier>
+  <accessCondition type="use and reproduction">While many images in the Brooklyn Collection are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The end user assumes all responsibility for copyright questions.</accessCondition>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Brooklyn Sheet Music Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>Brooklyn Public Library, Brooklyn Collection</physicalLocation>
+  </location>
+  <note>Publisher street address: 842 &amp; 844 Broadway</note>
+  <note>Dedicated to The Ladies of New York. Song &amp; chorus for voice and piano.</note>
+  <note>Composer: French, Edwin</note>
+  <note>Lyricist: French, Edwin</note>
+  <relatedItem xlink:href="http://eagle.brooklynpubliclibrary.org/Repository/ml.asp?Issue=BEG/1880/05/24&amp;ID=Ar00102&amp;Mode=Gif"/>
+  <relatedItem xlink:href="http://eagle.brooklynpubliclibrary.org/Repository/ml.asp?Issue=BEG/1900/09/27&amp;ID=Ar00102&amp;Mode=Gif"/>
+  <subject authority="lcsh">
+    <topic>United States--New York (State)--New York--Brooklyn</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Music publishing industry</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Songs with piano</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Sheepshead Bay (New York, N.Y.)</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Popular music--To 1901</topic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <typeOfResource>text</typeOfResource>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <originInfo>
+    <publisher>Willis Woodward &amp; Co.</publisher>
+    <place>
+      <placeTerm type="text">New York</placeTerm>
+    </place>
+    <dateIssued encoding="iso8601">1890</dateIssued>
+  </originInfo>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/bklynsheetmusic%3A10</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:bklynsheetmusic_17</identifier><datestamp>2014-10-10T12:40:14Z</datestamp><setSpec>bklynsheetmusic_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Army and Navy Waltzes</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Held, Chas. W.</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Stylized text with decorative flourishes enclosed in border, "Pr. 50¢."</abstract>
+  <genre authority="lctgm">Sheet music covers</genre>
+  <identifier type="local">sm0017</identifier>
+  <accessCondition type="use and reproduction">While many images in the Brooklyn Collection are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The end user assumes all responsibility for copyright questions.</accessCondition>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Brooklyn Sheet Music Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>Brooklyn Public Library, Brooklyn Collection</physicalLocation>
+  </location>
+  <note>Respectfully dedicated to The Brooklyn Daily Times. For piano. Additional publishers: New York, C.H. Ditson &amp; Co.; Boston, Oliver Ditson Co.; Chicago, Lyon &amp; Healy; Milwaukee, Wm. Rohlfing &amp; Sons.</note>
+  <note>Composer: Moore, Grant S.</note>
+  <relatedItem xlink:href="http://eagle.brooklynpubliclibrary.org/Repository/ml.asp?Ref=QkVHLzE4OTkvMDkvMTAjQXIwMDUwNQ==&amp;Mode=Gif&amp;Locale=english-skin-custom"/>
+  <relatedItem xlink:href="http://eagle.brooklynpubliclibrary.org/Repository/ml.asp?Issue=BEG/1894/04/22&amp;ID=Ar00513&amp;Mode=Gif"/>
+  <subject authority="lcsh">
+    <topic>United States--New York (State)--New York--Brooklyn</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Music publishing industry</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Waltzes</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Piano music</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Dance music</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Popular music--To 1901</topic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <typeOfResource>text</typeOfResource>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <originInfo>
+    <publisher>Chas. W. Held</publisher>
+    <place>
+      <placeTerm type="text">Brooklyn</placeTerm>
+    </place>
+    <dateIssued encoding="iso8601">1894</dateIssued>
+  </originInfo>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/bklynsheetmusic%3A17</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:bklynsheetmusic_62</identifier><datestamp>2014-10-10T12:40:42Z</datestamp><setSpec>bklynsheetmusic_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Der Schwerd Fin Blut Und Treiren [The Sword of Blood and Tears]</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Star Music Publishing Co.</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Sepia photograph of Jacob P. Adler with the words, "As he is to-day." Text, "As sung with great success by the greatest living Jewish Tragedian. In his foremost production 'The War Victims' at the Liberty Theatre." Title in Latin and Hebrew alphabets.</abstract>
+  <genre authority="lctgm">Sheet music covers</genre>
+  <identifier type="local">sm0043</identifier>
+  <accessCondition type="use and reproduction">While many images in the Brooklyn Collection are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The end user assumes all responsibility for copyright questions.</accessCondition>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Brooklyn Sheet Music Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>Brooklyn Public Library, Brooklyn Collection</physicalLocation>
+  </location>
+  <note>Publisher street address: 194 Avenue B</note>
+  <note>Song from "The War Victims." For voice and piano. Schwerd, shverd and shwerd are variation spellings.</note>
+  <note>Composer: Spector, Nathan</note>
+  <note>Lyricist: Chramoy, David</note>
+  <subject authority="lcsh">
+    <topic>United States--New York (State)--New York--Brooklyn</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Music publishing industry</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Songs with piano</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Songs, Yiddish</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Musical theater--Excerpts--Vocal scores with piano</topic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <typeOfResource>text</typeOfResource>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <originInfo>
+    <publisher>Star Music Publishing Co.</publisher>
+    <place>
+      <placeTerm type="text">New York</placeTerm>
+    </place>
+    <dateIssued encoding="iso8601">1915</dateIssued>
+  </originInfo>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/bklynsheetmusic%3A62</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:bklynsheetmusic_42</identifier><datestamp>2014-10-10T12:40:28Z</datestamp><setSpec>bklynsheetmusic_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Mariutch (Make-a the Hootch-a Ma Kootch) Down at Coney Isle</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Von Tilzer, Harry, 1872-1946</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Color illustration on blue background of man with moustache, hoop earring and polka dot scarf standing in front of Coney Island skyline. Red-toned photographs of Eugene and Willie Howard and Harry Von Tilzer at bottom of page.</abstract>
+  <genre authority="lctgm">Sheet music covers</genre>
+  <identifier type="local">sm0032</identifier>
+  <accessCondition type="use and reproduction">While many images in the Brooklyn Collection are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The end user assumes all responsibility for copyright questions.</accessCondition>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Brooklyn Sheet Music Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>Brooklyn Public Library, Brooklyn Collection</physicalLocation>
+  </location>
+  <note>Publisher street address: 37 West 28th Street</note>
+  <note>For voice and piano. Cover art by Gene Buck.</note>
+  <note>Composer: Von Tilzer, Harry, 1872-1946</note>
+  <note>Lyricist: Sterling, Andrew B., b. 1874</note>
+  <relatedItem xlink:href="http://eagle.brooklynpubliclibrary.org/Repository/ml.asp?Ref=QkVHLzE5MDIvMDgvMDIjQXIwMDYwNA==&amp;Mode=Gif&amp;Locale=english-skin-custom"/>
+  <subject authority="lcsh">
+    <topic>United States--New York (State)--New York--Brooklyn</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Music publishing industry</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Popular music--1901-1910</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Songs with piano</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Coney Island (New York, N.Y.)</topic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <typeOfResource>text</typeOfResource>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <originInfo>
+    <publisher>Harry Von Tilzer Music Publishing Co.</publisher>
+    <place>
+      <placeTerm type="text">New York</placeTerm>
+    </place>
+    <dateIssued encoding="iso8601">1907</dateIssued>
+  </originInfo>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/bklynsheetmusic%3A42</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:bklynsheetmusic_2</identifier><datestamp>2014-10-10T12:40:04Z</datestamp><setSpec>bklynsheetmusic_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Strolling on the Brooklyn Bridge</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Saalfield, Richard A.</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Illustration of a woman wearing headdress and hoop earrings surrounded by decorative details and black border. Stamped with, C. Robinson &amp; Co., Music Dealers, Cooper Place, Brooklyn, N.Y.</abstract>
+  <genre authority="lctgm">Sheet music covers</genre>
+  <identifier type="local">sm0007</identifier>
+  <accessCondition type="use and reproduction">While many images in the Brooklyn Collection are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The end user assumes all responsibility for copyright questions.</accessCondition>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Brooklyn Sheet Music Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>Brooklyn Public Library, Brooklyn Collection</physicalLocation>
+  </location>
+  <note>Publisher street address: 12 Bible House</note>
+  <note>For voice and piano.</note>
+  <note>Composer: Skelly, J. P. (Joseph P.), 1853-1895</note>
+  <note>Lyricist: Cooper, George, 1840-1927</note>
+  <subject authority="lcsh">
+    <topic>United States--New York (State)--New York--Brooklyn</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Music publishing industry</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Songs with piano</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Brooklyn Bridge (New York, N.Y.)</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Popular music--To1901</topic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <typeOfResource>text</typeOfResource>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <originInfo>
+    <publisher>Richard A. Saalfield</publisher>
+    <place>
+      <placeTerm type="text">New York</placeTerm>
+    </place>
+    <dateIssued encoding="iso8601">1883</dateIssued>
+  </originInfo>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/bklynsheetmusic%3A2</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:bklynsheetmusic_43</identifier><datestamp>2014-10-10T12:40:29Z</datestamp><setSpec>bklynsheetmusic_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>"When the Flowers Bloom in Spring-time" "Molly Dear" [advertisement]</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Von Tilzer, Harry, 1872-1946</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Back cover of Mariutch (Make-a the Hootch-a Ma Kootch)  Down at Coney Isle. Sample of the sheet music for "When the Flowers Bloom in Spring-time" "Molly Dear."</abstract>
+  <identifier type="local">sm0032</identifier>
+  <accessCondition type="use and reproduction">While many images in the Brooklyn Collection are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The end user assumes all responsibility for copyright questions.</accessCondition>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Brooklyn Sheet Music Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>Brooklyn Public Library, Brooklyn Collection</physicalLocation>
+  </location>
+  <note>Publisher street address: 37 West 28th Street</note>
+  <note>Back cover advertisement.</note>
+  <note>Composer: Von Tilzer, Harry, 1872-1946</note>
+  <note>Lyricist: Sterling, Andrew B., b. 1874</note>
+  <genre authority="lctgm">Sheet music covers</genre>
+  <genre authority="lctgm">Advertisements</genre>
+  <subject authority="lcsh">
+    <topic>United States--New York (State)--New York--Brooklyn</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Music publishing industry</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Advertising</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Sheet music</topic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <typeOfResource>text</typeOfResource>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <originInfo>
+    <publisher>Harry Von Tilzer Music Publishing Co.</publisher>
+    <place>
+      <placeTerm type="text">New York</placeTerm>
+    </place>
+    <dateIssued encoding="iso8601">1907</dateIssued>
+  </originInfo>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/bklynsheetmusic%3A43</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:bklynsheetmusic_23</identifier><datestamp>2014-10-10T12:40:17Z</datestamp><setSpec>bklynsheetmusic_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>New York and Coney Island Cycle March Two-Step</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Paull, E. T., 1858-1924</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Full color illustration featuring a man and a woman riding bicycles along the Coney Island Fairgrounds. Four bicycles wheels are featured in the corners, each surrounding a different Coney Island attraction. Possibly number 5 in a series.</abstract>
+  <genre authority="lctgm">Sheet music covers</genre>
+  <identifier type="local">sm0021</identifier>
+  <accessCondition type="use and reproduction">While many images in the Brooklyn Collection are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The end user assumes all responsibility for copyright questions.</accessCondition>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Brooklyn Sheet Music Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>Brooklyn Public Library, Brooklyn Collection</physicalLocation>
+  </location>
+  <note>Publisher street address: 44 West 29th Street</note>
+  <note>Additional publishers: Chicago, National Music Co.; New York, C.H. Ditson &amp; Co.; Chicago, Lyon &amp; Healy; Springfield, Mass., A.H. Goetting.</note>
+  <note>Composer: Paull, E. T., 1858-1924</note>
+  <relatedItem xlink:href="http://eagle.brooklynpubliclibrary.org/Repository/ml.asp?Ref=QkVHLzE5MDIvMDIvMDIjQXIwMTAwNQ==&amp;Mode=Gif&amp;Locale=english-skin-custom"/>
+  <subject authority="lcsh">
+    <topic>United States--New York (State)--New York--Brooklyn</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Music publishing industry</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Marches (Piano)</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Dance music</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Coney Island (New York, N.Y.)</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Bicycles--Songs and music</topic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <typeOfResource>text</typeOfResource>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <originInfo>
+    <publisher>E. T. Paul Music Co.</publisher>
+    <place>
+      <placeTerm type="text">New York</placeTerm>
+    </place>
+    <dateIssued encoding="iso8601">1896</dateIssued>
+  </originInfo>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/bklynsheetmusic%3A23</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:bklynsheetmusic_32</identifier><datestamp>2014-10-10T12:40:22Z</datestamp><setSpec>bklynsheetmusic_collection</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <titleInfo>
+    <title>Try These on Your Piano [advertisement]</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Danville Music Co.</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+    </role>
+  </name>
+  <abstract>Back cover of Coney Island March and Two-Step. Advertisement featuring sample sheet music in dark blue for the songs: But I Still Love Her, Only a Little White Rose, First Ben Hur Band March, and Tell Me Why You Do Not Love Me.</abstract>
+  <identifier type="local">sm0026</identifier>
+  <accessCondition type="use and reproduction">While many images in the Brooklyn Collection are unrestricted, we do not own reproduction rights to all materials. Be aware of the several kinds of rights that might apply: copyright, licensing and trademarks. The end user assumes all responsibility for copyright questions.</accessCondition>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Brooklyn Sheet Music Collection</title>
+    </titleInfo>
+  </relatedItem>
+  <location>
+    <physicalLocation>Brooklyn Public Library, Brooklyn Collection</physicalLocation>
+  </location>
+  <note>Back cover advertisement.</note>
+  <genre authority="lctgm">Sheet music covers</genre>
+  <genre authority="lctgm">Advertisements</genre>
+  <subject authority="lcsh">
+    <topic>United States--New York (State)--New York--Brooklyn</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Music publishing industry</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Advertising</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Sheet music</topic>
+  </subject>
+  <typeOfResource>still image</typeOfResource>
+  <typeOfResource>text</typeOfResource>
+  <physicalDescription>
+    <internetMediaType>image/jpeg</internetMediaType>
+    <digitalOrigin>reformatted digital</digitalOrigin>
+  </physicalDescription>
+  <originInfo>
+    <publisher>Danville Music Co.</publisher>
+    <place>
+      <placeTerm type="text">Danville</placeTerm>
+    </place>
+    <dateIssued encoding="iso8601">1899</dateIssued>
+  </originInfo>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/bklynsheetmusic%3A32</identifier>
+</mods>
+</metadata></record><resumptionToken expirationDate="2015-08-13T13:05:10Z" completeListSize="77" cursor="0">968714284</resumptionToken></ListRecords></OAI-PMH>
