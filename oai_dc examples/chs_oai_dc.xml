@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2015-08-13T13:03:21Z</responseDate><request verb="ListRecords" metadataPrefix="oai_dc" set="chs">http://www.hrvh.org/oai/oai.php</request><ListRecords><record><header><identifier>oai:www.hrvh.org:chs/0</identifier><datestamp>2015-07-21</datestamp><setSpec>chs</setSpec></header>
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2015-09-17T15:03:48Z</responseDate><request verb="ListRecords" metadataPrefix="oai_dc" set="chs">http://www.hrvh.org/oai/oai.php</request><ListRecords><record><header><identifier>oai:www.hrvh.org:chs/0</identifier><datestamp>2015-07-21</datestamp><setSpec>chs</setSpec></header>
 <metadata>
 <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
 <dc:title>Map of the Village of East Chester</dc:title>
@@ -6,7 +6,7 @@
 <dc:description>Map of the Village of East Chester. Filed Oct 11, 1841. After the Erie Railroad came throught this section was know as &quot;Chester at the Depot&quot; for a time. Now known as Downtown Chester.  Most of the depot grounds became G.M. Roe Lumber &amp; Coal yard which was leased from the Erie RR.  Many downdown parcels follow the lot lines proposed in this map to this day.  Center Street survives,  Highway became Main Street, turning into Railroad Ave. as it turns up the hill.</dc:description>
 <dc:subject>Maps; Measured drawings;</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
-<dc:format>Map, linen; 18 by 11.5 in. (45.7 x 29.2 x 0 cm)</dc:format>
+<dc:format>Map; linen; 18 by 11.5 in. (45.7 x 29.2 x 0 cm)</dc:format>
 <dc:type>Image; Text</dc:type>
 <dc:identifier>chs-006017</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -26,7 +26,7 @@ Items observed in Station Agent&#x27;s office: Ticket Window to Men&#x27;s Waiti
 <dc:subject>Edwards,  John I.; Marvin, Robert</dc:subject>
 <dc:subject>Erie Railroad</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
-<dc:format>Photograph, Print, 8 by 6 in. (20.3 x 15.2 cm)</dc:format>
+<dc:format>Photograph, Print; 8 by 6 in. (20.3 x 15.2 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-000051</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -53,17 +53,17 @@ Items observed in Station Agent&#x27;s office: Ticket Window to Men&#x27;s Waiti
 <dc:rights>Prior written permission is required for any use of the images in this collection from the Chester Historical Society.</dc:rights>
 <dc:identifier>http://www.hrvh.org/cdm/ref/collection/chs/id/2</dc:identifier></oai_dc:dc>
 </metadata>
-</record><record><header><identifier>oai:www.hrvh.org:chs/3</identifier><datestamp>2015-07-20</datestamp><setSpec>chs</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:chs/3</identifier><datestamp>2015-08-19</datestamp><setSpec>chs</setSpec></header>
 <metadata>
 <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
 <dc:title>Charles &amp; Marie Barrell</dc:title>
+<dc:creator>Herbert and Huesgen Co. (New York, N.Y.)</dc:creator>
 <dc:date>1900?</dc:date>
-<dc:publisher>Hebrert &amp; Huesgen, NYC</dc:publisher>
 <dc:description>Photograph of Charles &amp; Marie Barrell,  Sugar Loaf, NY in front of Walling&#x27;s residence on King&#x27;s Hwy in Sugar Loaf in a simple one horse, sprung carriage.</dc:description>
 <dc:subject>Group portraits;Carriages &amp; coaches;photographs</dc:subject>
 <dc:subject>Barrell, Charles; Barrell, Marie; Walling, George A. and Anna M. Edwards</dc:subject>
 <dc:coverage>Sugar Loaf - Orange County - New York</dc:coverage>
-<dc:format>Photograph, Print, 8 by 5 in. (20.3 x 12.7 cm)</dc:format>
+<dc:format>Photograph, Print; 8 by 5 in. (20.3 x 12.7 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-001009</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -105,7 +105,7 @@ Items observed in Station Agent&#x27;s office: Ticket Window to Men&#x27;s Waiti
 <dc:subject>Group portraits;photographs;Railroad stations</dc:subject>
 <dc:subject>Miss Cuppue; Masters, Raymond; Kerner, Mildred, 1888-1963; O&#x27;Brien, Nellie</dc:subject>
 <dc:coverage>Chester (Town) - Orange County - New York</dc:coverage>
-<dc:format>Photograph, Print, 7 by 6 in. (17.8 x 15.3 cm)</dc:format>
+<dc:format>Photograph, Print; 7 by 6 in. (17.8 x 15.3 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-001048</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -125,7 +125,7 @@ Don lived and worked on the Bairdlea Farm in Sugar Loaf, New York.</dc:descripti
 <dc:subject>Farm life; Farmers; Eggs;photographs</dc:subject>
 <dc:subject>Barrell, Donald Melville, 1883-1986</dc:subject>
 <dc:coverage>Sugar Loaf - Orange County - New York</dc:coverage>
-<dc:format>Photograph, Print, 8 by 10 in. (20.3 x 25.4 cm)</dc:format>
+<dc:format>Photograph, Print; 8 by 10 in. (20.3 x 25.4 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-001010</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -134,18 +134,18 @@ Don lived and worked on the Bairdlea Farm in Sugar Loaf, New York.</dc:descripti
 <dc:rights>Prior written permission is required for any use of the images in this collection from the Chester Historical Society.</dc:rights>
 <dc:identifier>http://www.hrvh.org/cdm/ref/collection/chs/id/6</dc:identifier></oai_dc:dc>
 </metadata>
-</record><record><header><identifier>oai:www.hrvh.org:chs/7</identifier><datestamp>2015-07-20</datestamp><setSpec>chs</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:chs/7</identifier><datestamp>2015-08-19</datestamp><setSpec>chs</setSpec></header>
 <metadata>
 <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-<dc:title>Charles and Marie Barrell at Segal home.</dc:title>
-<dc:publisher>Herbert &amp; Muesgen, NYC</dc:publisher>
+<dc:title>Charles and Marie Barrell at Segal home</dc:title>
+<dc:creator>Herbert and Huesgen Co. (New York, N.Y.)</dc:creator>
 <dc:description>Photograph of Charles and Marie Barrell in simple one horse, sprung carriage, on lawn in front of Segal home off Hen Lane, Sugar Loaf.
   
 Note: The name of Hen Lane was changed to Well Sweep Lane sometime in the mid-twentieth century.</dc:description>
-<dc:subject>Carriages &amp; coaches;Group portraits;Photographs</dc:subject>
-<dc:subject>Barrell, Charles; Barrell, Marie; Segal</dc:subject>
+<dc:subject>Carriages &amp; coaches; Group portraits; Photographs</dc:subject>
+<dc:subject>Barrell, Charles; Barrell, Marie;</dc:subject>
 <dc:coverage>Sugar Loaf - Orange County - New York</dc:coverage>
-<dc:format>Photograph, Print, 10 by 8 in. (25.4 x 20.3 cm)</dc:format>
+<dc:format>Photograph, Print; 10 by 8 in. (25.4 x 20.3 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-001053</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -164,7 +164,7 @@ Note: The name of Hen Lane was changed to Well Sweep Lane sometime in the mid-tw
 Note: Buildings on the right foreground are on Hen Lane, now known as Well Sweep Lane.</dc:description>
 <dc:subject>Farms; Valleys; Views;photographs</dc:subject>
 <dc:coverage>Sugar Loaf - Orange County - New York</dc:coverage>
-<dc:format>Photograph, Print, 10 by 8 in. (25.4 x 20.3 cm)</dc:format>
+<dc:format>Photograph, Print; 10 by 8 in. (25.4 x 20.3 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-001052</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -181,7 +181,7 @@ Note: Buildings on the right foreground are on Hen Lane, now known as Well Sweep
 <dc:description>Sugar Loaf Mountain West Face.  This photograph was probably taken from Mine Hill.</dc:description>
 <dc:subject>Views; Mountains;photographs</dc:subject>
 <dc:coverage>Sugar Loaf - Orange County - New York</dc:coverage>
-<dc:format>Photograph, Print, 7 by 5 in. (17.8 x 12.7 cm)</dc:format>
+<dc:format>Photograph, Print; 7 by 5 in. (17.8 x 12.7 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-001059</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -190,16 +190,16 @@ Note: Buildings on the right foreground are on Hen Lane, now known as Well Sweep
 <dc:rights>Prior written permission is required for any use of the images in this collection from the Chester Historical Society.</dc:rights>
 <dc:identifier>http://www.hrvh.org/cdm/ref/collection/chs/id/9</dc:identifier></oai_dc:dc>
 </metadata>
-</record><record><header><identifier>oai:www.hrvh.org:chs/10</identifier><datestamp>2007-08-25</datestamp><setSpec>chs</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:chs/10</identifier><datestamp>2015-08-19</datestamp><setSpec>chs</setSpec></header>
 <metadata>
 <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-<dc:title>Emma Wood.</dc:title>
+<dc:title>Emma Wood</dc:title>
 <dc:date>1870?</dc:date>
 <dc:description>Ferrotype of Emma Wood in paper sleeve.</dc:description>
-<dc:subject>Portrait photographs;photographs;Tintypes</dc:subject>
+<dc:subject>Portrait photographs; Photographs; Tintypes</dc:subject>
 <dc:subject>Wood, Emma</dc:subject>
 <dc:coverage>Chester (Town) - Orange County - New York</dc:coverage>
-<dc:format>Photograph, Ferrotype in pink paper sleeve, 2.5 by 3.75 by  in. (6.3 x 9.5 x  cm)</dc:format>
+<dc:format>Photograph, Ferrotype in pink paper sleeve; 2.5 by 3.75 by  in. (6.3 x 9.5 x  cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-001062</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -240,7 +240,7 @@ Morris Cullen is second from left.</dc:description>
 <dc:subject>Cullen, Morris</dc:subject>
 <dc:subject>Cullen&#x27;s Paper Store</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
-<dc:format>Photograph, Print, 5 by 3.5 in. (12.7 x 8.9 cm)</dc:format>
+<dc:format>Photograph, Print; 5 by 3.5 in. (12.7 x 8.9 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-001410</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -258,7 +258,7 @@ Morris Cullen is second from left.</dc:description>
 <dc:subject>Brooks Carriage &amp; Sleigh Factory</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Business &amp; Industry; Transportation;</dc:subject>
-<dc:format>Photograph, Print, 7 by 5 in. (17.8 x 12.7 cm)</dc:format>
+<dc:format>Photograph, Print; 7 by 5 in. (17.8 x 12.7 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-001418</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -297,7 +297,7 @@ A portion of the Yelverton Inn is visible on the far right.</dc:description>
 <dc:subject>Dry goods stores; Photographic studios;photographs</dc:subject>
 <dc:subject>Durland&#x27;s Store, Razey&#x27;s Photography Studio</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
-<dc:format>Photograph, print, 7 by 5 in. (17.8 x 12.7 cm)</dc:format>
+<dc:format>Photograph, Print; 7 by 5 in. (17.8 x 12.7 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-001438</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -315,7 +315,7 @@ A portion of the Yelverton Inn is visible on the far right.</dc:description>
 <dc:subject>Streets; Houses;dwellings;photographs</dc:subject>
 <dc:subject>Hadley, Jesse (Bump) F., 1874-1944</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
-<dc:format>Photograph, Print, 5 by 4 in. (12.7 x 10.2 cm)</dc:format>
+<dc:format>Photograph, Print; 5 by 4 in. (12.7 x 10.2 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-001540</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -334,7 +334,7 @@ A portion of the Yelverton Inn is visible on the far right.</dc:description>
 <dc:subject>Littell&#x27;s Store &amp; Post Office</dc:subject>
 <dc:coverage>Greycourt - Orange County - New York</dc:coverage>
 <dc:subject>Architecture</dc:subject>
-<dc:format>Photograph, Print, 7 by 5 in. (17.8 x 12.7 cm)</dc:format>
+<dc:format>Photograph, Print; 7 by 5 in. (17.8 x 12.7 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-001568</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -354,7 +354,7 @@ A portion of the Yelverton Inn is visible on the far right.</dc:description>
 <dc:subject>Brook Farm</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Community &amp; Events</dc:subject>
-<dc:format>Photograph, Print, 5 by 3.2 in. (12.7 x 8.3 cm)</dc:format>
+<dc:format>Photograph, Print; 5 by 3.2 in. (12.7 x 8.3 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:format>image/jpeg</dc:format>
 <dc:relation>People</dc:relation>
@@ -373,7 +373,7 @@ A portion of the Yelverton Inn is visible on the far right.</dc:description>
 <dc:subject>Brook Farm</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Community &amp; Events</dc:subject>
-<dc:format>Photograph, Print, 2.5 by 4.25 in. (6.35 x 10.8 cm)</dc:format>
+<dc:format>Photograph, Print; 2.5 by 4.25 in. (6.35 x 10.8 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-001572</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -382,18 +382,19 @@ A portion of the Yelverton Inn is visible on the far right.</dc:description>
 <dc:rights>Prior written permission is required for any use of the images in this collection from the Chester Historical Society.</dc:rights>
 <dc:identifier>http://www.hrvh.org/cdm/ref/collection/chs/id/19</dc:identifier></oai_dc:dc>
 </metadata>
-</record><record><header><identifier>oai:www.hrvh.org:chs/20</identifier><datestamp>2007-08-25</datestamp><setSpec>chs</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:chs/20</identifier><datestamp>2015-08-19</datestamp><setSpec>chs</setSpec></header>
 <metadata>
 <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-<dc:title>Martha Bailey, Marie Wilken &amp; Nan Wilken Gallo.</dc:title>
+<dc:title>Martha Bailey, Marie Wilken &amp; Nan Wilken Gallo</dc:title>
 <dc:date>1949-05-05</dc:date>
 <dc:description>Photograph of Martha Bailey,  Mrs. Fred Wilkin (Marie) and 
-Nan Wilkin Gallo in period costumes at the Hambletonian 100th Birthday Parade, in downtown Main Street, Chester.</dc:description>
-<dc:subject>Group portraits; Harness racing;photographs</dc:subject>
+Nan Wilkin Gallo in period costumes at the Hambletonian 100th Birthday Parade, in downtown Main Street, Chester.
+</dc:description>
+<dc:subject>Group portraits; Harness racing; Photographs</dc:subject>
 <dc:subject>Bailey, Martha; Gallo, Anne Marie (Nan) Wilkin, 1921-1986;  Wilkin, Mrs. Fred (Marie)</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Community &amp; Events</dc:subject>
-<dc:format>Photograph, Print, 5 by 3.5 in. (12.7 x 8.9 cm)</dc:format>
+<dc:format>Photograph, Print; 5 by 3.5 in. (12.7 x 8.9 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-001573</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -412,7 +413,7 @@ Nan Wilkin Gallo in period costumes at the Hambletonian 100th Birthday Parade, i
 <dc:subject>Portrait photographs</dc:subject>
 <dc:subject>Wood, Hannah M., 1833-1914</dc:subject>
 <dc:coverage>Chester (Town) - Orange County - New York</dc:coverage>
-<dc:format>Photograph, Print, 4 by 6.5 in. (10.2 x 16.5 cm)</dc:format>
+<dc:format>Photograph, Print; 4 by 6.5 in. (10.2 x 16.5 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-001582</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -431,7 +432,7 @@ Nan Wilkin Gallo in period costumes at the Hambletonian 100th Birthday Parade, i
 <dc:subject>Vero, Sam</dc:subject>
 <dc:subject>Veros Shoe Repair</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
-<dc:format>Photograph, Print, 5 by 3.5 in. (12.7 x 8.9 cm)</dc:format>
+<dc:format>Photograph, Print; 5 by 3.5 in. (12.7 x 8.9 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-001434</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -460,12 +461,12 @@ George H. Brooks moved from Sterling Furnace to Sugar Loaf in 1885, and operated
 <dc:rights>Prior written permission is required for any use of the images in this collection from the Chester Historical Society.</dc:rights>
 <dc:identifier>http://www.hrvh.org/cdm/ref/collection/chs/id/23</dc:identifier></oai_dc:dc>
 </metadata>
-</record><record><header><identifier>oai:www.hrvh.org:chs/24</identifier><datestamp>2006-10-13</datestamp><setSpec>chs</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:chs/24</identifier><datestamp>2015-08-19</datestamp><setSpec>chs</setSpec></header>
 <metadata>
 <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
 <dc:title>Bodle&#x27;s Opera House Programme</dc:title>
 <dc:date>1889-02-19</dc:date>
-<dc:publisher>News Print, Chester, N. Y.</dc:publisher>
+<dc:contributor>News Print (Chester, N.Y.)</dc:contributor>
 <dc:description>Program for Chester Cornet Band Concert at Bodle&#x27;s Opera House, Main Street, Chester on Tuesday Evening,  Feb. 19th, 1889.</dc:description>
 <dc:subject>Programs;</dc:subject>
 <dc:subject>Conklin, Restcome P.; Miss Durland; Duryea, Alice; Miller, May; Taylor, Nathan S.</dc:subject>
@@ -498,7 +499,7 @@ $2.40
 <dc:subject>Thompson&#x27;s Drug Store</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Government</dc:subject>
-<dc:format>Document, Official, 11 by 7 in. (28 x 17.8 cm)</dc:format>
+<dc:format>Document, Official; 11 by 7 in. (28 x 17.8 cm)</dc:format>
 <dc:source>W. S. Durland Collection</dc:source>
 <dc:type>Text</dc:type>
 <dc:identifier>chs-002235</dc:identifier>
@@ -508,7 +509,7 @@ $2.40
 <dc:rights>Prior written permission is required for any use of the images in this collection from the Chester Historical Society.</dc:rights>
 <dc:identifier>http://www.hrvh.org/cdm/ref/collection/chs/id/25</dc:identifier></oai_dc:dc>
 </metadata>
-</record><record><header><identifier>oai:www.hrvh.org:chs/26</identifier><datestamp>2007-08-26</datestamp><setSpec>chs</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:chs/26</identifier><datestamp>2015-08-19</datestamp><setSpec>chs</setSpec></header>
 <metadata>
 <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
 <dc:title>COTILLION PARTY invitation</dc:title>
@@ -517,7 +518,7 @@ $2.40
 <dc:subject>Invitations;</dc:subject>
 <dc:subject>Bailey, R.; Banker, J.; Bankers, H.; Cooper, J.; Curtiss. T.; Durland, A.J.; Edsall, H.; Fognick, T.; Hallock, A.; Houston Dr., John N.; Houston, John N.; Jackson, E.; King, J.; King, William; Knight, David; Layton, William; Lumarex,  A.; Miller, E.; Prall, J.; Reeve, M. L.; Reeve, William F.; Seely, C. B.; Seely, H.; Stevens, J.; Van Duzer, C.; Winans, W. R.; Yelverton, John Hopper, 1815-1849; Yelverton, John N.</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
-<dc:format>Document, 9.75 by 8 in. (24.8 x 19.8 cm)</dc:format>
+<dc:format>Document; 9.75 by 8 in. (24.8 x 19.8 cm)</dc:format>
 <dc:source>W. S. Durland Collection</dc:source>
 <dc:type>Text</dc:type>
 <dc:identifier>chs-002237</dc:identifier>
@@ -539,7 +540,7 @@ Counter signed by: J. E. Sanford, Treasurer and Thad Durland, President</dc:desc
 <dc:subject>Sanford, J. E., Durland, Thaddeus Seely</dc:subject>
 <dc:subject>Greycourt Overlook Company</dc:subject>
 <dc:coverage>Chester (Town) - Orange County - New York</dc:coverage>
-<dc:format>Document, Business, 11 by 8.5 in. (28.3 x 21.5 cm)</dc:format>
+<dc:format>Document, Business; 11 by 8.5 in. (28.3 x 21.5 cm)</dc:format>
 <dc:source>W. S. Durland Collection</dc:source>
 <dc:type>Text</dc:type>
 <dc:identifier>chs-002259</dc:identifier>
@@ -549,17 +550,17 @@ Counter signed by: J. E. Sanford, Treasurer and Thad Durland, President</dc:desc
 <dc:rights>Prior written permission is required for any use of the images in this collection from the Chester Historical Society.</dc:rights>
 <dc:identifier>http://www.hrvh.org/cdm/ref/collection/chs/id/27</dc:identifier></oai_dc:dc>
 </metadata>
-</record><record><header><identifier>oai:www.hrvh.org:chs/28</identifier><datestamp>2007-08-26</datestamp><setSpec>chs</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:chs/28</identifier><datestamp>2015-08-18</datestamp><setSpec>chs</setSpec></header>
 <metadata>
 <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
 <dc:title>Chester Board of Health notice regarding Infectious Disease</dc:title>
 <dc:date>1880?</dc:date>
-<dc:publisher>Board of Health</dc:publisher>
+<dc:publisher>Board of Health (Chester, N.Y.)</dc:publisher>
 <dc:description>Chester Board of Health quarantine form regarding infectious disease.</dc:description>
 <dc:subject>Quarantines;</dc:subject>
 <dc:subject>Board of Health</dc:subject>
 <dc:coverage>Chester (Town) - Orange County - New York</dc:coverage>
-<dc:format>Document, Official, 7 by 3.25 in. (18.2 x 8.26 cm)</dc:format>
+<dc:format>Document, Official; 7 by 3.25 in. (18.2 x 8.26 cm)</dc:format>
 <dc:source>W. S. Durland Collection</dc:source>
 <dc:type>Text</dc:type>
 <dc:identifier>chs-002272</dc:identifier>
@@ -569,7 +570,7 @@ Counter signed by: J. E. Sanford, Treasurer and Thad Durland, President</dc:desc
 <dc:rights>Prior written permission is required for any use of the images in this collection from the Chester Historical Society.</dc:rights>
 <dc:identifier>http://www.hrvh.org/cdm/ref/collection/chs/id/28</dc:identifier></oai_dc:dc>
 </metadata>
-</record><record><header><identifier>oai:www.hrvh.org:chs/29</identifier><datestamp>2015-07-20</datestamp><setSpec>chs</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:chs/29</identifier><datestamp>2015-08-19</datestamp><setSpec>chs</setSpec></header>
 <metadata>
 <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
 <dc:title>Greycourt Hotel</dc:title>
@@ -580,7 +581,7 @@ Counter signed by: J. E. Sanford, Treasurer and Thad Durland, President</dc:desc
 <dc:subject>Greycourt Hotel</dc:subject>
 <dc:coverage>Greycourt - Orange County - New York</dc:coverage>
 <dc:subject>Architecture</dc:subject>
-<dc:format>Photograph, Print, broken 5 by 4 inches, mounted on a board: 10 by 6 in. (25.6 x 15.8 cm)</dc:format>
+<dc:format>Photograph, Print; broken 5 by 4 inches, mounted on a board: 10 by 6 in. (25.6 x 15.8 cm)</dc:format>
 <dc:source>Betty Murray Carey Collection</dc:source>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-002333</dc:identifier>
@@ -602,7 +603,7 @@ Wholesale &amp; Retail Dealer in Grain, Flour, Feed &amp;c. It was demolished by
 <dc:subject>Chester Mills</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Architecture</dc:subject>
-<dc:format>Photograph, print, 10 by 8 in. (25.25 x 20.48 cm)</dc:format>
+<dc:format>Photograph, Print; 10 by 8 in. (25.25 x 20.48 cm)</dc:format>
 <dc:source>Betty Murray Carey Collection</dc:source>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-002334</dc:identifier>
@@ -622,7 +623,7 @@ Wholesale &amp; Retail Dealer in Grain, Flour, Feed &amp;c. It was demolished by
 <dc:subject>Davis, Walter W., 1881-1959; Davis, Lilian Stivers, 1911-2004; Davis, Albert W., 1908-1980; Hawkins, George Conger, 1924-2002</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Architecture</dc:subject>
-<dc:format>Photograph, Print, 4.25 by 3 in. (10.7 x 8 cm)</dc:format>
+<dc:format>Photograph, Print; 4.25 by 3 in. (10.7 x 8 cm)</dc:format>
 <dc:source>Betty Murray Carey Collection</dc:source>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-002335</dc:identifier>
@@ -632,7 +633,7 @@ Wholesale &amp; Retail Dealer in Grain, Flour, Feed &amp;c. It was demolished by
 <dc:rights>Prior written permission is required for any use of the images in this collection from the Chester Historical Society.</dc:rights>
 <dc:identifier>http://www.hrvh.org/cdm/ref/collection/chs/id/31</dc:identifier></oai_dc:dc>
 </metadata>
-</record><record><header><identifier>oai:www.hrvh.org:chs/32</identifier><datestamp>2015-07-21</datestamp><setSpec>chs</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:chs/32</identifier><datestamp>2015-08-19</datestamp><setSpec>chs</setSpec></header>
 <metadata>
 <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
 <dc:title>Lawrence &amp; Durland illustrated bill head</dc:title>
@@ -643,7 +644,7 @@ Wholesale &amp; Retail Dealer in Grain, Flour, Feed &amp;c. It was demolished by
 <dc:subject>Lawrence &amp; Durland</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Business &amp; Industry</dc:subject>
-<dc:format>Billhead, 6.5 by 3.5 in. (16.7 x 8.89 cm)</dc:format>
+<dc:format>Billhead; 6.5 by 3.5 in. (16.7 x 8.89 cm)</dc:format>
 <dc:source>Betty Murray Carey Collection</dc:source>
 <dc:type>Text</dc:type>
 <dc:identifier>chs-002339</dc:identifier>
@@ -653,7 +654,7 @@ Wholesale &amp; Retail Dealer in Grain, Flour, Feed &amp;c. It was demolished by
 <dc:rights>Prior written permission is required for any use of the images in this collection from the Chester Historical Society.</dc:rights>
 <dc:identifier>http://www.hrvh.org/cdm/ref/collection/chs/id/32</dc:identifier></oai_dc:dc>
 </metadata>
-</record><record><header><identifier>oai:www.hrvh.org:chs/33</identifier><datestamp>2015-07-20</datestamp><setSpec>chs</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:chs/33</identifier><datestamp>2015-08-19</datestamp><setSpec>chs</setSpec></header>
 <metadata>
 <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
 <dc:title>Sugar Loaf Schoolhouse</dc:title>
@@ -664,7 +665,7 @@ Now, 2002, a Sugar Loaf Fire Co. building.</dc:description>
 <dc:subject>Sugar Loaf School</dc:subject>
 <dc:coverage>Sugar Loaf - Orange County - New York</dc:coverage>
 <dc:subject>Education</dc:subject>
-<dc:format>8 x 5 inch photo mounted in 14 1/2 by  11 1/2 inch barnboard frame by Sugar Loaf Frame Shop (37 x 29 cm)</dc:format>
+<dc:format>Photograph; 8 x 5 inch photo mounted in 14 1/2 by  11 1/2 inch barnboard frame by Sugar Loaf Frame Shop (37 x 29 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-002432</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -673,7 +674,7 @@ Now, 2002, a Sugar Loaf Fire Co. building.</dc:description>
 <dc:rights>Prior written permission is required for any use of the images in this collection from the Chester Historical Society.</dc:rights>
 <dc:identifier>http://www.hrvh.org/cdm/ref/collection/chs/id/33</dc:identifier></oai_dc:dc>
 </metadata>
-</record><record><header><identifier>oai:www.hrvh.org:chs/34</identifier><datestamp>2007-08-26</datestamp><setSpec>chs</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:chs/34</identifier><datestamp>2015-08-19</datestamp><setSpec>chs</setSpec></header>
 <metadata>
 <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
 <dc:title>WORLD&#x27;S RECORDS BROOK FARM HORSES</dc:title>
@@ -684,7 +685,7 @@ Now, 2002, a Sugar Loaf Fire Co. building.</dc:description>
 <dc:subject>Brook Farm</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Agriculture</dc:subject>
-<dc:format>Advertizement, 9.25 by 11 in. (23.5 x 28 cm)</dc:format>
+<dc:format>Advertisement; 9.25 by 11 in. (23.5 x 28 cm)</dc:format>
 <dc:source>Betty Murray Carey Collection</dc:source>
 <dc:type>Text</dc:type>
 <dc:identifier>chs-002458</dc:identifier>
@@ -705,7 +706,7 @@ Now, 2002, a Sugar Loaf Fire Co. building.</dc:description>
 <dc:subject>Chester Post Office</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Business &amp; Industry</dc:subject>
-<dc:format>Document, Official, 8 by 3.5 in. (20.7 x 9 cm)</dc:format>
+<dc:format>Document, Official; 8 by 3.5 in. (20.7 x 9 cm)</dc:format>
 <dc:source>House family Collection</dc:source>
 <dc:type>Text</dc:type>
 <dc:identifier>chs-002641</dc:identifier>
@@ -726,7 +727,7 @@ Now, 2002, a Sugar Loaf Fire Co. building.</dc:description>
 <dc:subject>Methodist Episcopal Sunday School</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>People</dc:subject>
-<dc:format>Document, Official, 13.5 by 10.5 in. (34.3 x 26.7 cm)</dc:format>
+<dc:format>Document, Official; 13.5 by 10.5 in. (34.3 x 26.7 cm)</dc:format>
 <dc:source>House family Collection</dc:source>
 <dc:type>Image; Text</dc:type>
 <dc:identifier>chs-002642</dc:identifier>
@@ -748,7 +749,7 @@ Now, 2002, a Sugar Loaf Fire Co. building.</dc:description>
 <dc:subject>Chester Post Office</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Business &amp; Industry</dc:subject>
-<dc:format>Document, Official, 5.25 by 8.25 in. (13.8 x 21.2 cm)</dc:format>
+<dc:format>Document, Official; 5.25 by 8.25 in. (13.8 x 21.2 cm)</dc:format>
 <dc:source>House family Collection</dc:source>
 <dc:type>Text</dc:type>
 <dc:identifier>chs-002628</dc:identifier>
@@ -758,7 +759,7 @@ Now, 2002, a Sugar Loaf Fire Co. building.</dc:description>
 <dc:rights>Prior written permission is required for any use of the images in this collection from the Chester Historical Society.</dc:rights>
 <dc:identifier>http://www.hrvh.org/cdm/ref/collection/chs/id/37</dc:identifier></oai_dc:dc>
 </metadata>
-</record><record><header><identifier>oai:www.hrvh.org:chs/38</identifier><datestamp>2015-07-20</datestamp><setSpec>chs</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:chs/38</identifier><datestamp>2015-08-19</datestamp><setSpec>chs</setSpec></header>
 <metadata>
 <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
 <dc:title>Charlie Barrell&#x27;s house on Hen Lane</dc:title>
@@ -768,7 +769,7 @@ Now, 2002, a Sugar Loaf Fire Co. building.</dc:description>
 <dc:subject>Barrell, Charlie</dc:subject>
 <dc:coverage>Sugar Loaf - Orange County - New York</dc:coverage>
 <dc:subject>Architecture</dc:subject>
-<dc:format>7 1/4 by 9 1/2 inch photo mounted in 12 1/2 by  15 1/2 inch barnboard frame by Sugar Loaf Frame Shop  (31.8 x 39.7 cm)</dc:format>
+<dc:format>Photograph; 7 1/4 by 9 1/2 inch photo mounted in 12 1/2 by  15 1/2 inch barnboard frame by Sugar Loaf Frame Shop  (31.8 x 39.7 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-002433</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -789,7 +790,7 @@ Now, 2002, a Sugar Loaf Fire Co. building.</dc:description>
 <dc:subject>Eire, R. R. Co.; Post Office</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Business &amp; Industry</dc:subject>
-<dc:format>Document, Official, 8.5 by 11 in. (21.6 x 28 cm)</dc:format>
+<dc:format>Document, Official; 8.5 by 11 in. (21.6 x 28 cm)</dc:format>
 <dc:source>House family Collection</dc:source>
 <dc:type>Text</dc:type>
 <dc:identifier>chs-002675</dc:identifier>
@@ -812,7 +813,7 @@ Now, 2002, a Sugar Loaf Fire Co. building.</dc:description>
 <dc:subject>Chester Post Office; Congress of the Untied States</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Government; Presidents &amp; Politicians</dc:subject>
-<dc:format>Document, Official, 8.5 by 11 in. (21.6 x 28 cm)</dc:format>
+<dc:format>Document, Official; 8.5 by 11 in. (21.6 x 28 cm)</dc:format>
 <dc:source>House family Collection</dc:source>
 <dc:type>Text</dc:type>
 <dc:identifier>chs-002689</dc:identifier>
@@ -834,7 +835,7 @@ Now, 2002, a Sugar Loaf Fire Co. building.</dc:description>
 <dc:subject>Chester Post Office</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Government</dc:subject>
-<dc:format>Document, Official, 8.5 by 11 in. (21.6 x 28 cm)</dc:format>
+<dc:format>Document, Official; 8.5 by 11 in. (21.6 x 28 cm)</dc:format>
 <dc:source>House family Collection</dc:source>
 <dc:type>Text</dc:type>
 <dc:identifier>chs-002690</dc:identifier>
@@ -856,7 +857,7 @@ Now, 2002, a Sugar Loaf Fire Co. building.</dc:description>
 <dc:subject>Chester Post Office</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Government</dc:subject>
-<dc:format>Document, Official, 8.5 by 11 in. (21.6 x 28 cm)</dc:format>
+<dc:format>Document, Official; 8.5 by 11 in. (21.6 x 28 cm)</dc:format>
 <dc:source>House family Collection</dc:source>
 <dc:type>Text</dc:type>
 <dc:identifier>chs-002701</dc:identifier>
@@ -895,7 +896,7 @@ Now, 2002, a Sugar Loaf Fire Co. building.</dc:description>
 <dc:subject>Board, Cornelius, 1762-1830; Board, James Hudson; Board, James, 1720-1800?; Green, E. D., ?-1888</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Architecture</dc:subject>
-<dc:format>Photograph, Print, 5 by 3.25 in. (12.7 x 8.6 cm)</dc:format>
+<dc:format>Photograph, Print; 5 by 3.25 in. (12.7 x 8.6 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-003401</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -936,7 +937,7 @@ Mrs. Vasta.</dc:description>
 <dc:subject>Chester Mfg Co.</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Business &amp; Industry</dc:subject>
-<dc:format>Photograph, Print, 6 by 4.25 in. (17.5 x 12.31 cm)</dc:format>
+<dc:format>Photograph, Print; 6 by 4.25 in. (17.5 x 12.31 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-003550</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -966,7 +967,7 @@ Katie Kosin.</dc:description>
 <dc:subject>Chester Mfg Co.</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Business &amp; Industry</dc:subject>
-<dc:format>Photograph, Print, 6 by 4.25 in. (17.5 x 12.3 cm)</dc:format>
+<dc:format>Photograph, Print; 6 by 4.25 in. (17.5 x 12.3 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-003551</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -1048,7 +1049,7 @@ Treasurer: Charles W. Kerner</dc:description>
 <dc:subject>Village of Chester</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Government; Presidents &amp; Politicians</dc:subject>
-<dc:format>Photograph, Print, 7 by 5 in. (17.5 x 12.6 cm)</dc:format>
+<dc:format>Photograph, Print; 7 by 5 in. (17.5 x 12.6 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-003597</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -1066,7 +1067,7 @@ Treasurer: Charles W. Kerner</dc:description>
 <dc:subject>War bonds &amp; funds;</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Community &amp; Events</dc:subject>
-<dc:format>Photograph, Print, 3 by 4 in. (8.2 x 10 cm)</dc:format>
+<dc:format>Photograph, Print; 3 by 4 in. (8.2 x 10 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-003603</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -1084,7 +1085,7 @@ Treasurer: Charles W. Kerner</dc:description>
 <dc:subject>War bonds &amp; funds; War rallies;Photographs</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Community &amp; Events</dc:subject>
-<dc:format>Photograph, Print, 4 by 3 in. (10.5 x 8.1 cm)</dc:format>
+<dc:format>Photograph, Print; 4 by 3 in. (10.5 x 8.1 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-003605</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -1103,7 +1104,7 @@ Treasurer: Charles W. Kerner</dc:description>
 <dc:subject>Cassisison, Micky; Cavallaro, John, 1879-1968; Contarino, John A. (J.C., Jr.), 1925-2006; Ferlito, Chick; Frustaci, Charles J.,? -1990; Vadala, Isadore;</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Agriculture</dc:subject>
-<dc:format>Photograph, Print, 5.5 by 3.12 in. (13.9 x 8 cm)</dc:format>
+<dc:format>Photograph, Print; 5.5 by 3.12 in. (13.9 x 8 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-003608</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -1122,7 +1123,7 @@ Treasurer: Charles W. Kerner</dc:description>
 <dc:subject>Portrait photographs; Photographs;</dc:subject>
 <dc:subject>Budd, Bern L., 1887-?</dc:subject>
 <dc:subject>People</dc:subject>
-<dc:format>Photograph, Print, 4.5 by 6.5 in. (11 x 16.4 x  cm)</dc:format>
+<dc:format>Photograph, Print; 4.5 by 6.5 in. (11 x 16.4 x  cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-003663</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -1142,7 +1143,7 @@ Photograph taken in front of the old bank building on Main Street in downtown Ch
 <dc:subject>Boin, Will ; Christy, Will; Wilkin, Fred, 1870-1923; Wilkin, Melvin Randolph, 1873-1942</dc:subject>
 <dc:subject>Chester National bank</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
-<dc:format>Photograph, Print, 3.5 by 3.5 in. (9.3 x 9.4 cm)</dc:format>
+<dc:format>Photograph, Print; 3.5 by 3.5 in. (9.3 x 9.4 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-003666</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -1159,7 +1160,7 @@ Photograph taken in front of the old bank building on Main Street in downtown Ch
 <dc:description>Photograph of the Webb-Mabee Residence at King&#x27;s Highway and Pine Hill Road, Sugar Loaf.</dc:description>
 <dc:subject>Dwellings;photographs</dc:subject>
 <dc:coverage>Sugar Loaf - Orange County - New York</dc:coverage>
-<dc:format>Photograph, Print, 4 by 2.5 in. (10.2 x 6.3 cm)</dc:format>
+<dc:format>Photograph, Print; 4 by 2.5 in. (10.2 x 6.3 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-003871</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -1178,7 +1179,7 @@ Signs seen on the left side (close to far): City Pharmacy; Coal; Brooks Wagon Sh
 <dc:subject>Villages; Snow; Sleds &amp; sleighs;photographs</dc:subject>
 <dc:subject>City Pharmacy; Brooks Wagon Shop; Hughes Grocery; Mutschele Bakery</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
-<dc:format>Photograph, Print, 5 by 3 in. (13.5 x 8.1 cm)</dc:format>
+<dc:format>Photograph, Print; 5 by 3 in. (13.5 x 8.1 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-003942</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -1196,7 +1197,7 @@ Signs seen on the left side (close to far): City Pharmacy; Coal; Brooks Wagon Sh
 <dc:subject>Group portraits;photographs</dc:subject>
 <dc:subject>Delineator Magazine; Butterick Company; Jenny Wren Club</dc:subject>
 <dc:coverage>Chester (Town) - Orange County - New York</dc:coverage>
-<dc:format>Photograph, Print, 5 by 4 in. (12.7 x 9.9 cm)</dc:format>
+<dc:format>Photograph, Print; 5 by 4 in. (12.7 x 9.9 cm)</dc:format>
 <dc:source>William D. Lord Collection</dc:source>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-004069</dc:identifier>
@@ -1216,7 +1217,7 @@ Signs seen on the left side (close to far): City Pharmacy; Coal; Brooks Wagon Sh
 <dc:subject>Group portraits;photographs</dc:subject>
 <dc:subject>Little Mother&#x27;s League</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
-<dc:format>Photograph, Print, 6 by 4 in. (15.2 x 10.5 cm)</dc:format>
+<dc:format>Photograph, Print; 6 by 4 in. (15.2 x 10.5 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-003579</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -1224,7 +1225,7 @@ Signs seen on the left side (close to far): City Pharmacy; Coal; Brooks Wagon Sh
 <dc:rights>Prior written permission is required for any use of the images in this collection from the Chester Historical Society.</dc:rights>
 <dc:identifier>http://www.hrvh.org/cdm/ref/collection/chs/id/61</dc:identifier></oai_dc:dc>
 </metadata>
-</record><record><header><identifier>oai:www.hrvh.org:chs/62</identifier><datestamp>2006-10-13</datestamp><setSpec>chs</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:chs/62</identifier><datestamp>2015-08-19</datestamp><setSpec>chs</setSpec></header>
 <metadata>
 <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
 <dc:title>Conklin &amp; Roe Bought of Board &amp; Bryan</dc:title>
@@ -1233,7 +1234,7 @@ Signs seen on the left side (close to far): City Pharmacy; Coal; Brooks Wagon Sh
 <dc:subject>Lumberyards; Documents;</dc:subject>
 <dc:subject>Conklin &amp; Roe; Board &amp; Bryan</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
-<dc:format>Business Document, 8.5 by 4.6 by  in. (21.4 x 11.8 x  cm)</dc:format>
+<dc:format>Business Document; 8.5 by 4.6 by  in. (21.4 x 11.8 x  cm)</dc:format>
 <dc:relation>Within: Conklin &amp; Roe, Bills Credited May 31, 1906</dc:relation>
 <dc:source>Myrtle Edwards Collection</dc:source>
 <dc:type>Text</dc:type>
@@ -1244,7 +1245,7 @@ Signs seen on the left side (close to far): City Pharmacy; Coal; Brooks Wagon Sh
 <dc:rights>Prior written permission is required for any use of the images in this collection from the Chester Historical Society.</dc:rights>
 <dc:identifier>http://www.hrvh.org/cdm/ref/collection/chs/id/62</dc:identifier></oai_dc:dc>
 </metadata>
-</record><record><header><identifier>oai:www.hrvh.org:chs/63</identifier><datestamp>2007-08-28</datestamp><setSpec>chs</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:chs/63</identifier><datestamp>2015-08-19</datestamp><setSpec>chs</setSpec></header>
 <metadata>
 <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
 <dc:title>Conklin &amp; Roe to John Bull</dc:title>
@@ -1254,7 +1255,7 @@ Signs seen on the left side (close to far): City Pharmacy; Coal; Brooks Wagon Sh
 <dc:subject>Bull, John P.</dc:subject>
 <dc:subject>Conklin &amp; Roe; John P. Bull</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
-<dc:format>Business Document, 8 by 4.75 in. (20.7 x 12.25 cm)</dc:format>
+<dc:format>Business Document; 8 by 4.75 in. (20.7 x 12.25 cm)</dc:format>
 <dc:relation>Within: Conklin &amp; Roe, Bills Credited May 31, 1906</dc:relation>
 <dc:source>Myrtle Edwards Collection</dc:source>
 <dc:type>Text</dc:type>
@@ -1265,7 +1266,7 @@ Signs seen on the left side (close to far): City Pharmacy; Coal; Brooks Wagon Sh
 <dc:rights>Prior written permission is required for any use of the images in this collection from the Chester Historical Society.</dc:rights>
 <dc:identifier>http://www.hrvh.org/cdm/ref/collection/chs/id/63</dc:identifier></oai_dc:dc>
 </metadata>
-</record><record><header><identifier>oai:www.hrvh.org:chs/64</identifier><datestamp>2015-07-21</datestamp><setSpec>chs</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:chs/64</identifier><datestamp>2015-08-19</datestamp><setSpec>chs</setSpec></header>
 <metadata>
 <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
 <dc:title>G.M. Roe to Wm. Osborne</dc:title>
@@ -1275,7 +1276,7 @@ Signs seen on the left side (close to far): City Pharmacy; Coal; Brooks Wagon Sh
 <dc:subject>Osborne, William M.; Roe, George M., ?-1958</dc:subject>
 <dc:subject>Wm. Osborne</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
-<dc:format>Business Document, 2.7 by 7 in. (6.78 x 17.81 cm)</dc:format>
+<dc:format>Business Document; 2.7 by 7 in. (6.78 x 17.81 cm)</dc:format>
 <dc:relation>Within: Conklin &amp; Roe, Bills Credited May 31, 1906</dc:relation>
 <dc:source>Myrtle Edwards Collection</dc:source>
 <dc:type>Text</dc:type>
@@ -1296,7 +1297,7 @@ Signs seen on the left side (close to far): City Pharmacy; Coal; Brooks Wagon Sh
 <dc:subject>Dell, Tony; Miller, A.; Miller, D.; Miller, D. W.; Miller, F.; Roe, George M., ?-1958; Sayer, Fred</dc:subject>
 <dc:subject>D.W. Miller</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
-<dc:format>Document, Business, 5.5 by 11.25 in. (14 x 28.8 cm)</dc:format>
+<dc:format>Document, Business; 5.5 by 11.25 in. (14 x 28.8 cm)</dc:format>
 <dc:relation>Within: Conklin &amp; Roe, Bills Credited May 31, 1906</dc:relation>
 <dc:source>Myrtle Edwards Collection</dc:source>
 <dc:type>Text</dc:type>
@@ -1317,7 +1318,7 @@ Signs seen on the left side (close to far): City Pharmacy; Coal; Brooks Wagon Sh
 <dc:subject>Van Duzer, George L.</dc:subject>
 <dc:subject>Conklin &amp; Roe</dc:subject>
 <dc:coverage>Sugar Loaf - Orange County - New York</dc:coverage>
-<dc:format>Document, Business, 5.4 by 8.5 in. (13.8 x 21.4 cm)</dc:format>
+<dc:format>Document, Business; 5.4 by 8.5 in. (13.8 x 21.4 cm)</dc:format>
 <dc:relation>Within: Conklin &amp; Roe, Bills Credited May 31, 1906</dc:relation>
 <dc:source>Myrtle Edwards Collection</dc:source>
 <dc:type>Text</dc:type>
@@ -1337,7 +1338,7 @@ Signs seen on the left side (close to far): City Pharmacy; Coal; Brooks Wagon Sh
 <dc:subject>Documents; General stores;</dc:subject>
 <dc:subject>J. Durland &amp; Son; Conklin &amp; Roe</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
-<dc:format>Document, Business, 3.5 by 5.5 in. (9.25 x 14.3 cm)</dc:format>
+<dc:format>Document, Business; 3.5 by 5.5 in. (9.25 x 14.3 cm)</dc:format>
 <dc:relation>Within: Conklin &amp; Roe, Bills Credited May 31, 1906</dc:relation>
 <dc:source>Myrtle Edwards Collection</dc:source>
 <dc:type>Text</dc:type>
@@ -1358,7 +1359,7 @@ Signs seen on the left side (close to far): City Pharmacy; Coal; Brooks Wagon Sh
 <dc:subject>Osborne, William</dc:subject>
 <dc:subject>George M. Roe; Water Commissioners of the Village of Chester</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
-<dc:format>Document, Business, 8.5 by 7 in. (21.5 x 17.7 cm)</dc:format>
+<dc:format>Document, Business; 8.5 by 7 in. (21.5 x 17.7 cm)</dc:format>
 <dc:relation>Within: Conklin &amp; Roe, Bills Credited May 31, 1906</dc:relation>
 <dc:source>Myrtle Edwards Collection</dc:source>
 <dc:type>Text</dc:type>
@@ -1380,7 +1381,7 @@ Signs seen on the left side (close to far): City Pharmacy; Coal; Brooks Wagon Sh
 <dc:subject>W.A. Lawrence &amp; Son; George M. Roe</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Business &amp; Industry</dc:subject>
-<dc:format>Document, Business, 5.3 by 6.5 in. (13.7 x 16.8 cm)</dc:format>
+<dc:format>Document, Business; 5.3 by 6.5 in. (13.7 x 16.8 cm)</dc:format>
 <dc:relation>Within: Conklin &amp; Roe, Bills Credited May 31, 1906</dc:relation>
 <dc:source>Myrtle Edwards Collection</dc:source>
 <dc:type>Text</dc:type>
@@ -1402,7 +1403,7 @@ Signs seen on the left side (close to far): City Pharmacy; Coal; Brooks Wagon Sh
 <dc:subject>Thompson&#x27;s Pharmacy.</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Business &amp; Industry</dc:subject>
-<dc:format>Advertisement, 2.6 by 3.3 in. (6.8 x 8.6 cm)</dc:format>
+<dc:format>Advertisement; 2.6 by 3.3 in. (6.8 x 8.6 cm)</dc:format>
 <dc:relation>Excerpted from THE WEEKLY NEWS issue of 1898-06-09</dc:relation>
 <dc:type>Text</dc:type>
 <dc:identifier>chs-004778</dc:identifier>
@@ -1422,7 +1423,7 @@ Signs seen on the left side (close to far): City Pharmacy; Coal; Brooks Wagon Sh
 <dc:subject>Ariskie, Joe; Courtier, Armour; Day, Dewitt; Durland, Sanford, ?-1969; Kane, Art; Lippert, Gus; McCoy, Joe; Miller, Ross; Razy, Lester; Schriver, Paul, 1892-1972; Smith, Dick;</dc:subject>
 <dc:subject>Chester High School Junior Football Team</dc:subject>
 <dc:coverage>Chester (Town) - Orange County - New York</dc:coverage>
-<dc:format>Photograph, Print, 10 by 8 in. (26 x 20.2 cm)</dc:format>
+<dc:format>Photograph, Print; 10 by 8 in. (26 x 20.2 cm)</dc:format>
 <dc:source>Margie Nehrich Collection</dc:source>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-004883</dc:identifier>
@@ -1441,7 +1442,7 @@ Signs seen on the left side (close to far): City Pharmacy; Coal; Brooks Wagon Sh
 <dc:subject>Fund raising; Horses; Monuments &amp; memorials;</dc:subject>
 <dc:subject>National Association of Trotting Horse Breeders</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
-<dc:format>Document, Business, 6.75 by 13 in. (17.1 x 32 cm)</dc:format>
+<dc:format>Document, Business; 6.75 by 13 in. (17.1 x 32 cm)</dc:format>
 <dc:source>Margie Nehrich Collection</dc:source>
 <dc:type>Text</dc:type>
 <dc:identifier>chs-004893</dc:identifier>
@@ -1481,7 +1482,7 @@ Signs seen on the left side (close to far): City Pharmacy; Coal; Brooks Wagon Sh
 <dc:subject>Adams, Annie (Wilkins); Chamberlain, Alice W., 1887-1962; Chamberlain, Anna Board, 1879-1959; Dunning, Mary W.; Helms, Bea; Houston, Millie; Johnson, Josephine “Josie” C. Board, 1882-1947; Keeney, Myrtle Dunning; McGuinnis, James; McGuinnis, Mrs.; Van Etten, Elizabeth; Van Etten, Mrs.;</dc:subject>
 <dc:subject>St. Paul&#x27;s Episcopal Church</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
-<dc:format>Photograph, Print, 7 by 5 in. (17.9 x 13 cm)</dc:format>
+<dc:format>Photograph, Print; 7 by 5 in. (17.9 x 13 cm)</dc:format>
 <dc:source>William D Lord Collection</dc:source>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-004093</dc:identifier>
@@ -1502,7 +1503,7 @@ Signs seen on the left side (close to far): City Pharmacy; Coal; Brooks Wagon Sh
 <dc:subject>Brook&#x27;s Garage</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>People; Transportation; Work &amp; Labor;</dc:subject>
-<dc:format>Photograph, Print, 7 by 5 in. (16.8 x 11.8 cm)</dc:format>
+<dc:format>Photograph, Print; 7 by 5 in. (16.8 x 11.8 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-004432</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -1511,7 +1512,7 @@ Signs seen on the left side (close to far): City Pharmacy; Coal; Brooks Wagon Sh
 <dc:rights>Prior written permission is required for any use of the images in this collection from the Chester Historical Society.</dc:rights>
 <dc:identifier>http://www.hrvh.org/cdm/ref/collection/chs/id/75</dc:identifier></oai_dc:dc>
 </metadata>
-</record><record><header><identifier>oai:www.hrvh.org:chs/76</identifier><datestamp>2007-08-28</datestamp><setSpec>chs</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:chs/76</identifier><datestamp>2015-08-19</datestamp><setSpec>chs</setSpec></header>
 <metadata>
 <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
 <dc:title>Osborne&#x27;s Chester Market ad</dc:title>
@@ -1523,7 +1524,7 @@ Signs seen on the left side (close to far): City Pharmacy; Coal; Brooks Wagon Sh
 <dc:subject>Osborne&#x27;s Chester Market</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Business &amp; Industry</dc:subject>
-<dc:format>Advertizement, 2.5 by 4 in. (6.6 x 10.6 cm)</dc:format>
+<dc:format>Advertisement; 2.5 by 4 in. (6.6 x 10.6 cm)</dc:format>
 <dc:relation>Excerpted from THE WEEKLY NEWS issue of 1898-06-09</dc:relation>
 <dc:type>Text</dc:type>
 <dc:identifier>chs-004777</dc:identifier>
@@ -1533,7 +1534,7 @@ Signs seen on the left side (close to far): City Pharmacy; Coal; Brooks Wagon Sh
 <dc:rights>Prior written permission is required for any use of the images in this collection from the Chester Historical Society.</dc:rights>
 <dc:identifier>http://www.hrvh.org/cdm/ref/collection/chs/id/76</dc:identifier></oai_dc:dc>
 </metadata>
-</record><record><header><identifier>oai:www.hrvh.org:chs/77</identifier><datestamp>2015-07-21</datestamp><setSpec>chs</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:chs/77</identifier><datestamp>2015-08-19</datestamp><setSpec>chs</setSpec></header>
 <metadata>
 <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
 <dc:title>1868  Thompson&#x27;s 1898 (ad)</dc:title>
@@ -1544,7 +1545,7 @@ Signs seen on the left side (close to far): City Pharmacy; Coal; Brooks Wagon Sh
 <dc:subject>Thompson&#x27;s</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Business &amp; Industry</dc:subject>
-<dc:format>Advertizement, 5 by 6 in. (13.1 x 15 cm)</dc:format>
+<dc:format>Advertisement; 5 by 6 in. (13.1 x 15 cm)</dc:format>
 <dc:relation>Excerpted from THE WEEKLY NEWS issue of 1898-06-09</dc:relation>
 <dc:type>Text</dc:type>
 <dc:identifier>chs-004779</dc:identifier>
@@ -1554,19 +1555,19 @@ Signs seen on the left side (close to far): City Pharmacy; Coal; Brooks Wagon Sh
 <dc:rights>Prior written permission is required for any use of the images in this collection from the Chester Historical Society.</dc:rights>
 <dc:identifier>http://www.hrvh.org/cdm/ref/collection/chs/id/77</dc:identifier></oai_dc:dc>
 </metadata>
-</record><record><header><identifier>oai:www.hrvh.org:chs/78</identifier><datestamp>2007-08-28</datestamp><setSpec>chs</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:chs/78</identifier><datestamp>2015-08-19</datestamp><setSpec>chs</setSpec></header>
 <metadata>
 <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
 <dc:title>Walton Hose Co. Minstrels</dc:title>
 <dc:date>1903-05-12</dc:date>
-<dc:publisher>Independent Republican Print, Goshen, N. Y.</dc:publisher>
+<dc:publisher>Independent Republican Print (Goshen, N.Y.)</dc:publisher>
 <dc:description>Poster/program for Walton Hose Company Minstrels performance at Bodle&#x27;s Opera House, downtown Chester, NY in 1903.</dc:description>
 <dc:subject>Theatrical posters; Programs</dc:subject>
 <dc:subject>Ball, George W., 1868-1936; Berg, Carl; Buell, David; Carman, Ira D.; Dunning, Charles F., ?-1927; Durland, Bradford Conkling, 1864-1926; Halstead, C. B.; King, Charles (Charley) Gray, 1870-1953; Masten, Elias G., ?-1920; Miller, Alvah (Alva) S., ?-1929; Miller, Daniel W., ?-1918; Murray, Fred, 1875-1943; Parkin, James A., 1865-1917; Smith, William (Willer) H., 1878-1965; Thompson, Alfred B., 1877-1935; Thompson, Charles A., ?-1931; Thompson, Josie; Vollmer, Albert C., 1877-1956; Vollmer, E. C.; Vollmer, Edwin; Wilkin, Albert E.; Wood, Cyrus Foss; Wood, Henry Wisner, 1896-1941</dc:subject>
 <dc:subject>Bodle&#x27;s Opera House; Walton Hose Co.</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Community &amp; Events</dc:subject>
-<dc:format>Advertizement, 4.75 by 12 by  in. (12.3 x 29.7 x  cm)</dc:format>
+<dc:format>Advertisement; 4.75 by 12 by  in. (12.3 x 29.7 x  cm)</dc:format>
 <dc:type>Text</dc:type>
 <dc:identifier>chs-005007</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -1587,7 +1588,7 @@ Since 6/24/1992- Hambletonian House Bed and Breakfast has occupied the dwelling.
 <dc:subject>Hambletonian House Bed and Breakfast</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Architecture</dc:subject>
-<dc:format>Photograph, Print, 6.75 by 5.5 in. (17.4 x 14.7 cm)</dc:format>
+<dc:format>Photograph, Print; 6.75 by 5.5 in. (17.4 x 14.7 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-005008</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -1606,7 +1607,7 @@ Since 6/24/1992- Hambletonian House Bed and Breakfast has occupied the dwelling.
 <dc:subject>Littell, Ida (Kronk), 1873-1952</dc:subject>
 <dc:coverage>Greycourt - Orange County - New York</dc:coverage>
 <dc:subject>People</dc:subject>
-<dc:format>Photograph, print, 3.4 by 5.5 in. (8.65 x 13.54 cm)</dc:format>
+<dc:format>Photograph, Print; 3.4 by 5.5 in. (8.65 x 13.54 cm)</dc:format>
 <dc:relation>Alfred Kronk Littell family album</dc:relation>
 <dc:source>Alfred Kronk Littell family Collection</dc:source>
 <dc:type>Still Image</dc:type>
@@ -1626,7 +1627,7 @@ Since 6/24/1992- Hambletonian House Bed and Breakfast has occupied the dwelling.
 <dc:subject>Photographs; Group portraits;</dc:subject>
 <dc:subject>Littell, Edward G., 1851-1925; Littell, Ida (Kronk), 1873-1952</dc:subject>
 <dc:coverage>Greycourt - Orange County - New York</dc:coverage>
-<dc:format>photograph, print, 3.4 by 5.5 in. (8.8 x 14.1 cm)</dc:format>
+<dc:format>photograph, Print; 3.4 by 5.5 in. (8.8 x 14.1 cm)</dc:format>
 <dc:relation>Alfred Kronk Littell family album</dc:relation>
 <dc:source>Alfred Kronk Littell family Collection</dc:source>
 <dc:type>Still Image</dc:type>
@@ -1637,19 +1638,19 @@ Since 6/24/1992- Hambletonian House Bed and Breakfast has occupied the dwelling.
 <dc:rights>Prior written permission is required for any use of the images in this collection from the Chester Historical Society.</dc:rights>
 <dc:identifier>http://www.hrvh.org/cdm/ref/collection/chs/id/81</dc:identifier></oai_dc:dc>
 </metadata>
-</record><record><header><identifier>oai:www.hrvh.org:chs/82</identifier><datestamp>2015-07-20</datestamp><setSpec>chs</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:chs/82</identifier><datestamp>2015-08-19</datestamp><setSpec>chs</setSpec></header>
 <metadata>
 <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
 <dc:title>Kronk ladies</dc:title>
+<dc:creator>Lundeline (Port Jervis, N.Y.)</dc:creator>
 <dc:date>1900?</dc:date>
-<dc:publisher>Lundeline, Port Jervis</dc:publisher>
 <dc:description>Three generations of Kronk ladies sit for group photograph. 
 (l-r) Mrs. Ida Kronk, Mrs. Ida Kronk Littell  (Mrs. Kronk ‘s daughter), unidentified child, Lizzie Runion (Mrs. Kronk ‘s daughter)</dc:description>
 <dc:subject>Photographs; Group portraits;</dc:subject>
 <dc:subject>Littell, Ida (Kronk), 1873-1952 Kronk, Ida; Runion, Lizzie Kronk</dc:subject>
 <dc:coverage>Greycourt - Orange County - New York</dc:coverage>
 <dc:subject>People</dc:subject>
-<dc:format>5 1/2 by 4 inch photo on 6 3/4 by 5 1/2 cardboard mount, (17.3 x 13.9 x  cm)</dc:format>
+<dc:format>Photograph; 5 1/2 by 4 inch photo on 6 3/4 by 5 1/2 cardboard mount, (17.3 x 13.9 x  cm)</dc:format>
 <dc:relation>Alfred Kronk Littell family album</dc:relation>
 <dc:source>Alfred Kronk Littell family Collection</dc:source>
 <dc:type>Still Image</dc:type>
@@ -1660,7 +1661,7 @@ Since 6/24/1992- Hambletonian House Bed and Breakfast has occupied the dwelling.
 <dc:rights>Prior written permission is required for any use of the images in this collection from the Chester Historical Society.</dc:rights>
 <dc:identifier>http://www.hrvh.org/cdm/ref/collection/chs/id/82</dc:identifier></oai_dc:dc>
 </metadata>
-</record><record><header><identifier>oai:www.hrvh.org:chs/83</identifier><datestamp>2015-07-29</datestamp><setSpec>chs</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:chs/83</identifier><datestamp>2015-08-19</datestamp><setSpec>chs</setSpec></header>
 <metadata>
 <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
 <dc:title>Edward &amp; Ida Kronk Littell in horseless carriage.</dc:title>
@@ -1671,7 +1672,7 @@ Since 6/24/1992- Hambletonian House Bed and Breakfast has occupied the dwelling.
 <dc:subject>Littell, Edward G., 1851-1925;  Littell, Ida (Kronk), 1873-1952</dc:subject>
 <dc:coverage>Greycourt - Orange County - New York</dc:coverage>
 <dc:subject>People</dc:subject>
-<dc:format>5 1/2 by 4 inch photo on 9 by 7 inch cardboard mount,  (23.4 x 17.8 cm)</dc:format>
+<dc:format>Photograph; 5 1/2 by 4 inch photo on 9 by 7 inch cardboard mount,  (23.4 x 17.8 cm)</dc:format>
 <dc:relation>Alfred Kronk Littell family album</dc:relation>
 <dc:source>Alfred Kronk Littell family Collection</dc:source>
 <dc:type>Still Image</dc:type>
@@ -1692,7 +1693,7 @@ Since 6/24/1992- Hambletonian House Bed and Breakfast has occupied the dwelling.
 <dc:subject>Derby, Clarence E. ; Derby, Robert O.; Littell, Alfred Kronk, Sr.,1898-1982; Littell, Andrew H.; Littell, Edward; Littell, Edward G., 1851-1925; Littell, Harriet L.; Littell, Harry M.; Littell, Ida Kronk, 1857-1937; Littell, William G.; Miller, Camilla (Millie) Masten, 1895-1961; Runion, Elizabeth (Lizzie) Agnes Kronk Littell, ?-1966; Runion, Louis W.; Stanley, H. L.; Stanley, Ida Derby; Tarbox, Roscoe D.; Tuthill, Harry F.; Tuthill, Ida M. Littell</dc:subject>
 <dc:coverage>Greycourt - Orange County - New York</dc:coverage>
 <dc:subject>People</dc:subject>
-<dc:format>Clipping, 2.5 by 11.6 in. (6.3 x 29.5 cm)</dc:format>
+<dc:format>Clipping; 2.5 by 11.6 in. (6.3 x 29.5 cm)</dc:format>
 <dc:relation>Alfred Kronk Littell family album</dc:relation>
 <dc:source>Alfred Kronk Littell family Collection</dc:source>
 <dc:type>Text</dc:type>
@@ -1714,7 +1715,7 @@ Since 6/24/1992- Hambletonian House Bed and Breakfast has occupied the dwelling.
 <dc:subject>E. G. Littell Groceries &amp; Post Office</dc:subject>
 <dc:coverage>Greycourt - Orange County - New York</dc:coverage>
 <dc:subject>Business &amp; Industry</dc:subject>
-<dc:format>Photograph, Print, 4.8 by 3.8 in. (12.2 x 9.5 cm)</dc:format>
+<dc:format>Photograph, Print; 4.8 by 3.8 in. (12.2 x 9.5 cm)</dc:format>
 <dc:relation>Alfred Kronk Littell family album</dc:relation>
 <dc:source>Alfred Kronk Littell family Collection</dc:source>
 <dc:type>Still Image</dc:type>
@@ -1736,7 +1737,7 @@ Since 6/24/1992- Hambletonian House Bed and Breakfast has occupied the dwelling.
 <dc:subject>Photographs; Houses; Dwellings;</dc:subject>
 <dc:coverage>Greycourt - Orange County - New York</dc:coverage>
 <dc:subject>Architecture</dc:subject>
-<dc:format>Photograph, Print, 3.3 by 4.3 in. (8.4 x 11.1 cm)</dc:format>
+<dc:format>Photograph, Print; 3.3 by 4.3 in. (8.4 x 11.1 cm)</dc:format>
 <dc:relation>Alfred Kronk Littell family album</dc:relation>
 <dc:source>Alfred Kronk Littell family Collection</dc:source>
 <dc:type>Still Image</dc:type>
@@ -1747,18 +1748,18 @@ Since 6/24/1992- Hambletonian House Bed and Breakfast has occupied the dwelling.
 <dc:rights>Prior written permission is required for any use of the images in this collection from the Chester Historical Society.</dc:rights>
 <dc:identifier>http://www.hrvh.org/cdm/ref/collection/chs/id/86</dc:identifier></oai_dc:dc>
 </metadata>
-</record><record><header><identifier>oai:www.hrvh.org:chs/87</identifier><datestamp>2015-07-20</datestamp><setSpec>chs</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:chs/87</identifier><datestamp>2015-08-19</datestamp><setSpec>chs</setSpec></header>
 <metadata>
 <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
 <dc:title>Edward &amp; Ida Kronk Littell family photograph.</dc:title>
+<dc:creator>Lundeline (Port Jervis, N.Y.)</dc:creator>
 <dc:date>1895?</dc:date>
-<dc:publisher>Lundeline, Port Jervis</dc:publisher>
 <dc:description>Edward &amp; Ida Kronk Littell family photograph. Childern (order not known) Lizzie, Harry M., Harriet L., Edward, William G., Andrew H., Ida M., Alfred K.. The Littell&#x27;s resided on Walnut Avenue, which in 2006, is known as Lehigh Avenue.</dc:description>
 <dc:subject>Photographs; Group portraits;</dc:subject>
 <dc:subject>Littell, Alfred Kronk, Sr.,1898-1982; Littell, Andrew H.; Littell, Edward; Littell, Edward G., 1851-1925; Littell, Harriet L.; Littell, Harry M.; Littell, Ida Kronk, 1857-1937; Littell, Ida M.; Littell, William G.; Runion, Elizabeth (Lizzie) Agnes Kronk Littell, ?-1966;</dc:subject>
 <dc:coverage>Greycourt - Orange County - New York</dc:coverage>
 <dc:subject>People</dc:subject>
-<dc:format>5 1/2 by 4 inch photo on 6 3/4 by 5 1/2 cardboard mount, (17.2 x 14.3 cm)</dc:format>
+<dc:format>Photograph; 5 1/2 by 4 inch photo on 6 3/4 by 5 1/2 cardboard mount, (17.2 x 14.3 cm)</dc:format>
 <dc:relation>Alfred Kronk Littell family album</dc:relation>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-004803</dc:identifier>
@@ -1768,7 +1769,7 @@ Since 6/24/1992- Hambletonian House Bed and Breakfast has occupied the dwelling.
 <dc:rights>Prior written permission is required for any use of the images in this collection from the Chester Historical Society.</dc:rights>
 <dc:identifier>http://www.hrvh.org/cdm/ref/collection/chs/id/87</dc:identifier></oai_dc:dc>
 </metadata>
-</record><record><header><identifier>oai:www.hrvh.org:chs/88</identifier><datestamp>2015-07-29</datestamp><setSpec>chs</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:chs/88</identifier><datestamp>2015-08-19</datestamp><setSpec>chs</setSpec></header>
 <metadata>
 <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
 <dc:title>Edward &amp; Ida Kronk Littell family photo</dc:title>
@@ -1779,7 +1780,7 @@ Since 6/24/1992- Hambletonian House Bed and Breakfast has occupied the dwelling.
 <dc:subject>Littell, Alfred Kronk, Sr.,1898-1982; Littell, Andrew H.; Littell, Edward; Littell, Edward G., 1851-1925; Littell, Harriet L.; Littell, Harry M.; Littell, Ida Kronk, 1857-1937; Littell, Ida M.; Littell, William G.; Runion, Elizabeth (Lizzie) Agnes Kronk Littell, ?-1966;</dc:subject>
 <dc:coverage>Greycourt - Orange County - New York</dc:coverage>
 <dc:subject>People</dc:subject>
-<dc:format>8 by 6 inch photo on 10 by 8 cardboard mount, (25.9 x 20.6 cm)</dc:format>
+<dc:format>Photograph; 8 by 6 inch photo on 10 by 8 cardboard mount, (25.9 x 20.6 cm)</dc:format>
 <dc:relation>Alfred Kronk Littell family album</dc:relation>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-004804</dc:identifier>
@@ -1800,7 +1801,7 @@ Since 6/24/1992- Hambletonian House Bed and Breakfast has occupied the dwelling.
 <dc:subject>Littell, Alfred Kronk,1898-1982</dc:subject>
 <dc:coverage>Greycourt - Orange County - New York</dc:coverage>
 <dc:subject>People</dc:subject>
-<dc:format>Photograph, Print, 3.4 by 5.5 in. (8.8 x 14.1 cm)</dc:format>
+<dc:format>Photograph, Print; 3.4 by 5.5 in. (8.8 x 14.1 cm)</dc:format>
 <dc:relation>Alfred Kronk Littell family album</dc:relation>
 <dc:source>Alfred Kronk Littell family Collection</dc:source>
 <dc:type>Still Image</dc:type>
@@ -1821,7 +1822,7 @@ Since 6/24/1992- Hambletonian House Bed and Breakfast has occupied the dwelling.
 <dc:subject>Littell, Edward</dc:subject>
 <dc:coverage>Greycourt - Orange County - New York</dc:coverage>
 <dc:subject>People</dc:subject>
-<dc:format>Photograph, Print, 7.5 by 9.5 in. (20 x 25.3 cm)</dc:format>
+<dc:format>Photograph, Print; 7.5 by 9.5 in. (20 x 25.3 cm)</dc:format>
 <dc:relation>Alfred Kronk Littell family album</dc:relation>
 <dc:source>Alfred Kronk Littell family Collection</dc:source>
 <dc:type>Still Image</dc:type>
@@ -1862,7 +1863,7 @@ Since 6/24/1992- Hambletonian House Bed and Breakfast has occupied the dwelling.
 <dc:subject>Littell, Ida M.</dc:subject>
 <dc:coverage>Greycourt - Orange County - New York</dc:coverage>
 <dc:subject>People</dc:subject>
-<dc:format>Photograph, Print, 1.2 by 1.4 in. (3.2 x 3.7 cm)</dc:format>
+<dc:format>Photograph, Print; 1.2 by 1.4 in. (3.2 x 3.7 cm)</dc:format>
 <dc:relation>Alfred Kronk Littell family album</dc:relation>
 <dc:source>Alfred Kronk Littell family Collection</dc:source>
 <dc:type>Still Image</dc:type>
@@ -1883,7 +1884,7 @@ Since 6/24/1992- Hambletonian House Bed and Breakfast has occupied the dwelling.
 <dc:subject>Littell, Harry M.; Littell, Marjorie Livingston, 1898-1992; Livingston, David; Livingston, Margaret</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>People</dc:subject>
-<dc:format>Photograph, Print, 5 by 7 in. (12.5 x 17.7 cm)</dc:format>
+<dc:format>Photograph, Print; 5 by 7 in. (12.5 x 17.7 cm)</dc:format>
 <dc:relation>Alfred Kronk Littell family album</dc:relation>
 <dc:source>Alfred Kronk Littell family Collection</dc:source>
 <dc:type>Still Image</dc:type>
@@ -1904,7 +1905,7 @@ Since 6/24/1992- Hambletonian House Bed and Breakfast has occupied the dwelling.
 <dc:subject>Littell, Harriet L.</dc:subject>
 <dc:coverage>Greycourt - Orange County - New York</dc:coverage>
 <dc:subject>People</dc:subject>
-<dc:format>Photograph, Print, 7.5 by 10 in. (19.8 x 26.2 cm)</dc:format>
+<dc:format>Photograph, Print; 7.5 by 10 in. (19.8 x 26.2 cm)</dc:format>
 <dc:relation>Alfred Kronk Littell family album</dc:relation>
 <dc:source>Alfred Kronk Littell family Collection</dc:source>
 <dc:type>Still Image</dc:type>
@@ -1927,7 +1928,7 @@ Ida Littell married Harry Tuthill and had four children: Edith, Marie, Florence 
 <dc:subject>Tuthill, Edith May, ?-1987; Tuthill, Florence ; Tuthill, Harry F.; Tuthill, Hope Fay; Tuthill, Ida M. Littell; Tuthill, Marie</dc:subject>
 <dc:coverage>Chester (Town) - Orange County - New York</dc:coverage>
 <dc:subject>People</dc:subject>
-<dc:format>Photograph, Print, 2.8 by 3.8 in. (7.3 x 9.8 cm)</dc:format>
+<dc:format>Photograph, Print; 2.8 by 3.8 in. (7.3 x 9.8 cm)</dc:format>
 <dc:relation>Alfred Kronk Littell family album</dc:relation>
 <dc:source>Alfred Kronk Littell family Collection</dc:source>
 <dc:type>Still Image</dc:type>
@@ -1949,7 +1950,7 @@ Ida Littell married Harvy Tuthill and had four children: Edith, Marie, Florence 
 <dc:subject>Tuthill, Edith May, ?-1987; Tuthill, Florence ; Tuthill, Harry F.; Tuthill, Hope Fay; Tuthill, Ida M. Littell; Tuthill, Marie</dc:subject>
 <dc:coverage>Chester (Town) - Orange County - New York</dc:coverage>
 <dc:subject>People</dc:subject>
-<dc:format>Photograph, Print, 2.8 by 3.9 in. (7.2 x 10 cm)</dc:format>
+<dc:format>Photograph, Print; 2.8 by 3.9 in. (7.2 x 10 cm)</dc:format>
 <dc:relation>Alfred Kronk Littell family album</dc:relation>
 <dc:source>Alfred Kronk Littell family Collection</dc:source>
 <dc:type>Still Image</dc:type>
@@ -1960,7 +1961,7 @@ Ida Littell married Harvy Tuthill and had four children: Edith, Marie, Florence 
 <dc:rights>Prior written permission is required for any use of the images in this collection from the Chester Historical Society.</dc:rights>
 <dc:identifier>http://www.hrvh.org/cdm/ref/collection/chs/id/96</dc:identifier></oai_dc:dc>
 </metadata>
-</record><record><header><identifier>oai:www.hrvh.org:chs/97</identifier><datestamp>2007-08-28</datestamp><setSpec>chs</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:chs/97</identifier><datestamp>2015-08-19</datestamp><setSpec>chs</setSpec></header>
 <metadata>
 <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
 <dc:title>Edith May Tuthill</dc:title>
@@ -1971,7 +1972,7 @@ Ida Littell married Harvy Tuthill and had four children: Edith, Marie, Florence 
 <dc:subject>Tuthill, Edith May, ?-1987; Tuthill, Florence ; Tuthill, Harry F.; Tuthill, Hope Fay; Tuthill, Ida M. Littell; Tuthill, Marie</dc:subject>
 <dc:coverage>Chester (Town) - Orange County - New York</dc:coverage>
 <dc:subject>People</dc:subject>
-<dc:format>5 1/2 by 3 3/8 inch unmailed post card, (8.7 x 13.9 x  cm)</dc:format>
+<dc:format>Post Card; 5 1/2 by 3 3/8 inch (8.7 x 13.9 x  cm)</dc:format>
 <dc:relation>Alfred Kronk Littell family album</dc:relation>
 <dc:source>Alfred Kronk Littell family Collection</dc:source>
 <dc:type>Still Image</dc:type>
@@ -1992,7 +1993,7 @@ Ida Littell married Harvy Tuthill and had four children: Edith, Marie, Florence 
 <dc:subject>Tuthill, Edith May, ?-1987; Tuthill, Florence ; Tuthill, Harry F.; Tuthill, Hope Fay; Tuthill, Ida M. Littell; Tuthill, Marie</dc:subject>
 <dc:coverage>Chester (Town) - Orange County - New York</dc:coverage>
 <dc:subject>People</dc:subject>
-<dc:format>Photograph, Print, 3.3 by 5.8 in. (10 x 14.9 cm)</dc:format>
+<dc:format>Photograph, Print; 3.3 by 5.8 in. (10 x 14.9 cm)</dc:format>
 <dc:relation>Alfred Kronk Littell family album</dc:relation>
 <dc:source>Alfred Kronk Littell family Collection</dc:source>
 <dc:type>Still Image</dc:type>
@@ -2013,7 +2014,7 @@ Ida Littell married Harvy Tuthill and had four children: Edith, Marie, Florence 
 <dc:subject>Littell, Alfred Kronk,1898-1982; Littell, Florence G. Krom</dc:subject>
 <dc:coverage>Greycourt - Orange County - New York</dc:coverage>
 <dc:subject>People</dc:subject>
-<dc:format>Photograph, Print, 5.7 by 7.7 in. (14.5 x 19.6 cm)</dc:format>
+<dc:format>Photograph, Print; 5.7 by 7.7 in. (14.5 x 19.6 cm)</dc:format>
 <dc:relation>Alfred Kronk Littell family album</dc:relation>
 <dc:source>Alfred Kronk Littell family Collection</dc:source>
 <dc:type>Still Image</dc:type>
@@ -2034,7 +2035,7 @@ Ida Littell married Harvy Tuthill and had four children: Edith, Marie, Florence 
 <dc:subject>Bennett, Jarvis H.; Ehlers, Edith A.; Littell, Florence G. Krom; Littell, Alfred Kronk,1898-1982; Littell, Harry M.</dc:subject>
 <dc:coverage>Monroe - Orange County - New York</dc:coverage>
 <dc:subject>People</dc:subject>
-<dc:format>Document, Official, 10 by 7 in. (25.8 x 17 cm)</dc:format>
+<dc:format>Document, Official; 10 by 7 in. (25.8 x 17 cm)</dc:format>
 <dc:relation>Scanned from Alfred Kronk Littell family album</dc:relation>
 <dc:source>Alfred Kronk Littell family Collection</dc:source>
 <dc:type>Text</dc:type>
@@ -2056,7 +2057,7 @@ Ida Littell married Harvy Tuthill and had four children: Edith, Marie, Florence 
 <dc:subject>Brush Motor Car Company</dc:subject>
 <dc:coverage>Greycourt - Orange County - New York</dc:coverage>
 <dc:subject>People</dc:subject>
-<dc:format>Photograph, Print, 4 by 3 in. (10.3 x 7.9 cm)</dc:format>
+<dc:format>Photograph, Print; 4 by 3 in. (10.3 x 7.9 cm)</dc:format>
 <dc:relation>Alfred Kronk Littell family album</dc:relation>
 <dc:source>Alfred Kronk Littell family Collection</dc:source>
 <dc:type>Still Image</dc:type>
@@ -2077,7 +2078,7 @@ Ida Littell married Harvy Tuthill and had four children: Edith, Marie, Florence 
 <dc:subject>Littell, Alfred Kronk, 1898-1892; Littell, Florence G. Krom</dc:subject>
 <dc:coverage>Greycourt - Orange County - New York</dc:coverage>
 <dc:subject>People</dc:subject>
-<dc:format>Photograph, Print, 2.5 by 4.5 in. (6.5 x 11.5 cm)</dc:format>
+<dc:format>Photograph, Print; 2.5 by 4.5 in. (6.5 x 11.5 cm)</dc:format>
 <dc:relation>Alfred Kronk Littell family album</dc:relation>
 <dc:source>Alfred Kronk Littell family Collection</dc:source>
 <dc:type>Still Image</dc:type>
@@ -2098,7 +2099,7 @@ Ida Littell married Harvy Tuthill and had four children: Edith, Marie, Florence 
 <dc:subject>Littell, Alfred Kronk, 1898-1982</dc:subject>
 <dc:coverage>Chester (Town) - Orange County - New York</dc:coverage>
 <dc:subject>People</dc:subject>
-<dc:format>Photograph, Print, 3.3 by 4.3 in. (8.6 x 10.9 cm)</dc:format>
+<dc:format>Photograph, Print; 3.3 by 4.3 in. (8.6 x 10.9 cm)</dc:format>
 <dc:relation>Alfred Kronk Littell family album</dc:relation>
 <dc:source>Alfred Kronk Littell family Collection</dc:source>
 <dc:type>Still Image</dc:type>
@@ -2119,7 +2120,7 @@ Ida Littell married Harvy Tuthill and had four children: Edith, Marie, Florence 
 <dc:subject>Littell, Alfred Kronk,1898-1982; Littell, Edward G., 1851-1925; Littell, Florence G. Krom; Littell, Harriet L.; Littell, Harry M.; Littell, Ida Kronk, 1857-1937; Runion, Elizabeth (Lizzie) Agnes Kronk Littell, ?-1966</dc:subject>
 <dc:coverage>Greycourt - Orange County - New York</dc:coverage>
 <dc:subject>People</dc:subject>
-<dc:format>Photograph, Print, 4.2 by 3 in. (10.7 x 7.8 cm)</dc:format>
+<dc:format>Photograph, Print; 4.2 by 3 in. (10.7 x 7.8 cm)</dc:format>
 <dc:relation>Alfred Kronk Littell family album</dc:relation>
 <dc:source>Alfred Kronk Littell family Collection</dc:source>
 <dc:type>Still Image</dc:type>
@@ -2141,7 +2142,7 @@ Ida Littell married Harvy Tuthill and had four children: Edith, Marie, Florence 
 <dc:subject>Produce Growers&#x27; Trucking Association, Inc.</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Business &amp; Industry</dc:subject>
-<dc:format>Document, Business, 11.5 by 8.5 in. (29.4 x 21.6 cm)</dc:format>
+<dc:format>Document, Business; 11.5 by 8.5 in. (29.4 x 21.6 cm)</dc:format>
 <dc:relation>Alfred Kronk Littell family album</dc:relation>
 <dc:source>Alfred Kronk Littell family Collection</dc:source>
 <dc:type>Text; Image</dc:type>
@@ -2152,7 +2153,7 @@ Ida Littell married Harvy Tuthill and had four children: Edith, Marie, Florence 
 <dc:rights>Prior written permission is required for any use of the images in this collection from the Chester Historical Society.</dc:rights>
 <dc:identifier>http://www.hrvh.org/cdm/ref/collection/chs/id/105</dc:identifier></oai_dc:dc>
 </metadata>
-</record><record><header><identifier>oai:www.hrvh.org:chs/106</identifier><datestamp>2015-07-21</datestamp><setSpec>chs</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:chs/106</identifier><datestamp>2015-08-19</datestamp><setSpec>chs</setSpec></header>
 <metadata>
 <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
 <dc:title>Mother&#x27;s Day Telegram to Mrs. E.G. Littell.</dc:title>
@@ -2162,7 +2163,7 @@ Ida Littell married Harvy Tuthill and had four children: Edith, Marie, Florence 
 <dc:subject>Western Union</dc:subject>
 <dc:coverage>Greycourt - Orange County - New York</dc:coverage>
 <dc:subject>People</dc:subject>
-<dc:format>telgram, 8 by 6.5 in., (20.2 x 16.6 x  cm)</dc:format>
+<dc:format>telegram; 8 by 6.5 in., (20.2 x 16.6 x  cm)</dc:format>
 <dc:source>Alfred Kronk Littell family Collection</dc:source>
 <dc:type>Image; Text</dc:type>
 <dc:identifier>chs-004806</dc:identifier>
@@ -2173,7 +2174,7 @@ Ida Littell married Harvy Tuthill and had four children: Edith, Marie, Florence 
 <dc:identifier>http://www.hrvh.org/cdm/ref/collection/chs/id/106</dc:identifier></oai_dc:dc>
 </metadata>
 </record><record><header status="deleted"><identifier>oai:www.hrvh.org:chs/107</identifier><datestamp>2012-05-10</datestamp><setSpec>chs</setSpec></header>
-</record><record><header><identifier>oai:www.hrvh.org:chs/108</identifier><datestamp>2015-07-20</datestamp><setSpec>chs</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:chs/108</identifier><datestamp>2015-08-19</datestamp><setSpec>chs</setSpec></header>
 <metadata>
 <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
 <dc:title>Littell&#x27;s Rail Road Ointment</dc:title>
@@ -2183,7 +2184,7 @@ Ida Littell married Harvy Tuthill and had four children: Edith, Marie, Florence 
 <dc:subject>Littell&#x27;s Rail Road Ointment</dc:subject>
 <dc:coverage>Greycourt - Orange County - New York</dc:coverage>
 <dc:subject>Business &amp; Industry</dc:subject>
-<dc:format>Label, 1.89 by 1.89 in. (4.8 x 4.8  cm)</dc:format>
+<dc:format>Label; 1.89 by 1.89 in. (4.8 x 4.8  cm)</dc:format>
 <dc:source>Alfred Kronk Littell family Collection</dc:source>
 <dc:type>Text</dc:type>
 <dc:identifier>chs-004807</dc:identifier>
@@ -2193,7 +2194,7 @@ Ida Littell married Harvy Tuthill and had four children: Edith, Marie, Florence 
 <dc:rights>Prior written permission is required for any use of the images in this collection from the Chester Historical Society.</dc:rights>
 <dc:identifier>http://www.hrvh.org/cdm/ref/collection/chs/id/108</dc:identifier></oai_dc:dc>
 </metadata>
-</record><record><header><identifier>oai:www.hrvh.org:chs/109</identifier><datestamp>2007-08-28</datestamp><setSpec>chs</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:chs/109</identifier><datestamp>2015-08-19</datestamp><setSpec>chs</setSpec></header>
 <metadata>
 <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
 <dc:title>Hambletonian Monument</dc:title>
@@ -2204,7 +2205,7 @@ by Donald F. Clark, Orange County Historian, 1975.</dc:description>
 <dc:subject>Photographs; Monuments; Horse racing;</dc:subject>
 <dc:subject>Clark, Donald F.; Rysdyk, William Mapes, 1810-1870</dc:subject>
 <dc:subject>Agriculture</dc:subject>
-<dc:format>Photograph, 5 by 4 inch print on a 6 3/4 by  5 1/2 inch cardboard mount</dc:format>
+<dc:format>Photograph; 5 by 4 inch print on a 6 3/4 by  5 1/2 inch cardboard mount</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-005009</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -2213,19 +2214,19 @@ by Donald F. Clark, Orange County Historian, 1975.</dc:description>
 <dc:rights>Prior written permission is required for any use of the images in this collection from the Chester Historical Society.</dc:rights>
 <dc:identifier>http://www.hrvh.org/cdm/ref/collection/chs/id/109</dc:identifier></oai_dc:dc>
 </metadata>
-</record><record><header><identifier>oai:www.hrvh.org:chs/110</identifier><datestamp>2007-08-28</datestamp><setSpec>chs</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:chs/110</identifier><datestamp>2015-08-19</datestamp><setSpec>chs</setSpec></header>
 <metadata>
 <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
 <dc:title>Epworth League Entertainment.</dc:title>
 <dc:date>1891-01-26</dc:date>
-<dc:publisher>News Print, Chester, N. Y.</dc:publisher>
+<dc:contributor>News Print (Chester, N.Y.)</dc:contributor>
 <dc:description>Epworth League Entertainment program for Bodle&#x27;s Opera House performance in 1891.</dc:description>
 <dc:subject>Programs; Organizations; Musical revues &amp; comedies;</dc:subject>
 <dc:subject>Bach, E.; Benjamin, Mrs. H.; Bodle, Grace; Bodles, William Wood, 1858-1907; Brown, Francis H. (Francis Henry), 1818-1891; Crosby, F.; Decker, Lizzie; Eisenbeis, L.; Heard, Elizabeth (Lizzie) Thompson; Holley, Marietta, 1836-1926; Kerner, Alice Wright, 1866-1950; Kerner, Charles W.,?-1921; Leslie, C. E.; Longfellow, Henry Wadsworth, 1807-1882; Masten, Elias G., ?-1920; May, Emma; Murray, Elizabeth (Lizzie( J. May, 1842-1909; Paris, Lizzie Decker Dolson, 1894-1942; Quackenbush, E. O.; Randle, Mary; Roys, R. L.; Sch&#x27;epegrell, R.; Sheridan, R. B. (Richard Brinsley), 1751-1816; Shultz, Carl; Shurtleff, Ernest W. (Ernest Warburton), 1862-1917; Van Inwegen, Mary; Warren, George. M.; Wilcox, Frank L.; Wohanka, F.; Wood, Cyrus Foss; Wood, Fannie Roe, ?-1948; Wood, Henry Wisner, 1896-1941</dc:subject>
 <dc:subject>Bodle&#x27;s Opera House; Epworth League</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Arts &amp; Entertainment</dc:subject>
-<dc:format>Advertisement, 6 by 9.5 in. (15.1 x 24.1 cm)</dc:format>
+<dc:format>Advertisement; 6 by 9.5 in. (15.1 x 24.1 cm)</dc:format>
 <dc:type>Text</dc:type>
 <dc:identifier>chs-005011</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -2245,7 +2246,7 @@ by Donald F. Clark, Orange County Historian, 1975.</dc:description>
 <dc:subject>Photographs; Soldiers;</dc:subject>
 <dc:subject>Conklin, James Henry, ?-1915</dc:subject>
 <dc:subject>Military</dc:subject>
-<dc:format>Photograph, Ferrotype, 2 by 3 in. (5 x 8 cm)</dc:format>
+<dc:format>Photograph, Ferrotype; 2 by 3 in. (5 x 8 cm)</dc:format>
 <dc:source>Betty Murray Carey Collection</dc:source>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-005181</dc:identifier>
@@ -2266,7 +2267,7 @@ by Donald F. Clark, Orange County Historian, 1975.</dc:description>
 <dc:subject>Avalon Blueprint &amp; Copy Center; Clem &amp; Daisy&#x27;s;  Horse Hollow Press; Thompson&#x27;s Drug Store</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Business &amp; Industry</dc:subject>
-<dc:format>Photograph, Print, 9.5 by 7 in. (24.2 x 18.7 cm)</dc:format>
+<dc:format>Photograph, Print; 9.5 by 7 in. (24.2 x 18.7 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-005187</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -2275,7 +2276,7 @@ by Donald F. Clark, Orange County Historian, 1975.</dc:description>
 <dc:rights>Prior written permission is required for any use of the images in this collection from the Chester Historical Society.</dc:rights>
 <dc:identifier>http://www.hrvh.org/cdm/ref/collection/chs/id/113</dc:identifier></oai_dc:dc>
 </metadata>
-</record><record><header><identifier>oai:www.hrvh.org:chs/114</identifier><datestamp>2007-08-28</datestamp><setSpec>chs</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:chs/114</identifier><datestamp>2015-08-19</datestamp><setSpec>chs</setSpec></header>
 <metadata>
 <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
 <dc:title>Poverty Party invitation</dc:title>
@@ -2286,7 +2287,7 @@ by Donald F. Clark, Orange County Historian, 1975.</dc:description>
 <dc:subject>Ladies&#x27; Aid Society of the Methodist Episcopal, Chester</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Community &amp; Events</dc:subject>
-<dc:format>Advertizement, 6 by 9 in. (15.8 x 23.4 cm)</dc:format>
+<dc:format>Advertisement; 6 by 9 in. (15.8 x 23.4 cm)</dc:format>
 <dc:type>Text</dc:type>
 <dc:identifier>chs-005010</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -2295,7 +2296,7 @@ by Donald F. Clark, Orange County Historian, 1975.</dc:description>
 <dc:rights>Prior written permission is required for any use of the images in this collection from the Chester Historical Society.</dc:rights>
 <dc:identifier>http://www.hrvh.org/cdm/ref/collection/chs/id/114</dc:identifier></oai_dc:dc>
 </metadata>
-</record><record><header><identifier>oai:www.hrvh.org:chs/115</identifier><datestamp>2015-07-21</datestamp><setSpec>chs</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:chs/115</identifier><datestamp>2015-08-19</datestamp><setSpec>chs</setSpec></header>
 <metadata>
 <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
 <dc:title>Old Maids&#x27; Convention</dc:title>
@@ -2306,7 +2307,7 @@ by Donald F. Clark, Orange County Historian, 1975.</dc:description>
 <dc:subject>Knights of Pythias</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Community &amp; Events</dc:subject>
-<dc:format>7 by 5 inches on 10 by 7 3/4 inch cardboard mount (25.4 x 20.5 Cm)</dc:format>
+<dc:format>Photograph; 7 by 5 inches on 10 by 7 3/4 inch cardboard mount (25.4 x 20.5 Cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-005014</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -2326,7 +2327,7 @@ by Donald F. Clark, Orange County Historian, 1975.</dc:description>
 <dc:subject>Durland, Charles B., 1791-1840; Durland, D. Y.; Durland, Maude; Mapes, Althea Maude (Gaunt); Mapes, J. D.</dc:subject>
 <dc:subject>Chester Academy</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
-<dc:format>Post Card, 5.3 by 3.4 in. (13.6 x 8.7 cm)</dc:format>
+<dc:format>Post Card; 5.3 by 3.4 in. (13.6 x 8.7 cm)</dc:format>
 <dc:source>Bill Durland Collection</dc:source>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-005379</dc:identifier>
@@ -2367,7 +2368,7 @@ Note: Brick building on right was George Ermold Surgical Instruments.</dc:descri
 <dc:subject>American House; George Ermold Surgical Instruments</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Architecture</dc:subject>
-<dc:format>Photograph, Print, 4.6 by 6.5 in. (11.8 x 16.65 cm)</dc:format>
+<dc:format>Photograph, Print; 4.6 by 6.5 in. (11.8 x 16.65 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-005343</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -2387,7 +2388,7 @@ Note: Brick building on right was George Ermold Surgical Instruments.</dc:descri
 <dc:subject>Chester High School Basketball team</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Education</dc:subject>
-<dc:format>Photograph, Print, 6.7 by 4.8 in. (17.2 x 12.3 cm)</dc:format>
+<dc:format>Photograph, Print; 6.7 by 4.8 in. (17.2 x 12.3 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-005321</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -2396,7 +2397,7 @@ Note: Brick building on right was George Ermold Surgical Instruments.</dc:descri
 <dc:rights>Prior written permission is required for any use of the images in this collection from the Chester Historical Society.</dc:rights>
 <dc:identifier>http://www.hrvh.org/cdm/ref/collection/chs/id/121</dc:identifier></oai_dc:dc>
 </metadata>
-</record><record><header><identifier>oai:www.hrvh.org:chs/122</identifier><datestamp>2007-08-28</datestamp><setSpec>chs</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:chs/122</identifier><datestamp>2015-08-19</datestamp><setSpec>chs</setSpec></header>
 <metadata>
 <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
 <dc:title>Wilkin Building, Main Street</dc:title>
@@ -2407,7 +2408,7 @@ Kelly and Son Dentists are upstairs.</dc:description>
 <dc:subject>Dunnings, Kelly and Son Dentists</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Architecture</dc:subject>
-<dc:format>8 by 5 inches mounted on 9 by 6 3/4 inch board, (22.9 x 17.1 x  cm)</dc:format>
+<dc:format>Photograph; 8 by 5 inches mounted on 9 by 6 3/4 inch board, (22.9 x 17.1 x  cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-005347</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -2416,7 +2417,7 @@ Kelly and Son Dentists are upstairs.</dc:description>
 <dc:rights>Prior written permission is required for any use of the images in this collection from the Chester Historical Society.</dc:rights>
 <dc:identifier>http://www.hrvh.org/cdm/ref/collection/chs/id/122</dc:identifier></oai_dc:dc>
 </metadata>
-</record><record><header><identifier>oai:www.hrvh.org:chs/123</identifier><datestamp>2015-07-20</datestamp><setSpec>chs</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:chs/123</identifier><datestamp>2015-08-19</datestamp><setSpec>chs</setSpec></header>
 <metadata>
 <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
 <dc:title>Ladies in sleigh</dc:title>
@@ -2425,7 +2426,7 @@ Kelly and Son Dentists are upstairs.</dc:description>
 <dc:subject>Photographs; Sleds &amp; sleighs;Group Portraits</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Daily Life</dc:subject>
-<dc:format>Photograph, Negative, 1.4 by 0.8 in. (3.53 x 2.12 cm)</dc:format>
+<dc:format>Photograph, Negative; 1.4 by 0.8 in. (3.53 x 2.12 cm)</dc:format>
 <dc:relation>Kerner album</dc:relation>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-005354</dc:identifier>
@@ -2446,7 +2447,7 @@ Kelly and Son Dentists are upstairs.</dc:description>
 <dc:subject>Erie RR Station</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Community &amp; Events</dc:subject>
-<dc:format>Photograph, Print, 6.6 by 5 in. (17 x 12.9 cm)</dc:format>
+<dc:format>Photograph, Print; 6.6 by 5 in. (17 x 12.9 cm)</dc:format>
 <dc:source>Mary Rose Cullen Collection</dc:source>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-005363</dc:identifier>
@@ -2469,7 +2470,7 @@ James Henry Conklin  was born in Deer Park, NY.</dc:description>
 <dc:subject>Conklin, James Henry, -1915; Conklin, Mary Ann, 1842-1923; Carey, Betty Murray</dc:subject>
 <dc:subject>Conservo&#x27;s Real Estate</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
-<dc:format>Photograph, Print, 4.5 by 6.3 in. (11.4 x 15.9 cm)</dc:format>
+<dc:format>Photograph, Print; 4.5 by 6.3 in. (11.4 x 15.9 cm)</dc:format>
 <dc:source>Betty Murray Carey Collection</dc:source>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-005377</dc:identifier>
@@ -2489,7 +2490,7 @@ James Henry Conklin  was born in Deer Park, NY.</dc:description>
 <dc:subject>Durland&#x27;s Department Store</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Architecture</dc:subject>
-<dc:format>Photograph, Print, 7 by 5 in. (17.8 x 12.7 cm)</dc:format>
+<dc:format>Photograph, Print; 7 by 5 in. (17.8 x 12.7 cm)</dc:format>
 <dc:source>W. S. Durland Collection</dc:source>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-005387</dc:identifier>
@@ -2510,7 +2511,7 @@ James Henry Conklin  was born in Deer Park, NY.</dc:description>
 <dc:subject>Lawrence, Mary “May” Murray</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>People; Women</dc:subject>
-<dc:format>Photograph, Print, 2.4 by 2.9 in. (6.1 x 7.4 cm)</dc:format>
+<dc:format>Photograph, Print; 2.4 by 2.9 in. (6.1 x 7.4 cm)</dc:format>
 <dc:source>Betty Murray Carey Collection</dc:source>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-005517</dc:identifier>
@@ -2532,7 +2533,7 @@ James Henry Conklin  was born in Deer Park, NY.</dc:description>
 <dc:subject>F. B. Seely</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Business &amp; Industry</dc:subject>
-<dc:format>Document, Business, 8.5 by 4.7 in. (21.7 x 11.9 cm)</dc:format>
+<dc:format>Document, Business; 8.5 by 4.7 in. (21.7 x 11.9 cm)</dc:format>
 <dc:type>Text</dc:type>
 <dc:identifier>chs-005474</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -2550,7 +2551,7 @@ residence on Main Street. About 1920 - added enlarged and wraparound porch. 1955
 <dc:subject>Photographs; Group portraits; Dwellings;</dc:subject>
 <dc:subject>Lawrence, William A., 1842-?</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
-<dc:format>Photograph, Print, 6.8 by 5.2 in. (17.3 x 13.4 cm)</dc:format>
+<dc:format>Photograph, Print; 6.8 by 5.2 in. (17.3 x 13.4 cm)</dc:format>
 <dc:source>Betty Murray Carey Collection</dc:source>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-005519</dc:identifier>
@@ -2571,7 +2572,7 @@ residence on Main Street. About 1920 - added enlarged and wraparound porch. 1955
 <dc:subject>1846 Chester Academy; W.A. Lawrence&#x27;s Creamery;  Murray&#x27;s Hall; Ryan&#x27;s Hal;  A. V. D. Wallace; Wood &amp; Edsall</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Education</dc:subject>
-<dc:format>Clipping, 3 by 16.6 in. (7.8 x 42.19 cm)</dc:format>
+<dc:format>Clipping; 3 by 16.6 in. (7.8 x 42.19 cm)</dc:format>
 <dc:source>Betty Murray Carey Collection</dc:source>
 <dc:type>Text</dc:type>
 <dc:identifier>chs-005772</dc:identifier>
@@ -2598,7 +2599,7 @@ Chester Inn is right most building. (Section overhanging stable entrance long go
 <dc:subject>W?n Fricker</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Architecture</dc:subject>
-<dc:format>Photograph, Print, 10 by 8 in. (25.4 x 20.3 cm)</dc:format>
+<dc:format>Photograph, Print; 10 by 8 in. (25.4 x 20.3 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-005314</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -2640,7 +2641,7 @@ Jonathan Board, built the house in 1863. Originally, the house was built with an
 <dc:subject>Board Farm</dc:subject>
 <dc:coverage>Blooming Grove - Orange County - New York</dc:coverage>
 <dc:subject>Architecture</dc:subject>
-<dc:format>Photograph, Print, 6.6 by 4.6 in. (16.8 x 11.7 cm)</dc:format>
+<dc:format>Photograph, Print; 6.6 by 4.6 in. (16.8 x 11.7 cm)</dc:format>
 <dc:source>Betty Lou Memmelaar Collection</dc:source>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-005522</dc:identifier>
@@ -2669,7 +2670,7 @@ Jonathan Board, built the house in 1863. Originally, the house was built with an
 <dc:rights>Prior written permission is required for any use of the images in this collection from the Chester Historical Society.</dc:rights>
 <dc:identifier>http://www.hrvh.org/cdm/ref/collection/chs/id/134</dc:identifier></oai_dc:dc>
 </metadata>
-</record><record><header><identifier>oai:www.hrvh.org:chs/135</identifier><datestamp>2015-07-30</datestamp><setSpec>chs</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:chs/135</identifier><datestamp>2015-08-19</datestamp><setSpec>chs</setSpec></header>
 <metadata>
 <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
 <dc:title>Decorator from Brooklyn in Downtown Chester</dc:title>
@@ -2677,7 +2678,7 @@ Jonathan Board, built the house in 1863. Originally, the house was built with an
 <dc:description>Photograph taken in downtown Chester, looking towards the depot, of a man standing next to buggy labeled&quot; “Decorator, 305 B,Way, Brooklyn.” In background, Erie freight cars, Borden&#x27;s milk depot and the Railroad control tower can be seen.</dc:description>
 <dc:subject>Photographs; Villages; Railroad signal towers; Carts &amp; wagons;</dc:subject>
 <dc:subject>Borden; Decorator; Erie RR</dc:subject>
-<dc:format>4 1/4 by 3 1/4 inch photo mounted on 5 3/4 by 4 1/2 inch board, (15 x 12.2 x  cm)</dc:format>
+<dc:format>Photograph; 4 1/4 by 3 1/4 inch photo mounted on 5 3/4 by 4 1/2 inch board, (15 x 12.2 x  cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-005782</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -2686,7 +2687,7 @@ Jonathan Board, built the house in 1863. Originally, the house was built with an
 <dc:rights>Prior written permission is required for any use of the images in this collection from the Chester Historical Society.</dc:rights>
 <dc:identifier>http://www.hrvh.org/cdm/ref/collection/chs/id/135</dc:identifier></oai_dc:dc>
 </metadata>
-</record><record><header><identifier>oai:www.hrvh.org:chs/136</identifier><datestamp>2015-07-29</datestamp><setSpec>chs</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:chs/136</identifier><datestamp>2015-08-19</datestamp><setSpec>chs</setSpec></header>
 <metadata>
 <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
 <dc:title>E. L. B.</dc:title>
@@ -2702,7 +2703,7 @@ Note:  Some of these same people are also in the group of 13 people in a snowy p
 <dc:subject>Photographs; Group portraits; Buildings;</dc:subject>
 <dc:subject>Razey; Weekly News</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
-<dc:format>5 by 4 inch photo mounted on a 5 1/4 by 4 1/4 inch cardboard,  (13.4 x 11 x  cm)</dc:format>
+<dc:format>Photograph; 5 by 4 inch photo mounted on a 5 1/4 by 4 1/4 inch cardboard,  (13.4 x 11 x  cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-005800</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -2711,7 +2712,7 @@ Note:  Some of these same people are also in the group of 13 people in a snowy p
 <dc:rights>Prior written permission is required for any use of the images in this collection from the Chester Historical Society.</dc:rights>
 <dc:identifier>http://www.hrvh.org/cdm/ref/collection/chs/id/136</dc:identifier></oai_dc:dc>
 </metadata>
-</record><record><header><identifier>oai:www.hrvh.org:chs/137</identifier><datestamp>2008-10-28</datestamp><setSpec>chs</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:chs/137</identifier><datestamp>2015-08-19</datestamp><setSpec>chs</setSpec></header>
 <metadata>
 <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
 <dc:title>Record 2:19</dc:title>
@@ -2719,7 +2720,7 @@ Note:  Some of these same people are also in the group of 13 people in a snowy p
 <dc:description>Photograph of driver with trotter at unknown track: &quot;Record 2:19&quot;</dc:description>
 <dc:subject>Photographs; Portrait photographs; Horse racing;</dc:subject>
 <dc:subject>Recreation; Sports</dc:subject>
-<dc:format>5 by 4 inch photo mounted on a 6 3/4 by 5 inch cardboard,, (17.5 x 12.6 x  cm)</dc:format>
+<dc:format>Photograph; 5 by 4 inch photo mounted on a 6 3/4 by 5 inch cardboard,, (17.5 x 12.6 x  cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-005802</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -2728,7 +2729,7 @@ Note:  Some of these same people are also in the group of 13 people in a snowy p
 <dc:rights>Prior written permission is required for any use of the images in this collection from the Chester Historical Society.</dc:rights>
 <dc:identifier>http://www.hrvh.org/cdm/ref/collection/chs/id/137</dc:identifier></oai_dc:dc>
 </metadata>
-</record><record><header><identifier>oai:www.hrvh.org:chs/138</identifier><datestamp>2007-08-29</datestamp><setSpec>chs</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:chs/138</identifier><datestamp>2015-08-19</datestamp><setSpec>chs</setSpec></header>
 <metadata>
 <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
 <dc:title>7 children sitting on a rail and 5 adults standing 1900</dc:title>
@@ -2739,7 +2740,7 @@ Note:  Some of these same people are also in the group of 13 people in a snowy p
 <dc:subject>Weekly News</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Daily Life</dc:subject>
-<dc:format>3 1/2 by 3 1/2 inch photo mounted on a 5  by 5 inch cardboard. (12.7 x 12.7 x  cm)</dc:format>
+<dc:format>Photograph; 3 1/2 by 3 1/2 inch photo mounted on a 5  by 5 inch cardboard. (12.7 x 12.7 x  cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-005801</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -2759,7 +2760,7 @@ Note:  Some of these same people are also in the group of 13 people in a snowy p
 <dc:subject>Brook Farm</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Daily Life</dc:subject>
-<dc:format>Photograph, Print, 4.5 by 2.75 in. (11.5 x 7 cm)</dc:format>
+<dc:format>Photograph, Print; 4.5 by 2.75 in. (11.5 x 7 cm)</dc:format>
 <dc:source>Betty Murray Carey Collection</dc:source>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-005810</dc:identifier>
@@ -2778,7 +2779,7 @@ Note:  Some of these same people are also in the group of 13 people in a snowy p
 <dc:subject>Photographs; Group portraits;</dc:subject>
 <dc:subject>Boyle, Con; Boyle, Joe; Braffett, Anna, 1905-; Braffett, Josephine, 1900-; Braffett, Victoria, 1897-1980; McDuff. Joe; Van Rompaye, Edna</dc:subject>
 <dc:subject>People</dc:subject>
-<dc:format>Photograph, Print, 3.4 by 2.2 in. (8.8 x 5.8  cm)</dc:format>
+<dc:format>Photograph, Print; 3.4 by 2.2 in. (8.8 x 5.8  cm)</dc:format>
 <dc:source>Betty Murray Carey Collection</dc:source>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-005807</dc:identifier>
@@ -2799,7 +2800,7 @@ Note:  Some of these same people are also in the group of 13 people in a snowy p
 <dc:subject>Owen&#x27;s Store; Murray&#x27;s Garage; Durland&#x27;s Store; Brown&#x27;s Eats</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Architecture</dc:subject>
-<dc:format>Photograph, Print, 7 by 5 in. (17.8 x 12.7 cm)</dc:format>
+<dc:format>Photograph, Print; 7 by 5 in. (17.8 x 12.7 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-005804</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -2820,7 +2821,7 @@ Note:  Some of these same people are also in the group of 13 people in a snowy p
 <dc:subject>Board of Education of Chester; Board of Trade; Board, Thompson &amp; Pierson; Cash Store; Chester National Bank; Chester Telephone Co.; First Presbyterian Church of Chester; J. &amp; S. S. Durland; J. Durland &amp; Son; J. Durland &amp; Son; Pierson, Bell &amp; Durland; Standard Lodge, No. 711, F. &amp; A. M., Monroe; Union Free School; Village of Chester; Yelverton &amp; Thompson</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Business &amp; Industry</dc:subject>
-<dc:format>Clipping, 6.9 by 11.4 in. (17.5 x 29.1 cm)</dc:format>
+<dc:format>Clipping; 6.9 by 11.4 in. (17.5 x 29.1 cm)</dc:format>
 <dc:source>W. S. Durland Collection</dc:source>
 <dc:type>Image; Text</dc:type>
 <dc:identifier>chs-005805</dc:identifier>
@@ -2830,7 +2831,7 @@ Note:  Some of these same people are also in the group of 13 people in a snowy p
 <dc:rights>Prior written permission is required for any use of the images in this collection from the Chester Historical Society.</dc:rights>
 <dc:identifier>http://www.hrvh.org/cdm/ref/collection/chs/id/142</dc:identifier></oai_dc:dc>
 </metadata>
-</record><record><header><identifier>oai:www.hrvh.org:chs/143</identifier><datestamp>2015-07-29</datestamp><setSpec>chs</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:chs/143</identifier><datestamp>2015-08-19</datestamp><setSpec>chs</setSpec></header>
 <metadata>
 <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
 <dc:title>E. L. B.</dc:title>
@@ -2842,7 +2843,7 @@ Many of these same people appear in the Razey photograph taken the same day, dow
 <dc:subject>Razey</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>People</dc:subject>
-<dc:format>5 1/2 by 4 inch photo mounted on a 6 1/2 by 4 1/4 inch cardboard, (16.9 x 11 x  cm)</dc:format>
+<dc:format>Photograph; 5 1/2 by 4 inch photo mounted on a 6 1/2 by 4 1/4 inch cardboard, (16.9 x 11 x  cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-003602</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -2863,7 +2864,7 @@ Overlooking downtown Chester. The Corporation building is the first one on the r
 <dc:subject>Brook Farm; Corporation building</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Daily Life</dc:subject>
-<dc:format>Photograph, Print, 4.5 by 2.5 in. (11.5 x 7 cm)</dc:format>
+<dc:format>Photograph, Print; 4.5 by 2.5 in. (11.5 x 7 cm)</dc:format>
 <dc:source>Betty Murray Carey Collection</dc:source>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-005811</dc:identifier>
@@ -2883,7 +2884,7 @@ Overlooking downtown Chester. The Corporation building is the first one on the r
 <dc:subject>Edsall, Mrs. H. E.;  Peachey, Ellen</dc:subject>
 <dc:coverage>Chester (Town) - Orange County - New York</dc:coverage>
 <dc:subject>Daily Life</dc:subject>
-<dc:format>Envelope, 5.4 by 3.2 in. (13.8 x 8.1 cm)</dc:format>
+<dc:format>Envelope; 5.4 by 3.2 in. (13.8 x 8.1 cm)</dc:format>
 <dc:type>Text</dc:type>
 <dc:identifier>chs-005930</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -2892,7 +2893,7 @@ Overlooking downtown Chester. The Corporation building is the first one on the r
 <dc:rights>Prior written permission is required for any use of the images in this collection from the Chester Historical Society.</dc:rights>
 <dc:identifier>http://www.hrvh.org/cdm/ref/collection/chs/id/145</dc:identifier></oai_dc:dc>
 </metadata>
-</record><record><header><identifier>oai:www.hrvh.org:chs/146</identifier><datestamp>2007-08-29</datestamp><setSpec>chs</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:chs/146</identifier><datestamp>2015-08-19</datestamp><setSpec>chs</setSpec></header>
 <metadata>
 <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
 <dc:title>Lady with child</dc:title>
@@ -2903,7 +2904,7 @@ Overlooking downtown Chester. The Corporation building is the first one on the r
 <dc:subject>People</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>People</dc:subject>
-<dc:format>2 1/2 by 4 inches photo mounted on 4 by 6 inch board, (10.3 x 14.6 cm)</dc:format>
+<dc:format>Photograph; 2 1/2 by 4 inches photo mounted on 4 by 6 inch board, (10.3 x 14.6 cm)</dc:format>
 <dc:source>Betty Murray Carey Collection</dc:source>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-006046</dc:identifier>
@@ -2913,18 +2914,17 @@ Overlooking downtown Chester. The Corporation building is the first one on the r
 <dc:rights>Prior written permission is required for any use of the images in this collection from the Chester Historical Society.</dc:rights>
 <dc:identifier>http://www.hrvh.org/cdm/ref/collection/chs/id/146</dc:identifier></oai_dc:dc>
 </metadata>
-</record><record><header><identifier>oai:www.hrvh.org:chs/147</identifier><datestamp>2007-09-03</datestamp><setSpec>chs</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:chs/147</identifier><datestamp>2015-08-19</datestamp><setSpec>chs</setSpec></header>
 <metadata>
 <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
 <dc:title>Florence Madden in goat cart</dc:title>
 <dc:date>1900-03-12</dc:date>
-<dc:publisher>Carins, 707Broad Street, Newark</dc:publisher>
 <dc:description>Photograph of Florence Madden in goat cart.</dc:description>
 <dc:subject>Photographs; Goat carts;</dc:subject>
 <dc:subject>Madden, Florence</dc:subject>
 <dc:subject>Domestic Life</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
-<dc:format>3 1/2 by 3 1/2 inches photo mounted on 5 by 5 inch board, (12.7 x 12.8 x  cm)</dc:format>
+<dc:format>Photograph; 3 1/2 by 3 1/2 inches photo mounted on 5 by 5 inch board, (12.7 x 12.8 x  cm)</dc:format>
 <dc:source>Betty Murray Carey Collection</dc:source>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-006047</dc:identifier>
@@ -2945,7 +2945,7 @@ Overlooking downtown Chester. The Corporation building is the first one on the r
 <dc:subject>Erie Railroad</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Transportation</dc:subject>
-<dc:format>Photograph, print, 9.6 by 7.5 in. (24.5 x 19.3 cm)</dc:format>
+<dc:format>Photograph, Print; 9.6 by 7.5 in. (24.5 x 19.3 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-006049</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -2954,7 +2954,7 @@ Overlooking downtown Chester. The Corporation building is the first one on the r
 <dc:rights>Prior written permission is required for any use of the images in this collection from the Chester Historical Society.</dc:rights>
 <dc:identifier>http://www.hrvh.org/cdm/ref/collection/chs/id/148</dc:identifier></oai_dc:dc>
 </metadata>
-</record><record><header><identifier>oai:www.hrvh.org:chs/149</identifier><datestamp>2015-07-30</datestamp><setSpec>chs</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:chs/149</identifier><datestamp>2015-08-19</datestamp><setSpec>chs</setSpec></header>
 <metadata>
 <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
 <dc:title>Nellie Marvin&#x27;s wedding party</dc:title>
@@ -2965,7 +2965,7 @@ Overlooking downtown Chester. The Corporation building is the first one on the r
 <dc:subject>Camp LaGuardia, Marvin Farm</dc:subject>
 <dc:coverage>Blooming Grove - Orange County - New York</dc:coverage>
 <dc:subject>Daily Life</dc:subject>
-<dc:format>5 by 4 inch photo mounted on a 6 1/2 by 5 1/2 inch board, (16.5 x 13.8 cm)</dc:format>
+<dc:format>Photograph; 5 by 4 inch photo mounted on a 6 1/2 by 5 1/2 inch board, (16.5 x 13.8 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-006058</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -2983,7 +2983,7 @@ Overlooking downtown Chester. The Corporation building is the first one on the r
 <dc:subject>Photographs; Portrait photographs;</dc:subject>
 <dc:subject>Delafield, Richard, 1853-1930</dc:subject>
 <dc:subject>Brook Farm</dc:subject>
-<dc:format>Photograph, Print, 7.5 by 9.25 in. (19 x 23.5 cm)</dc:format>
+<dc:format>Photograph, Print; 7.5 by 9.25 in. (19 x 23.5 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-006061</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -2992,19 +2992,18 @@ Overlooking downtown Chester. The Corporation building is the first one on the r
 <dc:rights>Prior written permission is required for any use of the images in this collection from the Chester Historical Society.</dc:rights>
 <dc:identifier>http://www.hrvh.org/cdm/ref/collection/chs/id/150</dc:identifier></oai_dc:dc>
 </metadata>
-</record><record><header><identifier>oai:www.hrvh.org:chs/151</identifier><datestamp>2015-07-20</datestamp><setSpec>chs</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:chs/151</identifier><datestamp>2015-08-19</datestamp><setSpec>chs</setSpec></header>
 <metadata>
 <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
 <dc:title>In Gainsville, Florida</dc:title>
 <dc:date>1878-03</dc:date>
-<dc:publisher>Publisher.Original</dc:publisher>
 <dc:description>Photograph of five Chester men in Gainsville, Florida. Dr. C.P. Smith, Sr. - driving; Nathaniel Thompson - chin covered up; John Knapp on front seat; Thaddeus Durland - rear with cap; and Lewis Masterson on donkey.</dc:description>
 <dc:subject>Photographs; Group portraits;</dc:subject>
 <dc:subject>Durland, Thaddeus Seely; Knapp, John; Masterson, Lewis; Smith, Charles Pashall, 1871-1935; Thompson, Nathaniel Stewart, ?-1913</dc:subject>
 <dc:subject>People</dc:subject>
 <dc:coverage>Gainesville - Alachua County - Florida</dc:coverage>
 <dc:subject>People;</dc:subject>
-<dc:format>6 1/2 by 4 1/2 inch photo mounted on 10 by 8 inch board, (25.4 x 20.1 x  cm)</dc:format>
+<dc:format>Photograph; 6 1/2 by 4 1/2 inch photo mounted on 10 by 8 inch board, (25.4 x 20.1 x  cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-006062</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -3045,7 +3044,7 @@ Overlooking downtown Chester. The Corporation building is the first one on the r
 <dc:subject>Caldwell &amp; Garrison Civil Engrs; Erie RR; Lehigh &amp; Hudson River Railway Co.; NYLE&amp;W RR Co.; Orange County RR; Town of Blooming Grove; Town of Chester</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Agriculture</dc:subject>
-<dc:format>Map, 68 by 32 in. (173.6 x 82.5 cm)</dc:format>
+<dc:format>Map; 68 by 32 in. (173.6 x 82.5 cm)</dc:format>
 <dc:source>Myrtle Edwards Collection</dc:source>
 <dc:type>Image; Text</dc:type>
 <dc:identifier>chs-006521</dc:identifier>
@@ -3055,17 +3054,17 @@ Overlooking downtown Chester. The Corporation building is the first one on the r
 <dc:rights>Prior written permission is required for any use of the images in this collection from the Chester Historical Society.</dc:rights>
 <dc:identifier>http://www.hrvh.org/cdm/ref/collection/chs/id/153</dc:identifier></oai_dc:dc>
 </metadata>
-</record><record><header><identifier>oai:www.hrvh.org:chs/154</identifier><datestamp>2015-07-21</datestamp><setSpec>chs</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:chs/154</identifier><datestamp>2015-08-19</datestamp><setSpec>chs</setSpec></header>
 <metadata>
 <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
 <dc:title>James W. Lake &amp; Hellen L. Mead marriage certificate</dc:title>
 <dc:date>1855-03-05</dc:date>
-<dc:publisher>Wellstood, Benson &amp; Hanks, New York</dc:publisher>
+<dc:contributor>Wellstood, Benson &amp; Hanks (New York, N.Y.)</dc:contributor>
 <dc:description>Mr. James W. Lake &amp; Miss Hellen L. Mead marriage certificate.</dc:description>
 <dc:subject>Marriage certificates;</dc:subject>
 <dc:subject>Lake, James W.; Lake, Hellen L. Mead; Mead, Martha J.; Morey, Abigail A.; Rose, Daniel</dc:subject>
 <dc:coverage>Chester (Town) - Orange County - New York</dc:coverage>
-<dc:format>Document, Personal, 11.4 by 8.25 in. (29.1 x 21 cm)</dc:format>
+<dc:format>Document, Personal; 11.4 by 8.25 in. (29.1 x 21 cm)</dc:format>
 <dc:type>Image; Text</dc:type>
 <dc:identifier>chs-006604</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -3094,7 +3093,7 @@ Overlooking downtown Chester. The Corporation building is the first one on the r
 <dc:rights>Prior written permission is required for any use of the images in this collection from the Chester Historical Society.</dc:rights>
 <dc:identifier>http://www.hrvh.org/cdm/ref/collection/chs/id/155</dc:identifier></oai_dc:dc>
 </metadata>
-</record><record><header><identifier>oai:www.hrvh.org:chs/156</identifier><datestamp>2007-08-30</datestamp><setSpec>chs</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:chs/156</identifier><datestamp>2015-08-19</datestamp><setSpec>chs</setSpec></header>
 <metadata>
 <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
 <dc:title>Informal School Board Reception invitation</dc:title>
@@ -3104,7 +3103,7 @@ Overlooking downtown Chester. The Corporation building is the first one on the r
 <dc:subject>Board of Education; Chester Public Schools</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Education</dc:subject>
-<dc:format>Document, 4.4 by 3.4 in. (11.3 x 8.8 cm)</dc:format>
+<dc:format>Document; 4.4 by 3.4 in. (11.3 x 8.8 cm)</dc:format>
 <dc:source>Donall M. Barrell Collection</dc:source>
 <dc:type>Text</dc:type>
 <dc:identifier>chs-006652</dc:identifier>
@@ -3125,7 +3124,7 @@ Overlooking downtown Chester. The Corporation building is the first one on the r
 <dc:subject>G.L. Row</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Transportation</dc:subject>
-<dc:format>Document, Business, 7.7 by 3 in. (19.7 x 8 cm)</dc:format>
+<dc:format>Document, Business; 7.7 by 3 in. (19.7 x 8 cm)</dc:format>
 <dc:type>Text</dc:type>
 <dc:identifier>chs-007078</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -3147,7 +3146,7 @@ Overlooking downtown Chester. The Corporation building is the first one on the r
 <dc:subject>Brook Farm</dc:subject>
 <dc:coverage>Bailiwick of Jersey - Channel Islands - United Kingdom</dc:coverage>
 <dc:subject>Agriculture</dc:subject>
-<dc:format>Photograph, Print, 8 by 5 in. (20.7 x 12.7 cm)</dc:format>
+<dc:format>Photograph, Print; 8 by 5 in. (20.7 x 12.7 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-007083</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -3166,7 +3165,7 @@ Overlooking downtown Chester. The Corporation building is the first one on the r
 <dc:subject>Colegrove, Ralph</dc:subject>
 <dc:subject>Chester Industrial Park; Kohl&#x27;s Department Stores; V. Paulis Associates</dc:subject>
 <dc:coverage>Chester (Town) - Orange County - New York</dc:coverage>
-<dc:format>Photograph, Ferrotype, 5.4 by 4.1 in. (13.9 x 10.5 cm) - uncased, bent, dented with perimeter degradation.</dc:format>
+<dc:format>Photograph, Ferrotype; 5.4 by 4.1 in. (13.9 x 10.5 cm) - uncased, bent, dented with perimeter degradation.</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-007318</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -3186,7 +3185,7 @@ Overlooking downtown Chester. The Corporation building is the first one on the r
 <dc:subject>Presbyterian Church</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Religion</dc:subject>
-<dc:format>Photograph, Print, 7 by 5 in. (17.8 x 12.7 cm)</dc:format>
+<dc:format>Photograph, Print; 7 by 5 in. (17.8 x 12.7 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-007093</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -3205,7 +3204,7 @@ Overlooking downtown Chester. The Corporation building is the first one on the r
 <dc:subject>S. Wilkin &amp; Son Carriages &amp; Wagons</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Business &amp; Industry</dc:subject>
-<dc:format>Photograph, Print, 8 1/4 by 4 3/4 inches mounded on 12 by 7 1/2 inch broken cardboard, (30.5 x 19 cm)</dc:format>
+<dc:format>Photograph, Print; 8 1/4 by 4 3/4 inches mounded on 12 by 7 1/2 inch broken cardboard, (30.5 x 19 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-007536</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -3241,7 +3240,7 @@ Overlooking downtown Chester. The Corporation building is the first one on the r
 <dc:subject>Photographs; Trucks;</dc:subject>
 <dc:coverage>Chester (Town) - Orange County - New York</dc:coverage>
 <dc:subject>Transportation</dc:subject>
-<dc:format>Photograph, Print, 4.5 by 3 in. (11.4 x 7.6 cm)</dc:format>
+<dc:format>Photograph, Print; 4.5 by 3 in. (11.4 x 7.6 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-007658</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -3260,7 +3259,7 @@ Overlooking downtown Chester. The Corporation building is the first one on the r
 <dc:subject>Produce Grower Trucking Association</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Transportation</dc:subject>
-<dc:format>Photograph, Print, 4.4 by 2.5 in. (11.2 x 6.6 cm)</dc:format>
+<dc:format>Photograph, Print; 4.4 by 2.5 in. (11.2 x 6.6 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-007652</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -3279,7 +3278,7 @@ Overlooking downtown Chester. The Corporation building is the first one on the r
 <dc:subject>Produce Grower Trucking Association</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Transportation</dc:subject>
-<dc:format>Photograph, Print, 4.4 by 2.5 in. (11.2 x 6.6 cm)</dc:format>
+<dc:format>Photograph, Print; 4.4 by 2.5 in. (11.2 x 6.6 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-007653</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -3299,7 +3298,7 @@ Overlooking downtown Chester. The Corporation building is the first one on the r
 <dc:subject>Roe&#x27;s Hall</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Architecture</dc:subject>
-<dc:format>Photograph, Print, 8.3 by 5 in. (21.3 x 13 cm)</dc:format>
+<dc:format>Photograph, Print; 8.3 by 5 in. (21.3 x 13 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-007599</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -3318,7 +3317,7 @@ Overlooking downtown Chester. The Corporation building is the first one on the r
 <dc:subject>Photographs; Road construction;</dc:subject>
 <dc:coverage>Chester (Town) - Orange County - New York</dc:coverage>
 <dc:subject>Transportation</dc:subject>
-<dc:format>Photograph, Print, 3 by 4.5 in. (7.6 x 11.4 cm)</dc:format>
+<dc:format>Photograph, Print; 3 by 4.5 in. (7.6 x 11.4 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-007659</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -3337,7 +3336,7 @@ Overlooking downtown Chester. The Corporation building is the first one on the r
 <dc:subject>Miller, Alvah (Alva) S., ?-1929</dc:subject>
 <dc:subject>Chester Dancing School; Knights of Pythias</dc:subject>
 <dc:subject>Business &amp; Industry</dc:subject>
-<dc:format>Document, Business, 5.5 by 3.25 in. (14 x 8.2 cm)</dc:format>
+<dc:format>Document, Business; 5.5 by 3.25 in. (14 x 8.2 cm)</dc:format>
 <dc:type>Text</dc:type>
 <dc:identifier>chs-007665</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -3346,7 +3345,7 @@ Overlooking downtown Chester. The Corporation building is the first one on the r
 <dc:rights>Prior written permission is required for any use of the images in this collection from the Chester Historical Society.</dc:rights>
 <dc:identifier>http://www.hrvh.org/cdm/ref/collection/chs/id/170</dc:identifier></oai_dc:dc>
 </metadata>
-</record><record><header><identifier>oai:www.hrvh.org:chs/171</identifier><datestamp>2007-08-30</datestamp><setSpec>chs</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:chs/171</identifier><datestamp>2015-08-19</datestamp><setSpec>chs</setSpec></header>
 <metadata>
 <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
 <dc:title>Masquerade Ball Invitation</dc:title>
@@ -3356,7 +3355,7 @@ Overlooking downtown Chester. The Corporation building is the first one on the r
 <dc:subject>Mrs. Deutsch</dc:subject>
 <dc:subject>Knights of Pythias</dc:subject>
 <dc:subject>Community &amp; Events</dc:subject>
-<dc:format>Advertizement, 2.4 by 1.4 in. (6.1 x 3.5 cm)</dc:format>
+<dc:format>Advertisement; 2.4 by 1.4 in. (6.1 x 3.5 cm)</dc:format>
 <dc:type>Text</dc:type>
 <dc:identifier>chs-007666</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -3376,7 +3375,7 @@ Overlooking downtown Chester. The Corporation building is the first one on the r
 <dc:subject>Mountain View Game Preserve</dc:subject>
 <dc:coverage>Chester (Town) - Orange County - New York</dc:coverage>
 <dc:subject>Recreation</dc:subject>
-<dc:format>Photograph, Print, 4.75 by 3 in. (12.1 x 7.6 cm)</dc:format>
+<dc:format>Photograph, Print; 4.75 by 3 in. (12.1 x 7.6 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-007680</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -3396,7 +3395,7 @@ Overlooking downtown Chester. The Corporation building is the first one on the r
 <dc:subject>Mountain View Farm &amp; Game Preserve</dc:subject>
 <dc:coverage>Chester (Town) - Orange County - New York</dc:coverage>
 <dc:subject>Recreation</dc:subject>
-<dc:format>Photograph, Print, 4.7 by 3 in. (12.1 x 7.6 cm)</dc:format>
+<dc:format>Photograph, Print; 4.7 by 3 in. (12.1 x 7.6 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-007681</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -3414,7 +3413,7 @@ Overlooking downtown Chester. The Corporation building is the first one on the r
 <dc:subject>Photographs; Parades &amp; processions; Villages; Carriages &amp; coaches;</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Community &amp; Events</dc:subject>
-<dc:format>Photograph, Print, 4.5 by 3.5 in. (11.4 x 8.9 cm)</dc:format>
+<dc:format>Photograph, Print; 4.5 by 3.5 in. (11.4 x 8.9 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-007682</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -3433,7 +3432,7 @@ Overlooking downtown Chester. The Corporation building is the first one on the r
 <dc:subject>Chester Valley Service; Pop Steven’s Garage</dc:subject>
 <dc:coverage>Chester (Town) - Orange County - New York</dc:coverage>
 <dc:subject>Business &amp; Industry</dc:subject>
-<dc:format>Photograph, Print, 9.5 by 7.5 in. (24.1 x 19 cm)</dc:format>
+<dc:format>Photograph, Print; 9.5 by 7.5 in. (24.1 x 19 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-007685</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -3442,7 +3441,7 @@ Overlooking downtown Chester. The Corporation building is the first one on the r
 <dc:rights>Prior written permission is required for any use of the images in this collection from the Chester Historical Society.</dc:rights>
 <dc:identifier>http://www.hrvh.org/cdm/ref/collection/chs/id/175</dc:identifier></oai_dc:dc>
 </metadata>
-</record><record><header><identifier>oai:www.hrvh.org:chs/176</identifier><datestamp>2015-07-21</datestamp><setSpec>chs</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:chs/176</identifier><datestamp>2015-08-19</datestamp><setSpec>chs</setSpec></header>
 <metadata>
 <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
 <dc:title>Entering Chester on the old Monroe-Chester Road from the east.</dc:title>
@@ -3453,7 +3452,7 @@ Overlooking downtown Chester. The Corporation building is the first one on the r
 <dc:subject>Chester Valley Service.; General Outdoor Adv. Co.; Mountain View Socony; Pop Steven&#x27;s Garage; Stevens Service Station; United States Tire</dc:subject>
 <dc:coverage>Chester (Town) - Orange County - New York</dc:coverage>
 <dc:subject>Business &amp; Industry</dc:subject>
-<dc:format>9 1/2 by 7 1/2 inches mounted on linen (24.1 x 19 cm)</dc:format>
+<dc:format>Photograph; 9 1/2 by 7 1/2 inches mounted on linen (24.1 x 19 cm)</dc:format>
 <dc:source>Myrtle Edwards Collection</dc:source>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-007686</dc:identifier>
@@ -3474,7 +3473,7 @@ Overlooking downtown Chester. The Corporation building is the first one on the r
 <dc:subject>Burr, Aaron, 1756-1836; Durland, Frank, 1860-1946; Hamilton, Alexander, 1755(1757?)-1804; Murray, Harry L. Sr., 1893-1972; O’Keefe, E. B.; Washington, George, 1732-1799; Wisner, Richard</dc:subject>
 <dc:subject>Chester Board of Trade; O.J. Gude Co.; Provisional Assembly; United States Rubber Co.; United States Tire; Yelverton Inn</dc:subject>
 <dc:subject>Business &amp; Industry</dc:subject>
-<dc:format>Document, Business, 8.5 by 11 in. (21.6 x 27.9 cm)</dc:format>
+<dc:format>Document, Business; 8.5 by 11 in. (21.6 x 27.9 cm)</dc:format>
 <dc:source>Myrtle Edwards Collection</dc:source>
 <dc:type>Text</dc:type>
 <dc:identifier>chs-007687</dc:identifier>
@@ -3484,7 +3483,7 @@ Overlooking downtown Chester. The Corporation building is the first one on the r
 <dc:rights>Prior written permission is required for any use of the images in this collection from the Chester Historical Society.</dc:rights>
 <dc:identifier>http://www.hrvh.org/cdm/ref/collection/chs/id/177</dc:identifier></oai_dc:dc>
 </metadata>
-</record><record><header><identifier>oai:www.hrvh.org:chs/178</identifier><datestamp>2015-07-21</datestamp><setSpec>chs</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:chs/178</identifier><datestamp>2015-08-19</datestamp><setSpec>chs</setSpec></header>
 <metadata>
 <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
 <dc:title>Leaving Chester on the old Monroe-Chester Road, looking east</dc:title>
@@ -3495,7 +3494,7 @@ Overlooking downtown Chester. The Corporation building is the first one on the r
 <dc:subject>Mountain View Socony</dc:subject>
 <dc:coverage>Chester (Town) - Orange County - New York</dc:coverage>
 <dc:subject>Transportation</dc:subject>
-<dc:format>9 1/2 by 7 /12 inches mounted on linen (24.1 x 19 cm)</dc:format>
+<dc:format>Photograph; 9 1/2 by 7 /12 inches mounted on linen (24.1 x 19 cm)</dc:format>
 <dc:source>Myrtle Edwards Collection</dc:source>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-007688</dc:identifier>
@@ -3505,7 +3504,7 @@ Overlooking downtown Chester. The Corporation building is the first one on the r
 <dc:rights>Prior written permission is required for any use of the images in this collection from the Chester Historical Society.</dc:rights>
 <dc:identifier>http://www.hrvh.org/cdm/ref/collection/chs/id/178</dc:identifier></oai_dc:dc>
 </metadata>
-</record><record><header><identifier>oai:www.hrvh.org:chs/179</identifier><datestamp>2015-07-29</datestamp><setSpec>chs</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:chs/179</identifier><datestamp>2015-08-19</datestamp><setSpec>chs</setSpec></header>
 <metadata>
 <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
 <dc:title>Charles Board Roe at Amherst College</dc:title>
@@ -3515,7 +3514,7 @@ Overlooking downtown Chester. The Corporation building is the first one on the r
 <dc:subject>Photographs; Portrait photographs;</dc:subject>
 <dc:subject>Roe, Charles Board, 1844-1927</dc:subject>
 <dc:subject>People</dc:subject>
-<dc:format>5 1/4 by 7 3/8 inch oval print mounted on 8 1/2 by 10 3/4 inch heavy paper (21.6 x 27.3 cm)</dc:format>
+<dc:format>Photograph; 5 1/4 by 7 3/8 inch oval print mounted on 8 1/2 by 10 3/4 inch heavy paper (21.6 x 27.3 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-007690</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -3524,7 +3523,7 @@ Overlooking downtown Chester. The Corporation building is the first one on the r
 <dc:rights>Prior written permission is required for any use of the images in this collection from the Chester Historical Society.</dc:rights>
 <dc:identifier>http://www.hrvh.org/cdm/ref/collection/chs/id/179</dc:identifier></oai_dc:dc>
 </metadata>
-</record><record><header><identifier>oai:www.hrvh.org:chs/180</identifier><datestamp>2007-08-30</datestamp><setSpec>chs</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:chs/180</identifier><datestamp>2015-08-19</datestamp><setSpec>chs</setSpec></header>
 <metadata>
 <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
 <dc:title>St. Paul&#x27;s Episcopal Church</dc:title>
@@ -3535,7 +3534,7 @@ Overlooking downtown Chester. The Corporation building is the first one on the r
 <dc:subject>St. Paul&#x27;s Episcopal Church</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Architecture</dc:subject>
-<dc:format>Photograph, copy, 5 by 4 in. (12.74 x 10.1 cm)</dc:format>
+<dc:format>Photograph, copy; 5 by 4 in. (12.74 x 10.1 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-007703</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -3554,7 +3553,7 @@ Overlooking downtown Chester. The Corporation building is the first one on the r
 <dc:subject>St. Columba Church</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Religion</dc:subject>
-<dc:format>Photograph, Print, 6.7 by 5 in. (17.1 x 12.7 cm)</dc:format>
+<dc:format>Photograph, Print; 6.7 by 5 in. (17.1 x 12.7 cm)</dc:format>
 <dc:source>Betty Murray Carey Collection</dc:source>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-007704</dc:identifier>
@@ -3575,7 +3574,7 @@ Overlooking downtown Chester. The Corporation building is the first one on the r
 <dc:subject>St. Columba School</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Education</dc:subject>
-<dc:format>Photograph, Print, 3.25 by 2.25 in. (8.3 x 5.7 cm)</dc:format>
+<dc:format>Photograph, Print; 3.25 by 2.25 in. (8.3 x 5.7 cm)</dc:format>
 <dc:source>Betty Murray Carey Collection</dc:source>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-007705</dc:identifier>
@@ -3596,7 +3595,7 @@ Overlooking downtown Chester. The Corporation building is the first one on the r
 <dc:subject>St. Columba School</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Education</dc:subject>
-<dc:format>Photograph, Print, 3.5 by 2.25 in. (8.9 x 5.7 cm)</dc:format>
+<dc:format>Photograph, Print; 3.5 by 2.25 in. (8.9 x 5.7 cm)</dc:format>
 <dc:source>Betty Murray Carey Collection</dc:source>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-007706</dc:identifier>
@@ -3616,7 +3615,7 @@ Overlooking downtown Chester. The Corporation building is the first one on the r
 <dc:subject>St. Columba School</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>People</dc:subject>
-<dc:format>Photograph, Print, 3.5 by 2.25 in. (8.9 x 5.7 cm)</dc:format>
+<dc:format>Photograph, Print; 3.5 by 2.25 in. (8.9 x 5.7 cm)</dc:format>
 <dc:source>Betty Murray Carey Collection</dc:source>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-007707</dc:identifier>
@@ -3637,7 +3636,7 @@ Overlooking downtown Chester. The Corporation building is the first one on the r
 <dc:subject>Greycourt School</dc:subject>
 <dc:coverage>Greycourt - Orange County - New York</dc:coverage>
 <dc:subject>Education</dc:subject>
-<dc:format>Photograph, Print, 4.5 by 3.5 in. (11.4 x 8.9 cm)</dc:format>
+<dc:format>Photograph, Print; 4.5 by 3.5 in. (11.4 x 8.9 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-007708</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -3678,7 +3677,7 @@ Overlooking downtown Chester. The Corporation building is the first one on the r
 <dc:subject>House, H. Ferd, 1890-1951</dc:subject>
 <dc:subject>First National Bank of Englewood; Village of Chester</dc:subject>
 <dc:subject>Government</dc:subject>
-<dc:format>Envelope, 6 by 3.3 in. (15.2 x 8.6 cm)</dc:format>
+<dc:format>Envelope; 6 by 3.3 in. (15.2 x 8.6 cm)</dc:format>
 <dc:source>Myrtle Edwards Collection</dc:source>
 <dc:type>Text</dc:type>
 <dc:identifier>chs-007739</dc:identifier>
@@ -3688,7 +3687,7 @@ Overlooking downtown Chester. The Corporation building is the first one on the r
 <dc:rights>Prior written permission is required for any use of the images in this collection from the Chester Historical Society.</dc:rights>
 <dc:identifier>http://www.hrvh.org/cdm/ref/collection/chs/id/187</dc:identifier></oai_dc:dc>
 </metadata>
-</record><record><header><identifier>oai:www.hrvh.org:chs/188</identifier><datestamp>2011-01-17</datestamp><setSpec>chs</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:chs/188</identifier><datestamp>2015-08-19</datestamp><setSpec>chs</setSpec></header>
 <metadata>
 <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
 <dc:title>High Street</dc:title>
@@ -3697,7 +3696,7 @@ Overlooking downtown Chester. The Corporation building is the first one on the r
 <dc:subject>Photographs; Villages;</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Transportation</dc:subject>
-<dc:format>6 5/8 by 4 /4 inch print mounted on a 7 1/2 by 5 1/2 inch board (19 x 14 cm)</dc:format>
+<dc:format>Photograph; 6 5/8 by 4 /4 inch print mounted on a 7 1/2 by 5 1/2 inch board (19 x 14 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-007752</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -3726,7 +3725,7 @@ Superintend of Brook Farm, James S. (Budd) Murray (Mrs. May Murray&#x27;s husban
 <dc:subject>Brook Farm; Boy Scout; Camp Fire Girls</dc:subject>
 <dc:coverage>Chester (Village) - Orange County - New York</dc:coverage>
 <dc:subject>Community &amp; Events</dc:subject>
-<dc:format>Photograph, print, 19 by 7 in. (48.2 x 17.8 cm)</dc:format>
+<dc:format>Photograph, Print; 19 by 7 in. (48.2 x 17.8 cm)</dc:format>
 <dc:source>Betty Murray Carey Collection</dc:source>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-007754</dc:identifier>
@@ -3784,7 +3783,7 @@ Later the structure was converted to a 2-family residence.</dc:description>
 <dc:subject>Lehigh &amp; Hudson River Railway Co.</dc:subject>
 <dc:coverage>Greycourt - Orange County - New York</dc:coverage>
 <dc:subject>Transportation</dc:subject>
-<dc:format>Photograph, Print, 5.2 by 3.1 in. (13.3 x 7.9 cm)</dc:format>
+<dc:format>Photograph, Print; 5.2 by 3.1 in. (13.3 x 7.9 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-007967</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -3803,7 +3802,7 @@ Later the structure was converted to a 2-family residence.</dc:description>
 <dc:subject>Erie RR</dc:subject>
 <dc:coverage>Greycourt - Orange County - New York</dc:coverage>
 <dc:subject>Transportation</dc:subject>
-<dc:format>Photograph, Print, 3.2 by 5.2 in. (8.2 x 13.3 cm)</dc:format>
+<dc:format>Photograph, Print; 3.2 by 5.2 in. (8.2 x 13.3 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-008000</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -3812,7 +3811,7 @@ Later the structure was converted to a 2-family residence.</dc:description>
 <dc:rights>Prior written permission is required for any use of the images in this collection from the Chester Historical Society.</dc:rights>
 <dc:identifier>http://www.hrvh.org/cdm/ref/collection/chs/id/193</dc:identifier></oai_dc:dc>
 </metadata>
-</record><record><header><identifier>oai:www.hrvh.org:chs/194</identifier><datestamp>2015-07-21</datestamp><setSpec>chs</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:chs/194</identifier><datestamp>2015-08-19</datestamp><setSpec>chs</setSpec></header>
 <metadata>
 <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
 <dc:title>Business card for Sam&#x27;l Sayer</dc:title>
@@ -3822,7 +3821,7 @@ Later the structure was converted to a 2-family residence.</dc:description>
 <dc:subject>Sayer, Samuel</dc:subject>
 <dc:coverage>Greycourt - Orange County - New York</dc:coverage>
 <dc:subject>Transportation</dc:subject>
-<dc:format>Business cards, 3.2 by 1.9 in. (8.2 x 4.8 cm)</dc:format>
+<dc:format>Business card; 3.2 by 1.9 in. (8.2 x 4.8 cm)</dc:format>
 <dc:type>Image; Text</dc:type>
 <dc:identifier>chs-007982</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -3841,7 +3840,7 @@ Later the structure was converted to a 2-family residence.</dc:description>
 <dc:subject>Erie RR</dc:subject>
 <dc:coverage>Greycourt - Orange County - New York</dc:coverage>
 <dc:subject>Transportation</dc:subject>
-<dc:format>Photograph, Print, 3.2 by 5.2 in. (8.2 x 13.3 cm)</dc:format>
+<dc:format>Photograph, Print; 3.2 by 5.2 in. (8.2 x 13.3 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-008001</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -3871,12 +3870,12 @@ Later the structure was converted to a 2-family residence.</dc:description>
 <dc:rights>Prior written permission is required for any use of the images in this collection from the Chester Historical Society.</dc:rights>
 <dc:identifier>http://www.hrvh.org/cdm/ref/collection/chs/id/196</dc:identifier></oai_dc:dc>
 </metadata>
-</record><record><header><identifier>oai:www.hrvh.org:chs/197</identifier><datestamp>2007-08-31</datestamp><setSpec>chs</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:chs/197</identifier><datestamp>2015-08-19</datestamp><setSpec>chs</setSpec></header>
 <metadata>
 <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
 <dc:title>Greek Festival</dc:title>
 <dc:date>1896-08-25</dc:date>
-<dc:publisher>News Print, Chester, N. Y.</dc:publisher>
+<dc:contributor>News Print (Chester, N.Y.)</dc:contributor>
 <dc:description>St. Paul&#x27;s Episcopal Church Guild program/handout/circular: &quot;A Greek Festival&quot; at Bodle&#x27;s Opera House.</dc:description>
 <dc:subject>Programs;</dc:subject>
 <dc:subject>Ambler, Emma L.; Chamberlain, Edwin D., 1878-1960; Chamberlain, Joseph C.; Demerest, Isabelle Borland, 1869-1902; Miss ; Miss Andrews; Miss Board; Miss Bodle; Miss Bryan; Miss Bull; Miss Chamberlain; Miss Conklin; Miss Decker; Miss Du Bois; Miss DuBuis; Miss Hunter; Miss Huysler; Miss Masten; Miss May; Miss Miller; Miss Roe; Miss Smith; Miss Thompson; Miss Wells; Miss Wood; Mrs. Storms; Tuthill, Leddra W. C., 1872-1942; Wells, Lena</dc:subject>
@@ -3892,7 +3891,7 @@ Later the structure was converted to a 2-family residence.</dc:description>
 <dc:rights>Prior written permission is required for any use of the images in this collection from the Chester Historical Society.</dc:rights>
 <dc:identifier>http://www.hrvh.org/cdm/ref/collection/chs/id/197</dc:identifier></oai_dc:dc>
 </metadata>
-</record><record><header><identifier>oai:www.hrvh.org:chs/198</identifier><datestamp>2015-07-21</datestamp><setSpec>chs</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:chs/198</identifier><datestamp>2015-08-19</datestamp><setSpec>chs</setSpec></header>
 <metadata>
 <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
 <dc:title>Elfrida M. Johnson</dc:title>
@@ -3902,7 +3901,7 @@ Later the structure was converted to a 2-family residence.</dc:description>
 <dc:subject>Photographs; Portrait photographs;</dc:subject>
 <dc:subject>Johnson, Elfrida M.</dc:subject>
 <dc:subject>People; Women</dc:subject>
-<dc:format>1 3/4 by 3 3/4 inches, mounted on 2 5/8 by 7 1/4 inch board within folder with overleaf. (6.7 x 18.4 cm)</dc:format>
+<dc:format>Photograph; 1 3/4 by 3 3/4 inches, mounted on 2 5/8 by 7 1/4 inch board within folder with overleaf. (6.7 x 18.4 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-008243</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -3911,7 +3910,7 @@ Later the structure was converted to a 2-family residence.</dc:description>
 <dc:rights>Prior written permission is required for any use of the images in this collection from the Chester Historical Society.</dc:rights>
 <dc:identifier>http://www.hrvh.org/cdm/ref/collection/chs/id/198</dc:identifier></oai_dc:dc>
 </metadata>
-</record><record><header><identifier>oai:www.hrvh.org:chs/199</identifier><datestamp>2007-08-31</datestamp><setSpec>chs</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:chs/199</identifier><datestamp>2015-08-19</datestamp><setSpec>chs</setSpec></header>
 <metadata>
 <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
 <dc:title>Ruth Durland Conklin Schriver</dc:title>
@@ -3920,7 +3919,7 @@ Later the structure was converted to a 2-family residence.</dc:description>
 <dc:subject>Photographs; Portrait photographs;</dc:subject>
 <dc:subject>Schriver, Ruth Durland Conklin(g)</dc:subject>
 <dc:subject>People</dc:subject>
-<dc:format>2 5/8 by 6 13/16 inches on board (6.7 x 17.3 cm)</dc:format>
+<dc:format>Photograph; 2 5/8 by 6 13/16 inches on board (6.7 x 17.3 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-008244</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -3929,7 +3928,7 @@ Later the structure was converted to a 2-family residence.</dc:description>
 <dc:rights>Prior written permission is required for any use of the images in this collection from the Chester Historical Society.</dc:rights>
 <dc:identifier>http://www.hrvh.org/cdm/ref/collection/chs/id/199</dc:identifier></oai_dc:dc>
 </metadata>
-</record><record><header><identifier>oai:www.hrvh.org:chs/200</identifier><datestamp>2015-07-20</datestamp><setSpec>chs</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:chs/200</identifier><datestamp>2015-08-19</datestamp><setSpec>chs</setSpec></header>
 <metadata>
 <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
 <dc:title>Craigville School class</dc:title>
@@ -3940,7 +3939,7 @@ Later the structure was converted to a 2-family residence.</dc:description>
 <dc:subject>Craigville School</dc:subject>
 <dc:coverage>Craigville - Orange County - New York</dc:coverage>
 <dc:subject>Education</dc:subject>
-<dc:format>5 5/8 by 3 7/8 inches pasted on 8 1/2 by 6 3/4 inch heavy paper,  (21.6 x 17.1 cm)</dc:format>
+<dc:format>Photograph; 5 5/8 by 3 7/8 inches pasted on 8 1/2 by 6 3/4 inch heavy paper,  (21.6 x 17.1 cm)</dc:format>
 <dc:type>Still Image</dc:type>
 <dc:identifier>chs-008274</dc:identifier>
 <dc:format>image/jpeg</dc:format>
@@ -3949,7 +3948,7 @@ Later the structure was converted to a 2-family residence.</dc:description>
 <dc:rights>Prior written permission is required for any use of the images in this collection from the Chester Historical Society.</dc:rights>
 <dc:identifier>http://www.hrvh.org/cdm/ref/collection/chs/id/200</dc:identifier></oai_dc:dc>
 </metadata>
-</record><record><header><identifier>oai:www.hrvh.org:chs/201</identifier><datestamp>2015-07-21</datestamp><setSpec>chs</setSpec></header>
+</record><record><header><identifier>oai:www.hrvh.org:chs/201</identifier><datestamp>2015-08-19</datestamp><setSpec>chs</setSpec></header>
 <metadata>
 <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
 <dc:title>At Glenmere Lake</dc:title>

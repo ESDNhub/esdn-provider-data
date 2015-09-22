@@ -1,0 +1,1857 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2015-09-17T18:44:18Z</responseDate>
+  <request verb="ListRecords" metadataPrefix="oai_dc">http://harrisonpl.org/harrison-remembers/oai-pmh-repository/request</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:87</identifier>
+        <datestamp>2015-08-12T18:16:17Z</datestamp>
+        <setSpec>1</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>1867 Map of Mamaroneck, Scarsdale, White Plains, Harrison, and Rye</dc:title>
+          <dc:creator>Beers, F.W.</dc:creator>
+          <dc:subject>The Hills Harrison New York</dc:subject>
+          <dc:description>1867 Map of Mamaroneck, Scarsdale, White Plains, Harrison, and Rye</dc:description>
+          <dc:publisher>Beers, F.W.</dc:publisher>
+          <dc:publisher>Ellis, A.D.</dc:publisher>
+          <dc:publisher>Soule, C.G.</dc:publisher>
+          <dc:date>1867</dc:date>
+          <dc:type>Image</dc:type>
+          <dc:format>Linen Book 15" x 18"</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/87</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/4b6fe56eb2ff8a6658dd5eb9c63f1adf.jpg</dc:identifier>
+          <dc:source>Quinn, Edythe Ann. Freedom Journey: Black Civil War Soldiers and The Hills Community, Westchester County, New York, Albany: State University of New York Press, c2015, gallery 1.</dc:source>
+          <dc:source>The map is at the Westchester County Historical Society.</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:88</identifier>
+        <datestamp>2015-08-12T17:03:40Z</datestamp>
+        <setSpec>1</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Closeup of The Hills Community as Shown in 1867 Beers Map.</dc:title>
+          <dc:creator>Beers, F.W.</dc:creator>
+          <dc:subject>The Hills Harrison New York</dc:subject>
+          <dc:description>"Close-up showing Stony Hill Road, the principle area of settlement in the Harrison section of The Hills". The names of the property owners are shown on the map.</dc:description>
+          <dc:publisher>Beers, F.W.</dc:publisher>
+          <dc:publisher>Ellis, A.D.</dc:publisher>
+          <dc:publisher>Soule, C.G.</dc:publisher>
+          <dc:date>1867</dc:date>
+          <dc:type>Image</dc:type>
+          <dc:format>Linen Book 15" x 18"</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/88</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/47176c9ea32c64d3c6f6ea1ff3651bef.jpg</dc:identifier>
+          <dc:source>Quinn, Edythe Ann. Freedom Journey: Black Civil War Soldiers and The Hills Community, Westchester County, New York, Albany: State University of New York Press, c2015, gallery 2.</dc:source>
+          <dc:source>The map is at the Westchester County Historical Society.</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:89</identifier>
+        <datestamp>2015-08-12T17:03:35Z</datestamp>
+        <setSpec>1</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Portrait of a Town: 1790</dc:title>
+          <dc:creator>United States Census Bureau</dc:creator>
+          <dc:subject>1790 Census</dc:subject>
+          <dc:subject>The Hills Harrison New York</dc:subject>
+          <dc:description>This is the first United States Census information for the Town of Harrison, New York, dated 1790. It gives family names and corresponding data for each family. Highlighted are the names of "All other free persons" and the number of free people in their households. The name Zingo referred to Zingo Stout, whom Dr. Edythe A. Quinn considered the  African founding father of The Hills.</dc:description>
+          <dc:publisher>Government Printing Office</dc:publisher>
+          <dc:date>1790</dc:date>
+          <dc:type>Text</dc:type>
+          <dc:format>Book</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/89</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/55a21dfe63b48c5de40b123fe2c8e4a4.jpg</dc:identifier>
+          <dc:source>Heads of Families At The First Census Of The United States Taken In The Year 1790 New York. Government Printing Office, Washington D.C., c1907, p.199.</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:90</identifier>
+        <datestamp>2015-08-12T17:03:31Z</datestamp>
+        <setSpec>1</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Zing(o) Stout</dc:title>
+          <dc:creator>United States Census Bureau</dc:creator>
+          <dc:subject>1810 Census</dc:subject>
+          <dc:subject>The Hills Harrison New York</dc:subject>
+          <dc:subject>Stout, Zing(o)</dc:subject>
+          <dc:description>Dr. Edythe Ann Quinn credits Zingo Stout as being the African founding father of The Hills. "Interestingly, among Hills residents from 1810 forward, most have Christian or English common names and surnames; an exception being Zingo Stout who retained his African given name."</dc:description>
+          <dc:publisher>Government Printing Office</dc:publisher>
+          <dc:date>1810</dc:date>
+          <dc:type>Text</dc:type>
+          <dc:format>Microfilm</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/90</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/234384b97cc83a9ff29a6fe647349623.jpg</dc:identifier>
+          <dc:source>Quinn, Edythe Ann. Freedom Journey: Black Civil War Soldiers and The Hills Community, Westchester County, New York, Albany: State University of New York Press, c2015, p.158.</dc:source>
+          <dc:source>Courtesy of Ancestry.com</dc:source>
+          <dc:source>Original data: Third Census of the United States, 1810. (NARA microfilm publication M252, 71 rolls). Bureau of the Census, Record Group 29. National Archives, Washington, D.C.</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:91</identifier>
+        <datestamp>2015-08-12T17:03:27Z</datestamp>
+        <setSpec>1</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Keeping Records: "Teacher's Wages Due on Colored People's Children..."</dc:title>
+          <dc:creator>School Report, 1839 District No. 1</dc:creator>
+          <dc:subject>The Hills Harrison New York</dc:subject>
+          <dc:description>This document shows the names of the parents of the twelve black students attending school from April 8th through August 8th, 1839. Included are the number of days each student attended and the amount of fees due to the School District.</dc:description>
+          <dc:publisher>The Freeholders and Inhabitants of the School District No.1</dc:publisher>
+          <dc:date>1839</dc:date>
+          <dc:type>Text</dc:type>
+          <dc:format>Handwritten Document</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/91</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/3a250c2f7197b20268024b042ce64e6e.jpg</dc:identifier>
+          <dc:source>Research Courtesy of Edythe Ann Quinn, Ph.D.</dc:source>
+          <dc:source>The original document is at the Harrison Historical Society at the Charles Dawson History Center.</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:93</identifier>
+        <datestamp>2015-08-12T17:03:24Z</datestamp>
+        <setSpec>1</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>"...To Be A Church..."</dc:title>
+          <dc:creator>Office of the Westchester County Clerk</dc:creator>
+          <dc:subject>Purdy, Charles A.</dc:subject>
+          <dc:subject>Methodist Episcopal Zion Church</dc:subject>
+          <dc:subject>Halstead, Aaron</dc:subject>
+          <dc:subject>Hatfield, Moses</dc:subject>
+          <dc:subject>Seymour, Alfred</dc:subject>
+          <dc:subject>Seamore, Henry</dc:subject>
+          <dc:subject>Cornell, Daniel</dc:subject>
+          <dc:subject>The Hills Harrison New York</dc:subject>
+          <dc:description>Five Hills residents acting as trustees of Methodist Episcopal Zion Church agreed to a mortgage with Charles A. Purdy for a quarter of an acre land. "The money borrowed in this mortgage may have been used to finance the building of a modest church on the property".</dc:description>
+          <dc:date>1844-12-05</dc:date>
+          <dc:type>Text</dc:type>
+          <dc:format>Paper</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/93</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/4589148fa440e8edba2b67e4b9b3285d.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/e48b3897596fda8cc6fac22273f35348.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/c91d08c81ba384d4700e76f56dfd0931.jpg</dc:identifier>
+          <dc:source>Quinn, Edythe Ann. Freedom Journey: Black Civil War Soldiers and The Hills Community, Westchester County, New York, Albany: State University of New York Press, c2015, p.12</dc:source>
+          <dc:source>The Westchester County Archives, Liber of Mortgages, No. 88. p.183-185</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:94</identifier>
+        <datestamp>2015-08-12T17:03:20Z</datestamp>
+        <setSpec>1</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Beginning at the Red Oak Tree: Buying Land</dc:title>
+          <dc:creator>Office of the Westchester County Clerk</dc:creator>
+          <dc:subject>Anderson, Hagar</dc:subject>
+          <dc:subject>Mitchell, Jeremiah</dc:subject>
+          <dc:subject>The Hills Harrison New York</dc:subject>
+          <dc:description>This deed shows the purchase of real property by Jeremiah Mitchell, "a founding member of The Hills community", in 1815. "Ownership of property was one of the most important factors in the stability of "The Hills" community".</dc:description>
+          <dc:date>1815-04-19</dc:date>
+          <dc:type>Text</dc:type>
+          <dc:format>Paper</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/94</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/084ec214037912577bbddfa5425e776f.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/0ec95daeeace7d713ec8f3d77362e3ce.jpg</dc:identifier>
+          <dc:source>Quinn, Edythe Ann. Freedom Journey: Black Civil War Soldiers and The Hills Community, Westchester County, New York, Albany: State University of New York Press, c2015, p.11</dc:source>
+          <dc:source>The Westchester County Archives, Liber of Deeds, No. 37, p.286</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:95</identifier>
+        <datestamp>2015-08-12T17:03:16Z</datestamp>
+        <setSpec>1</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>"...In a Place Commonly Called the Hills...": Buying Land</dc:title>
+          <dc:creator>Office of the Westchester County Clerk</dc:creator>
+          <dc:subject>Mitchell, Jeremiah</dc:subject>
+          <dc:subject>Tierce, William</dc:subject>
+          <dc:subject>The Hills Harrison New York</dc:subject>
+          <dc:description>This deed shows the purchase of real property in 1851 by William Tierce, a Hills resident and father of Civil War soldiers Simeon Anderson Tierce and Solomon Tierce. This is one of several real estate transactions William Tierce entered into with other blacks in The Hills.</dc:description>
+          <dc:date>1851-02-12</dc:date>
+          <dc:type>Text</dc:type>
+          <dc:format>Paper</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/95</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/fa575ee06eac3937a8e1af66c481edfd.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/6d6c4ce534a4212a919cae3feec3f638.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/d9fa7a25a4cbd79faa8fc8e23f67748a.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/a0a126dcc31d0d446ec4de6e7ea9ac6d.jpg</dc:identifier>
+          <dc:source>Research Courtesy of Edythe Ann Quinn, Ph.D.</dc:source>
+          <dc:source>The Westchester County Archives, Liber of Deeds, No. 159, p. 32</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:96</identifier>
+        <datestamp>2015-08-12T17:03:12Z</datestamp>
+        <setSpec>1</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>The Peak of the Hills</dc:title>
+          <dc:creator>United States Census Bureau</dc:creator>
+          <dc:subject>1860 U.S. Census</dc:subject>
+          <dc:subject>The Hills Harrison New York</dc:subject>
+          <dc:description>"In the early 1860s, The Hills was at its peak as a northern, black community" and represented the largest concentration of African Americans in Westchester County. The data shown here represents the Harrison section of the Hills area.</dc:description>
+          <dc:publisher>Government Printing Office</dc:publisher>
+          <dc:date>1860</dc:date>
+          <dc:type>Text</dc:type>
+          <dc:format>Microfilm</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/96</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/826f4038393cb752f088d42ae10977d0.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/facd3c3610f99635f598bb76a6c20ba8.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/cfdbd051dc8de45fe14af692a22f4309.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/3fba3fb1790780178245853d8cada9f1.jpg</dc:identifier>
+          <dc:source>Quinn, Edythe Ann. Freedom Journey: Black Civil War Soldiers and The Hills Community, Westchester County, New York, Albany: State University of New York Press, c2015, p.9</dc:source>
+          <dc:source>Courtesy of Ancestry.com</dc:source>
+          <dc:source>Original data: 1860 U.S. census, population schedule. NARA microfilm publication M653, 1,438 rolls. Washington, D.C.: National Archives and Records Administration, n.d.</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:97</identifier>
+        <datestamp>2015-08-12T17:03:07Z</datestamp>
+        <setSpec>1</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>"My Dear Wife..." Letters from a Civil War Soldier</dc:title>
+          <dc:creator>Sergeant Simeon A. Tierce</dc:creator>
+          <dc:subject>Tierce, Sergeant Simeon Anderson</dc:subject>
+          <dc:subject>Tierce, [Depau, Depew], Sarah Jane</dc:subject>
+          <dc:subject>The Hills Harrison New York</dc:subject>
+          <dc:description>Sergeant Simeon Anderson Tierce was a Hills resident and a Civil War Soldier. His eloquent letters were written to his wife, Sarah Jane, while serving in the Civil War. Evident in his writing are his love and concern for his family, friends, and neighbors in The Hills community. He described life as a soldier, the living conditions, work duties, illness, and death. Transcriptions are courtesy of Dr. Edythe A. Quinn, who discovered the letters during her research at the National Archives.</dc:description>
+          <dc:date>1863</dc:date>
+          <dc:type>Text</dc:type>
+          <dc:format>8" x 10" Paper</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/97</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/e0ec4eae62dbaec32f8ce65f30beed66.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/01622ae9d5e43e7295c69750e9dc0b5b.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/5d3eec33be4cd1172729d8c7ab1784cd.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/512b008eb04bec0a68d82100502ab33c.jpg</dc:identifier>
+          <dc:source>Quinn, Edythe Ann. Freedom Journey: Black Civil War Soldiers and The Hills Community, Westchester County, New York, Albany: State University of New York Press, c2015, Appendix B, p.133-148</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:relation>Simeon A. Tierce's letters are stored at the National Archives and Records Administration under the Federal Pension Records, 1861-1934 "Widow's Pension Claim, Case of Sarah Jane [Tierce] Depau, No. 257.715." [also spelled Depew]. Copies of the handwritten letters and transcriptions are from the Westchester County Archives’ website http://www.westchesterarchives.com/CW/Thumbnails/Tierce_letters_th.htm</dc:relation>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:98</identifier>
+        <datestamp>2015-08-12T17:02:49Z</datestamp>
+        <setSpec>1</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>"My Dear Wife..." Letters from a Civil War Soldier</dc:title>
+          <dc:creator>Sergeant Simeon A. Tierce</dc:creator>
+          <dc:subject>Tierce, Sergeant Simeon Anderson</dc:subject>
+          <dc:subject>Tierce, [Depau, Depew], Sarah Jane</dc:subject>
+          <dc:subject>The Hills Harrison New York</dc:subject>
+          <dc:description>Sergeant Simeon Anderson Tierce was a Hills resident and a Civil War Soldier. His eloquent letters were written to his wife, Sarah Jane, while serving in the Civil War. Evident in his writing are his love and concern for his family, friends, and neighbors in The Hills community. He described life as a soldier, the living conditions, work duties, illness, and death. Transcriptions are courtesy of Dr. Edythe A. Quinn, who discovered the letters during her research at the National Archives.</dc:description>
+          <dc:date>1864-02-15</dc:date>
+          <dc:type>Text</dc:type>
+          <dc:format>8" x 10" Paper</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/98</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/8c36395a21deb0d63dd322fe124d1509.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/5657d4b9f8991fab4d7a8c5307973df9.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/adbcb435c1af6cfcb8f49834bd48c047.jpg</dc:identifier>
+          <dc:source>Quinn, Edythe Ann. Freedom Journey: Black Civil War Soldiers and The Hills Community, Westchester County, New York, Albany: State University of New York Press, c2015, Appendix B, p.133-148</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:relation>Simeon A. Tierce's letters are stored at the National Archives and Records Administration under the Federal Pension Records, 1861-1934 "Widow's Pension Claim, Case of Sarah Jane [Tierce] Depau, No. 257.715." [also spelled Depew]. Copies of the handwritten letters and transcriptions are from the Westchester County Archives' website http://www.westchesterarchives.com/CW/Thumbnails/Tierce_letters_th.htm</dc:relation>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:99</identifier>
+        <datestamp>2015-08-12T17:02:45Z</datestamp>
+        <setSpec>1</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>"My Dear Wife..." Letters from a Civil War Soldier</dc:title>
+          <dc:creator>Sergeant Simeon A. Tierce</dc:creator>
+          <dc:subject>Tierce, Sergeant Simeon Anderson</dc:subject>
+          <dc:subject>Tierce, [Depau, Depew], Sarah Jane</dc:subject>
+          <dc:subject>The Hills Harrison New York</dc:subject>
+          <dc:description>Sergeant Simeon Anderson Tierce was a Hills resident and a Civil War Soldier. His eloquent letters were written to his wife, Sarah Jane, while serving in the Civil War. Evident in his writing are his love and concern for his family, friends, and neighbors in The Hills community. He described life as a soldier, the living conditions, work duties, illness, and death. Transcriptions are courtesy of Dr. Edythe A. Quinn, who discovered the letters during her research at the National Archives.</dc:description>
+          <dc:date>1864-02-22</dc:date>
+          <dc:type>Text</dc:type>
+          <dc:format>8" x 10" Paper</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/99</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/29b1734f9db8b93c98d0d5129a1eb4fe.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/dc048114af5ad34bfeb7171049c15833.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/84d4e68768f4e1bae8405e1219ad4f62.jpg</dc:identifier>
+          <dc:source>Quinn, Edythe Ann. Freedom Journey: Black Civil War Soldiers and The Hills Community, Westchester County, New York, Albany: State University of New York Press, c2015, Appendix B, p.133-148</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:relation>Simeon A. Tierce's letters are stored at the National Archives and Records Administration under the Federal Pension Records, 1861-1934 "Widow's Pension Claim, Case of Sarah Jane [Tierce] Depau, No. 257.715." [also spelled Depew]. Copies of the handwritten letters and transcriptions are from the Westchester County Archives' website http://www.westchesterarchives.com/CW/Thumbnails/Tierce_letters_th.htm</dc:relation>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:100</identifier>
+        <datestamp>2015-08-12T17:02:41Z</datestamp>
+        <setSpec>1</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>"My Dear Wife..." Letters from a Civil War Soldier</dc:title>
+          <dc:creator>Sergeant Simeon A. Tierce</dc:creator>
+          <dc:subject>Tierce, Sergeant Simeon Anderson</dc:subject>
+          <dc:subject>Tierce, [Depau, Depew], Sarah Jane</dc:subject>
+          <dc:subject>The Hills Harrison New York</dc:subject>
+          <dc:description>Sergeant Simeon Anderson Tierce was a Hills resident and a Civil War Soldier. His eloquent letters were written to his wife, Sarah Jane, while serving in the Civil War. Evident in his writing are his love and concern for his family, friends, and neighbors in The Hills community. He described life as a soldier, the living conditions, work duties, illness, and death. Transcriptions are courtesy of Dr. Edythe A. Quinn, who discovered the letters during her research at the National Archives.</dc:description>
+          <dc:date>1864-03-11</dc:date>
+          <dc:type>Text</dc:type>
+          <dc:format>8" x 10" Paper</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/100</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/dc250712b8b6f8f663e5b9cfb901cce8.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/5c770fc243bc4e31d9ba1aaf2bc4d2fb.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/e69d545377279ab36faf65757a660e1d.jpg</dc:identifier>
+          <dc:source>Quinn, Edythe Ann. Freedom Journey: Black Civil War Soldiers and The Hills Community, Westchester County, New York, Albany: State University of New York Press, c2015, Appendix B, p.133-148</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:relation>Simeon A. Tierce's letters are stored at the National Archives and Records Administration under the Federal Pension Records, 1861-1934 "Widow's Pension Claim, Case of Sarah Jane [Tierce] Depau, No. 257.715." [also spelled Depew]. Copies of the handwritten letters and transcriptions are from the Westchester County Archives' website http://www.westchesterarchives.com/CW/Thumbnails/Tierce_letters_th.htm</dc:relation>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:101</identifier>
+        <datestamp>2015-08-12T17:02:37Z</datestamp>
+        <setSpec>1</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>"My Dear Wife..." Letters from a Civil War Soldier</dc:title>
+          <dc:creator>Sergeant Simeon A. Tierce</dc:creator>
+          <dc:subject>Tierce, Sergeant Simeon Anderson</dc:subject>
+          <dc:subject>Tierce, [Depau, Depew], Sarah Jane</dc:subject>
+          <dc:subject>The Hills Harrison New York</dc:subject>
+          <dc:description>Sergeant Simeon Anderson Tierce was a Hills resident and a Civil War Soldier. His eloquent letters were written to his wife, Sarah Jane, while serving in the Civil War. Evident in his writing are his love and concern for his family, friends, and neighbors in The Hills community. He described life as a soldier, the living conditions, work duties, illness, and death. Transcriptions are courtesy of Dr. Edythe A. Quinn, who discovered the letters during her research at the National Archives.</dc:description>
+          <dc:date>1864</dc:date>
+          <dc:type>Text</dc:type>
+          <dc:format>8" x 10" Paper</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/101</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/a26682bab3a5c0960db825e585083de9.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/b7b002cd965bbc8fd46d563c4f66b154.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/fea274ceb7f7e233b6d8f48906ea2d6a.jpg</dc:identifier>
+          <dc:source>Quinn, Edythe Ann. Freedom Journey: Black Civil War Soldiers and The Hills Community, Westchester County, New York, Albany: State University of New York Press, c2015, Appendix B, p.133-148</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:relation>Simeon A. Tierce's letters are stored at the National Archives and Records Administration under the Federal Pension Records, 1861-1934 "Widow's Pension Claim, Case of Sarah Jane [Tierce] Depau, No. 257.715." [also spelled Depew]. Copies of the handwritten letters and transcriptions are from the Westchester County Archives' website http://www.westchesterarchives.com/CW/Thumbnails/Tierce_letters_th.htm</dc:relation>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:102</identifier>
+        <datestamp>2015-08-12T17:02:33Z</datestamp>
+        <setSpec>1</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Changes 1880</dc:title>
+          <dc:creator>United States Census Bureau</dc:creator>
+          <dc:subject>Tierce, William</dc:subject>
+          <dc:subject>Depew, Sarah Jane</dc:subject>
+          <dc:subject>Barker, Benjamin</dc:subject>
+          <dc:subject>Barker, David</dc:subject>
+          <dc:subject>1880 Census</dc:subject>
+          <dc:subject>The Hills Harrison New York</dc:subject>
+          <dc:description>"The 1880 census revealed demographic changes that would affect the long-term stability of The Hills community, for example, the aging population, the number of widows, and more irregularly structured households".</dc:description>
+          <dc:publisher>Government Printing Office</dc:publisher>
+          <dc:date>1880</dc:date>
+          <dc:type>Text</dc:type>
+          <dc:format>Microfilm</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/102</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/be83cbb255d6ba19b515fbf18436d011.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/5888ad5684165a3c88f6fa7869b14147.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/7513102a690e89cc4934e7ca0fb301be.jpg</dc:identifier>
+          <dc:source>Quinn, Edythe Ann. Freedom Journey: Black Civil War Soldiers and The Hills Community, Westchester County, New York, Albany: State University of New York Press, c2015, p.116-117</dc:source>
+          <dc:source>Courtesy of Ancestry.com</dc:source>
+          <dc:source>Original data: Tenth Census of the United States, 1880. (NARA microfilm publication T9, 1,454 rolls). Records of the Bureau of the Census, Record Group 29. National Archives, Washington, D.C.</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:103</identifier>
+        <datestamp>2015-08-12T17:02:30Z</datestamp>
+        <setSpec>1</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>A Well Deserved Pension At Last!</dc:title>
+          <dc:subject>Barker, Elisha</dc:subject>
+          <dc:subject>The Hills Harrison New York</dc:subject>
+          <dc:subject>White Plains, NY.</dc:subject>
+          <dc:description>This article describes some of the Barker family history. The family was among the first to settle in The Hills. Three brothers served in Civil War. Elisha Barker, a disabled veteran and the last of the three Barker brothers, received his pension after many years of waiting.</dc:description>
+          <dc:publisher>The Argus, White Plains, NY</dc:publisher>
+          <dc:date>1900</dc:date>
+          <dc:type>Text</dc:type>
+          <dc:format>Newspaper Article</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/103</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/d768535dc600d7f5c5e9e2d3e1de23d2.jpg</dc:identifier>
+          <dc:source>Alvah French Scrapbooks, Volume 20, page 36. The Westchester County Archives.&#13;
+Quinn, Edythe Ann. Freedom Journey: Black Civil War Soldiers and The Hills Community, Westchester County, New York, Albany: State University of New York Press, c2015, p.121</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:104</identifier>
+        <datestamp>2015-08-12T17:02:25Z</datestamp>
+        <setSpec>1</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Earning an Honest Penny</dc:title>
+          <dc:creator>V. M. Hodgson</dc:creator>
+          <dc:subject>Depeau (var, Depew), Sarah Jane (Tierce)</dc:subject>
+          <dc:subject>Tierce, Simeon A. [Anderson]</dc:subject>
+          <dc:subject>The Hills Harrison New York</dc:subject>
+          <dc:subject>Hodgson, V.M.</dc:subject>
+          <dc:description>In her application for a widow’s pension, Sarah Jane Tierce testified concerning the work history of her late husband, Sergeant Simeon A. [Anderson] Tierce, 14th Rhode Island Heavy Artillery Regiment (11th Regiment, USCT). &#13;
+V. M. Hodgson, who filed this affidavit, served as the Pension Agent in White Plains for Sarah Jane and other members of The Hills community.</dc:description>
+          <dc:date>1880-10-11</dc:date>
+          <dc:format>Handwritten Affidavit</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/104</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/4cc6b521a503e1df6097feca31698d08.jpg</dc:identifier>
+          <dc:source>Sarah Jane (Tierce) Depeau (var, Depew), Widow’s Pension Claim, National Archives and Records Administration</dc:source>
+          <dc:source>Research Courtesy of Edythe Ann Quinn, Ph.D.</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:105</identifier>
+        <datestamp>2015-08-12T17:02:21Z</datestamp>
+        <setSpec>1</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>On the Death of Her Husband Simeon</dc:title>
+          <dc:creator>Sarah Jane (Tierce) Depeau (var, Depew)</dc:creator>
+          <dc:subject>Depeau (var, Depew), Sarah Jane (Tierce)</dc:subject>
+          <dc:subject>Tierce, Simeon A. [Anderson]</dc:subject>
+          <dc:subject>The Hills Harrison New York</dc:subject>
+          <dc:description>In her application for a widow’s pension, Sarah Jane Tierce wrote a letter to the U.S. Pension Office concerning the death of her husband, Simeon A. [Anderson] Tierce on July 7, 1864.  This letter also demonstrates Sarah Jane’s literacy, especially her good handwriting and composition.</dc:description>
+          <dc:date>1880-10-16</dc:date>
+          <dc:type>Text</dc:type>
+          <dc:format>Handwritten Letter</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/105</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/4bc6ae76ef12d35552db8d9744984396.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/456ed9a12924534219f00f010a761a02.jpg</dc:identifier>
+          <dc:source>Sarah Jane (Tierce) Depeau (var, Depew), Widow’s Pension Claim, National Archives and Records Administration</dc:source>
+          <dc:source>Research Courtesy of Edythe Ann Quinn, Ph.D.</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:106</identifier>
+        <datestamp>2015-08-12T17:02:17Z</datestamp>
+        <setSpec>1</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>"We were school boys together"</dc:title>
+          <dc:creator>Thomas L. Brown</dc:creator>
+          <dc:subject>Brown, Thomas L.</dc:subject>
+          <dc:subject>Tierce, Solomon</dc:subject>
+          <dc:subject>The Hills Harrison New York</dc:subject>
+          <dc:description>In support of his friend Solomon Tierce’s application for a Civil War veteran’s pension based on illness and financial need, Thomas L. Brown gave a deposition explaining how he knew Solomon from their school years together in The Hills. Brown and Tierce served together in the 29th Connecticut Infancy Regiment, Colored Volunteers, in the Civil War. Brown also explained his own work as a peddler.</dc:description>
+          <dc:date>1897-03-17</dc:date>
+          <dc:type>Text</dc:type>
+          <dc:format>Handwritten Deposition</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/106</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/d54a16ec83dcc5171d4a45a7e72808a5.jpg</dc:identifier>
+          <dc:source>Solomon Tierce, Veteran’s Pension Claim, National Archives and Records Administration&#13;
+Quinn, Edythe Ann. Freedom Journey: Black Civil War Soldiers and The Hills Community, Westchester County, New York, Albany: State University of New York Press, c2015, p.14</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:107</identifier>
+        <datestamp>2015-08-12T17:02:10Z</datestamp>
+        <setSpec>1</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Happy Birthday Mr. Seymour!</dc:title>
+          <dc:subject>Seymour, Harvey</dc:subject>
+          <dc:subject>The Hills Harrison New York</dc:subject>
+          <dc:description>This article cites one of The Hills residents, Mr. Harvey Seymour, turning ninety eight in 1903. Harvey Seymour married Jane Halstead on Feb. 25 1835, and they bought land in The Hills which he farmed.  His son, William Henry Seymour served in the 14th Rhode Island Heavy Artillery Regiment (11th USCT), returned to The Hills after the war, died of dysentery in March 1866, and was buried in Stony Hill Cemetery with a military marker. Harvey and Jane Seymour are also buried in Stony Hill Cemetery.</dc:description>
+          <dc:publisher>The Argus, White Plains, NY</dc:publisher>
+          <dc:date>1903</dc:date>
+          <dc:type>Text</dc:type>
+          <dc:format>Newspaper Article</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/107</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/edbed3a576b6779d71a9e7327b3db408.jpg</dc:identifier>
+          <dc:source>Alvah French Scrapbooks, Volume 15, page 91. The Westchester County Archives</dc:source>
+          <dc:source>Research Courtesy of Edythe Ann Quinn, Ph.D.</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:108</identifier>
+        <datestamp>2015-08-12T17:01:53Z</datestamp>
+        <setSpec>1</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Farming in the Hills</dc:title>
+          <dc:creator>Harvey Seymour</dc:creator>
+          <dc:subject>Seymour, Harvey</dc:subject>
+          <dc:subject>The Hills Harrison New York</dc:subject>
+          <dc:description>In support of his wife Jane’s claim for a mother’s pension after their son’s death from dysentery contracted during the Civil War, Harvey Seymour gave a deposition describing how he farmed and the annual tax on his acre of land in The Hills.  Their son, William Henry Seymour served in the 14th Rhode Island Heavy Artillery Regiment (11th USCT), returned to The Hills after the war, died of dysentery in March 1866, and was buried in Stony Hill Cemetery with a military marker.</dc:description>
+          <dc:date>1886-08-25</dc:date>
+          <dc:type>Text</dc:type>
+          <dc:format>Handwritten Deposition</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/108</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/e71000eb930a8034bd0ffeb0b6573f24.jpg</dc:identifier>
+          <dc:source>Jane Seymour, Pension Claim, National Archives and Records Administration. &#13;
+Quinn, Edythe Ann. Freedom Journey: Black Civil War Soldiers and The Hills Community, Westchester County, New York, Albany: State University of New York Press, c2015, p.14</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:109</identifier>
+        <datestamp>2015-08-12T17:01:49Z</datestamp>
+        <setSpec>1</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Married in 1835</dc:title>
+          <dc:creator>Rev. R. W. Harris</dc:creator>
+          <dc:subject>Seymour, Harvey</dc:subject>
+          <dc:subject>Seymour, Jane</dc:subject>
+          <dc:subject>The Hills Harrison New York</dc:subject>
+          <dc:subject>Grace Church, White Plains, NY.</dc:subject>
+          <dc:description>Rev. R. W. Harris was Rector of the Grace [Episcopal] Church, White Plains New York.   Jane Gaul was born Jane Halstead; her stepfather was David Gaul, a founding member of The Hills community; more often she gave her name as Jane Halstead. She married Harvey Seymour of The Hills on Feb. 25, 1835 in Grace Church, White Plains, NY. A copy of their marriage record was submitted to the Pension Board in support of Jane’s Application for a mother’s pension on the death of their son William Henry Seymour who served in the 14th Rhode Island Heavy Artillery Regiment (11th USCT), returned to The Hills after the war, and died of dysentery in March 1866.</dc:description>
+          <dc:date>1835-02-25</dc:date>
+          <dc:date>1879-12-19</dc:date>
+          <dc:type>Text</dc:type>
+          <dc:format>Handwritten Paper</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/109</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/d47fa05b5216c0bb4bfbe484146b0981.jpg</dc:identifier>
+          <dc:source>Jane Seymour, Pension Claim, National Archives and Records Administration</dc:source>
+          <dc:source>Research Courtesy of Edythe Ann Quinn, Ph.D.</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:110</identifier>
+        <datestamp>2015-08-12T17:01:45Z</datestamp>
+        <setSpec>1</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>1911 Bromley Map: Part of the Towns of Harrison &amp; Rye</dc:title>
+          <dc:creator>G. W. Bromley</dc:creator>
+          <dc:subject>The Hills Harrison New York</dc:subject>
+          <dc:subject>Sarah Depew</dc:subject>
+          <dc:description>1911 Close-up showing Stony Hill, the principle area of settlement in the Harrison section of The Hills. The name Sarah Depew refers to the widow of Civil War soldier Sergeant Simeon Anderson Tierce.</dc:description>
+          <dc:publisher>G. W. Bromley</dc:publisher>
+          <dc:date>1911</dc:date>
+          <dc:type>Image</dc:type>
+          <dc:format>Map</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/110</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/88eb3a5e3fde34aa3ce52363a09bed2d.jpg</dc:identifier>
+          <dc:source>The Harrison Historical Society at the Charles Dawson History Center</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:111</identifier>
+        <datestamp>2015-08-12T17:01:41Z</datestamp>
+        <setSpec>1</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Sissy...Sarah Watson</dc:title>
+          <dc:creator>New York Department of State</dc:creator>
+          <dc:subject>Watson, Sarah</dc:subject>
+          <dc:subject>Tierce, Sergeant Simeon Anderson</dc:subject>
+          <dc:subject>Depew, Sarah Jane</dc:subject>
+          <dc:subject>1925 Census</dc:subject>
+          <dc:subject>The Hills Harrison New York</dc:subject>
+          <dc:description>Sarah Watson was the stepdaughter of Civil War Soldier Sergeant Simeon Anderson Tierce. He fondly referred to her as “Sissy” or “Sis” in his Civil War letters to her mother. "I want you to have that place fixed so that if me or you should die, it will always be a good home for Sis as long as she lives." This 1925 Census showed that Sarah Watson still lived in the Hills.</dc:description>
+          <dc:publisher>New York State Government Printing Office</dc:publisher>
+          <dc:date>1925</dc:date>
+          <dc:type>Text</dc:type>
+          <dc:format>Microfilm</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/111</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/b87fc84a3d57fa4a25d26f86bcbc9c64.jpg</dc:identifier>
+          <dc:source>Quinn, Edythe Ann. Freedom Journey: Black Civil War Soldiers and The Hills Community, Westchester County, New York, Albany: State University of New York Press, c2015, p.124-125</dc:source>
+          <dc:source>Microfilm is stored at the Westchester County Archives</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:112</identifier>
+        <datestamp>2015-08-12T17:01:36Z</datestamp>
+        <setSpec>1</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Silver Lake Preserve</dc:title>
+          <dc:creator>Westchester County Park and Recreation Commissions Annual Report</dc:creator>
+          <dc:subject>Silver Lake Park</dc:subject>
+          <dc:subject>Silver Lake Preserve</dc:subject>
+          <dc:subject>Westchester County Park Commission</dc:subject>
+          <dc:description>This annual report shows the acquisition of lands necessary for planned Westchester County park and parkway projects.  By 1928 in order to establish the Silver Lake Preserve, the commission purchased 427 acres of land "from property owners, both whites and blacks, in this corner of the county where White Plains, Harrison, and North Castle come together, including The Hills land."</dc:description>
+          <dc:publisher>Westchester County Park Commission</dc:publisher>
+          <dc:date>1928-04-30</dc:date>
+          <dc:type>Text</dc:type>
+          <dc:format>Document</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/112</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/2c5f75d0c94f7491b8dc70abad2121b7.jpg</dc:identifier>
+          <dc:source>Westchester County Parks Commission 1928 Annual Report, page 10</dc:source>
+          <dc:source>Courtesy of the Westchester County Archives</dc:source>
+          <dc:source>Quinn, Edythe Ann. Freedom Journey: Black Civil War Soldiers and The Hills Community, Westchester County, New York, Albany: State University of New York Press, c2015, p.125</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:113</identifier>
+        <datestamp>2015-08-12T17:01:31Z</datestamp>
+        <setSpec>1</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Resting Place</dc:title>
+          <dc:creator>Works Progress Administration (WPA)</dc:creator>
+          <dc:subject>Buckhout Road Cemetery</dc:subject>
+          <dc:subject>Stony Hill Road Cemetery</dc:subject>
+          <dc:subject>Civil War Veterans</dc:subject>
+          <dc:subject>Asbury Colored People's Church</dc:subject>
+          <dc:subject>The Hills Harrison New York</dc:subject>
+          <dc:description>This map shows the burial sites of thirteen Civil War veterans from The Hills. These site numbers correspond to each veteran’s cemetery record. From the United States Navy: Aaron Halstead, Jr. 8023.20. From the Fourteenth Rhode Island Regiment, Heavy Artillery, Colored Volunteers (Eleventh USCT): Benjamin Barker 8020.20, David Barker  8016.20, William H. Brooks  8018.20, Joseph Griffin 8017.20, Alfred Seymour 8021.20, and William Henry Seymour (both var. Seymore)  8022.20 .  From the Twenty-ninth Connecticut Regiment, Infantry, Colored Volunteers: Thomas Butler 8015.20, John C. Lockwood 8019.20, Robert Odell Mitchell 8011.20, and John Purdy  8012.20; and from the Twentieth Regiment, Infantry, USCT: William Purdy 8014.20 and John Brown 8013.20. Asbury Colored People’s Church, the site of The Hills church, is shown next to the cemetery map.</dc:description>
+          <dc:publisher>Works Progress Administration (WPA)</dc:publisher>
+          <dc:date>1939-1940</dc:date>
+          <dc:type>Image</dc:type>
+          <dc:format>Map</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/113</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/c81ac3e9002bfef850836c3877304117.jpg</dc:identifier>
+          <dc:source>http://collections.westchestergov.com/cdm/singleitem/collection/vetcards/id/1635/rec/1&#13;
+The Harrison Historical Society at the Charles Dawson History Center, under Cemetery- Stony Hill file. A copy of the map was donated by Barbara L. Bush-James, October 1996.</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:114</identifier>
+        <datestamp>2015-08-12T17:01:27Z</datestamp>
+        <setSpec>1</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>National Recognition!</dc:title>
+          <dc:creator>Ruth L. Pierpont</dc:creator>
+          <dc:subject>Stony Hill Cemetery</dc:subject>
+          <dc:subject>Buckout Road Cemetery</dc:subject>
+          <dc:subject>The Hills Harrison New York</dc:subject>
+          <dc:description>In 1999, the Stony Hill Cemetery, receiving national recognition, became listed on the National Register of Historic Places, as indicated in this letter from Ruth L. Pierpont, Director Historic Preservation Field Services Bureau NYS Office of Parks Recreation and Historic Preservation.</dc:description>
+          <dc:publisher>National Park Service United States Department of the Interior</dc:publisher>
+          <dc:date>1999</dc:date>
+          <dc:type>Text</dc:type>
+          <dc:format>Letter</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/114</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/abb5053a23777a7c6ebbddf0801f5bb0.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/123c50decea55616c4596e0ed7e6df97.jpg</dc:identifier>
+          <dc:source>The Harrison Historical Society at the Charles Dawson History Center, under Cemetery- Stony Hill file. </dc:source>
+          <dc:source>http://www.nps.gov/nr//listings/990702.htm</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:115</identifier>
+        <datestamp>2015-08-12T17:01:23Z</datestamp>
+        <setSpec>7</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Poster of Parsons Memorial School Presentation and Dedication</dc:title>
+          <dc:subject>Parsons Memorial School</dc:subject>
+          <dc:description>"In finely written hand, extremely tiny, are listed the presidents of the United States, the States of the Union, the names of the pupils in the school according to grade, a picture of John Parsons, and Parsons’ presentation speech, and an article “The Grand Monument” (a description of the school and the gifts). A poem is also written in the same calligraphy. It was written for the occasion."</dc:description>
+          <dc:date>1898</dc:date>
+          <dc:type>Image</dc:type>
+          <dc:format>Poster</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/115</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/c7af928e60ae593df1865bb0fbe64c52.jpg</dc:identifier>
+          <dc:source>The Harrison Historical Society at the Charles Dawson History Center</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:116</identifier>
+        <datestamp>2015-08-12T17:01:19Z</datestamp>
+        <setSpec>7</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Parsons Memorial School in the News</dc:title>
+          <dc:creator>Harrison Observer</dc:creator>
+          <dc:subject>Parsons Memorial School</dc:subject>
+          <dc:description>Article describing the closing exercises of the seventh and eighth grades.</dc:description>
+          <dc:publisher>Harrison Observer</dc:publisher>
+          <dc:date>1900-06-23</dc:date>
+          <dc:type>Text</dc:type>
+          <dc:format>Newspaper Article</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/116</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/c9404a1efd19e06912f830508a591d26.jpg</dc:identifier>
+          <dc:source>The Harrison Historical Society at the Charles Dawson History Center, under Parsons Memorial School file</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:117</identifier>
+        <datestamp>2015-08-12T17:01:15Z</datestamp>
+        <setSpec>7</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Parsons Memorial School in the News</dc:title>
+          <dc:creator>Harrison Observer</dc:creator>
+          <dc:subject>Parsons Memorial School</dc:subject>
+          <dc:description>Article on the results of the school budget vote. Following a discussion, appropriations for some key items were increased.</dc:description>
+          <dc:publisher>Harrison Observer</dc:publisher>
+          <dc:date>1903-08-01</dc:date>
+          <dc:type>Text</dc:type>
+          <dc:format>Newspaper Article</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/117</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/d1f3e922cf060348a7c7b0545b02377b.jpg</dc:identifier>
+          <dc:source>The Harrison Historical Society at the Charles Dawson History Center, under Parsons Memorial School file</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:118</identifier>
+        <datestamp>2015-08-12T17:00:57Z</datestamp>
+        <setSpec>7</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Parsons Memorial School in the News</dc:title>
+          <dc:creator>Harrison Observer</dc:creator>
+          <dc:subject>Parsons Memorial School</dc:subject>
+          <dc:description>Article on Regents Examination results and Closing Exercises.</dc:description>
+          <dc:publisher>Harrison Observer</dc:publisher>
+          <dc:date>1905-06-24</dc:date>
+          <dc:type>Text</dc:type>
+          <dc:format>Newspaper Article</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/118</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/20bdb7f0c2d49271e80dd90ca071a750.jpg</dc:identifier>
+          <dc:source>The Harrison Historical Society at the Charles Dawson History Center, under Parsons Memorial School file</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:119</identifier>
+        <datestamp>2015-08-12T17:00:52Z</datestamp>
+        <setSpec>7</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Parsons Memorial School in the News</dc:title>
+          <dc:creator>Harrison Observer</dc:creator>
+          <dc:subject>Parsons Memorial School</dc:subject>
+          <dc:description>Article on Arbor Day celebration.</dc:description>
+          <dc:publisher>Harrison Observer</dc:publisher>
+          <dc:date>1905-05-06</dc:date>
+          <dc:type>Text</dc:type>
+          <dc:format>Newspaper Article</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/119</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/9bce4c9f8acdca3a67bbc7f89d88639a.jpg</dc:identifier>
+          <dc:source>The Harrison Historical Society at the Charles Dawson History Center, under Parsons Memorial School file.</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:120</identifier>
+        <datestamp>2015-08-12T17:00:47Z</datestamp>
+        <setSpec>7</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Louis M. Klein</dc:title>
+          <dc:creator>Harrison High School</dc:creator>
+          <dc:subject>Klein, Louis M.</dc:subject>
+          <dc:subject>Parsons Memorial School</dc:subject>
+          <dc:subject>Harrison High School</dc:subject>
+          <dc:description>Louis M. Klein came to Parsons in 1929  when he was hired as a teacher of English and Spanish. In 1934 he became principal of Harrison High School and Superintendent of Schools in 1936. In his 34 years of service as Superintendent "he oversaw increasing enrollment in the schools, huge expenditures on new buildings and students going off to three wars",said Donald Howard, School Superintendent in 2001. The Louis M. Klein Middle School is named in his honor.</dc:description>
+          <dc:publisher>Harrison High School</dc:publisher>
+          <dc:date>1936</dc:date>
+          <dc:type>Image</dc:type>
+          <dc:format>Book</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/120</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/c17b626ac253f1530d5476b872743a19.jpg</dc:identifier>
+          <dc:source>Reminiscence: Harrison High School Yearbook 1936</dc:source>
+          <dc:source>The Harrison Historical Society at the Charles Dawson History Center</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:121</identifier>
+        <datestamp>2015-08-12T17:00:41Z</datestamp>
+        <setSpec>7</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Meet the New Principal Louis M. Klein </dc:title>
+          <dc:subject>Klein, Louis M.</dc:subject>
+          <dc:subject>Parsons Memorial School</dc:subject>
+          <dc:subject>Harrison High School</dc:subject>
+          <dc:description>Louis M. Klein came to Parsons in 1929  when he was hired as a teacher of English and Spanish. In 1934 he became principal of Harrison High School and Superintendent of Schools in 1936. In his 34 years of service as Superintendent "he oversaw increasing enrollment in the schools, huge expenditures on new buildings and students going off to three wars",said Donald Howard, School Superintendent in 2001. The Louis M. Klein Middle School is named in his honor.</dc:description>
+          <dc:date>1934-07-05</dc:date>
+          <dc:type>Text</dc:type>
+          <dc:format>Newspaper Article</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/121</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/6072e2f6f0851ed87c6a7a3088d06068.jpg</dc:identifier>
+          <dc:source>The Harrison Historical Society at the Charles Dawson History Center, under Klein, Louis M. file</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:122</identifier>
+        <datestamp>2015-08-12T17:00:36Z</datestamp>
+        <setSpec>7</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Let's Review: A Study Guide for the English Regents Examination</dc:title>
+          <dc:creator>W. Hazleton Smith</dc:creator>
+          <dc:subject>New York State Regents Examinations</dc:subject>
+          <dc:description>"This Book contains the Questions in Elementary English asked by the Board of Regents of the State of New York for the past fifteen years' and sample examinations...</dc:description>
+          <dc:publisher>W. Hazleton Smith</dc:publisher>
+          <dc:date>1914</dc:date>
+          <dc:type>Text</dc:type>
+          <dc:format>Book</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/122</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/3b2decf6a17e5b370affe7b4e4d962af.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/39e37f794b5e80e8dd08782ce6f7d009.jpg</dc:identifier>
+          <dc:source>The Harrison Historical Society at the Charles Dawson History Center</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:123</identifier>
+        <datestamp>2015-08-12T17:00:24Z</datestamp>
+        <setSpec>7</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>1916 Assembly Class</dc:title>
+          <dc:subject>Harrison High School</dc:subject>
+          <dc:description>Photo of a Harrison High School assembly class including 1st, 2nd, 3rd and 4th year grades.</dc:description>
+          <dc:date>1916</dc:date>
+          <dc:type>Image</dc:type>
+          <dc:format>Photograph</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/123</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/5e9aefe01c9c0eb0dabf2971dbc9a81c.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/c7fa132b47d0300f24d7c0f2345650e4.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/d8fb5655607489dfd03fb3a8f6fd5602.jpg</dc:identifier>
+          <dc:source>The Harrison Historical Society at the Charles Dawson History Center, under Education - Harrison High School file. Donated by Mrs. Marion Beaumont Maloney.</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:124</identifier>
+        <datestamp>2015-08-12T17:00:20Z</datestamp>
+        <setSpec>7</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>1923 Graduation</dc:title>
+          <dc:subject>Harrison High School</dc:subject>
+          <dc:description>Harrison High School Class of 1923 Graduation Photo.</dc:description>
+          <dc:date>1923</dc:date>
+          <dc:type>Image</dc:type>
+          <dc:format>Photograph</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/124</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/0d7e0704954224aa7073f19500d9d600.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/26364282a3f214e8ad12e76a8cb340b8.jpg</dc:identifier>
+          <dc:source>The Harrison Historical Society at the Charles Dawson History Center, under Education - Harrison High School file</dc:source>
+          <dc:source>Donated by the family of Lionel Bennett</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:125</identifier>
+        <datestamp>2015-08-12T17:00:16Z</datestamp>
+        <setSpec>7</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Sports Banquet</dc:title>
+          <dc:creator>Harrison High School Athletic Association</dc:creator>
+          <dc:subject>Harrison High School Athletic Association</dc:subject>
+          <dc:description>This is the program for the Sixth Annual Banquet of Harrison High School Athletic Association.</dc:description>
+          <dc:publisher>Harrison High School Athletic Association</dc:publisher>
+          <dc:date>1935-12-11</dc:date>
+          <dc:type>Text</dc:type>
+          <dc:format>Paper</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/125</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/7de3a71199895a8f0107f4d807cc0f14.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/e8f8d4cbb03ab33e3bc6fcd3e13dd559.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/49060f7caff069214958eca1893e39d1.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/602c604a231221efbf884f4454ee7594.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/54b5804b67078ec54abfd46d2997cdc6.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/9ee00ce2848092a0e71937c6a8881b56.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/caba1582312a86900bc67661ec1a3bf4.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/68bc67b276c3a1805730968870ae005f.jpg</dc:identifier>
+          <dc:source>The Harrison Historical Society at the Charles Dawson History Center, under Education - Harrison High School - Football/Hockey file</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:126</identifier>
+        <datestamp>2015-08-12T17:00:12Z</datestamp>
+        <setSpec>7</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Teachers</dc:title>
+          <dc:subject>School District No.6, Harrison, N.Y.</dc:subject>
+          <dc:description>This photo shows the faculty of School District No. 6 in the 1930’s. Identification was made by Louis M. Klein in 1988.</dc:description>
+          <dc:date>1930-1939</dc:date>
+          <dc:type>Image</dc:type>
+          <dc:format>Photograph</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/126</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/41e3e784cf953b6cb6fdb50eb10114fa.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/bc608612af6f060babeec566bb3d26ff.jpg</dc:identifier>
+          <dc:source>The Harrison Historical Society at the Charles Dawson History Center, under Education - School District No. 6 file.</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:127</identifier>
+        <datestamp>2015-08-12T17:00:07Z</datestamp>
+        <setSpec>7</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>1935 Commencement</dc:title>
+          <dc:creator>Harrison High School</dc:creator>
+          <dc:subject>Harrison High School Class of 1935</dc:subject>
+          <dc:description>Program of the commencement exercises for the Class of 1935.</dc:description>
+          <dc:publisher>Harrison High School</dc:publisher>
+          <dc:date>1935-06-25</dc:date>
+          <dc:type>Text</dc:type>
+          <dc:format>Paper</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/127</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/d834d0220c997c20b359c42a0f55bbd1.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/6fa62f800c07727507a3d2db5eebcac8.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/44f92dceb2a2b8e5be461ba34924ec50.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/8790c4882093aa99a8dcf9114c998e8e.jpg</dc:identifier>
+          <dc:source>The Harrison Historical Society at the Charles Dawson History Center, under Education - Harrison High School file</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:128</identifier>
+        <datestamp>2015-08-12T16:59:46Z</datestamp>
+        <setSpec>7</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>John Edward Parsons</dc:title>
+          <dc:creator>Westmoreland, Gene</dc:creator>
+          <dc:subject>Parsons, John Edward</dc:subject>
+          <dc:subject>Parsons Memorial School</dc:subject>
+          <dc:description>John Edward Parsons donated $30,000 in 1896 for the building of a new school. These pages provide information on John Edward Parsons’ life, including his philanthropic and professional accomplishments.</dc:description>
+          <dc:publisher>Gene Westmoreland Golf Services LLC.</dc:publisher>
+          <dc:date>2011</dc:date>
+          <dc:type>Text</dc:type>
+          <dc:format>Book</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/128</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/423b2722180cc47b80228ef94de771bd.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/8132d69497e4f09dec3aa9c1f31c25af.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/635d171d9fa8327a1e42d1916aa8b17f.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/31a3e9afae070b5bce87e2324d034283.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/0f7ec3b9257834091f29472d9fcd64d6.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/fdc64dd1fe0199a2175dd10888d87456.jpg</dc:identifier>
+          <dc:source>Westmoreland, Gene. “Memories of Parsons” and A Brief History of Parsons Memorial School, Gene Westmoreland Golf Services LLC, 2011</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:129</identifier>
+        <datestamp>2015-08-12T16:59:39Z</datestamp>
+        <setSpec>7</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Resolved!</dc:title>
+          <dc:creator>Bull, William R.</dc:creator>
+          <dc:subject>Parsons, John Edward</dc:subject>
+          <dc:subject>Parsons Memorial School</dc:subject>
+          <dc:subject>Bull, William R.</dc:subject>
+          <dc:subject>Hall, George W.</dc:subject>
+          <dc:description>This document shows that the voters of the Union Free District No. 6  unanimously accepted Mr. Parson’s offer to build a school for the district.</dc:description>
+          <dc:date>1896-10-15</dc:date>
+          <dc:type>Text</dc:type>
+          <dc:format>Handwritten Letter</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/129</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/b424c7b68fb7b691dd27583a86353f16.jpg</dc:identifier>
+          <dc:source>Courtesy of the Rye Historical Society - Knapp House Library and Archives</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:130</identifier>
+        <datestamp>2015-08-12T17:04:00Z</datestamp>
+        <setSpec>7</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Three Generations</dc:title>
+          <dc:subject>Parsons, John Edward</dc:subject>
+          <dc:subject>Parsons, Herbert</dc:subject>
+          <dc:subject>Parsons, John</dc:subject>
+          <dc:subject>Parsons Memorial School</dc:subject>
+          <dc:description>Pictured here right to left are John Edward Parsons, Herbert Parsons, and Herbert's son John.</dc:description>
+          <dc:date>1907</dc:date>
+          <dc:type>Image</dc:type>
+          <dc:format>Photograph</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/130</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/f4dacbeb99daae28db01e69403104f1a.jpg</dc:identifier>
+          <dc:source>Courtesy of the Rye Historical Society - Knapp House Library and Archives</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:131</identifier>
+        <datestamp>2015-08-12T16:58:23Z</datestamp>
+        <setSpec>7</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>The Cornerstone</dc:title>
+          <dc:creator>Yang, Jennie</dc:creator>
+          <dc:subject>Parsons Memorial School</dc:subject>
+          <dc:description>The inscription on the cornerstone reads: &#13;
+This Building for Children is Erected &#13;
+In loving Memory of &#13;
+Edward Lamb Parsons Born September 3, 1857 Died June 4, 1861&#13;
+Catherine McIlwaine Parsons Born August 27, 1859 Died June 2, 1861&#13;
+Reed McIlwaine Parsons Born February 9, 1862 Died January 6, 1867&#13;
+By, &#13;
+Their Father &#13;
+1897</dc:description>
+          <dc:date>1897-06-05</dc:date>
+          <dc:date>2015-01-14</dc:date>
+          <dc:type>Image</dc:type>
+          <dc:format>Photograph</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/131</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/3301cb9ed4967a6b2336c9dbaf96a44d.jpg</dc:identifier>
+          <dc:source>Harrison Public Library</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:132</identifier>
+        <datestamp>2015-08-12T16:58:04Z</datestamp>
+        <setSpec>7</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Laying the Cornerstone</dc:title>
+          <dc:subject>Parsons Memorial School</dc:subject>
+          <dc:description>This is the photo of the laying of the cornerstone at the grand groundbreaking ceremony on June 5th 1897.</dc:description>
+          <dc:date>1897-06-05</dc:date>
+          <dc:type>Image</dc:type>
+          <dc:format>Photograph</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/132</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/982468e65386c971786457393504fe56.jpg</dc:identifier>
+          <dc:source>The Harrison Historical Society at the Charles Dawson History Center</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:133</identifier>
+        <datestamp>2015-08-12T16:57:58Z</datestamp>
+        <setSpec>7</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Snow Day</dc:title>
+          <dc:subject>Parsons Memorial School</dc:subject>
+          <dc:description>This is a photo of Simon Shea with a horse plowing the sidewalk in front of Parsons Memorial School taken during the blizzard of February 20, 1934.</dc:description>
+          <dc:date>1934-02-20</dc:date>
+          <dc:type>Image</dc:type>
+          <dc:format>Photograph</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/133</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/4bdc597bd1037164d5c6af6899c969fd.jpg</dc:identifier>
+          <dc:source>The Harrison Historical Society at the Charles Dawson History Center</dc:source>
+          <dc:source>Photograph was donated by the late George Archer</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:134</identifier>
+        <datestamp>2015-08-12T16:57:48Z</datestamp>
+        <setSpec>7</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Presenting Parsons Memorial School</dc:title>
+          <dc:subject>Parsons Memorial School</dc:subject>
+          <dc:description>This is the program of the Presentation and Dedication of the Parsons Memorial School on February 12th, 1898.</dc:description>
+          <dc:publisher>Harry E. Foshay, Printer, Mamaroneck, NY</dc:publisher>
+          <dc:date>1898-02-12</dc:date>
+          <dc:type>Text</dc:type>
+          <dc:format>Paper</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/134</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/fccbc40ae435cd062766e4b7f52c9a30.jpg</dc:identifier>
+          <dc:source>Courtesy of Rye Historical Society - Knapp House Library and Archives. The program is stored at the Harrison Historical Society at the Charles Dawson History Center, under Parsons Memorial School file.</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:135</identifier>
+        <datestamp>2015-08-12T16:57:44Z</datestamp>
+        <setSpec>7</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Presenting Parsons Memorial School</dc:title>
+          <dc:creator>Port Chester Enterprise</dc:creator>
+          <dc:subject>Parsons Memorial School</dc:subject>
+          <dc:description>Newspaper article about the Presentation and Dedication of the Parsons Memorial School. The article details the state of the art design and engineering accomplishments of architect McIlvaine &amp; Tucker and builder W.A. Thomas.</dc:description>
+          <dc:publisher>Robert Whittaker, ed.</dc:publisher>
+          <dc:date>1898-02-19</dc:date>
+          <dc:type>Text</dc:type>
+          <dc:format>Newspaper Article</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/135</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/45e2dd776aff19bb4bb9dd892252f2fc.jpg</dc:identifier>
+          <dc:source>Courtesy of Rye Historical Society - Knapp House Library and Archives</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of &#13;
+this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:136</identifier>
+        <datestamp>2015-08-12T16:57:39Z</datestamp>
+        <setSpec>7</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>The Original Parsons Memorial School</dc:title>
+          <dc:subject>Parsons Memorial School</dc:subject>
+          <dc:description>This is a postcard of the original building of the Parsons Memorial School.</dc:description>
+          <dc:date>1905</dc:date>
+          <dc:type>Image</dc:type>
+          <dc:format>Postcard</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/136</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/3abf8b43781c9f70f85729f741c27221.jpg</dc:identifier>
+          <dc:source>Private collection of Greg Ricci, historian of the Town of Harrison, N.Y. </dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:137</identifier>
+        <datestamp>2015-08-12T16:57:28Z</datestamp>
+        <setSpec>7</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Eugene J. Feeley</dc:title>
+          <dc:creator>Harrison High School</dc:creator>
+          <dc:subject>Feeley, Eugene J.</dc:subject>
+          <dc:subject>Harrison High School</dc:subject>
+          <dc:description>Eugene Feely was the first male teacher in the Harrison School district, joining the staff in 1927. He was a physical education instructor, coached all sports and taught all grades from K-12. In his 37 years of service he also served as principal of several schools in the district. The athletic field behind Harrison Avenue School was dedicated in his honor in 1964. The Feely Scholarship fund was renamed in his honor as its founder in 1966.</dc:description>
+          <dc:publisher>Harrison High School</dc:publisher>
+          <dc:date>1931</dc:date>
+          <dc:type>Image</dc:type>
+          <dc:format>Book</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/137</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/c8607a55120a5bf2a62065ffee4679dc.jpg</dc:identifier>
+          <dc:source>Reminiscence: Harrison High School Yearbook 1931. The Harrison Historical Society at the Charles Dawson History Center</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:138</identifier>
+        <datestamp>2015-08-12T16:56:57Z</datestamp>
+        <setSpec>7</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Eugene J. Feeley Testimonial Dinner Program</dc:title>
+          <dc:subject>Feeley, Eugene J.</dc:subject>
+          <dc:subject>Harrison High School</dc:subject>
+          <dc:description>Eugene Feely was the first male teacher in the Harrison School district, joining the staff in 1927. He was a physical education instructor, coached all sports and taught all grades from K-12. In his 37 years of service he also served as principal of several schools in the district. The athletic field behind Harrison Avenue School was dedicated in his honor in 1964. The Feely Scholarship fund was renamed in his honor as its founder in 1966.</dc:description>
+          <dc:date>1964-05-13</dc:date>
+          <dc:type>Text</dc:type>
+          <dc:format>Paper</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/138</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/eb4551d3aa71604663e490032e8be10a.jpg</dc:identifier>
+          <dc:source>The Harrison Historical Society at the Charles Dawson History Center, under Feeley, Eugene J file</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:139</identifier>
+        <datestamp>2015-08-12T16:56:53Z</datestamp>
+        <setSpec>7</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Honoring Eugene J. Feeley</dc:title>
+          <dc:subject>Feeley, Eugene J.</dc:subject>
+          <dc:subject>Harrison High School</dc:subject>
+          <dc:description>Eugene Feely was the first male teacher in the Harrison School District, joining the staff in 1927. He was a physical education instructor, coached all sports and taught all grades from K-12. In his 37 years of service he also served as principal of several schools in the district. The athletic field behind Harrison Avenue School was dedicated in his honor in 1964. The Feely Scholarship fund was renamed in his honor as its founder in 1966.</dc:description>
+          <dc:publisher>Harrison Independent</dc:publisher>
+          <dc:date>1964-05-14</dc:date>
+          <dc:type>Text</dc:type>
+          <dc:format>Newspaper Article</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/139</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/47f4f376395dbd3db81f38968046eae7.jpg</dc:identifier>
+          <dc:source>The Harrison Historical Society at the Charles Dawson History Center, under Feeley, Eugene J file</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:140</identifier>
+        <datestamp>2015-08-12T16:56:49Z</datestamp>
+        <setSpec>7</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Roswell Marshall</dc:title>
+          <dc:creator>Westmoreland, Gene</dc:creator>
+          <dc:subject>Marshall, Roswell</dc:subject>
+          <dc:subject>Parsons Memorial School</dc:subject>
+          <dc:description>Roswell Marshall, who was named Harrison’s first Citizen of the Year in 1983, came to  Parsons in 1937. He taught English, Drama and Public Speaking. He was principal of Parsons Memorial School from 1950-1969.</dc:description>
+          <dc:publisher>Gene Westmoreland Golf Services LLC</dc:publisher>
+          <dc:date>2011</dc:date>
+          <dc:type>Text</dc:type>
+          <dc:format>Book, paper and digital</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/140</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/8974120a1eaec237af8ca05ff01dd6bf.jpg</dc:identifier>
+          <dc:source>Westmoreland, Gene. “Memories of Parsons” and A Brief History of Parsons Memorial School, Gene Westmoreland Golf Services LLC, 2011</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:141</identifier>
+        <datestamp>2015-08-12T16:56:44Z</datestamp>
+        <setSpec>7</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>History of Harrison High School</dc:title>
+          <dc:creator>Barbaro, Amelio</dc:creator>
+          <dc:subject>Harrison High School</dc:subject>
+          <dc:description>This is the history of Harrison High School written by Amelio Barbaro, class vice-president. It covers the years 1899- 1931.</dc:description>
+          <dc:publisher>Harrison High School</dc:publisher>
+          <dc:date>1931</dc:date>
+          <dc:type>Text</dc:type>
+          <dc:format>Book</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/141</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/5f2fbed172ef3e373effb648d6fb1953.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/8160534b6465c4f593289948b7f36468.jpg</dc:identifier>
+          <dc:source>Reminiscence: Harrison High School Yearbook 1931</dc:source>
+          <dc:source>The Harrison Historical Society at the Charles Dawson History Center</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:142</identifier>
+        <datestamp>2015-08-12T16:56:39Z</datestamp>
+        <setSpec>7</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Class of 1931</dc:title>
+          <dc:creator>Harrison High School</dc:creator>
+          <dc:subject>Harrison High School Class of 1931</dc:subject>
+          <dc:description>Photograph of the graduating class taken from the 1931 yearbook.</dc:description>
+          <dc:publisher>Harrison High School</dc:publisher>
+          <dc:date>1931</dc:date>
+          <dc:type>Image</dc:type>
+          <dc:format>Book</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/142</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/de0cc6cdcd41da691cf03292c42646b7.jpg</dc:identifier>
+          <dc:source>Reminiscence: Harrison High School Yearbook 1931. The Harrison Historical Society at the Charles Dawson History Center.</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:143</identifier>
+        <datestamp>2015-08-12T16:56:30Z</datestamp>
+        <setSpec>7</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>George Ulysses Hill</dc:title>
+          <dc:creator>Harrison High School</dc:creator>
+          <dc:subject>Hill, George U.</dc:subject>
+          <dc:subject>Principal</dc:subject>
+          <dc:subject>Superintendent</dc:subject>
+          <dc:subject>Parsons</dc:subject>
+          <dc:description>George Ulysses Hill came to Parsons as principal in 1908 and became Superintendent of Schools in 1922. In his nearly three decades of service he oversaw two expansions of Parsons and the building of Harrison Avenue School.</dc:description>
+          <dc:publisher>Citizen Observer</dc:publisher>
+          <dc:date>1936-01-16</dc:date>
+          <dc:type>Text</dc:type>
+          <dc:format>Newspaper Article</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/143</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/5e9c9d58cc731da5e51a724ff4d0a086.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/2d68dc05240a87f81c7289518ad6f658.jpg</dc:identifier>
+          <dc:source>The Harrison Historical Society at the Charles Dawson History Center, under Hill, George Ulysses file</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:144</identifier>
+        <datestamp>2015-08-12T16:56:26Z</datestamp>
+        <setSpec>7</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>George Ulysses Hill</dc:title>
+          <dc:subject>Hill, George U.</dc:subject>
+          <dc:subject>Principal</dc:subject>
+          <dc:subject>Superintendent</dc:subject>
+          <dc:subject>Parsons</dc:subject>
+          <dc:description>George Ulysses Hill came to Parsons as principal in 1908 and became Superintendent of Schools in 1922. In his nearly three decades of service he oversaw two expansions of Parsons and the building of Harrison Avenue School.</dc:description>
+          <dc:publisher>Harrison High School</dc:publisher>
+          <dc:date>1931</dc:date>
+          <dc:type>Image</dc:type>
+          <dc:format>Book</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/144</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/ccb37d10c6977cb4d8a4f3f122674679.jpg</dc:identifier>
+          <dc:source>Reminiscence: Harrison High School Yearbook 1931</dc:source>
+          <dc:source>The Harrison Historical Society at the Charles Dawson History Center</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:145</identifier>
+        <datestamp>2015-08-12T16:56:12Z</datestamp>
+        <setSpec>7</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Where is Parsons Memorial School?</dc:title>
+          <dc:creator>Hyde &amp; Company</dc:creator>
+          <dc:subject>Parsons Memorial School</dc:subject>
+          <dc:description>This 1900 colored and lithographed map shows the location of Parsons Memorial School.</dc:description>
+          <dc:publisher>Hyde &amp; Company</dc:publisher>
+          <dc:date>1900</dc:date>
+          <dc:type>Image</dc:type>
+          <dc:format>Atlas Map</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/145</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/69abe4f0ead734bd487d90176c006d0e.jpg</dc:identifier>
+          <dc:source>David Rumsey Map Collection</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:146</identifier>
+        <datestamp>2015-08-12T16:56:05Z</datestamp>
+        <setSpec>7</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>"My Home Town: 1940"</dc:title>
+          <dc:subject>Parsons Memorial School</dc:subject>
+          <dc:description>This excerpt from the film, My Home Town 1940, shows students of different grades coming out of the Parsons Memorial School.</dc:description>
+          <dc:date>1940</dc:date>
+          <dc:type>MovingImage</dc:type>
+          <dc:format>16 mm Film</dc:format>
+          <dc:identifier>2cBteuIVnbg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/146</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/fbed79c60abe3dd78f705ad82264c649.jpg</dc:identifier>
+          <dc:source>The DVD is stored at the Harrison Historical Society at the Charles Dawson History Center</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:147</identifier>
+        <datestamp>2015-08-12T16:55:59Z</datestamp>
+        <setSpec>7</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Four Years of Graduates</dc:title>
+          <dc:subject>Harrison High School</dc:subject>
+          <dc:subject>Parsons Memorial School</dc:subject>
+          <dc:subject>Class of 1912</dc:subject>
+          <dc:subject>Class of 1913</dc:subject>
+          <dc:subject>Class of 1914</dc:subject>
+          <dc:subject>Class of 1915</dc:subject>
+          <dc:description>These handwritten papers from a Compositions notebook named Official Record Graduating Classes list the names of each graduate for Harrison High School for the years 1912-1915.</dc:description>
+          <dc:date>1912</dc:date>
+          <dc:date>1913</dc:date>
+          <dc:date>1914</dc:date>
+          <dc:date>1915</dc:date>
+          <dc:type>Text</dc:type>
+          <dc:format>Paper</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/147</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/5bbef7dad1f49bd7cb30e1676b6991af.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/732d0a137d4f0361ed26039afc04e7e8.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/66f2eb76e12b27df491359451c65c102.jpg</dc:identifier>
+          <dc:source>The Harrison Historical Society at the Charles Dawson History Center, under Parsons Memorial School file.</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:148</identifier>
+        <datestamp>2015-08-12T16:55:39Z</datestamp>
+        <setSpec>7</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>"Memories of Parsons"</dc:title>
+          <dc:creator>Westmoreland, Gene</dc:creator>
+          <dc:subject>Parsons Memorial School</dc:subject>
+          <dc:subject>Westmoreland, Gene</dc:subject>
+          <dc:description>This book is a memoir and a brief history of Parsons Memorial School written for the 50th reunion of the Harrison High School Class of 1961. It covers the school from its beginning in 1898, the two expansions in 1908 and 1928, its name changes, and key faculty.The many photos in the book include the ceremonial key presented by John Parsons at the dedication in 1898, the original building in 1898 and the school as it looked after each expansion.</dc:description>
+          <dc:publisher>Gene Westmoreland Golf Services LLC</dc:publisher>
+          <dc:date>2011</dc:date>
+          <dc:type>Text</dc:type>
+          <dc:format>Book</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/148</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/453512b7b3d547edf38b01b0d1238e36.jpg</dc:identifier>
+          <dc:source>Westmoreland, Gene. “Memories of Parsons” and A Brief History of Parsons Memorial School, Gene Westmoreland Golf Services LLC, 2011</dc:source>
+          <dc:source>The physical book is stored at the Harrison Public Library</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:149</identifier>
+        <datestamp>2015-08-12T16:55:35Z</datestamp>
+        <setSpec>7</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Eighth Grade Graduation of 1912</dc:title>
+          <dc:creator>Union Free School District. No 6. Harrison, N.Y.</dc:creator>
+          <dc:subject>Union Free School District No. 6</dc:subject>
+          <dc:subject>Parsons Memorial School</dc:subject>
+          <dc:description>This original document is the program for the eighth grade graduation held on Monday June 24, 1912.</dc:description>
+          <dc:publisher>Union Free School District No. 6</dc:publisher>
+          <dc:date>1912-06-24</dc:date>
+          <dc:type>Text</dc:type>
+          <dc:format>Paper</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/149</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/2104420d608da7907741336da428c757.jpg</dc:identifier>
+          <dc:source>The Harrison Historical Society at the Charles Dawson History Center, under Parsons Memorial School file</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:150</identifier>
+        <datestamp>2015-08-12T16:55:31Z</datestamp>
+        <setSpec>7</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Maroon Murmurs</dc:title>
+          <dc:creator>Editor in Chief Eleanor Dodd</dc:creator>
+          <dc:subject>Harrison High School</dc:subject>
+          <dc:subject>Parsons School</dc:subject>
+          <dc:description>This is the inaugural issue of the Harrison High School newspaper called Maroon Murmurs. The graduating class was the largest one in the history of the school up to 1937. Ninety students received diplomas.</dc:description>
+          <dc:publisher>Harrison High School</dc:publisher>
+          <dc:date>1937-06-04</dc:date>
+          <dc:type>Text</dc:type>
+          <dc:format>Newspaper</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/150</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/2e4862bd94d7d53784ff7769d45092c5.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/2ace4b97c51308b109f86bc2c0c6ca92.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/51cc0e36dab117b4d6626a6a2aeeca93.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/e8bb6621e6f3f471997034de5fd5f514.jpg</dc:identifier>
+          <dc:source>The Harrison Historical Society at the Charles Dawson History Center, under Education - Harrison High School file</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:151</identifier>
+        <datestamp>2015-08-12T16:35:27Z</datestamp>
+        <setSpec>7</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>"Looking at the Schools" 1937-1938</dc:title>
+          <dc:creator>Louis M. Klein Superintendent of Schools</dc:creator>
+          <dc:subject>Union Free School District No. 6. Harrison N.Y. Annual Report</dc:subject>
+          <dc:description>This excerpt from the annual report includes the superintendent’s remarks on the state of education in the district for the school year.</dc:description>
+          <dc:publisher>Union Free School District No. 6</dc:publisher>
+          <dc:date>1938-04-13</dc:date>
+          <dc:type>Text</dc:type>
+          <dc:format>Pamphlet</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/151</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/c6f5a3a58f7c6f72a04f5eac7baf85b7.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/43b78da81447402ed3fa8fe9d9f1914a.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/1e3307a1f6e131dd0071f8ec2c3d62bb.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/3437d6fb44960eb6d216cede9971aed5.jpg</dc:identifier>
+          <dc:source>The Harrison Historical Society at the Charles Dawson History Center, under Education - Central School District No. 6 file</dc:source>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:152</identifier>
+        <datestamp>2015-08-12T16:55:27Z</datestamp>
+        <setSpec>7</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>"Looking at the Schools" 1938-1939</dc:title>
+          <dc:creator>Louis M. Klein Superintendent of Schools</dc:creator>
+          <dc:subject>Union Free School District No. 6. Harrison N.Y. Annual Report</dc:subject>
+          <dc:description>This excerpt from the annual report includes the superintendent’s remarks on the state of education in the district for the school year.</dc:description>
+          <dc:publisher>Union Free School District No. 6</dc:publisher>
+          <dc:date>1939-04-17</dc:date>
+          <dc:type>Text</dc:type>
+          <dc:format>Pamphlet</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/152</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/3160fb3429b3677878ddffd85ccac25b.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/83b7aca570e92c3113203814c7146e81.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/d6b85c2472155fe237a5dcbe14be782f.jpg</dc:identifier>
+          <dc:source>The Harrison Historical Society at the Charles Dawson History Center, under Education - Central School District No. 6 file</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:153</identifier>
+        <datestamp>2015-08-12T16:55:22Z</datestamp>
+        <setSpec>7</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Honoring Roswell R. Marshall</dc:title>
+          <dc:creator>Rotary Club</dc:creator>
+          <dc:subject>Marshall, Roswell</dc:subject>
+          <dc:subject>Parsons Memorial School</dc:subject>
+          <dc:description>This is a program of the Testimonial Dinner Dance held for Roswell R. Marshall. Roswell Marshall, who was named Harrison’s first Citizen of the Year in 1983, came to  Parsons in 1937. He taught English, Drama and Public Speaking. He was principal of Parsons Memorial School from 1950-1969.</dc:description>
+          <dc:publisher>Printed by Aranac Printing, Inc. Harrison, N.Y.</dc:publisher>
+          <dc:date>1967-10-29</dc:date>
+          <dc:type>Text</dc:type>
+          <dc:format>Paper</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/153</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/010fa599d5279499d24c4bf8c8d91eed.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/564b4458c5ecb7deffdebe4de7cc9a77.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/c07934dcab0b702e8fae2e9d3445c87b.jpg</dc:identifier>
+          <dc:source>The Harrison Historical Society at the Charles Dawson History Center, under Marshall, Roswell R. file</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:154</identifier>
+        <datestamp>2015-08-12T16:55:18Z</datestamp>
+        <setSpec>7</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Class of 1935</dc:title>
+          <dc:creator>Harrison High School</dc:creator>
+          <dc:subject>Harrison High School</dc:subject>
+          <dc:subject>Class of 1935</dc:subject>
+          <dc:description>Photograph of the graduating class taken from the 1935 yearbook.</dc:description>
+          <dc:publisher>Harrison High School</dc:publisher>
+          <dc:date>1935</dc:date>
+          <dc:type>Text</dc:type>
+          <dc:format>Book</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/154</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/8b2f240bf61a8aa8612e7a1a35ab6495.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/40306c194174e5a4b6654a3e7646ec2f.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/bc983c3369c9ee3f340c1468e9674413.jpg</dc:identifier>
+          <dc:source>Reminiscence: Harrison High School Yearbook 1935</dc:source>
+          <dc:source>The Harrison Historical Society at the Charles Dawson History Center</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:155</identifier>
+        <datestamp>2015-08-12T16:55:12Z</datestamp>
+        <setSpec>7</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>The First Senior Day</dc:title>
+          <dc:creator>Harrison High School</dc:creator>
+          <dc:subject>Harrison High School</dc:subject>
+          <dc:subject>Class of 1937</dc:subject>
+          <dc:subject>Senior Day</dc:subject>
+          <dc:description>The first Harrison High School Senior Day was held on April 21, 1937. Described here is the conception of the idea and it’s implementation, including quotes from participating students.</dc:description>
+          <dc:publisher>Harrison High School</dc:publisher>
+          <dc:date>1937</dc:date>
+          <dc:type>Text</dc:type>
+          <dc:format>Book</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/155</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/c78a30215f234c9fd4cc5cc0cf20fa22.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/74cd473721580d25ab7ca38406e1423b.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/71b2a611b053ee3b059e4fddbe4cef49.jpg</dc:identifier>
+          <dc:source>Reminiscence: Harrison High School Yearbook 1937, p.73-74</dc:source>
+          <dc:source>The Harrison Historical Society at the Charles Dawson History Center</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:156</identifier>
+        <datestamp>2015-08-12T16:54:52Z</datestamp>
+        <setSpec>7</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Alumni News</dc:title>
+          <dc:creator>Harrison High School</dc:creator>
+          <dc:subject>Harrison High School</dc:subject>
+          <dc:subject>Class of 1937</dc:subject>
+          <dc:subject>Alumni</dc:subject>
+          <dc:description>This article offers information on the professional and educational achievements of past graduates.</dc:description>
+          <dc:publisher>Harrison High School</dc:publisher>
+          <dc:date>1937</dc:date>
+          <dc:type>Text</dc:type>
+          <dc:format>Book</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/156</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/4216834f5bff54cb0e0d2863aac1e803.jpg</dc:identifier>
+          <dc:source>Reminiscence: Harrison High School Yearbook 1937, p.75</dc:source>
+          <dc:source>The Harrison Historical Society at the Charles Dawson History Center</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:www.harrisonpl.org/harrison-remembers/:157</identifier>
+        <datestamp>2015-08-12T16:54:42Z</datestamp>
+        <setSpec>7</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Family Ties</dc:title>
+          <dc:creator>Mickey, Kathy, staff writer</dc:creator>
+          <dc:creator>Schmitt, Stephen, staff photographer</dc:creator>
+          <dc:subject>Parsons Memorial School</dc:subject>
+          <dc:subject>Rubeo-Pinto-Geary-Tateo-Bongiovanni Family</dc:subject>
+          <dc:description>This article is about five generations of a Harrison family that attended Parsons Memorial School beginning in 1904 through 1993.</dc:description>
+          <dc:publisher>The Daily Item</dc:publisher>
+          <dc:date>1993-10-24</dc:date>
+          <dc:type>Text</dc:type>
+          <dc:format>Newspaper Article</dc:format>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/items/show/157</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/4ba989942721ff916f6386daa96b008b.jpg</dc:identifier>
+          <dc:identifier>http://harrisonpl.org/harrison-remembers/files/thumbnails/e79a178d5262ed5ef75507bc2392b163.jpg</dc:identifier>
+          <dc:source>The Harrison Historical Society at the Charles Dawson History Center, under Parsons Memorial School file</dc:source>
+          <dc:language>en-US</dc:language>
+          <dc:rights>This material may be protected by the U.S. Copyright Law (Title 17, U.S.C.). Fair use of &#13;
+this content is permitted as defined by copyright law. Responsibility for determining fair use lies with the user. The user is responsible for any claims that may arise.</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </ListRecords>
+</OAI-PMH>

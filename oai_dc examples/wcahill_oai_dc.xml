@@ -1,0 +1,1650 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2015-09-21T11:50:51Z</responseDate>
+  <!-- Showing 50 records. -->
+  <request>http://digitalarchives.queenslibrary.org/vital/oai/provider</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>aql:10126</identifier>
+        <datestamp>2015-07-24T09:33:13.054Z</datestamp>
+        <setSpec>collection10116</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>East Orange Baseball Club</dc:title>
+          <dc:creator>William Cahill</dc:creator>
+          <dc:subject>Baseball teams</dc:subject>
+          <dc:description>East Orange Baseball Club team picture.</dc:description>
+          <dc:type>work</dc:type>
+          <dc:type>black and white slide; digital image</dc:type>
+          <dc:format>safety film</dc:format>
+          <dc:format>2 x 2 inches (slide); 400 ppi (digital image)</dc:format>
+          <dc:identifier>aql:10126</dc:identifier>
+          <dc:identifier>wvc-000233</dc:identifier>
+          <dc:identifier>wvc-000233.tif</dc:identifier>
+          <dc:source>http://www.queenslibrary.org</dc:source>
+          <dc:relation>This image is from the William Cahill Papers and is depicted in a slide and digital image.</dc:relation>
+          <dc:relation>Image is part of the William Cahill Papers</dc:relation>
+          <dc:coverage>Grove Street, East Orange, NJ</dc:coverage>
+          <dc:coverage>East Orange (N.J.)</dc:coverage>
+          <dc:coverage>New Jersey</dc:coverage>
+          <dc:rights>Copyright holder unknown</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:10144</identifier>
+        <datestamp>2015-07-24T09:30:53.428Z</datestamp>
+        <setSpec>collection10116</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Bowman Field - Exterior</dc:title>
+          <dc:creator>William Cahill</dc:creator>
+          <dc:subject>Baseball fields</dc:subject>
+          <dc:description>Bowman Field. View of the parking lot and grandstand.</dc:description>
+          <dc:type>work</dc:type>
+          <dc:type>color print; digital image</dc:type>
+          <dc:format>color print</dc:format>
+          <dc:format>4 x 6 inches (print); 400 ppi (digital image)</dc:format>
+          <dc:identifier>aql:10144</dc:identifier>
+          <dc:identifier>wvc-000003</dc:identifier>
+          <dc:identifier>wvc-000003.tif</dc:identifier>
+          <dc:source>http://www.queenslibrary.org</dc:source>
+          <dc:relation>This image is from the William Cahill Papers and is depicted in a print and digital image.</dc:relation>
+          <dc:relation>Image is part of the William Cahill Papers</dc:relation>
+          <dc:coverage>Lycoming Creek Bikeway, Williamsport, PA</dc:coverage>
+          <dc:coverage>Williamsport (Pa.)</dc:coverage>
+          <dc:coverage>Pennsylvania</dc:coverage>
+          <dc:rights>Copyright held by: Queens Borough Public Library</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:10154</identifier>
+        <datestamp>2015-07-24T09:29:02.207Z</datestamp>
+        <setSpec>collection10116</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Bowman Field - Scoreboard</dc:title>
+          <dc:creator>William Cahill</dc:creator>
+          <dc:subject>Baseball fields</dc:subject>
+          <dc:description>Bowman Field. View of the scoreboard, from right field. Signs for local sponsors run along the wall.</dc:description>
+          <dc:type>work</dc:type>
+          <dc:type>color print; digital image</dc:type>
+          <dc:format>color print</dc:format>
+          <dc:format>4 x 6 inches (print); 400 ppi (digital image)</dc:format>
+          <dc:identifier>aql:10154</dc:identifier>
+          <dc:identifier>wvc-000006</dc:identifier>
+          <dc:identifier>wvc-000006.tif</dc:identifier>
+          <dc:source>http://www.queenslibrary.org</dc:source>
+          <dc:relation>This image is from the William Cahill Papers and is depicted in a print and digital image.</dc:relation>
+          <dc:relation>Image is part of the William Cahill Papers</dc:relation>
+          <dc:coverage>Lycoming Creek Bikeway, Williamsport, PA</dc:coverage>
+          <dc:coverage>Williamsport (Pa.)</dc:coverage>
+          <dc:coverage>Pennsylvania</dc:coverage>
+          <dc:rights>Copyright held by: Queens Borough Public Library</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:10180</identifier>
+        <datestamp>2015-07-24T09:28:06.368Z</datestamp>
+        <setSpec>collection10116</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Yale Field - Right Field</dc:title>
+          <dc:creator>William Cahill</dc:creator>
+          <dc:subject>Baseball fields</dc:subject>
+          <dc:subject>Yale Field (New Haven, Conn.)</dc:subject>
+          <dc:description>Yale Field. View of the right field corner.</dc:description>
+          <dc:type>work</dc:type>
+          <dc:type>color negative; color print; digital image</dc:type>
+          <dc:format>safety film; color print</dc:format>
+          <dc:format>1 1/4 x 6 inches (negative); 4 x 6 inches (print); 400 ppi (digital image)</dc:format>
+          <dc:identifier>aql:10180</dc:identifier>
+          <dc:identifier>wvc-000094</dc:identifier>
+          <dc:identifier>wvc-000094.tif</dc:identifier>
+          <dc:source>http://www.queenslibrary.org</dc:source>
+          <dc:relation>This image is from the William Cahill Papers and is depicted in a negative, print and digital image.</dc:relation>
+          <dc:relation>Image is part of the William Cahill Papers</dc:relation>
+          <dc:coverage>Derby Avenue, New Haven, CT</dc:coverage>
+          <dc:coverage>New Haven (Conn.)</dc:coverage>
+          <dc:coverage>Connecticut</dc:coverage>
+          <dc:rights>Copyright held by: Queens Borough Public Library</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:10221</identifier>
+        <datestamp>2015-07-24T09:27:56.714Z</datestamp>
+        <setSpec>collection10116</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Pilot Field</dc:title>
+          <dc:creator>William Cahill</dc:creator>
+          <dc:subject>Baseball fields</dc:subject>
+          <dc:subject>Pilot Field (Buffalo, N.Y.)</dc:subject>
+          <dc:description>Postcard depicting Pilot Field. Now known as Coca Cola Field.</dc:description>
+          <dc:type>work</dc:type>
+          <dc:type>postcard; digital image</dc:type>
+          <dc:format>postcard</dc:format>
+          <dc:format>3 1/2 x 5 1/2 inches (postcard); 400 ppi (digital image)</dc:format>
+          <dc:identifier>aql:10221</dc:identifier>
+          <dc:identifier>wvc-000063</dc:identifier>
+          <dc:identifier>wvc-000063.tif</dc:identifier>
+          <dc:source>http://www.queenslibrary.org</dc:source>
+          <dc:relation>This image is from the William Cahill Papers and is depicted in a print and digital image.</dc:relation>
+          <dc:relation>Image is part of the William Cahill Papers</dc:relation>
+          <dc:coverage>Buffalo, NY</dc:coverage>
+          <dc:coverage>Buffalo (N.Y.)</dc:coverage>
+          <dc:coverage>New York (State)</dc:coverage>
+          <dc:rights>Copyright held by: Queens Borough Public Library</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:10192</identifier>
+        <datestamp>2015-07-24T09:27:32.092Z</datestamp>
+        <setSpec>collection10116</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Muzzy Field - Left Field</dc:title>
+          <dc:creator>William Cahill</dc:creator>
+          <dc:subject>Baseball fields</dc:subject>
+          <dc:subject>Muzzy Field (Bristol, Connecticut)</dc:subject>
+          <dc:description>Muzzy Field. View of the left field bleachers, from the grandstand near third base.</dc:description>
+          <dc:type>work</dc:type>
+          <dc:type>color negative; color print; digital image</dc:type>
+          <dc:format>safety film; color print</dc:format>
+          <dc:format>1 1/4 x 6 inches (negative); 4 x 6 inches (print); 400 ppi (digital image)</dc:format>
+          <dc:identifier>aql:10192</dc:identifier>
+          <dc:identifier>wvc-000054</dc:identifier>
+          <dc:identifier>wvc-000054.tif</dc:identifier>
+          <dc:source>http://www.queenslibrary.org</dc:source>
+          <dc:relation>This image is from the William Cahill Papers and is depicted in a negative, print and digital image.</dc:relation>
+          <dc:relation>Image is part of the William Cahill Papers</dc:relation>
+          <dc:coverage>Bristol, CT</dc:coverage>
+          <dc:coverage>Bristol (Conn.)</dc:coverage>
+          <dc:coverage>Connecticut</dc:coverage>
+          <dc:rights>Copyright held by: Queens Borough Public Library</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:10257</identifier>
+        <datestamp>2015-07-24T09:24:40.050Z</datestamp>
+        <setSpec>collection10116</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Building on Washington Park Site</dc:title>
+          <dc:creator>William Cahill</dc:creator>
+          <dc:subject>Baseball fields</dc:subject>
+          <dc:subject>Washington Park (Brooklyn, New York, N.Y.)</dc:subject>
+          <dc:description>Brick building on the site of the former Washington Park. Site of the second and third park. View from 3rd Avenue.</dc:description>
+          <dc:type>work</dc:type>
+          <dc:type>color negative; digital image</dc:type>
+          <dc:format>safety film</dc:format>
+          <dc:format>1 1/4 x 5 inches (negative); 400 ppi (digital image)</dc:format>
+          <dc:identifier>aql:10257</dc:identifier>
+          <dc:identifier>wvc-000140</dc:identifier>
+          <dc:identifier>wvc-000140.tif</dc:identifier>
+          <dc:source>http://www.queenslibrary.org</dc:source>
+          <dc:relation>This image is from the William Cahill Papers and is depicted in a negative and digital image.</dc:relation>
+          <dc:relation>Image is part of the William Cahill Papers</dc:relation>
+          <dc:coverage>3rd Avenue, Brooklyn, NY</dc:coverage>
+          <dc:coverage>Brooklyn (New York, N.Y.)</dc:coverage>
+          <dc:rights>Copyright held by: Queens Borough Public Library</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:10193</identifier>
+        <datestamp>2015-07-24T09:23:44.611Z</datestamp>
+        <setSpec>collection10116</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Bowman Field - Bill Cahill</dc:title>
+          <dc:creator>William Cahill</dc:creator>
+          <dc:subject>Baseball fields</dc:subject>
+          <dc:description>Bowman Field. William Cahill, sitting on a picnic table.</dc:description>
+          <dc:type>work</dc:type>
+          <dc:type>color print; digital image</dc:type>
+          <dc:format>color print</dc:format>
+          <dc:format>5 x 3 1/2 inches (print); 400 ppi (digital image)</dc:format>
+          <dc:identifier>aql:10193</dc:identifier>
+          <dc:identifier>wvc-000013</dc:identifier>
+          <dc:identifier>wvc-000013.tif</dc:identifier>
+          <dc:source>http://www.queenslibrary.org</dc:source>
+          <dc:relation>This image is from the William Cahill Papers and is depicted in a print and digital image.</dc:relation>
+          <dc:relation>Image is part of the William Cahill Papers</dc:relation>
+          <dc:coverage>Lycoming Creek Bikeway, Williamsport, PA</dc:coverage>
+          <dc:coverage>Williamsport (Pa.)</dc:coverage>
+          <dc:coverage>Pennsylvania</dc:coverage>
+          <dc:rights>Copyright held by: Queens Borough Public Library</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:10207</identifier>
+        <datestamp>2015-07-24T09:23:27.590Z</datestamp>
+        <setSpec>collection10116</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Yale Field - Right Field</dc:title>
+          <dc:creator>William Cahill</dc:creator>
+          <dc:subject>Baseball fields</dc:subject>
+          <dc:subject>Yale Field (New Haven, Conn.)</dc:subject>
+          <dc:description>Yale Field. View of the right field bleachers and grandstand, from center field.</dc:description>
+          <dc:type>work</dc:type>
+          <dc:type>color negative; color print; digital image</dc:type>
+          <dc:format>safety film; color print</dc:format>
+          <dc:format>1 1/4 x 6 inches (negative); 4 x 6 inches (print); 400 ppi (digital image)</dc:format>
+          <dc:identifier>aql:10207</dc:identifier>
+          <dc:identifier>wvc-000106</dc:identifier>
+          <dc:identifier>wvc-000106.tif</dc:identifier>
+          <dc:source>http://www.queenslibrary.org</dc:source>
+          <dc:relation>This image is from the William Cahill Papers and is depicted in a negative, print and digital image.</dc:relation>
+          <dc:relation>Image is part of the William Cahill Papers</dc:relation>
+          <dc:coverage>Derby Avenue, New Haven, CT</dc:coverage>
+          <dc:coverage>New Haven (Conn.)</dc:coverage>
+          <dc:coverage>Connecticut</dc:coverage>
+          <dc:rights>Copyright held by: Queens Borough Public Library</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:10157</identifier>
+        <datestamp>2015-07-24T09:22:05.672Z</datestamp>
+        <setSpec>collection10116</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Building on Washington Park Site</dc:title>
+          <dc:creator>William Cahill</dc:creator>
+          <dc:subject>Baseball fields</dc:subject>
+          <dc:subject>Washington Park (Brooklyn, New York, N.Y.)</dc:subject>
+          <dc:description>Brick building on the site of the former Washington Park. Site of the second and third park. View from 3rd Avenue.</dc:description>
+          <dc:type>work</dc:type>
+          <dc:type>color negative; digital image</dc:type>
+          <dc:format>safety film</dc:format>
+          <dc:format>1 1/4 x 6 inches (negative); 400 ppi (digital image)</dc:format>
+          <dc:identifier>aql:10157</dc:identifier>
+          <dc:identifier>wvc-000129</dc:identifier>
+          <dc:identifier>wvc-000129.tif</dc:identifier>
+          <dc:source>http://www.queenslibrary.org</dc:source>
+          <dc:relation>This image is from the William Cahill Papers and is depicted in a negative and digital image.</dc:relation>
+          <dc:relation>Image is part of the William Cahill Papers</dc:relation>
+          <dc:coverage>3rd Avenue, Brooklyn, NY</dc:coverage>
+          <dc:coverage>Brooklyn (New York, N.Y.)</dc:coverage>
+          <dc:rights>Copyright held by: Queens Borough Public Library</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:10246</identifier>
+        <datestamp>2015-07-24T09:20:05.624Z</datestamp>
+        <setSpec>collection10116</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>McCoy Stadium</dc:title>
+          <dc:creator>William Cahill</dc:creator>
+          <dc:subject>Baseball fields</dc:subject>
+          <dc:subject>Pawtucket Red Sox (Baseball team)</dc:subject>
+          <dc:description>Postcard depicting McCoy Stadium, Home of the Pawtucket Red Sox.</dc:description>
+          <dc:type>work</dc:type>
+          <dc:type>postcard; digital image</dc:type>
+          <dc:format>postcard</dc:format>
+          <dc:format>5 x 7 inches (postcard); 400 ppi (digital image)</dc:format>
+          <dc:identifier>aql:10246</dc:identifier>
+          <dc:identifier>wvc-000046</dc:identifier>
+          <dc:identifier>wvc-000046.tif</dc:identifier>
+          <dc:source>http://www.queenslibrary.org</dc:source>
+          <dc:relation>This image is from the William Cahill Papers and is depicted in a postcard and digital image.</dc:relation>
+          <dc:relation>Image is part of the William Cahill Papers</dc:relation>
+          <dc:coverage>1 Columbus Avenue Pawtucket, RI</dc:coverage>
+          <dc:coverage>Pawtucket (R.I.)</dc:coverage>
+          <dc:coverage>Rhode Island</dc:coverage>
+          <dc:rights>Copyright holder unknown</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:10156</identifier>
+        <datestamp>2015-07-24T09:14:42.926Z</datestamp>
+        <setSpec>collection10116</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Holman Stadium, Vero Beach FL</dc:title>
+          <dc:creator>William Cahill</dc:creator>
+          <dc:subject>Baseball fields</dc:subject>
+          <dc:description>Postcard depicting Holman Stadium "Dodgertown." Inscribed on the back. Addressed to Mrs. Gail Larson.</dc:description>
+          <dc:description>Hand written on back of postcard: Hi! The Dodgers are flying home today after the game and we will be heading home on the 12th! Golf banquet and ladies luncheon next week. Love, Mum</dc:description>
+          <dc:type>work</dc:type>
+          <dc:type>postcard; digital image</dc:type>
+          <dc:format>postcard</dc:format>
+          <dc:format>4 x 6 inches (postcard); 400 ppi (digital image)</dc:format>
+          <dc:identifier>aql:10156</dc:identifier>
+          <dc:identifier>wvc-000043</dc:identifier>
+          <dc:identifier>wvc-000043.tif</dc:identifier>
+          <dc:source>http://www.queenslibrary.org</dc:source>
+          <dc:relation>This image is from the William Cahill Papers and is depicted in a postcard and digital image.</dc:relation>
+          <dc:relation>Image is part of the William Cahill Papers</dc:relation>
+          <dc:coverage>3901 26th Street, Vero Beach, FL</dc:coverage>
+          <dc:coverage>Vero Beach (Fla.)</dc:coverage>
+          <dc:coverage>Florida</dc:coverage>
+          <dc:rights>Copyright holder unknown</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:10178</identifier>
+        <datestamp>2015-07-24T09:14:28.554Z</datestamp>
+        <setSpec>collection10116</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Building on Washington Park Site</dc:title>
+          <dc:creator>William Cahill</dc:creator>
+          <dc:subject>Baseball fields</dc:subject>
+          <dc:subject>Washington Park (Brooklyn, New York, N.Y.)</dc:subject>
+          <dc:description>Brick building on the site of the former Washington Park. Site of the second and third park. View from 1st Street.</dc:description>
+          <dc:type>work</dc:type>
+          <dc:type>color negative; digital image</dc:type>
+          <dc:format>safety film</dc:format>
+          <dc:format>1 1/4 x 6 inches (negative); 400 ppi (digital image)</dc:format>
+          <dc:identifier>aql:10178</dc:identifier>
+          <dc:identifier>wvc-000136</dc:identifier>
+          <dc:identifier>wvc-000136.tif</dc:identifier>
+          <dc:source>http://www.queenslibrary.org</dc:source>
+          <dc:relation>This image is from the William Cahill Papers and is depicted in a negative and digital image.</dc:relation>
+          <dc:relation>Image is part of the William Cahill Papers</dc:relation>
+          <dc:coverage>1st Street, Brooklyn, NY</dc:coverage>
+          <dc:coverage>Brooklyn (New York, N.Y.)</dc:coverage>
+          <dc:rights>Copyright held by: Queens Borough Public Library</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:10251</identifier>
+        <datestamp>2015-07-24T09:07:52.053Z</datestamp>
+        <setSpec>collection10116</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Yale Field - Exterior</dc:title>
+          <dc:creator>William Cahill</dc:creator>
+          <dc:subject>Baseball fields</dc:subject>
+          <dc:subject>Yale Field (New Haven, Conn.)</dc:subject>
+          <dc:description>Yale Field. Exterior view of the rear of the grandstand.</dc:description>
+          <dc:type>work</dc:type>
+          <dc:type>color negative; color print; digital image</dc:type>
+          <dc:format>safety film; color print</dc:format>
+          <dc:format>1 1/4 x 6 inches (negative); 4 x 6 inches (print); 400 ppi (digital image)</dc:format>
+          <dc:identifier>aql:10251</dc:identifier>
+          <dc:identifier>wvc-000097</dc:identifier>
+          <dc:identifier>wvc-000097.tif</dc:identifier>
+          <dc:source>http://www.queenslibrary.org</dc:source>
+          <dc:relation>This image is from the William Cahill Papers and is depicted in a negative, print and digital image.</dc:relation>
+          <dc:relation>Image is part of the William Cahill Papers</dc:relation>
+          <dc:coverage>Derby Avenue, New Haven, CT</dc:coverage>
+          <dc:coverage>New Haven (Conn.)</dc:coverage>
+          <dc:coverage>Connecticut</dc:coverage>
+          <dc:rights>Copyright held by: Queens Borough Public Library</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:10121</identifier>
+        <datestamp>2015-07-24T09:07:26.844Z</datestamp>
+        <setSpec>collection10116</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Pilot Field - Scoreboard</dc:title>
+          <dc:creator>William Cahill</dc:creator>
+          <dc:subject>Baseball fields</dc:subject>
+          <dc:subject>Pilot Field (Buffalo, N.Y.)</dc:subject>
+          <dc:description>Pilot Field. Now known as Coca Cola Field. View of the outfield scoreboard.</dc:description>
+          <dc:type>work</dc:type>
+          <dc:type>color print; digital image</dc:type>
+          <dc:format>color print</dc:format>
+          <dc:format>4 x 6 inches (print); 400 ppi (digital image)</dc:format>
+          <dc:identifier>aql:10121</dc:identifier>
+          <dc:identifier>wvc-000068</dc:identifier>
+          <dc:identifier>wvc-000068.tif</dc:identifier>
+          <dc:source>http://www.queenslibrary.org</dc:source>
+          <dc:relation>This image is from the William Cahill Papers and is depicted in a print and digital image.</dc:relation>
+          <dc:relation>Image is part of the William Cahill Papers</dc:relation>
+          <dc:coverage>Buffalo, NY</dc:coverage>
+          <dc:coverage>Buffalo (N.Y.)</dc:coverage>
+          <dc:coverage>New York (State)</dc:coverage>
+          <dc:rights>Copyright held by: Queens Borough Public Library</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:10139</identifier>
+        <datestamp>2015-07-24T09:03:15.288Z</datestamp>
+        <setSpec>collection10116</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Bar with Beer Sign</dc:title>
+          <dc:creator>William Cahill</dc:creator>
+          <dc:subject>Bars (Drinking establishments)</dc:subject>
+          <dc:subject>Beer signs</dc:subject>
+          <dc:subject>Anheuser-Busch, Inc.</dc:subject>
+          <dc:description>Run down bar, with a Budweiser sign in the front window. Probably near the former Dexter Park.</dc:description>
+          <dc:type>work</dc:type>
+          <dc:type>color negative; digital image</dc:type>
+          <dc:format>safety film</dc:format>
+          <dc:format>1 1/4 x 6 inches (negative); 400 ppi (digital image)</dc:format>
+          <dc:identifier>aql:10139</dc:identifier>
+          <dc:identifier>wvc-000125</dc:identifier>
+          <dc:identifier>wvc-000125.tif</dc:identifier>
+          <dc:source>http://www.queenslibrary.org</dc:source>
+          <dc:relation>This image is from the William Cahill Papers and is depicted in a negative and digital image.</dc:relation>
+          <dc:relation>Image is part of the William Cahill Papers</dc:relation>
+          <dc:coverage>Dexter Court, Jamaica, NY</dc:coverage>
+          <dc:coverage>Woodhaven (New York, N.Y.)</dc:coverage>
+          <dc:coverage>Queens (New York, N.Y.)</dc:coverage>
+          <dc:rights>Copyright held by: Queens Borough Public Library</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:10218</identifier>
+        <datestamp>2015-07-24T09:02:53.535Z</datestamp>
+        <setSpec>collection10116</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Babe Ruth</dc:title>
+          <dc:creator>William Cahill</dc:creator>
+          <dc:subject>Baseball players</dc:subject>
+          <dc:subject>Ruth, Babe, 1895-1948</dc:subject>
+          <dc:subject>Boston Braves (Baseball team)</dc:subject>
+          <dc:description>Babe Ruth. Ruth played for the Boston Braves when the photo was taken. The slide was used in a presentation, by Cahill.</dc:description>
+          <dc:type>work</dc:type>
+          <dc:type>black and white slide; digital image</dc:type>
+          <dc:format>safety film</dc:format>
+          <dc:format>2 x 2 inches (slide); 400 ppi (digital image)</dc:format>
+          <dc:identifier>aql:10218</dc:identifier>
+          <dc:identifier>wvc-000216</dc:identifier>
+          <dc:identifier>wvc-000216.tif</dc:identifier>
+          <dc:source>http://www.queenslibrary.org</dc:source>
+          <dc:relation>This image is from the William Cahill Papers and is depicted in a slide and digital image.</dc:relation>
+          <dc:relation>Image is part of the William Cahill Papers</dc:relation>
+          <dc:coverage>Commonwealth Avenue, Boston, MA</dc:coverage>
+          <dc:coverage>Boston (Mass.)</dc:coverage>
+          <dc:coverage>Massachusetts</dc:coverage>
+          <dc:rights>Copyright holder unknown</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:10119</identifier>
+        <datestamp>2015-07-24T09:02:25.055Z</datestamp>
+        <setSpec>collection10116</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Roosevelt Stadium</dc:title>
+          <dc:creator>William Cahill</dc:creator>
+          <dc:subject>Baseball fields</dc:subject>
+          <dc:description>Fred Price posing near the field at Roosevelt Stadium.</dc:description>
+          <dc:type>work</dc:type>
+          <dc:type>black and white negative; digital image</dc:type>
+          <dc:format>safety film</dc:format>
+          <dc:format>4 x 5 inches (negative); 400 ppi (digital image)</dc:format>
+          <dc:identifier>aql:10119</dc:identifier>
+          <dc:identifier>wvc-000113</dc:identifier>
+          <dc:identifier>wvc-000113.tif</dc:identifier>
+          <dc:source>Additional information from "Semi-Professional baseball teams A-Z in the New York city area 1870-1956" William V. Cahill.</dc:source>
+          <dc:source>http://www.queenslibrary.org</dc:source>
+          <dc:relation>This image is from the William Cahill Papers and is depicted in a negative and digital image.</dc:relation>
+          <dc:relation>Image is part of the William Cahill Papers</dc:relation>
+          <dc:coverage>Union City, NJ</dc:coverage>
+          <dc:coverage>Union City (N.J.)</dc:coverage>
+          <dc:coverage>New Jersey</dc:coverage>
+          <dc:rights>Copyright held by: Queens Borough Public Library</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:10222</identifier>
+        <datestamp>2015-07-24T09:01:11.974Z</datestamp>
+        <setSpec>collection10116</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Pilot Field - Exterior</dc:title>
+          <dc:creator>William Cahill</dc:creator>
+          <dc:subject>Baseball fields</dc:subject>
+          <dc:subject>Pilot Field (Buffalo, N.Y.)</dc:subject>
+          <dc:description>Pilot Field. Now known as Coca Cola Field. View of the exterior, Swan Street side.</dc:description>
+          <dc:type>work</dc:type>
+          <dc:type>color print; digital image</dc:type>
+          <dc:format>color print</dc:format>
+          <dc:format>4 x 6 inches (print); 400 ppi (digital image)</dc:format>
+          <dc:identifier>aql:10222</dc:identifier>
+          <dc:identifier>wvc-000071</dc:identifier>
+          <dc:identifier>wvc-000071.tif</dc:identifier>
+          <dc:source>http://www.queenslibrary.org</dc:source>
+          <dc:relation>This image is from the William Cahill Papers and is depicted in a print and digital image.</dc:relation>
+          <dc:relation>Image is part of the William Cahill Papers</dc:relation>
+          <dc:coverage>Buffalo, NY</dc:coverage>
+          <dc:coverage>Buffalo (N.Y.)</dc:coverage>
+          <dc:coverage>New York (State)</dc:coverage>
+          <dc:rights>Copyright held by: Queens Borough Public Library</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:10149</identifier>
+        <datestamp>2015-07-24T09:00:05.078Z</datestamp>
+        <setSpec>collection10116</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Queens Club, at Bat</dc:title>
+          <dc:creator>William Cahill</dc:creator>
+          <dc:subject>Baseball teams</dc:subject>
+          <dc:description>Don Rodda up at bat.</dc:description>
+          <dc:type>work</dc:type>
+          <dc:type>black and white negative; digital image</dc:type>
+          <dc:format>safety film</dc:format>
+          <dc:format>8 x 10 inches (negative); 400 ppi (digital image)</dc:format>
+          <dc:identifier>aql:10149</dc:identifier>
+          <dc:identifier>wvc-000120</dc:identifier>
+          <dc:identifier>wvc-000120.tif</dc:identifier>
+          <dc:source>Additional information from "Semi-Professional baseball teams A-Z in the New York city area 1870-1956" William V. Cahill.</dc:source>
+          <dc:source>http://www.queenslibrary.org</dc:source>
+          <dc:relation>This image is from the William Cahill Papers and is depicted in a negative and digital image.</dc:relation>
+          <dc:relation>Image is part of the William Cahill Papers</dc:relation>
+          <dc:coverage>58th Street and 31st Avenue, Woodside, NY</dc:coverage>
+          <dc:coverage>Woodside (New York, N.Y.)</dc:coverage>
+          <dc:coverage>Queens (New York, N.Y.)</dc:coverage>
+          <dc:rights>Copyright held by: Queens Borough Public Library</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:10169</identifier>
+        <datestamp>2015-07-24T08:59:07.211Z</datestamp>
+        <setSpec>collection10116</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Babe Ruth Family Sympathy Appreciation Card</dc:title>
+          <dc:creator>William Cahill</dc:creator>
+          <dc:subject>Thank-you notes</dc:subject>
+          <dc:subject>Ruth, Babe, 1895-1948</dc:subject>
+          <dc:description>Babe Ruth Family sympathy appreciation card. The funeral was held at St. Patricks Cathedral in New York City on August 19, 1948. The slide was used in a presentation, by Cahill.</dc:description>
+          <dc:type>work</dc:type>
+          <dc:type>black and white slide; digital image</dc:type>
+          <dc:format>safety film</dc:format>
+          <dc:format>2 x 2 inches (slide); 400 ppi (digital image)</dc:format>
+          <dc:identifier>aql:10169</dc:identifier>
+          <dc:identifier>wvc-000205</dc:identifier>
+          <dc:identifier>wvc-000205.tif</dc:identifier>
+          <dc:source>http://www.queenslibrary.org</dc:source>
+          <dc:relation>This image is from the William Cahill Papers and is depicted in a slide and digital image.</dc:relation>
+          <dc:relation>Image is part of the William Cahill Papers</dc:relation>
+          <dc:coverage>St Patrick's Cathedral, 460 Madison Avenue, New York, NY</dc:coverage>
+          <dc:coverage>Manhattan (New York, N.Y.)</dc:coverage>
+          <dc:coverage>New York (N.Y.)</dc:coverage>
+          <dc:rights>Copyright holder unknown</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:10240</identifier>
+        <datestamp>2015-07-24T08:57:54.183Z</datestamp>
+        <setSpec>collection10116</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Walter Camp Memorial Gateway</dc:title>
+          <dc:creator>William Cahill</dc:creator>
+          <dc:subject>Baseball fields</dc:subject>
+          <dc:subject>Yale Field (New Haven, Conn.)</dc:subject>
+          <dc:description>Walter Camp Memorial Gateway, opposite Yale Field.</dc:description>
+          <dc:type>work</dc:type>
+          <dc:type>color negative; color print; digital image</dc:type>
+          <dc:format>safety film; color print</dc:format>
+          <dc:format>1 1/4 x 5 inches (negative); 4 x 6 inches (print); 400 ppi (digital image)</dc:format>
+          <dc:identifier>aql:10240</dc:identifier>
+          <dc:identifier>wvc-000109</dc:identifier>
+          <dc:identifier>wvc-000109.tif</dc:identifier>
+          <dc:source>http://www.queenslibrary.org</dc:source>
+          <dc:relation>This image is from the William Cahill Papers and is depicted in a negative, print and digital image.</dc:relation>
+          <dc:relation>Image is part of the William Cahill Papers</dc:relation>
+          <dc:coverage>Derby Avenue, New Haven, CT</dc:coverage>
+          <dc:coverage>New Haven (Conn.)</dc:coverage>
+          <dc:coverage>Connecticut</dc:coverage>
+          <dc:rights>Copyright held by: Queens Borough Public Library</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:10227</identifier>
+        <datestamp>2015-07-24T08:57:14.930Z</datestamp>
+        <setSpec>collection10116</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Reading Municipal Memorial Stadium - Mrs. Cahill</dc:title>
+          <dc:creator>William Cahill</dc:creator>
+          <dc:subject>Baseball fields</dc:subject>
+          <dc:subject>FirstEnergy Stadium (Reading, Pa.)</dc:subject>
+          <dc:description>Reading Municipal Memorial Stadium, now FirstEnergy Stadium. William Cahill's wife, in the stands, during a game.</dc:description>
+          <dc:type>work</dc:type>
+          <dc:type>color print; digital image</dc:type>
+          <dc:format>color print</dc:format>
+          <dc:format>5 x 3 1/2 inches (print); 400 ppi (digital image)</dc:format>
+          <dc:identifier>aql:10227</dc:identifier>
+          <dc:identifier>wvc-000078</dc:identifier>
+          <dc:identifier>wvc-000078.tif</dc:identifier>
+          <dc:source>http://www.queenslibrary.org</dc:source>
+          <dc:relation>This image is from the William Cahill Papers and is depicted in a print and digital image.</dc:relation>
+          <dc:relation>Image is part of the William Cahill Papers</dc:relation>
+          <dc:coverage>Reading, PA</dc:coverage>
+          <dc:coverage>Reading (Pa.)</dc:coverage>
+          <dc:coverage>Pennsylvania</dc:coverage>
+          <dc:rights>Copyright held by: Queens Borough Public Library</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:10143</identifier>
+        <datestamp>2015-07-24T08:56:29.969Z</datestamp>
+        <setSpec>collection10116</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Durham Athletic Park</dc:title>
+          <dc:creator>William Cahill</dc:creator>
+          <dc:subject>Baseball fields</dc:subject>
+          <dc:description>Postcard depicting Durham Athletic Park.</dc:description>
+          <dc:type>work</dc:type>
+          <dc:type>postcard; digital image</dc:type>
+          <dc:format>postcard</dc:format>
+          <dc:format>4 x 6 inches (postcard); 400 ppi (digital image)</dc:format>
+          <dc:identifier>aql:10143</dc:identifier>
+          <dc:identifier>wvc-000027</dc:identifier>
+          <dc:identifier>wvc-000027.tif</dc:identifier>
+          <dc:source>http://www.queenslibrary.org</dc:source>
+          <dc:relation>This image is from the William Cahill Papers and is depicted in a postcard and digital image.</dc:relation>
+          <dc:relation>Image is part of the William Cahill Papers</dc:relation>
+          <dc:coverage>Durham, NC</dc:coverage>
+          <dc:coverage>Durham (N.C.)</dc:coverage>
+          <dc:coverage>North Carolina</dc:coverage>
+          <dc:rights>Copyright holder unknown</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:10199</identifier>
+        <datestamp>2015-07-24T08:56:20.432Z</datestamp>
+        <setSpec>collection10116</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Durham Athletic Park</dc:title>
+          <dc:creator>William Cahill</dc:creator>
+          <dc:subject>Baseball fields</dc:subject>
+          <dc:description>Postcard depicting Durham Athletic Park.</dc:description>
+          <dc:type>work</dc:type>
+          <dc:type>postcard; digital image</dc:type>
+          <dc:format>postcard</dc:format>
+          <dc:format>4 x 6 inches (postcard); 400 ppi (digital image)</dc:format>
+          <dc:identifier>aql:10199</dc:identifier>
+          <dc:identifier>wvc-000026</dc:identifier>
+          <dc:identifier>wvc-000026.tif</dc:identifier>
+          <dc:source>http://www.queenslibrary.org</dc:source>
+          <dc:relation>This image is from the William Cahill Papers and is depicted in a postcard and digital image.</dc:relation>
+          <dc:relation>Image is part of the William Cahill Papers</dc:relation>
+          <dc:coverage>Durham, NC</dc:coverage>
+          <dc:coverage>Durham (N.C.)</dc:coverage>
+          <dc:coverage>North Carolina</dc:coverage>
+          <dc:rights>Copyright holder unknown</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:10191</identifier>
+        <datestamp>2015-07-24T08:49:32.921Z</datestamp>
+        <setSpec>collection10116</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Fenway Park - Exterior</dc:title>
+          <dc:creator>William Cahill</dc:creator>
+          <dc:subject>Baseball fields</dc:subject>
+          <dc:subject>Fenway Park (Boston, Mass.)</dc:subject>
+          <dc:description>Fenway Park. Exterior view with Mrs Cahill standing in the background.</dc:description>
+          <dc:type>work</dc:type>
+          <dc:type>color negative; color print; digital image</dc:type>
+          <dc:format>safety film; color print</dc:format>
+          <dc:format>1 1/4 x 6 inches (negative); 6 x 4 inches (print); 400 ppi (digital image)</dc:format>
+          <dc:identifier>aql:10191</dc:identifier>
+          <dc:identifier>wvc-000040</dc:identifier>
+          <dc:identifier>wvc-000040.tif</dc:identifier>
+          <dc:source>http://www.queenslibrary.org</dc:source>
+          <dc:relation>This image is from the William Cahill Papers and is depicted in a negative, print and digital image.</dc:relation>
+          <dc:relation>Image is part of the William Cahill Papers</dc:relation>
+          <dc:coverage>4 Yawkey Way, Boston, MA</dc:coverage>
+          <dc:coverage>Boston (Mass.)</dc:coverage>
+          <dc:coverage>Massachusetts</dc:coverage>
+          <dc:rights>Copyright held by: Queens Borough Public Library</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:10155</identifier>
+        <datestamp>2015-07-24T08:48:53.035Z</datestamp>
+        <setSpec>collection10116</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Remaining wall of Washington Park</dc:title>
+          <dc:creator>William Cahill</dc:creator>
+          <dc:subject>Baseball fields</dc:subject>
+          <dc:subject>Washington Park (Brooklyn, New York, N.Y.)</dc:subject>
+          <dc:description>Remaining wall of the former Washington Park. Site of the second and third park. View from 1st Street.</dc:description>
+          <dc:type>work</dc:type>
+          <dc:type>color print; digital image</dc:type>
+          <dc:format>color print</dc:format>
+          <dc:format>4 x 6 inches (print); 400 ppi (digital image)</dc:format>
+          <dc:identifier>aql:10155</dc:identifier>
+          <dc:identifier>wvc-000081</dc:identifier>
+          <dc:identifier>wvc-000081.tif</dc:identifier>
+          <dc:source>http://www.queenslibrary.org</dc:source>
+          <dc:relation>This image is from the William Cahill Papers and is depicted in a print and digital image.</dc:relation>
+          <dc:relation>Image is part of the William Cahill Papers</dc:relation>
+          <dc:coverage>1st Street, Brooklyn, NY</dc:coverage>
+          <dc:coverage>Brooklyn (New York, N.Y.)</dc:coverage>
+          <dc:rights>Copyright held by: Queens Borough Public Library</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:10228</identifier>
+        <datestamp>2015-07-24T08:48:33.143Z</datestamp>
+        <setSpec>collection10116</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Barton Stadium</dc:title>
+          <dc:creator>William Cahill</dc:creator>
+          <dc:subject>Baseball fields</dc:subject>
+          <dc:description>Barton Stadium. Aerial view. The slide was used in a presentation, by Cahill.</dc:description>
+          <dc:type>work</dc:type>
+          <dc:type>black and white slide; digital image</dc:type>
+          <dc:format>safety film</dc:format>
+          <dc:format>2 x 2 inches (slide); 400 ppi (digital image)</dc:format>
+          <dc:identifier>aql:10228</dc:identifier>
+          <dc:identifier>wvc-000218</dc:identifier>
+          <dc:identifier>wvc-000218.tif</dc:identifier>
+          <dc:source>http://www.queenslibrary.org</dc:source>
+          <dc:relation>This image is from the William Cahill Papers and is depicted in a slide and digital image.</dc:relation>
+          <dc:relation>Image is part of the William Cahill Papers</dc:relation>
+          <dc:coverage>Jericho Turnpike and Hoffman Road, New Hyde Park, NY</dc:coverage>
+          <dc:coverage>New Hyde Park (N.Y.)</dc:coverage>
+          <dc:coverage>Nassau County (N.Y.)</dc:coverage>
+          <dc:rights>Copyright holder unknown</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:10152</identifier>
+        <datestamp>2015-07-24T08:45:45.566Z</datestamp>
+        <setSpec>collection10116</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Shoeless Joe Jackson</dc:title>
+          <dc:creator>Charles M. Conlon</dc:creator>
+          <dc:subject>Baseball players</dc:subject>
+          <dc:subject>Jackson, Joe, 1888-1951</dc:subject>
+          <dc:subject>Cleveland Indians (Baseball team)</dc:subject>
+          <dc:description>Shoeless Joe Jackson. Jackson played for the Cleveland Indians when the photo was taken. The slide was used in a presentation, by Cahill.</dc:description>
+          <dc:type>work</dc:type>
+          <dc:type>black and white slide; digital image</dc:type>
+          <dc:format>safety film</dc:format>
+          <dc:format>2 x 2 inches (slide); 400 ppi (digital image)</dc:format>
+          <dc:identifier>aql:10152</dc:identifier>
+          <dc:identifier>wvc-000214</dc:identifier>
+          <dc:identifier>wvc-000214.tif</dc:identifier>
+          <dc:source>http://www.queenslibrary.org</dc:source>
+          <dc:relation>This image is from the William Cahill Papers and is depicted in a slide and digital image.</dc:relation>
+          <dc:relation>Image is part of the William Cahill Papers</dc:relation>
+          <dc:coverage>East 66th Street and Lexington Avenue, Cleveland, OH</dc:coverage>
+          <dc:coverage>Cleveland (Ohio)</dc:coverage>
+          <dc:coverage>Ohio</dc:coverage>
+          <dc:rights>Copyright holder unknown</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:10280</identifier>
+        <datestamp>2015-07-24T08:42:56.092Z</datestamp>
+        <setSpec>collection10116</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Cleveland Municipal Stadium - Left Field</dc:title>
+          <dc:creator>William Cahill</dc:creator>
+          <dc:subject>Baseball fields</dc:subject>
+          <dc:subject>Cleveland Municipal Stadium (Cleveland, Ohio)</dc:subject>
+          <dc:description>Cleveland Municipal Stadium. View looking toward left field from the stands. The stadium was demolished in 1996 and replaced with Cleveland Browns Stadium (now FirstEnergy Stadium.)</dc:description>
+          <dc:type>work</dc:type>
+          <dc:type>color print; digital image</dc:type>
+          <dc:format>color print</dc:format>
+          <dc:format>4 x 6 inches (print); 400 ppi (digital image)</dc:format>
+          <dc:identifier>aql:10280</dc:identifier>
+          <dc:identifier>wvc-000047</dc:identifier>
+          <dc:identifier>wvc-000047.tif</dc:identifier>
+          <dc:source>http://www.queenslibrary.org</dc:source>
+          <dc:relation>This image is from the William Cahill Papers and is depicted in a print and digital image.</dc:relation>
+          <dc:relation>Image is part of the William Cahill Papers</dc:relation>
+          <dc:coverage>Cleveland, OH</dc:coverage>
+          <dc:coverage>Cleveland (Ohio)</dc:coverage>
+          <dc:coverage>Ohio</dc:coverage>
+          <dc:rights>Copyright held by: Queens Borough Public Library</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:10148</identifier>
+        <datestamp>2015-07-24T08:39:01.545Z</datestamp>
+        <setSpec>collection10116</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Pilot Field - Exterior</dc:title>
+          <dc:creator>William Cahill</dc:creator>
+          <dc:subject>Baseball fields</dc:subject>
+          <dc:subject>Pilot Field (Buffalo, N.Y.)</dc:subject>
+          <dc:description>Pilot Field. Now known as Coca Cola Field. View of the Swan Street entrance.</dc:description>
+          <dc:type>work</dc:type>
+          <dc:type>color print; digital image</dc:type>
+          <dc:format>color print</dc:format>
+          <dc:format>4 x 6 inches (print); 400 ppi (digital image)</dc:format>
+          <dc:identifier>aql:10148</dc:identifier>
+          <dc:identifier>wvc-000065</dc:identifier>
+          <dc:identifier>wvc-000065.tif</dc:identifier>
+          <dc:source>http://www.queenslibrary.org</dc:source>
+          <dc:relation>This image is from the William Cahill Papers and is depicted in a print and digital image.</dc:relation>
+          <dc:relation>Image is part of the William Cahill Papers</dc:relation>
+          <dc:coverage>Buffalo, NY</dc:coverage>
+          <dc:coverage>Buffalo (N.Y.)</dc:coverage>
+          <dc:coverage>New York (State)</dc:coverage>
+          <dc:rights>Copyright held by: Queens Borough Public Library</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:10259</identifier>
+        <datestamp>2015-07-24T08:34:13.540Z</datestamp>
+        <setSpec>collection10116</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Building on Washington Park Site</dc:title>
+          <dc:creator>William Cahill</dc:creator>
+          <dc:subject>Baseball fields</dc:subject>
+          <dc:subject>Washington Park (Brooklyn, New York, N.Y.)</dc:subject>
+          <dc:description>Brick building on the site of the former Washington Park. Site of the second and third park.</dc:description>
+          <dc:type>work</dc:type>
+          <dc:type>color negative; digital image</dc:type>
+          <dc:format>safety film</dc:format>
+          <dc:format>1 1/4 x 6 inches (negative); 400 ppi (digital image)</dc:format>
+          <dc:identifier>aql:10259</dc:identifier>
+          <dc:identifier>wvc-000128</dc:identifier>
+          <dc:identifier>wvc-000128.tif</dc:identifier>
+          <dc:source>http://www.queenslibrary.org</dc:source>
+          <dc:relation>This image is from the William Cahill Papers and is depicted in a negative and digital image.</dc:relation>
+          <dc:relation>Image is part of the William Cahill Papers</dc:relation>
+          <dc:coverage>3rd Avenue, Brooklyn, NY</dc:coverage>
+          <dc:coverage>Brooklyn (New York, N.Y.)</dc:coverage>
+          <dc:rights>Copyright held by: Queens Borough Public Library</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:10265</identifier>
+        <datestamp>2015-07-24T08:33:46.793Z</datestamp>
+        <setSpec>collection10116</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Pilot Field - Exterior</dc:title>
+          <dc:creator>William Cahill</dc:creator>
+          <dc:subject>Baseball fields</dc:subject>
+          <dc:subject>Pilot Field (Buffalo, N.Y.)</dc:subject>
+          <dc:description>Pilot Field. Now known as Coca Cola Field. View of the Washington Street entrance.</dc:description>
+          <dc:type>work</dc:type>
+          <dc:type>color print; digital image</dc:type>
+          <dc:format>color print</dc:format>
+          <dc:format>4 x 6 inches (print); 400 ppi (digital image)</dc:format>
+          <dc:identifier>aql:10265</dc:identifier>
+          <dc:identifier>wvc-000066</dc:identifier>
+          <dc:identifier>wvc-000066.tif</dc:identifier>
+          <dc:source>http://www.queenslibrary.org</dc:source>
+          <dc:relation>This image is from the William Cahill Papers and is depicted in a print and digital image.</dc:relation>
+          <dc:relation>Image is part of the William Cahill Papers</dc:relation>
+          <dc:coverage>Buffalo, NY</dc:coverage>
+          <dc:coverage>Buffalo (N.Y.)</dc:coverage>
+          <dc:coverage>New York (State)</dc:coverage>
+          <dc:rights>Copyright held by: Queens Borough Public Library</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:10258</identifier>
+        <datestamp>2015-07-24T08:30:26.841Z</datestamp>
+        <setSpec>collection10116</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Bowman Field - Exterior</dc:title>
+          <dc:creator>William Cahill</dc:creator>
+          <dc:subject>Baseball fields</dc:subject>
+          <dc:description>Bowman Field. View of the parking lot and grandstand.</dc:description>
+          <dc:type>work</dc:type>
+          <dc:type>color print; digital image</dc:type>
+          <dc:format>color print</dc:format>
+          <dc:format>4 x 6 inches (print); 400 ppi (digital image)</dc:format>
+          <dc:identifier>aql:10258</dc:identifier>
+          <dc:identifier>wvc-000002</dc:identifier>
+          <dc:identifier>wvc-000002.tif</dc:identifier>
+          <dc:source>http://www.queenslibrary.org</dc:source>
+          <dc:relation>This image is from the William Cahill Papers and is depicted in a print and digital image.</dc:relation>
+          <dc:relation>Image is part of the William Cahill Papers</dc:relation>
+          <dc:coverage>Lycoming Creek Bikeway, Williamsport, PA</dc:coverage>
+          <dc:coverage>Williamsport (Pa.)</dc:coverage>
+          <dc:coverage>Pennsylvania</dc:coverage>
+          <dc:rights>Copyright held by: Queens Borough Public Library</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:10179</identifier>
+        <datestamp>2015-07-24T08:25:08.843Z</datestamp>
+        <setSpec>collection10116</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Yale Field - Left Field</dc:title>
+          <dc:creator>William Cahill</dc:creator>
+          <dc:subject>Baseball fields</dc:subject>
+          <dc:subject>Yale Field (New Haven, Conn.)</dc:subject>
+          <dc:description>Yale Field. View of left field.</dc:description>
+          <dc:type>work</dc:type>
+          <dc:type>color negative; color print; digital image</dc:type>
+          <dc:format>safety film; color print</dc:format>
+          <dc:format>1 1/4 x 6 inches (negative); 4 x 6 inches (print); 400 ppi (digital image)</dc:format>
+          <dc:identifier>aql:10179</dc:identifier>
+          <dc:identifier>wvc-000096</dc:identifier>
+          <dc:identifier>wvc-000096.tif</dc:identifier>
+          <dc:source>http://www.queenslibrary.org</dc:source>
+          <dc:relation>This image is from the William Cahill Papers and is depicted in a negative, print and digital image.</dc:relation>
+          <dc:relation>Image is part of the William Cahill Papers</dc:relation>
+          <dc:coverage>Derby Avenue, New Haven, CT</dc:coverage>
+          <dc:coverage>New Haven (Conn.)</dc:coverage>
+          <dc:coverage>Connecticut</dc:coverage>
+          <dc:rights>Copyright held by: Queens Borough Public Library</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:10125</identifier>
+        <datestamp>2015-07-24T08:21:07.811Z</datestamp>
+        <setSpec>collection10116</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Bowman Field - Bill Cahill</dc:title>
+          <dc:creator>William Cahill</dc:creator>
+          <dc:subject>Baseball fields</dc:subject>
+          <dc:description>Bowman Field. William Cahill, standing in the grandstand.</dc:description>
+          <dc:type>work</dc:type>
+          <dc:type>color print; digital image</dc:type>
+          <dc:format>color print</dc:format>
+          <dc:format>5 x 3 1/2 inches (print); 400 ppi (digital image)</dc:format>
+          <dc:identifier>aql:10125</dc:identifier>
+          <dc:identifier>wvc-000011</dc:identifier>
+          <dc:identifier>wvc-000011.tif</dc:identifier>
+          <dc:source>http://www.queenslibrary.org</dc:source>
+          <dc:relation>This image is from the William Cahill Papers and is depicted in a print and digital image.</dc:relation>
+          <dc:relation>Image is part of the William Cahill Papers</dc:relation>
+          <dc:coverage>Lycoming Creek Bikeway, Williamsport, PA</dc:coverage>
+          <dc:coverage>Williamsport (Pa.)</dc:coverage>
+          <dc:coverage>Pennsylvania</dc:coverage>
+          <dc:rights>Copyright held by: Queens Borough Public Library</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:10127</identifier>
+        <datestamp>2015-07-24T08:14:33.924Z</datestamp>
+        <setSpec>collection10116</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Dexter Park</dc:title>
+          <dc:creator>William Cahill</dc:creator>
+          <dc:subject>Baseball fields</dc:subject>
+          <dc:subject>Dexter Park (New York, N.Y.)</dc:subject>
+          <dc:description>Dexter Park. View of the entrance, from Dexter Court</dc:description>
+          <dc:type>work</dc:type>
+          <dc:type>color negative; digital image</dc:type>
+          <dc:format>safety film</dc:format>
+          <dc:format>1 1/4 x 3 inches (negative); 400 ppi (digital image)</dc:format>
+          <dc:identifier>aql:10127</dc:identifier>
+          <dc:identifier>wvc-000111</dc:identifier>
+          <dc:identifier>wvc-000111.tif</dc:identifier>
+          <dc:source>Additional information from "Semi-Professional baseball teams A-Z in the New York city area 1870-1956" William V. Cahill.</dc:source>
+          <dc:source>http://www.queenslibrary.org</dc:source>
+          <dc:relation>This image is from the William Cahill Papers and is depicted in a negative and digital image.</dc:relation>
+          <dc:relation>Image is part of the William Cahill Papers</dc:relation>
+          <dc:coverage>Jamaica Avenue, Jamaica, NY</dc:coverage>
+          <dc:coverage>Woodhaven (New York, N.Y.)</dc:coverage>
+          <dc:coverage>Queens (New York, N.Y.)</dc:coverage>
+          <dc:rights>Copyright held by: Queens Borough Public Library</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:10234</identifier>
+        <datestamp>2015-07-24T08:10:49.104Z</datestamp>
+        <setSpec>collection10116</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Pilot Field - Left Field</dc:title>
+          <dc:creator>William Cahill</dc:creator>
+          <dc:subject>Baseball fields</dc:subject>
+          <dc:subject>Pilot Field (Buffalo, N.Y.)</dc:subject>
+          <dc:description>Pilot Field. Now known as Coca Cola Field. View of left field from the bleachers.</dc:description>
+          <dc:type>work</dc:type>
+          <dc:type>color print; digital image</dc:type>
+          <dc:format>color print</dc:format>
+          <dc:format>4 x 6 inches (print); 400 ppi (digital image)</dc:format>
+          <dc:identifier>aql:10234</dc:identifier>
+          <dc:identifier>wvc-000067</dc:identifier>
+          <dc:identifier>wvc-000067.tif</dc:identifier>
+          <dc:source>http://www.queenslibrary.org</dc:source>
+          <dc:relation>This image is from the William Cahill Papers and is depicted in a print and digital image.</dc:relation>
+          <dc:relation>Image is part of the William Cahill Papers</dc:relation>
+          <dc:coverage>Buffalo, NY</dc:coverage>
+          <dc:coverage>Buffalo (N.Y.)</dc:coverage>
+          <dc:coverage>New York (State)</dc:coverage>
+          <dc:rights>Copyright held by: Queens Borough Public Library</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:10277</identifier>
+        <datestamp>2015-07-24T08:10:34.969Z</datestamp>
+        <setSpec>collection10116</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Cleveland Municipal Stadium - Exterior</dc:title>
+          <dc:creator>William Cahill</dc:creator>
+          <dc:subject>Baseball fields</dc:subject>
+          <dc:subject>Cleveland Municipal Stadium (Cleveland, Ohio)</dc:subject>
+          <dc:subject>Terminal Tower Complex (Cleveland, Ohio)</dc:subject>
+          <dc:description>Cleveland Municipal Stadium. Exterior view. The stadium was demolished in 1996 and replaced with Cleveland Browns Stadium (now FirstEnergy Stadium.) Terminal Tower and Key Tower can be seen in the distance.</dc:description>
+          <dc:type>work</dc:type>
+          <dc:type>color print; digital image</dc:type>
+          <dc:format>color print</dc:format>
+          <dc:format>4 x 6 inches (print); 400 ppi (digital image)</dc:format>
+          <dc:identifier>aql:10277</dc:identifier>
+          <dc:identifier>wvc-000049</dc:identifier>
+          <dc:identifier>wvc-000049.tif</dc:identifier>
+          <dc:source>http://www.queenslibrary.org</dc:source>
+          <dc:relation>This image is from the William Cahill Papers and is depicted in a print and digital image.</dc:relation>
+          <dc:relation>Image is part of the William Cahill Papers</dc:relation>
+          <dc:coverage>Cleveland, OH</dc:coverage>
+          <dc:coverage>Cleveland (Ohio)</dc:coverage>
+          <dc:coverage>Ohio</dc:coverage>
+          <dc:rights>Copyright held by: Queens Borough Public Library</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:10181</identifier>
+        <datestamp>2015-07-24T08:09:49.301Z</datestamp>
+        <setSpec>collection10116</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Babe Ruth Funeral Invitation/Ticket</dc:title>
+          <dc:creator>William Cahill</dc:creator>
+          <dc:subject>Invitation cards</dc:subject>
+          <dc:subject>Funeral service</dc:subject>
+          <dc:subject>Ruth, Babe, 1895-1948</dc:subject>
+          <dc:description>Babe Ruth funeral invitation/ticket. The funeral was held at St. Patricks Cathedral in New York City on August 19, 1948. The slide was used in a presentation, by Cahill.</dc:description>
+          <dc:type>work</dc:type>
+          <dc:type>black and white slide; digital image</dc:type>
+          <dc:format>safety film</dc:format>
+          <dc:format>2 x 2 inches (slide); 400 ppi (digital image)</dc:format>
+          <dc:identifier>aql:10181</dc:identifier>
+          <dc:identifier>wvc-000204</dc:identifier>
+          <dc:identifier>wvc-000204.tif</dc:identifier>
+          <dc:source>http://www.queenslibrary.org</dc:source>
+          <dc:relation>This image is from the William Cahill Papers and is depicted in a slide and digital image.</dc:relation>
+          <dc:relation>Image is part of the William Cahill Papers</dc:relation>
+          <dc:coverage>St Patrick's Cathedral, 460 Madison Avenue, New York, NY</dc:coverage>
+          <dc:coverage>Manhattan (New York, N.Y.)</dc:coverage>
+          <dc:coverage>New York (N.Y.)</dc:coverage>
+          <dc:rights>Copyright holder unknown</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:10262</identifier>
+        <datestamp>2015-07-24T08:08:40.173Z</datestamp>
+        <setSpec>collection10116</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>City of New York Sanitation Department Team</dc:title>
+          <dc:creator>William Cahill</dc:creator>
+          <dc:subject>Baseball players</dc:subject>
+          <dc:subject>New York (N.Y.). Department of Sanitation</dc:subject>
+          <dc:subject>Dexter Park (New York, N.Y.)</dc:subject>
+          <dc:description>City of New York Sanitation Department team, at Dexter Park. The players are identified as L to R, Back Row: Bill Salmone, Wally Signer, Eddie Boland, Jack Farrell, Frank Scheich, and Al Cuccinello. Front Row: Jackie O'Neill, Roy Tarr, Ray Condon, and Timmy Adams.</dc:description>
+          <dc:type>work</dc:type>
+          <dc:type>black and white slide; digital image</dc:type>
+          <dc:format>safety film</dc:format>
+          <dc:format>2 x 2 inches (slide); 400 ppi (digital image)</dc:format>
+          <dc:identifier>aql:10262</dc:identifier>
+          <dc:identifier>wvc-000240</dc:identifier>
+          <dc:identifier>wvc-000240.tif</dc:identifier>
+          <dc:source>http://www.queenslibrary.org</dc:source>
+          <dc:relation>This image is from the William Cahill Papers and is depicted in a slide and digital image.</dc:relation>
+          <dc:relation>Image is part of the William Cahill Papers</dc:relation>
+          <dc:coverage>Jamaica Avenue, Jamaica, NY</dc:coverage>
+          <dc:coverage>Woodhaven (New York, N.Y.)</dc:coverage>
+          <dc:coverage>Queens (New York, N.Y.)</dc:coverage>
+          <dc:rights>Copyright holder unknown</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:10204</identifier>
+        <datestamp>2015-07-24T08:03:45.130Z</datestamp>
+        <setSpec>collection10116</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Jim Barton and Babe Ruth at Barton Stadium</dc:title>
+          <dc:creator>William Cahill</dc:creator>
+          <dc:subject>Baseball fields</dc:subject>
+          <dc:subject>Ruth, Babe, 1895-1948</dc:subject>
+          <dc:subject>Barton, James, 1890-1962</dc:subject>
+          <dc:description>Jim Barton and Babe Ruth in the cantina, for the opening of Barton Stadium. Ruth threw out the first pitch. The slide was used in a presentation, by Cahill.</dc:description>
+          <dc:type>work</dc:type>
+          <dc:type>black and white slide; digital image</dc:type>
+          <dc:format>safety film</dc:format>
+          <dc:format>2 x 2 inches (slide); 400 ppi (digital image)</dc:format>
+          <dc:identifier>aql:10204</dc:identifier>
+          <dc:identifier>wvc-000207</dc:identifier>
+          <dc:identifier>wvc-000207.tif</dc:identifier>
+          <dc:source>http://www.queenslibrary.org</dc:source>
+          <dc:relation>This image is from the William Cahill Papers and is depicted in a slide and digital image.</dc:relation>
+          <dc:relation>Image is part of the William Cahill Papers</dc:relation>
+          <dc:coverage>Jericho Turnpike and Hoffman Road, New Hyde Park, NY</dc:coverage>
+          <dc:coverage>New Hyde Park (N.Y.)</dc:coverage>
+          <dc:coverage>Nassau County (N.Y.)</dc:coverage>
+          <dc:rights>Copyright holder unknown</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:10243</identifier>
+        <datestamp>2015-07-24T07:59:59.939Z</datestamp>
+        <setSpec>collection10116</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Bowman Field - Grandstand</dc:title>
+          <dc:creator>William Cahill</dc:creator>
+          <dc:subject>Baseball fields</dc:subject>
+          <dc:description>Bowman Field. View of home plate and the grandstand, from right field.</dc:description>
+          <dc:type>work</dc:type>
+          <dc:type>color print; digital image</dc:type>
+          <dc:format>color print</dc:format>
+          <dc:format>4 x 6 inches (print); 400 ppi (digital image)</dc:format>
+          <dc:identifier>aql:10243</dc:identifier>
+          <dc:identifier>wvc-000005</dc:identifier>
+          <dc:identifier>wvc-000005.tif</dc:identifier>
+          <dc:source>http://www.queenslibrary.org</dc:source>
+          <dc:relation>This image is from the William Cahill Papers and is depicted in a print and digital image.</dc:relation>
+          <dc:relation>Image is part of the William Cahill Papers</dc:relation>
+          <dc:coverage>Lycoming Creek Bikeway, Williamsport, PA</dc:coverage>
+          <dc:coverage>Williamsport (Pa.)</dc:coverage>
+          <dc:coverage>Pennsylvania</dc:coverage>
+          <dc:rights>Copyright held by: Queens Borough Public Library</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:10208</identifier>
+        <datestamp>2015-07-24T07:59:40.600Z</datestamp>
+        <setSpec>collection10116</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Bowman Field - Home Plate</dc:title>
+          <dc:creator>William Cahill</dc:creator>
+          <dc:subject>Baseball fields</dc:subject>
+          <dc:description>Bowman Field. View of home plate, from the grandstand.</dc:description>
+          <dc:type>work</dc:type>
+          <dc:type>color print; digital image</dc:type>
+          <dc:format>color print</dc:format>
+          <dc:format>5 x 3 1/2 inches (print); 400 ppi (digital image)</dc:format>
+          <dc:identifier>aql:10208</dc:identifier>
+          <dc:identifier>wvc-000014</dc:identifier>
+          <dc:identifier>wvc-000014.tif</dc:identifier>
+          <dc:source>http://www.queenslibrary.org</dc:source>
+          <dc:relation>This image is from the William Cahill Papers and is depicted in a print and digital image.</dc:relation>
+          <dc:relation>Image is part of the William Cahill Papers</dc:relation>
+          <dc:coverage>Lycoming Creek Bikeway, Williamsport, PA</dc:coverage>
+          <dc:coverage>Williamsport (Pa.)</dc:coverage>
+          <dc:coverage>Pennsylvania</dc:coverage>
+          <dc:rights>Copyright held by: Queens Borough Public Library</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:10159</identifier>
+        <datestamp>2015-07-24T07:57:20.355Z</datestamp>
+        <setSpec>collection10116</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Charles Ebbets' Grave site</dc:title>
+          <dc:creator>William Cahill</dc:creator>
+          <dc:subject>Sepulchral monuments</dc:subject>
+          <dc:subject>Ebbets, Charles H., 1859-1925</dc:subject>
+          <dc:description>Charles Ebbets' headstone and marker.</dc:description>
+          <dc:type>work</dc:type>
+          <dc:type>black and white prints; digital images</dc:type>
+          <dc:format>gelatin silver prints</dc:format>
+          <dc:format>3 1/2 x 5 inches (print); 400 ppi (digital image)</dc:format>
+          <dc:identifier>aql:10159</dc:identifier>
+          <dc:identifier>wvc-000030</dc:identifier>
+          <dc:identifier>wvc-000030.tif</dc:identifier>
+          <dc:source>http://www.queenslibrary.org</dc:source>
+          <dc:relation>This image is from the William Cahill Papers and is depicted in a print and digital image.</dc:relation>
+          <dc:relation>Image is part of the The William Cahill Papers</dc:relation>
+          <dc:coverage>Greenwood Cemetery, 500 25th Street, Brooklyn, NY</dc:coverage>
+          <dc:coverage>Brooklyn (New York, N.Y.)</dc:coverage>
+          <dc:rights>Copyright held by: Queens Borough Public Library</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:10281</identifier>
+        <datestamp>2015-07-24T07:56:46.726Z</datestamp>
+        <setSpec>collection10116</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Pilot Field</dc:title>
+          <dc:creator>William Cahill</dc:creator>
+          <dc:subject>Baseball fields</dc:subject>
+          <dc:subject>Pilot Field (Buffalo, N.Y.)</dc:subject>
+          <dc:description>Pilot Field. Now known as Coca Cola Field. View of the exterior.</dc:description>
+          <dc:type>work</dc:type>
+          <dc:type>color print; digital image</dc:type>
+          <dc:format>color print</dc:format>
+          <dc:format>4 x 6 inches (print); 400 ppi (digital image)</dc:format>
+          <dc:identifier>aql:10281</dc:identifier>
+          <dc:identifier>wvc-000064</dc:identifier>
+          <dc:identifier>wvc-000064.tif</dc:identifier>
+          <dc:source>http://www.queenslibrary.org</dc:source>
+          <dc:relation>This image is from the William Cahill Papers and is depicted in a print and digital image.</dc:relation>
+          <dc:relation>Image is part of the William Cahill Papers</dc:relation>
+          <dc:coverage>Buffalo, NY</dc:coverage>
+          <dc:coverage>Buffalo (N.Y.)</dc:coverage>
+          <dc:coverage>New York (State)</dc:coverage>
+          <dc:rights>Copyright held by: Queens Borough Public Library</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:10140</identifier>
+        <datestamp>2015-07-24T07:54:29.542Z</datestamp>
+        <setSpec>collection10116</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Baseball Players at Barton Stadium</dc:title>
+          <dc:creator>William Cahill</dc:creator>
+          <dc:subject>Baseball players</dc:subject>
+          <dc:description>A group of baseball players at Barton Stadium. Played were on the Mineola, West Hempstead and Oyster Bay teams.</dc:description>
+          <dc:type>work</dc:type>
+          <dc:type>black and white slide; digital image</dc:type>
+          <dc:format>safety film</dc:format>
+          <dc:format>2 x 2 inches (slide); 400 ppi (digital image)</dc:format>
+          <dc:identifier>aql:10140</dc:identifier>
+          <dc:identifier>wvc-000241</dc:identifier>
+          <dc:identifier>wvc-000241.tif</dc:identifier>
+          <dc:source>http://www.queenslibrary.org</dc:source>
+          <dc:relation>This image is from the William Cahill Papers and is depicted in a slide and digital image.</dc:relation>
+          <dc:relation>Image is part of the William Cahill Papers</dc:relation>
+          <dc:coverage>Jericho Turnpike and Hoffman Road, New Hyde Park, NY</dc:coverage>
+          <dc:coverage>New Hyde Park (N.Y.)</dc:coverage>
+          <dc:coverage>Nassau County (N.Y.)</dc:coverage>
+          <dc:rights>Copyright holder unknown</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:10276</identifier>
+        <datestamp>2015-07-24T07:54:25.414Z</datestamp>
+        <setSpec>collection10116</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Reading Municipal Memorial Stadium - Exterior</dc:title>
+          <dc:creator>William Cahill</dc:creator>
+          <dc:subject>Baseball fields</dc:subject>
+          <dc:subject>FirstEnergy Stadium (Reading, Pa.)</dc:subject>
+          <dc:description>Reading Municipal Memorial Stadium, now FirstEnergy Stadium. Front entrance, seen from North Front Street.</dc:description>
+          <dc:type>work</dc:type>
+          <dc:type>color print; digital image</dc:type>
+          <dc:format>color print</dc:format>
+          <dc:format>3 1/2 x 5 inches (print); 400 ppi (digital image)</dc:format>
+          <dc:identifier>aql:10276</dc:identifier>
+          <dc:identifier>wvc-000075</dc:identifier>
+          <dc:identifier>wvc-000075.tif</dc:identifier>
+          <dc:source>http://www.queenslibrary.org</dc:source>
+          <dc:relation>This image is from the William Cahill Papers and is depicted in a print and digital image.</dc:relation>
+          <dc:relation>Image is part of the William Cahill Papers</dc:relation>
+          <dc:coverage>Reading, PA</dc:coverage>
+          <dc:coverage>Reading (Pa.)</dc:coverage>
+          <dc:coverage>Pennsylvania</dc:coverage>
+          <dc:rights>Copyright held by: Queens Borough Public Library</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:10205</identifier>
+        <datestamp>2015-07-24T07:53:14.807Z</datestamp>
+        <setSpec>collection10116</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Yale Field - Mrs. Cahill</dc:title>
+          <dc:creator>William Cahill</dc:creator>
+          <dc:subject>Baseball fields</dc:subject>
+          <dc:subject>Yale Field (New Haven, Conn.)</dc:subject>
+          <dc:description>Yale Field. William Cahill's wife, standing in front of the stadium. A sign on the left advertises: "Future Home of the New Haven Ravens."</dc:description>
+          <dc:type>work</dc:type>
+          <dc:type>color negative; color print; digital image</dc:type>
+          <dc:format>safety film; color print</dc:format>
+          <dc:format>1 1/4 x 6 inches (negative); 4 x 6 inches (print); 400 ppi (digital image)</dc:format>
+          <dc:identifier>aql:10205</dc:identifier>
+          <dc:identifier>wvc-000100</dc:identifier>
+          <dc:identifier>wvc-000100.tif</dc:identifier>
+          <dc:source>http://www.queenslibrary.org</dc:source>
+          <dc:relation>This image is from the William Cahill Papers and is depicted in a negative, print and digital image.</dc:relation>
+          <dc:relation>Image is part of the William Cahill Papers</dc:relation>
+          <dc:coverage>Derby Avenue, New Haven, CT</dc:coverage>
+          <dc:coverage>New Haven (Conn.)</dc:coverage>
+          <dc:coverage>Connecticut</dc:coverage>
+          <dc:rights>Copyright held by: Queens Borough Public Library</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:10201</identifier>
+        <datestamp>2015-07-24T07:51:12.083Z</datestamp>
+        <setSpec>collection10116</setSpec>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Playground</dc:title>
+          <dc:creator>William Cahill</dc:creator>
+          <dc:subject>Playgrounds</dc:subject>
+          <dc:description>Fenced in concrete playground. Probably near the former Dexter Park.</dc:description>
+          <dc:type>work</dc:type>
+          <dc:type>color negative; digital image</dc:type>
+          <dc:format>safety film</dc:format>
+          <dc:format>1 1/4 x 6 inches (negative); 400 ppi (digital image)</dc:format>
+          <dc:identifier>aql:10201</dc:identifier>
+          <dc:identifier>wvc-000124</dc:identifier>
+          <dc:identifier>wvc-000124.tif</dc:identifier>
+          <dc:source>http://www.queenslibrary.org</dc:source>
+          <dc:relation>This image is from the William Cahill Papers and is depicted in a negative and digital image.</dc:relation>
+          <dc:relation>Image is part of the William Cahill Papers</dc:relation>
+          <dc:coverage>Dexter Court, Jamaica, NY</dc:coverage>
+          <dc:coverage>Woodhaven (New York, N.Y.)</dc:coverage>
+          <dc:coverage>Queens (New York, N.Y.)</dc:coverage>
+          <dc:rights>Copyright held by: Queens Borough Public Library</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+    <resumptionToken>9413de23-8d09-4793-ade0-c720c37056e1</resumptionToken>
+  </ListRecords>
+</OAI-PMH>
