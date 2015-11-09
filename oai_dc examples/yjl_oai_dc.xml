@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2015-09-28T18:41:42Z</responseDate><request verb="ListRecords" resumptionToken="YJL:200:YJL:0000-00-00:9999-99-99:oai_dc" metadataPrefix="oai_dc" set="YJL">http://cdm16694.contentdm.oclc.org/oai/oai.php</request><ListRecords><record><header><identifier>oai:cdm16694.contentdm.oclc.org:YJL/206</identifier><datestamp>2012-07-27</datestamp><setSpec>YJL</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Verbal history of Erie Community College</dc:title>
+<dc:description>Presented here is a reproduction of the audio content of James E. Shenton&#x27;s A Verbal History of Erie Community College. These recordings were produced in 1982 as six audio cassettes along with a type-written transcript and outline of the tapes&#x27; contents.</dc:description>
+<dc:creator>Shenton, James E.</dc:creator>
+<dc:subject>Erie Community College (N.Y.); Oral history--New York (State)--Erie County; Community colleges--New York (State)--Erie County.</dc:subject>
+<dc:subject>Education</dc:subject>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Buffalo (N.Y.)</dc:coverage>
+<dc:contributor>Barrey, Margaret A. (Analog Recording Engineer); Best, Matthew M. (Digital Reproduction Engineer)</dc:contributor>
+<dc:publisher>Erie Community College</dc:publisher>
+<dc:date>1982-06-09</dc:date>
+<dc:coverage>1946-1974</dc:coverage>
+<dc:format>Oral histories</dc:format>
+<dc:source>6 sound cassettes (123 min.) : analog ; 3 7/8×2 1/2 in.</dc:source>
+<dc:type>Sound</dc:type>
+<dc:language>English</dc:language>
+<dc:format>audio/mp3</dc:format>
+<dc:identifier>ShentonHist020110315</dc:identifier>
+<dc:relation>Verbal History of Erie Community College</dc:relation>
+<dc:rights>This digital reproduction is protected by the following Creative Commons license: Attribution-NonCommercial-NoDerivs 3.0 Unported (CC BY-NC-ND 3.0) You are free to Share - to copy, distribute and transmit the work under the following conditions: Attribution - You must attribute A Verbal History of Erie Community College to James E. Shenton. Noncommercial - You may not use this work for commercial purposes. No Derivative Works - You may not alter, transform, or build upon this work. With the understanding that: Waiver - Any of the above conditions can be waived if you get permission from the holding institution. Public Domain - Where the work or any of its elements is in the public domain under applicable law, that status is in no way affected by the license.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/YJL/id/206</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:YJL/262</identifier><datestamp>2012-07-27</datestamp><setSpec>YJL</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>History of Erie Community College: 1946-1974, original transcript</dc:title>
+<dc:description>Presented here is a reproduction of the original typed transcript of James E. Shenton&#x27;s Verbal History of Erie Community College. It was first produced in 1982 along with an outline and six corresponding audio recordings. The transcript was reproduced digitally in 2011 using optical character recognition (OCR). The OCR results were proofread and corrected to match the text as it was originally typed. Any grammatical, typographical, or spelling errors were retained from the original. The results are a fully searchable document that looks just as it did when it was created in 1982.</dc:description>
+<dc:creator>Shenton, James E.</dc:creator>
+<dc:subject>Erie Community College (N.Y.); Community colleges--New York (State)--Erie County.</dc:subject>
+<dc:subject>Education</dc:subject>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Buffalo (N.Y.)</dc:coverage>
+<dc:contributor>Barrey, Margaret A. (Typist); Best, Matthew M. (Digital Reproduction Engineer)</dc:contributor>
+<dc:publisher>Erie Community College</dc:publisher>
+<dc:date>1982-11-01</dc:date>
+<dc:coverage>1946-1974</dc:coverage>
+<dc:format>Transcripts</dc:format>
+<dc:source>Typed transcript : title page, 54 p. ; 22 cm. Typed transcript : title page, 54 p. ; 22 cm. x 28 x 28</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>English</dc:language>
+<dc:format>application/pdf</dc:format>
+<dc:identifier>ShentonHistTrans2011060600B</dc:identifier>
+<dc:relation>Verbal History of Erie Community College</dc:relation>
+<dc:rights>This digital reproduction is protected by the following Creative Commons license: Attribution-NonCommercial-NoDerivs 3.0 Unported (CC BY-NC-ND 3.0) You are free to Share - to copy, distribute and transmit the work under the following conditions: Attribution - You must attribute A Verbal History of Erie Community College to James E. Shenton. Noncommercial - You may not use this work for commercial purposes. No Derivative Works - You may not alter, transform, or build upon this work. With the understanding that: Waiver - Any of the above conditions can be waived if you get permission from the holding institution. Public Domain - Where the work or any of its elements is in the public domain under applicable law, that status is in no way affected by the license.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/YJL/id/262</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:YJL/341</identifier><datestamp>2012-07-27</datestamp><setSpec>YJL</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>History of Erie Community College: 1946-1974, corrected transcript</dc:title>
+<dc:description>Presented here is the corrected text of the original transcript of A Verbal History of Erie Community College by James E. Shenton. The corrected text was produced in 2011 by Matthew Best to correct typographical and spelling errors that existed in the original typewritten transcript. The spelling of names of people and places were researched and adjusted to improve historical accuracy of the transcript. A larger font was also selected to improve readability. May be searched by word or phrase.</dc:description>
+<dc:creator>Shenton, James E.</dc:creator>
+<dc:subject>Erie Community College (N.Y.); Community colleges--New York (State)--Erie County.</dc:subject>
+<dc:subject>Education</dc:subject>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Buffalo (N.Y.)</dc:coverage>
+<dc:contributor>Best, Matthew M. (Editor, Digital Reproduction Engineer)</dc:contributor>
+<dc:publisher>Erie Community College</dc:publisher>
+<dc:date>2011-07-02</dc:date>
+<dc:coverage>1946-1974</dc:coverage>
+<dc:format>Transcripts</dc:format>
+<dc:source>ShentonHistTrans_20110606_00B (2.71 MB) : PDF.</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>English</dc:language>
+<dc:format>application/pdf</dc:format>
+<dc:identifier>ShentonHistTrans2011060600C</dc:identifier>
+<dc:relation>Verbal History of Erie Community College</dc:relation>
+<dc:rights>This digital reproduction is protected by the following Creative Commons license: Attribution-NonCommercial-NoDerivs 3.0 Unported (CC BY-NC-ND 3.0) You are free to Share - to copy, distribute and transmit the work under the following conditions: Attribution - You must attribute A Verbal History of Erie Community College to James E. Shenton. Noncommercial - You may not use this work for commercial purposes. No Derivative Works - You may not alter, transform, or build upon this work. With the understanding that: Waiver - Any of the above conditions can be waived if you get permission from the holding institution. Public Domain - Where the work or any of its elements is in the public domain under applicable law, that status is in no way affected by the license.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/YJL/id/341</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJL/342</identifier><datestamp>2012-07-25</datestamp><setSpec>YJL</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:YJL/343</identifier><datestamp>2012-07-25</datestamp><setSpec>YJL</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:YJL/344</identifier><datestamp>2012-07-27</datestamp><setSpec>YJL</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Verbal History of Erie Community College, outline</dc:title>
+<dc:description>Presented here is a reproduction of the original outline created to describe the contents of the audio recordings created by James E. Shenton for his Verbal History of Erie Community College.</dc:description>
+<dc:creator>Barrey, Margaret A.</dc:creator>
+<dc:subject>Erie Community College (N.Y.); Community colleges--New York (State)--Erie County.</dc:subject>
+<dc:subject>Education</dc:subject>
+<dc:coverage>New York (State), Western; Erie County (N.Y.); Buffalo (N.Y.)</dc:coverage>
+<dc:contributor>Best, Matthew M. (Digital Reproduction Engineer)</dc:contributor>
+<dc:publisher>Erie Community College</dc:publisher>
+<dc:date>1982-11-01</dc:date>
+<dc:coverage>1946-1974</dc:coverage>
+<dc:format>Charts and graphs</dc:format>
+<dc:source>Typed outline : 1 p. ; 22 cm. x 28 cm.</dc:source>
+<dc:type>Text</dc:type>
+<dc:language>English</dc:language>
+<dc:format>application/pdf</dc:format>
+<dc:identifier>ShentonHistOutline2011062800A</dc:identifier>
+<dc:relation>Verbal History of Erie Community College</dc:relation>
+<dc:rights>This digital reproduction is protected by the following Creative Commons license: Attribution-NonCommercial-NoDerivs 3.0 Unported (CC BY-NC-ND 3.0) You are free to Share - to copy, distribute and transmit the work under the following conditions: Attribution - You must attribute A Verbal History of Erie Community College to James E. Shenton. Noncommercial - You may not use this work for commercial purposes. No Derivative Works - You may not alter, transform, or build upon this work. With the understanding that: Waiver - Any of the above conditions can be waived if you get permission from the holding institution. Public Domain - Where the work or any of its elements is in the public domain under applicable law, that status is in no way affected by the license.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/YJL/id/344</dc:identifier></oai_dc:dc>
+</metadata>
+</record><resumptionToken /></ListRecords></OAI-PMH>

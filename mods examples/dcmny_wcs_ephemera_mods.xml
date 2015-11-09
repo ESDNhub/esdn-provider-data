@@ -1,0 +1,1412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+    <responseDate>2015-09-17T15:39:22Z</responseDate>
+    <request>http://dcmny.org/oai2</request>
+    <ListRecords>
+        <record>
+            <header>
+                <identifier>oai:dcmny.org:wcs_489</identifier>
+                <datestamp>2015-09-15T16:56:32Z</datestamp>
+                <setSpec>wcs_ephemera</setSpec>
+            </header>
+            <metadata>
+                <mods xmlns="http://www.loc.gov/mods/v3"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+                    <titleInfo>
+                        <title>Inmates of the Aquarium, The New York Aquarium</title>
+                    </titleInfo>
+                    <name authority="naf" type="corporate">
+                        <namePart>New York Aquarium</namePart>
+                        <role>
+                            <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+                        </role>
+                    </name>
+                    <name authority="naf" type="corporate">
+                        <namePart>New York Zoological Society</namePart>
+                        <role>
+                            <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+                        </role>
+                    </name>
+                    <subject authority="fast">
+                        <topic>New York Aquarium</topic>
+                    </subject>
+                    <subject authority="fast">
+                        <geographic>New York (State)--New York--Battery Park</geographic>
+                    </subject>
+                    <originInfo>
+                        <dateCreated keyDate="yes" encoding="w3cdtf">1916</dateCreated>
+                        <publisher>New York Zoological Society</publisher>
+                    </originInfo>
+                    <abstract>Picture book published as part of the New York Aquarium Nature Series depicting different species found at the Aquarium.</abstract>
+                    <note>Digitized by the Metropolitan New York Library Council as part of the Culture In Transit project, funded by a grant from the John S. and James L. Knight Foundation</note>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="aat">Books</genre>
+                    <physicalDescription>
+                        <extent>1 book; 28cm x 22.5cm</extent>
+                        <internetMediaType>image/jp2</internetMediaType>
+                        <digitalOrigin>reformatted digital</digitalOrigin>
+                    </physicalDescription>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <relatedItem type="host" displayLabel="Collection">
+                        <titleInfo>
+                            <title>WCS Publications and Printed Ephemera Collection</title>
+                        </titleInfo>
+                    </relatedItem>
+                    <accessCondition>Copyright Wildlife Conservation Society. For rights and
+                        permissions, please contact the Wildlife Conservation Society Archives,
+                        library@wcs.org</accessCondition>
+                    <note type="ownership">Wildlife Conservation Society</note>
+                    <identifier type="local">wcs-2016-nya-sou03</identifier>
+                    <recordInfo>
+                        <languageOfCataloging>
+                            <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                        </languageOfCataloging>
+                    </recordInfo>
+                    <identifier xmlns="" type="uri"
+                        >http://dcmny.org/islandora/object/wcs%3A489</identifier>
+                </mods>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dcmny.org:wcs_488</identifier>
+                <datestamp>2015-09-15T16:56:33Z</datestamp>
+                <setSpec>wcs_ephemera</setSpec>
+            </header>
+            <metadata>
+                <mods xmlns="http://www.loc.gov/mods/v3"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+                    <titleInfo>
+                        <title>The New York Aquarium Book of Shell Cookery</title>
+                    </titleInfo>
+                    <name authority="naf" type="corporate">
+                        <namePart>New York Aquarium</namePart>
+                        <role>
+                            <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+                        </role>
+                    </name>
+                    <name authority="naf" type="corporate">
+                        <namePart>New York Zoological Society</namePart>
+                        <role>
+                            <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+                        </role>
+                    </name>
+                    <subject authority="fast">
+                        <topic>New York Aquarium</topic>
+                    </subject>
+                    <subject authority="fast">
+                        <geographic>New York (State)--New York--Brooklyn</geographic>
+                    </subject>
+                    <subject authority="fast">
+                        <geographic>New York (State)--New York--Coney Island</geographic>
+                    </subject>
+                    <originInfo>
+                        <dateCreated keyDate="yes" encoding="w3cdtf">1957</dateCreated>
+                        <publisher>New York Zoological Society</publisher>
+                    </originInfo>
+                    <abstract>Small paper booklet containing eight fish recipes with illustrations and images and a brief history of the Aquarium.</abstract>
+                    <note>Digitized by the Metropolitan New York Library Council as part of the Culture In Transit project, funded by a grant from the John S. and James L. Knight Foundation</note>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="aat">Booklets</genre>
+                    <physicalDescription>
+                        <extent>1 booklet; 14cm x 10.5cm</extent>
+                        <internetMediaType>image/jp2</internetMediaType>
+                        <digitalOrigin>reformatted digital</digitalOrigin>
+                    </physicalDescription>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <relatedItem type="host" displayLabel="Collection">
+                        <titleInfo>
+                            <title>WCS Publications and Printed Ephemera Collection</title>
+                        </titleInfo>
+                    </relatedItem>
+                    <accessCondition>Copyright Wildlife Conservation Society. For rights and
+                        permissions, please contact the Wildlife Conservation Society Archives,
+                        library@wcs.org</accessCondition>
+                    <note type="ownership">Wildlife Conservation Society</note>
+                    <identifier type="local">wcs-2016-nya-sou02</identifier>
+                    <recordInfo>
+                        <languageOfCataloging>
+                            <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                        </languageOfCataloging>
+                    </recordInfo>
+                    <identifier xmlns="" type="uri"
+                        >http://dcmny.org/islandora/object/wcs%3A488</identifier>
+                </mods>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dcmny.org:wcs_487</identifier>
+                <datestamp>2015-09-15T16:56:36Z</datestamp>
+                <setSpec>wcs_ephemera</setSpec>
+            </header>
+            <metadata>
+                <mods xmlns="http://www.loc.gov/mods/v3"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+                    <titleInfo>
+                        <title>My Trip to the Aquarium, A Visit to the New York Aquarium</title>
+                    </titleInfo>
+                    <name authority="naf" type="corporate">
+                        <namePart>New York Aquarium</namePart>
+                        <role>
+                            <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+                        </role>
+                    </name>
+                    <name authority="naf" type="corporate">
+                        <namePart>New York Zoological Society</namePart>
+                        <role>
+                            <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+                        </role>
+                    </name>
+                    <subject authority="fast">
+                        <topic>New York Aquarium</topic>
+                    </subject>
+                    <subject authority="fast">
+                        <geographic>New York (State)--New York--Battery Park</geographic>
+                    </subject>
+                    <originInfo>
+                        <dateCreated keyDate="yes" encoding="w3cdtf">1940</dateCreated>
+                        <publisher>New York Zoological Society</publisher>
+                    </originInfo>
+                    <abstract>Small book about fishes and other creatures that live in the water. Descriptions include physical appearance of the creature and its habitat.</abstract>
+                    <note>Digitized by the Metropolitan New York Library Council as part of the Culture In Transit project, funded by a grant from the John S. and James L. Knight Foundation</note>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="aat">Books</genre>
+                    <physicalDescription>
+                        <extent>1 book; 19cm x 13.5cm</extent>
+                        <internetMediaType>image/jp2</internetMediaType>
+                        <digitalOrigin>reformatted digital</digitalOrigin>
+                    </physicalDescription>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <relatedItem type="host" displayLabel="Collection">
+                        <titleInfo>
+                            <title>WCS Publications and Printed Ephemera Collection</title>
+                        </titleInfo>
+                    </relatedItem>
+                    <accessCondition>Copyright Wildlife Conservation Society. For rights and
+                        permissions, please contact the Wildlife Conservation Society Archives,
+                        library@wcs.org</accessCondition>
+                    <note type="ownership">Wildlife Conservation Society</note>
+                    <identifier type="local">wcs-2016-nya-sou01</identifier>
+                    <recordInfo>
+                        <languageOfCataloging>
+                            <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                        </languageOfCataloging>
+                    </recordInfo>
+                    <identifier xmlns="" type="uri"
+                        >http://dcmny.org/islandora/object/wcs%3A487</identifier>
+                </mods>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dcmny.org:wcs_486</identifier>
+                <datestamp>2015-09-15T16:56:38Z</datestamp>
+                <setSpec>wcs_ephemera</setSpec>
+            </header>
+            <metadata>
+                <mods xmlns="http://www.loc.gov/mods/v3"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+                    <titleInfo>
+                        <title>Brochure, New York Aquarium, Sharks front cover, circa 1980-1989</title>
+                    </titleInfo>
+                    <name authority="naf" type="corporate">
+                        <namePart>New York Aquarium</namePart>
+                        <role>
+                            <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+                        </role>
+                    </name>
+                    <name authority="naf" type="corporate">
+                        <namePart>New York Zoological Society</namePart>
+                        <role>
+                            <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+                        </role>
+                    </name>
+                    <subject authority="fast">
+                        <topic>New York Aquarium</topic>
+                    </subject>
+                    <subject authority="fast">
+                        <geographic>New York (State)--New York--Brooklyn</geographic>
+                    </subject>
+                    <subject authority="fast">
+                        <geographic>New York (State)--New York--Coney Island</geographic>
+                    </subject>
+                    <originInfo>
+                        <dateCreated keyDate="yes" qualifier="approximate" point="start" encoding="w3cdtf">1980</dateCreated>
+                        <dateCreated point="end" encoding="w3cdtf">1989</dateCreated>
+                        <publisher>New York Zoological Society</publisher>
+                    </originInfo>
+                    <abstract>Brochure for the New York Aquarium including map, transportation directions, admission costs, hours of operation and general information about the Aquarium</abstract>
+                    <note>Digitized by the Metropolitan New York Library Council as part of the Culture In Transit project, funded by a grant from the John S. and James L. Knight Foundation</note>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="aat">Brochures</genre>
+                    <physicalDescription>
+                        <extent>1 brochure; 10cm x 22.5cm</extent>
+                        <internetMediaType>image/jp2</internetMediaType>
+                        <digitalOrigin>reformatted digital</digitalOrigin>
+                    </physicalDescription>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <relatedItem type="host" displayLabel="Collection">
+                        <titleInfo>
+                            <title>WCS Publications and Printed Ephemera Collection</title>
+                        </titleInfo>
+                    </relatedItem>
+                    <accessCondition>Copyright Wildlife Conservation Society. For rights and
+                        permissions, please contact the Wildlife Conservation Society Archives,
+                        library@wcs.org</accessCondition>
+                    <note type="ownership">Wildlife Conservation Society</note>
+                    <identifier type="local">wcs-2016-nya-gen10</identifier>
+                    <recordInfo>
+                        <languageOfCataloging>
+                            <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                        </languageOfCataloging>
+                    </recordInfo>
+                    <identifier xmlns="" type="uri"
+                        >http://dcmny.org/islandora/object/wcs%3A486</identifier>
+                </mods>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dcmny.org:wcs_485</identifier>
+                <datestamp>2015-09-15T16:56:44Z</datestamp>
+                <setSpec>wcs_ephemera</setSpec>
+            </header>
+            <metadata>
+                <mods xmlns="http://www.loc.gov/mods/v3"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+                    <titleInfo>
+                        <title>Brochure, New York Aquarium, Dolphin leaping out of water front cover, circa 1980-1989</title>
+                    </titleInfo>
+                    <name authority="naf" type="corporate">
+                        <namePart>New York Aquarium</namePart>
+                        <role>
+                            <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+                        </role>
+                    </name>
+                    <name authority="naf" type="corporate">
+                        <namePart>New York Zoological Society</namePart>
+                        <role>
+                            <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+                        </role>
+                    </name>
+                    <subject authority="fast">
+                        <topic>New York Aquarium</topic>
+                    </subject>
+                    <subject authority="fast">
+                        <geographic>New York (State)--New York--Brooklyn</geographic>
+                    </subject>
+                    <subject authority="fast">
+                        <geographic>New York (State)--New York--Coney Island</geographic>
+                    </subject>
+                    <originInfo>
+                        <dateCreated keyDate="yes" qualifier="approximate" point="start" encoding="w3cdtf">1980</dateCreated>
+                        <dateCreated point="end" encoding="w3cdtf">1989</dateCreated>
+                        <publisher>New York Zoological Society</publisher>
+                    </originInfo>
+                    <abstract>Brochure for the New York Aquarium including map, transportation directions, admission costs, hours of operation and general information about the Aquarium</abstract>
+                    <note>Digitized by the Metropolitan New York Library Council as part of the Culture In Transit project, funded by a grant from the John S. and James L. Knight Foundation</note>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="aat">Brochures</genre>
+                    <physicalDescription>
+                        <extent>1 brochure; 10cm x 22.5cm</extent>
+                        <internetMediaType>image/jp2</internetMediaType>
+                        <digitalOrigin>reformatted digital</digitalOrigin>
+                    </physicalDescription>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <relatedItem type="host" displayLabel="Collection">
+                        <titleInfo>
+                            <title>WCS Publications and Printed Ephemera Collection</title>
+                        </titleInfo>
+                    </relatedItem>
+                    <accessCondition>Copyright Wildlife Conservation Society. For rights and
+                        permissions, please contact the Wildlife Conservation Society Archives,
+                        library@wcs.org</accessCondition>
+                    <note type="ownership">Wildlife Conservation Society</note>
+                    <identifier type="local">wcs-2016-nya-gen09</identifier>
+                    <recordInfo>
+                        <languageOfCataloging>
+                            <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                        </languageOfCataloging>
+                    </recordInfo>
+                    <identifier xmlns="" type="uri"
+                        >http://dcmny.org/islandora/object/wcs%3A485</identifier>
+                </mods>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dcmny.org:wcs_484</identifier>
+                <datestamp>2015-09-15T16:56:47Z</datestamp>
+                <setSpec>wcs_ephemera</setSpec>
+            </header>
+            <metadata>
+                <mods xmlns="http://www.loc.gov/mods/v3"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+                    <titleInfo>
+                        <title>Brochure, New York Aquarium, 1986</title>
+                    </titleInfo>
+                    <name authority="naf" type="corporate">
+                        <namePart>New York Aquarium</namePart>
+                        <role>
+                            <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+                        </role>
+                    </name>
+                    <name authority="naf" type="corporate">
+                        <namePart>New York Zoological Society</namePart>
+                        <role>
+                            <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+                        </role>
+                    </name>
+                    <subject authority="fast">
+                        <topic>New York Aquarium</topic>
+                    </subject>
+                    <subject authority="fast">
+                        <geographic>New York (State)--New York--Brooklyn</geographic>
+                    </subject>
+                    <subject authority="fast">
+                        <geographic>New York (State)--New York--Coney Island</geographic>
+                    </subject>
+                    <originInfo>
+                        <dateCreated keyDate="yes" encoding="w3cdtf">1986</dateCreated>
+                        <publisher>New York Zoological Society</publisher>
+                    </originInfo>
+                    <abstract>Brochure for the New York Aquarium produced in its 90th anniversary year detailing highlights of the aquarium.</abstract>
+                    <note>Digitized by the Metropolitan New York Library Council as part of the Culture In Transit project, funded by a grant from the John S. and James L. Knight Foundation</note>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="aat">Brochures</genre>
+                    <physicalDescription>
+                        <extent>1 brochure; 14cm x 21.5cm</extent>
+                        <internetMediaType>image/jp2</internetMediaType>
+                        <digitalOrigin>reformatted digital</digitalOrigin>
+                    </physicalDescription>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <relatedItem type="host" displayLabel="Collection">
+                        <titleInfo>
+                            <title>WCS Publications and Printed Ephemera Collection</title>
+                        </titleInfo>
+                    </relatedItem>
+                    <accessCondition>Copyright Wildlife Conservation Society. For rights and
+                        permissions, please contact the Wildlife Conservation Society Archives,
+                        library@wcs.org</accessCondition>
+                    <note type="ownership">Wildlife Conservation Society</note>
+                    <identifier type="local">wcs-2016-nya-gen08</identifier>
+                    <recordInfo>
+                        <languageOfCataloging>
+                            <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                        </languageOfCataloging>
+                    </recordInfo>
+                    <identifier xmlns="" type="uri"
+                        >http://dcmny.org/islandora/object/wcs%3A484</identifier>
+                </mods>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dcmny.org:wcs_483</identifier>
+                <datestamp>2015-09-15T16:56:49Z</datestamp>
+                <setSpec>wcs_ephemera</setSpec>
+            </header>
+            <metadata>
+                <mods xmlns="http://www.loc.gov/mods/v3"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+                    <titleInfo>
+                        <title>Brochure, New York Aquarium, Dolphins front cover, circa 1980-1989</title>
+                    </titleInfo>
+                    <name authority="naf" type="corporate">
+                        <namePart>New York Aquarium</namePart>
+                        <role>
+                            <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+                        </role>
+                    </name>
+                    <name authority="naf" type="corporate">
+                        <namePart>New York Zoological Society</namePart>
+                        <role>
+                            <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+                        </role>
+                    </name>
+                    <subject authority="fast">
+                        <topic>New York Aquarium</topic>
+                    </subject>
+                    <subject authority="fast">
+                        <geographic>New York (State)--New York--Brooklyn</geographic>
+                    </subject>
+                    <subject authority="fast">
+                        <geographic>New York (State)--New York--Coney Island</geographic>
+                    </subject>
+                    <originInfo>
+                        <dateCreated keyDate="yes" qualifier="approximate" point="start" encoding="w3cdtf">1980</dateCreated>
+                        <dateCreated point="end" encoding="w3cdtf">1989</dateCreated>
+                        <publisher>New York Zoological Society</publisher>
+                    </originInfo>
+                    <abstract>Brochure for the New York Aquarium including hours of operation, daily events listings and general information about the Aquarium</abstract>
+                    <note>Digitized by the Metropolitan New York Library Council as part of the Culture In Transit project, funded by a grant from the John S. and James L. Knight Foundation</note>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="aat">Brochures</genre>
+                    <physicalDescription>
+                        <extent>1 brochure; 23.5cm x 10cm</extent>
+                        <internetMediaType>image/jp2</internetMediaType>
+                        <digitalOrigin>reformatted digital</digitalOrigin>
+                    </physicalDescription>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <relatedItem type="host" displayLabel="Collection">
+                        <titleInfo>
+                            <title>WCS Publications and Printed Ephemera Collection</title>
+                        </titleInfo>
+                    </relatedItem>
+                    <accessCondition>Copyright Wildlife Conservation Society. For rights and
+                        permissions, please contact the Wildlife Conservation Society Archives,
+                        library@wcs.org</accessCondition>
+                    <note type="ownership">Wildlife Conservation Society</note>
+                    <identifier type="local">wcs-2016-nya-gen07</identifier>
+                    <recordInfo>
+                        <languageOfCataloging>
+                            <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                        </languageOfCataloging>
+                    </recordInfo>
+                    <identifier xmlns="" type="uri"
+                        >http://dcmny.org/islandora/object/wcs%3A483</identifier>
+                </mods>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dcmny.org:wcs_482</identifier>
+                <datestamp>2015-09-15T16:56:50Z</datestamp>
+                <setSpec>wcs_ephemera</setSpec>
+            </header>
+            <metadata>
+                <mods xmlns="http://www.loc.gov/mods/v3"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+                    <titleInfo>
+                        <title>Brochure, New York Aquarium, Walrus and Sea Lion front cover, circa 1980-1989</title>
+                    </titleInfo>
+                    <name authority="naf" type="corporate">
+                        <namePart>New York Aquarium</namePart>
+                        <role>
+                            <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+                        </role>
+                    </name>
+                    <name authority="naf" type="corporate">
+                        <namePart>New York Zoological Society</namePart>
+                        <role>
+                            <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+                        </role>
+                    </name>
+                    <subject authority="fast">
+                        <topic>New York Aquarium</topic>
+                    </subject>
+                    <subject authority="fast">
+                        <geographic>New York (State)--New York--Brooklyn</geographic>
+                    </subject>
+                    <subject authority="fast">
+                        <geographic>New York (State)--New York--Coney Island</geographic>
+                    </subject>
+                    <originInfo>
+                        <dateCreated keyDate="yes" qualifier="approximate" point="start" encoding="w3cdtf">1980</dateCreated>
+                        <dateCreated point="end" encoding="w3cdtf">1989</dateCreated>
+                        <publisher>New York Zoological Society</publisher>
+                    </originInfo>
+                    <abstract>Brochure for the New York Aquarium including hours of operation, daily events listings and general information about the Aquarium</abstract>
+                    <note>Digitized by the Metropolitan New York Library Council as part of the Culture In Transit project, funded by a grant from the John S. and James L. Knight Foundation</note>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="aat">Brochures</genre>
+                    <physicalDescription>
+                        <extent>1 brochure; 23cm x 10cm</extent>
+                        <internetMediaType>image/jp2</internetMediaType>
+                        <digitalOrigin>reformatted digital</digitalOrigin>
+                    </physicalDescription>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <relatedItem type="host" displayLabel="Collection">
+                        <titleInfo>
+                            <title>WCS Publications and Printed Ephemera Collection</title>
+                        </titleInfo>
+                    </relatedItem>
+                    <accessCondition>Copyright Wildlife Conservation Society. For rights and
+                        permissions, please contact the Wildlife Conservation Society Archives,
+                        library@wcs.org</accessCondition>
+                    <note type="ownership">Wildlife Conservation Society</note>
+                    <identifier type="local">wcs-2016-nya-gen06</identifier>
+                    <recordInfo>
+                        <languageOfCataloging>
+                            <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                        </languageOfCataloging>
+                    </recordInfo>
+                    <identifier xmlns="" type="uri"
+                        >http://dcmny.org/islandora/object/wcs%3A482</identifier>
+                </mods>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dcmny.org:wcs_481</identifier>
+                <datestamp>2015-09-15T16:56:51Z</datestamp>
+                <setSpec>wcs_ephemera</setSpec>
+            </header>
+            <metadata>
+                <mods xmlns="http://www.loc.gov/mods/v3"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+                    <titleInfo>
+                        <title>Brochure, New York Aquarium, Dolphin and trainer front cover, circa 1980-1989</title>
+                    </titleInfo>
+                    <name authority="naf" type="corporate">
+                        <namePart>New York Aquarium</namePart>
+                        <role>
+                            <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+                        </role>
+                    </name>
+                    <name authority="naf" type="corporate">
+                        <namePart>New York Zoological Society</namePart>
+                        <role>
+                            <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+                        </role>
+                    </name>
+                    <subject authority="fast">
+                        <topic>New York Aquarium</topic>
+                    </subject>
+                    <subject authority="fast">
+                        <geographic>New York (State)--New York--Brooklyn</geographic>
+                    </subject>
+                    <subject authority="fast">
+                        <geographic>New York (State)--New York--Coney Island</geographic>
+                    </subject>
+                    <originInfo>
+                        <dateCreated keyDate="yes" qualifier="approximate" point="start" encoding="w3cdtf">1980</dateCreated>
+                        <dateCreated point="end" encoding="w3cdtf">1989</dateCreated>
+                        <publisher>New York Zoological Society</publisher>
+                    </originInfo>
+                    <abstract>Brochure for the New York Aquarium including hours of operation, daily events listings and general information about the Aquarium</abstract>
+                    <note>Digitized by the Metropolitan New York Library Council as part of the Culture In Transit project, funded by a grant from the John S. and James L. Knight Foundation</note>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="aat">Brochures</genre>
+                    <physicalDescription>
+                        <extent>1 brochure; 23cm x 10cm</extent>
+                        <internetMediaType>image/jp2</internetMediaType>
+                        <digitalOrigin>reformatted digital</digitalOrigin>
+                    </physicalDescription>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <relatedItem type="host" displayLabel="Collection">
+                        <titleInfo>
+                            <title>WCS Publications and Printed Ephemera Collection</title>
+                        </titleInfo>
+                    </relatedItem>
+                    <accessCondition>Copyright Wildlife Conservation Society. For rights and
+                        permissions, please contact the Wildlife Conservation Society Archives,
+                        library@wcs.org</accessCondition>
+                    <note type="ownership">Wildlife Conservation Society</note>
+                    <identifier type="local">wcs-2016-nya-gen05</identifier>
+                    <recordInfo>
+                        <languageOfCataloging>
+                            <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                        </languageOfCataloging>
+                    </recordInfo>
+                    <identifier xmlns="" type="uri"
+                        >http://dcmny.org/islandora/object/wcs%3A481</identifier>
+                </mods>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dcmny.org:wcs_480</identifier>
+                <datestamp>2015-09-15T16:56:52Z</datestamp>
+                <setSpec>wcs_ephemera</setSpec>
+            </header>
+            <metadata>
+                <mods xmlns="http://www.loc.gov/mods/v3"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+                    <titleInfo>
+                        <title>Brochure, New York Aquarium, circa 1970-1979</title>
+                    </titleInfo>
+                    <name authority="naf" type="corporate">
+                        <namePart>New York Aquarium</namePart>
+                        <role>
+                            <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+                        </role>
+                    </name>
+                    <name authority="naf" type="corporate">
+                        <namePart>New York Zoological Society</namePart>
+                        <role>
+                            <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+                        </role>
+                    </name>
+                    <subject authority="fast">
+                        <topic>New York Aquarium</topic>
+                    </subject>
+                    <subject authority="fast">
+                        <geographic>New York (State)--New York--Brooklyn</geographic>
+                    </subject>
+                    <subject authority="fast">
+                        <geographic>New York (State)--New York--Coney Island</geographic>
+                    </subject>
+                    <originInfo>
+                        <dateCreated keyDate="yes" qualifier="approximate" point="start" encoding="w3cdtf">1970</dateCreated>
+                        <dateCreated point="end" encoding="w3cdtf">1979</dateCreated>
+                        <publisher>New York Zoological Society</publisher>
+                    </originInfo>
+                    <abstract>Brochure for the New York Aquarium including map, transportation directions, admission costs, hours of operation and general information about the Aquarium</abstract>
+                    <note>Digitized by the Metropolitan New York Library Council as part of the Culture In Transit project, funded by a grant from the John S. and James L. Knight Foundation</note>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="aat">Brochures</genre>
+                    <physicalDescription>
+                        <extent>1 brochure; 23cm x 10cm</extent>
+                        <internetMediaType>image/jp2</internetMediaType>
+                        <digitalOrigin>reformatted digital</digitalOrigin>
+                    </physicalDescription>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <relatedItem type="host" displayLabel="Collection">
+                        <titleInfo>
+                            <title>WCS Publications and Printed Ephemera Collection</title>
+                        </titleInfo>
+                    </relatedItem>
+                    <accessCondition>Copyright Wildlife Conservation Society. For rights and
+                        permissions, please contact the Wildlife Conservation Society Archives,
+                        library@wcs.org</accessCondition>
+                    <note type="ownership">Wildlife Conservation Society</note>
+                    <identifier type="local">wcs-2016-nya-gen04</identifier>
+                    <recordInfo>
+                        <languageOfCataloging>
+                            <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                        </languageOfCataloging>
+                    </recordInfo>
+                    <identifier xmlns="" type="uri"
+                        >http://dcmny.org/islandora/object/wcs%3A480</identifier>
+                </mods>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dcmny.org:wcs_479</identifier>
+                <datestamp>2015-09-15T16:56:54Z</datestamp>
+                <setSpec>wcs_ephemera</setSpec>
+            </header>
+            <metadata>
+                <mods xmlns="http://www.loc.gov/mods/v3"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+                    <titleInfo>
+                        <title>Brochure, New York Aquarium, circa 1960-1969</title>
+                    </titleInfo>
+                    <name authority="naf" type="corporate">
+                        <namePart>New York Aquarium</namePart>
+                        <role>
+                            <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+                        </role>
+                    </name>
+                    <name authority="naf" type="corporate">
+                        <namePart>New York Zoological Society</namePart>
+                        <role>
+                            <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+                        </role>
+                    </name>
+                    <subject authority="fast">
+                        <topic>New York Aquarium</topic>
+                    </subject>
+                    <subject authority="fast">
+                        <geographic>New York (State)--New York--Brooklyn</geographic>
+                    </subject>
+                    <subject authority="fast">
+                        <geographic>New York (State)--New York--Coney Island</geographic>
+                    </subject>
+                    <originInfo>
+                        <dateCreated keyDate="yes" qualifier="approximate" point="start" encoding="w3cdtf">1960</dateCreated>
+                        <dateCreated point="end" encoding="w3cdtf">1969</dateCreated>
+                        <publisher>New York Zoological Society</publisher>
+                    </originInfo>
+                    <abstract>Brochure for the New York Aquarium including map, transportation directions, admission costs, hours of operation and general information about the Aquarium</abstract>
+                    <note>Digitized by the Metropolitan New York Library Council as part of the Culture In Transit project, funded by a grant from the John S. and James L. Knight Foundation</note>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="aat">Brochures</genre>
+                    <physicalDescription>
+                        <extent>1 brochure; 23cm x 10cm</extent>
+                        <internetMediaType>image/jp2</internetMediaType>
+                        <digitalOrigin>reformatted digital</digitalOrigin>
+                    </physicalDescription>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <relatedItem type="host" displayLabel="Collection">
+                        <titleInfo>
+                            <title>WCS Publications and Printed Ephemera Collection</title>
+                        </titleInfo>
+                    </relatedItem>
+                    <accessCondition>Copyright Wildlife Conservation Society. For rights and
+                        permissions, please contact the Wildlife Conservation Society Archives,
+                        library@wcs.org</accessCondition>
+                    <note type="ownership">Wildlife Conservation Society</note>
+                    <identifier type="local">wcs-2016-nya-gen03</identifier>
+                    <recordInfo>
+                        <languageOfCataloging>
+                            <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                        </languageOfCataloging>
+                    </recordInfo>
+                    <identifier xmlns="" type="uri"
+                        >http://dcmny.org/islandora/object/wcs%3A479</identifier>
+                </mods>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dcmny.org:wcs_478</identifier>
+                <datestamp>2015-09-15T16:56:56Z</datestamp>
+                <setSpec>wcs_ephemera</setSpec>
+            </header>
+            <metadata>
+                <mods xmlns="http://www.loc.gov/mods/v3"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+                    <titleInfo>
+                        <title>Brochure, New York Aquarium, 1967</title>
+                    </titleInfo>
+                    <name authority="naf" type="corporate">
+                        <namePart>New York Aquarium</namePart>
+                        <role>
+                            <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+                        </role>
+                    </name>
+                    <name authority="naf" type="corporate">
+                        <namePart>New York Zoological Society</namePart>
+                        <role>
+                            <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+                        </role>
+                    </name>
+                    <subject authority="fast">
+                        <topic>New York Aquarium</topic>
+                    </subject>
+                    <subject authority="fast">
+                        <geographic>New York (State)--New York--Brooklyn</geographic>
+                    </subject>
+                    <subject authority="fast">
+                        <geographic>New York (State)--New York--Coney Island</geographic>
+                    </subject>
+                    <originInfo>
+                        <dateCreated keyDate="yes" encoding="w3cdtf">1967</dateCreated>
+                        <publisher>New York Zoological Society</publisher>
+                    </originInfo>
+                    <abstract>Brochure for the New York Aquarium including map, transportation directions, admission costs, hours of operation and general information about the Aquarium</abstract>
+                    <note>Digitized by the Metropolitan New York Library Council as part of the Culture In Transit project, funded by a grant from the John S. and James L. Knight Foundation</note>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="aat">Brochures</genre>
+                    <physicalDescription>
+                        <extent>1 brochure; 23cm x 10cm</extent>
+                        <internetMediaType>image/jp2</internetMediaType>
+                        <digitalOrigin>reformatted digital</digitalOrigin>
+                    </physicalDescription>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <relatedItem type="host" displayLabel="Collection">
+                        <titleInfo>
+                            <title>WCS Publications and Printed Ephemera Collection</title>
+                        </titleInfo>
+                    </relatedItem>
+                    <accessCondition>Copyright Wildlife Conservation Society. For rights and
+                        permissions, please contact the Wildlife Conservation Society Archives,
+                        library@wcs.org</accessCondition>
+                    <note type="ownership">Wildlife Conservation Society</note>
+                    <identifier type="local">wcs-2016-nya-gen02</identifier>
+                    <recordInfo>
+                        <languageOfCataloging>
+                            <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                        </languageOfCataloging>
+                    </recordInfo>
+                    <identifier xmlns="" type="uri"
+                        >http://dcmny.org/islandora/object/wcs%3A478</identifier>
+                </mods>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dcmny.org:wcs_477</identifier>
+                <datestamp>2015-09-15T16:56:57Z</datestamp>
+                <setSpec>wcs_ephemera</setSpec>
+            </header>
+            <metadata>
+                <mods xmlns="http://www.loc.gov/mods/v3"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+                    <titleInfo>
+                        <title>Brochure, New York Aquarium, 1960</title>
+                    </titleInfo>
+                    <name authority="naf" type="corporate">
+                        <namePart>New York Aquarium</namePart>
+                        <role>
+                            <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+                        </role>
+                    </name>
+                    <name authority="naf" type="corporate">
+                        <namePart>New York Zoological Society</namePart>
+                        <role>
+                            <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+                        </role>
+                    </name>
+                    <subject authority="fast">
+                        <topic>New York Aquarium</topic>
+                    </subject>
+                    <subject authority="fast">
+                        <geographic>New York (State)--New York--Brooklyn</geographic>
+                    </subject>
+                    <subject authority="fast">
+                        <geographic>New York (State)--New York--Coney Island</geographic>
+                    </subject>
+                    <originInfo>
+                        <dateCreated keyDate="yes" encoding="w3cdtf">1960</dateCreated>
+                        <publisher>New York Zoological Society</publisher>
+                    </originInfo>
+                    <abstract>Brochure for the New York Aquarium including map, transportation directions, admission costs, hours of operation and general information about the Aquarium</abstract>
+                    <note>Digitized by the Metropolitan New York Library Council as part of the Culture In Transit project, funded by a grant from the John S. and James L. Knight Foundation</note>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="aat">Brochures</genre>
+                    <physicalDescription>
+                        <extent>1 brochure; 23cm x 10cm</extent>
+                        <internetMediaType>image/jp2</internetMediaType>
+                        <digitalOrigin>reformatted digital</digitalOrigin>
+                    </physicalDescription>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <relatedItem type="host" displayLabel="Collection">
+                        <titleInfo>
+                            <title>WCS Publications and Printed Ephemera Collection</title>
+                        </titleInfo>
+                    </relatedItem>
+                    <accessCondition>Copyright Wildlife Conservation Society. For rights and
+                        permissions, please contact the Wildlife Conservation Society Archives,
+                        library@wcs.org</accessCondition>
+                    <note type="ownership">Wildlife Conservation Society</note>
+                    <identifier type="local">wcs-2016-nya-gen01</identifier>
+                    <recordInfo>
+                        <languageOfCataloging>
+                            <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                        </languageOfCataloging>
+                    </recordInfo>
+                    <identifier xmlns="" type="uri"
+                        >http://dcmny.org/islandora/object/wcs%3A477</identifier>
+                </mods>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dcmny.org:wcs_476</identifier>
+                <datestamp>2015-09-15T16:56:59Z</datestamp>
+                <setSpec>wcs_ephemera</setSpec>
+            </header>
+            <metadata>
+                <mods xmlns="http://www.loc.gov/mods/v3"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+                    <titleInfo>
+                        <title>Coney Island Improvement Ground Breaking Ceremony program</title>
+                    </titleInfo>
+                    <name authority="naf" type="corporate">
+                        <namePart>New York Aquarium</namePart>
+                        <role>
+                            <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+                        </role>
+                    </name>
+                    <name authority="naf" type="corporate">
+                        <namePart>New York Zoological Society</namePart>
+                        <role>
+                            <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+                        </role>
+                    </name>
+                    <subject authority="fast">
+                        <topic>New York Aquarium</topic>
+                    </subject>
+                    <subject authority="fast">
+                        <geographic>New York (State)--New York--Brooklyn</geographic>
+                    </subject>
+                    <subject authority="fast">
+                        <geographic>New York (State)--New York--Coney Island</geographic>
+                    </subject>
+                    <originInfo>
+                        <dateCreated keyDate="yes" encoding="w3cdtf">1954</dateCreated>
+                        <publisher>New York Zoological Society</publisher>
+                    </originInfo>
+                    <abstract>Program for the ground breaking ceremony of the Coney Island Improvement project which included the site for the new New York Aquarium managed by the New York Zoological Society</abstract>
+                    <note>Digitized by the Metropolitan New York Library Council as part of the Culture In Transit project, funded by a grant from the John S. and James L. Knight Foundation</note>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="aat">Programs (documents)</genre>
+                    <physicalDescription>
+                        <extent>1 program; 21.5cm x 28cm</extent>
+                        <internetMediaType>image/jp2</internetMediaType>
+                        <digitalOrigin>reformatted digital</digitalOrigin>
+                    </physicalDescription>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <relatedItem type="host" displayLabel="Collection">
+                        <titleInfo>
+                            <title>WCS Publications and Printed Ephemera Collection</title>
+                        </titleInfo>
+                    </relatedItem>
+                    <accessCondition>Copyright Wildlife Conservation Society. For rights and
+                        permissions, please contact the Wildlife Conservation Society Archives,
+                        library@wcs.org</accessCondition>
+                    <note type="ownership">Wildlife Conservation Society</note>
+                    <identifier type="local">wcs-2016-nya-eve20</identifier>
+                    <recordInfo>
+                        <languageOfCataloging>
+                            <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                        </languageOfCataloging>
+                    </recordInfo>
+                    <identifier xmlns="" type="uri"
+                        >http://dcmny.org/islandora/object/wcs%3A476</identifier>
+                </mods>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dcmny.org:wcs_475</identifier>
+                <datestamp>2015-09-15T16:57:02Z</datestamp>
+                <setSpec>wcs_ephemera</setSpec>
+            </header>
+            <metadata>
+                <mods xmlns="http://www.loc.gov/mods/v3"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+                    <titleInfo>
+                        <title>Program for preview of Discovery Cove exhibit, New York Aquarium</title>
+                    </titleInfo>
+                    <name authority="naf" type="corporate">
+                        <namePart>New York Aquarium</namePart>
+                        <role>
+                            <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+                        </role>
+                    </name>
+                    <name authority="naf" type="corporate">
+                        <namePart>New York Zoological Society</namePart>
+                        <role>
+                            <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+                        </role>
+                    </name>
+                    <subject authority="fast">
+                        <topic>New York Aquarium</topic>
+                    </subject>
+                    <subject authority="fast">
+                        <geographic>New York (State)--New York--Brooklyn</geographic>
+                    </subject>
+                    <subject authority="fast">
+                        <geographic>New York (State)--New York--Coney Island</geographic>
+                    </subject>
+                    <originInfo>
+                        <dateCreated keyDate="yes" encoding="w3cdtf">1989</dateCreated>
+                        <publisher>New York Zoological Society</publisher>
+                    </originInfo>
+                    <abstract>Program to the preview and dinner event for the new Discovery Cove exhibit at the New York Aquarium including details about the new exhibit, a list of planners, designers and builders, dedication information and a schedule of events for the evening.</abstract>
+                    <note>Digitized by the Metropolitan New York Library Council as part of the Culture In Transit project, funded by a grant from the John S. and James L. Knight Foundation</note>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="aat">Programs (documents)</genre>
+                    <physicalDescription>
+                        <extent>1 program; 14cm x 30cm</extent>
+                        <internetMediaType>image/jp2</internetMediaType>
+                        <digitalOrigin>reformatted digital</digitalOrigin>
+                    </physicalDescription>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <relatedItem type="host" displayLabel="Collection">
+                        <titleInfo>
+                            <title>WCS Publications and Printed Ephemera Collection</title>
+                        </titleInfo>
+                    </relatedItem>
+                    <accessCondition>Copyright Wildlife Conservation Society. For rights and
+                        permissions, please contact the Wildlife Conservation Society Archives,
+                        library@wcs.org</accessCondition>
+                    <note type="ownership">Wildlife Conservation Society</note>
+                    <identifier type="local">wcs-2016-nya-eve18</identifier>
+                    <recordInfo>
+                        <languageOfCataloging>
+                            <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                        </languageOfCataloging>
+                    </recordInfo>
+                    <identifier xmlns="" type="uri"
+                        >http://dcmny.org/islandora/object/wcs%3A475</identifier>
+                </mods>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dcmny.org:wcs_474</identifier>
+                <datestamp>2015-09-15T16:57:04Z</datestamp>
+                <setSpec>wcs_ephemera</setSpec>
+            </header>
+            <metadata>
+                <mods xmlns="http://www.loc.gov/mods/v3"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+                    <titleInfo>
+                        <title>Recipe card for Dilled Shark Mousse</title>
+                    </titleInfo>
+                    <name authority="naf" type="corporate">
+                        <namePart>New York Aquarium</namePart>
+                        <role>
+                            <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+                        </role>
+                    </name>
+                    <name authority="naf" type="corporate">
+                        <namePart>New York Zoological Society</namePart>
+                        <role>
+                            <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+                        </role>
+                    </name>
+                    <subject authority="fast">
+                        <topic>New York Aquarium</topic>
+                    </subject>
+                    <subject authority="fast">
+                        <geographic>New York (State)--New York--Brooklyn</geographic>
+                    </subject>
+                    <subject authority="fast">
+                        <geographic>New York (State)--New York--Coney Island</geographic>
+                    </subject>
+                    <originInfo>
+                        <dateCreated keyDate="yes" qualifier="approximate" point="start" encoding="w3cdtf">1980</dateCreated>
+                        <dateCreated point="end" encoding="w3cdtf">1989</dateCreated>
+                        <publisher>New York Zoological Society</publisher>
+                    </originInfo>
+                    <abstract>Recipe card for Dilled Shark Mousse including recipe for the mousse and information about sharks</abstract>
+                    <note>Digitized by the Metropolitan New York Library Council as part of the Culture In Transit project, funded by a grant from the John S. and James L. Knight Foundation</note>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="aat">Cards (information artifacts)</genre>
+                    <physicalDescription>
+                        <extent>1 recipe card; 15cm x 10cm</extent>
+                        <internetMediaType>image/jp2</internetMediaType>
+                        <digitalOrigin>reformatted digital</digitalOrigin>
+                    </physicalDescription>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <relatedItem type="host" displayLabel="Collection">
+                        <titleInfo>
+                            <title>WCS Publications and Printed Ephemera Collection</title>
+                        </titleInfo>
+                    </relatedItem>
+                    <accessCondition>Copyright Wildlife Conservation Society. For rights and
+                        permissions, please contact the Wildlife Conservation Society Archives,
+                        library@wcs.org</accessCondition>
+                    <note type="ownership">Wildlife Conservation Society</note>
+                    <identifier type="local">wcs-2016-nya-eve16</identifier>
+                    <recordInfo>
+                        <languageOfCataloging>
+                            <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                        </languageOfCataloging>
+                    </recordInfo>
+                    <identifier xmlns="" type="uri"
+                        >http://dcmny.org/islandora/object/wcs%3A474</identifier>
+                </mods>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dcmny.org:wcs_473</identifier>
+                <datestamp>2015-09-15T16:57:07Z</datestamp>
+                <setSpec>wcs_ephemera</setSpec>
+            </header>
+            <metadata>
+                <mods xmlns="http://www.loc.gov/mods/v3"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+                    <titleInfo>
+                        <title>Leaflet for the New York Aquarium, Winter 1985</title>
+                    </titleInfo>
+                    <name authority="naf" type="corporate">
+                        <namePart>New York Aquarium</namePart>
+                        <role>
+                            <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+                        </role>
+                    </name>
+                    <name authority="naf" type="corporate">
+                        <namePart>New York Zoological Society</namePart>
+                        <role>
+                            <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+                        </role>
+                    </name>
+                    <subject authority="fast">
+                        <topic>New York Aquarium</topic>
+                    </subject>
+                    <subject authority="fast">
+                        <geographic>New York (State)--New York--Brooklyn</geographic>
+                    </subject>
+                    <subject authority="fast">
+                        <geographic>New York (State)--New York--Coney Island</geographic>
+                    </subject>
+                    <originInfo>
+                        <dateCreated keyDate="yes" encoding="w3cdtf">1985</dateCreated>
+                        <publisher>New York Zoological Society</publisher>
+                    </originInfo>
+                    <abstract>Leaflet for the New York Aquarium from Winter 1985 detailing exhibits, news about certain animals and schedule for daily events</abstract>
+                    <note>Digitized by the Metropolitan New York Library Council as part of the Culture In Transit project, funded by a grant from the John S. and James L. Knight Foundation</note>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="aat">Leaflets (printed works)</genre>
+                    <physicalDescription>
+                        <extent>1 leaflet; 10cm x 23.5cm</extent>
+                        <internetMediaType>image/jp2</internetMediaType>
+                        <digitalOrigin>reformatted digital</digitalOrigin>
+                    </physicalDescription>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <relatedItem type="host" displayLabel="Collection">
+                        <titleInfo>
+                            <title>WCS Publications and Printed Ephemera Collection</title>
+                        </titleInfo>
+                    </relatedItem>
+                    <accessCondition>Copyright Wildlife Conservation Society. For rights and
+                        permissions, please contact the Wildlife Conservation Society Archives,
+                        library@wcs.org</accessCondition>
+                    <note type="ownership">Wildlife Conservation Society</note>
+                    <identifier type="local">wcs-2016-nya-eve14</identifier>
+                    <recordInfo>
+                        <languageOfCataloging>
+                            <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                        </languageOfCataloging>
+                    </recordInfo>
+                    <identifier xmlns="" type="uri"
+                        >http://dcmny.org/islandora/object/wcs%3A473</identifier>
+                </mods>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dcmny.org:wcs_472</identifier>
+                <datestamp>2015-09-15T16:57:08Z</datestamp>
+                <setSpec>wcs_ephemera</setSpec>
+            </header>
+            <metadata>
+                <mods xmlns="http://www.loc.gov/mods/v3"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+                    <titleInfo>
+                        <title>Invitation to a special morning at the New York Aquarium with the Brooklyn Delegation</title>
+                    </titleInfo>
+                    <name authority="naf" type="corporate">
+                        <namePart>New York Aquarium</namePart>
+                        <role>
+                            <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+                        </role>
+                    </name>
+                    <name authority="naf" type="corporate">
+                        <namePart>New York Zoological Society</namePart>
+                        <role>
+                            <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+                        </role>
+                    </name>
+                    <subject authority="fast">
+                        <topic>New York Aquarium</topic>
+                    </subject>
+                    <subject authority="fast">
+                        <geographic>New York (State)--New York--Brooklyn</geographic>
+                    </subject>
+                    <subject authority="fast">
+                        <geographic>New York (State)--New York--Coney Island</geographic>
+                    </subject>
+                    <originInfo>
+                        <dateCreated keyDate="yes" encoding="w3cdtf">1990</dateCreated>
+                        <publisher>New York Zoological Society</publisher>
+                    </originInfo>
+                    <abstract>Invitation to a special morning to the New York Aquarium on May 20, 1990 with the Brooklyn Delegation. Includes list of members of the Brooklyn Delegation and transportation directions to the Aquarium.</abstract>
+                    <note>Digitized by the Metropolitan New York Library Council as part of the Culture In Transit project, funded by a grant from the John S. and James L. Knight Foundation</note>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="aat">Invitations</genre>
+                    <physicalDescription>
+                        <extent>1 invitation; 10cm x 15.5cm</extent>
+                        <internetMediaType>image/jp2</internetMediaType>
+                        <digitalOrigin>reformatted digital</digitalOrigin>
+                    </physicalDescription>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <relatedItem type="host" displayLabel="Collection">
+                        <titleInfo>
+                            <title>WCS Publications and Printed Ephemera Collection</title>
+                        </titleInfo>
+                    </relatedItem>
+                    <accessCondition>Copyright Wildlife Conservation Society. For rights and
+                        permissions, please contact the Wildlife Conservation Society Archives,
+                        library@wcs.org</accessCondition>
+                    <note type="ownership">Wildlife Conservation Society</note>
+                    <identifier type="local">wcs-2016-nya-eve13</identifier>
+                    <recordInfo>
+                        <languageOfCataloging>
+                            <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                        </languageOfCataloging>
+                    </recordInfo>
+                    <identifier xmlns="" type="uri"
+                        >http://dcmny.org/islandora/object/wcs%3A472</identifier>
+                </mods>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dcmny.org:wcs_471</identifier>
+                <datestamp>2015-09-15T16:57:11Z</datestamp>
+                <setSpec>wcs_ephemera</setSpec>
+            </header>
+            <metadata>
+                <mods xmlns="http://www.loc.gov/mods/v3"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+                    <titleInfo>
+                        <title>Invitation to Opening Ceremony of new Shark Tank at New York Aquarium</title>
+                    </titleInfo>
+                    <name authority="naf" type="corporate">
+                        <namePart>New York Aquarium</namePart>
+                        <role>
+                            <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+                        </role>
+                    </name>
+                    <name authority="naf" type="corporate">
+                        <namePart>New York Zoological Society</namePart>
+                        <role>
+                            <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+                        </role>
+                    </name>
+                    <subject authority="fast">
+                        <topic>New York Aquarium</topic>
+                    </subject>
+                    <subject authority="fast">
+                        <geographic>New York (State)--New York--Brooklyn</geographic>
+                    </subject>
+                    <subject authority="fast">
+                        <geographic>New York (State)--New York--Coney Island</geographic>
+                    </subject>
+                    <originInfo>
+                        <dateCreated keyDate="yes" encoding="w3cdtf">1980</dateCreated>
+                        <publisher>New York Zoological Society</publisher>
+                    </originInfo>
+                    <abstract>Invitation to Opening Ceremony of new Shark Tank at New York Aquarium held on March 27, 1980</abstract>
+                    <note>Digitized by the Metropolitan New York Library Council as part of the Culture In Transit project, funded by a grant from the John S. and James L. Knight Foundation</note>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="aat">Invitations</genre>
+                    <physicalDescription>
+                        <extent>1 invitation; 15.5cm x 11.5cm</extent>
+                        <internetMediaType>image/jp2</internetMediaType>
+                        <digitalOrigin>reformatted digital</digitalOrigin>
+                    </physicalDescription>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <relatedItem type="host" displayLabel="Collection">
+                        <titleInfo>
+                            <title>WCS Publications and Printed Ephemera Collection</title>
+                        </titleInfo>
+                    </relatedItem>
+                    <accessCondition>Copyright Wildlife Conservation Society. For rights and
+                        permissions, please contact the Wildlife Conservation Society Archives,
+                        library@wcs.org</accessCondition>
+                    <note type="ownership">Wildlife Conservation Society</note>
+                    <identifier type="local">wcs-2016-nya-eve11</identifier>
+                    <recordInfo>
+                        <languageOfCataloging>
+                            <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                        </languageOfCataloging>
+                    </recordInfo>
+                    <identifier xmlns="" type="uri"
+                        >http://dcmny.org/islandora/object/wcs%3A471</identifier>
+                </mods>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dcmny.org:wcs_470</identifier>
+                <datestamp>2015-09-15T16:57:16Z</datestamp>
+                <setSpec>wcs_ephemera</setSpec>
+            </header>
+            <metadata>
+                <mods xmlns="http://www.loc.gov/mods/v3"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+                    <titleInfo>
+                        <title>Oceans Festival 1976 Calendar of Events, New York Aquarium</title>
+                    </titleInfo>
+                    <name authority="naf" type="corporate">
+                        <namePart>New York Aquarium</namePart>
+                        <role>
+                            <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+                        </role>
+                    </name>
+                    <name authority="naf" type="corporate">
+                        <namePart>New York Zoological Society</namePart>
+                        <role>
+                            <roleTerm type="text" authority="marcrelator">Creator</roleTerm>
+                        </role>
+                    </name>
+                    <subject authority="fast">
+                        <topic>New York Aquarium</topic>
+                    </subject>
+                    <subject authority="fast">
+                        <geographic>New York (State)--New York--Brooklyn</geographic>
+                    </subject>
+                    <subject authority="fast">
+                        <geographic>New York (State)--New York--Coney Island</geographic>
+                    </subject>
+                    <originInfo>
+                        <dateCreated keyDate="yes" encoding="w3cdtf">1967</dateCreated>
+                        <publisher>New York Zoological Society</publisher>
+                    </originInfo>
+                    <abstract>Booklet for the June 1976 Ocean Festival that took place at the New York Aquarium, detailing daily events in the grandstand and science stand and a map of the Aquarium</abstract>
+                    <note>Digitized by the Metropolitan New York Library Council as part of the Culture In Transit project, funded by a grant from the John S. and James L. Knight Foundation</note>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="aat">Booklets</genre>
+                    <physicalDescription>
+                        <extent>1 booklet; 12.5xcm x 18.5cm</extent>
+                        <internetMediaType>image/jp2</internetMediaType>
+                        <digitalOrigin>reformatted digital</digitalOrigin>
+                    </physicalDescription>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <relatedItem type="host" displayLabel="Collection">
+                        <titleInfo>
+                            <title>WCS Publications and Printed Ephemera Collection</title>
+                        </titleInfo>
+                    </relatedItem>
+                    <accessCondition>Copyright Wildlife Conservation Society. For rights and
+                        permissions, please contact the Wildlife Conservation Society Archives,
+                        library@wcs.org</accessCondition>
+                    <note type="ownership">Wildlife Conservation Society</note>
+                    <identifier type="local">wcs-2016-nya-eve10</identifier>
+                    <recordInfo>
+                        <languageOfCataloging>
+                            <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                        </languageOfCataloging>
+                    </recordInfo>
+                    <identifier xmlns="" type="uri"
+                        >http://dcmny.org/islandora/object/wcs%3A470</identifier>
+                </mods>
+            </metadata>
+        </record>
+        <resumptionToken expirationDate="2015-09-18T15:39:22Z" completeListSize="112" cursor="0">1931757570</resumptionToken>
+    </ListRecords>
+</OAI-PMH>

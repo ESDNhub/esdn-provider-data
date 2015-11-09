@@ -1,0 +1,1264 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2015-11-09T20:40:00Z</responseDate><request verb="ListRecords" set="fpfl" metadataPrefix="oai_dc">http://cdm16694.contentdm.oclc.org/oai/oai.php</request><ListRecords><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/0</identifier><datestamp>2012-05-16</datestamp><setSpec>fpfl</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/1</identifier><datestamp>2015-10-20</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>State Street Aqueduct, Fort Plain, New York</dc:title>
+<dc:description>Postcard view of the State Street Aqueduct that carried canal traffic over the Otsquago Creek in Fort Plain, New York.  This aqueduct was located west of present day Haslett Park and west of the present day Fort Plain Free Library&#x27;s River Street entrance.  The aqueduct was destroyed by flooding of the Otsquago Creek in the early 1980&#x27;s.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Canals; Erie Canal; Aqueducts; Fort Plain (N.Y.)</dc:subject>
+<dc:subject>Canals; Aqueducts; Photographs</dc:subject>
+<dc:subject>Architecture; Medicine, Science &amp; Technology; Transportation</dc:subject>
+<dc:coverage>Fort Plain - Montgomery County - New York</dc:coverage>
+<dc:date>9999</dc:date>
+<dc:format>Slides (photographs)</dc:format>
+<dc:source>Slide of postcard in cardboard mount; color; 35mm; 2 x 2 in. (5 x 5 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:identifier>ECLG007</dc:identifier>
+<dc:relation>Erie Canal</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses.  Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/1</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/2</identifier><datestamp>2015-10-19</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Fort Plain Free Library</dc:title>
+<dc:description>Harvey E. Williams opened the first tin and hardware store in the village of Fort Plain, New York in 1827.  His home (shown in the picture) was located in close proximity to the Erie Canal and lift bridge (left rear of picture) and was given by his descendents to the Fort Plain Free Library Association in 1909 as a permanent location for the library that had been chartered by the State of New York in 1894.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Canals; Erie Canal; Fort Plain (N.Y.); Rural libraries;</dc:subject>
+<dc:subject>Canals; Libraries; Photographs</dc:subject>
+<dc:subject>Architecture; Medicine, Science &amp; Technology; Transportation</dc:subject>
+<dc:coverage>Fort Plain - Montgomery County - New York</dc:coverage>
+<dc:date>9999</dc:date>
+<dc:format>Slides (photographs)</dc:format>
+<dc:source>Slide of photograph in cardboard mount; b&amp;w; 35 mm; 2 x 2 in. (5 x 5 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:identifier>ECLG006</dc:identifier>
+<dc:relation>Erie Canal</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses.  Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/2</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/3</identifier><datestamp>2015-10-20</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>The Kitty (Kittie) West</dc:title>
+<dc:description>The Kitty (Kittie) West was an excursion boat built in 1882.  The boat was 87 feet long and could hold 134 passengers.  The boat was sold in 1912  and was then used to transport produce along the Erie Canal.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Canals; Canal Boats; Erie Canal; Fort Plain (N.Y.)</dc:subject>
+<dc:subject>Canals; Canal boats; Photographs;</dc:subject>
+<dc:subject>Architecture; Medicine, Science &amp; Technology; Transportation</dc:subject>
+<dc:coverage>Fort Plain - Montgomery County - New York</dc:coverage>
+<dc:date>9999</dc:date>
+<dc:format>Slides (photographs)</dc:format>
+<dc:source>Slide of photograph in cardboard mount; b&amp;w; 35 mm; 2 x 2 in. (5 x 5 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:identifier>ECLG008</dc:identifier>
+<dc:relation>Erie Canal</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses.  Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/3</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/4</identifier><datestamp>2015-10-20</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>View of Fort Plain from Prospect Hill 1879</dc:title>
+<dc:description>View of Fort Plain, the Erie Canal, and the Mohawk River  mid 1800&#x27;s. Pictured are bridges spanning the Erie Canal from present day Canal and State Streets.  Canal  boats are show navigating the canal.  To the far left of the picture,  a covered bridge spans the Mohawk River connecting Fort Plain to Nelliston, NY.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Canals; Fort Plain (N.Y.); Erie Canal</dc:subject>
+<dc:subject>Canals; Photographs;</dc:subject>
+<dc:subject>Architecture; Medicine, Science &amp; Technology; Transportation; Geography &amp; Maps</dc:subject>
+<dc:coverage>Fort Plain - Montgomery County - New York</dc:coverage>
+<dc:date>9999</dc:date>
+<dc:format>Slides (photographs)</dc:format>
+<dc:source>Slide of sketch in cardboard mount; b&amp;w; 35 mm; 2 x 2 in.(5 x 5 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:identifier>ECLG009</dc:identifier>
+<dc:relation>Erie Canal</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses.  Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/4</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/5</identifier><datestamp>2015-10-19</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Fineour&#x27;s Canal Store</dc:title>
+<dc:description>A photograph of Fred Fineour&#x27;s canal store taken circa 1890.  Fred Fineour&#x27;s store dealt in groceries, provisions, hay, oats, straw, hardwood, bow and tie lines for both canalers and local residents.  The store was located on present day State Street in Fort Plain, NY.   Pictured in the photograph are Fred Fineour (leaning against post), Minnie Fineour (daughter of Fred Fineour standing to his right), Kitty VanSlyke Fineour (wife of Fred Fineour standing to Minnie&#x27;s right). little boy unkown and woman with hat unknown.  The building was disassembled and is currently at the New York State Museum.  A replica built to scale of the Fineour Store is on permanent display at the Fort Plain Museum.  This picture is a slide of the original photograph.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Canals; Erie Canal; Fort Plain (N.Y.)</dc:subject>
+<dc:subject>Canals; General Stores; Photographs;</dc:subject>
+<dc:subject>Architecture; Medicine, Science &amp; Technology; Transportation;</dc:subject>
+<dc:coverage>Fort Plain - Montgomery County - New York</dc:coverage>
+<dc:format>Slides (photographs)</dc:format>
+<dc:source>Slide of photograph in cardboard mount; b&amp;w; 35mm; 2 x 2 in. (5 x 5 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:identifier>ECLG004</dc:identifier>
+<dc:relation>Erie Canal</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses.  Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/5</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/6</identifier><datestamp>2015-10-19</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Winter maintenance of Erie Canal</dc:title>
+<dc:description>Photograph showing winter maintenance of the Erie Canal in Fort Plain, New York.  The view of the canal looks west behind the buildings which now line present day Canal Street.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Canal construction workers; Canals; Erie Canal; Fort Plain (N.Y.);</dc:subject>
+<dc:subject>Canal construction; Canal construction workers; Canals; Photographs;</dc:subject>
+<dc:subject>Architecture; Medicine, Science &amp; Technology; Transportation</dc:subject>
+<dc:coverage>Fort Plain - Montgomery County - New York</dc:coverage>
+<dc:date>9999</dc:date>
+<dc:format>Slides (photographs)</dc:format>
+<dc:source>Slide of photograph in cardboard mount; b&amp;w; 35 mm; 2 x 2 in. (5 x 5 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:identifier>ECLG010</dc:identifier>
+<dc:relation>Erie Canal</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses.  Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/6</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/7</identifier><datestamp>2015-10-19</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Enlarging the Erie Canal in Fort Plain, New York</dc:title>
+<dc:description>Photograph of workers enlarging the Erie Canal along Hancock Street in Fort Plain, New York.  Enlarging the canal took place between the years 1836 and 1862.  The width of the canal was increased from 40 feet to 70 feet.  The depth increased from 4 feet to 7 feet.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Canal construction workers; Canals; Erie Canal; Fort Plain (N.Y.);</dc:subject>
+<dc:subject>Canal construction; Canal construction workers; Canals; Photographs;</dc:subject>
+<dc:subject>Architecture; Medicine, Science &amp; Technology; Transportation</dc:subject>
+<dc:coverage>Fort Plain - Montgomery County - New York</dc:coverage>
+<dc:date>9999</dc:date>
+<dc:format>Slides (photographs)</dc:format>
+<dc:source>Slide of photograph in cardboard mount; b&amp;w; 35mm; 2 x 2 in. (5 x 5 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:identifier>ECLG002</dc:identifier>
+<dc:relation>Erie Canal</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses.  Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/7</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/8</identifier><datestamp>2012-05-24</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Boat passing over State Street aqueduct</dc:title>
+<dc:description>Photograph of a boat passing over the State Street aqueduct heading west through the village of Fort Plain with a crowd of Fort Plain residents watching on.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Erie Canal; Canal aqueducts; Canal Boats; Fort Plain (N.Y.);</dc:subject>
+<dc:subject>Aqueducts; Canal boats; Photographs;</dc:subject>
+<dc:subject>Architecture; Medicine, Science &amp; Technology; Transportation</dc:subject>
+<dc:coverage>Fort Plain -  Montgomery County -  New York</dc:coverage>
+<dc:format>Slides (photographs)</dc:format>
+<dc:source>Slide of photograph in cardboard mount; b&amp;w; 35mm; 2 x 2 in. (5 x 5 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:identifier>ECLG001</dc:identifier>
+<dc:relation>Erie Canal</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses.  Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/8</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/9</identifier><datestamp>2012-05-24</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Fort Plain Erie Canal Aqueduct</dc:title>
+<dc:description>A postcard view of the State Street aqueduct in Fort Plain, New York looking west along the Erie Canal.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Canals; Erie Canal; Aqueducts; Fort Plain (N.Y.)</dc:subject>
+<dc:subject>Canals; Aqueducts; Photographs</dc:subject>
+<dc:subject>Architecture; Medicine, Science &amp; Technology; Transportation</dc:subject>
+<dc:coverage>Fort Plain - Montgomery County - New York</dc:coverage>
+<dc:format>Slides (photographs)</dc:format>
+<dc:source>Slide of a postcard in cardboard mount; color; 35 mm; 2 x 2 in. (5 x 5 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:identifier>ECLG005</dc:identifier>
+<dc:relation>Erie Canal</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses.  Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/9</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/10</identifier><datestamp>2015-10-19</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Erie Canal Lock 32</dc:title>
+<dc:description>A view looking west toward Erie Canal Lock 32 in Fort Plain, New York.  To the right of the lock is the towpath.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Canals; Erie Canal; Fort Plain (N.Y.)</dc:subject>
+<dc:subject>Canals; Photographs</dc:subject>
+<dc:subject>Architecture; Medicine, Science &amp; Technology; Transportation</dc:subject>
+<dc:coverage>Fort Plain - Montgomery County - New York</dc:coverage>
+<dc:date>9999</dc:date>
+<dc:format>Slides (photographs)</dc:format>
+<dc:source>Slide of photograph in cardboard mount; b&amp;w; 35 mm; 2 x 2 in. (5 x 5 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:identifier>ECLG003</dc:identifier>
+<dc:relation>Erie Canal</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses.  Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/10</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/11</identifier><datestamp>2012-05-16</datestamp><setSpec>fpfl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/12</identifier><datestamp>2012-05-16</datestamp><setSpec>fpfl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/13</identifier><datestamp>2012-05-16</datestamp><setSpec>fpfl</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/14</identifier><datestamp>2015-10-20</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>The armory at Clinton Liberal Institute</dc:title>
+<dc:description>The armory at the Clinton Liberal Institute was built in 1891.  At the time it was one of the largest armories in the country.  The armory was adjoined to the cadets&#x27; gymnasium and the drill floor measured 150x82 feet. The main purpose of the armory was for military drill but it also served all indoor athletic sports, in addition to dances and sociable gatherings.  The armory was connected to the main building by a covered passageway.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Armories; Military education; Clinton Liberal Institute; Fort Plain (N.Y.) ; Drill and minor tactics; Military cadets; Boarding schools</dc:subject>
+<dc:subject>Photographs; Military bands; Military education; Military training; Military facilities; Military academies; Cadets; Military uniforms</dc:subject>
+<dc:subject>Clinton Liberal Institute</dc:subject>
+<dc:subject>Education; Military &amp; War; Architecture; People;</dc:subject>
+<dc:coverage>Fort Plain - Montgomery County -  New York</dc:coverage>
+<dc:date>9999</dc:date>
+<dc:format>Slides (photographs)</dc:format>
+<dc:source>photographs of slides in cardboard mounts; b&amp;w; 35mm; 2 x 2 in. (5 x 5 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:identifier>CLIB1019</dc:identifier>
+<dc:relation>Clinton Liberal Institute</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses.  Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/14</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/15</identifier><datestamp>2015-10-20</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>The gazebo at Clinton Liberal Institute</dc:title>
+<dc:description>A group of unidentified women relaxing in the gazebo which was built on the hill to the right of the front right entrance of the Clinton Liberal Institute.   The gazebo overlooked present day West Street and downtown Fort Plain, New York.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Clinton Liberal Institute; Fort Plain (N.Y.) ; Military academy; Boarding schools; Private schools; Preparatory schools</dc:subject>
+<dc:subject>Boarding schools; Private schools; Schools; Gazebos;</dc:subject>
+<dc:subject>Clinton Liberal Institute</dc:subject>
+<dc:subject>Education; Military &amp; War; Architecture; People;</dc:subject>
+<dc:coverage>Fort Plain - Montgomery County -  New York</dc:coverage>
+<dc:date>9999</dc:date>
+<dc:format>Slides (photographs)</dc:format>
+<dc:source>photographs of slides in cardboard mounts; b&amp;w; 35mm; 2 x 2 in. (5 x 5 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:identifier>CLIB1022</dc:identifier>
+<dc:relation>Clinton Liberal Institute</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses.  Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/15</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/16</identifier><datestamp>2012-05-24</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Cadets on front lawn of Clinton Liberal Institute</dc:title>
+<dc:description>Photograph of the Clinton Liberal Institute Battalion of Cadets taken in front of the school in 1892.  The group of officers standing from left to right are Cadet 1st Lieutenant Willard Chamberlain of Freehold, NJ, Professor Birney E. Trask, teacher of mathematics, Cadet Captain Frank H. Fayant, Fort Plain, NY, Professor James Warbasse, teacher of bookkeeping, Captain E. J. Stivers, U.S.A, retired, Commandant of Cadets, Professor Tracy E. Clark, teacher of science, Cadet Captain Carlton A. Perry, Fort Plain, NY, and Cadet 1st Lieutenant C. Ralph Corbin, Binghamton, NY.  Sitting left to right are Cadet 2nd Lieutenant  Fred Eaton, Little Falls, NY, Cadet 2nd Lieutenant Clifford Crowell, Catskill, NY, Cadet 2nd Lieutenant Fred Link, Erie, PA, Cadet Sargeant Major Gilbert Holmes, Redwood, NY, Cadet 2nd Lieutenant Murray Hines, North Adams, MA.  Standing on the porch 3rd from the right is Professor Charles V. Parsell( heavy bearded), President of the Institute from 1879 to 1893.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Clinton Liberal Institute; Fort Plain (N.Y.); Military education; Military cadets; Boarding schools; Private schools</dc:subject>
+<dc:subject>Photographs; Cadets; Uniforms; Military academies; Military education; Boarding schools; Private schools;</dc:subject>
+<dc:subject>Clinton Liberal Institute</dc:subject>
+<dc:subject>Education; Military &amp; War; Architecture; People;</dc:subject>
+<dc:coverage>Fort Plain - Montgomery County -  New York</dc:coverage>
+<dc:format>Slides (photographs)</dc:format>
+<dc:source>photographs of slides in cardboard mounts; b&amp;w; 35mm; 2 x 2 in. (5 x 5 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:identifier>CLIB1002</dc:identifier>
+<dc:relation>Clinton Liberal Institute</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses.  Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/16</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/17</identifier><datestamp>2012-05-16</datestamp><setSpec>fpfl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/18</identifier><datestamp>2012-05-16</datestamp><setSpec>fpfl</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/19</identifier><datestamp>2015-10-20</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>The Clinton Liberal Institute Cadet Band</dc:title>
+<dc:description>Pictured is the Clinton Liberal Institute Cadet Band comprised of coronets, trombones, a Helicon tuba, a snare drum, bass drum, and cymbals.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Clinton Liberal Institute; Fort Plain (N.Y.); Boarding schools; Private schools; Military academy; Military cadets; Military music; Bands (Music)</dc:subject>
+<dc:subject>Photographs; Bands; Military academies; Military bands; Boarding schools; Private schools</dc:subject>
+<dc:subject>Clinton Liberal Institute</dc:subject>
+<dc:subject>Education; Military &amp; War; Architecture; People;</dc:subject>
+<dc:coverage>Fort Plain - Montgomery County -  New York</dc:coverage>
+<dc:date>9999</dc:date>
+<dc:format>Slides (photographs)</dc:format>
+<dc:source>photographs of slides in cardboard mounts; b&amp;w; 35mm; 2 x 2 in. (5 x 5 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:identifier>CLIB1021</dc:identifier>
+<dc:relation>Clinton Liberal Institute</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses.  Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/19</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/20</identifier><datestamp>2012-05-16</datestamp><setSpec>fpfl</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/21</identifier><datestamp>2012-05-24</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Drawing of Fort Plain with the Clinton Liberal Institute in the background</dc:title>
+<dc:description>The drawing shows the village of Fort Plain, New York from the Nelliston side of the Mohawk River.  In the background of the drawing sits the Fort Plain Seminary and Collegiate Institute on what was once called &quot;Seminary Hill.&quot;  The school fell upon hard times during the 1870&#x27;s and had decided to close in 1878 when it was taken over by the Clinton Liberal Institute which moved to Fort Plain from Clinton, New York,  in 1879.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Clinton Liberal Institute; Fort Plain (N.Y.); Mohawk River; Fort Plain Seminary and Collegiate Institute</dc:subject>
+<dc:subject>Sketches;</dc:subject>
+<dc:subject>Clinton Liberal Institute</dc:subject>
+<dc:subject>Education; Military &amp; War; Architecture; People; Geography &amp; Maps</dc:subject>
+<dc:coverage>Fort Plain - Montgomery County -  New York</dc:coverage>
+<dc:format>Slides (photographs)</dc:format>
+<dc:source>photographs of slides in cardboard mounts; b&amp;w; 35mm; 2 x 2 in. (5 x 5 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:identifier>CLIB1017</dc:identifier>
+<dc:relation>Clinton Liberal Institute</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses.  Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/21</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/22</identifier><datestamp>2012-05-16</datestamp><setSpec>fpfl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/23</identifier><datestamp>2012-05-16</datestamp><setSpec>fpfl</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/24</identifier><datestamp>2015-10-20</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>View of the Clinton Liberal Institute and downtown Fort Plain from Prospect Hill</dc:title>
+<dc:description>A photograph of the village of Fort Plain.  In the background sitting atop Seminary Hill is the Clinton Liberal Institute.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Clinton Liberal Institute; Fort Plain (N.Y.); Military academy; Boarding schools; Private schools; Preparatory schools; Village communities;</dc:subject>
+<dc:subject>Military academies; Boarding schools; Private schools; Villages; Photographs;</dc:subject>
+<dc:subject>Clinton Liberal Institute</dc:subject>
+<dc:subject>Education; Military &amp; War; Architecture; People; Geography &amp; Maps</dc:subject>
+<dc:coverage>Fort Plain - Montgomery County -  New York</dc:coverage>
+<dc:date>9999</dc:date>
+<dc:format>Slides (photographs)</dc:format>
+<dc:source>photographs of slides in cardboard mounts; b&amp;w; 35mm; 2 x 2 in. (5 x 5 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:identifier>CLIB1023</dc:identifier>
+<dc:relation>Clinton Liberal Institute</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses.  Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/24</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/25</identifier><datestamp>2012-05-16</datestamp><setSpec>fpfl</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/26</identifier><datestamp>2012-05-24</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Clinton Liberal Institute Cadets at target practice</dc:title>
+<dc:description>Clinton Liberal Institute cadets are shown in front of the armory engaged in battle formation with infantry fire. A course in the instruction and practice of rifle firing was given at the Institute. The Ordinance Department of the United States Army furnished the Institute with arms and equipment for Infantry, Artillery, and Signal Corps, as well as with all the necessary ammunition.  An officer of the U.S. Army was in charge of the Military Department within the Institute.  Cadets were offered a preparatory course for entrance into West Point and Annapolis.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Military education; Military cadets; Drill and minor tactics; Military supplies; Shooting, Military; Signals and signaling; Clinton Liberal Institute; Fort Plain (N.Y.); Boarding schools; Private schools; Preparatory schools;</dc:subject>
+<dc:subject>Armories; Arms &amp; armament; Cadets; Military academies; Military training; Photographs;;</dc:subject>
+<dc:subject>Clinton Liberal Institute</dc:subject>
+<dc:subject>Education; Military &amp; War; Architecture; People;</dc:subject>
+<dc:coverage>Fort Plain - Montgomery County -  New York</dc:coverage>
+<dc:format>Slides (photographs)</dc:format>
+<dc:source>photographs of slides in cardboard mounts; b&amp;w; 35mm; 2 x 2 in. (5 x 5 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:identifier>CLIB1005</dc:identifier>
+<dc:relation>Clinton Liberal Institute</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses.  Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/26</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/27</identifier><datestamp>2015-10-20</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>View of the Clinton Liberal Institute from present day West Street</dc:title>
+<dc:description>The Clinton Liberal Institute comprised nine and one-half acres.  There were four buildings on site.  The main building (shown) was six stories high and contained classrooms, a chapel, the library, reception rooms, an auditorium, student rooms, and a dining room. The other three buildings were the ladies&#x27; gymnasium, the mens&#x27; gymnasium, and the armory.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Clinton Liberal Institute; Fort Plain (N.Y.); Boarding schools; School buildings; Military education;</dc:subject>
+<dc:subject>Photographs; Boarding schools; Private schools; Military academies</dc:subject>
+<dc:subject>Clinton Liberal Institute</dc:subject>
+<dc:subject>Education; Military &amp; War; Architecture; People; Geography &amp; Maps</dc:subject>
+<dc:coverage>Fort Plain - Montgomery County -  New York</dc:coverage>
+<dc:date>9999</dc:date>
+<dc:format>Slides (photographs)</dc:format>
+<dc:source>photographs of slides in cardboard mounts; b&amp;w; 35mm; 2 x 2 in. (5 x 5 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:identifier>CLIB1024</dc:identifier>
+<dc:relation>Clinton Liberal Institute</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses.  Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/27</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/28</identifier><datestamp>2012-05-16</datestamp><setSpec>fpfl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/29</identifier><datestamp>2012-05-16</datestamp><setSpec>fpfl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/30</identifier><datestamp>2012-05-16</datestamp><setSpec>fpfl</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/31</identifier><datestamp>2012-05-16</datestamp><setSpec>fpfl</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/32</identifier><datestamp>2015-10-19</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Clinton Liberal Institute destroyed by fire March, 1900</dc:title>
+<dc:description>On March 25, 1900 the Clinton Liberal Institute burned to the ground.  While the students and faculty were away at spring break, a fire broke out while the building was being fumigated as a result of a scarlet fever epidemic.  The loss was estimated at $100,000.  It was hoped that the Universalist Society would take over the rebuilding of the school but that did not happen.  The seminary, however, was moved to St. Lawrence University in Canton, New York.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Military education; Fires; Ruins; Fort Plain (N.Y.); Clinton Liberal Institute</dc:subject>
+<dc:subject>Photographs; Fires; Boarding schools; Private schools; Military academies;</dc:subject>
+<dc:subject>Clinton Liberal Institute</dc:subject>
+<dc:subject>Education; Military &amp; War; Architecture; People;</dc:subject>
+<dc:coverage>Fort Plain - Montgomery County -  New York</dc:coverage>
+<dc:date>1900-03-25</dc:date>
+<dc:format>Slides (photographs)</dc:format>
+<dc:source>photographs of slides in cardboard mounts; b&amp;w; 35mm; 2 x 2 in. (5 x 5 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:identifier>CLIB1006</dc:identifier>
+<dc:relation>Clinton Liberal Institute</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses.  Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/32</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/33</identifier><datestamp>2015-10-20</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>View of the Clinton Liberal Institute from the Prospect Hill area of Fort Plain</dc:title>
+<dc:description>A photograph of the village of Fort Plain from the Prospect Hill area of the town.  In the background sits the Clinton Liberal Institute on what once was called Seminary Hill.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Clinton Liberal Institute; Fort Plain (N.Y.); Military academy; Preparatory schools; Village communities;</dc:subject>
+<dc:subject>Photographs; Military academies; Villages;</dc:subject>
+<dc:subject>Clinton Liberal Institute</dc:subject>
+<dc:subject>Education; Military &amp; War; Architecture; People; Geography &amp; Maps</dc:subject>
+<dc:coverage>Fort Plain - Montgomery County -  New York</dc:coverage>
+<dc:date>9999</dc:date>
+<dc:format>Slides (photographs)</dc:format>
+<dc:source>photographs of slides in cardboard mounts; b&amp;w; 35mm; 2 x 2 in. (5 x 5 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:identifier>CLIB1025</dc:identifier>
+<dc:relation>Clinton Liberal Institute</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses.  Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/33</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/34</identifier><datestamp>2012-05-16</datestamp><setSpec>fpfl</setSpec></header>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/35</identifier><datestamp>2015-10-20</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Remains of the burned out Clinton Liberal Institute</dc:title>
+<dc:description>What is left of the Clinton Liberal Institute following the fire on March 25, 1900 is shown in this photograph.  The building made of wood and brick was quickly engulfed in flames.  Although outfitted with sprinkler systems the low water pressure made it impossible to contain the fire.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Clinton Liberal Institute; Fort Plain (N.Y.); Fires; Boarding schools; Private schools</dc:subject>
+<dc:subject>Boarding schools; Private schools; Fires; Photographs</dc:subject>
+<dc:subject>Clinton Liberal Institute</dc:subject>
+<dc:subject>Education; Military &amp; War; Architecture; People;</dc:subject>
+<dc:coverage>Fort Plain - Montgomery County -  New York</dc:coverage>
+<dc:date>1900-03-25</dc:date>
+<dc:format>Slides (photographs)</dc:format>
+<dc:source>photographs of slides in cardboard mounts; b&amp;w; 35mm; 2 x 2 in. (5 x 5 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:identifier>CLIB1018</dc:identifier>
+<dc:relation>Clinton Liberal Institute</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses.  Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/35</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/36</identifier><datestamp>2012-05-24</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Clinton Liberal Institute female cadets at drill practice</dc:title>
+<dc:description>In 1892, female students at the CLI began to take regular military drill as depicted in the photograph.  They drilled twice a week for one hour at a time.  The school adopted this program as a result of their belief that this form of exercise was as beneficial to young ladies as it was to men.  The ladies wore a special uniform consisting of a dark blue blazer and skirt, a white vest, and a cap.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Clinton Liberal Institute; Fort Plain (N.Y.); Boarding schools; Private schools; Women -- Education; Military education</dc:subject>
+<dc:subject>Photographs; Boarding schools; Private schools; Cadets; Military academies; Women&#x27;s education</dc:subject>
+<dc:subject>Clinton Liberal Institute</dc:subject>
+<dc:subject>Education; Military &amp; War; Architecture; People</dc:subject>
+<dc:coverage>Fort Plain - Montgomery County -  New York</dc:coverage>
+<dc:format>Slides (photographs)</dc:format>
+<dc:source>photographs of slides in cardboard mounts; b&amp;w; 35mm; 2 x 2 in. (5 x 5 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:identifier>CLIB1008</dc:identifier>
+<dc:relation>Clinton Liberal Institute</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses.  Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/36</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/37</identifier><datestamp>2015-10-19</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Clinton Liberal Institute Mathematics room</dc:title>
+<dc:description>In the room pictured in the photograph the following courses were taught at the Clinton Liberal Institute:  Academic Algebra, Higher Algebra, Plane Geometry, Solid Geometry, Plane and Spherical Trigonometry, Conic Sections and Surveying.  Pictured are dictation settees used by the students, teacher&#x27;s desk, and instruments used in the surveying course.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Clinton Liberal Institute; Fort Plain (N.Y.); Private schools; Boarding schools; Preparatory schools; Arbitration, Industrial; Work songs; Mathematics;</dc:subject>
+<dc:subject>Photographs; Classrooms; Boarding schools; Private schools; Mathematics; Surveying equipment;</dc:subject>
+<dc:subject>Clinton Liberal Institute</dc:subject>
+<dc:subject>Education; Military &amp; War; Architecture; People</dc:subject>
+<dc:coverage>Fort Plain - Montgomery County -  New York</dc:coverage>
+<dc:date>9999</dc:date>
+<dc:format>Slides (photographs)</dc:format>
+<dc:source>photographs of slides in cardboard mounts; b&amp;w; 35mm; 2 x 2 in. (5 x 5 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:identifier>CLIB1013</dc:identifier>
+<dc:relation>Clinton Liberal Institute</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses.  Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/37</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/38</identifier><datestamp>2012-05-24</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Clinton Liberal Institute students at fencing practice</dc:title>
+<dc:description>Cadets practicing fencing in the armory of the CLI.  Equipment for fencing (masks, jackets, and foils)  along with equipment for other sports such as boxing was stored in the armory.  In the background of this photograph one can see the musical instruments stored for the cadet band.  Also shown are the flags of the nations  hanging from the rafters.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Clinton Liberal Institute; Fort Plain (N.Y.); Physical education and training; Fencing; Military academy;</dc:subject>
+<dc:subject>Photographs; Boarding schools; Private schools; Fencers; Fencing;</dc:subject>
+<dc:subject>Clinton Liberal Institute</dc:subject>
+<dc:subject>Education; Military &amp; War; Architecture; People</dc:subject>
+<dc:coverage>Fort Plain - Montgomery County -  New York</dc:coverage>
+<dc:format>Slides (photographs)</dc:format>
+<dc:source>photographs of slides in cardboard mounts; b&amp;w; 35mm; 2 x 2 in. (5 x 5 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:identifier>CLIB1015</dc:identifier>
+<dc:relation>Clinton Liberal Institute</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses.  Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/38</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/39</identifier><datestamp>2012-05-24</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Clinton Liberal Institute auditorium/chapel</dc:title>
+<dc:description>The Clinton Liberal Institute was owned by the Universalist Society of New York.  Students enrolled at the school were required to attend chapel services.  Shown is the CLI chapel along with a portion of the chapel stage.  The chapel was located on both the fourth and fifth floors of the CLI building.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Clinton Liberal Institute; Fort Plain (N.Y.); Universalist churches; Preparatory schools; Military academy; Boarding schools; Private schools</dc:subject>
+<dc:subject>Auditoriums; Chapels; Boarding schools; Photographs; Military academies; Private schools</dc:subject>
+<dc:subject>Clinton Liberal Institute</dc:subject>
+<dc:subject>Education; Military &amp; War; Architecture; People;</dc:subject>
+<dc:coverage>Fort Plain - Montgomery County -  New York</dc:coverage>
+<dc:format>Slides (photographs)</dc:format>
+<dc:source>photographs of slides in cardboard mounts; b&amp;w; 35mm; 2 x 2 in. (5 x 5 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:identifier>CLIB1003</dc:identifier>
+<dc:relation>Clinton Liberal Institute</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses.  Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/39</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/40</identifier><datestamp>2015-10-19</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Art Class at the Clinton Liberal Institute</dc:title>
+<dc:description>Pictured is one of four rooms which comprised the art studio suite at the CLI.  Full time students in the School of Art were entitled to three hours practice in the studio a day while part-time students were allowed three hours two days a week.  Art courses in sketching, painting, and art history were offered.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Clinton Liberal Institute; Art students; Art -- Study and teaching; Boarding schools; Private schools; Preparatory schools; Classrooms</dc:subject>
+<dc:subject>Art education; Photographs; Boarding schools; Private schools; Schools</dc:subject>
+<dc:subject>Clinton Liberal Institute</dc:subject>
+<dc:subject>Education; Military &amp; War; Architecture; People;</dc:subject>
+<dc:coverage>Fort Plain - Montgomery County -  New York</dc:coverage>
+<dc:date>9999</dc:date>
+<dc:format>Slides (photographs)</dc:format>
+<dc:source>photographs of slides in cardboard mounts; b&amp;w; 35mm; 2 x 2 in. (5 x 5 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:identifier>CLIB1001</dc:identifier>
+<dc:relation>Clinton Liberal Institute</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses.  Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/40</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/41</identifier><datestamp>2012-05-24</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Clinton Liberal Institute gymnasium</dc:title>
+<dc:description>A photograph of the gentlemen&#x27;s gymnasium is shown here.  The gentlemen&#x27;s gymnasium was 70 feet long and 35 feet wide and two stories high.  The second story is depicted showing some of the gymnastic equipment:  ropes, ladders, and parallel bars.  The first story (not shown) contained 4 bowling alleys, trapezes, and vaulting standards.  All boarding cadets had to pay a gymnasium fee of $3.00 each and a tax of $.75 each session.  Day students were excused from paying the fee if they chose not to pay but then were not allowed use of the gymnasium or armory except for drill and ceremonies.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Clinton Liberal Institute; Fort Plain (N.Y.); Boarding schools; Private schools; Athletics Equipment and supplies; Gymnasiums -- Equipment and supplies</dc:subject>
+<dc:subject>Sporting goods; Gymnasiums; Gymnastics; Photographs; Boarding schools; Private schools; Sports;</dc:subject>
+<dc:subject>Clinton Liberal Institute</dc:subject>
+<dc:subject>Education; Military &amp; War; Architecture; People</dc:subject>
+<dc:coverage>Fort Plain - Montgomery County -  New York</dc:coverage>
+<dc:format>Slides (photographs)</dc:format>
+<dc:source>photographs of slides in cardboard mounts; b&amp;w; 35mm; 2 x 2 in. (5 x 5 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:identifier>CLIB1009</dc:identifier>
+<dc:relation>Clinton Liberal Institute</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses.  Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/41</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/42</identifier><datestamp>2012-05-24</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Clinton Liberal Institute science room</dc:title>
+<dc:description>This photograph shows the general science recitation room.  The room had 60 feet of cases which stored the school&#x27;s museum collection in conchology, geology, botany, and biology.  In addition to this room, there were three other science rooms comprising 1,571 square feet altogether.  In the background of the photo a professor and his students can be seen.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Clinton Liberal Institute; Fort Plain (N.Y.); Private schools; Boarding schools; Science -- Study and teaching; Laboratories; Scientific apparatus and instruments; Classrooms;</dc:subject>
+<dc:subject>Boarding schools; Photographs; Private schools; Science; Scientific equipment; Classrooms;</dc:subject>
+<dc:subject>Clinton Liberal Institute</dc:subject>
+<dc:subject>Education; Military &amp; War; Architecture; People</dc:subject>
+<dc:coverage>Fort Plain - Montgomery County -  New York</dc:coverage>
+<dc:format>Slides (photographs)</dc:format>
+<dc:source>photographs of slides in cardboard mounts; b&amp;w; 35mm; 2 x 2 in. (5 x 5 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:identifier>CLIB1014</dc:identifier>
+<dc:relation>Clinton Liberal Institute</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses.  Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/42</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/43</identifier><datestamp>2012-05-24</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Clinton Liberal Institute kitchen</dc:title>
+<dc:description>Ladies are shown in this photograph preparing one of the three meals a day provided to those students boarding at the CLI.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Clinton Liberal Institute; Fort Plain (N.Y.); Boarding schools; Kitchens; Military education; Preparatory schools</dc:subject>
+<dc:subject>Boarding schools; Private schools; Photographs; Kitchens;</dc:subject>
+<dc:subject>Clinton Liberal Institute</dc:subject>
+<dc:subject>Education; Military &amp; War; Architecture; People</dc:subject>
+<dc:coverage>Fort Plain - Montgomery County -  New York</dc:coverage>
+<dc:format>Slides (photographs)</dc:format>
+<dc:source>photographs of slides in cardboard mounts; b&amp;w; 35mm; 2 x 2 in. (5 x 5 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:identifier>CLIB1010</dc:identifier>
+<dc:relation>Clinton Liberal Institute</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses.  Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/43</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/44</identifier><datestamp>2012-05-24</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Clinton Liberal Institute dining room</dc:title>
+<dc:description>The main section of the dining room was 72 feet long by 28 feet wide.  A room of 24 feet long and 19 feet wide opened into it.  Table room was provided for about 200 students and teachers.  Teachers were in charge of each table.  A Cadet officer served as carver and also was responsible for the conduct of those at the table when the teacher was not present.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Clinton Liberal Institute; Fort Plain (N.Y.); Boarding schools; Dining rooms; Table etiquette</dc:subject>
+<dc:subject>Dining rooms; Dining tables; Boarding schools; Private schools; Photographs;</dc:subject>
+<dc:subject>Clinton Liberal Institute</dc:subject>
+<dc:subject>Education; Military &amp; War; Architecture; People;</dc:subject>
+<dc:coverage>Fort Plain - Montgomery County -  New York</dc:coverage>
+<dc:format>Slides (photographs)</dc:format>
+<dc:source>photographs of slides in cardboard mounts; b&amp;w; 35mm; 2 x 2 in. (5 x 5 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:identifier>CLIB1007</dc:identifier>
+<dc:relation>Clinton Liberal Institute</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses.  Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/44</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/45</identifier><datestamp>2012-05-24</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Clinton Liberal Institute lecture hall/classroom</dc:title>
+<dc:description>As described in the 1893 Clinton Liberal Institute catalog classrooms were supplied with&quot; the best of modern desks&quot; as pictured here in what was considered a lecture hall.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Clinton Liberal Institute; Fort Plain (N.Y.); Boarding schools; Private schools; Classrooms</dc:subject>
+<dc:subject>Photographs; Classrooms; Lecture halls; Boarding schools; Private schools; Military academies</dc:subject>
+<dc:subject>Clinton Liberal Institute</dc:subject>
+<dc:subject>Education; Military &amp; War; Architecture; People</dc:subject>
+<dc:coverage>Fort Plain - Montgomery County -  New York</dc:coverage>
+<dc:format>Slides (photographs)</dc:format>
+<dc:source>photographs of slides in cardboard mounts; b&amp;w; 35mm; 2 x 2 in. (5 x 5 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:identifier>CLIB1011</dc:identifier>
+<dc:relation>Clinton Liberal Institute</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses.  Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/45</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/46</identifier><datestamp>2012-05-24</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Clinton Liberal Institute Library</dc:title>
+<dc:description>The library of the CLI in 1898 boasted 4000 volumes of which 1200 were reference books.  A librarian was in attendance to aid in the borrowing and consultation of books.  Pictured are female students and male cadets engaged in reading and studying.  In addition to the library there were two large reading rooms, one for the ladies and one for the cadets.  These rooms were supplied with the popular magazines of the day and the daily and weekly newspapers from New York City, Albany, and Utica, New York.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Libraries; Clinton Liberal Institute;Fort Plain (N.Y.); Boarding schools; Boarding school students; Military cadets; School libraries; Military education; Preparatory schools; Women -- Education;</dc:subject>
+<dc:subject>Photographs; Libraries; Libraries (Rooms); Military academies; Private schools; Boarding schools;</dc:subject>
+<dc:subject>Clinton Liberal Institute</dc:subject>
+<dc:subject>Education; Military &amp; War; Architecture; People</dc:subject>
+<dc:coverage>Fort Plain - Montgomery County -  New York</dc:coverage>
+<dc:format>Slides (photographs)</dc:format>
+<dc:source>photographs of slides in cardboard mounts; b&amp;w; 35mm; 2 x 2 in. (5 x 5 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:identifier>CLIB1012</dc:identifier>
+<dc:relation>Clinton Liberal Institute</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses.  Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/46</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/47</identifier><datestamp>2012-05-24</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Clinton Liberal Institute boiler room</dc:title>
+<dc:description>Pictured are the boilers which provided the heat and hot water to the five story building and the armory  Rooms within the CLI were heated by steam and each room in the building contained radiators.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Furnaces; Boilers; Coal; Clinton Liberal Institute; Fort Plain (N.Y.); School buildings; School buildings -- Heating and ventilation; Boarding schools; Private schools;</dc:subject>
+<dc:subject>Boarding schools; Private schools; Photographs; Boilers; Furnaces;</dc:subject>
+<dc:subject>Clinton Liberal Institute</dc:subject>
+<dc:subject>Education; Military &amp; War; Architecture; People;</dc:subject>
+<dc:coverage>Fort Plain - Montgomery County -  New York</dc:coverage>
+<dc:format>Slides (photographs)</dc:format>
+<dc:source>photographs of slides in cardboard mounts; b&amp;w; 35mm; 2 x 2 in. (5 x 5 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:identifier>CLIB1004</dc:identifier>
+<dc:relation>Clinton Liberal Institute</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses.  Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/47</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/48</identifier><datestamp>2015-10-20</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>The Clinton Liberal Institute</dc:title>
+<dc:description>The Clinton Liberal Institute was originally founded in Clinton, New York in 1834 under the patronage of the Universalist Church.  In 1878 it was relocated to Fort Plain, New York and was housed in the former Fort Plain Female Seminary and Collegiate Institute built in 1853.  It was a boarding school which housed about 200 students both young men and women from all over the world. The school was designed for pupils between the ages of 13 and 24.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Clinton Liberal Institute; Fort Plain (N.Y.); Military Academy; Boarding schools; Private schools; Preparatory schools</dc:subject>
+<dc:subject>Photographs; Boarding schools; Private schools; Military academies; Schools; Photographs;</dc:subject>
+<dc:subject>Clinton Liberal Institute</dc:subject>
+<dc:subject>Education; Military &amp; War; Architecture; People;</dc:subject>
+<dc:coverage>Fort Plain - Montgomery County -  New York</dc:coverage>
+<dc:date>9999</dc:date>
+<dc:format>Slides (photographs)</dc:format>
+<dc:source>photographs of slides in cardboard mounts; b&amp;w; 35mm; 2 x 2 in. (5 x 5 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:identifier>CLIB1020</dc:identifier>
+<dc:relation>Clinton Liberal Institute</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses.  Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/48</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/49</identifier><datestamp>2012-05-24</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Crowd watches as the Clinton Liberal Institute burns</dc:title>
+<dc:description>A photograph of some of the residents of the village of Fort Plain watching the progress of the diasterous fire which destroyed the Clinton Liberal Institute on March 25, 1900.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Clinton Liberal Institute; Fort Plain (N.Y.); Boarding schools; Private schools; Fires</dc:subject>
+<dc:subject>Boarding schools; Private schools; Fires; Military academies; Photographs;</dc:subject>
+<dc:subject>Clinton Liberal Institute</dc:subject>
+<dc:subject>Education; Military &amp; War; Architecture; People</dc:subject>
+<dc:coverage>Fort Plain - Montgomery County -  New York</dc:coverage>
+<dc:format>Slides (photographs)</dc:format>
+<dc:source>photographs of slides in cardboard mounts; b&amp;w; 35mm; 2 x 2 in. (5 x 5 cm.)</dc:source>
+<dc:type>Still Image</dc:type>
+<dc:identifier>CLIB1016</dc:identifier>
+<dc:relation>Clinton Liberal Institute</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses.  Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/49</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/50</identifier><datestamp>2015-10-19</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Fort Plain Street Fair Acrobats</dc:title>
+<dc:description>Photo showing three acrobats performing at the Fort Plain Street Fair.  This photo was taken sometime between 1898 and 1924.  The acrobats performed on a platform at the corner of Main and Center Streets in the village.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:coverage>Fort Plain -Montgomery County - New York</dc:coverage>
+<dc:contributor>Saltsman, Myron, 1920-2010 (Local Historian); Fort Plain Free Library (Archives); Chambers, Eileen (Village Historian)</dc:contributor>
+<dc:date>9999</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:identifier>?</dc:identifier>
+<dc:relation>Fort Plain Street Fair</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses. Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/50</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/51</identifier><datestamp>2015-10-20</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Fort Plain Street Fair Trapeze Artists</dc:title>
+<dc:description>Photo showing trapeze artists performing at the corner of Canal and River Streets in the village of Fort Plain during the annual Street Fair Days which were held for one week during the month of September from 1898 to 1924.  In the background is the River Street lift bridge over the Erie Canal.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:coverage>Fort Plain -Montgomery County - New York</dc:coverage>
+<dc:contributor>Saltsman, Myron, 1920-2010 (Local Historian); Fort Plain Free Library (Archives); Chambers, Eileen (Village Historian)</dc:contributor>
+<dc:date>9999</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:relation>Fort Plain Street Fair</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses. Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/51</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/52</identifier><datestamp>2015-10-20</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Fort Plain Street Fair High Wire Act</dc:title>
+<dc:description>Photo showing the high wire act across Main Street during the annual Street Fair Days.  This photo was taken in 1922.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:coverage>Fort Plain -Montgomery County - New York</dc:coverage>
+<dc:contributor>Saltsman, Myron, 1920-2010 (Local Historian); Fort Plain Free Library (Archives); Chambers, Eileen (Village Historian)</dc:contributor>
+<dc:date>1922-09</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:identifier>?</dc:identifier>
+<dc:relation>Fort Plain Street Fair</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses. Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/52</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/53</identifier><datestamp>2015-10-20</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Fort Plain Street Fair High Diver Act</dc:title>
+<dc:description>Photo of a high diver 90 feet above a 6ft deep pool of water.  This was a very popular attraction at the Fort Plain Street Fair which was held in the village during the month of September to coincide with Constitution Day.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:coverage>Fort Plain -Montgomery County - New York</dc:coverage>
+<dc:contributor>Saltsman, Myron, 1920-2010 (Local Historian); Fort Plain Free Library (Archives); Chambers, Eileen (Village Historian)</dc:contributor>
+<dc:date>9999</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:identifier>?</dc:identifier>
+<dc:relation>Fort Plain Street Fair</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses. Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/53</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/54</identifier><datestamp>2015-10-20</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Fort Plain Street Fair Lion Tamer Act</dc:title>
+<dc:description>Photo showing the lion tamer act in front of a large crowd on Canal Street in the village of Fort Plain during the annual Street Fair Days which were held for a week during the month of September.  The photo was taken in 1923.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:coverage>Fort Plain -Montgomery County - New York</dc:coverage>
+<dc:contributor>Saltsman, Myron, 1920-2010 (Local Historian); Fort Plain Free Library (Archives); Chambers, Eileen (Village Historian)</dc:contributor>
+<dc:date>1923-09</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:identifier>?</dc:identifier>
+<dc:relation>Fort Plain Street Fair</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses. Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/54</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/55</identifier><datestamp>2015-10-19</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Fort Plain Street Fair</dc:title>
+<dc:description>Color enhanced photo of looking west on Canal Street during the annual Street Fair held in the village of Fort Plain for a week during the month of September.  In the foreground is the movable bandstand on which the Old Fort Plain Band performed for the crowds.  Also in the photo are the canvas covered booths from which merchants sold their wares.  In the background is the town clock, a village landmark.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:coverage>Fort Plain -Montgomery County - New York</dc:coverage>
+<dc:contributor>Saltsman, Myron, 1920-2010 (Local Historian); Fort Plain Free Library (Archives); Chambers, Eileen (Village Historian)</dc:contributor>
+<dc:date>9999</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:identifier>?</dc:identifier>
+<dc:relation>Fort Plain Street Fair</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses. Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/55</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/56</identifier><datestamp>2015-10-20</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Fort Plain Street Fair Marvelous Melville</dc:title>
+<dc:description>Marvelous Melville the Supreme Gymnast performed his act on the corner of Main and Center Streets in the village of Fort Plain during the September 1923 annual Street Fair.  The act was performed in front of the Fort Plain Hotel, formerly known at the Zoller House.  In the background of the picture is Dievendorf Hall which housed the Rialto Theater which offered movies during Street Fair Days.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:coverage>Fort Plain -Montgomery County - New York</dc:coverage>
+<dc:contributor>Saltsman, Myron, 1920-2010 (Local Historian); Fort Plain Free Library (Archives); Chambers, Eileen (Village Historian)</dc:contributor>
+<dc:date>1923-09</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:identifier>?</dc:identifier>
+<dc:relation>Fort Plain Street Fair</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses. Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/56</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/57</identifier><datestamp>2015-10-20</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Tractor and Wagon Parade Fort Plain Street Fair</dc:title>
+<dc:description>Photo of a tractor and wagon parade which took place during the annual Street Fair Days during the month of September in the village of Fort Plain.  The tractors and wagons are lined up on Main Street in front of the Betzinger Factory which manufactured carriages in the late 19th century.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:coverage>Fort Plain -Montgomery County - New York</dc:coverage>
+<dc:contributor>Saltsman, Myron, 1920-2010 (Local Historian); Fort Plain Free Library (Archives); Chambers, Eileen (Village Historian)</dc:contributor>
+<dc:date>9999</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:identifier>?</dc:identifier>
+<dc:relation>Fort Plain Street Fair</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses. Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/57</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/58</identifier><datestamp>2015-10-20</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Fort Plain Street Fair High Diver Act</dc:title>
+<dc:description>Photo taken from the roof of the Hotel Fort Plain looking east on Main Street.  In the background are the canvas covered booths in which were displayed merchants and farmers goods.  A large crowd has gathered to view the high diver act.  On the right of the photo two buildings down stands Dievendorf Hall which housed the Rialto Theater which showed moving pictures during Street Fair Week in September.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:coverage>Fort Plain -Montgomery County - New York</dc:coverage>
+<dc:contributor>Saltsman, Myron, 1920-2010 (Local Historian); Fort Plain Free Library (Archives); Chambers, Eileen (Village Historian)</dc:contributor>
+<dc:date>9999</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:identifier>?</dc:identifier>
+<dc:relation>Fort Plain Street Fair</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses. Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/58</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/59</identifier><datestamp>2015-10-19</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Fort Plain Street Fair</dc:title>
+<dc:description>Photo of Canal Street during Street Fair Days in September, 1900.  A campaign banner is stretched across Canal Street for William McKinley and Theodore Roosevelt who were running on the Republican ticket in the 1900 election.  In the foreground is the movable bandstand on which the Old Fort Plain Band ws performing.  Also shown in the photo is a canvas covered booth displaying merchants wares and the large crowds that attended the fair.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:subject>Nineteen hundred, A.D; Fort Plain (N.Y.); Fairs; Band musicians; Exhibit booths; Banners</dc:subject>
+<dc:subject>Architecture; Arts &amp; Entertainment; Community &amp; Events; People; Government, Law &amp; Politics; Recreation &amp; Sports;</dc:subject>
+<dc:coverage>Fort Plain -Montgomery County - New York</dc:coverage>
+<dc:contributor>Saltsman, Myron, 1920-2010 (Local Historian); Fort Plain Free Library (Archives); Chambers, Eileen (Village Historian)</dc:contributor>
+<dc:date>1900-09</dc:date>
+<dc:coverage> </dc:coverage>
+<dc:type>Still Image</dc:type>
+<dc:identifier>?</dc:identifier>
+<dc:relation>Fort Plain Street Fair</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses. Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/59</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/60</identifier><datestamp>2015-10-19</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Fort Plain Street Fair Acrobats</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:coverage>Fort Plain -Montgomery County - New York</dc:coverage>
+<dc:contributor>Saltsman, Myron, 1920-2010 (Local Historian); Fort Plain Free Library (Archives); Chambers, Eileen (Village Historian)</dc:contributor>
+<dc:date>9999</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:identifier>?</dc:identifier>
+<dc:relation>Fort Plain Street Fair</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses. Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/60</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/61</identifier><datestamp>2015-10-20</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Fort Plain Street Fair Display Booths</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:coverage>Fort Plain -Montgomery County - New York</dc:coverage>
+<dc:contributor>Saltsman, Myron, 1920-2010 (Local Historian); Fort Plain Free Library (Archives); Chambers, Eileen (Village Historian)</dc:contributor>
+<dc:date>9999</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:identifier>?</dc:identifier>
+<dc:relation>Fort Plain Street Fair</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses. Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/61</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/62</identifier><datestamp>2015-10-20</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Fort Plain Street Fair Trapeze Artist</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:coverage>Fort Plain -Montgomery County - New York</dc:coverage>
+<dc:contributor>Saltsman, Myron, 1920-2010 (Local Historian); Fort Plain Free Library (Archives); Chambers, Eileen (Village Historian)</dc:contributor>
+<dc:date>9999</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:identifier>?</dc:identifier>
+<dc:relation>Fort Plain Street Fair</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses. Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/62</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/63</identifier><datestamp>2015-10-20</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Old Fort Plain Band</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:coverage>Fort Plain -Montgomery County - New York</dc:coverage>
+<dc:contributor>Saltsman, Myron, 1920-2010 (Local Historian); Fort Plain Free Library (Archives); Chambers, Eileen (Village Historian)</dc:contributor>
+<dc:date>9999</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:identifier>?</dc:identifier>
+<dc:relation>Fort Plain Street Fair</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses. Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/63</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/64</identifier><datestamp>2015-10-20</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>img271 Canal St.</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:coverage>Fort Plain -Montgomery County - New York</dc:coverage>
+<dc:contributor>Saltsman, Myron, 1920-2010 (Local Historian); Fort Plain Free Library (Archives); Chambers, Eileen (Village Historian)</dc:contributor>
+<dc:date>9999</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:identifier>?</dc:identifier>
+<dc:relation>Fort Plain Street Fair</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses. Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/64</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/65</identifier><datestamp>2015-10-20</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Fort Plain Street Fair Ferris Wheel</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:coverage>Fort Plain -Montgomery County - New York</dc:coverage>
+<dc:contributor>Saltsman, Myron, 1920-2010 (Local Historian); Fort Plain Free Library (Archives); Chambers, Eileen (Village Historian)</dc:contributor>
+<dc:date>9999</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:identifier>?</dc:identifier>
+<dc:relation>Fort Plain Street Fair</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses. Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/65</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/66</identifier><datestamp>2015-10-20</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Fort Plain Street Fair High Dive Act</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:coverage>Fort Plain -Montgomery County - New York</dc:coverage>
+<dc:contributor>Saltsman, Myron, 1920-2010 (Local Historian); Fort Plain Free Library (Archives); Chambers, Eileen (Village Historian)</dc:contributor>
+<dc:date>9999</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:identifier>?</dc:identifier>
+<dc:relation>Fort Plain Street Fair</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses. Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/66</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/67</identifier><datestamp>2015-10-20</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Fort Plain Street Fair Display Booths</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:coverage>Fort Plain -Montgomery County - New York</dc:coverage>
+<dc:contributor>Saltsman, Myron, 1920-2010 (Local Historian); Fort Plain Free Library (Archives); Chambers, Eileen (Village Historian)</dc:contributor>
+<dc:date>1900-09</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:identifier>?</dc:identifier>
+<dc:relation>Fort Plain Street Fair</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses. Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/67</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/68</identifier><datestamp>2015-10-20</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Fort Plain Street Fair Display Booths</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:coverage>Fort Plain -Montgomery County - New York</dc:coverage>
+<dc:contributor>Saltsman, Myron, 1920-2010 (Local Historian); Fort Plain Free Library (Archives); Chambers, Eileen (Village Historian)</dc:contributor>
+<dc:date>9999</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:identifier>?</dc:identifier>
+<dc:relation>Fort Plain Street Fair</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses. Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/68</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/69</identifier><datestamp>2015-10-20</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Fort Plain Street Fair Crowds</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:coverage>Fort Plain -Montgomery County - New York</dc:coverage>
+<dc:contributor>Saltsman, Myron, 1920-2010 (Local Historian); Fort Plain Free Library (Archives); Chambers, Eileen (Village Historian)</dc:contributor>
+<dc:date>9999</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:identifier>?</dc:identifier>
+<dc:relation>Fort Plain Street Fair</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses. Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/69</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/70</identifier><datestamp>2015-10-19</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Fort Plain Street Fair Corner of Main and Canal Streets</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:coverage>Fort Plain -Montgomery County - New York</dc:coverage>
+<dc:contributor>Saltsman, Myron, 1920-2010 (Local Historian); Fort Plain Free Library (Archives); Chambers, Eileen (Village Historian)</dc:contributor>
+<dc:date>9999</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:identifier>?</dc:identifier>
+<dc:relation>Fort Plain Street Fair</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses. Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/70</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/71</identifier><datestamp>2015-10-19</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Fort Plain Street Fair Corner of Main and Center Streets</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:coverage>Fort Plain -Montgomery County - New York</dc:coverage>
+<dc:contributor>Saltsman, Myron, 1920-2010 (Local Historian); Fort Plain Free Library (Archives); Chambers, Eileen (Village Historian)</dc:contributor>
+<dc:date>9999</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:identifier>?</dc:identifier>
+<dc:relation>Fort Plain Street Fair</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses. Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/71</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/72</identifier><datestamp>2015-10-20</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Fort Plain Street Fair Parade</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:coverage>Fort Plain -Montgomery County - New York</dc:coverage>
+<dc:contributor>Saltsman, Myron, 1920-2010 (Local Historian); Fort Plain Free Library (Archives); Chambers, Eileen (Village Historian)</dc:contributor>
+<dc:date>9999</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:identifier>?</dc:identifier>
+<dc:relation>Fort Plain Street Fair</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses. Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/72</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/73</identifier><datestamp>2015-10-19</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Fort Plain Street Fair Attraction</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:coverage>Fort Plain -Montgomery County - New York</dc:coverage>
+<dc:contributor>Saltsman, Myron, 1920-2010 (Local Historian); Fort Plain Free Library (Archives); Chambers, Eileen (Village Historian)</dc:contributor>
+<dc:date>9999</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:identifier>?</dc:identifier>
+<dc:relation>Fort Plain Street Fair</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses. Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/73</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/74</identifier><datestamp>2015-10-20</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Fort Plain Street Fair Crowds</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:coverage>Fort Plain -Montgomery County - New York</dc:coverage>
+<dc:contributor>Saltsman, Myron, 1920-2010 (Local Historian); Fort Plain Free Library (Archives); Chambers, Eileen (Village Historian)</dc:contributor>
+<dc:date>9999</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:identifier>?</dc:identifier>
+<dc:relation>Fort Plain Street Fair</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses. Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/74</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/75</identifier><datestamp>2015-10-20</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Fort Plain Street Fair Display Booths</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:coverage>Fort Plain -Montgomery County - New York</dc:coverage>
+<dc:contributor>Saltsman, Myron, 1920-2010 (Local Historian); Fort Plain Free Library (Archives); Chambers, Eileen (Village Historian)</dc:contributor>
+<dc:date>9999</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:relation>Fort Plain Street Fair</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses. Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/75</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/76</identifier><datestamp>2015-10-20</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Stewart and Bergen Hardware Store Decorated for Street Fair</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:coverage>Fort Plain -Montgomery County - New York</dc:coverage>
+<dc:contributor>Saltsman, Myron, 1920-2010 (Local Historian); Fort Plain Free Library (Archives); Chambers, Eileen (Village Historian)</dc:contributor>
+<dc:date>9999</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:identifier>?</dc:identifier>
+<dc:relation>Fort Plain Street Fair</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses. Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/76</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/77</identifier><datestamp>2015-10-20</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Stewart and Bergen Street Fair Booth</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:coverage>Fort Plain -Montgomery County - New York</dc:coverage>
+<dc:contributor>Saltsman, Myron, 1920-2010 (Local Historian); Fort Plain Free Library (Archives); Chambers, Eileen (Village Historian)</dc:contributor>
+<dc:date>9999</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:identifier>?</dc:identifier>
+<dc:relation>Fort Plain Street Fair</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses. Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/77</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/78</identifier><datestamp>2015-10-20</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Fort Plain Street Fair High Dive Act</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:coverage>Fort Plain -Montgomery County - New York</dc:coverage>
+<dc:contributor>Saltsman, Myron, 1920-2010 (Local Historian); Fort Plain Free Library (Archives); Chambers, Eileen (Village Historian)</dc:contributor>
+<dc:date>9999</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:identifier>?</dc:identifier>
+<dc:relation>Fort Plain Street Fair</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses. Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/78</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/79</identifier><datestamp>2015-10-19</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Fort Plain Street Fair Collage of Photos</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:coverage>Fort Plain -Montgomery County - New York</dc:coverage>
+<dc:contributor>Saltsman, Myron, 1920-2010 (Local Historian); Fort Plain Free Library (Archives); Chambers, Eileen (Village Historian)</dc:contributor>
+<dc:date>9999</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:identifier>?</dc:identifier>
+<dc:relation>Fort Plain Street Fair</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses. Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/79</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/80</identifier><datestamp>2015-10-20</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Fort Plain Street Fair Loop de Loop</dc:title>
+<dc:description>Photo of a crowd gathered to view a bicyclist perform the loop de loop act on a platform in front of the Fort Plain Hotel during Fort Plain&#x27;s Street Fair Week in the early 1900&#x27;s.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:coverage>Fort Plain -Montgomery County - New York</dc:coverage>
+<dc:contributor>Saltsman, Myron, 1920-2010 (Local Historian); Fort Plain Free Library (Archives); Chambers, Eileen (Village Historian)</dc:contributor>
+<dc:date>9999</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:identifier>?</dc:identifier>
+<dc:relation>Fort Plain Street Fair</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses. Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/80</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/81</identifier><datestamp>2015-10-20</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Fort Plain Street Fair Wedding</dc:title>
+<dc:description>Photo of a wedding in front of the Fort Plain Hotel on Main Street in the village of Fort Plain during the village&#x27;s Street Fair Week which was held during  the third week in September coinciding with Constitution Day which is celebrated on September 17th.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:coverage>Fort Plain -Montgomery County - New York</dc:coverage>
+<dc:contributor>Saltsman, Myron, 1920-2010 (Local Historian); Fort Plain Free Library (Archives); Chambers, Eileen (Village Historian)</dc:contributor>
+<dc:date>9999</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:identifier>?</dc:identifier>
+<dc:relation>Fort Plain Street Fair</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses. Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/81</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/82</identifier><datestamp>2015-10-20</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Old Fort Plain Band</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:coverage>Fort Plain -Montgomery County - New York</dc:coverage>
+<dc:contributor>Saltsman, Myron, 1920-2010 (Local Historian); Fort Plain Free Library (Archives); Chambers, Eileen (Village Historian)</dc:contributor>
+<dc:date>9999</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:identifier>?</dc:identifier>
+<dc:relation>Fort Plain Street Fair</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses. Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/82</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/83</identifier><datestamp>2015-10-19</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Fort Plain Street Fair Acrobats</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:coverage>Fort Plain -Montgomery County - New York</dc:coverage>
+<dc:contributor>Saltsman, Myron, 1920-2010 (Local Historian); Fort Plain Free Library (Archives); Chambers, Eileen (Village Historian)</dc:contributor>
+<dc:date>9999</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:identifier>?</dc:identifier>
+<dc:relation>Fort Plain Street Fair</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses. Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/83</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/84</identifier><datestamp>2015-10-20</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Old Fort Plain Band</dc:title>
+<dc:description>Photo of the Old Fort Plain Band on the steps of the Fritcher Opera House.  The band was organized in 1852 and at times numbered up to twenty-five musicians.  The band entertained village residents at summer concerts in the park, on the bandstand during street fair days, and parades.  The Fritcher Opera House was located on River Street in the village of Fort Plain.  The Opera House was built in 1878 and burned in 1911</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:coverage>Fort Plain -Montgomery County - New York</dc:coverage>
+<dc:contributor>Saltsman, Myron, 1920-2010 (Local Historian); Fort Plain Free Library (Archives); Chambers, Eileen (Village Historian)</dc:contributor>
+<dc:date>1882</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:identifier>?</dc:identifier>
+<dc:relation>Fort Plain Street Fair</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses. Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/84</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/85</identifier><datestamp>2015-10-20</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Fort PlainStreet Fair corner of Main and Canal Streets</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:coverage>Fort Plain -Montgomery County - New York</dc:coverage>
+<dc:contributor>Saltsman, Myron, 1920-2010 (Local Historian); Fort Plain Free Library (Archives); Chambers, Eileen (Village Historian)</dc:contributor>
+<dc:date>9999</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:relation>Fort Plain Street Fair</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses. Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/85</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/86</identifier><datestamp>2015-10-19</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Fort Plain Street Fair</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:coverage>Fort Plain -Montgomery County - New York</dc:coverage>
+<dc:contributor>Saltsman, Myron, 1920-2010 (Local Historian); Fort Plain Free Library (Archives); Chambers, Eileen (Village Historian)</dc:contributor>
+<dc:date>9999</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:identifier>?</dc:identifier>
+<dc:relation>Fort Plain Street Fair</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses. Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/86</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/87</identifier><datestamp>2015-10-19</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Fort Plain Street Fair corner of Main and Canal Streets</dc:title>
+<dc:creator>unknown</dc:creator>
+<dc:coverage>Fort Plain -Montgomery County - New York</dc:coverage>
+<dc:contributor>Saltsman, Myron, 1920-2010 (Local Historian); Fort Plain Free Library (Archives); Chambers, Eileen (Village Historian)</dc:contributor>
+<dc:date>9999</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:identifier>?</dc:identifier>
+<dc:relation>Fort Plain Street Fair</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses. Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/87</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/88</identifier><datestamp>2015-10-19</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Fort Plain Street Fair Advertisement</dc:title>
+<dc:description>Photo of the &quot;Boom Bulletin&quot; date September 14-19, 1903.  The bulletin featured the program for the Street Fair Acts for that week along with advertising by the local merchants.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:coverage>Fort Plain -Montgomery County - New York</dc:coverage>
+<dc:contributor>Saltsman, Myron, 1920-2010 (Local Historian); Fort Plain Free Library (Archives); Chambers, Eileen (Village Historian)</dc:contributor>
+<dc:date>9999</dc:date>
+<dc:type>Text</dc:type>
+<dc:identifier>?</dc:identifier>
+<dc:relation>Fort Plain Street Fair</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses. Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/88</dc:identifier></oai_dc:dc>
+</metadata>
+</record><record><header><identifier>oai:cdm16694.contentdm.oclc.org:fpfl/89</identifier><datestamp>2015-10-20</datestamp><setSpec>fpfl</setSpec></header>
+<metadata>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Fort Plain Street Fair Souvenir Bookmark</dc:title>
+<dc:description>Photo of a bookmark souvenir distributed by the Platner and Hambrecht shoe store in Fort Plain during the September, 1903 Street Fair.</dc:description>
+<dc:creator>unknown</dc:creator>
+<dc:coverage>Fort Plain -Montgomery County - New York</dc:coverage>
+<dc:contributor>Saltsman, Myron, 1920-2010 (Local Historian); Fort Plain Free Library (Archives); Chambers, Eileen (Village Historian)</dc:contributor>
+<dc:date>1903-09</dc:date>
+<dc:type>Still Image</dc:type>
+<dc:identifier>?</dc:identifier>
+<dc:relation>Fort Plain Street Fair</dc:relation>
+<dc:rights>This digital image may be used for educational and personal uses. Please cite: Fort Plain Free Library.</dc:rights>
+<dc:identifier>http://cdm16694.contentdm.oclc.org/cdm/ref/collection/fpfl/id/89</dc:identifier></oai_dc:dc>
+</metadata>
+</record></ListRecords></OAI-PMH>

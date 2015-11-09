@@ -1,0 +1,1499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2015-10-29T14:40:04Z</responseDate><request>http://dcmny.org/oai2</request><ListRecords><record><header><identifier>oai:dcmny.org:nyhs_2252</identifier><datestamp>2015-10-05T18:21:57Z</datestamp><setSpec>nyhs_bracklow</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+      <title>Dutch style house, barn and modern windmill, Sag Harbor, Long Island, New York, undated (ca. 1890-1910). </title>
+   </titleInfo>
+  <name authority="naf" type="personal">
+      <namePart>Bracklow, Robert L., 1849-1919</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="text">Creator</roleTerm>
+      </role>
+   </name>
+  <name authority="naf" type="personal">
+      <namePart>Alland, Alexander</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="text">Contributor</roleTerm>
+      </role>
+   </name>
+  <subject authority="lcsh">
+      <topic>Sag Harbor (N.Y.)--Photographs</topic>
+   </subject>
+  <subject authority="lcsh">
+      <topic>Sag Harbor (N.Y.)--Buildings, structures, etc.--Photographs</topic>
+   </subject>
+  <subject authority="lcsh">
+      <geographic>Sag Harbor (N.Y.)</geographic>
+   </subject>
+  <originInfo>
+      <dateCreated keyDate="yes" encoding="w3cdtf" point="start" qualifier="approximate">1890</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end" qualifier="approximate">1910</dateCreated>
+   </originInfo>
+  <note>Robert Louis Bracklow (1849-1919) was an amateur photographer and stationer. He was an active member of the Society of Amateur Photographers of New York (later the Camera Club), where he exhibited photographs with fellow amateur Richard H. Lawrence and with Alfred Stieglitz.</note>
+  <typeOfResource>still image</typeOfResource>
+  <genre>Glass negative</genre>
+  <genre>Negatives (photographic)</genre>
+  <physicalDescription>
+      <extent>5 in. x 7 in.</extent>
+      <internetMediaType>image/jp2</internetMediaType>
+      <digitalOrigin>digitized other analog</digitalOrigin>
+   </physicalDescription>
+  <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+  <accessCondition>This digital image may be used for educational or scholarly purposes
+			without restriction. Commercial and other uses of the item are prohibited without prior
+			written permission from the New-York Historical Society. For more information, please
+			visit the New-York Historical Society's Rights and Reproductions Department web page
+			at http://www.nyhistory.org/about/rights-reproductions</accessCondition>
+  <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Robert L. Bracklow Photograph Collection</title>
+      </titleInfo>
+   </relatedItem>
+  <relatedItem type="host" displayLabel="Collection">
+      <abstract>The Robert L. Bracklow Photograph Collection spans the period from 1882-1918 and contains photonegatives, copy prints, and original photographic prints of Bracklow’s photographs of New York City, its immediate environs, and towns throughout New England. Bracklow’s photographs often show elements of Manhattan in flux: old houses, new skyscrapers, and buildings in different stages of construction. The handmade albums showcase Coney Island, Fort Washington, the 1899 Dewey celebration, naval parades along the Hudson, and newsboys hawking Spanish-American War bulletins. Also documented are excursions with friends to Harper’s Ferry, New England, Long Island, New Jersey, and Staten Island. Scenes with Camera Club members on some trips reflect the convivial atmosphere of photographic outings. Bracklow’s original prints of New York City and of vacations he took in New England can be found in the photograph albums and loose prints given to the New-York Historical Society by Ruth Trappan.</abstract>
+   </relatedItem>
+  <note type="ownership">New-York Historical Society, 170 Central Park West, New York, NY 10024, 212-873-3400.</note>
+  <identifier type="local">66000_903</identifier>
+  <recordInfo>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/nyhs%3A2252</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:nyhs_2251</identifier><datestamp>2015-10-05T18:21:59Z</datestamp><setSpec>nyhs_bracklow</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+      <title>Walking through the Park, Marblehead, Massachusetts, 1890.</title>
+   </titleInfo>
+  <name authority="naf" type="personal">
+      <namePart>Bracklow, Robert L., 1849-1919</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="text">Creator</roleTerm>
+      </role>
+   </name>
+  <name authority="naf" type="personal">
+      <namePart>Alland, Alexander</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="text">Contributor</roleTerm>
+      </role>
+   </name>
+  <subject authority="lcsh">
+      <topic>Marblehead (Mass.)--Photographs</topic>
+   </subject>
+  <subject authority="lcsh">
+      <geographic>Marblehead (Mass.)</geographic>
+   </subject>
+  <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1890</dateCreated>
+   </originInfo>
+  <note>Robert Louis Bracklow (1849-1919) was an amateur photographer and stationer. He was an active member of the Society of Amateur Photographers of New York (later the Camera Club), where he exhibited photographs with fellow amateur Richard H. Lawrence and with Alfred Stieglitz.</note>
+  <typeOfResource>still image</typeOfResource>
+  <genre>Glass negative</genre>
+  <genre>Negatives (photographic)</genre>
+  <physicalDescription>
+      <extent>5 in. x 7 in.</extent>
+      <internetMediaType>image/jp2</internetMediaType>
+      <digitalOrigin>digitized other analog</digitalOrigin>
+   </physicalDescription>
+  <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+  <accessCondition>This digital image may be used for educational or scholarly purposes
+			without restriction. Commercial and other uses of the item are prohibited without prior
+			written permission from the New-York Historical Society. For more information, please
+			visit the New-York Historical Society's Rights and Reproductions Department web page
+			at http://www.nyhistory.org/about/rights-reproductions</accessCondition>
+  <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Robert L. Bracklow Photograph Collection</title>
+      </titleInfo>
+   </relatedItem>
+  <relatedItem type="host" displayLabel="Collection">
+      <abstract>The Robert L. Bracklow Photograph Collection spans the period from 1882-1918 and contains photonegatives, copy prints, and original photographic prints of Bracklow’s photographs of New York City, its immediate environs, and towns throughout New England. Bracklow’s photographs often show elements of Manhattan in flux: old houses, new skyscrapers, and buildings in different stages of construction. The handmade albums showcase Coney Island, Fort Washington, the 1899 Dewey celebration, naval parades along the Hudson, and newsboys hawking Spanish-American War bulletins. Also documented are excursions with friends to Harper’s Ferry, New England, Long Island, New Jersey, and Staten Island. Scenes with Camera Club members on some trips reflect the convivial atmosphere of photographic outings. Bracklow’s original prints of New York City and of vacations he took in New England can be found in the photograph albums and loose prints given to the New-York Historical Society by Ruth Trappan.</abstract>
+   </relatedItem>
+  <note type="ownership">New-York Historical Society, 170 Central Park West, New York, NY 10024, 212-873-3400.</note>
+  <identifier type="local">66000_902</identifier>
+  <recordInfo>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/nyhs%3A2251</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:nyhs_2250</identifier><datestamp>2015-10-05T18:22:00Z</datestamp><setSpec>nyhs_bracklow</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+      <title>Unidentified ivy-covered house, undated (ca. 1882-1919).</title>
+   </titleInfo>
+  <name authority="naf" type="personal">
+      <namePart>Bracklow, Robert L., 1849-1919</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="text">Creator</roleTerm>
+      </role>
+   </name>
+  <name authority="naf" type="personal">
+      <namePart>Alland, Alexander</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="text">Contributor</roleTerm>
+      </role>
+   </name>
+  <originInfo>
+      <dateCreated keyDate="yes" encoding="w3cdtf" point="start" qualifier="approximate">1882</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end" qualifier="approximate">1919</dateCreated>
+   </originInfo>
+  <note>Robert Louis Bracklow (1849-1919) was an amateur photographer and stationer. He was an
+			active member of the Society of Amateur Photographers of New York (later the Camera
+			Club), where he exhibited photographs with fellow amateur Richard H. Lawrence and with
+			Alfred Stieglitz.</note>
+  <typeOfResource>still image</typeOfResource>
+  <genre>Glass negative</genre>
+  <genre>Negatives (photographic)</genre>
+  <physicalDescription>
+      <extent>5 in. x 7 in.</extent>
+      <internetMediaType>image/jp2</internetMediaType>
+      <digitalOrigin>digitized other analog</digitalOrigin>
+   </physicalDescription>
+  <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+  <accessCondition>This digital image may be used for educational or scholarly purposes
+			without restriction. Commercial and other uses of the item are prohibited without prior
+			written permission from the New-York Historical Society. For more information, please
+			visit the New-York Historical Society's Rights and Reproductions Department web page
+			at http://www.nyhistory.org/about/rights-reproductions</accessCondition>
+  <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Robert L. Bracklow Photograph Collection</title>
+      </titleInfo>
+   </relatedItem>
+  <relatedItem type="host" displayLabel="Collection">
+      <abstract>The Robert L. Bracklow Photograph Collection spans the period from 1882-1918
+				and contains photonegatives, copy prints, and original photographic prints of
+				Bracklow’s photographs of New York City, its immediate environs, and towns
+				throughout New England. Bracklow’s photographs often show elements of Manhattan in
+				flux: old houses, new skyscrapers, and buildings in different stages of
+				construction. The handmade albums showcase Coney Island, Fort Washington, the 1899
+				Dewey celebration, naval parades along the Hudson, and newsboys hawking
+				Spanish-American War bulletins. Also documented are excursions with friends to
+				Harper’s Ferry, New England, Long Island, New Jersey, and Staten Island. Scenes with
+				Camera Club members on some trips reflect the convivial atmosphere of photographic
+				outings. Bracklow’s original prints of New York City and of vacations he took in New
+				England can be found in the photograph albums and loose prints given to the New-York
+				Historical Society by Ruth Trappan.</abstract>
+   </relatedItem>
+  <note type="ownership">New-York Historical Society, 170 Central Park West, New York, NY
+			10024, 212-873-3400.</note>
+  <identifier type="local">NYHS_PR008_66000_U2508</identifier>
+  <recordInfo>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/nyhs%3A2250</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:nyhs_2248</identifier><datestamp>2015-10-05T18:22:00Z</datestamp><setSpec>nyhs_bracklow</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+      <title>Unidentified house, undated (ca. 1882-1919).</title>
+   </titleInfo>
+  <name authority="naf" type="personal">
+      <namePart>Bracklow, Robert L., 1849-1919</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="text">Creator</roleTerm>
+      </role>
+   </name>
+  <name authority="naf" type="personal">
+      <namePart>Alland, Alexander</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="text">Contributor</roleTerm>
+      </role>
+   </name>
+  <originInfo>
+      <dateCreated keyDate="yes" encoding="w3cdtf" point="start" qualifier="approximate">1882</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end" qualifier="approximate">1919</dateCreated>
+   </originInfo>
+  <note>Robert Louis Bracklow (1849-1919) was an amateur photographer and stationer. He was an
+			active member of the Society of Amateur Photographers of New York (later the Camera
+			Club), where he exhibited photographs with fellow amateur Richard H. Lawrence and with
+			Alfred Stieglitz.</note>
+  <typeOfResource>still image</typeOfResource>
+  <genre>Glass negative</genre>
+  <genre>Negatives (photographic)</genre>
+  <physicalDescription>
+      <extent>5 in. x 7 in.</extent>
+      <internetMediaType>image/jp2</internetMediaType>
+      <digitalOrigin>digitized other analog</digitalOrigin>
+   </physicalDescription>
+  <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+  <accessCondition>This digital image may be used for educational or scholarly purposes
+			without restriction. Commercial and other uses of the item are prohibited without prior
+			written permission from the New-York Historical Society. For more information, please
+			visit the New-York Historical Society's Rights and Reproductions Department web page
+			at http://www.nyhistory.org/about/rights-reproductions</accessCondition>
+  <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Robert L. Bracklow Photograph Collection</title>
+      </titleInfo>
+   </relatedItem>
+  <relatedItem type="host" displayLabel="Collection">
+      <abstract>The Robert L. Bracklow Photograph Collection spans the period from 1882-1918
+				and contains photonegatives, copy prints, and original photographic prints of
+				Bracklow’s photographs of New York City, its immediate environs, and towns
+				throughout New England. Bracklow’s photographs often show elements of Manhattan in
+				flux: old houses, new skyscrapers, and buildings in different stages of
+				construction. The handmade albums showcase Coney Island, Fort Washington, the 1899
+				Dewey celebration, naval parades along the Hudson, and newsboys hawking
+				Spanish-American War bulletins. Also documented are excursions with friends to
+				Harper’s Ferry, New England, Long Island, New Jersey, and Staten Island. Scenes with
+				Camera Club members on some trips reflect the convivial atmosphere of photographic
+				outings. Bracklow’s original prints of New York City and of vacations he took in New
+				England can be found in the photograph albums and loose prints given to the New-York
+				Historical Society by Ruth Trappan.</abstract>
+   </relatedItem>
+  <note type="ownership">New-York Historical Society, 170 Central Park West, New York, NY
+			10024, 212-873-3400.</note>
+  <identifier type="local">NYHS_PR008_66000_U2506</identifier>
+  <recordInfo>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/nyhs%3A2248</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:nyhs_2247</identifier><datestamp>2015-10-05T18:22:02Z</datestamp><setSpec>nyhs_bracklow</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+      <title>Unidentified house, undated (ca. 1882-1919).</title>
+   </titleInfo>
+  <name authority="naf" type="personal">
+      <namePart>Bracklow, Robert L., 1849-1919</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="text">Creator</roleTerm>
+      </role>
+   </name>
+  <name authority="naf" type="personal">
+      <namePart>Alland, Alexander</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="text">Contributor</roleTerm>
+      </role>
+   </name>
+  <originInfo>
+      <dateCreated keyDate="yes" encoding="w3cdtf" point="start" qualifier="approximate">1882</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end" qualifier="approximate">1919</dateCreated>
+   </originInfo>
+  <note>Robert Louis Bracklow (1849-1919) was an amateur photographer and stationer. He was an
+			active member of the Society of Amateur Photographers of New York (later the Camera
+			Club), where he exhibited photographs with fellow amateur Richard H. Lawrence and with
+			Alfred Stieglitz.</note>
+  <typeOfResource>still image</typeOfResource>
+  <genre>Glass negative</genre>
+  <genre>Negatives (photographic)</genre>
+  <physicalDescription>
+      <extent>5 in. x 7 in.</extent>
+      <internetMediaType>image/jp2</internetMediaType>
+      <digitalOrigin>digitized other analog</digitalOrigin>
+   </physicalDescription>
+  <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+  <accessCondition>This digital image may be used for educational or scholarly purposes
+			without restriction. Commercial and other uses of the item are prohibited without prior
+			written permission from the New-York Historical Society. For more information, please
+			visit the New-York Historical Society's Rights and Reproductions Department web page
+			at http://www.nyhistory.org/about/rights-reproductions</accessCondition>
+  <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Robert L. Bracklow Photograph Collection</title>
+      </titleInfo>
+   </relatedItem>
+  <relatedItem type="host" displayLabel="Collection">
+      <abstract>The Robert L. Bracklow Photograph Collection spans the period from 1882-1918
+				and contains photonegatives, copy prints, and original photographic prints of
+				Bracklow’s photographs of New York City, its immediate environs, and towns
+				throughout New England. Bracklow’s photographs often show elements of Manhattan in
+				flux: old houses, new skyscrapers, and buildings in different stages of
+				construction. The handmade albums showcase Coney Island, Fort Washington, the 1899
+				Dewey celebration, naval parades along the Hudson, and newsboys hawking
+				Spanish-American War bulletins. Also documented are excursions with friends to
+				Harper’s Ferry, New England, Long Island, New Jersey, and Staten Island. Scenes with
+				Camera Club members on some trips reflect the convivial atmosphere of photographic
+				outings. Bracklow’s original prints of New York City and of vacations he took in New
+				England can be found in the photograph albums and loose prints given to the New-York
+				Historical Society by Ruth Trappan.</abstract>
+   </relatedItem>
+  <note type="ownership">New-York Historical Society, 170 Central Park West, New York, NY
+			10024, 212-873-3400.</note>
+  <identifier type="local">NYHS_PR008_66000_U2505</identifier>
+  <recordInfo>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/nyhs%3A2247</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:nyhs_2246</identifier><datestamp>2015-10-05T18:22:04Z</datestamp><setSpec>nyhs_bracklow</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+      <title>Unidentified houses, undated (ca. 1882-1919).</title>
+   </titleInfo>
+  <name authority="naf" type="personal">
+      <namePart>Bracklow, Robert L., 1849-1919</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="text">Creator</roleTerm>
+      </role>
+   </name>
+  <name authority="naf" type="personal">
+      <namePart>Alland, Alexander</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="text">Contributor</roleTerm>
+      </role>
+   </name>
+  <originInfo>
+      <dateCreated keyDate="yes" encoding="w3cdtf" point="start" qualifier="approximate">1882</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end" qualifier="approximate">1919</dateCreated>
+   </originInfo>
+  <note>Robert Louis Bracklow (1849-1919) was an amateur photographer and stationer. He was an
+			active member of the Society of Amateur Photographers of New York (later the Camera
+			Club), where he exhibited photographs with fellow amateur Richard H. Lawrence and with
+			Alfred Stieglitz.</note>
+  <typeOfResource>still image</typeOfResource>
+  <genre>Glass negative</genre>
+  <genre>Negatives (photographic)</genre>
+  <physicalDescription>
+      <extent>5 in. x 7 in.</extent>
+      <internetMediaType>image/jp2</internetMediaType>
+      <digitalOrigin>digitized other analog</digitalOrigin>
+   </physicalDescription>
+  <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+  <accessCondition>This digital image may be used for educational or scholarly purposes
+			without restriction. Commercial and other uses of the item are prohibited without prior
+			written permission from the New-York Historical Society. For more information, please
+			visit the New-York Historical Society's Rights and Reproductions Department web page
+			at http://www.nyhistory.org/about/rights-reproductions</accessCondition>
+  <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Robert L. Bracklow Photograph Collection</title>
+      </titleInfo>
+   </relatedItem>
+  <relatedItem type="host" displayLabel="Collection">
+      <abstract>The Robert L. Bracklow Photograph Collection spans the period from 1882-1918
+				and contains photonegatives, copy prints, and original photographic prints of
+				Bracklow’s photographs of New York City, its immediate environs, and towns
+				throughout New England. Bracklow’s photographs often show elements of Manhattan in
+				flux: old houses, new skyscrapers, and buildings in different stages of
+				construction. The handmade albums showcase Coney Island, Fort Washington, the 1899
+				Dewey celebration, naval parades along the Hudson, and newsboys hawking
+				Spanish-American War bulletins. Also documented are excursions with friends to
+				Harper’s Ferry, New England, Long Island, New Jersey, and Staten Island. Scenes with
+				Camera Club members on some trips reflect the convivial atmosphere of photographic
+				outings. Bracklow’s original prints of New York City and of vacations he took in New
+				England can be found in the photograph albums and loose prints given to the New-York
+				Historical Society by Ruth Trappan.</abstract>
+   </relatedItem>
+  <note type="ownership">New-York Historical Society, 170 Central Park West, New York, NY
+			10024, 212-873-3400.</note>
+  <identifier type="local">NYHS_PR008_66000_U2504</identifier>
+  <recordInfo>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/nyhs%3A2246</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:nyhs_2245</identifier><datestamp>2015-10-05T18:22:06Z</datestamp><setSpec>nyhs_bracklow</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+      <title>Unidentified house, undated (ca. 1882-1919).</title>
+   </titleInfo>
+  <name authority="naf" type="personal">
+      <namePart>Bracklow, Robert L., 1849-1919</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="text">Creator</roleTerm>
+      </role>
+   </name>
+  <name authority="naf" type="personal">
+      <namePart>Alland, Alexander</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="text">Contributor</roleTerm>
+      </role>
+   </name>
+  <originInfo>
+      <dateCreated keyDate="yes" encoding="w3cdtf" point="start" qualifier="approximate">1882</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end" qualifier="approximate">1919</dateCreated>
+   </originInfo>
+  <note>Robert Louis Bracklow (1849-1919) was an amateur photographer and stationer. He was an
+			active member of the Society of Amateur Photographers of New York (later the Camera
+			Club), where he exhibited photographs with fellow amateur Richard H. Lawrence and with
+			Alfred Stieglitz.</note>
+  <typeOfResource>still image</typeOfResource>
+  <genre>Glass negative</genre>
+  <genre>Negatives (photographic)</genre>
+  <physicalDescription>
+      <extent>5 in. x 7 in.</extent>
+      <internetMediaType>image/jp2</internetMediaType>
+      <digitalOrigin>digitized other analog</digitalOrigin>
+   </physicalDescription>
+  <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+  <accessCondition>This digital image may be used for educational or scholarly purposes
+			without restriction. Commercial and other uses of the item are prohibited without prior
+			written permission from the New-York Historical Society. For more information, please
+			visit the New-York Historical Society's Rights and Reproductions Department web page
+			at http://www.nyhistory.org/about/rights-reproductions</accessCondition>
+  <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Robert L. Bracklow Photograph Collection</title>
+      </titleInfo>
+   </relatedItem>
+  <relatedItem type="host" displayLabel="Collection">
+      <abstract>The Robert L. Bracklow Photograph Collection spans the period from 1882-1918
+				and contains photonegatives, copy prints, and original photographic prints of
+				Bracklow’s photographs of New York City, its immediate environs, and towns
+				throughout New England. Bracklow’s photographs often show elements of Manhattan in
+				flux: old houses, new skyscrapers, and buildings in different stages of
+				construction. The handmade albums showcase Coney Island, Fort Washington, the 1899
+				Dewey celebration, naval parades along the Hudson, and newsboys hawking
+				Spanish-American War bulletins. Also documented are excursions with friends to
+				Harper’s Ferry, New England, Long Island, New Jersey, and Staten Island. Scenes with
+				Camera Club members on some trips reflect the convivial atmosphere of photographic
+				outings. Bracklow’s original prints of New York City and of vacations he took in New
+				England can be found in the photograph albums and loose prints given to the New-York
+				Historical Society by Ruth Trappan.</abstract>
+   </relatedItem>
+  <note type="ownership">New-York Historical Society, 170 Central Park West, New York, NY
+			10024, 212-873-3400.</note>
+  <identifier type="local">NYHS_PR008_66000_U2503</identifier>
+  <recordInfo>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/nyhs%3A2245</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:nyhs_2244</identifier><datestamp>2015-10-05T18:22:08Z</datestamp><setSpec>nyhs_bracklow</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+      <title>Massachusetts State House, Boston, Massachusetts, undated (ca.
+				1882-1919).</title>
+   </titleInfo>
+  <name authority="naf" type="personal">
+      <namePart>Bracklow, Robert L., 1849-1919</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="text">Creator</roleTerm>
+      </role>
+   </name>
+  <name authority="naf" type="personal">
+      <namePart>Alland, Alexander</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="text">Contributor</roleTerm>
+      </role>
+   </name>
+  <subject authority="lcsh">
+      <topic>Boston (Mass.)--Photographs</topic>
+   </subject>
+  <subject authority="lcsh">
+      <topic>Boston (Mass.)--Buildings, structures, etc.--Photographs</topic>
+   </subject>
+  <subject authority="lcsh">
+      <geographic>Boston (Mass.)</geographic>
+   </subject>
+  <originInfo>
+      <dateCreated keyDate="yes" encoding="w3cdtf" point="start" qualifier="approximate">1882</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end" qualifier="approximate">1919</dateCreated>
+   </originInfo>
+  <note>Robert Louis Bracklow (1849-1919) was an amateur photographer and stationer. He was an
+			active member of the Society of Amateur Photographers of New York (later the Camera
+			Club), where he exhibited photographs with fellow amateur Richard H. Lawrence and with
+			Alfred Stieglitz.</note>
+  <typeOfResource>still image</typeOfResource>
+  <genre>Glass negative</genre>
+  <genre>Negatives (photographic)</genre>
+  <physicalDescription>
+      <extent>5 in. x 7 in.</extent>
+      <internetMediaType>image/jp2</internetMediaType>
+      <digitalOrigin>digitized other analog</digitalOrigin>
+   </physicalDescription>
+  <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+  <accessCondition>This digital image may be used for educational or scholarly purposes
+			without restriction. Commercial and other uses of the item are prohibited without prior
+			written permission from the New-York Historical Society. For more information, please
+			visit the New-York Historical Society's Rights and Reproductions Department web page
+			at http://www.nyhistory.org/about/rights-reproductions</accessCondition>
+  <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Robert L. Bracklow Photograph Collection</title>
+      </titleInfo>
+   </relatedItem>
+  <relatedItem type="host" displayLabel="Collection">
+      <abstract>The Robert L. Bracklow Photograph Collection spans the period from 1882-1918
+				and contains photonegatives, copy prints, and original photographic prints of
+				Bracklow’s photographs of New York City, its immediate environs, and towns
+				throughout New England. Bracklow’s photographs often show elements of Manhattan in
+				flux: old houses, new skyscrapers, and buildings in different stages of
+				construction. The handmade albums showcase Coney Island, Fort Washington, the 1899
+				Dewey celebration, naval parades along the Hudson, and newsboys hawking
+				Spanish-American War bulletins. Also documented are excursions with friends to
+				Harper’s Ferry, New England, Long Island, New Jersey, and Staten Island. Scenes with
+				Camera Club members on some trips reflect the convivial atmosphere of photographic
+				outings. Bracklow’s original prints of New York City and of vacations he took in New
+				England can be found in the photograph albums and loose prints given to the New-York
+				Historical Society by Ruth Trappan.</abstract>
+   </relatedItem>
+  <note type="ownership">New-York Historical Society, 170 Central Park West, New York, NY
+			10024, 212-873-3400.</note>
+  <identifier type="local">NYHS_PR008_66000_U2502</identifier>
+  <recordInfo>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/nyhs%3A2244</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:nyhs_2243</identifier><datestamp>2015-10-05T18:22:09Z</datestamp><setSpec>nyhs_bracklow</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+      <title>Unidentified Dutch-style farmhouse, possibly on Gravesend Neck Road, Brooklyn,
+				New York, undated (ca. 1882-1919).</title>
+   </titleInfo>
+  <name authority="naf" type="personal">
+      <namePart>Bracklow, Robert L., 1849-1919</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="text">Creator</roleTerm>
+      </role>
+   </name>
+  <name authority="naf" type="personal">
+      <namePart>Alland, Alexander</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="text">Contributor</roleTerm>
+      </role>
+   </name>
+  <subject authority="lcsh">
+      <topic>New York (N.Y.)--Photographs</topic>
+   </subject>
+  <subject authority="lcsh">
+      <topic>Brooklyn (New York, N.Y.)--Photographs</topic>
+   </subject>
+  <subject authority="lcsh">
+      <topic>New York (N.Y.)--Buildings, structures, etc.--Photographs</topic>
+   </subject>
+  <subject authority="lcsh">
+      <geographic>New York (N.Y.)</geographic>
+   </subject>
+  <subject authority="lcsh">
+      <geographic>Brooklyn (New York, N.Y.)</geographic>
+   </subject>
+  <originInfo>
+      <dateCreated keyDate="yes" encoding="w3cdtf" point="start" qualifier="approximate">1882</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end" qualifier="approximate">1919</dateCreated>
+   </originInfo>
+  <note>Robert Louis Bracklow (1849-1919) was an amateur photographer and stationer. He was an
+			active member of the Society of Amateur Photographers of New York (later the Camera
+			Club), where he exhibited photographs with fellow amateur Richard H. Lawrence and with
+			Alfred Stieglitz.</note>
+  <typeOfResource>still image</typeOfResource>
+  <genre>Glass negative</genre>
+  <genre>Negatives (photographic)</genre>
+  <physicalDescription>
+      <extent>5 in. x 7 in.</extent>
+      <internetMediaType>image/jp2</internetMediaType>
+      <digitalOrigin>digitized other analog</digitalOrigin>
+   </physicalDescription>
+  <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+  <accessCondition>This digital image may be used for educational or scholarly purposes
+			without restriction. Commercial and other uses of the item are prohibited without prior
+			written permission from the New-York Historical Society. For more information, please
+			visit the New-York Historical Society's Rights and Reproductions Department web page
+			at http://www.nyhistory.org/about/rights-reproductions</accessCondition>
+  <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Robert L. Bracklow Photograph Collection</title>
+      </titleInfo>
+   </relatedItem>
+  <relatedItem type="host" displayLabel="Collection">
+      <abstract>The Robert L. Bracklow Photograph Collection spans the period from 1882-1918
+				and contains photonegatives, copy prints, and original photographic prints of
+				Bracklow’s photographs of New York City, its immediate environs, and towns
+				throughout New England. Bracklow’s photographs often show elements of Manhattan in
+				flux: old houses, new skyscrapers, and buildings in different stages of
+				construction. The handmade albums showcase Coney Island, Fort Washington, the 1899
+				Dewey celebration, naval parades along the Hudson, and newsboys hawking
+				Spanish-American War bulletins. Also documented are excursions with friends to
+				Harper’s Ferry, New England, Long Island, New Jersey, and Staten Island. Scenes with
+				Camera Club members on some trips reflect the convivial atmosphere of photographic
+				outings. Bracklow’s original prints of New York City and of vacations he took in New
+				England can be found in the photograph albums and loose prints given to the New-York
+				Historical Society by Ruth Trappan.</abstract>
+   </relatedItem>
+  <note type="ownership">New-York Historical Society, 170 Central Park West, New York, NY
+			10024, 212-873-3400.</note>
+  <identifier type="local">NYHS_PR008_66000_U2501</identifier>
+  <recordInfo>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/nyhs%3A2243</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:nyhs_2242</identifier><datestamp>2015-10-05T18:22:10Z</datestamp><setSpec>nyhs_bracklow</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+      <title>Unidentified house, undated (ca. 1882-1919).</title>
+   </titleInfo>
+  <name authority="naf" type="personal">
+      <namePart>Bracklow, Robert L., 1849-1919</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="text">Creator</roleTerm>
+      </role>
+   </name>
+  <name authority="naf" type="personal">
+      <namePart>Alland, Alexander</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="text">Contributor</roleTerm>
+      </role>
+   </name>
+  <originInfo>
+      <dateCreated keyDate="yes" encoding="w3cdtf" point="start" qualifier="approximate">1882</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end" qualifier="approximate">1919</dateCreated>
+   </originInfo>
+  <note>Robert Louis Bracklow (1849-1919) was an amateur photographer and stationer. He was an
+			active member of the Society of Amateur Photographers of New York (later the Camera
+			Club), where he exhibited photographs with fellow amateur Richard H. Lawrence and with
+			Alfred Stieglitz.</note>
+  <typeOfResource>still image</typeOfResource>
+  <genre>Glass negative</genre>
+  <genre>Negatives (photographic)</genre>
+  <physicalDescription>
+      <extent>5 in. x 7 in.</extent>
+      <internetMediaType>image/jp2</internetMediaType>
+      <digitalOrigin>digitized other analog</digitalOrigin>
+   </physicalDescription>
+  <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+  <accessCondition>This digital image may be used for educational or scholarly purposes
+			without restriction. Commercial and other uses of the item are prohibited without prior
+			written permission from the New-York Historical Society. For more information, please
+			visit the New-York Historical Society's Rights and Reproductions Department web page
+			at http://www.nyhistory.org/about/rights-reproductions</accessCondition>
+  <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Robert L. Bracklow Photograph Collection</title>
+      </titleInfo>
+   </relatedItem>
+  <relatedItem type="host" displayLabel="Collection">
+      <abstract>The Robert L. Bracklow Photograph Collection spans the period from 1882-1918
+				and contains photonegatives, copy prints, and original photographic prints of
+				Bracklow’s photographs of New York City, its immediate environs, and towns
+				throughout New England. Bracklow’s photographs often show elements of Manhattan in
+				flux: old houses, new skyscrapers, and buildings in different stages of
+				construction. The handmade albums showcase Coney Island, Fort Washington, the 1899
+				Dewey celebration, naval parades along the Hudson, and newsboys hawking
+				Spanish-American War bulletins. Also documented are excursions with friends to
+				Harper’s Ferry, New England, Long Island, New Jersey, and Staten Island. Scenes with
+				Camera Club members on some trips reflect the convivial atmosphere of photographic
+				outings. Bracklow’s original prints of New York City and of vacations he took in New
+				England can be found in the photograph albums and loose prints given to the New-York
+				Historical Society by Ruth Trappan.</abstract>
+   </relatedItem>
+  <note type="ownership">New-York Historical Society, 170 Central Park West, New York, NY
+			10024, 212-873-3400.</note>
+  <identifier type="local">NYHS_PR008_66000_U2500</identifier>
+  <recordInfo>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/nyhs%3A2242</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:nyhs_2241</identifier><datestamp>2015-10-05T18:22:11Z</datestamp><setSpec>nyhs_bracklow</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+      <title>The Wyckoff-Bennet Homestead, 1690 (now 1699) E. 22nd Street, Gravesend,
+				Brooklyn, New York, undated (ca. 1882-1919). Little girl may be Gertrude Ryder
+				Bennett.</title>
+   </titleInfo>
+  <name authority="naf" type="personal">
+      <namePart>Bracklow, Robert L., 1849-1919</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="text">Creator</roleTerm>
+      </role>
+   </name>
+  <name authority="naf" type="personal">
+      <namePart>Alland, Alexander</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="text">Contributor</roleTerm>
+      </role>
+   </name>
+  <subject authority="lcsh">
+      <topic>New York (N.Y.)--Photographs</topic>
+   </subject>
+  <subject authority="lcsh">
+      <topic>Brooklyn (New York, N.Y.)--Photographs</topic>
+   </subject>
+  <subject authority="lcsh">
+      <topic>New York (N.Y.)--Buildings, structures, etc.--Photographs</topic>
+   </subject>
+  <subject authority="lcsh">
+      <geographic>New York (N.Y.)</geographic>
+   </subject>
+  <subject authority="lcsh">
+      <geographic>Brooklyn (New York, N.Y.)</geographic>
+   </subject>
+  <originInfo>
+      <dateCreated keyDate="yes" encoding="w3cdtf" point="start" qualifier="approximate">1882</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end" qualifier="approximate">1919</dateCreated>
+   </originInfo>
+  <note>Robert Louis Bracklow (1849-1919) was an amateur photographer and stationer. He was an
+			active member of the Society of Amateur Photographers of New York (later the Camera
+			Club), where he exhibited photographs with fellow amateur Richard H. Lawrence and with
+			Alfred Stieglitz.</note>
+  <typeOfResource>still image</typeOfResource>
+  <genre>Glass negative</genre>
+  <genre>Negatives (photographic)</genre>
+  <physicalDescription>
+      <extent>5 in. x 7 in.</extent>
+      <internetMediaType>image/jp2</internetMediaType>
+      <digitalOrigin>digitized other analog</digitalOrigin>
+   </physicalDescription>
+  <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+  <accessCondition>This digital image may be used for educational or scholarly purposes
+			without restriction. Commercial and other uses of the item are prohibited without prior
+			written permission from the New-York Historical Society. For more information, please
+			visit the New-York Historical Society's Rights and Reproductions Department web page
+			at http://www.nyhistory.org/about/rights-reproductions</accessCondition>
+  <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Robert L. Bracklow Photograph Collection</title>
+      </titleInfo>
+   </relatedItem>
+  <relatedItem type="host" displayLabel="Collection">
+      <abstract>The Robert L. Bracklow Photograph Collection spans the period from 1882-1918
+				and contains photonegatives, copy prints, and original photographic prints of
+				Bracklow’s photographs of New York City, its immediate environs, and towns
+				throughout New England. Bracklow’s photographs often show elements of Manhattan in
+				flux: old houses, new skyscrapers, and buildings in different stages of
+				construction. The handmade albums showcase Coney Island, Fort Washington, the 1899
+				Dewey celebration, naval parades along the Hudson, and newsboys hawking
+				Spanish-American War bulletins. Also documented are excursions with friends to
+				Harper’s Ferry, New England, Long Island, New Jersey, and Staten Island. Scenes with
+				Camera Club members on some trips reflect the convivial atmosphere of photographic
+				outings. Bracklow’s original prints of New York City and of vacations he took in New
+				England can be found in the photograph albums and loose prints given to the New-York
+				Historical Society by Ruth Trappan.</abstract>
+   </relatedItem>
+  <note type="ownership">New-York Historical Society, 170 Central Park West, New York, NY
+			10024, 212-873-3400.</note>
+  <identifier type="local">NYHS_PR008_66000_U2499</identifier>
+  <recordInfo>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/nyhs%3A2241</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:nyhs_2240</identifier><datestamp>2015-10-05T18:22:13Z</datestamp><setSpec>nyhs_bracklow</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+      <title>Unidentified house with Greek revival façade, undated (ca. 1882-1919).</title>
+   </titleInfo>
+  <name authority="naf" type="personal">
+      <namePart>Bracklow, Robert L., 1849-1919</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="text">Creator</roleTerm>
+      </role>
+   </name>
+  <name authority="naf" type="personal">
+      <namePart>Alland, Alexander</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="text">Contributor</roleTerm>
+      </role>
+   </name>
+  <originInfo>
+      <dateCreated keyDate="yes" encoding="w3cdtf" point="start" qualifier="approximate">1882</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end" qualifier="approximate">1919</dateCreated>
+   </originInfo>
+  <note>Robert Louis Bracklow (1849-1919) was an amateur photographer and stationer. He was an
+			active member of the Society of Amateur Photographers of New York (later the Camera
+			Club), where he exhibited photographs with fellow amateur Richard H. Lawrence and with
+			Alfred Stieglitz.</note>
+  <typeOfResource>still image</typeOfResource>
+  <genre>Glass negative</genre>
+  <genre>Negatives (photographic)</genre>
+  <physicalDescription>
+      <extent>5 in. x 7 in.</extent>
+      <internetMediaType>image/jp2</internetMediaType>
+      <digitalOrigin>digitized other analog</digitalOrigin>
+   </physicalDescription>
+  <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+  <accessCondition>This digital image may be used for educational or scholarly purposes
+			without restriction. Commercial and other uses of the item are prohibited without prior
+			written permission from the New-York Historical Society. For more information, please
+			visit the New-York Historical Society's Rights and Reproductions Department web page
+			at http://www.nyhistory.org/about/rights-reproductions</accessCondition>
+  <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Robert L. Bracklow Photograph Collection</title>
+      </titleInfo>
+   </relatedItem>
+  <relatedItem type="host" displayLabel="Collection">
+      <abstract>The Robert L. Bracklow Photograph Collection spans the period from 1882-1918
+				and contains photonegatives, copy prints, and original photographic prints of
+				Bracklow’s photographs of New York City, its immediate environs, and towns
+				throughout New England. Bracklow’s photographs often show elements of Manhattan in
+				flux: old houses, new skyscrapers, and buildings in different stages of
+				construction. The handmade albums showcase Coney Island, Fort Washington, the 1899
+				Dewey celebration, naval parades along the Hudson, and newsboys hawking
+				Spanish-American War bulletins. Also documented are excursions with friends to
+				Harper’s Ferry, New England, Long Island, New Jersey, and Staten Island. Scenes with
+				Camera Club members on some trips reflect the convivial atmosphere of photographic
+				outings. Bracklow’s original prints of New York City and of vacations he took in New
+				England can be found in the photograph albums and loose prints given to the New-York
+				Historical Society by Ruth Trappan.</abstract>
+   </relatedItem>
+  <note type="ownership">New-York Historical Society, 170 Central Park West, New York, NY
+			10024, 212-873-3400.</note>
+  <identifier type="local">NYHS_PR008_66000_U2498</identifier>
+  <recordInfo>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/nyhs%3A2240</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:nyhs_2239</identifier><datestamp>2015-10-05T18:22:15Z</datestamp><setSpec>nyhs_bracklow</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+      <title>Unidentified hotel on a hill, Marcblehead Neck (?), Massachusetts, undated (ca.
+				1882-1919). </title>
+   </titleInfo>
+  <name authority="naf" type="personal">
+      <namePart>Bracklow, Robert L., 1849-1919</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="text">Creator</roleTerm>
+      </role>
+   </name>
+  <name authority="naf" type="personal">
+      <namePart>Alland, Alexander</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="text">Contributor</roleTerm>
+      </role>
+   </name>
+  <subject authority="lcsh">
+      <topic>Hotels--Massachusetts--Marblehead Neck--Photographs</topic>
+   </subject>
+  <subject authority="lcsh">
+      <topic>Marblehead (Mass.)--Photographs</topic>
+   </subject>
+  <subject authority="lcsh">
+      <topic>Marblehead (Mass.)--Buildings, structures, etc.--Photographs</topic>
+   </subject>
+  <subject authority="lcsh">
+      <geographic>Marblehead (Mass.)</geographic>
+   </subject>
+  <originInfo>
+      <dateCreated keyDate="yes" encoding="w3cdtf" point="start" qualifier="approximate">1882</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end" qualifier="approximate">1919</dateCreated>
+   </originInfo>
+  <note>Robert Louis Bracklow (1849-1919) was an amateur photographer and stationer. He was an
+			active member of the Society of Amateur Photographers of New York (later the Camera
+			Club), where he exhibited photographs with fellow amateur Richard H. Lawrence and with
+			Alfred Stieglitz.</note>
+  <typeOfResource>still image</typeOfResource>
+  <genre>Glass negative</genre>
+  <genre>Negatives (photographic)</genre>
+  <physicalDescription>
+      <extent>5 in. x 7 in.</extent>
+      <internetMediaType>image/jp2</internetMediaType>
+      <digitalOrigin>digitized other analog</digitalOrigin>
+   </physicalDescription>
+  <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+  <accessCondition>This digital image may be used for educational or scholarly purposes
+			without restriction. Commercial and other uses of the item are prohibited without prior
+			written permission from the New-York Historical Society. For more information, please
+			visit the New-York Historical Society's Rights and Reproductions Department web page
+			at http://www.nyhistory.org/about/rights-reproductions</accessCondition>
+  <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Robert L. Bracklow Photograph Collection</title>
+      </titleInfo>
+   </relatedItem>
+  <relatedItem type="host" displayLabel="Collection">
+      <abstract>The Robert L. Bracklow Photograph Collection spans the period from 1882-1918
+				and contains photonegatives, copy prints, and original photographic prints of
+				Bracklow’s photographs of New York City, its immediate environs, and towns
+				throughout New England. Bracklow’s photographs often show elements of Manhattan in
+				flux: old houses, new skyscrapers, and buildings in different stages of
+				construction. The handmade albums showcase Coney Island, Fort Washington, the 1899
+				Dewey celebration, naval parades along the Hudson, and newsboys hawking
+				Spanish-American War bulletins. Also documented are excursions with friends to
+				Harper’s Ferry, New England, Long Island, New Jersey, and Staten Island. Scenes with
+				Camera Club members on some trips reflect the convivial atmosphere of photographic
+				outings. Bracklow’s original prints of New York City and of vacations he took in New
+				England can be found in the photograph albums and loose prints given to the New-York
+				Historical Society by Ruth Trappan.</abstract>
+   </relatedItem>
+  <note type="ownership">New-York Historical Society, 170 Central Park West, New York, NY
+			10024, 212-873-3400.</note>
+  <identifier type="local">NYHS_PR008_66000_U2497</identifier>
+  <recordInfo>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/nyhs%3A2239</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:nyhs_2238</identifier><datestamp>2015-10-05T18:22:16Z</datestamp><setSpec>nyhs_bracklow</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+      <title>Unidentified house, undated (ca. 1882-1919).</title>
+   </titleInfo>
+  <name authority="naf" type="personal">
+      <namePart>Bracklow, Robert L., 1849-1919</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="text">Creator</roleTerm>
+      </role>
+   </name>
+  <name authority="naf" type="personal">
+      <namePart>Alland, Alexander</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="text">Contributor</roleTerm>
+      </role>
+   </name>
+  <originInfo>
+      <dateCreated keyDate="yes" encoding="w3cdtf" point="start" qualifier="approximate">1882</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end" qualifier="approximate">1919</dateCreated>
+   </originInfo>
+  <note>Robert Louis Bracklow (1849-1919) was an amateur photographer and stationer. He was an
+			active member of the Society of Amateur Photographers of New York (later the Camera
+			Club), where he exhibited photographs with fellow amateur Richard H. Lawrence and with
+			Alfred Stieglitz.</note>
+  <typeOfResource>still image</typeOfResource>
+  <genre>Glass negative</genre>
+  <genre>Negatives (photographic)</genre>
+  <physicalDescription>
+      <extent>5 in. x 7 in.</extent>
+      <internetMediaType>image/jp2</internetMediaType>
+      <digitalOrigin>digitized other analog</digitalOrigin>
+   </physicalDescription>
+  <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+  <accessCondition>This digital image may be used for educational or scholarly purposes
+			without restriction. Commercial and other uses of the item are prohibited without prior
+			written permission from the New-York Historical Society. For more information, please
+			visit the New-York Historical Society's Rights and Reproductions Department web page
+			at http://www.nyhistory.org/about/rights-reproductions</accessCondition>
+  <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Robert L. Bracklow Photograph Collection</title>
+      </titleInfo>
+   </relatedItem>
+  <relatedItem type="host" displayLabel="Collection">
+      <abstract>The Robert L. Bracklow Photograph Collection spans the period from 1882-1918
+				and contains photonegatives, copy prints, and original photographic prints of
+				Bracklow’s photographs of New York City, its immediate environs, and towns
+				throughout New England. Bracklow’s photographs often show elements of Manhattan in
+				flux: old houses, new skyscrapers, and buildings in different stages of
+				construction. The handmade albums showcase Coney Island, Fort Washington, the 1899
+				Dewey celebration, naval parades along the Hudson, and newsboys hawking
+				Spanish-American War bulletins. Also documented are excursions with friends to
+				Harper’s Ferry, New England, Long Island, New Jersey, and Staten Island. Scenes with
+				Camera Club members on some trips reflect the convivial atmosphere of photographic
+				outings. Bracklow’s original prints of New York City and of vacations he took in New
+				England can be found in the photograph albums and loose prints given to the New-York
+				Historical Society by Ruth Trappan.</abstract>
+   </relatedItem>
+  <note type="ownership">New-York Historical Society, 170 Central Park West, New York, NY
+			10024, 212-873-3400.</note>
+  <identifier type="local">NYHS_PR008_66000_U2496</identifier>
+  <recordInfo>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/nyhs%3A2238</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:nyhs_2237</identifier><datestamp>2015-10-05T18:22:17Z</datestamp><setSpec>nyhs_bracklow</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+      <title>The Van Nuyse-Bergen House, 1044 E. 5th Street, New Utrecht, Brooklyn, New York,
+				undated (ca. 1882-1919).</title>
+   </titleInfo>
+  <name authority="naf" type="personal">
+      <namePart>Bracklow, Robert L., 1849-1919</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="text">Creator</roleTerm>
+      </role>
+   </name>
+  <name authority="naf" type="personal">
+      <namePart>Alland, Alexander</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="text">Contributor</roleTerm>
+      </role>
+   </name>
+  <subject authority="lcsh">
+      <topic>New York (N.Y.)--Photographs</topic>
+   </subject>
+  <subject authority="lcsh">
+      <topic>Brooklyn (New York, N.Y.)--Photographs</topic>
+   </subject>
+  <subject authority="lcsh">
+      <topic>New York (N.Y.)--Buildings, structures, etc.--Photographs</topic>
+   </subject>
+  <subject authority="lcsh">
+      <geographic>New York (N.Y.)</geographic>
+   </subject>
+  <subject authority="lcsh">
+      <geographic>Brooklyn (New York, N.Y.)</geographic>
+   </subject>
+  <originInfo>
+      <dateCreated keyDate="yes" encoding="w3cdtf" point="start" qualifier="approximate">1882</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end" qualifier="approximate">1919</dateCreated>
+   </originInfo>
+  <note>Robert Louis Bracklow (1849-1919) was an amateur photographer and stationer. He was an
+			active member of the Society of Amateur Photographers of New York (later the Camera
+			Club), where he exhibited photographs with fellow amateur Richard H. Lawrence and with
+			Alfred Stieglitz.</note>
+  <typeOfResource>still image</typeOfResource>
+  <genre>Glass negative</genre>
+  <genre>Negatives (photographic)</genre>
+  <physicalDescription>
+      <extent>5 in. x 7 in.</extent>
+      <internetMediaType>image/jp2</internetMediaType>
+      <digitalOrigin>digitized other analog</digitalOrigin>
+   </physicalDescription>
+  <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+  <accessCondition>This digital image may be used for educational or scholarly purposes
+			without restriction. Commercial and other uses of the item are prohibited without prior
+			written permission from the New-York Historical Society. For more information, please
+			visit the New-York Historical Society's Rights and Reproductions Department web page
+			at http://www.nyhistory.org/about/rights-reproductions</accessCondition>
+  <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Robert L. Bracklow Photograph Collection</title>
+      </titleInfo>
+   </relatedItem>
+  <relatedItem type="host" displayLabel="Collection">
+      <abstract>The Robert L. Bracklow Photograph Collection spans the period from 1882-1918
+				and contains photonegatives, copy prints, and original photographic prints of
+				Bracklow’s photographs of New York City, its immediate environs, and towns
+				throughout New England. Bracklow’s photographs often show elements of Manhattan in
+				flux: old houses, new skyscrapers, and buildings in different stages of
+				construction. The handmade albums showcase Coney Island, Fort Washington, the 1899
+				Dewey celebration, naval parades along the Hudson, and newsboys hawking
+				Spanish-American War bulletins. Also documented are excursions with friends to
+				Harper’s Ferry, New England, Long Island, New Jersey, and Staten Island. Scenes with
+				Camera Club members on some trips reflect the convivial atmosphere of photographic
+				outings. Bracklow’s original prints of New York City and of vacations he took in New
+				England can be found in the photograph albums and loose prints given to the New-York
+				Historical Society by Ruth Trappan.</abstract>
+   </relatedItem>
+  <note type="ownership">New-York Historical Society, 170 Central Park West, New York, NY
+			10024, 212-873-3400.</note>
+  <identifier type="local">NYHS_PR008_66000_U2495</identifier>
+  <recordInfo>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/nyhs%3A2237</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:nyhs_2236</identifier><datestamp>2015-10-05T18:22:18Z</datestamp><setSpec>nyhs_bracklow</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+      <title>Clinton House, location unidentified, undated (ca. 1882-1919). Heavy emulsion
+				damage.</title>
+   </titleInfo>
+  <name authority="naf" type="personal">
+      <namePart>Bracklow, Robert L., 1849-1919</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="text">Creator</roleTerm>
+      </role>
+   </name>
+  <name authority="naf" type="personal">
+      <namePart>Alland, Alexander</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="text">Contributor</roleTerm>
+      </role>
+   </name>
+  <originInfo>
+      <dateCreated keyDate="yes" encoding="w3cdtf" point="start" qualifier="approximate">1882</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end" qualifier="approximate">1919</dateCreated>
+   </originInfo>
+  <note>Robert Louis Bracklow (1849-1919) was an amateur photographer and stationer. He was an
+			active member of the Society of Amateur Photographers of New York (later the Camera
+			Club), where he exhibited photographs with fellow amateur Richard H. Lawrence and with
+			Alfred Stieglitz.</note>
+  <typeOfResource>still image</typeOfResource>
+  <genre>Glass negative</genre>
+  <genre>Negatives (photographic)</genre>
+  <physicalDescription>
+      <extent>5 in. x 7 in.</extent>
+      <internetMediaType>image/jp2</internetMediaType>
+      <digitalOrigin>digitized other analog</digitalOrigin>
+   </physicalDescription>
+  <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+  <accessCondition>This digital image may be used for educational or scholarly purposes
+			without restriction. Commercial and other uses of the item are prohibited without prior
+			written permission from the New-York Historical Society. For more information, please
+			visit the New-York Historical Society's Rights and Reproductions Department web page
+			at http://www.nyhistory.org/about/rights-reproductions</accessCondition>
+  <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Robert L. Bracklow Photograph Collection</title>
+      </titleInfo>
+   </relatedItem>
+  <relatedItem type="host" displayLabel="Collection">
+      <abstract>The Robert L. Bracklow Photograph Collection spans the period from 1882-1918
+				and contains photonegatives, copy prints, and original photographic prints of
+				Bracklow’s photographs of New York City, its immediate environs, and towns
+				throughout New England. Bracklow’s photographs often show elements of Manhattan in
+				flux: old houses, new skyscrapers, and buildings in different stages of
+				construction. The handmade albums showcase Coney Island, Fort Washington, the 1899
+				Dewey celebration, naval parades along the Hudson, and newsboys hawking
+				Spanish-American War bulletins. Also documented are excursions with friends to
+				Harper’s Ferry, New England, Long Island, New Jersey, and Staten Island. Scenes with
+				Camera Club members on some trips reflect the convivial atmosphere of photographic
+				outings. Bracklow’s original prints of New York City and of vacations he took in New
+				England can be found in the photograph albums and loose prints given to the New-York
+				Historical Society by Ruth Trappan.</abstract>
+   </relatedItem>
+  <note type="ownership">New-York Historical Society, 170 Central Park West, New York, NY
+			10024, 212-873-3400.</note>
+  <identifier type="local">NYHS_PR008_66000_U2494</identifier>
+  <recordInfo>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/nyhs%3A2236</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:nyhs_2235</identifier><datestamp>2015-10-05T18:22:20Z</datestamp><setSpec>nyhs_bracklow</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+      <title>Unidentified house near Tucker's Wharf, Marblehead, Massachusetts, undated (ca.
+				1882-1919).</title>
+   </titleInfo>
+  <name authority="naf" type="personal">
+      <namePart>Bracklow, Robert L., 1849-1919</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="text">Creator</roleTerm>
+      </role>
+   </name>
+  <name authority="naf" type="personal">
+      <namePart>Alland, Alexander</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="text">Contributor</roleTerm>
+      </role>
+   </name>
+  <subject authority="lcsh">
+      <topic>Marblehead (Mass.)--Photographs</topic>
+   </subject>
+  <subject authority="lcsh">
+      <topic>Marblehead (Mass.)--Buildings, structures, etc.--Photographs</topic>
+   </subject>
+  <subject authority="lcsh">
+      <geographic>Marblehead (Mass.)</geographic>
+   </subject>
+  <originInfo>
+      <dateCreated keyDate="yes" encoding="w3cdtf" point="start" qualifier="approximate">1882</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end" qualifier="approximate">1919</dateCreated>
+   </originInfo>
+  <note>Robert Louis Bracklow (1849-1919) was an amateur photographer and stationer. He was an
+			active member of the Society of Amateur Photographers of New York (later the Camera
+			Club), where he exhibited photographs with fellow amateur Richard H. Lawrence and with
+			Alfred Stieglitz.</note>
+  <typeOfResource>still image</typeOfResource>
+  <genre>Glass negative</genre>
+  <genre>Negatives (photographic)</genre>
+  <physicalDescription>
+      <extent>5 in. x 7 in.</extent>
+      <internetMediaType>image/jp2</internetMediaType>
+      <digitalOrigin>digitized other analog</digitalOrigin>
+   </physicalDescription>
+  <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+  <accessCondition>This digital image may be used for educational or scholarly purposes
+			without restriction. Commercial and other uses of the item are prohibited without prior
+			written permission from the New-York Historical Society. For more information, please
+			visit the New-York Historical Society's Rights and Reproductions Department web page
+			at http://www.nyhistory.org/about/rights-reproductions</accessCondition>
+  <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Robert L. Bracklow Photograph Collection</title>
+      </titleInfo>
+   </relatedItem>
+  <relatedItem type="host" displayLabel="Collection">
+      <abstract>The Robert L. Bracklow Photograph Collection spans the period from 1882-1918
+				and contains photonegatives, copy prints, and original photographic prints of
+				Bracklow’s photographs of New York City, its immediate environs, and towns
+				throughout New England. Bracklow’s photographs often show elements of Manhattan in
+				flux: old houses, new skyscrapers, and buildings in different stages of
+				construction. The handmade albums showcase Coney Island, Fort Washington, the 1899
+				Dewey celebration, naval parades along the Hudson, and newsboys hawking
+				Spanish-American War bulletins. Also documented are excursions with friends to
+				Harper’s Ferry, New England, Long Island, New Jersey, and Staten Island. Scenes with
+				Camera Club members on some trips reflect the convivial atmosphere of photographic
+				outings. Bracklow’s original prints of New York City and of vacations he took in New
+				England can be found in the photograph albums and loose prints given to the New-York
+				Historical Society by Ruth Trappan.</abstract>
+   </relatedItem>
+  <note type="ownership">New-York Historical Society, 170 Central Park West, New York, NY
+			10024, 212-873-3400.</note>
+  <identifier type="local">NYHS_PR008_66000_U2493</identifier>
+  <recordInfo>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/nyhs%3A2235</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:nyhs_2234</identifier><datestamp>2015-10-05T18:22:21Z</datestamp><setSpec>nyhs_bracklow</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+      <title>Rufus King Manor, Jamaica, Queens, New York City, undated (ca.
+				1882-1919).</title>
+   </titleInfo>
+  <name authority="naf" type="personal">
+      <namePart>Bracklow, Robert L., 1849-1919</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="text">Creator</roleTerm>
+      </role>
+   </name>
+  <name authority="naf" type="personal">
+      <namePart>Alland, Alexander</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="text">Contributor</roleTerm>
+      </role>
+   </name>
+  <subject authority="lcsh">
+      <topic>New York (N.Y.)--Photographs</topic>
+   </subject>
+  <subject authority="lcsh">
+      <topic>Queens (New York, N.Y.)--Photographs</topic>
+   </subject>
+  <subject authority="lcsh">
+      <topic>New York (N.Y.)--Buildings, structures, etc.--Photographs</topic>
+   </subject>
+  <subject authority="lcsh">
+      <geographic>New York (N.Y.)</geographic>
+   </subject>
+  <subject authority="lcsh">
+      <geographic>Queens (New York, N.Y.)</geographic>
+   </subject>
+  <originInfo>
+      <dateCreated keyDate="yes" encoding="w3cdtf" point="start" qualifier="approximate">1882</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end" qualifier="approximate">1919</dateCreated>
+   </originInfo>
+  <note>Robert Louis Bracklow (1849-1919) was an amateur photographer and stationer. He was an
+			active member of the Society of Amateur Photographers of New York (later the Camera
+			Club), where he exhibited photographs with fellow amateur Richard H. Lawrence and with
+			Alfred Stieglitz.</note>
+  <typeOfResource>still image</typeOfResource>
+  <genre>Glass negative</genre>
+  <genre>Negatives (photographic)</genre>
+  <physicalDescription>
+      <extent>5 in. x 7 in.</extent>
+      <internetMediaType>image/jp2</internetMediaType>
+      <digitalOrigin>digitized other analog</digitalOrigin>
+   </physicalDescription>
+  <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+  <accessCondition>This digital image may be used for educational or scholarly purposes
+			without restriction. Commercial and other uses of the item are prohibited without prior
+			written permission from the New-York Historical Society. For more information, please
+			visit the New-York Historical Society's Rights and Reproductions Department web page
+			at http://www.nyhistory.org/about/rights-reproductions</accessCondition>
+  <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Robert L. Bracklow Photograph Collection</title>
+      </titleInfo>
+   </relatedItem>
+  <relatedItem type="host" displayLabel="Collection">
+      <abstract>The Robert L. Bracklow Photograph Collection spans the period from 1882-1918
+				and contains photonegatives, copy prints, and original photographic prints of
+				Bracklow’s photographs of New York City, its immediate environs, and towns
+				throughout New England. Bracklow’s photographs often show elements of Manhattan in
+				flux: old houses, new skyscrapers, and buildings in different stages of
+				construction. The handmade albums showcase Coney Island, Fort Washington, the 1899
+				Dewey celebration, naval parades along the Hudson, and newsboys hawking
+				Spanish-American War bulletins. Also documented are excursions with friends to
+				Harper’s Ferry, New England, Long Island, New Jersey, and Staten Island. Scenes with
+				Camera Club members on some trips reflect the convivial atmosphere of photographic
+				outings. Bracklow’s original prints of New York City and of vacations he took in New
+				England can be found in the photograph albums and loose prints given to the New-York
+				Historical Society by Ruth Trappan.</abstract>
+   </relatedItem>
+  <note type="ownership">New-York Historical Society, 170 Central Park West, New York, NY
+			10024, 212-873-3400.</note>
+  <identifier type="local">NYHS_PR008_66000_U2492</identifier>
+  <recordInfo>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/nyhs%3A2234</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:nyhs_2233</identifier><datestamp>2015-10-05T18:22:22Z</datestamp><setSpec>nyhs_bracklow</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+      <title>The Stoothoff-Williamson House, Flatlands, Brooklyn, New York, undated (ca.
+				1882-1919).</title>
+   </titleInfo>
+  <name authority="naf" type="personal">
+      <namePart>Bracklow, Robert L., 1849-1919</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="text">Creator</roleTerm>
+      </role>
+   </name>
+  <name authority="naf" type="personal">
+      <namePart>Alland, Alexander</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="text">Contributor</roleTerm>
+      </role>
+   </name>
+  <subject authority="lcsh">
+      <topic>New York (N.Y.)--Photographs</topic>
+   </subject>
+  <subject authority="lcsh">
+      <topic>Brooklyn (New York, N.Y.)--Photographs</topic>
+   </subject>
+  <subject authority="lcsh">
+      <topic>New York (N.Y.)--Buildings, structures, etc.--Photographs</topic>
+   </subject>
+  <subject authority="lcsh">
+      <geographic>New York (N.Y.)</geographic>
+   </subject>
+  <subject authority="lcsh">
+      <geographic>Brooklyn (New York, N.Y.)</geographic>
+   </subject>
+  <originInfo>
+      <dateCreated keyDate="yes" encoding="w3cdtf" point="start" qualifier="approximate">1882</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end" qualifier="approximate">1919</dateCreated>
+   </originInfo>
+  <note>Robert Louis Bracklow (1849-1919) was an amateur photographer and stationer. He was an
+			active member of the Society of Amateur Photographers of New York (later the Camera
+			Club), where he exhibited photographs with fellow amateur Richard H. Lawrence and with
+			Alfred Stieglitz.</note>
+  <typeOfResource>still image</typeOfResource>
+  <genre>Glass negative</genre>
+  <genre>Negatives (photographic)</genre>
+  <physicalDescription>
+      <extent>5 in. x 7 in.</extent>
+      <internetMediaType>image/jp2</internetMediaType>
+      <digitalOrigin>digitized other analog</digitalOrigin>
+   </physicalDescription>
+  <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+  <accessCondition>This digital image may be used for educational or scholarly purposes
+			without restriction. Commercial and other uses of the item are prohibited without prior
+			written permission from the New-York Historical Society. For more information, please
+			visit the New-York Historical Society's Rights and Reproductions Department web page
+			at http://www.nyhistory.org/about/rights-reproductions</accessCondition>
+  <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Robert L. Bracklow Photograph Collection</title>
+      </titleInfo>
+   </relatedItem>
+  <relatedItem type="host" displayLabel="Collection">
+      <abstract>The Robert L. Bracklow Photograph Collection spans the period from 1882-1918
+				and contains photonegatives, copy prints, and original photographic prints of
+				Bracklow’s photographs of New York City, its immediate environs, and towns
+				throughout New England. Bracklow’s photographs often show elements of Manhattan in
+				flux: old houses, new skyscrapers, and buildings in different stages of
+				construction. The handmade albums showcase Coney Island, Fort Washington, the 1899
+				Dewey celebration, naval parades along the Hudson, and newsboys hawking
+				Spanish-American War bulletins. Also documented are excursions with friends to
+				Harper’s Ferry, New England, Long Island, New Jersey, and Staten Island. Scenes with
+				Camera Club members on some trips reflect the convivial atmosphere of photographic
+				outings. Bracklow’s original prints of New York City and of vacations he took in New
+				England can be found in the photograph albums and loose prints given to the New-York
+				Historical Society by Ruth Trappan.</abstract>
+   </relatedItem>
+  <note type="ownership">New-York Historical Society, 170 Central Park West, New York, NY
+			10024, 212-873-3400.</note>
+  <identifier type="local">NYHS_PR008_66000_U2491</identifier>
+  <recordInfo>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/nyhs%3A2233</identifier>
+</mods>
+</metadata></record><record><header><identifier>oai:dcmny.org:nyhs_2232</identifier><datestamp>2015-10-05T18:22:23Z</datestamp><setSpec>nyhs_bracklow</setSpec></header><metadata><mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo>
+      <title>Unidentified derelict mansion, undated (ca. 1882-1919).</title>
+   </titleInfo>
+  <name authority="naf" type="personal">
+      <namePart>Bracklow, Robert L., 1849-1919</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="text">Creator</roleTerm>
+      </role>
+   </name>
+  <name authority="naf" type="personal">
+      <namePart>Alland, Alexander</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="text">Contributor</roleTerm>
+      </role>
+   </name>
+  <originInfo>
+      <dateCreated keyDate="yes" encoding="w3cdtf" point="start" qualifier="approximate">1882</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end" qualifier="approximate">1919</dateCreated>
+   </originInfo>
+  <note>Robert Louis Bracklow (1849-1919) was an amateur photographer and stationer. He was an
+			active member of the Society of Amateur Photographers of New York (later the Camera
+			Club), where he exhibited photographs with fellow amateur Richard H. Lawrence and with
+			Alfred Stieglitz.</note>
+  <typeOfResource>still image</typeOfResource>
+  <genre>Glass negative</genre>
+  <genre>Negatives (photographic)</genre>
+  <physicalDescription>
+      <extent>5 in. x 7 in.</extent>
+      <internetMediaType>image/jp2</internetMediaType>
+      <digitalOrigin>digitized other analog</digitalOrigin>
+   </physicalDescription>
+  <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+  <accessCondition>This digital image may be used for educational or scholarly purposes
+			without restriction. Commercial and other uses of the item are prohibited without prior
+			written permission from the New-York Historical Society. For more information, please
+			visit the New-York Historical Society's Rights and Reproductions Department web page
+			at http://www.nyhistory.org/about/rights-reproductions</accessCondition>
+  <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Robert L. Bracklow Photograph Collection</title>
+      </titleInfo>
+   </relatedItem>
+  <relatedItem type="host" displayLabel="Collection">
+      <abstract>The Robert L. Bracklow Photograph Collection spans the period from 1882-1918
+				and contains photonegatives, copy prints, and original photographic prints of
+				Bracklow’s photographs of New York City, its immediate environs, and towns
+				throughout New England. Bracklow’s photographs often show elements of Manhattan in
+				flux: old houses, new skyscrapers, and buildings in different stages of
+				construction. The handmade albums showcase Coney Island, Fort Washington, the 1899
+				Dewey celebration, naval parades along the Hudson, and newsboys hawking
+				Spanish-American War bulletins. Also documented are excursions with friends to
+				Harper’s Ferry, New England, Long Island, New Jersey, and Staten Island. Scenes with
+				Camera Club members on some trips reflect the convivial atmosphere of photographic
+				outings. Bracklow’s original prints of New York City and of vacations he took in New
+				England can be found in the photograph albums and loose prints given to the New-York
+				Historical Society by Ruth Trappan.</abstract>
+   </relatedItem>
+  <note type="ownership">New-York Historical Society, 170 Central Park West, New York, NY
+			10024, 212-873-3400.</note>
+  <identifier type="local">NYHS_PR008_66000_U2490</identifier>
+  <recordInfo>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+  <identifier xmlns="" type="uri">http://dcmny.org/islandora/object/nyhs%3A2232</identifier>
+</mods>
+</metadata></record><resumptionToken expirationDate="2015-10-30T14:40:04Z" completeListSize="2088" cursor="0">1320063880</resumptionToken></ListRecords></OAI-PMH>

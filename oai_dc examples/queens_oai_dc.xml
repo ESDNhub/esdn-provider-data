@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2015-09-23T08:03:19Z</responseDate>
+  <!-- Showing 50 records. -->
+  <request>http://digitalarchives.queenslibrary.org/vital/oai/provider</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>aql:13070</identifier>
+        <datestamp>2015-09-22T21:35:52.649Z</datestamp>
+      </header>
+      <metadata>
+      <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><dc:title>Map no. 1 of property situated at Woodhaven : one mile from East New York, L.I.</dc:title><dc:creator>Ferd. Mayer &amp; Sons</dc:creator><dc:subject>Lalance &amp; Grosjean Manufacturing Co.</dc:subject><dc:subject>Union Course (Race Track : New York, N.Y.)</dc:subject><dc:subject>Real property</dc:subject><dc:description>1 online resource (1 map) ; depicts printed map, 54 x 80 cm</dc:description><dc:description>s04-05-04-04</dc:description><dc:description>Description based on print version record.</dc:description><dc:date>[1890]</dc:date><dc:type>Cartographic</dc:type><dc:type>Real estate brochures</dc:type><dc:type>Maps</dc:type><dc:identifier>aql:13070</dc:identifier><dc:language>eng</dc:language><dc:coverage>Queens (New York, N.Y.)</dc:coverage><dc:coverage>Woodhaven (New York, N.Y.)</dc:coverage></oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:13071</identifier>
+        <datestamp>2015-09-22T20:00:48.047Z</datestamp>
+      </header>
+      <metadata>
+      <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><dc:title>Map of Hamilton Beach Estates Inc. : 4th ward, borough of Queens New York city</dc:title><dc:creator>Evans Brothers (Surveyors)</dc:creator><dc:subject>Real property</dc:subject><dc:description>1 online resource (1 map) ; depicts printed map, 78 x 33 cm</dc:description><dc:description>s04-05-04-06</dc:description><dc:description>Description based on print version record.</dc:description><dc:date>1922</dc:date><dc:type>Cartographic</dc:type><dc:type>Cadastral maps</dc:type><dc:type>Maps</dc:type><dc:identifier>aql:13071</dc:identifier><dc:language>eng</dc:language><dc:coverage>Queens (New York, N.Y.)</dc:coverage><dc:coverage>Hamilton Beach (New York, N.Y.)</dc:coverage></oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:12317</identifier>
+        <datestamp>2015-09-22T05:27:28.570Z</datestamp>
+      </header>
+      <metadata>
+      <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><dc:title>Gov. Stuyvesant grant to Jamaica March 21, 1656 /</dc:title><dc:creator>Chatfield, Charles T.</dc:creator><dc:subject>Land grants</dc:subject><dc:description>1 online resource (1 map)</dc:description><dc:description>s04-02-02-01</dc:description><dc:description>Description based on photocopy version record.</dc:description><dc:date>[1940]</dc:date><dc:type>Cartographic</dc:type><dc:type>Maps lcgft</dc:type><dc:identifier>aql:12317</dc:identifier><dc:language>eng</dc:language><dc:coverage>Jamaica (New York, N.Y.)</dc:coverage><dc:coverage>Queens (New York, N.Y.)</dc:coverage></oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:10283</identifier>
+        <datestamp>2015-09-21T22:18:13.994Z</datestamp>
+        <setSpec>collection10116</setSpec>
+      </header>
+      <metadata>
+      <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><dc:title>Fenway Park - Bullpen</dc:title><dc:creator>William Cahill</dc:creator><dc:subject>Baseball fields</dc:subject><dc:subject>Fenway Park (Boston, Mass.)</dc:subject><dc:description>Fenway Park. View of the bull pen and stands.</dc:description><dc:type>work</dc:type><dc:type>color negative; color print; digital image</dc:type><dc:format>safety film; color print</dc:format><dc:format>1 1/4 x 5 1/2 inches (negative); 4 x 6 inches (print); 400 ppi (digital image)</dc:format><dc:identifier>aql:10283</dc:identifier><dc:identifier>wvc-000036</dc:identifier><dc:identifier>wvc-000036.tif</dc:identifier><dc:source>http://www.queenslibrary.org</dc:source><dc:relation>This image is from the William Cahill Papers and is depicted in a negative, print and digital image.</dc:relation><dc:relation>Image is part of the William Cahill Papers</dc:relation><dc:coverage>4 Yawkey Way, Boston, MA</dc:coverage><dc:coverage>Boston (Mass.)</dc:coverage><dc:coverage>Massachusetts</dc:coverage><dc:rights>Copyright held by: Queens Borough Public Library</dc:rights></oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:10271</identifier>
+        <datestamp>2015-09-21T21:59:47.453Z</datestamp>
+        <setSpec>collection10116</setSpec>
+      </header>
+      <metadata>
+      <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><dc:title>Fenway Park - Home plate</dc:title><dc:creator>William Cahill</dc:creator><dc:subject>Baseball fields</dc:subject><dc:subject>Fenway Park (Boston, Mass.)</dc:subject><dc:description>Fenway Park. View of home plate area, from the right field bleachers.</dc:description><dc:type>work</dc:type><dc:type>color negative; digital image</dc:type><dc:format>safety film</dc:format><dc:format>1 1/4 x 5 1/2 inches (negative); 400 ppi (digital image)</dc:format><dc:identifier>aql:10271</dc:identifier><dc:identifier>wvc-000146</dc:identifier><dc:identifier>wvc-000146.tif</dc:identifier><dc:source>http://www.queenslibrary.org</dc:source><dc:relation>This image is from the William Cahill Papers and is depicted in a negative and digital image.</dc:relation><dc:relation>Image is part of the William Cahill Papers</dc:relation><dc:coverage>4 Yawkey Way, Boston, MA</dc:coverage><dc:coverage>Boston (Mass.)</dc:coverage><dc:coverage>Massachusetts</dc:coverage><dc:rights>Copyright held by: Queens Borough Public Library</dc:rights></oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:10229</identifier>
+        <datestamp>2015-09-21T20:14:24.438Z</datestamp>
+        <setSpec>collection10116</setSpec>
+      </header>
+      <metadata>
+      <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><dc:title>Aerial view of Fenway Park</dc:title><dc:creator>William Cahill</dc:creator><dc:subject>Aerial views</dc:subject><dc:subject>Baseball fields</dc:subject><dc:subject>Fenway Park (Boston, Mass.)</dc:subject><dc:description>Postcard depicting an aerial view of Fenway Park.</dc:description><dc:type>work</dc:type><dc:type>postcard; digital image</dc:type><dc:format>postcard</dc:format><dc:format>4 x 6 inches (postcard); 400 ppi (digital image)</dc:format><dc:identifier>aql:10229</dc:identifier><dc:identifier>wvc-000032</dc:identifier><dc:identifier>wvc-000032.tif</dc:identifier><dc:source>http://www.queenslibrary.org</dc:source><dc:relation>This image is from the William Cahill Papers and is depicted in a postcard and digital image.</dc:relation><dc:relation>Image is part of the William Cahill Papers</dc:relation><dc:coverage>4 Yawkey Way, Boston, MA</dc:coverage><dc:coverage>Boston (Mass.)</dc:coverage><dc:coverage>Massachusetts</dc:coverage><dc:rights>Copyright holder unknown</dc:rights></oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:13060</identifier>
+        <datestamp>2015-09-21T14:45:59.655Z</datestamp>
+      </header>
+      <metadata>
+      <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><dc:title>Brooklyn Hills Improvement Co.'s map showing relative position of property to prominent points in cities of New York &amp; Brooklyn</dc:title><dc:creator>Wells, Jacob</dc:creator><dc:creator>Brooklyn Hills Improvement Company</dc:creator><dc:subject>Real property</dc:subject><dc:subject>Local transit</dc:subject><dc:description>1 online resource (1 map) : ; depicts color map, 64 x 43 cm</dc:description><dc:description>s04-05-04-03</dc:description><dc:description>Description based on print version record.</dc:description><dc:date>c1888</dc:date><dc:type>Cartographic</dc:type><dc:type>Maps</dc:type><dc:identifier>aql:13060</dc:identifier><dc:language>eng</dc:language><dc:coverage>Queens (New York, N.Y.)</dc:coverage><dc:coverage>Woodhaven (New York, N.Y.)</dc:coverage><dc:coverage>New York (N.Y.)</dc:coverage></oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:13062</identifier>
+        <datestamp>2015-09-21T14:45:59.240Z</datestamp>
+      </header>
+      <metadata>
+      <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><dc:title>Map of Wyckoff Park : located in the fourth ward borough of Queens city of New York</dc:title><dc:creator>Evans Brothers (Surveyors)</dc:creator><dc:subject>Wyckoff Park Realty Company</dc:subject><dc:subject>Real property</dc:subject><dc:description>1 online resource (1 map) ; depicts printed map, 25 x 43 cm</dc:description><dc:description>s04-05-04-05</dc:description><dc:description>Description based on print version record.</dc:description><dc:date>1905</dc:date><dc:type>Cartographic</dc:type><dc:type>Real estate brochures</dc:type><dc:type>Maps</dc:type><dc:identifier>aql:13062</dc:identifier><dc:language>eng</dc:language><dc:coverage>Queens (New York, N.Y.)</dc:coverage><dc:coverage>Woodhaven (New York, N.Y.)</dc:coverage></oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:13065</identifier>
+        <datestamp>2015-09-21T14:45:58.812Z</datestamp>
+      </header>
+      <metadata>
+      <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><dc:title>Map of a portion of 89th (Ridgewood Ave.) Ave. : in the fourth ward, borough of Queens city of New York</dc:title><dc:creator>Deehan, James F., 1866 or 1867-1945</dc:creator><dc:subject>Tuttle, Mary Ely</dc:subject><dc:subject>Real property</dc:subject><dc:description>1 online resource (1 map) ; depicts blueprint map, 33 x 47 cm</dc:description><dc:description>s04-05-04-08</dc:description><dc:description>Description based on photocopy version record.</dc:description><dc:date>1919</dc:date><dc:type>Cartographic</dc:type><dc:type>Maps</dc:type><dc:identifier>aql:13065</dc:identifier><dc:language>eng</dc:language><dc:coverage>Queens (New York, N.Y.)</dc:coverage><dc:coverage>Woodhaven (New York, N.Y.)</dc:coverage></oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:13064</identifier>
+        <datestamp>2015-09-21T14:45:58.301Z</datestamp>
+      </header>
+      <metadata>
+      <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><dc:title>[Map of land of J.G. Knapp on Jamaica Avenue between 90th Street and Woodhaven Boulevard in Woodhaven]</dc:title><dc:subject>Knapp, J. G.</dc:subject><dc:subject>Real property</dc:subject><dc:description>1 online resource (1 map) ; depicts blueprint map, 20 x 26 cm</dc:description><dc:description>s04-05-04-07</dc:description><dc:description>Description based on photocopy version record.</dc:description><dc:date>1918</dc:date><dc:type>Cartographic</dc:type><dc:type>Maps</dc:type><dc:identifier>aql:13064</dc:identifier><dc:language>eng</dc:language><dc:coverage>Queens (New York, N.Y.)</dc:coverage><dc:coverage>Woodhaven (New York, N.Y.)</dc:coverage></oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:13067</identifier>
+        <datestamp>2015-09-21T14:45:57.830Z</datestamp>
+      </header>
+      <metadata>
+      <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><dc:title>Property at Woodhaven</dc:title><dc:creator>Deehan, James F., 1866 or 1867-1945</dc:creator><dc:description>1 online resource (1 map) ; depicts blueprint map, 47 x 43 cm</dc:description><dc:description>s04-05-04-11</dc:description><dc:description>Description based on photocopy version record.</dc:description><dc:date>1922</dc:date><dc:type>Cartographic</dc:type><dc:type>Maps</dc:type><dc:identifier>aql:13067</dc:identifier><dc:language>eng</dc:language><dc:coverage>Queens (New York, N.Y.)</dc:coverage><dc:coverage>Woodhaven (New York, N.Y.)</dc:coverage></oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:13068</identifier>
+        <datestamp>2015-09-21T14:45:57.432Z</datestamp>
+      </header>
+      <metadata>
+      <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><dc:title>[Property at Woodhaven]</dc:title><dc:creator>Deehan, James F., 1866 or 1867-1945</dc:creator><dc:description>1 online resource (1 map) ; depicts blueprint map, 37 x 44 cm</dc:description><dc:description>s04-05-04-12</dc:description><dc:description>Description based on photocopy version record.</dc:description><dc:date>[1922]</dc:date><dc:type>Cartographic</dc:type><dc:type>Maps</dc:type><dc:identifier>aql:13068</dc:identifier><dc:language>eng</dc:language><dc:coverage>Queens (New York, N.Y.)</dc:coverage><dc:coverage>Woodhaven (New York, N.Y.)</dc:coverage></oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:13059</identifier>
+        <datestamp>2015-09-21T14:45:57.077Z</datestamp>
+      </header>
+      <metadata>
+      <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><dc:title>[Map of property bounded by Wyckoff Avenue, Atlantic Avenue, Myrtle Avenue and Broadway in Woodhaven and Richmond Hill].</dc:title><dc:creator>Medole, John</dc:creator><dc:subject>Real property</dc:subject><dc:description>1 online resource (1 map) ; depicts printed map, 46 x 56 cm</dc:description><dc:description>s04-05-04-02</dc:description><dc:description>Description based on print version record.</dc:description><dc:date>[between 1860 and 1880]</dc:date><dc:type>Cartographic</dc:type><dc:type>Cadastral maps</dc:type><dc:type>Real estate brochures</dc:type><dc:type>Maps</dc:type><dc:identifier>aql:13059</dc:identifier><dc:language>eng</dc:language><dc:coverage>Queens (New York, N.Y.)</dc:coverage><dc:coverage>Woodhaven (New York, N.Y.)</dc:coverage><dc:coverage>Richmond Hill (New York, N.Y.)</dc:coverage></oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:13058</identifier>
+        <datestamp>2015-09-21T14:45:56.648Z</datestamp>
+      </header>
+      <metadata>
+      <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><dc:title>Map no. 4 great sale at auction of Woodhaven Center property by James Cole &amp; Son. : at Merchants Exchange New York.</dc:title><dc:creator>Kraetzer, Gustav, 1822?-1901</dc:creator><dc:creator>James Cole &amp; Sons</dc:creator><dc:subject>Real property</dc:subject><dc:description>1 online resource (1 map) ; depicts printed map, 41 x 46 cm</dc:description><dc:description>s04-05-04-01</dc:description><dc:description>Description based on print version record.</dc:description><dc:date>1859</dc:date><dc:type>Cartographic</dc:type><dc:type>Real estate brochures</dc:type><dc:type>Maps</dc:type><dc:identifier>aql:13058</dc:identifier><dc:language>eng</dc:language><dc:coverage>Queens (New York, N.Y.)</dc:coverage><dc:coverage>Woodhaven (New York, N.Y.)</dc:coverage></oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:10054</identifier>
+        <datestamp>2015-09-21T14:45:56.109Z</datestamp>
+      </header>
+      <metadata>
+      <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><dc:title>Woodhaven (New York, N.Y.)</dc:title><dc:description>42 maps, 1858-1989</dc:description><dc:identifier>aql:10054</dc:identifier></oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:13066</identifier>
+        <datestamp>2015-09-21T14:44:16.385Z</datestamp>
+      </header>
+      <metadata>
+      <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><dc:title>Detail map of Hamilton Beach Estates, Inc. : showing location of lots on land map no. 28.</dc:title><dc:description>1 online resource (1 map) ; depicts blueprint map, 34 x 34 cm</dc:description><dc:description>s04-05-04-09</dc:description><dc:description>Description based on photocopy version record.</dc:description><dc:date>[1922]</dc:date><dc:type>Cartographic</dc:type><dc:type>Maps</dc:type><dc:identifier>aql:13066</dc:identifier><dc:language>eng</dc:language><dc:coverage>Hamilton Beach (New York, N.Y.)</dc:coverage><dc:coverage>Queens (New York, N.Y.)</dc:coverage></oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:10019</identifier>
+        <datestamp>2015-09-21T14:44:15.506Z</datestamp>
+      </header>
+      <metadata>
+      <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><dc:title>Jamaica Town</dc:title><dc:description>67 maps, 1656-1989</dc:description><dc:identifier>aql:10019</dc:identifier></oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:13033</identifier>
+        <datestamp>2015-09-19T13:23:00.664Z</datestamp>
+      </header>
+      <metadata>
+      <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><dc:title>Map no. 1 cont. 315 lots est Stephen Barker.</dc:title><dc:creator>Barker, Stephen</dc:creator><dc:subject>Real property</dc:subject><dc:description>1 online resource (1 map) ; depicts manuscript, 39 x 41 cm</dc:description><dc:description>s04-06-03-05</dc:description><dc:description>Description based on manuscript version record.</dc:description><dc:date>[1888]</dc:date><dc:type>manuscriptCartographic</dc:type><dc:type>Manuscript maps</dc:type><dc:type>Maps</dc:type><dc:identifier>aql:13033</dc:identifier><dc:language>eng</dc:language><dc:coverage>Corona (New York, N.Y.)</dc:coverage><dc:coverage>Newtown (Queens County, N.Y.)</dc:coverage><dc:coverage>Queens (New York, N.Y.)</dc:coverage></oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:13013</identifier>
+        <datestamp>2015-09-19T12:53:22.644Z</datestamp>
+      </header>
+      <metadata>
+      <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><dc:title>Map of meadow of Skidmore &amp; Duryea : guaranteed to Title Guarantee &amp; Trust Co.</dc:title><dc:creator>Evans Brothers (Surveyors)</dc:creator><dc:creator>Skidmore, Alice R.</dc:creator><dc:creator>Duryea, Whitehead.</dc:creator><dc:creator>Title Guarantee and Trust Company (New York, N.Y.)</dc:creator><dc:subject>Real property</dc:subject><dc:subject>Landowners</dc:subject><dc:description>1 online resource (1 map) ; depicts blueprint map 41 x 67 cm</dc:description><dc:description>s04-04-03-10</dc:description><dc:description>Description based on photocopy version record.</dc:description><dc:date>[1928]</dc:date><dc:type>Cartographic</dc:type><dc:type>Cadastral maps</dc:type><dc:type>Maps</dc:type><dc:identifier>aql:13013</dc:identifier><dc:language>eng</dc:language><dc:coverage>South Ozone Park (New York, N.Y.)</dc:coverage><dc:coverage>Queens (New York, N.Y.)</dc:coverage></oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:12967</identifier>
+        <datestamp>2015-09-19T12:44:05.003Z</datestamp>
+      </header>
+      <metadata>
+      <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><dc:title>Estate of Edward W. Browning : Queens 73rd Avenue (north side) 83.5' east of Aguilar Avenue, north Jamaica Heights</dc:title><dc:creator>Day, Joseph P.</dc:creator><dc:creator>Title Guarantee and Trust Company (New York, N.Y.)</dc:creator><dc:subject>Browning, Edward West, 1874-1934</dc:subject><dc:subject>Real property</dc:subject><dc:description>1 online resource (1 map) ; depicts printed map, 20 x 12 cm on sheet 22 x 28 cm</dc:description><dc:description>s04-01-04-09</dc:description><dc:description>Description based on print version record.</dc:description><dc:date>[between 1920 and 1940]</dc:date><dc:type>Cartographic</dc:type><dc:type>Real estate brochures</dc:type><dc:type>Maps</dc:type><dc:identifier>aql:12967</dc:identifier><dc:language>eng</dc:language><dc:coverage>Queens (New York, N.Y.)</dc:coverage><dc:coverage>Kew Gardens Hills (New York, N.Y.)</dc:coverage></oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:12958</identifier>
+        <datestamp>2015-09-19T12:13:37.574Z</datestamp>
+      </header>
+      <metadata>
+      <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><dc:title>Guide to the Frank Carrado Long Island City Digital Photographs 1980 - 2014 C-20</dc:title><dc:title>Frank Carrado Long Island City Digital Photographs 1980 - 2014</dc:title><dc:subject>Pepsi-Cola Company</dc:subject><dc:subject>Citigroup (Firm)</dc:subject><dc:subject>City University of New York. School of Law at Queens College</dc:subject><dc:subject>Fire Engine Company No. 258, Hook and Ladder Company No. 115 (New York, N.Y.)</dc:subject><dc:subject>Condominiums</dc:subject><dc:subject>Office buildings</dc:subject><dc:subject>Buildings</dc:subject><dc:subject>High-rise apartment buildings</dc:subject><dc:subject>Apartments</dc:subject><dc:subject>Renovation (Architecture)</dc:subject><dc:subject>Buildings--Repair and reconstruction</dc:subject><dc:subject>Dwellings</dc:subject><dc:subject>Intersections</dc:subject><dc:subject>Automobile repair shops</dc:subject><dc:subject>Parking lots</dc:subject><dc:subject>Blood banks</dc:subject><dc:subject>Chemical industry</dc:subject><dc:subject>Advertising</dc:subject><dc:subject>Waterfronts</dc:subject><dc:subject>Stores, Retail</dc:subject><dc:subject>Skyline views</dc:subject><dc:subject>Art galleries, Commercial</dc:subject><dc:subject>Corporate and Investment Banking</dc:subject><dc:subject>Church</dc:subject><dc:description>The Frank Carrado’s Long Island City Digital Photographs Collection consists of digital photographs of Long Island City spanning the years from 1980 to 2014.  All of the photographs were taken in Long Island City by Frank Carrado. The photographs document the transformation of an industrial Long Island City into a residential neighborhood.</dc:description><dc:identifier>aql:12958</dc:identifier><dc:coverage>Long Island City (New York, N.Y.)</dc:coverage><dc:coverage>Queens Borough Hall (New York, N.Y.)</dc:coverage><dc:coverage>East River (N.Y.)</dc:coverage><dc:coverage>Manhattan (New York, N.Y.)</dc:coverage></oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:12968</identifier>
+        <datestamp>2015-09-19T12:12:26.772Z</datestamp>
+      </header>
+      <metadata>
+      <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><dc:title>Map of property of the Barwin Realty Co. : situated in the third ward borough of Queens, city of New York</dc:title><dc:creator>Savacool, William LaForge, 1880-1972</dc:creator><dc:creator>Barwin Realty Co.</dc:creator><dc:subject>Real property</dc:subject><dc:description>1 online resource (1 map) ; depicts photocopy map, 46 x 81 cm</dc:description><dc:description>s04-01-04-10</dc:description><dc:description>Description based on photocopy version record.</dc:description><dc:date>1921</dc:date><dc:type>Cartographic</dc:type><dc:type>Cadastral maps</dc:type><dc:type>Maps</dc:type><dc:identifier>aql:12968</dc:identifier><dc:language>eng</dc:language><dc:coverage>Queens (New York, N.Y.)</dc:coverage><dc:coverage>Kew Gardens Hills (New York, N.Y.)</dc:coverage></oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:13057</identifier>
+        <datestamp>2015-09-18T17:07:08.849Z</datestamp>
+      </header>
+      <metadata>
+      <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><dc:title>Jacobite songs and ballads (selected) : with notes, genealogical table of the Stuarts, introduction, glossary, etc.</dc:title><dc:creator>Macquoid, Gilbert Samuel, 1854-1940</dc:creator><dc:subject>Jacobites</dc:subject><dc:description>1 online resource (xviii, 534 pages) : geneological table.</dc:description><dc:description>Description based on print version record.</dc:description><dc:publisher>White and Allen,</dc:publisher><dc:date>[1888?]</dc:date><dc:type>Text</dc:type><dc:type>Folk songs, Scots</dc:type><dc:type>Ballads, Scots</dc:type><dc:type>English poetry</dc:type><dc:identifier>aql:13057</dc:identifier><dc:language>eng</dc:language></oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:13056</identifier>
+        <datestamp>2015-09-18T16:20:00.126Z</datestamp>
+      </header>
+      <metadata>
+      <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><dc:title>Map of Union Heights : 3rd ward, borough of Queens, New York</dc:title><dc:creator>Parry, William H., 1882-1976</dc:creator><dc:creator>T. F. Archer &amp; Sons, Inc.</dc:creator><dc:subject>Real property</dc:subject><dc:description>1 online resource (1 map) ; depicts printed map, 39 x 62 cm, folding to 32 x 24 cm</dc:description><dc:description>Description based on print version record.</dc:description><dc:date>1923</dc:date><dc:type>Cartographic</dc:type><dc:type>Cadastral maps</dc:type><dc:type>Maps</dc:type><dc:type>Real estate brochures</dc:type><dc:identifier>aql:13056</dc:identifier><dc:language>eng</dc:language><dc:coverage>Queens (New York, N.Y.)</dc:coverage><dc:coverage>Jamaica (New York, N.Y.)</dc:coverage></oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:12617</identifier>
+        <datestamp>2015-09-18T14:28:54.111Z</datestamp>
+      </header>
+      <metadata>
+      <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><dc:title>G - L</dc:title><dc:description>Scores G - L. To view all scores G-L, leave the search box empty and click Go.</dc:description><dc:identifier>aql:12617</dc:identifier></oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:13054</identifier>
+        <datestamp>2015-09-18T13:49:30.432Z</datestamp>
+      </header>
+      <metadata>
+      <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><dc:title>Renowned masterpieces of the world's art : reproduced from the original paintings ... with literary and poetical descriptions and critical appreciations</dc:title><dc:creator>Labouchere, Jean St. Croix</dc:creator><dc:subject>Painting</dc:subject><dc:subject>Painting</dc:subject><dc:description>1 online resource (408 pages) : chiefly illustrations</dc:description><dc:description>Edition de Luxe, Limited.</dc:description><dc:description>Description based on print version record.</dc:description><dc:date>1905</dc:date><dc:type>Text</dc:type><dc:type>History</dc:type><dc:type>Electronic books</dc:type><dc:identifier>aql:13054</dc:identifier><dc:language>eng</dc:language><dc:relation>Renowned masterpieces of the world's art.</dc:relation></oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:12668</identifier>
+        <datestamp>2015-09-18T13:49:30.005Z</datestamp>
+      </header>
+      <metadata>
+      <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><dc:title>M - R</dc:title><dc:description>Books M - R. To view all books M-R, leave the search box empty and click Go.</dc:description><dc:identifier>aql:12668</dc:identifier></oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:13053</identifier>
+        <datestamp>2015-09-18T13:41:34.204Z</datestamp>
+      </header>
+      <metadata>
+      <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><dc:title>A record of work : being illustrations of printing, stencilling and painting, stained glass, cabinet-work and marquetry, embroidery, woven fabrics and other decorative works.</dc:title><dc:creator>Heaton, Aldam</dc:creator><dc:subject>Decorative arts</dc:subject><dc:subject>Decoration and ornament</dc:subject><dc:description>1 online resource (8 unnumbered pages, 63 unnumbered leaves of plates) : illustrations.</dc:description><dc:description>Description based on print version record.</dc:description><dc:date>[1894?]</dc:date><dc:type>Text</dc:type><dc:identifier>aql:13053</dc:identifier><dc:language>eng</dc:language></oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:13052</identifier>
+        <datestamp>2015-09-18T13:39:59.634Z</datestamp>
+      </header>
+      <metadata>
+      <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><dc:title>Colonial silverware of the 17th and 18th centuries : comprising solid sets, small wares, candelabras, communion service, etc.</dc:title><dc:creator>Elwell, Newton W.</dc:creator><dc:subject>Silverwork</dc:subject><dc:description>1 online resource (2 preliminary leaves, XL plates)</dc:description><dc:description>Description based on print version record.</dc:description><dc:date>[1899]</dc:date><dc:type>Text</dc:type><dc:identifier>aql:13052</dc:identifier><dc:language>eng</dc:language><dc:coverage>United States</dc:coverage></oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:12660</identifier>
+        <datestamp>2015-09-18T13:39:58.273Z</datestamp>
+      </header>
+      <metadata>
+      <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><dc:title>A - F</dc:title><dc:description>Books A - F. To view all books A-F, leave the search box empty and click Go.</dc:description><dc:identifier>aql:12660</dc:identifier></oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:13036</identifier>
+        <datestamp>2015-09-18T13:33:19.008Z</datestamp>
+      </header>
+      <metadata>
+      <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><dc:title>Map &amp; profile of part of the Astoria and Newtown road</dc:title><dc:creator>Perry, O. H.</dc:creator><dc:description>1 online resource (1 map) : color.</dc:description><dc:description>s04-06-04-01</dc:description><dc:description>Description based on manuscript version record.</dc:description><dc:publisher>[O. H. Perry?]</dc:publisher><dc:date>[1871]</dc:date><dc:type>manuscriptCartographic</dc:type><dc:type>Manuscript maps</dc:type><dc:type>Maps</dc:type><dc:identifier>aql:13036</dc:identifier><dc:language>eng</dc:language><dc:coverage>Queens (New York, N.Y.)</dc:coverage><dc:coverage>Elmhurst (New York, N.Y.)</dc:coverage></oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:13039</identifier>
+        <datestamp>2015-09-18T13:33:18.670Z</datestamp>
+      </header>
+      <metadata>
+      <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><dc:title>[Map of property in Elmhurst, Queens, between Vietor Place (now Vietor Avenue), Broadway, and Elmhurst Avenue]</dc:title><dc:subject>Real property</dc:subject><dc:description>1 online resource (1 map)</dc:description><dc:description>s04-06-04-04</dc:description><dc:description>Description based on manuscript version record.</dc:description><dc:date>[between 1900-1930]</dc:date><dc:type>manuscriptCartographic</dc:type><dc:type>Manuscript maps</dc:type><dc:type>Maps</dc:type><dc:identifier>aql:13039</dc:identifier><dc:language>eng</dc:language><dc:coverage>Queens (New York, N.Y.)</dc:coverage><dc:coverage>Elmhurst (New York, N.Y.)</dc:coverage></oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:13038</identifier>
+        <datestamp>2015-09-18T13:33:17.517Z</datestamp>
+      </header>
+      <metadata>
+      <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><dc:title>Village of Newtown : town of Newtown</dc:title><dc:creator>Wolverton, Chester</dc:creator><dc:subject>Real property</dc:subject><dc:description>1 online resource (1 map)</dc:description><dc:description>s04-06-04-03</dc:description><dc:description>Description based on photocopy version record.</dc:description><dc:date>[1891]</dc:date><dc:type>Cartographic</dc:type><dc:type>Maps</dc:type><dc:identifier>aql:13038</dc:identifier><dc:language>eng</dc:language><dc:coverage>Queens (New York, N.Y.)</dc:coverage><dc:coverage>Elmhurst (New York, N.Y.)</dc:coverage></oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:13037</identifier>
+        <datestamp>2015-09-18T13:33:17.165Z</datestamp>
+      </header>
+      <metadata>
+      <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><dc:title>Map of property of the estate of Samuel Lord dec'd : situate in the town of Newtown, Queens co., L. I.</dc:title><dc:creator>Hyatt, Cornelius, 1831-1904</dc:creator><dc:creator>Cord Meyer Development Co.</dc:creator><dc:subject>Real property</dc:subject><dc:description>1 online resource (1 map)</dc:description><dc:description>s04-06-04-02</dc:description><dc:description>Description based on print version record.</dc:description><dc:date>[1890]</dc:date><dc:type>Cartographic</dc:type><dc:type>Cadastral maps</dc:type><dc:type>Maps</dc:type><dc:type>Real estate brochures</dc:type><dc:identifier>aql:13037</dc:identifier><dc:language>eng</dc:language><dc:coverage>Queens (New York, N.Y.)</dc:coverage><dc:coverage>Elmhurst (New York, N.Y.)</dc:coverage></oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:13048</identifier>
+        <datestamp>2015-09-18T13:33:16.745Z</datestamp>
+      </header>
+      <metadata>
+      <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><dc:title>Sketch of property at Elmhurst, 2nd ward, boro of Queens</dc:title><dc:creator>William H. Parry, Inc.</dc:creator><dc:subject>Real property</dc:subject><dc:description>1 online resource (1 map)</dc:description><dc:description>s04-06-04-14</dc:description><dc:description>Description based on photocopy version record.</dc:description><dc:date>[between 1920 and 1930]</dc:date><dc:type>Cartographic</dc:type><dc:type>Maps</dc:type><dc:identifier>aql:13048</dc:identifier><dc:language>eng</dc:language><dc:coverage>Queens (New York, N.Y.)</dc:coverage><dc:coverage>Elmhurst (New York, N.Y.)</dc:coverage></oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:13049</identifier>
+        <datestamp>2015-09-18T13:33:16.306Z</datestamp>
+      </header>
+      <metadata>
+      <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><dc:title>[Map of property in Elmhurst, Queens, between Broadway and the Bushwick and Newtown turnpike road]</dc:title><dc:creator>Hyatt, Cornelius, 1831-1904</dc:creator><dc:subject>Real property</dc:subject><dc:description>1 online resource (1 map)</dc:description><dc:description>s04-06-04-15</dc:description><dc:description>Description based on manuscript version record.</dc:description><dc:date>[1893]</dc:date><dc:type>manuscriptCartographic</dc:type><dc:type>Manuscript maps</dc:type><dc:type>Maps</dc:type><dc:identifier>aql:13049</dc:identifier><dc:language>eng</dc:language><dc:coverage>Queens (New York, N.Y.)</dc:coverage><dc:coverage>Elmhurst (New York, N.Y.)</dc:coverage></oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:13044</identifier>
+        <datestamp>2015-09-18T13:33:15.016Z</datestamp>
+      </header>
+      <metadata>
+      <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><dc:title>Map of property belonging to the estate of John J. Moore : situated at Elmhurst in the 2nd ward, borough of Queens, city of New York : [section 2]</dc:title><dc:creator>Bartlett, Homer L., 1858-</dc:creator><dc:creator>Bartlett Engineering Co.</dc:creator><dc:subject>Real property</dc:subject><dc:description>1 online resource (1 map)</dc:description><dc:description>s04-06-04-10</dc:description><dc:description>Description based on print version record.</dc:description><dc:date>[1920]</dc:date><dc:type>Cartographic</dc:type><dc:type>Cadastral maps</dc:type><dc:type>Maps</dc:type><dc:identifier>aql:13044</dc:identifier><dc:language>eng</dc:language><dc:coverage>Queens (New York, N.Y.)</dc:coverage><dc:coverage>Elmhurst (New York, N.Y.)</dc:coverage></oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:13045</identifier>
+        <datestamp>2015-09-18T13:33:14.447Z</datestamp>
+      </header>
+      <metadata>
+      <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><dc:title>[Map of property in Elmhurst between Laurel Hill Boulevard, Broadway, Cornish Street, Queens Boulevard, and 19th Street (now 45th Avenue, Broadway, Cornish Avenue, Queens Boulevard, and 19th Street (now 76th Street)].</dc:title><dc:subject>Railroads</dc:subject><dc:description>1 online resource (1 map)</dc:description><dc:description>s04-06-04-11</dc:description><dc:description>Description based on photocopy version record.</dc:description><dc:date>[1920]</dc:date><dc:type>Cartographic</dc:type><dc:type>Maps</dc:type><dc:identifier>aql:13045</dc:identifier><dc:language>eng</dc:language><dc:coverage>Queens (New York, N.Y.)</dc:coverage><dc:coverage>Elmhurst (New York, N.Y.)</dc:coverage></oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:13046</identifier>
+        <datestamp>2015-09-18T13:33:13.997Z</datestamp>
+      </header>
+      <metadata>
+      <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><dc:title>Map accompanying an application for a change in the "use district map" within the area bounded by Laurel Hill Boulevard, Leon Pl., Fitch Ave. and 22nd St. : in the 2nd ward, borough of Queens, city of New York</dc:title><dc:creator>Stein, John B., 1876-1960</dc:creator><dc:subject>Railroads</dc:subject><dc:description>1 online resource (1 map)</dc:description><dc:description>s04-06-04-12</dc:description><dc:description>Description based on photocopy version record.</dc:description><dc:date>[1920]</dc:date><dc:type>Cartographic</dc:type><dc:type>Maps</dc:type><dc:identifier>aql:13046</dc:identifier><dc:language>eng</dc:language><dc:coverage>Queens (New York, N.Y.)</dc:coverage><dc:coverage>Elmhurst (New York, N.Y.)</dc:coverage></oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:13047</identifier>
+        <datestamp>2015-09-18T13:33:12.828Z</datestamp>
+      </header>
+      <metadata>
+      <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><dc:title>Map of property belonging to the estate of John J. Moore : situated at Elmhurst in the 2nd ward, borough of Queens, city of New York : [section 1]</dc:title><dc:creator>Bartlett, Homer L., 1858-</dc:creator><dc:creator>Bartlett Engineering Co.</dc:creator><dc:subject>Real property</dc:subject><dc:description>1 online resource (1 map)</dc:description><dc:description>s04-06-04-13</dc:description><dc:description>Description based on photocopy version record.</dc:description><dc:date>[1920]</dc:date><dc:type>Cartographic</dc:type><dc:type>Cadastral maps</dc:type><dc:type>Maps</dc:type><dc:identifier>aql:13047</dc:identifier><dc:language>eng</dc:language><dc:coverage>Queens (New York, N.Y.)</dc:coverage><dc:coverage>Elmhurst (New York, N.Y.)</dc:coverage></oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:13041</identifier>
+        <datestamp>2015-09-18T13:33:12.507Z</datestamp>
+      </header>
+      <metadata>
+      <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><dc:title>[Map of property in Elmhurst, Queens between Broadway, Maurice Avenue (now 51st Avenue), and 73rd Place]</dc:title><dc:creator>Bartlett, Homer L., 1858-</dc:creator><dc:subject>Real property</dc:subject><dc:description>1 online resource (1 map)</dc:description><dc:description>s04-06-04-06</dc:description><dc:description>Description based on photocopy version record.</dc:description><dc:date>[1914]</dc:date><dc:type>Cartographic</dc:type><dc:type>Maps</dc:type><dc:identifier>aql:13041</dc:identifier><dc:language>eng</dc:language><dc:coverage>Queens (New York, N.Y.)</dc:coverage><dc:coverage>Elmhurst (New York, N.Y.)</dc:coverage></oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:13040</identifier>
+        <datestamp>2015-09-18T13:33:12.123Z</datestamp>
+      </header>
+      <metadata>
+      <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><dc:title>Map of Elmhurst Square situated at Elmhurst in the borough of Queens, city of New York</dc:title><dc:creator>Smith, Leonard C. L., 1869?-1943</dc:creator><dc:subject>Real property</dc:subject><dc:subject>Railroads</dc:subject><dc:description>1 online resource (1 map)</dc:description><dc:description>s04-06-04-05</dc:description><dc:description>Description based on photocopy version record.</dc:description><dc:date>[1905]</dc:date><dc:type>Cartographic</dc:type><dc:type>Cadastral maps</dc:type><dc:type>Maps</dc:type><dc:identifier>aql:13040</dc:identifier><dc:language>eng</dc:language><dc:coverage>Queens (New York, N.Y.)</dc:coverage><dc:coverage>Elmhurst (New York, N.Y.)</dc:coverage></oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:13043</identifier>
+        <datestamp>2015-09-18T13:33:11.752Z</datestamp>
+      </header>
+      <metadata>
+      <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><dc:title>Map of property belonging to the estate of John J. Moore : situated at Elmhurst in the 2nd ward, borough of Queens, city of New York : [section 3]</dc:title><dc:creator>Bartlett, Homer L., 1858-</dc:creator><dc:creator>Bartlett Engineering Co.</dc:creator><dc:subject>Real property</dc:subject><dc:description>1 online resource (1 map)</dc:description><dc:description>s04-06-04-09</dc:description><dc:description>Description based on print version record.</dc:description><dc:date>[1920]</dc:date><dc:type>Cartographic</dc:type><dc:type>Cadastral maps</dc:type><dc:type>Maps</dc:type><dc:identifier>aql:13043</dc:identifier><dc:language>eng</dc:language><dc:coverage>Queens (New York, N.Y.)</dc:coverage><dc:coverage>Elmhurst (New York, N.Y.)</dc:coverage></oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:13051</identifier>
+        <datestamp>2015-09-18T13:33:11.320Z</datestamp>
+      </header>
+      <metadata>
+      <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><dc:title>Section 1 map of property belonging to the estate of John J. Moore : situated at Elmhurst in the 2nd ward, boro. of Queens, city of New York</dc:title><dc:creator>Bartlett, Homer L., 1858-</dc:creator><dc:creator>Jere. Johnson Jr. Co.</dc:creator><dc:subject>Real property</dc:subject><dc:description>1 online resource (1 map)</dc:description><dc:description>s04-06-04-17</dc:description><dc:description>Description based on print version record.</dc:description><dc:date>[1923]</dc:date><dc:type>Cartographic</dc:type><dc:type>Cadastral maps</dc:type><dc:type>Maps</dc:type><dc:identifier>aql:13051</dc:identifier><dc:language>eng</dc:language><dc:coverage>Queens (New York, N.Y.)</dc:coverage><dc:coverage>Elmhurst (New York, N.Y.)</dc:coverage></oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:13042</identifier>
+        <datestamp>2015-09-18T13:33:10.731Z</datestamp>
+      </header>
+      <metadata>
+      <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><dc:title>Map of a portion of Seabury St. in the second ward, borough of Queens, city of New York</dc:title><dc:creator>Savacool, William LaForge, 1880-1972</dc:creator><dc:subject>Real property</dc:subject><dc:description>1 online resource (1 map)</dc:description><dc:description>s04-06-04-08</dc:description><dc:description>Description based on photocopy version record.</dc:description><dc:date>[1918]</dc:date><dc:type>Cartographic</dc:type><dc:type>Maps</dc:type><dc:identifier>aql:13042</dc:identifier><dc:language>eng</dc:language><dc:coverage>Queens (New York, N.Y.)</dc:coverage><dc:coverage>Elmhurst (New York, N.Y.)</dc:coverage></oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:13050</identifier>
+        <datestamp>2015-09-18T13:33:10.134Z</datestamp>
+      </header>
+      <metadata>
+      <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><dc:title>Map of 60 lots at Elmhurst : second ward, borough of Queens, city of New York</dc:title><dc:creator>Savacool, William LaForge, 1880-1972</dc:creator><dc:creator>Beuerlein, Margaret</dc:creator><dc:subject>Real property</dc:subject><dc:description>1 online resource (1 map)</dc:description><dc:description>s04-06-04-16</dc:description><dc:description>Description based on photocopy version record.</dc:description><dc:date>[1922]</dc:date><dc:type>Cartographic</dc:type><dc:type>Cadastral maps</dc:type><dc:type>Maps</dc:type><dc:identifier>aql:13050</dc:identifier><dc:language>eng</dc:language><dc:coverage>Queens (New York, N.Y.)</dc:coverage><dc:coverage>Elmhurst (New York, N.Y.)</dc:coverage></oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:10001</identifier>
+        <datestamp>2015-09-18T13:33:08.035Z</datestamp>
+      </header>
+      <metadata>
+      <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><dc:title>Elmhust (New York, N.Y.)</dc:title><dc:description>33 maps, 1871-1923</dc:description><dc:identifier>aql:10001</dc:identifier></oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:13018</identifier>
+        <datestamp>2015-09-18T13:29:50.108Z</datestamp>
+      </header>
+      <metadata>
+      <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><dc:title>[Map of land parcels in Newtown (now East Elmhurst) along Flushing Bay]</dc:title><dc:subject>Real property</dc:subject><dc:description>1 online resource (1 map) ; depicts manuscript, 32 x 73 cm</dc:description><dc:description>s04-06-03-03</dc:description><dc:description>Description based on manuscript version record.</dc:description><dc:date>[between 1880 and 1890]</dc:date><dc:type>manuscriptCartographic</dc:type><dc:type>Manuscript maps</dc:type><dc:type>Maps</dc:type><dc:identifier>aql:13018</dc:identifier><dc:language>eng</dc:language><dc:coverage>East Elmhurst (New York, N.Y.)</dc:coverage><dc:coverage>Newtown (Queens County, N.Y.)</dc:coverage><dc:coverage>Queens (New York, N.Y.)</dc:coverage></oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:13017</identifier>
+        <datestamp>2015-09-18T13:29:49.603Z</datestamp>
+      </header>
+      <metadata>
+      <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><dc:title>[Map of land parcel in Newtown (now East Elmhurst) between Jackson Avenue (now Northern Boulevard) and Flushing Bay]</dc:title><dc:subject>Real property</dc:subject><dc:description>1 online resource (1 map) ; depicts manuscript, 22 x 39 cm</dc:description><dc:description>s04-06-03-02</dc:description><dc:description>Description based on manuscript version record.</dc:description><dc:date>[between 1880 and 1890]</dc:date><dc:type>manuscriptCartographic</dc:type><dc:type>Manuscript maps</dc:type><dc:type>Maps</dc:type><dc:identifier>aql:13017</dc:identifier><dc:language>eng</dc:language><dc:coverage>East Elmhurst (New York, N.Y.)</dc:coverage><dc:coverage>Newtown (Queens County, N.Y.)</dc:coverage><dc:coverage>Queens (New York, N.Y.)</dc:coverage></oai_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>aql:13024</identifier>
+        <datestamp>2015-09-18T13:29:49.226Z</datestamp>
+      </header>
+      <metadata>
+      <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><dc:title>Map of North Beach</dc:title><dc:creator>Smith, Leonard C. L., 1869?-1943</dc:creator><dc:subject>Amusement parks</dc:subject><dc:description>1 online resource (1 map) ; depicts photocopy, 49 x 61 cm</dc:description><dc:description>s04-06-03-11</dc:description><dc:description>Description based on photocopy version record.</dc:description><dc:date>[1905]</dc:date><dc:type>Cartographic</dc:type><dc:type>Maps</dc:type><dc:identifier>aql:13024</dc:identifier><dc:language>eng</dc:language><dc:coverage>North Beach (New York, N.Y.)</dc:coverage><dc:coverage>East Elmhurst (New York, N.Y.)</dc:coverage><dc:coverage>Queens (New York, N.Y.)</dc:coverage></oai_dc:dc>
+      </metadata>
+    </record>
+   <resumptionToken>ede30c4e-d2bc-4ed9-9f09-ab58027757e7</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

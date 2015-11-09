@@ -1,0 +1,1011 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2015-09-29T15:29:42Z</responseDate><request verb="ListRecords" resumptionToken="digi_hudson:10692:digi_hudson:0000-00-00:9999-99-99:oai_qdc" metadataPrefix="oai_qdc" set="digi_hudson">http://libdigcoll2.library.fordham.edu/oai/oai.php</request><ListRecords><record><header><identifier>oai:libdigcoll2.library.fordham.edu:digi_hudson/10692</identifier><datestamp>2015-06-12</datestamp><setSpec>digi_hudson</setSpec></header>
+<metadata>
+<oai_qdc:qualifieddc xmlns:oai_qdc="http://worldcat.org/xmlschemas/qdc-1.0/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://worldcat.org/xmlschemas/qdc-1.0/ http://worldcat.org/xmlschemas/qdc/1.0/qdc-1.0.xsd http://purl.org/net/oclcterms http://worldcat.org/xmlschemas/oclcterms/1.4/oclcterms-1.4.xsd">
+<dc:title>Hudson, illustrated with pen and pencil : comprising sketches, local and legendary, of its several places of interest together with the route to Niagara Falls : forming a companion for the pleasure tourist</dc:title>
+<dc:creator>Strong, Thomas W.</dc:creator>
+<dc:contributor>Strong, T.W.--engraver</dc:contributor>
+<dcterms:spatial>Hudson River (N.Y. and N.J.)--Pictorial works</dcterms:spatial>
+<dc:publisher>T. W. Strong</dc:publisher>
+<dcterms:created>1852</dcterms:created>
+<dcterms:extent>32 pages : illustrations ; 28 cm</dcterms:extent>
+<dcterms:rightsHolder>Library of Congress</dcterms:rightsHolder>
+<dc:identifier>F127.H8 H7</dc:identifier>
+<dc:identifier>dh-ot-f127h8h7</dc:identifier>
+<dcterms:issued>2008-08-15</dcterms:issued>
+<dc:source>http://www.archive.org/details/hudsonillustrate00stro</dc:source>
+<dc:language>eng</dc:language>
+<dcterms:accessRights>This item is not in the collections of Fordham University Libraries.  This record and a link to the digitized copy of this item has been included in Digital Hudson for research purposes only. For any inquiries about this item, please contact:  Library of Congress http://www.loc.gov</dcterms:accessRights>
+<dcterms:bibliographicCitation>New York</dcterms:bibliographicCitation>
+<dc:identifier>http://libdigcoll2.library.fordham.edu/cdm/ref/collection/digi_hudson/id/10692</dc:identifier></oai_qdc:qualifieddc>
+</metadata>
+</record><record><header><identifier>oai:libdigcoll2.library.fordham.edu:digi_hudson/10693</identifier><datestamp>2015-06-12</datestamp><setSpec>digi_hudson</setSpec></header>
+<metadata>
+<oai_qdc:qualifieddc xmlns:oai_qdc="http://worldcat.org/xmlschemas/qdc-1.0/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://worldcat.org/xmlschemas/qdc-1.0/ http://worldcat.org/xmlschemas/qdc/1.0/qdc-1.0.xsd http://purl.org/net/oclcterms http://worldcat.org/xmlschemas/oclcterms/1.4/oclcterms-1.4.xsd">
+<dc:title>Hudson river [photograph album] 1905</dc:title>
+<dc:format>L.H. Nelson Company--author</dc:format>
+<dcterms:spatial>Hudson River (N.Y. and N.J.)--Pictorial works</dcterms:spatial>
+<dc:publisher>L.H. Nelson Company</dc:publisher>
+<dcterms:created>1905</dcterms:created>
+<dcterms:extent>l volume ; illustrations ; 21 x 25 cm</dcterms:extent>
+<dcterms:rightsHolder>Library of Congress</dcterms:rightsHolder>
+<dc:identifier>F127.H8 N4</dc:identifier>
+<dc:identifier>dh-ot-f127h8n4</dc:identifier>
+<dcterms:issued>2008-08-16</dcterms:issued>
+<dc:source>http://www.archive.org/details/hudsonriver00port</dc:source>
+<dc:language>eng</dc:language>
+<dcterms:accessRights>This item is not in the collections of Fordham University Libraries.  This record and a link to the digitized copy of this item has been included in Digital Hudson for research purposes only. For any inquiries about this item, please contact:  Library of Congress http://www.loc.gov</dcterms:accessRights>
+<dcterms:bibliographicCitation>Portland, Me.</dcterms:bibliographicCitation>
+<dc:identifier>http://libdigcoll2.library.fordham.edu/cdm/ref/collection/digi_hudson/id/10693</dc:identifier></oai_qdc:qualifieddc>
+</metadata>
+</record><record><header><identifier>oai:libdigcoll2.library.fordham.edu:digi_hudson/10694</identifier><datestamp>2015-06-12</datestamp><setSpec>digi_hudson</setSpec></header>
+<metadata>
+<oai_qdc:qualifieddc xmlns:oai_qdc="http://worldcat.org/xmlschemas/qdc-1.0/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://worldcat.org/xmlschemas/qdc-1.0/ http://worldcat.org/xmlschemas/qdc/1.0/qdc-1.0.xsd http://purl.org/net/oclcterms http://worldcat.org/xmlschemas/oclcterms/1.4/oclcterms-1.4.xsd">
+<dc:title>Hudson River; the grandest waterway in America.  King&#x27;s Booklets. A thousand and one world wide subjects</dc:title>
+<dc:creator>King, Moses, 1853-1909--author</dc:creator>
+<dcterms:spatial>Hudson River (N.Y. and N.J.)--Pictorial works</dcterms:spatial>
+<dc:publisher>M. King</dc:publisher>
+<dcterms:created>[1904]</dcterms:created>
+<dcterms:extent>16 unnumbered pages : chiefly illustrations ; 13 x 20 cm</dcterms:extent>
+<dcterms:rightsHolder>Library of Congress</dcterms:rightsHolder>
+<dc:identifier>F127.H8 K5</dc:identifier>
+<dc:identifier>dh-ot-f127h8k5</dc:identifier>
+<dcterms:issued>2008-08-28</dcterms:issued>
+<dc:source>http://www.archive.org/details/hudsonriver00king</dc:source>
+<dc:language>eng</dc:language>
+<dcterms:accessRights>This item is not in the collections of Fordham University Libraries.  This record and a link to the digitized copy of this item has been included in Digital Hudson for research purposes only. For any inquiries about this item, please contact:  Library of Congress http://www.loc.gov</dcterms:accessRights>
+<dcterms:bibliographicCitation>New York</dcterms:bibliographicCitation>
+<dc:identifier>http://libdigcoll2.library.fordham.edu/cdm/ref/collection/digi_hudson/id/10694</dc:identifier></oai_qdc:qualifieddc>
+</metadata>
+</record><record><header><identifier>oai:libdigcoll2.library.fordham.edu:digi_hudson/10695</identifier><datestamp>2015-06-12</datestamp><setSpec>digi_hudson</setSpec></header>
+<metadata>
+<oai_qdc:qualifieddc xmlns:oai_qdc="http://worldcat.org/xmlschemas/qdc-1.0/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://worldcat.org/xmlschemas/qdc-1.0/ http://worldcat.org/xmlschemas/qdc/1.0/qdc-1.0.xsd http://purl.org/net/oclcterms http://worldcat.org/xmlschemas/oclcterms/1.4/oclcterms-1.4.xsd">
+<dc:title>The Hudson river and routes from New York to the White and Green mountains, Montreal, Lake George, Saratoga, Newport and Niagara Falls / by Thursty McQuill</dc:title>
+<dc:creator>Bruce, Wallace, 1844-1914--author</dc:creator>
+<dc:subject>Railroad travel--New York (State)</dc:subject>
+<dcterms:spatial>Hudson River (N.Y. and N.J.)--Guidebooks; New York (State)--Guidebooks</dcterms:spatial>
+<dc:publisher>[publisher not identified]</dc:publisher>
+<dcterms:created>1872</dcterms:created>
+<dcterms:extent>78, 62 pages : illustrations ; 16 cm</dcterms:extent>
+<dcterms:rightsHolder>New York Public Library</dcterms:rightsHolder>
+<dc:identifier>F127.H8 B818 1872</dc:identifier>
+<dc:identifier>dh-ot-f127h8b8181872</dc:identifier>
+<dcterms:issued>2008-02-09</dcterms:issued>
+<dc:source>http://www.archive.org/details/hudsonriverroute00bruc</dc:source>
+<dc:language>eng</dc:language>
+<dcterms:accessRights>This item is not in the collections of Fordham University Libraries.  This record and a link to the digitized copy of this item has been included in Digital Hudson for research purposes only. For any inquiries about this item, please contact:  New York Public Library http://www.nypl.org</dcterms:accessRights>
+<dcterms:bibliographicCitation>New York</dcterms:bibliographicCitation>
+<dc:identifier>http://libdigcoll2.library.fordham.edu/cdm/ref/collection/digi_hudson/id/10695</dc:identifier></oai_qdc:qualifieddc>
+</metadata>
+</record><record><header><identifier>oai:libdigcoll2.library.fordham.edu:digi_hudson/10696</identifier><datestamp>2015-06-12</datestamp><setSpec>digi_hudson</setSpec></header>
+<metadata>
+<oai_qdc:qualifieddc xmlns:oai_qdc="http://worldcat.org/xmlschemas/qdc-1.0/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://worldcat.org/xmlschemas/qdc-1.0/ http://worldcat.org/xmlschemas/qdc/1.0/qdc-1.0.xsd http://purl.org/net/oclcterms http://worldcat.org/xmlschemas/oclcterms/1.4/oclcterms-1.4.xsd">
+<dc:title>Henry Hudson in Holland.  An inquiry into the origin and objects of the voyage which led to the discovery of the Hudson river</dc:title>
+<dc:creator>Murphy, Henry Cruse, 1810-1882 </dc:creator>
+<dcterms:spatial>Hudson River (N.Y. and N.J.)</dcterms:spatial>
+<dcterms:temporal>Hudson, Henry, -1611</dcterms:temporal>
+<dcterms:medium>Nederlandsche Oost-Indische Compagnie</dcterms:medium>
+<dc:publisher>Brothers Giunta d&#x27;Albani</dc:publisher>
+<dcterms:created>1859</dcterms:created>
+<dcterms:extent>72 pages : portrait ; 24 cm</dcterms:extent>
+<dcterms:rightsHolder>Cornell University. Library</dcterms:rightsHolder>
+<dc:identifier>E129.H88 .M97 1859</dc:identifier>
+<dc:description>Includes bibliographical references</dc:description>
+<dc:identifier>dh-ot-e129h88m971859</dc:identifier>
+<dcterms:issued>2009-11-13</dcterms:issued>
+<dc:source>http://www.archive.org/details/cu31924028727711</dc:source>
+<dc:language>eng</dc:language>
+<dcterms:accessRights>This item is not in the collections of Fordham University Libraries.  This record and a link to the digitized copy of this item has been included in Digital Hudson for research purposes only. For any inquiries about this item, please contact:  Cornell University Library https://www.library.cornell.edu/</dcterms:accessRights>
+<dcterms:bibliographicCitation>The Hague</dcterms:bibliographicCitation>
+<dc:identifier>http://libdigcoll2.library.fordham.edu/cdm/ref/collection/digi_hudson/id/10696</dc:identifier></oai_qdc:qualifieddc>
+</metadata>
+</record><record><header><identifier>oai:libdigcoll2.library.fordham.edu:digi_hudson/10697</identifier><datestamp>2015-06-12</datestamp><setSpec>digi_hudson</setSpec></header>
+<metadata>
+<oai_qdc:qualifieddc xmlns:oai_qdc="http://worldcat.org/xmlschemas/qdc-1.0/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://worldcat.org/xmlschemas/qdc-1.0/ http://worldcat.org/xmlschemas/qdc/1.0/qdc-1.0.xsd http://purl.org/net/oclcterms http://worldcat.org/xmlschemas/oclcterms/1.4/oclcterms-1.4.xsd">
+<dc:title>The Hudson River by daylight : New York to Albany and Troy, Catskill mountains... the first descriptive analysis of the Hudson ever published</dc:title>
+<dc:creator>Bruce, Wallace, 1844-1914--author</dc:creator>
+<dcterms:spatial>Hudson River (N.Y. and N.J.)--Description and travel; New York (State)--Description and travel</dcterms:spatial>
+<dc:publisher>G. Watson</dc:publisher>
+<dcterms:created>1873</dcterms:created>
+<dcterms:dateCopyrighted>1873</dcterms:dateCopyrighted>
+<dcterms:extent>2 preliminary leaves, 3-114, 114a-114d, 115-165 pages : illustrations, plates, folded maps ; 17 cm</dcterms:extent>
+<dcterms:rightsHolder>University of Alberta. Library</dcterms:rightsHolder>
+<dc:identifier>F127.H8 B822</dc:identifier>
+<dc:identifier>dh-ot-f127h8b822</dc:identifier>
+<dcterms:issued>2010-01-04</dcterms:issued>
+<dc:source>http://www.archive.org/details/cihm_25687</dc:source>
+<dc:language>eng</dc:language>
+<dcterms:accessRights>This item is not in the collections of Fordham University Libraries.  This record and a link to the digitized copy of this item has been included in Digital Hudson for research purposes only. For any inquiries about this item, please contact:  University of Alberta Library http://www.library.ualberta.ca/</dcterms:accessRights>
+<dcterms:bibliographicCitation>New York</dcterms:bibliographicCitation>
+<dc:identifier>http://libdigcoll2.library.fordham.edu/cdm/ref/collection/digi_hudson/id/10697</dc:identifier></oai_qdc:qualifieddc>
+</metadata>
+</record><record><header><identifier>oai:libdigcoll2.library.fordham.edu:digi_hudson/10698</identifier><datestamp>2015-06-12</datestamp><setSpec>digi_hudson</setSpec></header>
+<metadata>
+<oai_qdc:qualifieddc xmlns:oai_qdc="http://worldcat.org/xmlschemas/qdc-1.0/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://worldcat.org/xmlschemas/qdc-1.0/ http://worldcat.org/xmlschemas/qdc/1.0/qdc-1.0.xsd http://purl.org/net/oclcterms http://worldcat.org/xmlschemas/oclcterms/1.4/oclcterms-1.4.xsd">
+<dc:title>The Hudson River by daylight : New York to Albany, Saratoga Springs. . . / by Wallace Bruce</dc:title>
+<dc:creator>Bruce, Wallace, 1844-1914--author</dc:creator>
+<dcterms:spatial>Hudson River (N.Y. and N.J.)--Description and travel; New York (State)--Description and travel</dcterms:spatial>
+<dc:publisher>Frank Anderson</dc:publisher>
+<dcterms:created>1875</dcterms:created>
+<dcterms:extent>172 pages : illustrations ; 17 cm</dcterms:extent>
+<dcterms:rightsHolder>University of Connecticut. Libraries</dcterms:rightsHolder>
+<dc:identifier>F127.H8 B7 1875</dc:identifier>
+<dc:identifier>dh-ot-f127h8b71875</dc:identifier>
+<dcterms:issued>2009-06-16</dcterms:issued>
+<dc:source>http://www.archive.org/details/hudsonriverbyday75bruc</dc:source>
+<dc:language>eng</dc:language>
+<dcterms:accessRights>This item is not in the collections of Fordham University Libraries.  This record and a link to the digitized copy of this item has been included in Digital Hudson for research purposes only. For any inquiries about this item, please contact:  University of Connecticut Libraries http://www.lib.uconn.edu/</dcterms:accessRights>
+<dcterms:bibliographicCitation>New York</dcterms:bibliographicCitation>
+<dc:identifier>http://libdigcoll2.library.fordham.edu/cdm/ref/collection/digi_hudson/id/10698</dc:identifier></oai_qdc:qualifieddc>
+</metadata>
+</record><record><header><identifier>oai:libdigcoll2.library.fordham.edu:digi_hudson/10699</identifier><datestamp>2015-06-12</datestamp><setSpec>digi_hudson</setSpec></header>
+<metadata>
+<oai_qdc:qualifieddc xmlns:oai_qdc="http://worldcat.org/xmlschemas/qdc-1.0/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://worldcat.org/xmlschemas/qdc-1.0/ http://worldcat.org/xmlschemas/qdc/1.0/qdc-1.0.xsd http://purl.org/net/oclcterms http://worldcat.org/xmlschemas/oclcterms/1.4/oclcterms-1.4.xsd">
+<dc:title>The Hudson River by daylight : New York to Albany and Troy, Catskill mountains... / by Wallace Bruce</dc:title>
+<dc:creator>Bruce, Wallace, 1844-1914--author</dc:creator>
+<dcterms:spatial>Hudson River (N.Y. and N.J.)--Description and travel; New York (State)--Description and travel</dcterms:spatial>
+<dc:publisher>G. Watson</dc:publisher>
+<dcterms:created>1884</dcterms:created>
+<dcterms:extent>2 preliminary leaves, [3]-150 pages : illustrations, folded maps ; 18 cm</dcterms:extent>
+<dcterms:rightsHolder>Library of Congress</dcterms:rightsHolder>
+<dc:identifier>F127.H8 B83</dc:identifier>
+<dc:identifier>dh-ot-f127h8b83</dc:identifier>
+<dcterms:issued>2009-10-02</dcterms:issued>
+<dc:source>http://www.archive.org/details/hudsonriverbyday02bruc</dc:source>
+<dc:language>eng</dc:language>
+<dcterms:accessRights>This item is not in the collections of Fordham University Libraries.  This record and a link to the digitized copy of this item has been included in Digital Hudson for research purposes only. For any inquiries about this item, please contact:  Library of Congress http://www.loc.gov</dcterms:accessRights>
+<dcterms:bibliographicCitation>New York</dcterms:bibliographicCitation>
+<dc:identifier>http://libdigcoll2.library.fordham.edu/cdm/ref/collection/digi_hudson/id/10699</dc:identifier></oai_qdc:qualifieddc>
+</metadata>
+</record><record><header><identifier>oai:libdigcoll2.library.fordham.edu:digi_hudson/10700</identifier><datestamp>2015-06-12</datestamp><setSpec>digi_hudson</setSpec></header>
+<metadata>
+<oai_qdc:qualifieddc xmlns:oai_qdc="http://worldcat.org/xmlschemas/qdc-1.0/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://worldcat.org/xmlschemas/qdc-1.0/ http://worldcat.org/xmlschemas/qdc/1.0/qdc-1.0.xsd http://purl.org/net/oclcterms http://worldcat.org/xmlschemas/oclcterms/1.4/oclcterms-1.4.xsd">
+<dc:title>Historic old Rhinebeck : echoes of two centuries; a Hudson river and post road colonial town : when, where by whom settled and named the whys and wherefores, who&#x27;s who and was, historical, genealogical biographical, traditional / by Howard H. Morse</dc:title>
+<dcterms:alternative>Hudson river and post road colonial town</dcterms:alternative>
+<dc:creator>Morse, Howard H. (Howard Holdridge), 1842-1911--author</dc:creator>
+<dc:type>Pocantico Printery, Flocker &amp; Hicks--printer</dc:type>
+<dcterms:spatial>Rhinebeck (N.Y.)--History</dcterms:spatial>
+<dc:publisher>Howard H. Morse</dc:publisher>
+<dcterms:abstract>1st edition</dcterms:abstract>
+<dcterms:created>1908</dcterms:created>
+<dcterms:extent>4 preliminary leaves, 448 pages : illustrations, plates, portraits, folded maps ; 19 cm</dcterms:extent>
+<dcterms:rightsHolder>Library of Congress</dcterms:rightsHolder>
+<dc:identifier>F129.R4 M8</dc:identifier>
+<dc:description>Includes index</dc:description>
+<dc:identifier>dh-ot-f129r4m8</dc:identifier>
+<dcterms:issued>2008-09-19</dcterms:issued>
+<dc:source>http://www.archive.org/details/historicoldrhine02mors</dc:source>
+<dc:language>eng</dc:language>
+<dcterms:accessRights>This item is not in the collections of Fordham University Libraries.  This record and a link to the digitized copy of this item has been included in Digital Hudson for research purposes only. For any inquiries about this item, please contact:  Library of Congress  http://www.loc.gov</dcterms:accessRights>
+<dcterms:bibliographicCitation>Rhinebeck, N.Y.</dcterms:bibliographicCitation>
+<dc:identifier>http://libdigcoll2.library.fordham.edu/cdm/ref/collection/digi_hudson/id/10700</dc:identifier></oai_qdc:qualifieddc>
+</metadata>
+</record><record><header><identifier>oai:libdigcoll2.library.fordham.edu:digi_hudson/10701</identifier><datestamp>2015-06-12</datestamp><setSpec>digi_hudson</setSpec></header>
+<metadata>
+<oai_qdc:qualifieddc xmlns:oai_qdc="http://worldcat.org/xmlschemas/qdc-1.0/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://worldcat.org/xmlschemas/qdc-1.0/ http://worldcat.org/xmlschemas/qdc/1.0/qdc-1.0.xsd http://purl.org/net/oclcterms http://worldcat.org/xmlschemas/oclcterms/1.4/oclcterms-1.4.xsd">
+<dc:title>New York and Albany post road, from Kings Bridge to the ferry at Crawlier, over against Albany being an account of a jaunt on foot made at sundry convenient times between May and November, nineteen hundred and five / by C. G. Hine</dc:title>
+<dcterms:alternative>Hine&#x27;s annual, 1905, book I</dcterms:alternative>
+<dc:creator>Hine, C. G. (Charles Gilbert), 1859-1931--author</dc:creator>
+<dc:subject>Dwellings--Hudson River Valley (N.Y. and N.J.); Historic buildings--Hudson River Valley (N.Y. and N.J.)</dc:subject>
+<dcterms:spatial>Hudson River Valley (N.Y. and N.J.)--Description and travel</dcterms:spatial>
+<dc:description>Published also as Hine&#x27;s annual, 1905, book I</dc:description>
+<dc:publisher>C.G. Hine</dc:publisher>
+<dcterms:created>1905</dcterms:created>
+<dcterms:extent>4 preliminary leaves, iii-vi, 109 pages , plates ; 20 cm</dcterms:extent>
+<dcterms:rightsHolder>New York Public Library</dcterms:rightsHolder>
+<dc:identifier>F127.H8 H56 1905</dc:identifier>
+<dc:identifier>dh-ot-f127h8h561905</dc:identifier>
+<dcterms:issued>2007-07-26</dcterms:issued>
+<dc:source>http://www.archive.org/details/newyorkalbanypos00hine</dc:source>
+<dc:language>eng</dc:language>
+<dcterms:accessRights>This item is not in the collections of Fordham University Libraries.  This record and a link to the digitized copy of this item has been included in Digital Hudson for research purposes only. For any inquiries about this item, please contact:  New York Public Library http://www.nypl.org</dcterms:accessRights>
+<dcterms:bibliographicCitation>New York</dcterms:bibliographicCitation>
+<dc:identifier>http://libdigcoll2.library.fordham.edu/cdm/ref/collection/digi_hudson/id/10701</dc:identifier></oai_qdc:qualifieddc>
+</metadata>
+</record><record><header><identifier>oai:libdigcoll2.library.fordham.edu:digi_hudson/10702</identifier><datestamp>2015-06-12</datestamp><setSpec>digi_hudson</setSpec></header>
+<metadata>
+<oai_qdc:qualifieddc xmlns:oai_qdc="http://worldcat.org/xmlschemas/qdc-1.0/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://worldcat.org/xmlschemas/qdc-1.0/ http://worldcat.org/xmlschemas/qdc/1.0/qdc-1.0.xsd http://purl.org/net/oclcterms http://worldcat.org/xmlschemas/oclcterms/1.4/oclcterms-1.4.xsd">
+<dc:title>Wilson&#x27;s Illustrated Guide to the Hudson River</dc:title>
+<dcterms:spatial>Hudson River (N.Y. and N.J.)--Guidebooks; New York (N.Y.)--Guidebooks</dcterms:spatial>
+<dc:description>Advertising matter: pages 1-8, 90-112; With a map and street directory of New York City</dc:description>
+<dc:publisher>H. Wilson</dc:publisher>
+<dcterms:abstract>1st edition</dcterms:abstract>
+<dcterms:created>1848</dcterms:created>
+<dcterms:extent>112 pages : maps ; 15 cm</dcterms:extent>
+<dcterms:rightsHolder>Library of Congress</dcterms:rightsHolder>
+<dc:identifier>F127.H8 W72 1848</dc:identifier>
+<dc:identifier>dh-ot-f127h8w721848</dc:identifier>
+<dcterms:issued>2008-08-16</dcterms:issued>
+<dc:source>http://www.archive.org/details/wilsonsillustrat00newy</dc:source>
+<dc:language>eng</dc:language>
+<dcterms:accessRights>This item is not in the collections of Fordham University Libraries.  This record and a link to the digitized copy of this item has been included in Digital Hudson for research purposes only. For any inquiries about this item, please contact:  Library of Congress  http://www.loc.gov</dcterms:accessRights>
+<dcterms:bibliographicCitation>New York</dcterms:bibliographicCitation>
+<dc:identifier>http://libdigcoll2.library.fordham.edu/cdm/ref/collection/digi_hudson/id/10702</dc:identifier></oai_qdc:qualifieddc>
+</metadata>
+</record><record><header><identifier>oai:libdigcoll2.library.fordham.edu:digi_hudson/10703</identifier><datestamp>2015-06-12</datestamp><setSpec>digi_hudson</setSpec></header>
+<metadata>
+<oai_qdc:qualifieddc xmlns:oai_qdc="http://worldcat.org/xmlschemas/qdc-1.0/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://worldcat.org/xmlschemas/qdc-1.0/ http://worldcat.org/xmlschemas/qdc/1.0/qdc-1.0.xsd http://purl.org/net/oclcterms http://worldcat.org/xmlschemas/oclcterms/1.4/oclcterms-1.4.xsd">
+<dc:title>The traveler&#x27;s guide to the Hudson River, Saratoga Springs, Lake George, Falls of Niagara and Thousand Islands, Montreal, Quebec, and the Saguenay River, also, to the Green and While Mountains, and other parts of New England, forming the fashionable Northern tour through the United States and Canada; with map and embellishments / compiled by J. Disturnell</dc:title>
+<dc:creator>Disturnell, J. (John), 1801-1877--author</dc:creator>
+<dcterms:spatial>New York (State)--Guidebooks; Hudson River (N.Y. and N.J.)--Guideooks; Canada--Guidebooks</dcterms:spatial>
+<dc:description>Includes advertising matter</dc:description>
+<dc:publisher>American News Co.</dc:publisher>
+<dcterms:created>1864</dcterms:created>
+<dcterms:extent>324 pages, 4 leaves of plates : frontispiece, illustrations, folded maps; 17 cm</dcterms:extent>
+<dcterms:rightsHolder>University of Alberta. Library</dcterms:rightsHolder>
+<dc:identifier>F123 .P65 1864</dc:identifier>
+<dc:identifier>dh-ot-f123p651864</dc:identifier>
+<dcterms:issued>2009-03-26</dcterms:issued>
+<dc:source>http://www.archive.org/details/cihm_04303</dc:source>
+<dc:language>eng</dc:language>
+<dcterms:accessRights>This item is not in the collections of Fordham University Libraries.  This record and a link to the digitized copy of this item has been included in Digital Hudson for research purposes only. For any inquiries about this item, please contact:  University of Alberta Library http://www.library.ualberta.ca/</dcterms:accessRights>
+<dcterms:bibliographicCitation>New York</dcterms:bibliographicCitation>
+<dc:identifier>http://libdigcoll2.library.fordham.edu/cdm/ref/collection/digi_hudson/id/10703</dc:identifier></oai_qdc:qualifieddc>
+</metadata>
+</record><record><header><identifier>oai:libdigcoll2.library.fordham.edu:digi_hudson/10704</identifier><datestamp>2015-06-12</datestamp><setSpec>digi_hudson</setSpec></header>
+<metadata>
+<oai_qdc:qualifieddc xmlns:oai_qdc="http://worldcat.org/xmlschemas/qdc-1.0/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://worldcat.org/xmlschemas/qdc-1.0/ http://worldcat.org/xmlschemas/qdc/1.0/qdc-1.0.xsd http://purl.org/net/oclcterms http://worldcat.org/xmlschemas/oclcterms/1.4/oclcterms-1.4.xsd">
+<dc:title>Three rivers, the James, the Potomac, the Hudson  a retrospect of peace and war / by Joseph Pearson Farley</dc:title>
+<dc:creator>Farley, Joseph Pearson, 1839-1912--author</dc:creator>
+<dc:contributor>Farley, John, 1802 or 1803-1874</dc:contributor>
+<dcterms:spatial>James River (Va.); Potomac River; Hudson River (N.Y. and N.J.); United States--History--Civil War, 1861-1865--Personal narratives; West Point (N.Y.)</dcterms:spatial>
+<dcterms:medium>United States Military Academy</dcterms:medium>
+<dc:description>Criticisms on art by Lieut. John Farley, U.S.A. 1828-29: pages 245-277</dc:description>
+<dc:publisher>The Neale Publishing Company</dc:publisher>
+<dcterms:created>1910</dcterms:created>
+<dcterms:extent>277 pages : color frontispiece, 9 color plates ; 21 cm</dcterms:extent>
+<dcterms:rightsHolder>University of Toronto. Library</dcterms:rightsHolder>
+<dc:identifier>F227.F23 1910</dc:identifier>
+<dc:identifier>dh-ot-f227f231910</dc:identifier>
+<dcterms:issued>2007-04-12</dcterms:issued>
+<dc:source>http://www.archive.org/details/threeriversjames00farluoft</dc:source>
+<dc:language>eng</dc:language>
+<dcterms:accessRights>This item is not in the collections of Fordham University Libraries.  This record and a link to the digitized copy of this item has been included in Digital Hudson for research purposes only. For any inquiries about this item, please contact:  University of Toronto Library http://onesearch.library.utoronto.ca/</dcterms:accessRights>
+<dcterms:bibliographicCitation>New York</dcterms:bibliographicCitation>
+<dc:identifier>http://libdigcoll2.library.fordham.edu/cdm/ref/collection/digi_hudson/id/10704</dc:identifier></oai_qdc:qualifieddc>
+</metadata>
+</record><record><header><identifier>oai:libdigcoll2.library.fordham.edu:digi_hudson/10705</identifier><datestamp>2015-06-12</datestamp><setSpec>digi_hudson</setSpec></header>
+<metadata>
+<oai_qdc:qualifieddc xmlns:oai_qdc="http://worldcat.org/xmlschemas/qdc-1.0/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://worldcat.org/xmlschemas/qdc-1.0/ http://worldcat.org/xmlschemas/qdc/1.0/qdc-1.0.xsd http://purl.org/net/oclcterms http://worldcat.org/xmlschemas/oclcterms/1.4/oclcterms-1.4.xsd">
+<dc:title>Up the river / by F.W. Shelton</dc:title>
+<dc:creator>Shelton, F. W. (Frederick William), 1814-1881--author</dc:creator>
+<dc:subject>Country life--Hudson River Valley (N.Y. and N.J.)</dc:subject>
+<dcterms:spatial>Hudson River (N.Y. and N.J.)</dcterms:spatial>
+<dc:description>With illustrations from original designs</dc:description>
+<dc:publisher>C. Scribner</dc:publisher>
+<dcterms:created>1853</dcterms:created>
+<dcterms:extent>xxi, 335 pages : illustrations ; 19 cm</dcterms:extent>
+<dcterms:rightsHolder>University of California, Los Angeles. Library</dcterms:rightsHolder>
+<dc:identifier>PS2809.S565 U7</dc:identifier>
+<dc:identifier>dh-ot-ps2809s565u7</dc:identifier>
+<dcterms:issued>2008-08-16</dcterms:issued>
+<dc:source>http://www.archive.org/details/upriver00shel</dc:source>
+<dc:language>eng</dc:language>
+<dcterms:accessRights>This item is not in the collections of Fordham University Libraries.  This record and a link to the digitized copy of this item has been included in Digital Hudson for research purposes only. For any inquiries about this item, please contact:  Library of the University of California Los Angeles http://www.library.ucla.edu/</dcterms:accessRights>
+<dcterms:bibliographicCitation>New York</dcterms:bibliographicCitation>
+<dc:identifier>http://libdigcoll2.library.fordham.edu/cdm/ref/collection/digi_hudson/id/10705</dc:identifier></oai_qdc:qualifieddc>
+</metadata>
+</record><record><header><identifier>oai:libdigcoll2.library.fordham.edu:digi_hudson/10706</identifier><datestamp>2015-06-12</datestamp><setSpec>digi_hudson</setSpec></header>
+<metadata>
+<oai_qdc:qualifieddc xmlns:oai_qdc="http://worldcat.org/xmlschemas/qdc-1.0/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://worldcat.org/xmlschemas/qdc-1.0/ http://worldcat.org/xmlschemas/qdc/1.0/qdc-1.0.xsd http://purl.org/net/oclcterms http://worldcat.org/xmlschemas/oclcterms/1.4/oclcterms-1.4.xsd">
+<dc:title>West shore railroad company to the New York Central and Hudson River Railroad Company : lease dated December 5th, 1885</dc:title>
+<dc:format>West Shore Railroad Company--author</dc:format>
+<dcterms:medium>New York Central and Hudson River Railroad Company; West Shore Railroad Company</dcterms:medium>
+<dc:publisher>[publisher not identified]</dc:publisher>
+<dcterms:created>1885</dcterms:created>
+<dcterms:extent>16 pages; 24 cm</dcterms:extent>
+<dcterms:rightsHolder>University of California, Los Angeles. Library</dcterms:rightsHolder>
+<dc:identifier>HE2791.W3 A4</dc:identifier>
+<dc:identifier>dh-ot-he2791w3a4</dc:identifier>
+<dc:source>http://berkeley.worldcat.org/oclc/613031043</dc:source>
+<dc:language>eng</dc:language>
+<dcterms:accessRights>This item is not in the collections of Fordham University Libraries.  This record and a link to the digitized copy of this item has been included in Digital Hudson for research purposes only. For any inquiries about this item, please contact:  Library of the University of California Los Angeles http://www.library.ucla.edu/</dcterms:accessRights>
+<dcterms:bibliographicCitation>[New York?]</dcterms:bibliographicCitation>
+<dc:identifier>http://libdigcoll2.library.fordham.edu/cdm/ref/collection/digi_hudson/id/10706</dc:identifier></oai_qdc:qualifieddc>
+</metadata>
+</record><record><header><identifier>oai:libdigcoll2.library.fordham.edu:digi_hudson/10707</identifier><datestamp>2015-06-12</datestamp><setSpec>digi_hudson</setSpec></header>
+<metadata>
+<oai_qdc:qualifieddc xmlns:oai_qdc="http://worldcat.org/xmlschemas/qdc-1.0/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://worldcat.org/xmlschemas/qdc-1.0/ http://worldcat.org/xmlschemas/qdc/1.0/qdc-1.0.xsd http://purl.org/net/oclcterms http://worldcat.org/xmlschemas/oclcterms/1.4/oclcterms-1.4.xsd">
+<dc:title>Trolley trips through New England and Hudson Valley; how and where to go, what to see, the old reliable official guide, many pictures</dc:title>
+<dc:format>Trolley Press--author</dc:format>
+<dcterms:spatial>New England--Description and travel; Hudson River Valley (N.Y. and N.J.)--Description and travel</dcterms:spatial>
+<dc:publisher>Trolley Press</dc:publisher>
+<dcterms:created>1916</dcterms:created>
+<dcterms:extent>144 pages : illustrations, maps; 18 cm</dcterms:extent>
+<dcterms:rightsHolder>Library of Congress</dcterms:rightsHolder>
+<dc:identifier>F9 .T83 1916</dc:identifier>
+<dc:identifier>dh-ot-f9t831916</dc:identifier>
+<dcterms:issued>2008-07-09</dcterms:issued>
+<dc:source>http://www.archive.org/details/trolleytripsthro01hart</dc:source>
+<dc:language>eng</dc:language>
+<dcterms:accessRights>This item is not in the collections of Fordham University Libraries.  This record and a link to the digitized copy of this item has been included in Digital Hudson for research purposes only. For any inquiries about this item, please contact:  Library of Congress http://www.loc.gov</dcterms:accessRights>
+<dcterms:bibliographicCitation>Hartford, Conn.</dcterms:bibliographicCitation>
+<dc:identifier>http://libdigcoll2.library.fordham.edu/cdm/ref/collection/digi_hudson/id/10707</dc:identifier></oai_qdc:qualifieddc>
+</metadata>
+</record><record><header><identifier>oai:libdigcoll2.library.fordham.edu:digi_hudson/10708</identifier><datestamp>2015-06-12</datestamp><setSpec>digi_hudson</setSpec></header>
+<metadata>
+<oai_qdc:qualifieddc xmlns:oai_qdc="http://worldcat.org/xmlschemas/qdc-1.0/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://worldcat.org/xmlschemas/qdc-1.0/ http://worldcat.org/xmlschemas/qdc/1.0/qdc-1.0.xsd http://purl.org/net/oclcterms http://worldcat.org/xmlschemas/oclcterms/1.4/oclcterms-1.4.xsd">
+<dc:title>The sloops of the Hudson An historical sketch of the packet and market sloops of the last century, with a record of their names; together with personal reminiscences of certain of the notable North River sailing masters / by William E. Verplanck and Moses W. Collyer</dc:title>
+<dc:creator>Verplanck, William Edward, 1856- </dc:creator>
+<dc:contributor>Collyer, Moses Wakeman--author; Woolsey, George Davis, 1829-1900--author</dc:contributor>
+<dc:subject>Sloops--Hudson River (N.Y. and N.J.)--History--19th century; Shipping--Hudson River (N.Y. and N.J.)--History--19th century</dc:subject>
+<dcterms:spatial>Hudson River (N.Y. and N.J.)</dcterms:spatial>
+<dc:description>Personal reminiscenses of Captain George D. Woolsey: pages 112-171</dc:description>
+<dc:publisher>G.P. Putnam&#x27;s Sons</dc:publisher>
+<dcterms:created>1908</dcterms:created>
+<dcterms:extent>xii, 171 pages : illustrations, portraits ; 21 cm</dcterms:extent>
+<dcterms:rightsHolder>University of California, Los Angeles. Library</dcterms:rightsHolder>
+<dc:identifier>HE630.H8 V5 1908</dc:identifier>
+<dc:identifier>dh-ot-he630h8v51908</dc:identifier>
+<dcterms:issued>2008-07-23</dcterms:issued>
+<dc:source>http://www.archive.org/details/sloopsofhudsonhi00verp</dc:source>
+<dc:language>eng</dc:language>
+<dcterms:accessRights>This item is not in the collections of Fordham University Libraries.  This record and a link to the digitized copy of this item has been included in Digital Hudson for research purposes only. For any inquiries about this item, please contact:  Library of the University of California Los Angeles http://www.library.ucla.edu/</dcterms:accessRights>
+<dcterms:bibliographicCitation>New York ; London</dcterms:bibliographicCitation>
+<dc:identifier>http://libdigcoll2.library.fordham.edu/cdm/ref/collection/digi_hudson/id/10708</dc:identifier></oai_qdc:qualifieddc>
+</metadata>
+</record><record><header><identifier>oai:libdigcoll2.library.fordham.edu:digi_hudson/10709</identifier><datestamp>2015-06-12</datestamp><setSpec>digi_hudson</setSpec></header>
+<metadata>
+<oai_qdc:qualifieddc xmlns:oai_qdc="http://worldcat.org/xmlschemas/qdc-1.0/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://worldcat.org/xmlschemas/qdc-1.0/ http://worldcat.org/xmlschemas/qdc/1.0/qdc-1.0.xsd http://purl.org/net/oclcterms http://worldcat.org/xmlschemas/oclcterms/1.4/oclcterms-1.4.xsd">
+<dc:title>The river Hudson, together with descriptions and illustrations of the city of New York, Catskill Mountains, Lake George, Lake Champlain, Saratoga : Illustrated with fifty engraving</dc:title>
+<dcterms:spatial>Hudson River (N.Y. and N.J.)--Guidebooks; New York (State)--Guidebooks</dcterms:spatial>
+<dc:publisher>Ross &amp; Tousey [and others]</dc:publisher>
+<dcterms:created>1859</dcterms:created>
+<dcterms:extent>63 pages : illustrations, map ; 23 cm</dcterms:extent>
+<dcterms:rightsHolder>Library of Congress</dcterms:rightsHolder>
+<dc:identifier>F127.H8 R6 1859</dc:identifier>
+<dc:identifier>dh-ot-f127h8r61859</dc:identifier>
+<dcterms:issued>2008-08-16</dcterms:issued>
+<dc:source>http://www.archive.org/details/riverhudsontoget00newyas</dc:source>
+<dc:language>eng</dc:language>
+<dcterms:accessRights>This item is not in the collections of Fordham University Libraries.  This record and a link to the digitized copy of this item has been included in Digital Hudson for research purposes only. For any inquiries about this item, please contact:  Library of Congress http://www.loc.gov</dcterms:accessRights>
+<dcterms:bibliographicCitation>New York</dcterms:bibliographicCitation>
+<dc:identifier>http://libdigcoll2.library.fordham.edu/cdm/ref/collection/digi_hudson/id/10709</dc:identifier></oai_qdc:qualifieddc>
+</metadata>
+</record><record><header><identifier>oai:libdigcoll2.library.fordham.edu:digi_hudson/10710</identifier><datestamp>2015-06-12</datestamp><setSpec>digi_hudson</setSpec></header>
+<metadata>
+<oai_qdc:qualifieddc xmlns:oai_qdc="http://worldcat.org/xmlschemas/qdc-1.0/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://worldcat.org/xmlschemas/qdc-1.0/ http://worldcat.org/xmlschemas/qdc/1.0/qdc-1.0.xsd http://purl.org/net/oclcterms http://worldcat.org/xmlschemas/oclcterms/1.4/oclcterms-1.4.xsd">
+<dc:title>American scenery : or land, lake, and river illustrations of transatlantic nature / from drawings by W. H. Bartlett, engraved in the first style of the art, by R. Wallis, J. Cousen, Willmore, Brandard, Adlard, Richardson, &amp;c. The literary department by N.P. Willis.</dc:title>
+<dc:creator>Willis, Nathaniel Parker, 1806-1867--author</dc:creator>
+<dc:contributor>Bartlett, W. H. (William Henry), 1809-1854--illustrator; Wallis, Robert, 1794-1878--engraver; Cousen, John, 1804-1880--engraver; Adlard, Henry--engraver; Brandard, Robert, 1805-1862--engraver; Willmore, James Tibbetts, 1800-1863--engraver; Virtue, George, 1793?-1868--publisher; Clay, Richard, 1789-1877--printer</dc:contributor>
+<dcterms:spatial>United States--Description and travel; United States--Pictorial works</dcterms:spatial>
+<dc:description>Volume 1: iv, [2], 140 pages, [66] leaves of plates ; volume 2: iv, 106 pages, [53] leaves of plates; Published serially in 30 parts with printed paper covers; Cover titles include publisher&#x27;s note: The first edition of this work is printed expressly for Martin and Co. ... New York, and at Philadelphia and Boston; Each volume has an additional title page, engraved, with the imprint, George Virtue: London; R. Martin &amp; Co.: New York; Richard Clay, printer, Bread Street Hill--Title page verso</dc:description>
+<dc:publisher>George Virtue; R. Martin &amp; Co.</dc:publisher>
+<dcterms:created>1840</dcterms:created>
+<dcterms:extent>2 volumes, 119 unnumbered leaves of plates: portrait, plates, map ; 28 cm</dcterms:extent>
+<dcterms:rightsHolder>Bodleian Library</dcterms:rightsHolder>
+<dc:identifier>E165 .W73</dc:identifier>
+<dc:identifier>dh-ot-e165w73</dc:identifier>
+<dc:source>http://lccn.loc.gov/01024522</dc:source>
+<dc:language>eng</dc:language>
+<dcterms:accessRights>This item is not in the collections of Fordham University Libraries.  This record and a link to the digitized copy of this item has been included in Digital Hudson for research purposes only. For any inquiries about this item, please contact:  Bodleian Library http://www.bodleian.ox.ac.uk/bodley</dcterms:accessRights>
+<dcterms:isReferencedBy>BAL, 22755; Sabin, 3784; Abbey, J.R. Travel, 651</dcterms:isReferencedBy>
+<dc:identifier>http://libdigcoll2.library.fordham.edu/cdm/ref/collection/digi_hudson/id/10710</dc:identifier></oai_qdc:qualifieddc>
+</metadata>
+</record><record><header><identifier>oai:libdigcoll2.library.fordham.edu:digi_hudson/10711</identifier><datestamp>2015-06-12</datestamp><setSpec>digi_hudson</setSpec></header>
+<metadata>
+<oai_qdc:qualifieddc xmlns:oai_qdc="http://worldcat.org/xmlschemas/qdc-1.0/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://worldcat.org/xmlschemas/qdc-1.0/ http://worldcat.org/xmlschemas/qdc/1.0/qdc-1.0.xsd http://purl.org/net/oclcterms http://worldcat.org/xmlschemas/oclcterms/1.4/oclcterms-1.4.xsd">
+<dc:title>Hudson River from ocean to source, historical--legendary--picturesque</dc:title>
+<dc:creator>Bacon, Edgar Mayhew, 1855-1935--author</dc:creator>
+<dcterms:spatial>Hudson River (N.Y. and N.J.)</dcterms:spatial>
+<dc:publisher>G.P. Putnam&#x27;s Sons</dc:publisher>
+<dcterms:created>1902</dcterms:created>
+<dcterms:extent>xii pages, 1 leaf, 590 pages : illustrations, plates, map in pocket ; 25 cm</dcterms:extent>
+<dcterms:rightsHolder>Library of Congress</dcterms:rightsHolder>
+<dc:identifier>F127.H8 B3 1902</dc:identifier>
+<dc:identifier>dh-ot-f127h8b31902</dc:identifier>
+<dcterms:issued>2008-08-06</dcterms:issued>
+<dc:source>http://www.archive.org/details/hudsonriverfromo00baco</dc:source>
+<dc:language>eng</dc:language>
+<dcterms:accessRights>This item is not in the collections of Fordham University Libraries.  This record and a link to the digitized copy of this item has been included in Digital Hudson for research purposes only. For any inquiries about this item, please contact:  Library of Congress  http://www.loc.gov</dcterms:accessRights>
+<dcterms:bibliographicCitation>New York</dcterms:bibliographicCitation>
+<dc:identifier>http://libdigcoll2.library.fordham.edu/cdm/ref/collection/digi_hudson/id/10711</dc:identifier></oai_qdc:qualifieddc>
+</metadata>
+</record><record><header><identifier>oai:libdigcoll2.library.fordham.edu:digi_hudson/10712</identifier><datestamp>2015-06-12</datestamp><setSpec>digi_hudson</setSpec></header>
+<metadata>
+<oai_qdc:qualifieddc xmlns:oai_qdc="http://worldcat.org/xmlschemas/qdc-1.0/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://worldcat.org/xmlschemas/qdc-1.0/ http://worldcat.org/xmlschemas/qdc/1.0/qdc-1.0.xsd http://purl.org/net/oclcterms http://worldcat.org/xmlschemas/oclcterms/1.4/oclcterms-1.4.xsd">
+<dc:title>Memoir, prepared at the request of a Committee of the Common Council of the City of New York, and presented to the mayor of the city, at the celebration of the completion of the New York Canals / by Cadwallader D. Colden</dc:title>
+<dc:creator>Colden, Cadwallader D. (Cadwallader David), 1769-1834--author</dc:creator>
+<dcterms:spatial>Erie Canal (N.Y.)</dcterms:spatial>
+<dc:publisher>printed by order of the Corporation of New York </dc:publisher>
+<dcterms:created>1825</dcterms:created>
+<dcterms:extent>v, 101 pages : portrait, folded maps ; 26 cm</dcterms:extent>
+<dcterms:rightsHolder>University of Pittsburgh. University Libraries</dcterms:rightsHolder>
+<dc:identifier>TC625 E6C6</dc:identifier>
+<dc:identifier>dh-ot-tc625e6c6</dc:identifier>
+<dcterms:issued>2009-04-15</dcterms:issued>
+<dc:source>http://www.archive.org/details/memoirpreparedat00cold</dc:source>
+<dc:language>eng</dc:language>
+<dcterms:accessRights>This item is not in the collections of Fordham University Libraries.  This record and a link to the digitized copy of this item has been included in Digital Hudson for research purposes only. For any inquiries about this item, please contact:  University of Pittsburgh Libraries http://www.library.pitt.edu/</dcterms:accessRights>
+<dcterms:bibliographicCitation>New York</dcterms:bibliographicCitation>
+<dc:identifier>http://libdigcoll2.library.fordham.edu/cdm/ref/collection/digi_hudson/id/10712</dc:identifier></oai_qdc:qualifieddc>
+</metadata>
+</record><record><header><identifier>oai:libdigcoll2.library.fordham.edu:digi_hudson/10713</identifier><datestamp>2015-06-12</datestamp><setSpec>digi_hudson</setSpec></header>
+<metadata>
+<oai_qdc:qualifieddc xmlns:oai_qdc="http://worldcat.org/xmlschemas/qdc-1.0/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://worldcat.org/xmlschemas/qdc-1.0/ http://worldcat.org/xmlschemas/qdc/1.0/qdc-1.0.xsd http://purl.org/net/oclcterms http://worldcat.org/xmlschemas/oclcterms/1.4/oclcterms-1.4.xsd">
+<dc:title>Gazetteer of the state of New-York : comprising its topography, geology, mineralogical resources, civil divisions, canals, railroads and public institutions; together with general statistics... Also, statistical tables, including the census of 1840; and tables of distances Comp. by J. Disturnell. 2d ed. with additions and corrections.</dc:title>
+<dc:contributor>Disturnell, John, 1801-1877--compiler</dc:contributor>
+<dcterms:spatial>New York (State)--Gazetteers</dcterms:spatial>
+<dc:description>2nd edition, with additions and corrections</dc:description>
+<dc:publisher>C. Van Benthuysen &amp; co.</dc:publisher>
+<dcterms:created>1843</dcterms:created>
+<dcterms:extent>479 pages ; 21 cm</dcterms:extent>
+<dcterms:rightsHolder>Library of Congress</dcterms:rightsHolder>
+<dc:identifier>F117 .D61g 1843</dc:identifier>
+<dc:identifier>dh-ot-f117d61g1843</dc:identifier>
+<dcterms:issued>2008-09-13</dcterms:issued>
+<dc:source>http://www.archive.org/details/gazetteerofstate00dist</dc:source>
+<dc:language>eng</dc:language>
+<dcterms:accessRights>This item is not in the collections of Fordham University Libraries.  This record and a link to the digitized copy of this item has been included in Digital Hudson for research purposes only. For any inquiries about this item, please contact:  Library of Congress http://www.loc.gov</dcterms:accessRights>
+<dcterms:bibliographicCitation>Albany</dcterms:bibliographicCitation>
+<dc:identifier>http://libdigcoll2.library.fordham.edu/cdm/ref/collection/digi_hudson/id/10713</dc:identifier></oai_qdc:qualifieddc>
+</metadata>
+</record><record><header><identifier>oai:libdigcoll2.library.fordham.edu:digi_hudson/10714</identifier><datestamp>2015-06-12</datestamp><setSpec>digi_hudson</setSpec></header>
+<metadata>
+<oai_qdc:qualifieddc xmlns:oai_qdc="http://worldcat.org/xmlschemas/qdc-1.0/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://worldcat.org/xmlschemas/qdc-1.0/ http://worldcat.org/xmlschemas/qdc/1.0/qdc-1.0.xsd http://purl.org/net/oclcterms http://worldcat.org/xmlschemas/oclcterms/1.4/oclcterms-1.4.xsd">
+<dc:title>Gazetteer of the state of New-York : comprising its topography, geology, mineralogical resources, civil divisions, canals, railroads and public institutions, together with general statistics, the whole alphabetically arranged : also, statistical tables, including the census of 1840, and tables of distances : with a new township map of the state, engraved on steel</dc:title>
+<dc:creator>Disturnell, John, 1801-1877--author</dc:creator>
+<dc:contributor>Holley, O. L. (Orville Luther), 1791-1861</dc:contributor>
+<dcterms:spatial>New York (State)--Gazetteers</dcterms:spatial>
+<dc:description>Attributed to O.L. Holley by Sabin, Cushing, and Bradford, though Roorbach attributes it to Disturnell. Second edition (Albany, 1843) has Disturnell&#x27;s name on title page as compiler; Preface dated Albany, March, 1842.</dc:description>
+<dc:publisher>J. Disturnell</dc:publisher>
+<dcterms:created>1842</dcterms:created>
+<dcterms:extent>479 pages, 2 leaves of plates (1 folded) : illustrations, map ; 21 cm</dcterms:extent>
+<dcterms:rightsHolder>Library of Congress</dcterms:rightsHolder>
+<dc:identifier>F117 .D6</dc:identifier>
+<dc:identifier>dh-ot-f117d6</dc:identifier>
+<dcterms:issued>2010-06-05</dcterms:issued>
+<dc:source>http://lccn.loc.gov/32006808</dc:source>
+<dc:language>eng</dc:language>
+<dcterms:accessRights>This item is not in the collections of Fordham University Libraries.  This record and a link to the digitized copy of this item has been included in Digital Hudson for research purposes only. For any inquiries about this item, please contact:  Library of Congress http://www.loc.gov</dcterms:accessRights>
+<dcterms:isReferencedBy>Sabin, 32534; Bradford, T.L. Bibl. manual, 2350</dcterms:isReferencedBy>
+<dcterms:bibliographicCitation>Albany</dcterms:bibliographicCitation>
+<dc:identifier>http://libdigcoll2.library.fordham.edu/cdm/ref/collection/digi_hudson/id/10714</dc:identifier></oai_qdc:qualifieddc>
+</metadata>
+</record><record><header><identifier>oai:libdigcoll2.library.fordham.edu:digi_hudson/10715</identifier><datestamp>2015-06-12</datestamp><setSpec>digi_hudson</setSpec></header>
+<metadata>
+<oai_qdc:qualifieddc xmlns:oai_qdc="http://worldcat.org/xmlschemas/qdc-1.0/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://worldcat.org/xmlschemas/qdc-1.0/ http://worldcat.org/xmlschemas/qdc/1.0/qdc-1.0.xsd http://purl.org/net/oclcterms http://worldcat.org/xmlschemas/oclcterms/1.4/oclcterms-1.4.xsd">
+<dc:title>History of the barge canal of New York state / by Noble E. Whitford, Senior Assistant Engineer, State Engineer&#x27;s Department ... Under authority of Frank M. Williams, State Engineer and Surveyor</dc:title>
+<dc:format>New York (State). State Engineer and Surveyor--author</dc:format>
+<dc:contributor>Whitford, Noble E. --author; Williams, Frank M. (Frank Martin), 1873- --author</dc:contributor>
+<dcterms:spatial>New York State Canal System (N.Y.)</dcterms:spatial>
+<dc:description>Supplement to the annual report of the State Engineer and Surveyor for the year ended June 30, 1921</dc:description>
+<dc:publisher>J.B. Lyon Co., printers</dc:publisher>
+<dcterms:created>1922</dcterms:created>
+<dcterms:extent>610 pages, 30 unnumbered leaves of plates : frontispiece, portraits; 23 cm</dcterms:extent>
+<dcterms:rightsHolder>Cornell University. Library</dcterms:rightsHolder>
+<dc:identifier>TC624.N7 A1</dc:identifier>
+<dc:description>Includes tables of engineers (pages 575-584) and index</dc:description>
+<dc:identifier>dh-ot-tc624n7a1</dc:identifier>
+<dcterms:issued>2009-10-23</dcterms:issued>
+<dc:source>http://www.archive.org/details/cu31924014043560</dc:source>
+<dc:language>eng</dc:language>
+<dcterms:accessRights>This item is not in the collections of Fordham University Libraries.  This record and a link to the digitized copy of this item has been included in Digital Hudson for research purposes only. For any inquiries about this item, please contact:  Cornell University Library https://www.library.cornell.edu/</dcterms:accessRights>
+<dcterms:isPartOf>New York (State). State Engineer and Surveyor. Annual report ; 1921. Suppl.</dcterms:isPartOf>
+<dcterms:bibliographicCitation>Albany</dcterms:bibliographicCitation>
+<dc:identifier>http://libdigcoll2.library.fordham.edu/cdm/ref/collection/digi_hudson/id/10715</dc:identifier></oai_qdc:qualifieddc>
+</metadata>
+</record><record><header><identifier>oai:libdigcoll2.library.fordham.edu:digi_hudson/10716</identifier><datestamp>2015-06-12</datestamp><setSpec>digi_hudson</setSpec></header>
+<metadata>
+<oai_qdc:qualifieddc xmlns:oai_qdc="http://worldcat.org/xmlschemas/qdc-1.0/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://worldcat.org/xmlschemas/qdc-1.0/ http://worldcat.org/xmlschemas/qdc/1.0/qdc-1.0.xsd http://purl.org/net/oclcterms http://worldcat.org/xmlschemas/oclcterms/1.4/oclcterms-1.4.xsd">
+<dc:title>Colton&#x27;s Traveler and tourist&#x27;s guide-book through the United States of America and the Canadas; containing the routes and distances on the great lines of travel, by railroads, canals, stage-roads, and steamboats; together with descriptions of the several states, and of the principal cities, towns, and villages in each. Accompanied with a large and accurate map.</dc:title>
+<dc:creator>Colton, J. H. (Joseph Hutchins), 1800-1893--author</dc:creator>
+<dc:subject>Canals</dc:subject>
+<dcterms:spatial>United States--Guidebooks; Canada--Guidebooks</dcterms:spatial>
+<dc:description>Principal canals: pages 241-249</dc:description>
+<dc:publisher>J.H. Colton &amp; Co.</dc:publisher>
+<dcterms:created>1854</dcterms:created>
+<dcterms:extent>xiv, 250, 32 pages : color folded map in back ; 15 cm</dcterms:extent>
+<dcterms:rightsHolder>Bancroft Library</dcterms:rightsHolder>
+<dc:identifier>E158 .C7 1855</dc:identifier>
+<dc:identifier>dh-ot-e158c71855</dc:identifier>
+<dcterms:issued>2006-11-09</dcterms:issued>
+<dc:source>http://oskicat.berkeley.edu/record=b10363893~S6</dc:source>
+<dc:language>eng</dc:language>
+<dcterms:accessRights>This item is not in the collections of Fordham University Libraries.  This record and a link to the digitized copy of this item has been included in Digital Hudson for research purposes only. For any inquiries about this item, please contact:  Bancroft Library, University of California http://bancroft.berkeley.edu/</dcterms:accessRights>
+<dcterms:bibliographicCitation>New York</dcterms:bibliographicCitation>
+<dc:identifier>http://libdigcoll2.library.fordham.edu/cdm/ref/collection/digi_hudson/id/10716</dc:identifier></oai_qdc:qualifieddc>
+</metadata>
+</record><record><header><identifier>oai:libdigcoll2.library.fordham.edu:digi_hudson/10717</identifier><datestamp>2015-06-12</datestamp><setSpec>digi_hudson</setSpec></header>
+<metadata>
+<oai_qdc:qualifieddc xmlns:oai_qdc="http://worldcat.org/xmlschemas/qdc-1.0/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://worldcat.org/xmlschemas/qdc-1.0/ http://worldcat.org/xmlschemas/qdc/1.0/qdc-1.0.xsd http://purl.org/net/oclcterms http://worldcat.org/xmlschemas/oclcterms/1.4/oclcterms-1.4.xsd">
+<dc:title>Artificial waterways and commercial development (with a history of the Erie canal) / by A. Barton Hepburn</dc:title>
+<dc:creator>Hepburn, A. Barton (Alonzo Barton), 1846-1922--author</dc:creator>
+<dc:subject>Canals</dc:subject>
+<dcterms:spatial>Erie Canal (N.Y.)</dcterms:spatial>
+<dc:publisher>Macmillan</dc:publisher>
+<dcterms:created>1909</dcterms:created>
+<dcterms:extent>ix, 115 pages : illustrations ; 20 cm</dcterms:extent>
+<dcterms:rightsHolder>University of Michigan. Library</dcterms:rightsHolder>
+<dc:identifier>HE381 .H5 1909</dc:identifier>
+<dc:identifier>dh-ot-he381h51909</dc:identifier>
+<dc:source>http://lccn.loc.gov/09003307</dc:source>
+<dc:language>eng</dc:language>
+<dcterms:accessRights>This item is not in the collections of Fordham University Libraries.  This record and a link to the digitized copy of this item has been included in Digital Hudson for research purposes only. For any inquiries about this item, please contact:  University of Michigan Library http://www.lib.umich.edu/</dcterms:accessRights>
+<dcterms:bibliographicCitation>New York</dcterms:bibliographicCitation>
+<dc:identifier>http://libdigcoll2.library.fordham.edu/cdm/ref/collection/digi_hudson/id/10717</dc:identifier></oai_qdc:qualifieddc>
+</metadata>
+</record><record><header><identifier>oai:libdigcoll2.library.fordham.edu:digi_hudson/10718</identifier><datestamp>2015-06-12</datestamp><setSpec>digi_hudson</setSpec></header>
+<metadata>
+<oai_qdc:qualifieddc xmlns:oai_qdc="http://worldcat.org/xmlschemas/qdc-1.0/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://worldcat.org/xmlschemas/qdc-1.0/ http://worldcat.org/xmlschemas/qdc/1.0/qdc-1.0.xsd http://purl.org/net/oclcterms http://worldcat.org/xmlschemas/oclcterms/1.4/oclcterms-1.4.xsd">
+<dc:title>The tourist or pocket manual for travellers: on the Hudson River, the Western and Northern canals and railroads, and stage routes to Niagara Falls and down Lake Ontario and the St. Lawrence to Montreal and Quebec, comprising also the routes to Lebanon, Ballston, and Saratoga Springs; with many new and interesting details</dc:title>
+<dc:creator>Vandewater, Robert J.</dc:creator>
+<dc:subject>Steamboats--New York (State); Canals--New York (State)</dc:subject>
+<dcterms:spatial>New York (State)--Description and travel; Saint Lawrence River--Description and travel</dcterms:spatial>
+<dc:publisher>Harper &amp; Bros. </dc:publisher>
+<dcterms:created>1838</dcterms:created>
+<dcterms:extent>108 pages : 1 folded map ; 16 cm</dcterms:extent>
+<dcterms:rightsHolder>Library of Congress</dcterms:rightsHolder>
+<dc:identifier>F123.V26</dc:identifier>
+<dc:identifier>dh-ot-f123v26</dc:identifier>
+<dcterms:issued>2008-07-31</dcterms:issued>
+<dc:source>http://www.archive.org/details/touristorpocketm00vando</dc:source>
+<dc:language>eng</dc:language>
+<dcterms:accessRights>This item is not in the collections of Fordham University Libraries.  This record and a link to the digitized copy of this item has been included in Digital Hudson for research purposes only. For any inquiries about this item, please contact:  Library of Congress http://www.loc.gov</dcterms:accessRights>
+<dcterms:isReferencedBy>Howes, V28</dcterms:isReferencedBy>
+<dcterms:bibliographicCitation>New York</dcterms:bibliographicCitation>
+<dc:identifier>http://libdigcoll2.library.fordham.edu/cdm/ref/collection/digi_hudson/id/10718</dc:identifier></oai_qdc:qualifieddc>
+</metadata>
+</record><record><header><identifier>oai:libdigcoll2.library.fordham.edu:digi_hudson/10719</identifier><datestamp>2015-06-12</datestamp><setSpec>digi_hudson</setSpec></header>
+<metadata>
+<oai_qdc:qualifieddc xmlns:oai_qdc="http://worldcat.org/xmlschemas/qdc-1.0/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://worldcat.org/xmlschemas/qdc-1.0/ http://worldcat.org/xmlschemas/qdc/1.0/qdc-1.0.xsd http://purl.org/net/oclcterms http://worldcat.org/xmlschemas/oclcterms/1.4/oclcterms-1.4.xsd">
+<dc:title>Charter of the Morris Canal and Banking Company : and the several acts of the legislature in relation thereto.</dc:title>
+<dc:format>Morris Canal and Banking Company--author</dc:format>
+<dc:contributor>Narine, James</dc:contributor>
+<dcterms:spatial>Morris Canal (N.J.)</dcterms:spatial>
+<dcterms:medium>Morris Canal and Banking Company</dcterms:medium>
+<dc:publisher>J. Narine</dc:publisher>
+<dcterms:created>1836</dcterms:created>
+<dcterms:extent>31 pages ; 24 cm</dcterms:extent>
+<dcterms:rightsHolder>University of Pittsburgh. University Libraries</dcterms:rightsHolder>
+<dc:identifier>TC625.M8 .A5</dc:identifier>
+<dc:identifier>dh-ot-tc625m8a5</dc:identifier>
+<dcterms:issued>2009-04-28</dcterms:issued>
+<dc:source>http://www.archive.org/details/charterofmorrisc00morr</dc:source>
+<dc:language>eng</dc:language>
+<dcterms:accessRights>This item is not in the collections of Fordham University Libraries.  This record and a link to the digitized copy of this item has been included in Digital Hudson for research purposes only. For any inquiries about this item, please contact:  University of Pittsburgh Libraries http://www.library.pitt.edu/</dcterms:accessRights>
+<dcterms:bibliographicCitation>New York</dcterms:bibliographicCitation>
+<dc:identifier>http://libdigcoll2.library.fordham.edu/cdm/ref/collection/digi_hudson/id/10719</dc:identifier></oai_qdc:qualifieddc>
+</metadata>
+</record><record><header><identifier>oai:libdigcoll2.library.fordham.edu:digi_hudson/10720</identifier><datestamp>2015-06-12</datestamp><setSpec>digi_hudson</setSpec></header>
+<metadata>
+<oai_qdc:qualifieddc xmlns:oai_qdc="http://worldcat.org/xmlschemas/qdc-1.0/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://worldcat.org/xmlschemas/qdc-1.0/ http://worldcat.org/xmlschemas/qdc/1.0/qdc-1.0.xsd http://purl.org/net/oclcterms http://worldcat.org/xmlschemas/oclcterms/1.4/oclcterms-1.4.xsd">
+<dc:title>A book of the Hudson: collected from the various works of Diedrich Knickerbocker  / edited by Geoffrey Crayon.</dc:title>
+<dc:creator>Irving, Washington, 1783-1859--author</dc:creator>
+<dcterms:spatial>Hudson River (N.Y. and N.J.)--Fiction</dcterms:spatial>
+<dc:description>Error on contents page, Communipaw listed as page 7 instead of page 9</dc:description>
+<dc:publisher>G. P. Putnam</dc:publisher>
+<dcterms:created>1849</dcterms:created>
+<dcterms:extent>215 pages  ; 16 cm</dcterms:extent>
+<dcterms:rightsHolder>Library of Congress</dcterms:rightsHolder>
+<dc:identifier>F127.H8 I86 1849a</dc:identifier>
+<dcterms:tableOfContents>Communipaw -- Guests from Gibbet Island -- Peter Stuyvesant&#x27;s voyage up the Hudson -- The chronicle of Bearn Island -- The legend of Sleepy Hollow -- Dolph Heyliger -- Rip Van Winkle -- Wolfert Webber</dcterms:tableOfContents>
+<dc:identifier>dh-ot-f127h8i861849a</dc:identifier>
+<dcterms:issued>2008-08-06</dcterms:issued>
+<dc:source>http://hdl.loc.gov/loc.gdc/scd0001.00032144597</dc:source>
+<dc:language>eng</dc:language>
+<dcterms:accessRights>This item is not in the collections of Fordham University Libraries.  This record and a link to the digitized copy of this item has been included in Digital Hudson for research purposes only. For any inquiries about this item, please contact:  Library of Congress http://www.loc.gov</dcterms:accessRights>
+<dcterms:bibliographicCitation>New York</dcterms:bibliographicCitation>
+<dc:identifier>http://libdigcoll2.library.fordham.edu/cdm/ref/collection/digi_hudson/id/10720</dc:identifier></oai_qdc:qualifieddc>
+</metadata>
+</record><record><header><identifier>oai:libdigcoll2.library.fordham.edu:digi_hudson/10721</identifier><datestamp>2015-06-12</datestamp><setSpec>digi_hudson</setSpec></header>
+<metadata>
+<oai_qdc:qualifieddc xmlns:oai_qdc="http://worldcat.org/xmlschemas/qdc-1.0/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://worldcat.org/xmlschemas/qdc-1.0/ http://worldcat.org/xmlschemas/qdc/1.0/qdc-1.0.xsd http://purl.org/net/oclcterms http://worldcat.org/xmlschemas/oclcterms/1.4/oclcterms-1.4.xsd">
+<dc:title>The water witch / by James Fenimore Cooper ; with an introudction by Susan Fenimore Cooper</dc:title>
+<dc:creator>Cooper, James Fenimore, 1789-1851--author</dc:creator>
+<dc:contributor>Cooper, Susan Fenimore, 1813-1894--author of introduction</dc:contributor>
+<dc:subject>Sea stories, American; Seafaring life</dc:subject>
+<dcterms:spatial>Hudson River (N.Y. and N.J.)</dcterms:spatial>
+<dc:publisher>George Routledge &amp; Sons ; E.P. Dutton</dc:publisher>
+<dcterms:created>1830?</dcterms:created>
+<dcterms:extent>xxiii, 445 pages ; 20 cm</dcterms:extent>
+<dcterms:rightsHolder>University of Toronto. Library</dcterms:rightsHolder>
+<dc:identifier>PS1418.W3 1830</dc:identifier>
+<dc:identifier>dh-ot-ps1418w31899</dc:identifier>
+<dcterms:issued>2007-12-03</dcterms:issued>
+<dc:source>http://www.archive.org/details/waterwitchwithin00coopuoft</dc:source>
+<dc:language>eng</dc:language>
+<dcterms:accessRights>This item is not in the collections of Fordham University Libraries.  This record and a link to the digitized copy of this item has been included in Digital Hudson for research purposes only. For any inquiries about this item, please contact:  University of Toronto Library http://onesearch.library.utoronto.ca/</dcterms:accessRights>
+<dcterms:bibliographicCitation>London ; New York</dcterms:bibliographicCitation>
+<dc:identifier>http://libdigcoll2.library.fordham.edu/cdm/ref/collection/digi_hudson/id/10721</dc:identifier></oai_qdc:qualifieddc>
+</metadata>
+</record><record><header><identifier>oai:libdigcoll2.library.fordham.edu:digi_hudson/10722</identifier><datestamp>2015-06-12</datestamp><setSpec>digi_hudson</setSpec></header>
+<metadata>
+<oai_qdc:qualifieddc xmlns:oai_qdc="http://worldcat.org/xmlschemas/qdc-1.0/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://worldcat.org/xmlschemas/qdc-1.0/ http://worldcat.org/xmlschemas/qdc/1.0/qdc-1.0.xsd http://purl.org/net/oclcterms http://worldcat.org/xmlschemas/oclcterms/1.4/oclcterms-1.4.xsd">
+<dc:title>The Hudson Highlands / by the author of The Hudson by daylight</dc:title>
+<dc:creator>Bruce, Wallace, 1844-1914--author</dc:creator>
+<dcterms:spatial>Hudson River (N.Y. and N.J.)--Description and travel</dcterms:spatial>
+<dc:description>Advertisements: [5] pages at end, and on paper covers</dc:description>
+<dc:publisher>Gaylord Watson</dc:publisher>
+<dcterms:created>1876</dcterms:created>
+<dcterms:dateCopyrighted>1876</dcterms:dateCopyrighted>
+<dcterms:extent>28 unnumbered pages : illustrations ; 17 cm</dcterms:extent>
+<dcterms:rightsHolder>Library of Congress</dcterms:rightsHolder>
+<dc:identifier>F127.H8 B815</dc:identifier>
+<dc:identifier>dh-ot-f127h8b815</dc:identifier>
+<dcterms:issued>2008-08-13</dcterms:issued>
+<dc:source>http://www.archive.org/details/hudsonhighlands00bruc</dc:source>
+<dc:language>eng</dc:language>
+<dcterms:accessRights>This item is not in the collections of Fordham University Libraries.  This record and a link to the digitized copy of this item has been included in Digital Hudson for research purposes only. For any inquiries about this item, please contact:  Library of Congress http://www.loc.gov</dcterms:accessRights>
+<dcterms:bibliographicCitation>New York</dcterms:bibliographicCitation>
+<dc:identifier>http://libdigcoll2.library.fordham.edu/cdm/ref/collection/digi_hudson/id/10722</dc:identifier></oai_qdc:qualifieddc>
+</metadata>
+</record><record><header><identifier>oai:libdigcoll2.library.fordham.edu:digi_hudson/10723</identifier><datestamp>2015-06-12</datestamp><setSpec>digi_hudson</setSpec></header>
+<metadata>
+<oai_qdc:qualifieddc xmlns:oai_qdc="http://worldcat.org/xmlschemas/qdc-1.0/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://worldcat.org/xmlschemas/qdc-1.0/ http://worldcat.org/xmlschemas/qdc/1.0/qdc-1.0.xsd http://purl.org/net/oclcterms http://worldcat.org/xmlschemas/oclcterms/1.4/oclcterms-1.4.xsd">
+<dc:title>An account of the British expedition about the highlands of the Hudson river, and of the events connected with the burning of Kingston in 1777 : read before the Ulster Historical Society / by George W. Pratt.</dc:title>
+<dc:creator>Pratt, George W. (George Watson), 1830-1862--author</dc:creator>
+<dc:subject>Clinton&#x27;s Hudson River Expedition, 1777</dc:subject>
+<dcterms:spatial>Kingston (N.Y.)--History--Burning by the British, 1777</dcterms:spatial>
+<dc:publisher>Munsell &amp; Rowland</dc:publisher>
+<dcterms:created>1861</dcterms:created>
+<dcterms:extent>73 pages ; 23 cm</dcterms:extent>
+<dcterms:rightsHolder>Library of Congress</dcterms:rightsHolder>
+<dc:identifier>E233 .P91</dc:identifier>
+<dc:identifier>dh-ot-e233p91</dc:identifier>
+<dcterms:issued>2009-06-18</dcterms:issued>
+<dc:source>http://hdl.loc.gov/loc.gdc/scd0001.00005706154</dc:source>
+<dc:language>eng</dc:language>
+<dcterms:accessRights>This item is not in the collections of Fordham University Libraries.  This record and a link to the digitized copy of this item has been included in Digital Hudson for research purposes only. For any inquiries about this item, please contact:  Library of Congress http://www.loc.gov</dcterms:accessRights>
+<dcterms:bibliographicCitation>Albany</dcterms:bibliographicCitation>
+<dc:identifier>http://libdigcoll2.library.fordham.edu/cdm/ref/collection/digi_hudson/id/10723</dc:identifier></oai_qdc:qualifieddc>
+</metadata>
+</record><record><header><identifier>oai:libdigcoll2.library.fordham.edu:digi_hudson/10724</identifier><datestamp>2015-06-12</datestamp><setSpec>digi_hudson</setSpec></header>
+<metadata>
+<oai_qdc:qualifieddc xmlns:oai_qdc="http://worldcat.org/xmlschemas/qdc-1.0/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://worldcat.org/xmlschemas/qdc-1.0/ http://worldcat.org/xmlschemas/qdc/1.0/qdc-1.0.xsd http://purl.org/net/oclcterms http://worldcat.org/xmlschemas/oclcterms/1.4/oclcterms-1.4.xsd">
+<dc:title>The traveller&#x27;s steamboat and railroad guide to the Hudson River; describing the cities, towns, and places of interest along the route, with maps and engravings</dc:title>
+<dc:creator>Phelps, Humphrey--author</dc:creator>
+<dc:subject>Hudson River (N.Y. and N.J.)--Guidebooks</dc:subject>
+<dcterms:spatial>Hudson River (N.Y. and N.J.)</dcterms:spatial>
+<dc:description>&quot;Entered, according to act of Congress, in the year 1857, by Humphrey Phelps&quot;</dc:description>
+<dc:publisher>Phelps &amp; Watson</dc:publisher>
+<dcterms:created>1857</dcterms:created>
+<dcterms:dateCopyrighted>1857</dcterms:dateCopyrighted>
+<dcterms:extent>50 pages ; illustrations, folded map ; 23 cm</dcterms:extent>
+<dcterms:rightsHolder>Library of Congress</dcterms:rightsHolder>
+<dc:identifier>F127.H8 T8</dc:identifier>
+<dc:identifier>dh-ot-f127h8t8</dc:identifier>
+<dcterms:issued>2009-03-26</dcterms:issued>
+<dc:source>http://www.archive.org/details/travellerssteamb00new</dc:source>
+<dc:language>eng</dc:language>
+<dcterms:accessRights>This item is not in the collections of Fordham University Libraries.  This record and a link to the digitized copy of this item has been included in Digital Hudson for research purposes only. For any inquiries about this item, please contact:  Library of Congress http://www.loc.gov</dcterms:accessRights>
+<dcterms:bibliographicCitation>New York</dcterms:bibliographicCitation>
+<dc:identifier>http://libdigcoll2.library.fordham.edu/cdm/ref/collection/digi_hudson/id/10724</dc:identifier></oai_qdc:qualifieddc>
+</metadata>
+</record><record><header><identifier>oai:libdigcoll2.library.fordham.edu:digi_hudson/10725</identifier><datestamp>2015-06-12</datestamp><setSpec>digi_hudson</setSpec></header>
+<metadata>
+<oai_qdc:qualifieddc xmlns:oai_qdc="http://worldcat.org/xmlschemas/qdc-1.0/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://worldcat.org/xmlschemas/qdc-1.0/ http://worldcat.org/xmlschemas/qdc/1.0/qdc-1.0.xsd http://purl.org/net/oclcterms http://worldcat.org/xmlschemas/oclcterms/1.4/oclcterms-1.4.xsd">
+<dc:title>The tourist&#x27;s guide through the Empire state, embracing all cities, towns and watering places, by Hudson river and New York central route / ed. and pub. by Mrs. S.S. Colt</dc:title>
+<dc:contributor>Colt, S. S. , Mrs.--editor--publisher</dc:contributor>
+<dcterms:spatial>New York (State)--Guidebooks</dcterms:spatial>
+<dcterms:medium>New York Central and Hudson River Railroad Company</dcterms:medium>
+<dc:description>Advertising matter: pages 223-239 (page 239 printed on inside of back paper cover)</dc:description>
+<dc:publisher>Mrs. S.S. Colt</dc:publisher>
+<dcterms:created>1871</dcterms:created>
+<dcterms:extent>239 pages : illustrations ; 23 cm</dcterms:extent>
+<dcterms:rightsHolder>Library of Congress</dcterms:rightsHolder>
+<dc:identifier>F124.C72</dc:identifier>
+<dc:identifier>dh-ot-f124c72</dc:identifier>
+<dc:source>http://lccn.loc.gov/01015895</dc:source>
+<dc:language>eng</dc:language>
+<dcterms:accessRights>This item is not in the collections of Fordham University Libraries.  This record and a link to the digitized copy of this item has been included in Digital Hudson for research purposes only. For any inquiries about this item, please contact:  Library of Congress http://www.loc.gov</dcterms:accessRights>
+<dcterms:bibliographicCitation>Albany, N.Y.</dcterms:bibliographicCitation>
+<dc:identifier>http://libdigcoll2.library.fordham.edu/cdm/ref/collection/digi_hudson/id/10725</dc:identifier></oai_qdc:qualifieddc>
+</metadata>
+</record><record><header><identifier>oai:libdigcoll2.library.fordham.edu:digi_hudson/10726</identifier><datestamp>2015-06-12</datestamp><setSpec>digi_hudson</setSpec></header>
+<metadata>
+<oai_qdc:qualifieddc xmlns:oai_qdc="http://worldcat.org/xmlschemas/qdc-1.0/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://worldcat.org/xmlschemas/qdc-1.0/ http://worldcat.org/xmlschemas/qdc/1.0/qdc-1.0.xsd http://purl.org/net/oclcterms http://worldcat.org/xmlschemas/oclcterms/1.4/oclcterms-1.4.xsd">
+<dc:title>The picturesque Hudson, handy and complete: Palisades, Highlands, Catskills, cities, towns and villages</dc:title>
+<dcterms:spatial>Hudson River (N.Y. and N.J.)--Pictorial works</dcterms:spatial>
+<dc:publisher>Bryant Literary Union</dc:publisher>
+<dcterms:created>1889</dcterms:created>
+<dcterms:dateCopyrighted>1889</dcterms:dateCopyrighted>
+<dcterms:extent>56 unnumbered pages : chiefly illustrations, color maps ; 10 x 19 cm</dcterms:extent>
+<dcterms:rightsHolder>Library of Congress</dcterms:rightsHolder>
+<dc:identifier>F127.H8 P53 1889</dc:identifier>
+<dc:identifier>dh-ot-f127h8p531889</dc:identifier>
+<dcterms:issued>2008-08-16</dcterms:issued>
+<dc:source>http://www.archive.org/details/picturesquehudso00brya</dc:source>
+<dc:language>eng</dc:language>
+<dcterms:accessRights>This item is not in the collections of Fordham University Libraries.  This record and a link to the digitized copy of this item has been included in Digital Hudson for research purposes only. For any inquiries about this item, please contact:  Library of Congress http://www.loc.gov</dcterms:accessRights>
+<dcterms:bibliographicCitation>New York</dcterms:bibliographicCitation>
+<dc:identifier>http://libdigcoll2.library.fordham.edu/cdm/ref/collection/digi_hudson/id/10726</dc:identifier></oai_qdc:qualifieddc>
+</metadata>
+</record><record><header><identifier>oai:libdigcoll2.library.fordham.edu:digi_hudson/10727</identifier><datestamp>2015-06-12</datestamp><setSpec>digi_hudson</setSpec></header>
+<metadata>
+<oai_qdc:qualifieddc xmlns:oai_qdc="http://worldcat.org/xmlschemas/qdc-1.0/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://worldcat.org/xmlschemas/qdc-1.0/ http://worldcat.org/xmlschemas/qdc/1.0/qdc-1.0.xsd http://purl.org/net/oclcterms http://worldcat.org/xmlschemas/oclcterms/1.4/oclcterms-1.4.xsd">
+<dc:title>Tompkins, and other folks : stories of the Hudson and the Adirondacks / by P. Deming</dc:title>
+<dc:creator>Deming, P. (Philander), 1829-1915--author</dc:creator>
+<dc:subject>Mountain life--Fiction; River life--Fiction</dc:subject>
+<dcterms:spatial>Hudson River Valley (N.Y. and N.J.)--Fiction; Adirondack Mountains (N.Y.)--Fiction</dcterms:spatial>
+<dc:description>Three of these sketches originally appeared in the Atlantic Monthly, two in Lippincott&#x27;s Magazine, and one in Harper&#x27;s Christmas</dc:description>
+<dc:publisher>Houghton, Mifflin and Company</dc:publisher>
+<dcterms:created>1885</dcterms:created>
+<dcterms:extent>3 unnumbered leaves, 223 pages ; 15 cm</dcterms:extent>
+<dcterms:rightsHolder>Harvard College Library</dcterms:rightsHolder>
+<dc:identifier>PS1534.D4</dc:identifier>
+<dcterms:tableOfContents>Tompkins -- Rube Jones -- Jacob&#x27;s insurance --Mr. Toby&#x27;s wedding journey -- Hattie&#x27;s romance -- The court in Schoharie -- An Adirondack home</dcterms:tableOfContents>
+<dc:identifier>dh-ot-ps1534d4</dc:identifier>
+<dc:source>http://lccn.loc.gov/06034004</dc:source>
+<dc:language>eng</dc:language>
+<dcterms:accessRights>This item is not in the collections of Fordham University Libraries.  This record and a link to the digitized copy of this item has been included in Digital Hudson for research purposes only. For any inquiries about this item, please contact:  Harvard College Library http://hcl.harvard.edu/</dcterms:accessRights>
+<dcterms:isReferencedBy>Wright III, 1488</dcterms:isReferencedBy>
+<dcterms:bibliographicCitation>Boston : New York</dcterms:bibliographicCitation>
+<dc:identifier>http://libdigcoll2.library.fordham.edu/cdm/ref/collection/digi_hudson/id/10727</dc:identifier></oai_qdc:qualifieddc>
+</metadata>
+</record><record><header><identifier>oai:libdigcoll2.library.fordham.edu:digi_hudson/10728</identifier><datestamp>2015-06-12</datestamp><setSpec>digi_hudson</setSpec></header>
+<metadata>
+<oai_qdc:qualifieddc xmlns:oai_qdc="http://worldcat.org/xmlschemas/qdc-1.0/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://worldcat.org/xmlschemas/qdc-1.0/ http://worldcat.org/xmlschemas/qdc/1.0/qdc-1.0.xsd http://purl.org/net/oclcterms http://worldcat.org/xmlschemas/oclcterms/1.4/oclcterms-1.4.xsd">
+<dc:title>The Hudson / by Wallace Bruce; illustrated by Alfred Fredericks</dc:title>
+<dc:creator>Bruce, Wallace, 1844-1914--author</dc:creator>
+<dc:contributor>Fredericks, Alfred--illustrator</dc:contributor>
+<dc:subject>Poetry of places</dc:subject>
+<dcterms:spatial>Hudson River (N.Y. and N.J.)--Poetry</dcterms:spatial>
+<dc:publisher>Houghton, Mifflin and company; The Riverside Press</dc:publisher>
+<dcterms:created>1881</dcterms:created>
+<dcterms:dateCopyrighted>1881</dcterms:dateCopyrighted>
+<dcterms:extent>37 pages : illustrations ; 20 cm</dcterms:extent>
+<dcterms:rightsHolder>New York Public Library</dcterms:rightsHolder>
+<dc:identifier>F127.H8 B81 1881</dc:identifier>
+<dc:identifier>dh-ot-f127h8b811881</dc:identifier>
+<dcterms:issued>2008-02-09</dcterms:issued>
+<dc:source>http://www.archive.org/details/hudson00bruc2</dc:source>
+<dc:language>eng</dc:language>
+<dcterms:accessRights>This item is not in the collections of Fordham University Libraries.  This record and a link to the digitized copy of this item has been included in Digital Hudson for research purposes only. For any inquiries about this item, please contact:  New York Public Library  http://www.nypl.org</dcterms:accessRights>
+<dcterms:bibliographicCitation>Boston ; Cambridge</dcterms:bibliographicCitation>
+<dc:identifier>http://libdigcoll2.library.fordham.edu/cdm/ref/collection/digi_hudson/id/10728</dc:identifier></oai_qdc:qualifieddc>
+</metadata>
+</record><record><header><identifier>oai:libdigcoll2.library.fordham.edu:digi_hudson/10729</identifier><datestamp>2015-06-12</datestamp><setSpec>digi_hudson</setSpec></header>
+<metadata>
+<oai_qdc:qualifieddc xmlns:oai_qdc="http://worldcat.org/xmlschemas/qdc-1.0/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://worldcat.org/xmlschemas/qdc-1.0/ http://worldcat.org/xmlschemas/qdc/1.0/qdc-1.0.xsd http://purl.org/net/oclcterms http://worldcat.org/xmlschemas/oclcterms/1.4/oclcterms-1.4.xsd">
+<dc:title>The Hudson River / by S. R. Stoddard</dc:title>
+<dcterms:alternative>The Hudson River illustrated</dcterms:alternative>
+<dc:creator>Stoddard, Seneca Ray, 1844-1917--author</dc:creator>
+<dcterms:spatial>Hudson River (N.Y. and N.J.)--Pictorial works</dcterms:spatial>
+<dc:publisher>Nims &amp; Knight</dc:publisher>
+<dcterms:created>1888</dcterms:created>
+<dcterms:dateCopyrighted>1888</dcterms:dateCopyrighted>
+<dcterms:extent>1 leaf, 9 plates ; 25 x 30 cm</dcterms:extent>
+<dcterms:rightsHolder>Library of Congress</dcterms:rightsHolder>
+<dc:identifier>F127 .H8.S9</dc:identifier>
+<dc:identifier>dh-ot-f127h8s9</dc:identifier>
+<dcterms:issued>2008-08-15</dcterms:issued>
+<dc:source>http://www.archive.org/details/hudsonriver00stod</dc:source>
+<dc:language>eng</dc:language>
+<dcterms:accessRights>This item is not in the collections of Fordham University Libraries.  This record and a link to the digitized copy of this item has been included in Digital Hudson for research purposes only. For any inquiries about this item, please contact:  Library of Congress http://www.loc.gov</dcterms:accessRights>
+<dcterms:bibliographicCitation>Troy, N.Y.</dcterms:bibliographicCitation>
+<dc:identifier>http://libdigcoll2.library.fordham.edu/cdm/ref/collection/digi_hudson/id/10729</dc:identifier></oai_qdc:qualifieddc>
+</metadata>
+</record><record><header><identifier>oai:libdigcoll2.library.fordham.edu:digi_hudson/10730</identifier><datestamp>2015-06-12</datestamp><setSpec>digi_hudson</setSpec></header>
+<metadata>
+<oai_qdc:qualifieddc xmlns:oai_qdc="http://worldcat.org/xmlschemas/qdc-1.0/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://worldcat.org/xmlschemas/qdc-1.0/ http://worldcat.org/xmlschemas/qdc/1.0/qdc-1.0.xsd http://purl.org/net/oclcterms http://worldcat.org/xmlschemas/oclcterms/1.4/oclcterms-1.4.xsd">
+<dc:title>The Adirondacks illustrated containing description of notable features of the region…</dc:title>
+<dc:creator>Stoddard, Seneca Ray, 1844-1917--author--publisher</dc:creator>
+<dcterms:spatial>Adirondack Mountains (N.Y.)--Guidebooks</dcterms:spatial>
+<dc:description>Publisher: S.R. Stoddard; Irregularities in paging; Pages [239]-280, advertising matter</dc:description>
+<dc:publisher>the Author</dc:publisher>
+<dcterms:abstract>24th edition</dcterms:abstract>
+<dcterms:created>1894</dcterms:created>
+<dcterms:extent>xii, 280 pages : illustrations, portraits, maps ; 15 cm</dcterms:extent>
+<dcterms:rightsHolder>Library of Congress</dcterms:rightsHolder>
+<dc:identifier>F127.A2 S725</dc:identifier>
+<dc:identifier>dh-ot-f127a2s725</dc:identifier>
+<dcterms:issued>2008-07-31</dcterms:issued>
+<dc:source>http://www.archive.org/details/adirondacks00stodas</dc:source>
+<dc:language>eng</dc:language>
+<dcterms:accessRights>This item is not in the collections of Fordham University Libraries.  This record and a link to the digitized copy of this item has been included in Digital Hudson for research purposes only. For any inquiries about this item, please contact:  Library of Congress  http://www.loc.gov</dcterms:accessRights>
+<dcterms:bibliographicCitation>Glens Falls, N.Y.</dcterms:bibliographicCitation>
+<dc:identifier>http://libdigcoll2.library.fordham.edu/cdm/ref/collection/digi_hudson/id/10730</dc:identifier></oai_qdc:qualifieddc>
+</metadata>
+</record><record><header><identifier>oai:libdigcoll2.library.fordham.edu:digi_hudson/10731</identifier><datestamp>2015-06-12</datestamp><setSpec>digi_hudson</setSpec></header>
+<metadata>
+<oai_qdc:qualifieddc xmlns:oai_qdc="http://worldcat.org/xmlschemas/qdc-1.0/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://worldcat.org/xmlschemas/qdc-1.0/ http://worldcat.org/xmlschemas/qdc/1.0/qdc-1.0.xsd http://purl.org/net/oclcterms http://worldcat.org/xmlschemas/oclcterms/1.4/oclcterms-1.4.xsd">
+<dc:title>The harbor of New York its condition, May, 1873; letter of Benjamin Peirce to the Chamber of Commerce of New-York ; with the report of Henry Mitchell, on the Physical survey of the harbor</dc:title>
+<dc:creator>Peirce, Benjamin, 1809-1880--author</dc:creator>
+<dc:contributor>Mitchell, Henry, 1830-1902--surveyor</dc:contributor>
+<dc:subject>Harbors--New York (State)--New York</dc:subject>
+<dcterms:spatial>Hudson River (N.Y. and N.J.)</dcterms:spatial>
+<dc:publisher>Press of the Chamber of Commerce</dc:publisher>
+<dcterms:created>1873</dcterms:created>
+<dcterms:extent>38 pages, [4] folded leaves of plates : illustrations, maps ; 22 cm</dcterms:extent>
+<dcterms:rightsHolder>University of Massachusetts Dartmouth</dcterms:rightsHolder>
+<dc:identifier>TC224.N7 P53 1873</dc:identifier>
+<dc:identifier>dh-ot-tc224n7p531873</dc:identifier>
+<dcterms:issued>2008-09-25</dcterms:issued>
+<dc:source>http://www.archive.org/details/harborofnewyorki00peir</dc:source>
+<dc:language>eng</dc:language>
+<dcterms:accessRights>This item is not in the collections of Fordham University Libraries.  This record and a link to the digitized copy of this item has been included in Digital Hudson for research purposes only. For any inquiries about this item, please contact:  Library of the University of Massachusetts Dartmouth http://www.lib.umassd.edu/</dcterms:accessRights>
+<dcterms:bibliographicCitation>New York</dcterms:bibliographicCitation>
+<dc:identifier>http://libdigcoll2.library.fordham.edu/cdm/ref/collection/digi_hudson/id/10731</dc:identifier></oai_qdc:qualifieddc>
+</metadata>
+</record><record><header><identifier>oai:libdigcoll2.library.fordham.edu:digi_hudson/10732</identifier><datestamp>2015-06-12</datestamp><setSpec>digi_hudson</setSpec></header>
+<metadata>
+<oai_qdc:qualifieddc xmlns:oai_qdc="http://worldcat.org/xmlschemas/qdc-1.0/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://worldcat.org/xmlschemas/qdc-1.0/ http://worldcat.org/xmlschemas/qdc/1.0/qdc-1.0.xsd http://purl.org/net/oclcterms http://worldcat.org/xmlschemas/oclcterms/1.4/oclcterms-1.4.xsd">
+<dc:title>Bradley&#x27;s Reminiscences of New York Harbor and complete water front directory of New York, Brooklyn and Jersey City.</dc:title>
+<dc:creator>Bradley, David L.</dc:creator>
+<dc:subject>Harbors--New York (State)--New York--History--19th century; Steamboat lines--New York (State)--New York; Waterfronts--New York (State)--New York</dc:subject>
+<dcterms:spatial>New York Harbor (N.Y. and N.J.)</dcterms:spatial>
+<dc:publisher>[David L. Bradley]</dc:publisher>
+<dcterms:created>[1896?]</dcterms:created>
+<dcterms:extent>61 pages : maps ; 28 cm</dcterms:extent>
+<dcterms:rightsHolder>Library of Congress</dcterms:rightsHolder>
+<dc:identifier>F128 .63 .B81</dc:identifier>
+<dc:identifier>dh-ot-f12863b81</dc:identifier>
+<dcterms:issued>2008-08-06</dcterms:issued>
+<dc:source>http://lccn.loc.gov/01014765</dc:source>
+<dc:language>eng</dc:language>
+<dcterms:accessRights>This item is not in the collections of Fordham University Libraries.  This record and a link to the digitized copy of this item has been included in Digital Hudson for research purposes only. For any inquiries about this item, please contact:  Library of Congress http://www.loc.gov</dcterms:accessRights>
+<dcterms:bibliographicCitation>Bayonne, N.J.</dcterms:bibliographicCitation>
+<dc:identifier>http://libdigcoll2.library.fordham.edu/cdm/ref/collection/digi_hudson/id/10732</dc:identifier></oai_qdc:qualifieddc>
+</metadata>
+</record><record><header><identifier>oai:libdigcoll2.library.fordham.edu:digi_hudson/10733</identifier><datestamp>2015-06-12</datestamp><setSpec>digi_hudson</setSpec></header>
+<metadata>
+<oai_qdc:qualifieddc xmlns:oai_qdc="http://worldcat.org/xmlschemas/qdc-1.0/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://worldcat.org/xmlschemas/qdc-1.0/ http://worldcat.org/xmlschemas/qdc/1.0/qdc-1.0.xsd http://purl.org/net/oclcterms http://worldcat.org/xmlschemas/oclcterms/1.4/oclcterms-1.4.xsd">
+<dc:title>The harbor / by Ernest Poole</dc:title>
+<dc:creator>Poole, Ernest, 1880-1950--author</dc:creator>
+<dc:type>Grosset &amp; Dunlap--printer</dc:type>
+<dc:subject>Radicalism in literature; Socialism--Fiction; Labor unions--Fiction</dc:subject>
+<dcterms:spatial>Brooklyn (New York, N.Y.)--Fiction</dcterms:spatial>
+<dc:publisher>The Macmillan Company</dc:publisher>
+<dcterms:created>1915</dcterms:created>
+<dcterms:extent>387 pages ; 20 cm</dcterms:extent>
+<dcterms:rightsHolder>Bancroft Library</dcterms:rightsHolder>
+<dc:identifier>PS3531.P78h 1915a</dc:identifier>
+<dc:identifier>dh-ot-ps3531p78h1915a</dc:identifier>
+<dcterms:issued>2010-10-30</dcterms:issued>
+<dc:source>http://www.archive.org/details/harborbyernestpo00pooliala</dc:source>
+<dc:language>eng</dc:language>
+<dcterms:accessRights>This item is not in the collections of Fordham University Libraries.  This record and a link to the digitized copy of this item has been included in Digital Hudson for research purposes only. For any inquiries about this item, please contact:  Bancroft Library, University of California http://bancroft.berkeley.edu/</dcterms:accessRights>
+<dcterms:bibliographicCitation>New York</dcterms:bibliographicCitation>
+<dc:identifier>http://libdigcoll2.library.fordham.edu/cdm/ref/collection/digi_hudson/id/10733</dc:identifier></oai_qdc:qualifieddc>
+</metadata>
+</record><record><header><identifier>oai:libdigcoll2.library.fordham.edu:digi_hudson/10734</identifier><datestamp>2015-06-12</datestamp><setSpec>digi_hudson</setSpec></header>
+<metadata>
+<oai_qdc:qualifieddc xmlns:oai_qdc="http://worldcat.org/xmlschemas/qdc-1.0/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://worldcat.org/xmlschemas/qdc-1.0/ http://worldcat.org/xmlschemas/qdc/1.0/qdc-1.0.xsd http://purl.org/net/oclcterms http://worldcat.org/xmlschemas/oclcterms/1.4/oclcterms-1.4.xsd">
+<dc:title>Walling&#x27;s route and city guides: Hudson river</dc:title>
+<dc:creator>Walling, Henry Francis, 1825-1888--author</dc:creator>
+<dc:subject>Maps--New York (State); Railroads--New York (State)</dc:subject>
+<dcterms:spatial>Hudson River (N.Y. and N.J.)</dcterms:spatial>
+<dc:publisher>Taintor Brothers</dc:publisher>
+<dcterms:created>1867</dcterms:created>
+<dcterms:extent>34 pages : illustrations, maps ; 16 cm</dcterms:extent>
+<dcterms:rightsHolder>Library of Congress</dcterms:rightsHolder>
+<dc:identifier>F127 H8W3</dc:identifier>
+<dc:identifier>dh-ot-f127h8w3</dc:identifier>
+<dcterms:issued>2009-03-20</dcterms:issued>
+<dc:source>http://www.archive.org/details/hudsonriver00wall</dc:source>
+<dc:language>eng</dc:language>
+<dcterms:accessRights>This item is not in the collections of Fordham University Libraries.  This record and a link to the digitized copy of this item has been included in Digital Hudson for research purposes only. For any inquiries about this item, please contact:  Library of Congress http://www.loc.gov</dcterms:accessRights>
+<dcterms:bibliographicCitation>New York</dcterms:bibliographicCitation>
+<dc:identifier>http://libdigcoll2.library.fordham.edu/cdm/ref/collection/digi_hudson/id/10734</dc:identifier></oai_qdc:qualifieddc>
+</metadata>
+</record><record><header><identifier>oai:libdigcoll2.library.fordham.edu:digi_hudson/10735</identifier><datestamp>2015-06-12</datestamp><setSpec>digi_hudson</setSpec></header>
+<metadata>
+<oai_qdc:qualifieddc xmlns:oai_qdc="http://worldcat.org/xmlschemas/qdc-1.0/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://worldcat.org/xmlschemas/qdc-1.0/ http://worldcat.org/xmlschemas/qdc/1.0/qdc-1.0.xsd http://purl.org/net/oclcterms http://worldcat.org/xmlschemas/oclcterms/1.4/oclcterms-1.4.xsd">
+<dc:title>The west bank of the Hudson River, Albany to Tappan; notes on its history and legends, its ghost stories and romances / gathered by a wayfaring man who may now and then have erred therein</dc:title>
+<dc:creator>Hine, C.G. (Charles Gilbert), 1859-1931--author</dc:creator>
+<dcterms:spatial>Hudson River Valley (N.Y. and N.J.)</dcterms:spatial>
+<dc:publisher>[publisher not identified]</dc:publisher>
+<dcterms:created>1907</dcterms:created>
+<dcterms:extent>174 pages ; 22 cm</dcterms:extent>
+<dcterms:rightsHolder>Library of Congress</dcterms:rightsHolder>
+<dc:identifier>F127.H8 H265</dc:identifier>
+<dc:identifier>dh-ot-f127h8h265</dc:identifier>
+<dcterms:issued>2008-08-06</dcterms:issued>
+<dc:source>http://www.archive.org/details/westbankofhudson00hine</dc:source>
+<dc:language>eng</dc:language>
+<dcterms:accessRights>This item is not in the collections of Fordham University Libraries.  This record and a link to the digitized copy of this item has been included in Digital Hudson for research purposes only. For any inquiries about this item, please contact:  Library of Congress  http://www.loc.gov</dcterms:accessRights>
+<dcterms:isPartOf>Hine&#x27;s annual, 1906</dcterms:isPartOf>
+<dcterms:bibliographicCitation>[Newark, N.J.?]</dcterms:bibliographicCitation>
+<dc:identifier>http://libdigcoll2.library.fordham.edu/cdm/ref/collection/digi_hudson/id/10735</dc:identifier></oai_qdc:qualifieddc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:libdigcoll2.library.fordham.edu:digi_hudson/10854</identifier><datestamp>2015-03-09</datestamp><setSpec>digi_hudson</setSpec></header>
+</record><record><header><identifier>oai:libdigcoll2.library.fordham.edu:digi_hudson/10855</identifier><datestamp>2015-06-12</datestamp><setSpec>digi_hudson</setSpec></header>
+<metadata>
+<oai_qdc:qualifieddc xmlns:oai_qdc="http://worldcat.org/xmlschemas/qdc-1.0/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://worldcat.org/xmlschemas/qdc-1.0/ http://worldcat.org/xmlschemas/qdc/1.0/qdc-1.0.xsd http://purl.org/net/oclcterms http://worldcat.org/xmlschemas/oclcterms/1.4/oclcterms-1.4.xsd">
+<dc:title>The Hudson and its moods : an idyl of America&#x27;s mightiest, most beautifully scenic, legendary and historical of rivers / by Walter Glen Springer</dc:title>
+<dc:creator>Springer, Walter Glen--author--photographer</dc:creator>
+<dcterms:spatial>Hudson River (N.Y. and N.J.)--Poetry; Hudson River (N.Y. and N.J.)--Pictorial works</dcterms:spatial>
+<dc:description>Illustrated with camera studies</dc:description>
+<dc:publisher>Rogers &amp; Co.</dc:publisher>
+<dcterms:created>1929</dcterms:created>
+<dcterms:extent>111 pages : illustrations; 29 cm</dcterms:extent>
+<dc:identifier>PS3537.P964 H8 1929</dc:identifier>
+<dcterms:isFormatOf>(OCoLC)01600573</dcterms:isFormatOf>
+<dc:identifier>dh-uk-ps3537p964_h8_1929</dc:identifier>
+<dcterms:issued>2015-02-20</dcterms:issued>
+<dc:language>eng</dc:language>
+<dcterms:accessRights>Item is in copyright and has been digitized for non-commercial research purposes only as covered by fair use provisions of United States copyright law.  Any commercial or non-commercial use not covered by fair use, as well as any further redistribution or rehosting is strictly prohibited. Access to item is limited to on-site use at Walsh Library, Fordham University.</dcterms:accessRights>
+<dcterms:bibliographicCitation>New York</dcterms:bibliographicCitation>
+<dc:identifier>http://libdigcoll2.library.fordham.edu/cdm/ref/collection/digi_hudson/id/10855</dc:identifier></oai_qdc:qualifieddc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:libdigcoll2.library.fordham.edu:digi_hudson/10870</identifier><datestamp>2015-03-09</datestamp><setSpec>digi_hudson</setSpec></header>
+</record><record><header><identifier>oai:libdigcoll2.library.fordham.edu:digi_hudson/10871</identifier><datestamp>2015-06-12</datestamp><setSpec>digi_hudson</setSpec></header>
+<metadata>
+<oai_qdc:qualifieddc xmlns:oai_qdc="http://worldcat.org/xmlschemas/qdc-1.0/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://worldcat.org/xmlschemas/qdc-1.0/ http://worldcat.org/xmlschemas/qdc/1.0/qdc-1.0.xsd http://purl.org/net/oclcterms http://worldcat.org/xmlschemas/oclcterms/1.4/oclcterms-1.4.xsd">
+<dc:title>Hudson River / New York Central</dc:title>
+<dc:format>New York Central Lines--author</dc:format>
+<dc:type>Rand McNally and Company--cartographer--printer</dc:type>
+<dc:subject>Railroad travel--Hudson River (N.Y. and N.J.)--Guidebooks</dc:subject>
+<dcterms:spatial>Hudson River (N.Y. and N.J.)--Guidebooks</dcterms:spatial>
+<dcterms:medium>New York Central Lines--Guidebooks</dcterms:medium>
+<dc:publisher>Rand McNally &amp; Co.</dc:publisher>
+<dcterms:created>1925?</dcterms:created>
+<dcterms:extent>46 columns : illustrations, maps ; 23 cm</dcterms:extent>
+<dcterms:rightsHolder>Fordham University. Libraries</dcterms:rightsHolder>
+<dc:identifier>F127.H8 N43 1925</dc:identifier>
+<dc:identifier>dh-uk-f127h8_n43_1925</dc:identifier>
+<dcterms:issued>2015-02-20</dcterms:issued>
+<dc:language>eng</dc:language>
+<dcterms:accessRights>Item is in copyright and has been digitized for non-commercial research purposes only as covered by fair use provisions of United States copyright law.  Any commercial or non-commercial use not covered by fair use, as well as any further redistribution or rehosting is strictly prohibited. Access to item is limited to on-site use at Walsh Library, Fordham University.</dcterms:accessRights>
+<dcterms:bibliographicCitation>New York : Chicago</dcterms:bibliographicCitation>
+<dc:identifier>http://libdigcoll2.library.fordham.edu/cdm/ref/collection/digi_hudson/id/10871</dc:identifier></oai_qdc:qualifieddc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:libdigcoll2.library.fordham.edu:digi_hudson/10907</identifier><datestamp>2015-03-09</datestamp><setSpec>digi_hudson</setSpec></header>
+</record><record><header><identifier>oai:libdigcoll2.library.fordham.edu:digi_hudson/10908</identifier><datestamp>2015-06-12</datestamp><setSpec>digi_hudson</setSpec></header>
+<metadata>
+<oai_qdc:qualifieddc xmlns:oai_qdc="http://worldcat.org/xmlschemas/qdc-1.0/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://worldcat.org/xmlschemas/qdc-1.0/ http://worldcat.org/xmlschemas/qdc/1.0/qdc-1.0.xsd http://purl.org/net/oclcterms http://worldcat.org/xmlschemas/oclcterms/1.4/oclcterms-1.4.xsd">
+<dc:title>Yugoslav motorship Makedonija, maiden voyage : Port of New York, Aug. 25, 1950 / commissioner A. E. Robert Friedman</dc:title>
+<dc:creator>Friedman, Robert A. E.</dc:creator>
+<dc:type>Port of New York Authority--sponsor--issuing body</dc:type>
+<dc:subject>Cargo ships--Yugoslavia--Photographs</dc:subject>
+<dcterms:medium>Makedonija (Motorship)--Photographs; Port of New York Authority--Photographs</dcterms:medium>
+<dc:description>Photographs of the Yugoslavian vessel Makedonija at the Brooklyn Navy Yard and Brooklyn 20th Street Pier, as well as crew members and officials from the Port of New York at a reception for the vessel.  There are also photostats of articles on the reception and the vessel, and of an advertisement card for the ship with the masthead A. Vuyk &amp; Zonen, Shipbuilders, Capelle a.d. Ijssel, Holland.</dc:description>
+<dc:publisher>[Port of New York Authority]</dc:publisher>
+<dcterms:created>1905-05-03</dcterms:created>
+<dcterms:extent>24 photographs in 1 album : black-and-white prints ; album 30 cm, prints 26 x 21 cm</dcterms:extent>
+<dc:identifier>VM395.M35F75 1950</dc:identifier>
+<dc:identifier>dh-uk-vm395m35_F75_1950</dc:identifier>
+<dcterms:issued>2015-02-20</dcterms:issued>
+<dc:language>eng</dc:language>
+<dcterms:bibliographicCitation>New York</dcterms:bibliographicCitation>
+<dc:identifier>http://libdigcoll2.library.fordham.edu/cdm/ref/collection/digi_hudson/id/10908</dc:identifier></oai_qdc:qualifieddc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:libdigcoll2.library.fordham.edu:digi_hudson/11005</identifier><datestamp>2015-03-09</datestamp><setSpec>digi_hudson</setSpec></header>
+</record><record><header><identifier>oai:libdigcoll2.library.fordham.edu:digi_hudson/11006</identifier><datestamp>2015-06-12</datestamp><setSpec>digi_hudson</setSpec></header>
+<metadata>
+<oai_qdc:qualifieddc xmlns:oai_qdc="http://worldcat.org/xmlschemas/qdc-1.0/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://worldcat.org/xmlschemas/qdc-1.0/ http://worldcat.org/xmlschemas/qdc/1.0/qdc-1.0.xsd http://purl.org/net/oclcterms http://worldcat.org/xmlschemas/oclcterms/1.4/oclcterms-1.4.xsd">
+<dc:title>The Hudson River &amp; the highlands : the photographs of Robert Glenn Ketchum / essay by James Thomas Flexner ; afterword by Robert Glenn Ketchum</dc:title>
+<dc:creator>Ketchum, Robert Glenn--photographer--writer of afterword</dc:creator>
+<dc:contributor>Flexner, James Thomas,1908-2003--writer of introduction</dc:contributor>
+<dc:subject>Natural history--Hudson River Valley (N.Y. and N.J.)--Pictorial works</dc:subject>
+<dcterms:spatial>Hudson River (N.Y. and N.J.)--Pictorial works; Hudson River Valley (N.Y. and N.J.)--Pictorial works</dcterms:spatial>
+<dc:description>Photography of trees, rivers and streams</dc:description>
+<dc:publisher>Aperture, distributed in the U.S. by Viking Penguin</dc:publisher>
+<dcterms:created>1985</dcterms:created>
+<dcterms:dateCopyrighted>1985</dcterms:dateCopyrighted>
+<dcterms:extent>87 pages : chiefly color illustrations ; 25 x 29 cm</dcterms:extent>
+<dc:identifier>F127.H8 K46 1985</dc:identifier>
+<dc:identifier>9780893811747</dc:identifier>
+<dcterms:isFormatOf>(OCoLC)14099441</dcterms:isFormatOf>
+<dc:identifier>dh-uk-f127h8_k46_1985</dc:identifier>
+<dcterms:issued>2015-02-20</dcterms:issued>
+<dc:language>eng</dc:language>
+<dcterms:accessRights>Item is in copyright and has been digitized for non-commercial research purposes only as covered by fair use provisions of United States copyright law.  Any commercial or non-commercial use not covered by fair use, as well as any further redistribution or rehosting is strictly prohibited. Access to item is limited to on-site use at Walsh Library, Fordham University.</dcterms:accessRights>
+<dcterms:isVersionOf>Online version: Ketchum, Robert Glenn. Hudson River &amp; the highlands. New York, N.Y. : Aperture : Distributed in the U.S. by Viking Penguin, {copy}1985 (OCoLC)678692300</dcterms:isVersionOf>
+<dcterms:bibliographicCitation>New York</dcterms:bibliographicCitation>
+<dc:identifier>http://libdigcoll2.library.fordham.edu/cdm/ref/collection/digi_hudson/id/11006</dc:identifier></oai_qdc:qualifieddc>
+</metadata>
+</record><record><header status="deleted"><identifier>oai:libdigcoll2.library.fordham.edu:digi_hudson/11183</identifier><datestamp>2015-03-09</datestamp><setSpec>digi_hudson</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:libdigcoll2.library.fordham.edu:digi_hudson/11324</identifier><datestamp>2015-03-09</datestamp><setSpec>digi_hudson</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:libdigcoll2.library.fordham.edu:digi_hudson/11460</identifier><datestamp>2015-03-09</datestamp><setSpec>digi_hudson</setSpec></header>
+</record><record><header status="deleted"><identifier>oai:libdigcoll2.library.fordham.edu:digi_hudson/11600</identifier><datestamp>2015-03-09</datestamp><setSpec>digi_hudson</setSpec></header>
+</record><record><header><identifier>oai:libdigcoll2.library.fordham.edu:digi_hudson/11601</identifier><datestamp>2015-09-01</datestamp><setSpec>digi_hudson</setSpec></header>
+<metadata>
+<oai_qdc:qualifieddc xmlns:oai_qdc="http://worldcat.org/xmlschemas/qdc-1.0/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://worldcat.org/xmlschemas/qdc-1.0/ http://worldcat.org/xmlschemas/qdc/1.0/qdc-1.0.xsd http://purl.org/net/oclcterms http://worldcat.org/xmlschemas/oclcterms/1.4/oclcterms-1.4.xsd">
+<dc:title>The historic Wallkill and Hudson River Valleys</dc:title>
+<dc:format>Wallkill Valley Publishing Association--author--publisher</dc:format>
+<dc:contributor>Hart, William C.--editor</dc:contributor>
+<dcterms:spatial>Wallkill River Valley (N.J. and N.Y.)--Periodicals; Hudson River Valley (N.Y. and N.J.)--Periodicals</dcterms:spatial>
+<dc:description>Published annually</dc:description>
+<dc:publisher>Wallkill Valley Publishing Association</dc:publisher>
+<dcterms:created>1894-</dcterms:created>
+<dcterms:extent>volumes : illustrations, portraits ; 26 cm</dcterms:extent>
+<dc:identifier>F116 .W3</dc:identifier>
+<dcterms:isFormatOf>(OCoLC)13418978</dcterms:isFormatOf>
+<dc:identifier>dh-uk-f116w3</dc:identifier>
+<dcterms:issued>2015-02-20</dcterms:issued>
+<dc:language>eng</dc:language>
+<dcterms:bibliographicCitation>Walden, N.Y.</dcterms:bibliographicCitation>
+<dc:identifier>http://libdigcoll2.library.fordham.edu/cdm/ref/collection/digi_hudson/id/11601</dc:identifier></oai_qdc:qualifieddc>
+</metadata>
+</record><resumptionToken /></ListRecords></OAI-PMH>
